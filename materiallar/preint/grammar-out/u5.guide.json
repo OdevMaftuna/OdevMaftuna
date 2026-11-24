@@ -1,0 +1,251 @@
+[
+ {
+  "name": "will",
+  "name_uz": "Kelajak zamon: will",
+  "summary": "Kelajakdagi taxminlar, va'dalar va shu paytda qabul qilingan qarorlar haqida gapirish uchun will so'zini ishlatamiz.",
+  "usage": [
+   {
+    "text": "Kelajak haqida o'z taxminimizni aytish uchun (ko'pincha I think bilan).",
+    "example": {
+     "en": "I think it will rain tomorrow.",
+     "uz": "O'ylashimcha, ertaga yomg'ir yog'adi."
+    }
+   },
+   {
+    "text": "Va'da berish uchun.",
+    "example": {
+     "en": "I will help you with your homework.",
+     "uz": "Senga uy vazifangni bajarishga yordam beraman."
+    }
+   },
+   {
+    "text": "Gapirayotgan paytimizda qilingan birdan-bir qarorlar (spontaneous decisions) uchun.",
+    "example": {
+     "en": "It's cold here. I'll close the window.",
+     "uz": "Bu yerda sovuq ekan. Men derazani yopaman."
+    }
+   }
+  ],
+  "structure": [
+   {
+    "type": "+",
+    "formula": "Subject + will ('ll) + V1",
+    "example": {
+     "en": "She will come to the party.",
+     "uz": "U ziyofatga keladi."
+    }
+   },
+   {
+    "type": "-",
+    "formula": "Subject + will not (won't) + V1",
+    "example": {
+     "en": "They won't forget your birthday.",
+     "uz": "Ular sening tug'ilgan kuningni unutishmaydi."
+    }
+   },
+   {
+    "type": "?",
+    "formula": "Will + subject + V1?",
+    "example": {
+     "en": "Will you buy a new phone?",
+     "uz": "Yangi telefon sotib olasanmi?"
+    }
+   },
+   {
+    "type": "short",
+    "formula": "Yes, subject + will / No, subject + won't",
+    "example": {
+     "en": "Yes, I will. / No, I won't.",
+     "uz": "Ha. / Yo'q."
+    }
+   }
+  ],
+  "signals": [
+   {
+    "en": "I think",
+    "uz": "o'ylashimcha"
+   },
+   {
+    "en": "I hope",
+    "uz": "umid qilamanki"
+   },
+   {
+    "en": "Perhaps",
+    "uz": "ehtimol"
+   },
+   {
+    "en": "Probably",
+    "uz": "katta ehtimol bilan"
+   },
+   {
+    "en": "Definitely",
+    "uz": "aniq"
+   },
+   {
+    "en": "Tomorrow",
+    "uz": "ertaga"
+   },
+   {
+    "en": "Next week",
+    "uz": "kelasi hafta"
+   }
+  ],
+  "tip": "Eslatma: 'will' so'zidan keyin fe'l hech qanday qo'shimchalarsiz (V1 shaklida) keladi va barcha shaxslar uchun bir xil bo'ladi."
+ },
+ {
+  "name": "be going to",
+  "name_uz": "Kelajak rejalari: be going to",
+  "summary": "Oldindan rejalashtirilgan ishlarimiz va ko'zimiz bilan ko'rib turgan dalillarga asoslangan kelajakdagi voqealar uchun be going to ishlatamiz.",
+  "usage": [
+   {
+    "text": "Oldindan o'ylab qo'yilgan rejalar va niyatlar uchun.",
+    "example": {
+     "en": "We are going to visit our grandparents this weekend.",
+     "uz": "Biz bu dam olish kunlari buvijonimnikiga bormoqchimiz."
+    }
+   },
+   {
+    "text": "Hozirgi ko'rib turgan dalillarimizga qarab sodir bo'ladigan voqealar uchun.",
+    "example": {
+     "en": "Look at those dark clouds! It is going to rain.",
+     "uz": "Anavi qora bulutlarga qarang! Yomg'ir yog'moqchi."
+    }
+   }
+  ],
+  "structure": [
+   {
+    "type": "+",
+    "formula": "Subject + am/is/are + going to + V1",
+    "example": {
+     "en": "I am going to buy a new car.",
+     "uz": "Men yangi mashina sotib olmoqchiman."
+    }
+   },
+   {
+    "type": "-",
+    "formula": "Subject + am/is/are + not + going to + V1",
+    "example": {
+     "en": "He isn't going to watch TV tonight.",
+     "uz": "U bugun kechqurun televizor ko'rmoqchi emas."
+    }
+   },
+   {
+    "type": "?",
+    "formula": "Am/Is/Are + subject + going to + V1?",
+    "example": {
+     "en": "Are you going to travel this summer?",
+     "uz": "Bu yozda sayohat qilmoqchimisan?"
+    }
+   },
+   {
+    "type": "short",
+    "formula": "Yes, subject + am/is/are / No, subject + 'm not / isn't / aren't",
+    "example": {
+     "en": "Yes, I am. / No, she isn't.",
+     "uz": "Ha. / Yo'q."
+    }
+   }
+  ],
+  "signals": [
+   {
+    "en": "Plan",
+    "uz": "reja"
+   },
+   {
+    "en": "Intent",
+    "uz": "niyat"
+   },
+   {
+    "en": "Look at...",
+    "uz": "...ga qarang (dalil)"
+   },
+   {
+    "en": "Tonight",
+    "uz": "bugun kechqurun"
+   },
+   {
+    "en": "Next month",
+    "uz": "kelasi oy"
+   },
+   {
+    "en": "In the future",
+    "uz": "kelajakda"
+   }
+  ],
+  "tip": "Eslatma: 'be' fe'lini (am/is/are) egaga moslab o'zgartirishni unutmang!"
+ },
+ {
+  "name": "First conditional",
+  "name_uz": "Birinchi shart ergash gap: First conditional",
+  "summary": "Hozir yoki kelajakda sodir bo'lish ehtimoli yuqori bo'lgan shartli vaziyatlar va ularning natijalarini bildirish uchun ishlatiladi.",
+  "usage": [
+   {
+    "text": "Real va bajarilishi mumkin bo'lgan shartlarni bildirish uchun.",
+    "example": {
+     "en": "If you study hard, you will pass the exam.",
+     "uz": "Agar qattiq o'qisang, imtihondan o'tasan."
+    }
+   },
+   {
+    "text": "Ogohlantirish yoki va'dalarni ifodalash uchun.",
+    "example": {
+     "en": "If it rains, we will stay at home.",
+     "uz": "Agar yomg'ir yog'sa, uyda qolamiz."
+    }
+   }
+  ],
+  "structure": [
+   {
+    "type": "+",
+    "formula": "If + Present Simple, Subject + will + V1",
+    "example": {
+     "en": "If I have time, I will help you.",
+     "uz": "Agar vaqtim bo'lsa, senga yordam beraman."
+    }
+   },
+   {
+    "type": "-",
+    "formula": "If + don't/doesn't + V1, Subject + won't + V1",
+    "example": {
+     "en": "If she doesn't hurry, she will miss the bus.",
+     "uz": "Agar u shoshilmasa, avtobusdan qolib ketadi."
+    }
+   },
+   {
+    "type": "?",
+    "formula": "Will + subject + V1 + if + Present Simple?",
+    "example": {
+     "en": "What will you do if you win the competition?",
+     "uz": "Agar musobaqada yutib chiqsang, nima qilasan?"
+    }
+   },
+   {
+    "type": "short",
+    "formula": "Yes, I will / No, I won't",
+    "example": {
+     "en": "Yes, I will.",
+     "uz": "Ha, qilaman."
+    }
+   }
+  ],
+  "signals": [
+   {
+    "en": "If",
+    "uz": "agar"
+   },
+   {
+    "en": "Unless",
+    "uz": "agar ... bo'lmasa"
+   },
+   {
+    "en": "When",
+    "uz": "qachonki"
+   },
+   {
+    "en": "In case",
+    "uz": "bo'lib qolsa degan ma'noda"
+   }
+  ],
+  "tip": "Eslatma: 'If' so'zi kelgan qismda HECH QACHON 'will' ishlatilmaydi! 'If'dan keyin doim Present Simple keladi."
+ }
+]

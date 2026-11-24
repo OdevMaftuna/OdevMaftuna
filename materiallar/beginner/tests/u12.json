@@ -1,0 +1,67 @@
+{
+  "code": "U12", "kind": "unit", "unit": 12, "price": 20000,
+  "title": "Unit 12 Test",
+  "subtitle": "I’d like / Would you like…? · some / any · food & drink · in a restaurant",
+  "sections": [
+    {
+      "title": "A. Choose like or would like.",
+      "items": [
+        { "t": "mc", "q": "I ______ a cup of tea, please.", "o": ["like", "’d like", "likes", "liking"], "a": 1 },
+        { "t": "mc", "q": "Do you ______ fish? — No, I hate it.", "o": ["like", "would like", "’d like", "likes"], "a": 0 },
+        { "t": "mc", "q": "______ you like some cake? — Yes, please.", "o": ["Do", "Would", "Are", "Can"], "a": 1 },
+        { "t": "mc", "q": "She ______ chocolate. She eats it every day.", "o": ["likes", "would like", "’d like", "like"], "a": 0 },
+        { "t": "mc", "q": "What ______ you like to drink?", "o": ["do", "are", "would", "did"], "a": 2 }
+      ]
+    },
+    {
+      "title": "B. Write sentences with I’d like.",
+      "items": [
+        { "t": "text", "q": "(a glass of water)", "a": ["I’d like a glass of water", "I would like a glass of water", "I’d like a glass of water please"] },
+        { "t": "text", "q": "(the chicken salad)", "a": ["I’d like the chicken salad", "I would like the chicken salad", "I’d like the chicken salad please"] },
+        { "t": "text", "q": "(to see the menu)", "a": ["I’d like to see the menu", "I would like to see the menu", "I’d like to see the menu please"] },
+        { "t": "text", "q": "(some bread)", "a": ["I’d like some bread", "I would like some bread", "I’d like some bread please"] }
+      ]
+    },
+    {
+      "title": "C. Write some or any.",
+      "items": [
+        { "t": "text", "q": "Would you like ______ coffee?", "a": ["some"] },
+        { "t": "text", "q": "There isn’t ______ sugar in my tea.", "a": ["any"] },
+        { "t": "text", "q": "Do we have ______ apples?", "a": ["any"] },
+        { "t": "text", "q": "Can I have ______ milk, please?", "a": ["some"] },
+        { "t": "text", "q": "I don’t want ______ dessert, thank you.", "a": ["any"] }
+      ]
+    },
+    {
+      "title": "D. Countable or uncountable? Choose a / an or some.",
+      "items": [
+        { "t": "mc", "q": "______ banana", "o": ["a", "an", "some"], "a": 0 },
+        { "t": "mc", "q": "______ rice", "o": ["a", "an", "some"], "a": 2 },
+        { "t": "mc", "q": "______ egg", "o": ["a", "an", "some"], "a": 1 },
+        { "t": "mc", "q": "______ juice", "o": ["a", "an", "some"], "a": 2 },
+        { "t": "mc", "q": "______ sandwich", "o": ["a", "an", "some"], "a": 0 }
+      ]
+    },
+    {
+      "title": "E. Complete the conversation in a restaurant. Choose the correct answer.",
+      "items": [
+        { "t": "mc", "q": "Waiter: Are you ready ______ order?", "o": ["for", "to", "at", "of"], "a": 1 },
+        { "t": "mc", "q": "Customer: Yes. I’d like the soup ______ a starter.", "o": ["for", "as", "like", "with"], "a": 1 },
+        { "t": "mc", "q": "Waiter: And ______ the main course?", "o": ["for", "to", "in", "on"], "a": 0 },
+        { "t": "mc", "q": "Customer: Lagman, please. Waiter: Anything ______ drink?", "o": ["for", "to", "with", "by"], "a": 1 },
+        { "t": "mc", "q": "Customer: Can I have the ______, please? I want to pay.", "o": ["menu", "bill", "table", "money"], "a": 1 }
+      ]
+    },
+    {
+      "title": "F. Read the menu and answer the questions.",
+      "passage": "CAFÉ BAHOR — Starters: tomato soup 18,000 · green salad 15,000 | Main courses: plov 35,000 · chicken kebab 40,000 · vegetable lagman 30,000 | Drinks: tea 5,000 · fresh orange juice 12,000 · mineral water 6,000 | Desserts: ice cream 10,000 · honey cake 14,000",
+      "items": [
+        { "t": "mc", "q": "How much is the plov?", "o": ["30,000", "35,000", "40,000", "18,000"], "a": 1 },
+        { "t": "mc", "q": "Which main course is for vegetarians?", "o": ["plov", "chicken kebab", "vegetable lagman", "tomato soup"], "a": 2 },
+        { "t": "mc", "q": "What is the cheapest drink?", "o": ["tea", "orange juice", "mineral water", "coffee"], "a": 0 },
+        { "t": "tf", "q": "There is coffee on the menu.", "a": false },
+        { "t": "tf", "q": "Honey cake is more expensive than ice cream.", "a": true }
+      ]
+    }
+  ]
+}

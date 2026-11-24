@@ -1,0 +1,1098 @@
+{
+ "unit": 7,
+ "parts": [
+  [
+   {
+    "kind": "abctext",
+    "q": "Speech: Good morning, everyone. I'd like to start ______ saying that school uniforms are a good thing.",
+    "hint": "",
+    "options": [
+     "by",
+     "with",
+     "for"
+    ],
+    "answer": "by",
+    "accept": [],
+    "phrase": "I'd like to start by saying / looking at ...",
+    "explain": "«start by + V-ing» — «...dan boshlamoq».",
+    "wrong": {
+     "with": "«start with» dan keyin ot keladi (start with a story), «saying» emas.",
+     "for": "Xato predlog."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Speech: ______ of all, we need to ask ourselves why people buy so many clothes.",
+    "hint": "",
+    "options": [
+     "First",
+     "Firstly",
+     "At first"
+    ],
+    "answer": "First",
+    "accept": [],
+    "phrase": "First of all, we need to decide / examine / look at / ask ourselves ...",
+    "explain": "«First of all» — fiksirlangan ibora.",
+    "wrong": {
+     "Firstly": "«Firstly of all» — xato.",
+     "At first": "«At first of all» — xato; «At first» — «dastlab» (keyin o'zgargan holat)."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Speech: I'll ______ with a short story about my grandfather.",
+    "hint": "",
+    "options": [
+     "begin",
+     "beginning",
+     "began"
+    ],
+    "answer": "begin",
+    "accept": [],
+    "phrase": "I'll begin with ...",
+    "explain": "«I'll + fe'lning to'g'ri shakli» — «I'll begin with».",
+    "wrong": {
+     "beginning": "«I'll beginning» — xato.",
+     "began": "«I'll began» — xato."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Speech: That's all about the history of the city. Now I'd like to move ______ to the problems it has today.",
+    "hint": "",
+    "options": [
+     "on",
+     "in",
+     "up"
+    ],
+    "answer": "on",
+    "accept": [],
+    "phrase": "Now I'd like to move on to ...",
+    "explain": "«move on to» — keyingi mavzuga o'tish.",
+    "wrong": {
+     "in": "«move in» — uyga ko'chib kirmoq.",
+     "up": "«move up» — yuqoriga ko'tarilmoq."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Speech: Many teenagers don't sleep enough. This ______ to my next point: mobile phones in the bedroom.",
+    "hint": "",
+    "options": [
+     "leads",
+     "takes",
+     "goes"
+    ],
+    "answer": "leads",
+    "accept": [],
+    "phrase": "This leads to my next point.",
+    "explain": "«This leads to my next point» — fiksirlangan ibora.",
+    "wrong": {
+     "takes": "«takes to» — boshqa ma'no (yoqtirib qolmoq).",
+     "goes": "«goes to» — bu iborada ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Speech: Now let's ______ at the question of cost.",
+    "hint": "",
+    "options": [
+     "look",
+     "see",
+     "watch"
+    ],
+    "answer": "look",
+    "accept": [],
+    "phrase": "Now let's look at / move on to (the question of ...)",
+    "explain": "«look at the question of» — masalani ko'rib chiqmoq.",
+    "wrong": {
+     "see": "«see at» — xato.",
+     "watch": "«watch at» — xato."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Speech: There are three reasons. ______, it's cheap. Second, it's fast. Finally, it's good for the planet.",
+    "hint": "",
+    "options": [
+     "First",
+     "Finally",
+     "In conclusion"
+    ],
+    "answer": "First",
+    "accept": [],
+    "phrase": "First, ... Second, ... Finally, ...",
+    "explain": "Ro'yxat boshida — «First».",
+    "wrong": {
+     "Finally": "«Finally» — oxirgi fikr uchun.",
+     "In conclusion": "Nutq oxiri uchun, ro'yxat boshida emas."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Speech: First, cycling is healthy. Second, it's free. ______, it doesn't pollute the air.",
+    "hint": "",
+    "options": [
+     "Finally",
+     "At last",
+     "First"
+    ],
+    "answer": "Finally",
+    "accept": [],
+    "phrase": "First, ... Second, ... Finally, ...",
+    "explain": "Oxirgi fikr — «Finally».",
+    "wrong": {
+     "At last": "«At last» — «nihoyat (uzoq kutilgandan keyin)», ro'yxatda emas.",
+     "First": "«First» allaqachon ishlatilgan."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Speech: I think every child should learn to swim. There are a ______ of reasons why I believe this.",
+    "hint": "",
+    "options": [
+     "number",
+     "lot",
+     "many"
+    ],
+    "answer": "number",
+    "accept": [],
+    "phrase": "There are a number of reasons why I believe this. First, ...",
+    "explain": "«a number of reasons» — «bir necha sabab».",
+    "wrong": {
+     "lot": "«a lot of reasons» ham to'g'ri bo'lardi, lekin bu kitobdagi rasmiy ibora emas — nutqda «a number of reasons» ishlatiladi.",
+     "many": "«a many of» — grammatik xato."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Speech: Homework should be shorter. I'll ______ you why I think that.",
+    "hint": "",
+    "options": [
+     "tell",
+     "say",
+     "speak"
+    ],
+    "answer": "tell",
+    "accept": [],
+    "phrase": "I'll tell you why I think that.",
+    "explain": "«tell + odam» — «tell you».",
+    "wrong": {
+     "say": "«say you» — xato; «say to you» bo'lardi.",
+     "speak": "«speak you» — xato."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Speech: Libraries are still important. The ______ I say that is that not everyone has the internet.",
+    "hint": "",
+    "options": [
+     "reason",
+     "cause",
+     "why"
+    ],
+    "answer": "reason",
+    "accept": [],
+    "phrase": "The reason I say that is ...",
+    "explain": "«The reason I say that is ...» — fiksirlangan ibora.",
+    "wrong": {
+     "cause": "«The cause I say that» — xato.",
+     "why": "«The why I say» — xato."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Speech: I believe zoos should close. The ______ reason I feel this way is that animals need freedom.",
+    "hint": "",
+    "options": [
+     "main",
+     "most",
+     "much"
+    ],
+    "answer": "main",
+    "accept": [],
+    "phrase": "The main reason I feel this way is ...",
+    "explain": "«The main reason» — «asosiy sabab».",
+    "wrong": {
+     "most": "«The most reason» — xato.",
+     "much": "«The much reason» — xato."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Speech: To sum ______, I think music lessons should be free for everybody.",
+    "hint": "",
+    "options": [
+     "up",
+     "on",
+     "down"
+    ],
+    "answer": "up",
+    "accept": [],
+    "phrase": "To sum up, ... / In conclusion, ... / All in all, ...",
+    "explain": "«sum up» — xulosalamoq.",
+    "wrong": {
+     "on": "«sum on» — xato.",
+     "down": "«sum down» — xato."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Speech: In ______, I'd like to thank you all for listening.",
+    "hint": "",
+    "options": [
+     "conclusion",
+     "conclude",
+     "the end of"
+    ],
+    "answer": "conclusion",
+    "accept": [],
+    "phrase": "To sum up, ... / In conclusion, ... / All in all, ...",
+    "explain": "«In conclusion» — «xulosa qilib».",
+    "wrong": {
+     "conclude": "Fe'l — «In conclude» xato.",
+     "the end of": "«In the end of» — xato birikma."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Speech: Just to ______ the main points: sport is healthy, fun and it brings people together.",
+    "hint": "",
+    "options": [
+     "summarise",
+     "summary",
+     "sum"
+    ],
+    "answer": "summarise",
+    "accept": [],
+    "phrase": "Just to summarise the main points ...",
+    "explain": "«to + fe'l» — summarise.",
+    "wrong": {
+     "summary": "Ot — «to summary» xato.",
+     "sum": "«to sum the main points» — «up» yo'q, xato."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Speech: All in ______, it was a fantastic trip and I'd love to go back.",
+    "hint": "",
+    "options": [
+     "all",
+     "every",
+     "total"
+    ],
+    "answer": "all",
+    "accept": [],
+    "phrase": "To sum up, ... / In conclusion, ... / All in all, ...",
+    "explain": "«All in all» — umuman olganda.",
+    "wrong": {
+     "every": "Xato.",
+     "total": "«In total» — «jami» (son uchun)."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Speech: Before we decide, first of all we need to ______ how much money we have.",
+    "hint": "",
+    "options": [
+     "examine",
+     "examination",
+     "examining"
+    ],
+    "answer": "examine",
+    "accept": [],
+    "phrase": "First of all, we need to decide / examine / look at / ask ourselves ...",
+    "explain": "«need to + fe'l» — examine.",
+    "wrong": {
+     "examination": "Ot.",
+     "examining": "«need to examining» — xato."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Speech: I'd like to start by ______ at some numbers.",
+    "hint": "",
+    "options": [
+     "looking",
+     "look",
+     "to look"
+    ],
+    "answer": "looking",
+    "accept": [],
+    "phrase": "I'd like to start by saying / looking at ...",
+    "explain": "«by + V-ing» — looking.",
+    "wrong": {
+     "look": "«by look» — xato.",
+     "to look": "«by to look» — xato."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Speech: That was my first point. Now let's move on to the ______ of safety.",
+    "hint": "",
+    "options": [
+     "question",
+     "ask",
+     "answer of"
+    ],
+    "answer": "question",
+    "accept": [],
+    "phrase": "Now let's look at / move on to (the question of ...)",
+    "explain": "«the question of + ot» — «... masalasi».",
+    "wrong": {
+     "ask": "Fe'l.",
+     "answer of": "Xato birikma."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Speech: Some people think phones are bad for children. I'll tell you why I ______ that is wrong.",
+    "hint": "",
+    "options": [
+     "think",
+     "thinking",
+     "thought to"
+    ],
+    "answer": "think",
+    "accept": [],
+    "phrase": "I'll tell you why I think that.",
+    "explain": "«why I think» — «nega shunday o'ylashim».",
+    "wrong": {
+     "thinking": "Xato shakl.",
+     "thought to": "Xato."
+    }
+   }
+  ],
+  [
+   {
+    "kind": "abc",
+    "q": "Teacher: Start your presentation, please.\nAziz: Thank you. I'd like to ______ by saying that video games can be useful.",
+    "hint": "",
+    "options": [
+     "start",
+     "finish",
+     "sum"
+    ],
+    "answer": "start",
+    "accept": [],
+    "phrase": "I'd like to start by saying / looking at ...",
+    "explain": "Taqdimot boshi — «start by saying».",
+    "wrong": {
+     "finish": "Boshida «finish» mantiqsiz.",
+     "sum": "«sum by» — xato."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Examiner: What's your first point?\nMadina: ______ of all, we need to decide what a healthy diet is.",
+    "hint": "",
+    "options": [
+     "First",
+     "Last",
+     "Finally"
+    ],
+    "answer": "First",
+    "accept": [],
+    "phrase": "First of all, we need to decide / examine / look at / ask ourselves ...",
+    "explain": "«First of all» — avvalo.",
+    "wrong": {
+     "Last": "«Last of all» — oxirida, birinchi fikr emas.",
+     "Finally": "«Finally of all» — xato."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Teacher: Go on.\nSardor: Now I'd like to move on ______ the second problem: traffic.",
+    "hint": "",
+    "options": [
+     "to",
+     "at",
+     "with"
+    ],
+    "answer": "to",
+    "accept": [],
+    "phrase": "Now I'd like to move on to ...",
+    "explain": "«move on to» — «to» kerak.",
+    "wrong": {
+     "at": "Xato predlog.",
+     "with": "Xato predlog."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Examiner: Why do you think that?\nLola: The ______ I say that is that young people need more exercise.",
+    "hint": "",
+    "options": [
+     "reason",
+     "because",
+     "why"
+    ],
+    "answer": "reason",
+    "accept": [],
+    "phrase": "The reason I say that is ...",
+    "explain": "«The reason I say that is ...»",
+    "wrong": {
+     "because": "«The because» — xato.",
+     "why": "«The why» — xato."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Teacher: You have one minute left.\nJasur: OK. To ______ up, I think we should recycle more.",
+    "hint": "",
+    "options": [
+     "sum",
+     "summary",
+     "some"
+    ],
+    "answer": "sum",
+    "accept": [],
+    "phrase": "To sum up, ... / In conclusion, ... / All in all, ...",
+    "explain": "«To sum up» — xulosa.",
+    "wrong": {
+     "summary": "Ot — «to summary up» xato.",
+     "some": "«some» — «bir oz», ma'nosiz."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Examiner: Can you explain your opinion?\nNodira: Yes. I'll ______ you why I think that.",
+    "hint": "",
+    "options": [
+     "tell",
+     "say",
+     "talk"
+    ],
+    "answer": "tell",
+    "accept": [],
+    "phrase": "I'll tell you why I think that.",
+    "explain": "«tell you» — odamga aytmoq.",
+    "wrong": {
+     "say": "«say you» — xato.",
+     "talk": "«talk you» — xato."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Teacher: How will you start?\nKamol: I'll begin ______ a short video.",
+    "hint": "",
+    "options": [
+     "with",
+     "by",
+     "from"
+    ],
+    "answer": "with",
+    "accept": [],
+    "phrase": "I'll begin with ...",
+    "explain": "«begin with + ot».",
+    "wrong": {
+     "by": "«begin by» dan keyin -ing kerak bo'lardi.",
+     "from": "«begin from a video» — g'ayritabiiy."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Examiner: Why do you like the countryside?\nMohira: There are a number of ______ why I believe this. First, the air is clean.",
+    "hint": "",
+    "options": [
+     "reasons",
+     "reason",
+     "reasoning"
+    ],
+    "answer": "reasons",
+    "accept": [],
+    "phrase": "There are a number of reasons why I believe this. First, ...",
+    "explain": "«a number of + ko'plik ot» — reasons.",
+    "wrong": {
+     "reason": "Birlik — xato.",
+     "reasoning": "Boshqa ma'no (fikrlash)."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Teacher: What's your main argument?\nRustam: The main reason I ______ this way is that it saves money.",
+    "hint": "",
+    "options": [
+     "feel",
+     "think",
+     "say"
+    ],
+    "answer": "feel",
+    "accept": [],
+    "phrase": "The main reason I feel this way is ...",
+    "explain": "«feel this way» — fiksirlangan ibora.",
+    "wrong": {
+     "think": "«think this way» — mumkin, lekin kitob iborasi «feel this way».",
+     "say": "«say this way» — g'ayritabiiy."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Examiner: Please finish.\nZarina: In ______, I believe cities need more parks.",
+    "hint": "",
+    "options": [
+     "conclusion",
+     "conclude",
+     "concluding"
+    ],
+    "answer": "conclusion",
+    "accept": [],
+    "phrase": "To sum up, ... / In conclusion, ... / All in all, ...",
+    "explain": "«In conclusion».",
+    "wrong": {
+     "conclude": "Fe'l.",
+     "concluding": "«In concluding» — xato."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Teacher: You've talked about the problem.\nBekzod: Yes, and this ______ to my next point — the solution.",
+    "hint": "",
+    "options": [
+     "leads",
+     "brings to",
+     "follows"
+    ],
+    "answer": "leads",
+    "accept": [],
+    "phrase": "This leads to my next point.",
+    "explain": "«This leads to my next point».",
+    "wrong": {
+     "brings to": "«brings to to» — xato.",
+     "follows": "«follows to» — xato."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Teacher: Are you finished?\nIslom: Almost. Just to ______ the main points: it's cheap, it's fast and it's safe.",
+    "hint": "",
+    "options": [
+     "summarise",
+     "conclusion",
+     "sum"
+    ],
+    "answer": "summarise",
+    "accept": [],
+    "phrase": "Just to summarise the main points ...",
+    "explain": "«to summarise the main points».",
+    "wrong": {
+     "conclusion": "Ot.",
+     "sum": "«to sum the main points» — «up» kerak."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Examiner: Next point?\nDilnoza: Now let's ______ at the question of cost.",
+    "hint": "",
+    "options": [
+     "look",
+     "move",
+     "see"
+    ],
+    "answer": "look",
+    "accept": [],
+    "phrase": "Now let's look at / move on to (the question of ...)",
+    "explain": "«look at the question of».",
+    "wrong": {
+     "move": "«move at» — xato; «move on to».",
+     "see": "«see at» — xato."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Teacher: How many points do you have?\nShahzod: Three. First, ... Second, ... and ______, ...",
+    "hint": "",
+    "options": [
+     "finally",
+     "at last",
+     "end"
+    ],
+    "answer": "finally",
+    "accept": [],
+    "phrase": "First, ... Second, ... Finally, ...",
+    "explain": "Ro'yxat oxiri — «finally».",
+    "wrong": {
+     "at last": "Ro'yxatda ishlatilmaydi.",
+     "end": "«and end» — xato."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Examiner: Can you give a summary?\nAnvar: All in ______, it's a good idea for our town.",
+    "hint": "",
+    "options": [
+     "all",
+     "one",
+     "total"
+    ],
+    "answer": "all",
+    "accept": [],
+    "phrase": "To sum up, ... / In conclusion, ... / All in all, ...",
+    "explain": "«All in all».",
+    "wrong": {
+     "one": "«All in one» — «hammasi birda», boshqa ma'no.",
+     "total": "Xato."
+    }
+   }
+  ],
+  [
+   {
+    "kind": "word",
+    "q": "Teacher: Begin, please.\nAsal: I'd like to start ______ saying thank you for coming.",
+    "hint": "",
+    "options": [],
+    "answer": "by",
+    "accept": [],
+    "phrase": "I'd like to start by saying / looking at ...",
+    "explain": "«start by + V-ing».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Teacher: What's first?\nOdil: First ______ all, we need to look at the facts.",
+    "hint": "",
+    "options": [],
+    "answer": "of",
+    "accept": [],
+    "phrase": "First of all, we need to decide / examine / look at / ask ourselves ...",
+    "explain": "«First of all».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Teacher: How will you begin?\nNigora: I'll begin ______ a question: do you like reading?",
+    "hint": "",
+    "options": [],
+    "answer": "with",
+    "accept": [],
+    "phrase": "I'll begin with ...",
+    "explain": "«begin with + ot».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Teacher: Next?\nTimur: Now I'd like to move on ______ the next topic.",
+    "hint": "",
+    "options": [],
+    "answer": "to",
+    "accept": [],
+    "phrase": "Now I'd like to move on to ...",
+    "explain": "«move on to».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Teacher: Connect your ideas.\nSamira: This leads to my ______ point.",
+    "hint": "",
+    "options": [],
+    "answer": "next",
+    "accept": [],
+    "phrase": "This leads to my next point.",
+    "explain": "«my next point».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Teacher: What's your opinion?\nFarrux: Sport is important. I'll tell you ______ I think that.",
+    "hint": "",
+    "options": [],
+    "answer": "why",
+    "accept": [],
+    "phrase": "I'll tell you why I think that.",
+    "explain": "«why I think that».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Teacher: Explain.\nGulnora: The reason I ______ that is that sport makes us happy.",
+    "hint": "",
+    "options": [],
+    "answer": "say",
+    "accept": [],
+    "phrase": "The reason I say that is ...",
+    "explain": "«The reason I say that is».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Teacher: Your main reason?\nSanjar: The main reason I feel this ______ is that it's healthy.",
+    "hint": "",
+    "options": [],
+    "answer": "way",
+    "accept": [],
+    "phrase": "The main reason I feel this way is ...",
+    "explain": "«feel this way».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Teacher: Finish, please.\nShoira: To sum ______, sport is good for everyone.",
+    "hint": "",
+    "options": [],
+    "answer": "up",
+    "accept": [],
+    "phrase": "To sum up, ... / In conclusion, ... / All in all, ...",
+    "explain": "«To sum up».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Teacher: Your conclusion?\nIlyos: ______ conclusion, we should all do more sport.",
+    "hint": "",
+    "options": [],
+    "answer": "In",
+    "accept": [],
+    "phrase": "To sum up, ... / In conclusion, ... / All in all, ...",
+    "explain": "«In conclusion».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Teacher: List your points.\nAziza: First, it's fun. ______, it's healthy. Finally, it's cheap.",
+    "hint": "",
+    "options": [],
+    "answer": "Second",
+    "accept": [
+     "Secondly"
+    ],
+    "phrase": "First, ... Second, ... Finally, ...",
+    "explain": "Ikkinchi fikr — «Second».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Teacher: Last point?\nBobur: ______, I want to say that everybody can do sport.",
+    "hint": "",
+    "options": [],
+    "answer": "Finally",
+    "accept": [],
+    "phrase": "First, ... Second, ... Finally, ...",
+    "explain": "Oxirgi fikr — «Finally».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Teacher: Why do you believe this?\nRayhona: There are a ______ of reasons why I believe this.",
+    "hint": "",
+    "options": [],
+    "answer": "number",
+    "accept": [],
+    "phrase": "There are a number of reasons why I believe this. First, ...",
+    "explain": "«a number of reasons».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Teacher: Summarise, please.\nOtabek: Just to summarise the ______ points: ...",
+    "hint": "",
+    "options": [],
+    "answer": "main",
+    "accept": [],
+    "phrase": "Just to summarise the main points ...",
+    "explain": "«the main points».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Teacher: What next?\nKamola: Now let's look at the ______ of money.",
+    "hint": "",
+    "options": [],
+    "answer": "question",
+    "accept": [],
+    "phrase": "Now let's look at / move on to (the question of ...)",
+    "explain": "«the question of + ot».",
+    "wrong": {}
+   }
+  ]
+ ],
+ "guide": {
+  "topics": [
+   {
+    "name": "Structuring your speech",
+    "name_uz": "Nutqni tartiblash",
+    "summary": "Taqdimot yoki og'zaki imtihonda gapingizni boshlash va bir fikrdan ikkinchisiga o'tish uchun.",
+    "usage": [
+     {
+      "text": "I'd like to start by saying / looking at ... — «...dan boshlamoqchiman». «by» dan keyin V-ing.",
+      "example": {
+       "en": "I'd like to start by saying that sport is important.",
+       "uz": "Sport muhim ekanini aytishdan boshlamoqchiman."
+      }
+     },
+     {
+      "text": "First of all, we need to decide / examine / look at ... — «Avvalo, ...ni ko'rib chiqishimiz kerak».",
+      "example": {
+       "en": "First of all, we need to look at the costs.",
+       "uz": "Avvalo, xarajatlarni ko'rib chiqishimiz kerak."
+      }
+     },
+     {
+      "text": "I'll begin with ... — «...dan boshlayman». Keyin ot.",
+      "example": {
+       "en": "I'll begin with a short story.",
+       "uz": "Qisqa hikoyadan boshlayman."
+      }
+     },
+     {
+      "text": "Now I'd like to move on to ... — «Endi ...ga o'tmoqchiman».",
+      "example": {
+       "en": "Now I'd like to move on to the second problem.",
+       "uz": "Endi ikkinchi muammoga o'tmoqchiman."
+      }
+     },
+     {
+      "text": "This leads to my next point. — «Bu meni keyingi fikrga olib keladi».",
+      "example": {
+       "en": "Students are tired. This leads to my next point: sleep.",
+       "uz": "O'quvchilar charchagan. Bu keyingi fikrimga olib keladi: uyqu."
+      }
+     },
+     {
+      "text": "Now let's look at / move on to (the question of ...) — «Endi ...ni ko'rib chiqaylik».",
+      "example": {
+       "en": "Now let's look at the question of money.",
+       "uz": "Endi pul masalasini ko'rib chiqaylik."
+      }
+     }
+    ],
+    "structure": [
+     {
+      "type": "+",
+      "formula": "I'd like to start by + V-ing",
+      "example": {
+       "en": "I'd like to start by looking at the facts.",
+       "uz": "Faktlarni ko'rib chiqishdan boshlamoqchiman."
+      }
+     },
+     {
+      "type": "+",
+      "formula": "Now I'd like to move on to + ot",
+      "example": {
+       "en": "Now I'd like to move on to my last point.",
+       "uz": "Endi oxirgi fikrimga o'taman."
+      }
+     },
+     {
+      "type": "short",
+      "formula": "I'll begin with + ot",
+      "example": {
+       "en": "I'll begin with the history.",
+       "uz": "Tarixdan boshlayman."
+      }
+     }
+    ],
+    "signals": [
+     {
+      "en": "start by",
+      "uz": "...dan boshlamoq"
+     },
+     {
+      "en": "first of all",
+      "uz": "avvalo"
+     },
+     {
+      "en": "move on to",
+      "uz": "...ga o'tmoq"
+     },
+     {
+      "en": "next point",
+      "uz": "keyingi fikr"
+     },
+     {
+      "en": "the question of",
+      "uz": "... masalasi"
+     }
+    ],
+    "tip": "«I'd like to start by say» — xato: «by» dan keyin har doim -ing (by saying, by looking)."
+   },
+   {
+    "name": "Ordering points or opinions",
+    "name_uz": "Fikrlarni tartib bilan aytish",
+    "summary": "Bir nechta fikrni ketma-ket aytish: First, ... Second, ... Finally, ...",
+    "usage": [
+     {
+      "text": "First, ... — «Birinchidan». Second, ... — «Ikkinchidan». Finally, ... — «Nihoyat / Oxirida». Har biridan keyin vergul.",
+      "example": {
+       "en": "First, it's cheap. Second, it's fast. Finally, it's safe.",
+       "uz": "Birinchidan, arzon. Ikkinchidan, tez. Nihoyat, xavfsiz."
+      }
+     }
+    ],
+    "structure": [
+     {
+      "type": "+",
+      "formula": "First, ... Second, ... Finally, ...",
+      "example": {
+       "en": "First, I'll talk about the problem. Finally, I'll give a solution.",
+       "uz": "Avval muammo haqida, oxirida yechim haqida gapiraman."
+      }
+     }
+    ],
+    "signals": [
+     {
+      "en": "first",
+      "uz": "birinchidan"
+     },
+     {
+      "en": "second",
+      "uz": "ikkinchidan"
+     },
+     {
+      "en": "finally",
+      "uz": "nihoyat"
+     }
+    ],
+    "tip": "«Finally» — oxirgi fikr uchun. «At last» esa «uzoq kutilgandan keyin» degani, ro'yxat uchun emas."
+   },
+   {
+    "name": "Justifying your opinions",
+    "name_uz": "Fikringizni asoslash",
+    "summary": "Fikr aytgandan keyin uning sababini tushuntirish uchun.",
+    "usage": [
+     {
+      "text": "There are a number of reasons why I believe this. First, ... — «Bunga ishonishimning bir necha sababi bor».",
+      "example": {
+       "en": "There are a number of reasons why I believe this. First, it's healthy.",
+       "uz": "Bunga ishonishimning bir necha sababi bor. Birinchidan, foydali."
+      }
+     },
+     {
+      "text": "I'll tell you why I think that. — «Nega shunday o'ylashimni aytaman».",
+      "example": {
+       "en": "Music should be free. I'll tell you why I think that.",
+       "uz": "Musiqa bepul bo'lishi kerak. Nega shunday o'ylashimni aytaman."
+      }
+     },
+     {
+      "text": "The reason I say that is ... — «Buni aytishimning sababi — ...».",
+      "example": {
+       "en": "The reason I say that is that many children can't pay.",
+       "uz": "Buni aytishimning sababi — ko'p bolalar to'lay olmaydi."
+      }
+     },
+     {
+      "text": "The main reason I feel this way is ... — «Shunday fikrda bo'lishimning asosiy sababi — ...».",
+      "example": {
+       "en": "The main reason I feel this way is my own experience.",
+       "uz": "Asosiy sabab — o'z tajribam."
+      }
+     }
+    ],
+    "structure": [
+     {
+      "type": "+",
+      "formula": "The reason I say that is (that) + gap",
+      "example": {
+       "en": "The reason I say that is that it's expensive.",
+       "uz": "Sababi — qimmat."
+      }
+     },
+     {
+      "type": "+",
+      "formula": "The main reason I feel this way is + ot / that + gap",
+      "example": {
+       "en": "The main reason I feel this way is safety.",
+       "uz": "Asosiy sabab — xavfsizlik."
+      }
+     }
+    ],
+    "signals": [
+     {
+      "en": "reason",
+      "uz": "sabab"
+     },
+     {
+      "en": "why",
+      "uz": "nega"
+     },
+     {
+      "en": "a number of",
+      "uz": "bir nechta"
+     },
+     {
+      "en": "feel this way",
+      "uz": "shunday fikrda bo'lmoq"
+     }
+    ],
+    "tip": "«The reason is because ...» emas — kitobdagi to'g'ri shakl: «The reason I say that is (that) ...»."
+   },
+   {
+    "name": "Summing up your opinion",
+    "name_uz": "Fikrni xulosalash",
+    "summary": "Nutq oxirida asosiy fikrlarni jamlash uchun.",
+    "usage": [
+     {
+      "text": "To sum up, ... / In conclusion, ... / All in all, ... — «Xulosa qilib aytganda / Yakunida / Umuman olganda». Gap boshida, keyin vergul.",
+      "example": {
+       "en": "In conclusion, schools need more music lessons.",
+       "uz": "Xulosa qilib aytganda, maktablarga ko'proq musiqa darsi kerak."
+      }
+     },
+     {
+      "text": "Just to summarise the main points ... — «Asosiy fikrlarni qisqacha jamlasam ...».",
+      "example": {
+       "en": "Just to summarise the main points: it's cheap, quick and safe.",
+       "uz": "Asosiy fikrlarni jamlasam: arzon, tez va xavfsiz."
+      }
+     }
+    ],
+    "structure": [
+     {
+      "type": "short",
+      "formula": "To sum up, / In conclusion, / All in all, + gap",
+      "example": {
+       "en": "All in all, it was a great year.",
+       "uz": "Umuman olganda, ajoyib yil bo'ldi."
+      }
+     }
+    ],
+    "signals": [
+     {
+      "en": "sum up",
+      "uz": "xulosalamoq"
+     },
+     {
+      "en": "conclusion",
+      "uz": "xulosa"
+     },
+     {
+      "en": "all in all",
+      "uz": "umuman olganda"
+     },
+     {
+      "en": "summarise",
+      "uz": "qisqacha jamlamoq"
+     }
+    ],
+    "tip": "«In conclusion» faqat oxirida ishlatiladi — nutq boshida emas."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I'd like to start by say ...",
+    "right": "I'd like to start by saying ...",
+    "why": "«by» dan keyin -ing."
+   },
+   {
+    "wrong": "Now I'd like to move on the next point.",
+    "right": "Now I'd like to move on to the next point.",
+    "why": "«move on to» — «to» tushib qolmasin."
+   },
+   {
+    "wrong": "The reason is because ...",
+    "right": "The reason I say that is (that) ...",
+    "why": "«reason» va «because» bir xil ma'no — birga ishlatilmaydi."
+   },
+   {
+    "wrong": "In conclusion, ... (nutq boshida)",
+    "right": "I'd like to start by ...",
+    "why": "«In conclusion» — faqat oxirida."
+   },
+   {
+    "wrong": "To summary up ...",
+    "right": "To sum up ...",
+    "why": "Fe'l — «sum up»; «summary» — ot."
+   }
+  ]
+ }
+}

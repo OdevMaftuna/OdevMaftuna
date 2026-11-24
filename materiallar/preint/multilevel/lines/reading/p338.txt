@@ -1,0 +1,44 @@
+﻿74`t15`t80`tPort 4
+126`t21`t108`t2. Families who force their Children into marriage
+156`t21`t108`tA) are aware that it js illegal
+184`t21`t110`tB) are encouraged by local leaders.
+213`t21`t108`tC) believe it is an accepted part of their culture.
+240`t20`t110`tD) are all rich.
+297`t21`t108`t3, Money is given to the
+326`t20`t109`tA) bride as security for her future,
+355`t21`t110`tB) bride's parents so that they give away their daughter.
+384`t21`t110`tC) future husband to encourage him to marry the bride.
+412`t19`t110`tD) groom to take the bride.
+469`t21`t110`t4. People who have been forced into marriage are
+498`t21`t110`tA) afraid to ask for help.
+527`t20`t111`tB) committing a crime in Europe.
+554`t21`t111`tC) teenage girls from poor, religious families.
+584`t21`t111`tD) the happiest in the worldv
+72`t17`t739`t337
+639`t21`t111`tFor questions 5-9, decide if the following statements agree with the
+671`t21`t84`tinformation given in the text.
+696`t21`t111`t5. Around a third of all girls in poor countries get married until they are
+728`t18`t86`t15 years Old.
+756`t20`t113`tA) True
+756`t20`t293`tB) False
+755`t19`t497`tC) No information
+782`t21`t113`t6. The only reason for forced marriages is that men and women don't
+813`t21`t86`thave equal rights in society.
+843`t20`t113`tA) True
+842`t19`t293`tB) False
+840`t20`t498`tC) No information
+896`t21`t113`t7. Parents usually set the amount for 'bride price for their daughters in
+929`t18`t87`tAfrica.
+957`t20`t114`tA) True
+956`t21`t294`tB) False
+954`t21`t498`tC) NO information
+1010`t21`t114`t8. In many cases, forced marriages lead to literacy issues for men.
+1044`t20`t114`tA) True
+1040`t21`t500`tC) No information
+1041`t19`t294`tB) False
+1095`t18`t114`tg. It is dear that young women are the sole sufferers in the cases Of
+1130`t21`t87`tforced marriages.
+1158`t20`t116`tA) True
+1157`t19`t296`tB) False
+1154`t21`t501`tC) NO information
+1200`t18`t687`tmytests.vz

@@ -1,0 +1,67 @@
+{
+  "code": "U7", "kind": "unit", "unit": 7, "price": 20000,
+  "title": "Unit 7 Test",
+  "subtitle": "Question words · me / him / her / us / them · this / that · likes · shopping",
+  "sections": [
+    {
+      "title": "A. Complete the questions. Choose the correct question word.",
+      "items": [
+        { "t": "mc", "q": "______ do you live? — In a flat near the park.", "o": ["What", "Where", "Who", "When"], "a": 1 },
+        { "t": "mc", "q": "______ is your birthday? — In May.", "o": ["When", "Where", "How", "Why"], "a": 0 },
+        { "t": "mc", "q": "______ do you like him? — Because he’s funny.", "o": ["Who", "How", "Why", "What"], "a": 2 },
+        { "t": "mc", "q": "______ is that boy? — He’s my cousin.", "o": ["Who", "What", "Where", "How"], "a": 0 },
+        { "t": "mc", "q": "______ is this bag? — It’s 50,000 so‘m.", "o": ["How many", "How much", "How old", "What"], "a": 1 },
+        { "t": "mc", "q": "______ do you get to school? — By bus.", "o": ["How", "Why", "When", "Who"], "a": 0 }
+      ]
+    },
+    {
+      "title": "B. Complete the sentences. Write me, him, her, it, us, or them.",
+      "items": [
+        { "t": "text", "q": "I love my grandmother. I visit ______ every Sunday.", "a": ["her"] },
+        { "t": "text", "q": "These are my new shoes. Do you like ______?", "a": ["them"] },
+        { "t": "text", "q": "Where’s my phone? I can’t find ______.", "a": ["it"] },
+        { "t": "text", "q": "Oybek is my best friend. I call ______ every day.", "a": ["him"] },
+        { "t": "text", "q": "We don’t understand. Please help ______.", "a": ["us"] },
+        { "t": "text", "q": "I’m here! Can you see ______?", "a": ["me"] }
+      ]
+    },
+    {
+      "title": "C. Choose this, that, these, or those.",
+      "items": [
+        { "t": "mc", "q": "(in my hand) ______ is my new watch.", "o": ["This", "That", "These", "Those"], "a": 0 },
+        { "t": "mc", "q": "(over there) Look at ______ birds in the sky!", "o": ["this", "that", "these", "those"], "a": 3 },
+        { "t": "mc", "q": "(here) ______ apples are very sweet.", "o": ["This", "That", "These", "Those"], "a": 2 },
+        { "t": "mc", "q": "(over there) Who is ______ man?", "o": ["this", "that", "these", "those"], "a": 1 }
+      ]
+    },
+    {
+      "title": "D. Write the sentences. Use the -ing form.",
+      "items": [
+        { "t": "text", "q": "I / like / swim", "a": ["I like swimming"] },
+        { "t": "text", "q": "She / love / read books", "a": ["She loves reading books"] },
+        { "t": "text", "q": "We / not like / cook", "a": ["We don’t like cooking", "We do not like cooking"] },
+        { "t": "text", "q": "He / hate / get up early", "a": ["He hates getting up early"] }
+      ]
+    },
+    {
+      "title": "E. Complete the conversation in a shop. Choose the correct answer.",
+      "items": [
+        { "t": "mc", "q": "A: Can I ______ you?", "o": ["help", "helping", "helps", "to help"], "a": 0 },
+        { "t": "mc", "q": "B: Yes, ______ is this T-shirt?", "o": ["how many", "how much", "what much", "how money"], "a": 1 },
+        { "t": "mc", "q": "A: It’s 80,000 so‘m. B: Can I ______ it on?", "o": ["try", "put", "wear", "take"], "a": 0 },
+        { "t": "mc", "q": "B: It’s nice. I’ll ______ it.", "o": ["takes", "take", "taking", "to take"], "a": 1 }
+      ]
+    },
+    {
+      "title": "F. Read the text and answer the questions.",
+      "passage": "My name’s Kamron. I’m 16. I live with my parents and my little sister, Soliha. I love sport. I play football three times a week, and on Saturdays I go swimming with my dad. I don’t like computer games, but my sister loves them! My favourite food is shashlik. My mum makes it for us on Sundays.",
+      "items": [
+        { "t": "text", "q": "How old is Kamron?", "a": ["16", "He’s 16", "He is 16", "sixteen"] },
+        { "t": "text", "q": "Who does he go swimming with?", "a": ["his dad", "with his dad", "his father", "with his father"] },
+        { "t": "tf", "q": "Kamron likes computer games.", "a": false },
+        { "t": "tf", "q": "Soliha loves computer games.", "a": true },
+        { "t": "text", "q": "What’s his favourite food?", "a": ["shashlik", "It’s shashlik", "It is shashlik"] }
+      ]
+    }
+  ]
+}

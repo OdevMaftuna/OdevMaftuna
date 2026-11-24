@@ -1,0 +1,340 @@
+[
+ {
+  "kind": "situation",
+  "q": "You are walking up a natural pile of earth that is much smaller than a mountain, near Tashkent.",
+  "options": [
+   "hill",
+   "ocean",
+   "volcano",
+   "cliff"
+  ],
+  "answer": "hill",
+  "why": "«natural pile of earth that is much smaller than a mountain» деgani «hill» (tepalik).",
+  "wrong": {
+   "ocean": "«ocean» ulkan okean ma'nosini beradi, bu kichik tepalikka mos kelmaydi.",
+   "volcano": "«volcano» otilib chiquvchi vulqonni bildiradi, bu yerda bunday holat yo'q.",
+   "cliff": "«cliff» tik qoyani anglatadi, bu esa tepalik emas."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Water is falling from a high place over rocks into a pool below.",
+  "options": [
+   "waterfall",
+   "desert",
+   "forest",
+   "lake"
+  ],
+  "answer": "waterfall",
+  "why": "«Water is falling from a high place» degani «waterfall» (sharshara).",
+  "wrong": {
+   "desert": "«desert» qurg'oq cho'l bo'lib, suv oqishiga to'g'ri kelmaydi.",
+   "forest": "«forest» qalin o'rmonni bildiradi.",
+   "lake": "«lake» turg'un ko'l suvini anglatadi, oqib tushmaydi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "This is a very dry, hot area of land with almost no water or trees.",
+  "options": [
+   "desert",
+   "river",
+   "cave",
+   "valley"
+  ],
+  "answer": "desert",
+  "why": "«very dry, hot area of land with almost no water» degani «desert» (cho'l).",
+  "wrong": {
+   "river": "«river» daryo bo'lib, unda suv ko'p bo'ladi.",
+   "cave": "«cave» tog'dagi g'or ma'nosini beradi.",
+   "valley": "«valley» vodiyni anglatadi, u odatda cho'l emas."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "It is a large area of land covered thickly with many trees and plants.",
+  "options": [
+   "forest",
+   "shore",
+   "stream",
+   "rocks"
+  ],
+  "answer": "forest",
+  "why": "«covered thickly with many trees» degani «forest» (o'rmon).",
+  "wrong": {
+   "shore": "«shore» suv bo'yi, qirg'oqni anglatadi.",
+   "stream": "«stream» kichik jilg'a ma'nosini beradi.",
+   "rocks": "«rocks» toshlarni bildiradi, o'rmon emas."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "You are standing on the ground right next to the sea, where the land meets the water.",
+  "options": [
+   "shore",
+   "mountain",
+   "volcano",
+   "hill"
+  ],
+  "answer": "shore",
+  "why": "«where the land meets the water» degani «shore» (qirg'oq).",
+  "wrong": {
+   "mountain": "«mountain» baland tog'ni anglatadi.",
+   "volcano": "«volcano» vulqon ma'nosini beradi.",
+   "hill": "«hill» kichik tepalikni bildiradi, qirg'oq emas."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "This is a very tall, high mass of rock and earth that reaches high up into the sky.",
+  "options": [
+   "mountain",
+   "stream",
+   "valley",
+   "lake"
+  ],
+  "answer": "mountain",
+  "why": "«very tall, high mass of rock» degani «mountain» (tog').",
+  "wrong": {
+   "stream": "«stream» kichik oqimni anglatadi.",
+   "valley": "«valley» tog'lar orasidagi pastlik — vodiydir.",
+   "lake": "«lake» suv havzasi — ko'lni bildiradi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "It is a natural underground room or space in the side of a hill or cliff.",
+  "options": [
+   "cave",
+   "cliff",
+   "desert",
+   "ocean"
+  ],
+  "answer": "cave",
+  "why": "«natural underground room» degani «cave» (g'or).",
+  "wrong": {
+   "cliff": "«cliff» tik qoya devori, xona emas.",
+   "desert": "«desert» katta cho'l hududidir.",
+   "ocean": "«ocean» okean suvini anglatadi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "This is a steep, vertical wall of rock, often standing right above the sea.",
+  "options": [
+   "cliff",
+   "river",
+   "rocks",
+   "forest"
+  ],
+  "answer": "cliff",
+  "why": "«steep, vertical wall of rock» degani «cliff» (tik qoya).",
+  "wrong": {
+   "river": "«river» oqar suv — daryo.",
+   "rocks": "«rocks» alohida toshlar, tik devor emas."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "It is a large, flowing body of natural water moving across the land to the sea.",
+  "options": [
+   "river",
+   "lake",
+   "stream",
+   "shore"
+  ],
+  "answer": "river",
+  "why": "«large, flowing body of natural water» degani «river» (daryo).",
+  "wrong": {
+   "lake": "«lake» oqmaydigan turg'un ko'ldir.",
+   "stream": "«stream» juda kichik jilg'a ma'nosini beradi.",
+   "shore": "«shore» qirg'oqni anglatadi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "This is a very small, narrow river that is easy to step across.",
+  "options": [
+   "stream",
+   "ocean",
+   "mountain",
+   "desert"
+  ],
+  "answer": "stream",
+  "why": "«very small, narrow river» degani «stream» (jilg'a).",
+  "wrong": {
+   "ocean": "«ocean» ulkan okean bo'lib, uning ustidan hatlab o'tib bo'lmaydi.",
+   "mountain": "«mountain» baland tog'.",
+   "desert": "«desert» quruq cho'l."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "It is a huge area of salty water that covers most of the Earth's surface.",
+  "options": [
+   "ocean",
+   "river",
+   "lake",
+   "waterfall"
+  ],
+  "answer": "ocean",
+  "why": "«huge area of salty water» degani «ocean» (okean).",
+  "wrong": {
+   "river": "«river» daryo bo'lib, okeanchalik ulkan bo'lmaydi.",
+   "lake": "«lake» ko'l bo'lib, odatda chuchuk suvli va kichikroq.",
+   "waterfall": "«waterfall» tushuvchi sharshara."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "This is a large, inland body of fresh or salt water completely surrounded by land.",
+  "options": [
+   "lake",
+   "stream",
+   "cliff",
+   "cave"
+  ],
+  "answer": "lake",
+  "why": "«surrounded by land» degani «lake» (ko'l).",
+  "wrong": {
+   "stream": "«stream» oqib turuvchi kichik suv.",
+   "cliff": "«cliff» qoya.",
+   "cave": "«cave» g'or."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "It is a low area of land between hills or mountains, often with a river flowing through it.",
+  "options": [
+   "valley",
+   "hill",
+   "mountain",
+   "forest"
+  ],
+  "answer": "valley",
+  "why": "«low area of land between hills or mountains» degani «valley» (vodiy).",
+  "wrong": {
+   "hill": "«hill» tepalik.",
+   "mountain": "«mountain» tog'."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "This is a mountain that has a hole at the top where fire, ash, and hot liquid rock can burst out.",
+  "options": [
+   "volcano",
+   "cave",
+   "shore",
+   "desert"
+  ],
+  "answer": "volcano",
+  "why": "«mountain that has a hole at the top» degani «volcano» (vulqon).",
+  "wrong": {
+   "cave": "«cave» ichi bo'sh g'or.",
+   "shore": "«shore» qirg'oq.",
+   "desert": "«desert» cho'l."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "These are hard, solid pieces of stone that you can find on the ground or in the mountains.",
+  "options": [
+   "rocks",
+   "stream",
+   "waterfall",
+   "lake"
+  ],
+  "answer": "rocks",
+  "why": "«hard, solid pieces of stone» degani «rocks» (toshlar).",
+  "wrong": {
+   "stream": "«stream» suv oqimi.",
+   "waterfall": "«waterfall» sharshara.",
+   "lake": "«lake» ko'l."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "You cannot see anything in this room because there is no light at all.",
+  "options": [
+   "dark",
+   "shallow",
+   "icy",
+   "low"
+  ],
+  "answer": "dark",
+  "why": "«no light at all» degani «dark» (qorong'i).",
+  "wrong": {
+   "shallow": "«shallow» suvning sayozligini bildiradi.",
+   "icy": "«icy» muzli, sovuq.",
+   "low": "«low» past balandlikdagi narsa."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "The ocean trench is very ______; humans cannot swim to the bottom without special machines.",
+  "options": [
+   "deep",
+   "shallow",
+   "low",
+   "narrow"
+  ],
+  "answer": "deep",
+  "why": "«humans cannot swim to the bottom» so'zi «deep» (chuqur) ekanini ko'rsatadi.",
+  "wrong": {
+   "shallow": "«shallow» sayoz degani, bu yerda to'g'ri kelmaydi.",
+   "low": "«low» baland emas, past ma'nosini beradi.",
+   "narrow": "«narrow» tor degani."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "The door is too ______ for the big sofa to fit through; we need a wider entrance.",
+  "options": [
+   "narrow",
+   "wide",
+   "tall",
+   "steep"
+  ],
+  "answer": "narrow",
+  "why": "«big sofa to fit through» va «wider entrance» ishorasi «narrow» (tor) so'ziga ishora.",
+  "wrong": {
+   "wide": "«wide» keng, lekin jumlada divan sig'mayotgani aytilmoqda.",
+   "tall": "«tall» baland degani.",
+   "steep": "«steep» tik qiyalikni bildiradi."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "You can touch the riverbed easily because the water is very ______ here.",
+  "options": [
+   "shallow",
+   "deep",
+   "icy",
+   "dark"
+  ],
+  "answer": "shallow",
+  "why": "«You can touch the riverbed easily» qismi «shallow» (sayoz) ekanini bildiradi.",
+  "wrong": {
+   "deep": "«deep» chuqur bo'lsa, tubiga teginish qiyin bo'lardi.",
+   "icy": "«icy» muzli.",
+   "dark": "«dark» qorong'i."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "My older brother is very ______; he is almost two meters in height.",
+  "options": [
+   "tall",
+   "low",
+   "narrow",
+   "shallow"
+  ],
+  "answer": "tall",
+  "why": "«almost two meters in height» iborasi «tall» (baland/bo'yi uzun) so'zini anglatadi.",
+  "wrong": {
+   "low": "«low» past bo'yli narsalarga nisbatan ishlatiladi.",
+   "narrow": "«narrow» tor degani.",
+   "shallow": "«shallow» suvning sayozligi."
+  }
+ }
+]

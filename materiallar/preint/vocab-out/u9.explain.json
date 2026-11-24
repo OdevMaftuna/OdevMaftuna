@@ -1,0 +1,682 @@
+[
+ {
+  "why": "«bald» — kal. Gapda «no hair on his head» bor: bobomning boshida soch yo'q, shuning uchun u kal.",
+  "wrong": {
+   "baldness": "«baldness» — kallik (ot so'z turkumi); bu yerda sifat kerak.",
+   "deaf": "«deaf» — kar, eshitmaydigan; bu gap soch haqida, eshitish haqida emas.",
+   "deafness": "«deafness» — karilik; bu yerda ot emas, sifat kerak."
+  }
+ },
+ {
+  "why": "«deaf» — kar. Gapda «cannot hear anything» bor: hech narsani eshita olmaydi.",
+  "wrong": {
+   "bald": "«bald» — kal; bu bosh sochiga oid.",
+   "baldness": "«baldness» — kallik; bu grammatik jihatdan to'g'ri kelmaydi.",
+   "deafness": "«deafness» — karlik; bu ot, bizga esa holatni bildiruvchi sifat kerak."
+  }
+ },
+ {
+  "why": "«iron» — temir. Gapda «used to make strong bridges» bor: kuchli ko‘priklar temirdan yasaladi.",
+  "wrong": {
+   "aluminium": "«aluminium» — alyuminiy; u ko‘priklar uchun juda yengil.",
+   "copper": "«copper» — mis; ko‘priklar uchun ishlatilmaydi.",
+   "gold": "«gold» — oltin; u juda qimmatbaho metal."
+  }
+ },
+ {
+  "why": "«leather» — charm. Gapda «comes from cows and is used for making shoes» bor: sigir terisidan poyabzal qilinadi.",
+  "wrong": {
+   "cardboard": "«cardboard» — karton; u poyabzal uchun yaramaydi.",
+   "glass": "«glass» — shisha; u qattiq va sindiruvchan.",
+   "wood": "«wood» — yog‘och; poyabzal uningdan qilinmaydi."
+  }
+ },
+ {
+  "why": "«gold» — oltin. Gapda «shiny yellow precious metal» va «expensive rings» bor: qimmatbaho sariq metall.",
+  "wrong": {
+   "aluminium": "«aluminium» — alyuminiy; u kumush rangli va arzon.",
+   "copper": "«copper» — mis; u qizg‘ish rangda.",
+   "iron": "«iron» — temir; u sariq va yaltiroq emas."
+  }
+ },
+ {
+  "why": "«aluminium» — alyuminiy. Gapda «light metal» va «soft drink cans» bor: yengil metall va bankalar shundan qilinadi.",
+  "wrong": {
+   "copper": "«copper» — mis; bankalar uchun ishlatilmaydi.",
+   "gold": "«gold» — oltin; soda bankalari oltindan qilinmaydi.",
+   "iron": "«iron» — temir; u og‘irroq metall."
+  }
+ },
+ {
+  "why": "«broken» — singan. Gapda «broke his phone screen» va «does not work» bor: ekran singani uchun ishlamayapti.",
+  "wrong": {
+   "cordless": "«cordless» — simsiz; telefon ishlamayotganining sababi bu emas.",
+   "rechargeable": "«rechargeable» — quvvatlanadigan; bu yerda ekran singan.",
+   "solar-powered": "«solar-powered» — quyosh energiyasida ishlaydigan; matnga to'g'ri kelmaydi."
+  }
+ },
+ {
+  "why": "«cordless» — simsiz. Gapda «does not need to plug into the wall» va «uses batteries» bor: batareyada ishlaydi.",
+  "wrong": {
+   "broken": "«broken» — singan; agar singan bo'lsa ishlamas edi.",
+   "rechargeable": "«rechargeable» — zaryadlanuvchi; batareya ishlatilishi aytilgan.",
+   "solar-powered": "«solar-powered» — quyosh energiyali; batareya haqida gap ketmoqda."
+  }
+ },
+ {
+  "why": "«square» — kvadrat. Gapda «four equal straight sides» va «ninety-degree corners» bor: to‘rtta teng tomoni bor.",
+  "wrong": {
+   "circular": "circular — dumaloq; uning burchaklari yo‘q.",
+   "rectangular": "rectangular — to‘g‘ri to‘rtburchak; barcha tomonlari teng emas.",
+   "spherical": "spherical — sfera shaklida; bu uch o'lchamli shakl."
+  }
+ },
+ {
+  "why": "«spherical» — sharsimon. Gapda «perfectly round like a ball in every direction» bor: to‘pga o‘xshash yumaloq.",
+  "wrong": {
+   "circular": "circular — doiraviy; bu tekis shakl.",
+   "rectangular": "rectangular — to‘g‘ri to‘rtburchak; yumaloq emas.",
+   "square": "square — kvadrat; burchakli shakl."
+  }
+ },
+ {
+  "why": "«complain» — shikoyat qilmoq. Gapda «asked ... to give her money back for the ruined shirt» bor: pulni qaytarishni talab qilish.",
+  "wrong": {
+   "apologise": "apologise — kechirim so'ramoq; bu yerda xaridor norozi.",
+   "enquire": "enquire — so'rab bilmoq; pul qaytarishni talab qilish bu emas.",
+   "warn": "warn — ogohlantirmoq; bu yerda kiyim buzilgan."
+  }
+ },
+ {
+  "why": "«apologise» — kechirim so‘ramoq. Gapda «say sorry» bor: kechirim so‘rash kerak.",
+  "wrong": {
+   "complain": "complain — shikoyat qilmoq; kitobni ruxsatsiz olgani uchun uzr so'rash kerak.",
+   "enquire": "enquire — so‘ramoq; bu yerda xato uchun uzr kerak.",
+   "warn": "warn — ogohlantirmoq; kechirim so'rashga aloqasi yo'q."
+  }
+ },
+ {
+  "why": "«warn» — ogohlantirmoq. Gapda «to be careful» bor: ehtiyot bo‘lish haqida ogohlantirish.",
+  "wrong": {
+   "apologise": "apologise — kechirim so'ramoq; xavf haqida ogohlantirish kerak.",
+   "complain": "complain — shikoyat qilmoq; bu yerda maslahat va ogohlantirish bor.",
+   "enquire": "enquire — so‘rab bilmoq; o'qituvchi ehtiyot bo'lishni aytdi."
+  }
+ },
+ {
+  "why": "«enquire» — so‘rab bilmoq. Gapda «wanted to know when the next train ... leaves» bor: poyezd vaqtini bilishni xohlash.",
+  "wrong": {
+   "apologise": "apologise — kechirim so'ramoq; vaqtni bilishga aloqasi yo'q.",
+   "complain": "complain — shikoyat qilmoq; bu yerda ma'lumot olish so'ralmoqda.",
+   "warn": "warn — ogohlantirmoq; bu yerda savol bor."
+  }
+ },
+ {
+  "why": "«recommend» — tavsiya qilmoq. Gapda «which restaurant ... has the best plov» bor: yaxshi joyni aytib yuborishni so'rash.",
+  "wrong": {
+   "demonstrate": "demonstrate — ko‘rsatib bermoq; restoranni namoyish qilib bo'lmaydi.",
+   "invent": "invent — o‘ylab topmoq; restoranni o'ylab topib bo'lmaydi.",
+   "persuade": "persuade — ko‘ndirmoq; bu yerda maslahat so'ralmoqda."
+  }
+ },
+ {
+  "why": "«demonstrate» — namoyish qilmoq. Gapda «showed ... step by step» bor: tajribani qadam-baqadam ko‘rsatib berish.",
+  "wrong": {
+   "invent": "invent — kashf qilmoq; bu yerda bor narsani ko'rsatish haqida.",
+   "persuade": "persuade — ishontirmoq; tajriba ko'rsatilmoqda.",
+   "recommend": "recommend — tavsiya qilmoq; darsda tajriba ko'rsatildi."
+  }
+ },
+ {
+  "why": "«persuade» — ko‘ndirmoq. Gapda «make my friend change his mind» bor: do‘stining fikrini o‘zgartirishga harakat qilish.",
+  "wrong": {
+   "demonstrate": "demonstrate — namoyish qilmoq; fikrni o'zgartirishga aloqasi yo'q.",
+   "invent": "invent — ixtiro qilmoq; do'stni ko'ndirish boshqa narsa.",
+   "recommend": "recommend — tavsiya qilmoq; bu yerda ko'ndirish harakati bor."
+  }
+ },
+ {
+  "why": "«inventor» — ixtirochi. Gapda «created the first electric light bulb» bor: chiroqni yaratgan odam.",
+  "wrong": {
+   "arrangement": "arrangement — kelishuv; bu odamga nisbatan ishlatilmaydi.",
+   "problem": "problem — muammo; ixtirochi odamdir.",
+   "treatment": "treatment — davolash; Edison odam va ixtirochi edi."
+  }
+ },
+ {
+  "why": "«treatment» — davolash (muolaja). Gapda «special medicine for her cough» bor: yo‘tal uchun dori-darmon berish.",
+  "wrong": {
+   "arrangement": "arrangement — kelishuv; doriga aloqasi yo'q.",
+   "inventor": "inventor — ixtirochi; bu odam.",
+   "problem": "problem — muammo; dori muammo emas."
+  }
+ },
+ {
+  "why": "«arrangement» — kelishuv (reja). Gapda «made a plan to meet» bor: uchrashish uchun reja tuzish.",
+  "wrong": {
+   "inventor": "inventor — ixtirochi; uchrashuv rejasiga to'g'ri kelmaydi.",
+   "problem": "problem — muammo; bu yaxshi reja.",
+   "treatment": "treatment — muolaja; bu yerda uchrashish rejasidir."
+  }
+ },
+ {
+  "why": "«problem» — qiyin masala yoki vazifa. Gapda «difficult math homework» bor: bu bolalar uchun katta qiyinchilik tug'diradi.",
+  "wrong": {
+   "arrangement": "«arrangement» — kelishuv; bu yerda uy vazifasi haqida gap ketyapti.",
+   "inventor": "«inventor» — ixtirochi; bu odam, uy vazifasi odam emas.",
+   "treatment": "«treatment» — davolash; uy vazifasiga aloqasi yo'q."
+  }
+ },
+ {
+  "why": "«cement» — sement (qurilish materiali). Gapda «powder mixed with water to build» bor: suv bilan aralashtirib devor quriladigan kukun bu sement.",
+  "wrong": {
+   "cardboard": "«cardboard» — qalin qog'oz; undan devor qurib bo'lmaydi.",
+   "glass": "«glass» — oyna; u kukun shaklida bo'lmaydi va suv bilan aralashtirilmaydi.",
+   "stone": "«stone» — tosh; u kukun emas, qattiq jism."
+  }
+ },
+ {
+  "why": "«glass» — shisha. Gapda «clear jar that is made from melted sand» bor: eritilgan qumdan shisha idish yasaladi.",
+  "wrong": {
+   "cardboard": "«cardboard» — qog'oz quti; u erigan qumdan yasalmaydi.",
+   "cement": "«cement» — sement; u shaffof banka uchun ishlatilmaydi.",
+   "stone": "«stone» — tosh; undan shaffof banka yasalmaydi."
+  }
+ },
+ {
+  "why": "«cardboard» — qalin qog'oz (karton). Gapda «thick brown folded paper» bor: bu karton qutini bildiradi.",
+  "wrong": {
+   "cement": "«cement» — sement; poyabzal qutisi undan yasalmaydi.",
+   "glass": "«glass» — shisha; bu buklanadigan qog'oz emas.",
+   "stone": "«stone» — tosh; poyabzal qutisi uchun juda og'ir."
+  }
+ },
+ {
+  "why": "«stone» — tosh. Gapda «grey rocks from the mountain» bor: tog'dagi kulrang qoyalar toshdir.",
+  "wrong": {
+   "cardboard": "«cardboard» — karton; qoldiq devorlar undan bo'lmaydi.",
+   "cement": "«cement» — sement; qadimgi qal'a devorlari tog' toshidan quriladi.",
+   "glass": "«glass» — shisha; qal'a devoriga to'g'ri kelmaydi."
+  }
+ },
+ {
+  "why": "«describe» — tasvirlab bermoq, ta'riflamoq. Gapda «in detail» va «what... looks like» bor: tashqi ko'rinishini batafsil aytib berish so'ralmoqda.",
+  "wrong": {
+   "tell a story": "«tell a story» — hikoya aytib bermoq; bu tashqi ko'rinishga mos emas.",
+   "thank": "«thank» — rahmat aytmoq; bu yerda ko'rinishni so'rashyapti.",
+   "welcome": "«welcome» — kutib olmoq; ta'riflashga aloqasi yo'q."
+  }
+ },
+ {
+  "why": "«welcome» — kutib olmoq, qarshi olmoq. Gapda «greeted... with a warm smile at the door» bor: mehmonlarni eshikda iliq taassurot bilan kutib olish.",
+  "wrong": {
+   "describe": "«describe» — tasvirlamoq; mehmonni eshikda tasvirlab bo'lmaydi.",
+   "tell a story": "«tell a story» — hikoya qilmoq; eshikda bu qilinmaydi.",
+   "thank": "«thank» — minnatdorchilik bildirmoq; dastlabki kutib olishga nisbatan welcome mos keladi."
+  }
+ },
+ {
+  "why": "«repair» — tuzatmoq, ta'mirlamoq. Gapda «chain was broken» bor: zanjir singani uchun velosipedni tuzatish kerak.",
+  "wrong": {
+   "comfort": "«comfort» — yupatmoq; buzilgan velosipedni yupatib bo'lmaydi.",
+   "treat": "«treat» — davolamoq; mexanik velosipedni davolamaydi, tuzatadi.",
+   "warn": "«warn» — ogohlantirmoq; bu yerda ta'mirlash haqida ketmoqda."
+  }
+ },
+ {
+  "why": "«comfort» — yupatmoq, taskin bermoq. Gapda «failed the test» va «everything would be fine» bor: imtihondan yiqilgan bolani onasi yupatadi.",
+  "wrong": {
+   "repair": "«repair» — ta'mirlamoq; odamni tuzatib bo'lmaydi.",
+   "treat": "«treat» — davolamoq; bu holatda ruhiy dalda - comfort kerak.",
+   "warn": "«warn» — ogohlantirmoq; qayg'uli bolaga yupatish kerak."
+  }
+ },
+ {
+  "why": "«treat» — davolamoq. Gapda «sick boy» va «medicine» bor: kasal bolaga shifokor dori berib davolaydi.",
+  "wrong": {
+   "comfort": "«comfort» — yupatmoq; dori kasal bolani davolaydi, yupatmaydi.",
+   "repair": "«repair» — tuzatmoq; kasal bolaga ishlatilmaydi.",
+   "warn": "«warn» — ogohlantirmoq; dori berish bu davolash."
+  }
+ },
+ {
+  "why": "«record» — eslab qolmoq, yozib olmoq (xotirada saqlamoq). Gapda «remember many old songs» bor: bobom eski qo'shiqlarni yodida saqlay oladi.",
+  "wrong": {
+   "challenge": "«challenge» — qiyin sinov; qo'shiqqa aloqasi yo'q.",
+   "reconstruct": "«reconstruct» — qaytadan tiklamoq; qo'shiqqa nisbatan ishlatilmaydi.",
+   "rediscover": "«rediscover» — qaytadan topmoq; eslab qolish ma'nosiga to'g'ri kelmaydi."
+  }
+ },
+ {
+  "why": "«reconstruct» — qaytadan tiklamoq. Gapda «build the broken ancient vase again» bor: singan vazani bo'laklaridan qayta yig'ib tiklash.",
+  "wrong": {
+   "challenge": "«challenge» — sinov; muzey xodimlari vazani tiklamoqda.",
+   "record": "«record» — yozib olmoq; vazaga nisbatan ishlatilmaydi.",
+   "rediscover": "«rediscover» — qayta topmoq; bu yerda uni qayta yasash haqida."
+  }
+ },
+ {
+  "why": "«rediscover» — qaytadan topmoq. Gapda «found an old lost city» bor: yo'qolgan qadimiy shaharni qaytadan topish.",
+  "wrong": {
+   "challenge": "«challenge» — qiyinchilik; shahar topishga mos emas.",
+   "record": "«record» — yozib qo'ymoq; arxeologlar shaharni topishdi.",
+   "reconstruct": "«reconstruct» — qayta tiklamoq; avval uni topish kerak edi."
+  }
+ },
+ {
+  "why": "«challenge» — qiyin sinov, qiyinchilik. Gapda «Climbing the highest mountain... was a very hard test» bor: tog'ga chiqish bu og'ir sinov.",
+  "wrong": {
+   "record": "«record» — yozuv; tog' sinoviga mos kelmaydi.",
+   "reconstruct": "«reconstruct» — qayta tiklash; tog'ga chiqishga aloqasi yo'q.",
+   "rediscover": "«rediscover» — qayta topish; bu qiyin sinov ma'nosini bermaydi."
+  }
+ },
+ {
+  "why": "«copper» — mis (metall). Gapda «reddish-brown metal that conducts heat» bor: qizg'ish-qo'ng'ir rangli issiqlik o'tkazuvchi metall bu mis.",
+  "wrong": {
+   "nylon": "«nylon» — neylon mato; u metall emas.",
+   "plastic": "«plastic» — plastmassa; u issiqlikni yaxshi o'tkazadigan metall emas.",
+   "rubber": "«rubber» — rezina; u metall emas."
+  }
+ },
+ {
+  "why": "«nylon» — neylon (sun'iy mato). Gapda «artificial fabric that dries quickly» bor: tez quriydigan sun'iy mato bu neylondir.",
+  "wrong": {
+   "copper": "«copper» — mis; undan qishki kiyim tikilmaydi.",
+   "plastic": "«plastic» — plastmassa; u mato emas.",
+   "rubber": "«rubber» — rezina; u qishki kiyim matosi emas."
+  }
+ },
+ {
+  "why": "«battery» — batareya, akkumulyator. Gapda «electricity stored inside a small internal cell» bor: elektr energiyasini saqlaydigan kichik qism bu batareya.",
+  "wrong": {
+   "mains": "«mains» — umumiy elektr tarmog'i; smartfon ichida kichik bo'lmaydi.",
+   "handle": "«handle» — tutqich; u elektr saqlamaydi.",
+   "lid": "«lid» — qopqoq; u energiyani saqlamaydi."
+  }
+ },
+ {
+  "why": "«arrange» — rejalashtirmoq, tartibga solmoq. Gapda «make plans for our weekend trip» bor: sayohat uchun reja tuzish kerak.",
+  "wrong": {
+   "comfort": "«comfort» — yupatmoq; sayohat rejasiga mos kelmaydi.",
+   "warn": "«warn» — ogohlantirmoq; sayohatni rejalashtirishga to'g'ri kelmaydi.",
+   "treat": "«treat» — davolamoq; bu yerda reja tuzish haqida gap boryapti."
+  }
+ },
+ {
+  "why": "«steel» — po'lat (qattiq qotishma). Gapda «strong grey metal made from a heavy alloy» bor: og'ir qotishmadan yasalgan mustahkam kulrang metall bu po'lat.",
+  "wrong": {
+   "paper": "«paper» — qog'oz; u metall emas.",
+   "cardboard": "«cardboard» — karton; u metall emas.",
+   "wood": "«wood» — yog'och; u metall emas."
+  }
+ },
+ {
+  "why": "«bald» — kal (sochsiz). Gapda «no hair on his head at all» bor: boshida umuman sochi yo'q odam kal bo'ladi.",
+  "wrong": {
+   "circular": "«circular» — doira shaklidagi; odamga nisbatan ishlatilmaydi.",
+   "deaf": "«deaf» — kar; bu eshitishga bog'liq, sochga emas.",
+   "spherical": "«spherical» — sfera shaklidagi; sochsiz odamni bildirmaydi."
+  }
+ },
+ {
+  "why": "«deaf» — kar, eshitmaydigan. Gapda «lost his hearing» bor: eshitish qobiliyatini yo‘qotgan odam kar bo‘ladi.",
+  "wrong": {
+   "bald": "«bald» — kal; bu yerda gap soch haqida emas, eshitish haqida.",
+   "broken": "«broken» — singan; odamga nisbatan ishlatilmaydi.",
+   "curved": "«curved» — egri; bu so‘z insonning eshitish qobiliyatiga mos kelmaydi."
+  }
+ },
+ {
+  "why": "«lid» — qopqoq. Gapda «cooking pot» va «before it starts boiling» bor: qaynashidan oldin idishga qopqoq yopiladi.",
+  "wrong": {
+   "handle": "«handle» — dasta; qaynayotgan idishni yopish uchun dasta ishlatilmaydi.",
+   "base": "«base» — taglik; qopqoq ma'nosini bermaydi.",
+   "battery": "«battery» — batareya; ovqat pishirish idishiga aloqasi yo‘q."
+  }
+ },
+ {
+  "why": "«cardboard» — karton. Gapda «pack our heavy books» bor: og‘ir kitoblarni qadoqlash uchun karton qutilar ishlatiladi.",
+  "wrong": {
+   "plastic": "«plastic» — plastik; og‘ir kitoblar uchun karton qulayroq.",
+   "glass": "«glass» — shisha; kitob qadoqlashga ishlatilmaydi.",
+   "ceramic": "«ceramic» — keramika; bu materialdan quti yasalmaydi."
+  }
+ },
+ {
+  "why": "«baldness» — kallik. Gapda «woolen hat» bor: boshida sochi yo‘q (kal) odam issiq saqlash uchun jun do‘ppi kiyadi.",
+  "wrong": {
+   "deafness": "«deafness» — karlik; bu yerda do‘ppi kiyish haqida gap ketmoqda.",
+   "movement": "«movement» — harakat; do‘ppi kiyishga sabab bo‘lmaydi.",
+   "arrangement": "«arrangement» — tartibga solish; ma'nosi mos kelmaydi."
+  }
+ },
+ {
+  "why": "«describe» — ta'riflab bermoq, tasvirlamoq. Gapda «wonderful traditional meal» bor: kecha yegan taomni ta'riflab berishni so‘rayapti.",
+  "wrong": {
+   "apologise": "«apologise» — kechirim so‘ramoq; taomni kechirim so‘rab bo‘lmaydi.",
+   "complain": "«complain» — shikoyat qilmoq; ajoyib taomdan shikoyat qilinmaydi.",
+   "comfort": "«comfort» — tasalli bermoq; ma'nosi to‘g‘ri kelmaydi."
+  }
+ },
+ {
+  "why": "«inventor» — ixtirochi. Gapda «created the first working electric light bulb» bor: lampochkani yaratgan kishi ixtirochi hisoblanadi.",
+  "wrong": {
+   "invent": "«invent» — ixtiro qilmoq (fe'l); bu yerga ot shakli kerak.",
+   "challenge": "«challenge» — qiyin vazifa; ma'nosi mos emas.",
+   "demonstrate": "«demonstrate» — namoyish etmoq; bu fe'l."
+  }
+ },
+ {
+  "why": "«spherical» — sharsimon. Gapda «big round ball» bor: katta dumaloq to‘p sharsimon shaklda bo‘ladi.",
+  "wrong": {
+   "rectangular": "«rectangular» — to‘g‘ri to‘rtburchak; to‘p bu shaklda emas.",
+   "triangular": "«triangular» — uchburchak; dumaloq narsaga to‘g‘ri kelmaydi.",
+   "square": "«square» — kvadrat; to‘p shaklini bildirmaydi."
+  }
+ },
+ {
+  "why": "«stone» — tosh. Gapda «heavy grey ... blocks from the nearby mountains» bor: tog‘lardan olinadigan og‘ir kulrang bloklar toshdan bo‘ladi.",
+  "wrong": {
+   "copper": "«copper» — mis; qadimiy shahar devorlari misdan qurilmagan.",
+   "aluminium": "«aluminium» — alyuminiy; tog‘dan olinadigan qurilish materiali emas.",
+   "iron": "«iron» — temir; qadimiy devorlarga ishlatilmagan."
+  }
+ },
+ {
+  "why": "«repair» — tuzatmoq, ta'mirlamoq. Gapda «broke his favorite plastic toy car» bor: sindirilgan o‘yinchoq mashinani tuzatish kerak.",
+  "wrong": {
+   "reconstruct": "«reconstruct» — qayta qurmoq; kichik o‘yinchoqqa nisbatan ishlatilmaydi.",
+   "record": "«record» — yozib olmoq; o‘yinchoqqa aloqasi yo‘q.",
+   "treat": "«treat» — davolamoq; o‘yinchoq davolanmaydi."
+  }
+ },
+ {
+  "why": "«cordless» — simsiz. Gapda «allows her to walk around the house while talking» bor: uyda yurib gaplashish uchun simsiz telefon kerak.",
+  "wrong": {
+   "rechargeable": "«rechargeable» — zaryadlanuvchi; yurib gaplashish xususiyatini bildirmaydi.",
+   "solar-powered": "«solar-powered» — quyosh energiyasida ishlaydigan; uy ichida uncha mos emas.",
+   "circular": "«circular» — doira shaklidagi; telefon turiga kirmaydi."
+  }
+ },
+ {
+  "why": "«recharge» — zaryadlamoq. Gapda «phone battery every night» bor: telefon batareyasini har kecha zaryadlash lozim.",
+  "wrong": {
+   "cordless": "«cordless» — simsiz; bu fe'l emas, sifat.",
+   "circular": "«circular» — doiraviy; batareyaga nisbatan ishlatilmaydi.",
+   "spherical": "«spherical» — sharsimon; ma'nosi to‘g‘ri kelmaydi."
+  }
+ },
+ {
+  "why": "«plastic» — plastik. Gapda «carry clean water through our new village garden» bor: toza suvni olib o‘tish uchun plastik quvurlar ishlatiladi.",
+  "wrong": {
+   "cardboard": "«cardboard» — karton; suv oqizish uchun yaroqsiz.",
+   "paper": "«paper» — qog‘oz; suvda darhol uvishib ketadi.",
+   "glass": "«glass» — shisha; quvur sifatida ishlatishga noqulay va sinuvchan."
+  }
+ },
+ {
+  "why": "«demonstrate» — ko‘rsatib bermoq, tushuntirib bermoq. Gapda «how the solar system moves around» bor: quyosh tizimining harakatini ko‘rsatib berish so‘ralmoqda.",
+  "wrong": {
+   "enquire": "«enquire» — so‘rab surishtirmoq; bu yerda jarayonni ko‘rsatish kerak.",
+   "complain": "«complain» — shikoyat qilmoq; aqlli o‘quvchilar bundan foydalanmaydi.",
+   "apologise": "«apologise» — kechirim so‘ramoq; ma'nosi mos emas."
+  }
+ },
+ {
+  "why": "«leather» — charm. Gapda «very soft and comfortable» bor: yumshoq va qulay poyabzal charm materialidan bo‘ladi.",
+  "wrong": {
+   "nylon": "«nylon» — neylon; poyabzalga to‘liq mos kelmaydi.",
+   "aluminium": "«aluminium» — alyuminiy; oyoq kiyim bu metalldan qilinmaydi.",
+   "copper": "«copper» — mis; poyabzal uchun ishlatilmaydi."
+  }
+ },
+ {
+  "why": "«copper» — mis. Gapda «gold and red» bor: O‘zbekiston tog‘larida oltin bilan birga qizil mis konlari ham bor.",
+  "wrong": {
+   "glass": "«glass» — shisha; tog‘larda tabiiy holda topilmaydi.",
+   "paper": "«paper» — qog‘oz; tabiiy boylik emas.",
+   "cardboard": "«cardboard» — karton; tog‘da uchramaydi."
+  }
+ },
+ {
+  "why": "«broken» — singan. Gapda «fixed it with glue» bor: yelimlab to‘g‘rilanganiga qaraganda stulning oyog‘i singan bo‘lgan.",
+  "wrong": {
+   "bald": "«bald» — kal; stulga nisbatan ishlatilmaydi.",
+   "deaf": "«deaf» — kar; mebelga nisbatan ishlatilmaydi.",
+   "curved": "«curved» — egri; yelimlab tuzatish uchun odatda sinish kerak."
+  }
+ },
+ {
+  "why": "«complain» — shikoyat qilmoq. Gapda «soup is too cold or lacks enough salt» bor: sho‘rva sovuq yoki tuzsiz bo‘lsa, ofitsiantga shikoyat qilinadi.",
+  "wrong": {
+   "apologise": "«apologise» — kechirim so‘ramoq; xato ofitsiantda bo‘lsa, uning oldidan kechirim so‘ralmaydi.",
+   "comfort": "«comfort» — tasalli bermoq; ovqatdan norozilikda ishlatilmaydi.",
+   "warn": "«warn» — ogohlantirmoq; bu vaziyatga mos emas."
+  }
+ },
+ {
+  "why": "«apologise» — kechirim so‘ramoq. Gapda «if you break his favorite red pencil» bor: do‘stining qalamini sindirib qo‘ysangiz, kechirim so‘rashingiz kerak.",
+  "wrong": {
+   "complain": "«complain» — shikoyat qilmoq; o‘zgalar oldida bu ish qilinmaydi.",
+   "enquire": "«enquire» — so‘rab bilmoq; ma'nosi to‘g‘ri kelmaydi.",
+   "treat": "«treat» — davolamoq yoki mehmon qilmoq; bu yerga mos emas."
+  }
+ },
+ {
+  "why": "«arrange» — uyushtirmoq, tashkil qilmoq. Gapda «wonderful birthday party» bor: opamiz tug‘ilgan kun bazmini uyushtiradi.",
+  "wrong": {
+   "comfort": "«comfort» — tasalli bermoq; bazmga nisbatan ishlatilmaydi.",
+   "warn": "«warn» — ogohlantirmoq; bayramga aloqasi yo‘q.",
+   "inform": "«inform» — xabar bermoq; bazmni xabar berib bo‘lmaydi, tashkil etiladi."
+  }
+ },
+ {
+  "why": "«recording» — yozuv. Gapda «made an interesting ... about the ancient history» bor: qadimiy tarix haqida qiziqarli audio yoki video yozuv taqdim etilgan.",
+  "wrong": {
+   "demonstration": "«demonstration» — namoyish; ma'nosi yozuvga qaraganda biroz boshqacharoq.",
+   "reconstruction": "«reconstruction» — qayta tiklash; tarix haqidagi ma'ruza yoki yozuvga unchalik mos emas.",
+   "arrangement": "«arrangement» — tartibga solish; bu yerda ma'lumot yozuvi nazarda tutilgan."
+  }
+ },
+ {
+  "why": "«rediscover» — qaytadan kashf qilmoq. Gapda «new facts» bor: olimlar yangi faktlarni qaytadan topishadi.",
+  "wrong": {
+   "reconstruct": "«reconstruct» — qayta qurmoq; bu yerda faktlar haqida ketmoqda, bino emas.",
+   "demonstrate": "«demonstrate» — namoyish qilmoq; faktlarni topish ma'nosiga to'g'ri kelmaydi.",
+   "inform": "«inform» — xabar bermoq; olimlar faktlarni xabar qilmaydi, balki topadi."
+  }
+ },
+ {
+  "why": "«handle» — tutqich. Gapda «open it safely» bor: eshikni ochish uchun uning tutqichidan ushlash kerak.",
+  "wrong": {
+   "lid": "«lid» — qopqoq; eshikda qopqoq bo'lmaydi.",
+   "base": "«base» — asos; eshikni pastki asosidan ushlab ochilmaydi.",
+   "battery": "«battery» — akkumulyator; eshikda batareya bo'lmaydi."
+  }
+ },
+ {
+  "why": "«tell a story» — hikoya aytib bermoq. Gapda «an exciting story» bor: bobom qiziqarli hikoya aytishni yoqtiradi.",
+  "wrong": {
+   "apologise": "«apologise» — kechirim so'ramoq; hikoyaga mos kelmaydi.",
+   "complain": "«complain» — shikoyat qilmoq; bu yerda qiziqarli voqea haqida.",
+   "comfort": "«comfort» — yupatmoq; hikoya aytishga ishlatilmaydi."
+  }
+ },
+ {
+  "why": "«paper» — qog'oz. Gapda «drawing for class» bor: rasm chizish uchun qog'oz kerak.",
+  "wrong": {
+   "plastic": "«plastic» — plastmassa; rasm chizish uchun qog'oz ishlatiladi.",
+   "cardboard": "«cardboard» — karton; odatda rasm qog'ozga chiziladi.",
+   "glass": "«glass» — shisha; rasm chizishga to'g'ri kelmaydi."
+  }
+ },
+ {
+  "why": "«solar-powered» — quyosh energiyasida ishlaydigan. Gapda «save money on electricity bills» bor: quyosh suvi isitgichi elektrni tejaydi.",
+  "wrong": {
+   "cordless": "«cordless» — simsiz; suv isitgichiga aloqasi yo'q.",
+   "rechargeable": "«rechargeable» — zaryadlanadigan; suv isitgichlari bunday bo'lmaydi.",
+   "circular": "«circular» — dumaloq; elektrni tejashga yordam bermaydi."
+  }
+ },
+ {
+  "why": "«treat» — davolamoq. Gapda «sick child with new medicine» bor: shifokor kasal bolani dori bilan davolaydi.",
+  "wrong": {
+   "comfort": "«comfort» — yupatmoq; shifokor bolani davolashi kerak.",
+   "warn": "«warn» — ogohlantirmoq; kasal bolaga bu mos emas.",
+   "inform": "«inform» — xabar bermoq; shifokor davolaydi."
+  }
+ },
+ {
+  "why": "«stone» — tosh. Gapda «slippery mud and wet» bor: loy va nam toshlar ustida ehtiyot yurish kerak.",
+  "wrong": {
+   "copper": "«copper» — mis; yo'lda mis bo'lmaydi.",
+   "iron": "«iron» — temir; yo'lda temir yotmaydi.",
+   "aluminium": "«aluminium» — alyuminiy; tabiatda bunday yo'l bo'lmaydi."
+  }
+ },
+ {
+  "why": "«wheels» — g'ildiraklar. Gapda «run smoothly on the asphalt road» bor: mashinaga yaxshi harakatlanish uchun g'ildirak kerak.",
+  "wrong": {
+   "lid": "«lid» — qopqoq; mashinaga qopqoq kerak emas.",
+   "handle": "«handle» — tutqich; mashina g'ildiraksiz yurmaydi.",
+   "base": "«base» — asos; g'ildirak o'rnini bosmaydi."
+  }
+ },
+ {
+  "why": "«enquire» — so'rab-surishtirmoq. Gapda «missing painting» bor: detektiv yo'qolgan rasm haqida surishtirmoqchi.",
+  "wrong": {
+   "complain": "«complain» — shikoyat qilmoq; detektiv surishtiradi, shikoyat qilmaydi.",
+   "apologise": "«apologise» — kechirim so'ramoq; bu vaziyatga mos emas.",
+   "comfort": "«comfort» — yupatmoq; detektiv ishiga to'g'ri kelmaydi."
+  }
+ },
+ {
+  "why": "«encourage» — ruhlantirmoq. Gapda «shy students to speak clearly» bor: o'qituvchi uyatchan o'quvchilarni aniq gapirishga ruhlantiradi.",
+  "wrong": {
+   "comfort": "«comfort» — yupatmoq; ruhlantirmoq bu yerda to'g'riroq.",
+   "complain": "«complain» — shikoyat qilmoq; o'quvchilarga nisbatan ishlatilmaydi.",
+   "apologise": "«apologise» — kechirim so'ramoq; ma'nosi mos kelmaydi."
+  }
+ },
+ {
+  "why": "«bald» — kal. Gapda «lost all his hair years ago» bor: yillar oldin barcha sochlarini yo'qotgan odam kal bo'ladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«reconstruction» — qayta qurish. Gapda «look safe for visitors» bor: eski qasrni xavfsiz qilish uchun katta qayta qurish kerak. Ism shakli kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«apologise» — kechirim so'ramoq. Gapda «if you make a mistake» bor: xato qilsangiz, do'stingizdan kechirim so'rashingiz kerak. Fe'l shakli kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«lid» — qopqoq. Gapda «boiling pot of soup» bor: qaynayotgan sho'rva idishiga qopqoq yopiladi. Ot shakli kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«leather» — teri. Gapda «genuine brown» va «belt» bor: kamar haqiqiy jigarrang teridan yasaladi. Ot shakli kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«cardboard» — karton. Gapda «boxes for our move» bor: ko'chish uchun qalin jigarrang karton qutilar kerak. Ot shakli kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«battery» — batareya, akkumulyator. Gapda «phone is dead» va «charge» bor: telefonda zaryad tugasa, uning batareyasi o'ladi. Ot shakli kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«reconstruct» — qayta qurmoq. Gapda «old houses in our village» bor: amaki qishloqdagi eski uylarni qayta qurish bilan shug'ullanadi. Fe'l shakli kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«stone» — tosh. Gapda «heavy blocks of» bor: qadimgi quruvchilar devor qurish uchun og'ir tosh bloklardan foydalanishgan. Ot shakli kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«circular» — dumaloq. Gapda «glass top» bor: oshxona stolining ustki qismi dumaloq shishadan yasalgan. Sifat shakli kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«cordless» — simsiz degani. Gapda «walk around» so'zlari bor, demak telefon simsiz va ko'tarib yursa bo'ladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«arrange» — kelishib belgilamoq. Gapda «meeting time» va «Thursday» bor, demak uchrashuv vaqtini o'zgartirib kelishish kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«demonstrate» — ko'rsatib bermoq. Gapda «how to paint portraits» bor, rassom portret chizishni ko'rsatib beradi.",
+  "wrong": {}
+ },
+ {
+  "why": "«describe» — tasvirlab bermoq yoki tushuntirmoq. Gapda «science facts» bor, ukasi fan faktlarini aytib berishni yaxshi ko'radi.",
+  "wrong": {}
+ },
+ {
+  "why": "«complain» — shikoyat qilmoq. Gapda «cold weather» bor, sovuq ob-havodan shikoyat qilmaslikni so'rayapti.",
+  "wrong": {}
+ },
+ {
+  "why": "«thank» — minnatdorchilik bildirmoq. Gapda «helping you with your homework» bor, uy vazifasiga yordam bergani uchun rahmat aytish kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«repair» — tuzatmoq. Gapda «broken bicycle» bor, muhandis singan velosipedni tuzatadi.",
+  "wrong": {}
+ },
+ {
+  "why": "«handle» — tutqich. Gapda «carry the heavy tray» bor, og'ir patnisni ko'tarish uchun tutqich kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«aluminium» — alyuminiy. Gapda «heats very fast» bor, bu metall tez qiziydi.",
+  "wrong": {}
+ },
+ {
+  "why": "«invention» — ixtiro. Gapda «science fair» bor, o'quvchilar fan yarmarkasi uchun ajoyib ixtiro qilishdi.",
+  "wrong": {}
+ },
+ {
+  "why": "«inform» — xabar bermoq. Gapda «change in our timetable» bor, dars jadvali o'zgargani haqida o'qituvchini xabardor qilishimiz kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«inventor» — ixtirochi. Gapda «built his new flying machine» bor, uchish apparatini ixtirochi qurgan.",
+  "wrong": {}
+ },
+ {
+  "why": "«glass» — shisha. Gapda «fresh milk in bottles» bor, sut shisha idishlarga quyiladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«wheels» — g'ildiraklar. Gapda «turn very fast» bor, velosipedning g'ildiraklari tez aylanadi. Ko'plik shakli ikkita g'ildirak borligi uchun kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«encourage» — dalda bermoq. Gapda «speak in class» bor, o'qituvchi uyatchan bolaga darsda gapirish uchun dalda berdi.",
+  "wrong": {}
+ },
+ {
+  "why": "«enquire» — so'rab surishtirmoq. Gapda «train tickets to Samarkand» bor, poyezd chiptalari narxi yoki vaqtini surishtirishimiz kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«gold» — oltin. Gapda «pure yellow» va «necklace» bor, marjon sof sariq oltindan yasalgan.",
+  "wrong": {}
+ },
+ {
+  "why": "«apologise» — uzr so'ramoq. Gapda «breaking his promise» bor, va'dasini buzgani uchun otam kecha uzr so'rashga qaror qildi.",
+  "wrong": {}
+ },
+ {
+  "why": "«lid» — qopqoq. Gapda «boiling pot of soup» bor, qaynayotgan sho'rva idishiga qopqoq yopish kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«comfort» — tasalli bermoq. Gapda «feels lonely» bor, kenja ukangiz yolg'iz qolganda unga tasalli berishingiz kerak.",
+  "wrong": {}
+ }
+]

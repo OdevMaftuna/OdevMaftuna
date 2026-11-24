@@ -1,0 +1,42 @@
+﻿63`t17`t110`t108
+118`t17`t108`t7
+131`t27`t182`tSmith's Bookshop
+164`t16`t238`tBook & DVD
+186`t21`t209`tLanguage Courses
+245`t18`t146`tCourses: Talking Time Speaking Plus
+269`t16`t238`tSpanish
+293`t15`t239`tFrench
+338`t15`t144`tPrices:
+362`t13`t144`tLevel 1:
+386`t13`t144`tLevel 2:
+485`t21`t131`tExercise 22
+270`t17`t339`tJapanese
+294`t17`t341`tSpanish
+363`t15`t341`t23000
+387`t15`t341`tE3s.oo
+74`t19`t582`tMultilevel Mastec reading
+125`t16`t468`t8
+135`t21`t537`tCRESSWELL'S
+161`t21`t500`tDEPARTMENT STORE
+192`t17`t503`tLondon, Manchester. Edinburgh
+260`t21`t579`tSALE
+330`t21`t545`t5— IO January
+375`t21`t536`tComputers E550
+399`t17`t564`twere 2850
+533`t18`t129`tRead the texts and the statements A-J. Decide which text matches
+561`t18`t129`twith the situation described in the statements.
+590`t19`t129`tEach statement can be used ONCE only. There are TWO extra
+620`t17`t128`tstatements which you do not need to use.
+657`t21`t128`tA) You would like to book a cruise for 2005 - to enjoy big savings you
+687`t21`t155`tmust book early.
+714`t21`t128`tB) You would like to spend a week on an island holiday.
+744`t21`t128`tC) You would like to travel to France and return IO days later.
+773`t22`t128`tD) You want to travel to Chine on ferry.
+801`t21`t126`tE) You Vi/OUId like to go to Italy for a long-weekend.
+830`t21`t126`tF) You are travelling to Spain by car and decide it would be best to be
+860`t21`t152`tacross the Channel by early morning.
+887`t22`t125`tG) You would like to take your partner to Paris tor a weekend tity
+915`t18`t152`tbreak.
+944`t23`t125`tH) You would like to go on holiday to Germany taking your car,
+972`t22`t125`tI) You are planning to travel to Sahara Desert
+1001`t21`t123`tJ) You would like to have a holiday in Ireland this summer.

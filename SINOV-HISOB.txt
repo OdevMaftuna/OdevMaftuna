@@ -1,0 +1,7 @@
+SINOV O'QUVCHI HISOBI (faqat sinash uchun)
+
+Sayt:   https://nsp-language-center.vercel.app
+E-pochta: sinov@nsp.test
+Parol:  Sinov-9745ed60
+
+Sinovdan keyin o'chirish:  node --env-file=.env.local scripts/sinov.mjs remove

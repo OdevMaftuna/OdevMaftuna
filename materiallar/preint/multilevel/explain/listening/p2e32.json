@@ -1,0 +1,35 @@
+{
+ "script": "Woman: Good afternoon. I'm going to tell you about the three tours we are currently organizing to historic houses in southern England. Mystery surrounds the exact origins of South Elmham House. Although it is known to date back to the 13th century when it was built by the bishops of Norwich, but was remodeled by several rich lords in the 16th century. It also contains some of the oldest wall paintings in the country, which suggest a very wealthy family once lived here. On the grounds, there is also the ruins of a small Norman church. Tours include walking through the deer park to the church and start at 2 p.m. They cost £12, including tea, coffee, and cakes. A midday meal can also be booked. Haughley Hall was built in the late 14th century, just outside a ruined Norman castle. It was updated and added to in the 18th century. King Henry II once owned the house, and its current owner is a lord. It includes secret hiding places in the walls, and two tunnels which are now bricked up, and a three-acre garden. Tours start at both 11:30 and 2 p.m. and cost either £15 with a traditional lunch, or £12 with tea. Groups are also welcome. Bedfield House is deep in the countryside and used to belong to the church until the mid-15th century, when the modern house was built. It was surrounded by a river, or moat, and inside the building, the painted surfaces and plastered ceilings have anti-witchcraft symbols. Five bridges connect the beautiful five-acre gardens. Tours take place at 10:30 and 2:30 and cost £13.50, which includes tea, coffee, and cakes. Groups are welcome.",
+ "items": [
+  {
+   "n": 1,
+   "quote": "remodeled by several rich lords in the 16th century",
+   "uz": "Matnda bino 16-asrda (\"16th century\") juda ta'mirlangani (\"remodeled / greatly improved\") aytilgan. Adashtiruvchi 13-asr (\"13th century\") esa bino ilk bor qurilgan davrga tegishli."
+  },
+  {
+   "n": 2,
+   "quote": "suggest a very wealthy family once lived here",
+   "uz": "Devoriy suratlar bu yerda ilgari boy oila (\"wealthy family\") yashaganini ko'rsatishi aytilgan."
+  },
+  {
+   "n": 3,
+   "quote": "secret hiding places in the walls",
+   "uz": "Haughley Hall binosi devorlarida yashirin joylar (\"secret hiding places\") borligi aytilgan."
+  },
+  {
+   "n": 4,
+   "quote": "£15 with a traditional lunch",
+   "uz": "15 funtlik ekskursiya an'anaviy tushlik (\"traditional lunch\") bilan birga beriladi. 12 funtli ekskursiyada esa faqat choy (\"tea\") berilishi aytib o'tilgan."
+  },
+  {
+   "n": 5,
+   "quote": "Five bridges connect the beautiful five-acre gardens",
+   "uz": "Bog'larni o'zaro bir-biri bilan beshta ko'prik (\"five bridges\") bog'lab turadi (\"joined / connect\")."
+  },
+  {
+   "n": 6,
+   "quote": "cost £13.50",
+   "uz": "Bedfield House bo'ylab ekskursiya narxi 13.50 funt (\"£13.50\") ekanligi aytilgan."
+  }
+ ]
+}

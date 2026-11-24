@@ -1,0 +1,1238 @@
+{
+ "unit": 1,
+ "guide": {
+  "topics": [
+   {
+    "name": "Talking about likes and dislikes",
+    "name_uz": "Yoqtirgan va yoqtirmagan narsalar haqida gapirish",
+    "summary": "Bu iboralar shaxsiy qiziqishlar, sevimli mashg'ulotlar yoki biror narsaga bo'lgan munosabatni bildirish uchun ishlatiladi.",
+    "usage": [
+     {
+      "text": "I can't stand — biror narsaga chiday olmaslik, uning yomon ko'rishini kuchliroq ifodalash uchun ishlatiladi.",
+      "example": {
+       "en": "I can't stand doing homework on Sunday.",
+       "uz": "Men yakshanba kuni uy vazifasini qilishga chiday olmayman."
+      }
+     },
+     {
+      "text": "I don't mind — biror narsaga qarshi emasman, unchalik yomon ko'rmayman ma'nosini beradi.",
+      "example": {
+       "en": "I don't mind washing the dishes.",
+       "uz": "Idishlarni yuvishga qarshi emasman."
+      }
+     },
+     {
+      "text": "I hate — yomon ko'rmoq, biror ishni yoki narsani mutlaqo yoqtirmaslikni bildiradi.",
+      "example": {
+       "en": "I hate getting up early in winter.",
+       "uz": "Qishda erta turishni yomon ko'raman."
+      }
+     },
+     {
+      "text": "I love — juda yaxshi ko'rmoq, qattiq qiziqmoq ma'nosida ishlatiladi.",
+      "example": {
+       "en": "I love playing football with my friends.",
+       "uz": "Do'stlarim bilan futbol o'ynashni juda yaxshi ko'raman."
+      }
+     },
+     {
+      "text": "I quite like — biroz yoqtiraman, yomon emas ma'nosini beradi.",
+      "example": {
+       "en": "I quite like listening to pop music.",
+       "uz": "Pop musiqa tinglashni biroz yoqtiraman."
+      }
+     },
+     {
+      "text": "I'm really keen on — biror narsaga qattiq qiziqmoq yoki ishqiboz bo'lmoq.",
+      "example": {
+       "en": "I'm really keen on photography.",
+       "uz": "Men suratga olishga juda qiziqaman."
+      }
+     },
+     {
+      "text": "... isn't bad — yomon emas, o'rtacha darajada ma'qul kelishini bildiradi.",
+      "example": {
+       "en": "This school lunch isn't bad.",
+       "uz": "Bu maktab tushlik ovqati yomon emas."
+      }
+     },
+     {
+      "text": "... is great — ajoyib, juda zo'r ma'nosida ishlatiladi.",
+      "example": {
+       "en": "English grammar is great when you understand it.",
+       "uz": "Ingliz tili grammatikasini tushunsangiz, juda ajoyib."
+      }
+     },
+     {
+      "text": "... is terrible — juda dahshatli, yomon ma'nosini bildiradi.",
+      "example": {
+       "en": "The weather today is terrible.",
+       "uz": "Bugungi ob-havo juda dahshatli."
+      }
+     }
+    ],
+    "structure": [
+     {
+      "type": "+",
+      "formula": "Subject + love / like / hate / don't mind + noun / verb-ing",
+      "example": {
+       "en": "I love reading books.",
+       "uz": "Men kitob o'qishni yaxshi ko'raman."
+      }
+     },
+     {
+      "type": "+",
+      "formula": "Subject + am/is/are + really keen on + noun / verb-ing",
+      "example": {
+       "en": "She is really keen on drawing.",
+       "uz": "U rasm chizishga juda qiziqadi."
+      }
+     },
+     {
+      "type": "-",
+      "formula": "Subject + don't / doesn't + mind / like + noun / verb-ing",
+      "example": {
+       "en": "He doesn't like waking up early.",
+       "uz": "U erta turishni yoqtirmaydi."
+      }
+     },
+     {
+      "type": "short",
+      "formula": "Noun phrase + is + adjective",
+      "example": {
+       "en": "Maths is terrible.",
+       "uz": "Matematika dahshatli (qiyin)."
+      }
+     }
+    ],
+    "signals": [
+     {
+      "en": "keen on",
+      "uz": "qiziqmoq"
+     },
+     {
+      "en": "can't stand",
+      "uz": "chiday olmaslik"
+     },
+     {
+      "en": "hate",
+      "uz": "yomon ko'rmoq"
+     },
+     {
+      "en": "love",
+      "uz": "yaxshi ko'rmoq"
+     },
+     {
+      "en": "don't mind",
+      "uz": "qarshi emasman"
+     },
+     {
+      "en": "terrible",
+      "uz": "dahshatli"
+     },
+     {
+      "en": "great",
+      "uz": "ajoyib"
+     }
+    ],
+    "tip": "Like, love, hate va can't stand fe'llaridan keyin keladigan keyingi fe'lga -ing qo'shimchasi qo'shilishini unutmang (masalan: I love swimming)."
+   },
+   {
+    "name": "Asking for / Giving advice",
+    "name_uz": "Maslahat so'rash va berish",
+    "summary": "Bu iboralar qiyin vaziyatlarda yechim topish uchun boshqalardan maslahat so'rash yoki ularga to'g'ri yo'l ko'rsatishda ishlatiladi.",
+    "usage": [
+     {
+      "text": "What can I do? — nima qilishni bilmay qolganda yordam yoki maslahat so'rash uchun ishlatiladi.",
+      "example": {
+       "en": "I lost my phone. What can I do?",
+       "uz": "Telefonimni yo'qotib qo'ydim. Nima qilsam bo'ladi?"
+      }
+     },
+     {
+      "text": "Can I ask your advice about something? — biror masala bo'yicha rasmiyroq yoki muloyim tarzda maslahat so'rash.",
+      "example": {
+       "en": "Can I ask your advice about this project?",
+       "uz": "Bu loyiha bo'yicha sizdan maslahat so'rasam bo'ladimi?"
+      }
+     },
+     {
+      "text": "I think / don't think you should ... — senga shuni qilishni maslahat beraman yoki bermayman ma'nosida fikr bildirish.",
+      "example": {
+       "en": "I think you should study harder.",
+       "uz": "O'ylashimcha, sen qattiqroq o'qishing kerak."
+      }
+     },
+     {
+      "text": "Why don't you ...? — nima uchun ... qilib ko'rmaysan?, do'stona maslahat berish shakli.",
+      "example": {
+       "en": "Why don't you talk to your teacher?",
+       "uz": "Nega o'qituvching bilan gaplashib ko'rmaysan?"
+      }
+     },
+     {
+      "text": "You need to ... — senga ... qilish kerak, zaruriyatni bildiradi.",
+      "example": {
+       "en": "You need to rest before the exam.",
+       "uz": "Imtihondan oldin dam olishing kerak."
+      }
+     },
+     {
+      "text": "You have to ... — majburiyatni bildiruvchi kuchliroq maslahat.",
+      "example": {
+       "en": "You have to submit your homework on time.",
+       "uz": "Uy vazifangizni o'z vaqtida topshirishingiz shart."
+      }
+     },
+     {
+      "text": "That's my advice — bu mening senga maslahatim deb gapni yakunlash uchun.",
+      "example": {
+       "en": "Sleep early tonight. That's my advice.",
+       "uz": "Bugun kechasi erta uxla. Bu mening senga maslahatim."
+      }
+     },
+     {
+      "text": "You're right. Thanks for your advice — berilgan maslahatga qo'shilish va minnatdorchilik bildirish.",
+      "example": {
+       "en": "You're right. Thanks for your advice, Kamola.",
+       "uz": "Haqsiz. Maslahatingiz uchun rahmat, Kamola."
+      }
+     }
+    ],
+    "structure": [
+     {
+      "type": "?",
+      "formula": "Why don't you + base verb ...?",
+      "example": {
+       "en": "Why don't you drink some water?",
+       "uz": "Nega biroz suv ichib olmaysan?"
+      }
+     },
+     {
+      "type": "+",
+      "formula": "I think you should + base verb",
+      "example": {
+       "en": "I think you should apologize.",
+       "uz": "O'ylashimcha, uzr so'rashing kerak."
+      }
+     },
+     {
+      "type": "+",
+      "formula": "You need to / have to + base verb",
+      "example": {
+       "en": "You need to practice English every day.",
+       "uz": "Har kuni ingliz tilini mashq qilishing kerak."
+      }
+     },
+     {
+      "type": "-",
+      "formula": "I don't think you should + base verb",
+      "example": {
+       "en": "I don't think you should buy that phone.",
+       "uz": "O'ylashimcha, o'sha telefonni sotib olmasliging kerak."
+      }
+     }
+    ],
+    "signals": [
+     {
+      "en": "advice",
+      "uz": "maslahat"
+     },
+     {
+      "en": "should",
+      "uz": "kerak (maslahat)"
+     },
+     {
+      "en": "need to",
+      "uz": "zarur bo'lmoq"
+     },
+     {
+      "en": "have to",
+      "uz": "majbur bo'lmoq"
+     },
+     {
+      "en": "why don't you",
+      "uz": "nega ... qilmaysan"
+     }
+    ],
+    "tip": "'Advice' so'zi ingliz tilida sanalmaydigan ot (uncountable). Shuning uchun 'an advice' deb bo'lmaydi, faqat 'some advice' yoki 'a piece of advice' deyiladi."
+   },
+   {
+    "name": "Reacting and showing interest",
+    "name_uz": "Munosabat bildirish va qiziqish ko'rsatish",
+    "summary": "Suhbatdoshning yangiliklariga emotsional munosabat bildirish, xursandchilik, hayrat yoki afsuslanishni ko'rsatish uchun ishlatiladi.",
+    "usage": [
+     {
+      "text": "You're joking / kidding! — hazillashyapsizmi?, ishongisi kelmayotganda ishlatiladi.",
+      "example": {
+       "en": "I won the first prize! - You're joking!",
+       "uz": "Men birinchi o'rinni oldim! - Hazillashyapsizmi!"
+      }
+     },
+     {
+      "text": "How boring / funny / frustrating / exciting / upsetting / awful! — qanchalik zerikarli / qiziqarli / g'azablanarli / hayajonli / xafa qilarli / dahshatli!",
+      "example": {
+       "en": "My flight was delayed. - How frustrating!",
+       "uz": "Samolyotim kechikdi. - Qanchalik asabga tegarlig-a!"
+      }
+     },
+     {
+      "text": "That's amazing / exciting / worrying / shocking! — bu juda ajoyib / hayajonli / tashvishli / shok holatidagi yangilik!",
+      "example": {
+       "en": "We are going to London! - That's exciting!",
+       "uz": "Biz Londonga ketyapmiz! - Bu juda hayajonli!"
+      }
+     },
+     {
+      "text": "That sounds great / terrible / annoying / terrifying! — bu ajoyib / dahshatli / bezovta qiluvchi / qo'rqinchli eshitilyapti.",
+      "example": {
+       "en": "I failed my math test. - That sounds terrible.",
+       "uz": "Matematika testidan yiqildim. - Bu juda yomon eshitilyapti."
+      }
+     },
+     {
+      "text": "What a cool thing to do! — qanday zo'r ish!",
+      "example": {
+       "en": "I learned to code a video game. - What a cool thing to do!",
+       "uz": "Men video o'yin yaratishni o'rgandim. - Qanday ajoyib ish!"
+      }
+     },
+     {
+      "text": "Really? I'm so envious! — rostmi? Men rosa havas qilyapman!",
+      "example": {
+       "en": "I got a new iPhone 15. - Really? I'm so envious!",
+       "uz": "Menda yangi iPhone 15 bor. - Rostmi? Men rosa havas qilyapman!"
+      }
+     },
+     {
+      "text": "Really? What a relief! — rostmi? Qanday yengillik!",
+      "example": {
+       "en": "I found my lost keys! - Really? What a relief!",
+       "uz": "Yo'qotgan kalitlarimni topdim! - Rostmi? Qanday yengillik!"
+      }
+     },
+     {
+      "text": "That sounds like a nightmare! — bu xuddi dahshatli tushdek eshitilyapti.",
+      "example": {
+       "en": "I was stuck in the lift for two hours. - That sounds like a nightmare!",
+       "uz": "Men liftda ikki soat qamalib qoldim. - Bu xuddi dahshatdek tuyulmoqda!"
+      }
+     },
+     {
+      "text": "Oh no! What a disaster / shame! — yo'q! Qanday kulfat / afsus!",
+      "example": {
+       "en": "It started raining during our picnic. - What a shame!",
+       "uz": "Piknigimiz paytida yomg'ir yog'a boshladi. - Qanday afsus!"
+      }
+     }
+    ],
+    "structure": [
+     {
+      "type": "+",
+      "formula": "That's + adjective (amazing / exciting / shocking)",
+      "example": {
+       "en": "That's amazing news!",
+       "uz": "Bu ajoyib yangilik!"
+      }
+     },
+     {
+      "type": "+",
+      "formula": "That sounds + adjective (great / terrible)",
+      "example": {
+       "en": "That sounds great.",
+       "uz": "Bu juda yaxshi eshitilyapti."
+      }
+     },
+     {
+      "type": "+",
+      "formula": "How + adjective (boring / funny / awful)!",
+      "example": {
+       "en": "How exciting!",
+       "uz": "Qanchalik hayajonli!"
+      }
+     },
+     {
+      "type": "+",
+      "formula": "What a + adjective + noun (disaster / shame / cool thing)!",
+      "example": {
+       "en": "What a shame!",
+       "uz": "Qanday afsus!"
+      }
+     }
+    ],
+    "signals": [
+     {
+      "en": "envious",
+      "uz": "havas qilgan"
+     },
+     {
+      "en": "relief",
+      "uz": "yengillik"
+     },
+     {
+      "en": "shame",
+      "uz": "afsus"
+     },
+     {
+      "en": "disaster",
+      "uz": "kulfat, falokat"
+     },
+     {
+      "en": "frustrating",
+      "uz": "asabga tegadigan"
+     }
+    ],
+    "tip": "'What a shame!' deganda uyat emas, balki 'qanday afsus' ma'nosi tushuniladi. Uni boshqa odamning xatosi yoki baxtsizligi uchun achinish bildirganda ishlatamiz."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I can't stand to do housework.",
+    "right": "I can't stand doing housework.",
+    "why": "Can't stand, love, hate kabi fe'llardan keyin fe'lga infinitive (to do) emas, balki -ing qo'shimchasi qo'shiladi."
+   },
+   {
+    "wrong": "Can you give me an advice?",
+    "right": "Can you give me some advice?",
+    "why": "Advice so'zi sanalmaydigan ot bo'lib, uning oldidan 'an' noaniq artikli ishlatilmaydi."
+   },
+   {
+    "wrong": "Why don't you to go home?",
+    "right": "Why don't you go home?",
+    "why": "Why don't you qolipidan keyin 'to' qo'shimchasisiz asosiy fe'l keladi."
+   },
+   {
+    "wrong": "I'm really keen in music.",
+    "right": "I'm really keen on music.",
+    "why": "Keen so'zi 'in' emas, doimo 'on' ko'makchisi bilan ishlatiladi."
+   },
+   {
+    "wrong": "How a nice day!",
+    "right": "What a nice day!",
+    "why": "Otlardan oldin hayratlanish bildirganda 'How' emas, balki 'What a' ishlatiladi."
+   },
+   {
+    "wrong": "That sounds as a great idea.",
+    "right": "That sounds like a great idea.",
+    "why": "Sound fe'lidan keyin o'xshatish ma'nosida 'as' emas, 'like' so'zi ishlatiladi."
+   }
+  ]
+ },
+ "parts": [
+  [
+   {
+    "kind": "abc",
+    "q": "Tim: Do you want to watch this boring documentary? \nAziz: No way. I can't ______ waiting for buses, but this show is worse! \nTim: Haha, let's play football instead.",
+    "hint": "",
+    "options": [
+     "stand",
+     "like",
+     "love"
+    ],
+    "answer": "stand",
+    "accept": [],
+    "phrase": "I can't stand ...",
+    "explain": "Bu yerda «I can't stand» birikmasi yoqtirmaslikni bildiradi. «worse» so'zi yomon narsaga chidab bo'lmasligini ko'rsatadi.",
+    "wrong": {
+     "like": "«I can't like» qo'llanilmaydi va mantiqqa to'g'ri kelmaydi.",
+     "love": "«love» ijobiy ma'no bildiradi, matnda esa zerikarli shou haqida gap ketmoqda."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Malika: Do you like helping in the kitchen? \nDilnoza: I don't ______ washing dishes, but cooking is much more fun. \nMalika: I agree with you.",
+    "hint": "",
+    "options": [
+     "mind",
+     "hate",
+     "stand"
+    ],
+    "answer": "mind",
+    "accept": [],
+    "phrase": "I don't mind ...",
+    "explain": "Bu yerda «I don't mind» qarshilik qilmaslikni bildiradi. «cooking is much more fun» qismi idish yuvishga unchalik qarshi emasligini ko'rsatadi.",
+    "wrong": {
+     "hate": "«hate» juda yomon ko'rishni bildiradi, lekin keyingi jumlada ovqat pishirish qiziqroq ekani aytilgan.",
+     "stand": "«stand» fe'li oldidan «can't» bo'lishi kerak, shuning uchun bu yerda mos kelmaydi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Jasur: Why didn't you eat your soup? \nBobur: Because I ______ eating vegetables, especially carrots! \nJasur: Oh, I see.",
+    "hint": "",
+    "options": [
+     "hate",
+     "love",
+     "like"
+    ],
+    "answer": "hate",
+    "accept": [],
+    "phrase": "I hate ...",
+    "explain": "Bu yerda «I hate» nafratlanishni bildiradi. Sabzavot yemaslik sababi «hate» so'ziga mos keladi.",
+    "wrong": {
+     "love": "«love» yaxshi ko'rishni bildiradi, lekin sho'rva yemaslik buning aksi ekanini ko'rsatadi.",
+     "like": "«like» ijobiy ma'noga ega, bu esa sho'rvani rad etishga zid keladi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Sitora: Do you enjoy reading detective books? \nMadina: Yes, I ______ reading them during long summer holidays. \nSitora: Me too!",
+    "hint": "",
+    "options": [
+     "love",
+     "hate",
+     "mind"
+    ],
+    "answer": "love",
+    "accept": [],
+    "phrase": "I love ...",
+    "explain": "Bu yerda «I love» kuchli ijobiy tuyg'uni bildiradi. «Me too!» javobi ikkalasining ham kitob o'qishni yaxshi ko'rishini tasdiqlaydi.",
+    "wrong": {
+     "hate": "«hate» salbiy ma'noda, «Me too!» javobiga to'g'ri kelmaydi.",
+     "mind": "«mind» neytral ma'noda, lekin suhbatda ishtiyoq sezilib turibdi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Zarina: Are you ready for the math test tomorrow? \nNargiza: Not really. I'm really ______ on algebra, it is too difficult for us. \nZarina: Don't worry, I can help you.",
+    "hint": "",
+    "options": [
+     "keen",
+     "fond",
+     "good"
+    ],
+    "answer": "keen",
+    "accept": [],
+    "phrase": "I'm really keen on ...",
+    "explain": "Bu yerda «I'm really keen on» qiziqishni bildiradi, lekin inkor ma'noda qiyinligini ko'rsatmoqda.",
+    "wrong": {
+     "fond": "«fond» odatda insonlarga nisbatan ishlatiladi, fanlarga emas.",
+     "good": "«keen on» barqaror birikma bo'lib, bu yerda «keen» so'zi talab qilinadi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Rustam: How was your first day at the new computer club? \nAnvar: Well, the teacher ______ bad, but the computers are quite slow. \nRustam: You will get used to it.",
+    "hint": "",
+    "options": [
+     "isn't",
+     "aren't",
+     "is"
+    ],
+    "answer": "isn't",
+    "accept": [],
+    "phrase": "... isn't bad.",
+    "explain": "Bu yerda «... isn't bad» o'qituvchi yomon emasligini bildiradi.",
+    "wrong": {
+     "aren't": "«teacher» birlikda, shuning uchun «aren't» mos kelmaydi.",
+     "is": "«is bad» bo'lsa salbiy ma'no bo'lar edi, lekin «but» so'zi ijobiyroq fikrni talab qiladi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Dilshod: Have you seen the new superhero film at the cinema? \nKamola: Yes! The special effects ______ great! \nDilshod: I want to watch it this weekend too.",
+    "hint": "",
+    "options": [
+     "are",
+     "is",
+     "was"
+    ],
+    "answer": "are",
+    "accept": [],
+    "phrase": "... is great.",
+    "explain": "Bu yerda «... is great» yoki ko'plikda «are great» ijobiy bahoni bildiradi. «effects» so'zi ko'plikda bo'lgani uchun «are» ishlatiladi.",
+    "wrong": {
+     "is": "«effects» so'zi ko'plikda, shuning uchun «is» ishlatib bo'lmaydi.",
+     "was": "Suhbat hozirgi zamonda davom etmoqda, shuning uchun o'tgan zamon mos kelmaydi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Farhod: How was your biology exam today? \nShohruh: Oh, it ______ terrible. I couldn't answer half of the questions. \nFarhod: I am sorry to hear that.",
+    "hint": "",
+    "options": [
+     "was",
+     "were",
+     "is"
+    ],
+    "answer": "was",
+    "accept": [],
+    "phrase": "... is terrible.",
+    "explain": "Bu yerda «... is terrible» (yoki o'tgan zamonda «was terrible») juda yomonligini bildiradi.",
+    "wrong": {
+     "were": "«exam» birlikda, shuning uchun «were» ishlatib bo'lmaydi.",
+     "is": "Imtihon tugagan, shuning uchun o'tgan zamondagi «was» to'g'ri keladi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Bekzod: Can I ask ______ advice about something personal? \nUmid: Sure, what is troubling you? You can tell me.",
+    "hint": "",
+    "options": [
+     "your",
+     "my",
+     "his"
+    ],
+    "answer": "your",
+    "accept": [],
+    "phrase": "Can I ask your advice about something?",
+    "explain": "Bu yerda «Can I ask your advice» maslahat so'rash qolipi hisoblanadi.",
+    "wrong": {
+     "my": "O'zimizdan maslahat so'ramaymiz, shuning uchun «my» xato.",
+     "his": "Qarshimizdagi insondan maslahat so'raganda «your» ishlatiladi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Sardor: My phone battery always dies during the day. \nTimur: Why ______ you buy a portable charger? It is very cheap. \nSardor: That sounds helpful.",
+    "hint": "",
+    "options": [
+     "don't",
+     "aren't",
+     "didn't"
+    ],
+    "answer": "don't",
+    "accept": [],
+    "phrase": "Why don't you ...?",
+    "explain": "Bu yerda «Why don't you» maslahat berish qolipi bo'lib, «Why don't you buy» tarzida keladi.",
+    "wrong": {
+     "aren't": "«Why aren't you» harakatni davom etishga ishora qiladi, maslahatga emas.",
+     "didn't": "O'tgan zamondagi maslahat emas, hozirgi zamon tavsiyasi kerak."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Jasur: I want to pass my English test with a high score. \nTeacher: You ______ to study vocabulary every single day. \nJasur: I will try my best.",
+    "hint": "",
+    "options": [
+     "need",
+     "must",
+     "should"
+    ],
+    "answer": "need",
+    "accept": [],
+    "phrase": "You need to ...",
+    "explain": "Bu yerda «You need to» zaruriyatni va maslahatni bildiradi.",
+    "wrong": {
+     "must": "«must» ortidan to'g'ridan-to'g'ri fe'l keladi, «to» qo'shimchasi kerak emas.",
+     "should": "«should» ortidan ham «to» ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Mother: The museum opens at nine o'clock sharp. \nBobur: Do we ______ to arrive early? \nMother: Yes, to avoid long queues.",
+    "hint": "",
+    "options": [
+     "have",
+     "must",
+     "need"
+    ],
+    "answer": "have",
+    "accept": [],
+    "phrase": "You have to ...",
+    "explain": "Bu yerda «Do we have to» majburiyat haqida so'rash uchun ishlatiladi.",
+    "wrong": {
+     "must": "So'roq gapda «Must we» ishlatiladi, lekin «Do we have to» shakli mos keladi.",
+     "need": "«Do we need to» ham ishlatilishi mumkin, ammo qolipdagi so'z «have» hisoblanadi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Aziz: You should drink warm tea with honey. \nRustam: You're ______ . Thanks for your advice. \nAziz: Get well soon!",
+    "hint": "",
+    "options": [
+     "right",
+     "correct",
+     "true"
+    ],
+    "answer": "right",
+    "accept": [],
+    "phrase": "You're right. Thanks for your advice.",
+    "explain": "Bu yerda «You're right» berilgan maslahat to'g'riligini tan olishni bildiradi.",
+    "wrong": {
+     "correct": "«You're correct» ishlatilishi mumkin, ammo qolipda «right» so'zi qo'llaniladi.",
+     "true": "«You're true» emas, «You're right» deyiladi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Madina: I won the first prize in the national contest! \nZarina: You're ______! No way! \nMadina: I am serious, look at the certificate.",
+    "hint": "",
+    "options": [
+     "joking",
+     "lying",
+     "playing"
+    ],
+    "answer": "joking",
+    "accept": [],
+    "phrase": "You're joking / kidding!",
+    "explain": "Bu yerda «You're joking» (yoki kidding) hayrat va ishonqiramaslikni bildiradi.",
+    "wrong": {
+     "lying": "«lying» aldashni bildiradi, bu esa hayratlanish holatiga to'g'ri kelmaydi.",
+     "playing": "«playing» bu kontekstda ma'no bermaydi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Teacher: Today we have to read three chapters of grammar rules. \nStudent: How ______! Can't we watch a video instead?",
+    "hint": "",
+    "options": [
+     "boring",
+     "exciting",
+     "funny"
+    ],
+    "answer": "boring",
+    "accept": [],
+    "phrase": "How boring / funny / frustrating / exciting / upsetting / awful!",
+    "explain": "Bu yerda «How boring» zerikarli ekanidan shikoyat qilishni bildiradi.",
+    "wrong": {
+     "exciting": "Qoidani o'qish qiziqarli bo'lmagani uchun «exciting» mos kelmaydi.",
+     "funny": "«funny» kulgili ma'nosini beradi, bu esa darsdagi zerikishga mos kelmaydi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Timur: I passed my driving test on the first try! \nAnvar: That's ______! Congratulations! \nTimur: Thank you, I am so happy.",
+    "hint": "",
+    "options": [
+     "amazing",
+     "terrible",
+     "awful"
+    ],
+    "answer": "amazing",
+    "accept": [],
+    "phrase": "That's amazing / exciting / worrying / shocking!",
+    "explain": "Bu yerda «That's amazing» ajoyib yangilikka nisbatan ijobiy munosabatni bildiradi.",
+    "wrong": {
+     "terrible": "Imtihondan o'tish yomon emas, shuning uchun «terrible» xato.",
+     "awful": "«awful» salbiy ma'noga ega."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Shahlo: My little brother drew on my history project with a red pen. \nZulfiya: That sounds like a ______! \nShahlo: It really is, I have to start again.",
+    "hint": "",
+    "options": [
+     "nightmare",
+     "dream",
+     "joke"
+    ],
+    "answer": "nightmare",
+    "accept": [],
+    "phrase": "That sounds like a nightmare!",
+    "explain": "Bu yerda «That sounds like a nightmare!» juda yomon holatga nisbatan ishlatiladi.",
+    "wrong": {
+     "dream": "«dream» ijobiy ma'noga ega, loyihaning buzilishi esa yomon holat.",
+     "joke": "Bu vaziyat hazil emas, shuning uchun «joke» mos kelmaydi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Sardor: I left my wallet at home and now I have no bus fare. \nBobur: Oh no! What a ______! \nSardor: Don't worry, I can lend you some money.",
+    "hint": "",
+    "options": [
+     "disaster",
+     "success",
+     "victory"
+    ],
+    "answer": "disaster",
+    "accept": [],
+    "phrase": "Oh no! What a disaster / shame!",
+    "explain": "Bu yerda «What a disaster» yoki «What a shame» noxush holatga nisbatan achinishni bildiradi.",
+    "wrong": {
+     "success": "Hamyonni yo'qotish muvaffaqiyat emas.",
+     "victory": "«victory» g'alaba degani, bu yerda esa muammo muhokama qilinyapti."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Malika: I am going to Tashkent to meet my favorite author next week. \nNargiza: Really? I'm so ______! \nMalika: I will take lots of photos for you.",
+    "hint": "",
+    "options": [
+     "envious",
+     "angry",
+     "sorry"
+    ],
+    "answer": "envious",
+    "accept": [],
+    "phrase": "Really? I'm so envious!",
+    "explain": "Bu yerda «I'm so envious» boshqaning omadiga havas qilishni bildiradi.",
+    "wrong": {
+     "angry": "Sevgan yozuvchisi bilan uchrashishga g'azab qilinmaydi.",
+     "sorry": "«I'm so sorry» achinishni bildiradi, lekin bu yerda havas qilish o'rinli."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Aziz: I thought I lost my passport at the airport, but I found it in my bag! \nRustam: Really? What a ______! \nAziz: I was so scared.",
+    "hint": "",
+    "options": [
+     "relief",
+     "shame",
+     "pity"
+    ],
+    "answer": "relief",
+    "accept": [],
+    "phrase": "Really? What a relief!",
+    "explain": "Bu yerda «What a relief» xavotir o'tib, yengil tortganda ishlatiladi.",
+    "wrong": {
+     "shame": "Pasport topilgani yaxshi xabar, shuning uchun afsuslanish o'rinli emas.",
+     "pity": "«What a pity» achinishni bildiradi, bu yerda esa xursandchilik bor."
+    }
+   }
+  ],
+  [
+   {
+    "kind": "word",
+    "q": "Madina: I am planning to travel across Europe alone this summer.\nZarina: You're ______!\nMadina: No, I am serious, I already booked my tickets.",
+    "hint": "",
+    "options": [],
+    "answer": "joking",
+    "accept": [
+     "kidding"
+    ],
+    "phrase": "You're joking / kidding!",
+    "explain": "Bu ibora «You're joking / kidding!» bo'lib, hayratlanarli yoki ishonib bo'lmaydigan xabarni eshitganda ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Anvar: My little brother lost my favourite football card at school.\nTimur: How ______! Can you find it?\nAnvar: No, it is gone forever.",
+    "hint": "",
+    "options": [],
+    "answer": "annoying",
+    "accept": [
+     "frustrating"
+    ],
+    "phrase": "That sounds great / terrible / annoying / terrifying!",
+    "explain": "Bu yerda «How annoying!» iborasi yoqimsiz va asabiylashtiruvchi vaziyatga nisbatan norozilikni bildirish uchun mos keladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Dilshod: I can't stand eating spicy food like manti with too much black pepper.\nSardor: Really? I don't ______ it, but it's not my favourite.\nDilshod: Ah, I see.",
+    "hint": "",
+    "options": [],
+    "answer": "mind",
+    "accept": [],
+    "phrase": "I don't mind ...",
+    "explain": "«I don't mind ...» biror narsaga qarshi emasligini, o'rtacha munosabatda ekanligini bildiradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Zarina: Can I ask your ______ about something important?\nDilnoza: Of course, what is it?\nZarina: I need help choosing a university.",
+    "hint": "",
+    "options": [],
+    "answer": "advice",
+    "accept": [],
+    "phrase": "Can I ask your advice about something?",
+    "explain": "«Can I ask your advice about something?» iborasi maslahat so'rashni boshlash uchun ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Jamshid: I think you ______ talk to your teacher about your low grade.\nSanjar: You're right, I will speak to him tomorrow.\nJamshid: That's my advice.",
+    "hint": "",
+    "options": [],
+    "answer": "should",
+    "accept": [],
+    "phrase": "I think / don't think you should ...",
+    "explain": "Maslahat berganda «I think you should ...» qolipi ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Umid: Why ______ you join our after-school coding club?\nRustam: That sounds like a great idea!\nUmid: Excellent, we meet on Tuesdays.",
+    "hint": "",
+    "options": [],
+    "answer": "don't",
+    "accept": [],
+    "phrase": "Why don't you ...?",
+    "explain": "Taklif bildirish uchun «Why don't you ...?» iborasidan foydalaniladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Kamola: You ______ to finish your history project before Friday.\nMadina: I know, I am working on it every evening.\nKamola: Good luck!",
+    "hint": "",
+    "options": [],
+    "answer": "need",
+    "accept": [
+     "have"
+    ],
+    "phrase": "You need to ...",
+    "explain": "Majburiyat yoki zaruriyatni bildirish uchun «You need to ...» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Anvar: I can't stand ______ up early on cold winter mornings.\nTimur: Me neither, I prefer sleeping until nine.\nAnvar: Exactly.",
+    "hint": "",
+    "options": [],
+    "answer": "getting",
+    "accept": [],
+    "phrase": "I can't stand ...",
+    "explain": "Yoqtirmaslikni kuchli bildirish uchun «I can't stand» fe'ldan keyin -ing shaklini oladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Nargiza: I hate ______ my math homework because it is too difficult.\nMalika: Don't worry, we can do it together.\nNargiza: Thank you so much.",
+    "hint": "",
+    "options": [],
+    "answer": "doing",
+    "accept": [
+     "finishing"
+    ],
+    "phrase": "I hate ...",
+    "explain": "Juda yomon ko'radigan ishni aytish uchun «I hate» so'zidan so'ng -ing qo'shimchasi keladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Bobur: I love ______ traditional Uzbek plov on Sundays.\nJasur: So do I, my father cooks it very well.\nBobur: It is the best meal.",
+    "hint": "",
+    "options": [],
+    "answer": "eating",
+    "accept": [
+     "cooking",
+     "having"
+    ],
+    "phrase": "I love ...",
+    "explain": "Hamma narsadan ko'proq yoqtirgan narsani ifodalash uchun «I love» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Zulfiya: I'm really keen ______ photography and take pictures every day.\nShahlo: Your landscape photos of Samarkand are amazing.\nZulfiya: I'm glad you like them.",
+    "hint": "",
+    "options": [],
+    "answer": "on",
+    "accept": [],
+    "phrase": "I'm really keen on ...",
+    "explain": "«I'm really keen on ...» biror qiziqishga juda ishqiboz ekanlikni bildiradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Dilnoza: What do you think of the new school canteen food?\nAziza: Well, the soup isn't ______.\nDilnoza: Really? I think it is quite tasteless.",
+    "hint": "",
+    "options": [],
+    "answer": "bad",
+    "accept": [
+     "terrible",
+     "awful"
+    ],
+    "phrase": "... isn't bad.",
+    "explain": "«... isn't bad» iborasi narsa yomon emasligini, o'rtacha darajada yaxshi ekanini bildiradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Akmal: My little sister painted my new white trainers with blue watercolour.\nKamola: That sounds like a ______!\nAkmal: It really is, they are ruined.",
+    "hint": "",
+    "options": [],
+    "answer": "nightmare",
+    "accept": [],
+    "phrase": "That sounds like a nightmare!",
+    "explain": "«That sounds like a nightmare!» dahshatli va juda yomon vaziyatga nisbatan aytiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Malika: I thought I left my phone in the taxi, but the driver brought it back!\nSardor: Really? What a ______!\nMalika: I was so relieved.",
+    "hint": "",
+    "options": [],
+    "answer": "relief",
+    "accept": [],
+    "phrase": "Really? What a relief!",
+    "explain": "Qo'rquv yoki tashvish ketgach yengillikni bildirish uchun «What a relief!» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Bobur: We helped plant five hundred trees in our neighbourhood park today.\nMadina: What a cool ______ to do!\nBobur: Yes, we had a lot of fun.",
+    "hint": "",
+    "options": [],
+    "answer": "thing",
+    "accept": [],
+    "phrase": "What a cool thing to do!",
+    "explain": "Ajoyib ish haqida eshitganda «What a cool thing to do!» deb hayrat bildiriladi.",
+    "wrong": {}
+   }
+  ],
+  [
+   {
+    "kind": "abctext",
+    "q": "Madina: I am planning to hike in the Chimgan mountains this weekend.\nZarina: You're ______!\nMadina: No, I am serious, I have already prepared my backpack.",
+    "hint": "",
+    "options": [
+     "joking",
+     "boring",
+     "exciting"
+    ],
+    "answer": "joking",
+    "accept": [],
+    "phrase": "You're joking / kidding!",
+    "explain": "Bu «You're joking / kidding!» iborasi bo'lib, hayrat yoki ishonqiramaslikni bildiradi. Matndagi «No, I am serious» jumlasi bunga ishora.",
+    "wrong": {
+     "boring": "Ma'nosi to'g'ri kelmaydi.",
+     "exciting": "Sifat bu yerda mos emas."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Anvar: My little brother lost my favourite notebook at school.\nTimur: How ______! Can you find it?\nAnvar: No, it is gone forever.",
+    "hint": "",
+    "options": [
+     "upsetting",
+     "funny",
+     "exciting"
+    ],
+    "answer": "upsetting",
+    "accept": [],
+    "phrase": "How boring / funny / frustrating / exciting / upsetting / awful!",
+    "explain": "Bu «How upsetting!» iborasi bo'lib, ko'ngilsiz holatni bildiradi. «gone forever» so'zlari uning qayg'uliligini ko'rsatadi.",
+    "wrong": {
+     "funny": "Da'fta yo'qolishi kulgili emas.",
+     "exciting": "Bu xursandchilikni bildiradi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Dilshod: I can't stand eating traditional shashlik with too much fat.\nSardor: Really? I don't ______ it, but it's not my favourite.\nDilshod: Ah, I see.",
+    "hint": "",
+    "options": [
+     "mind",
+     "hate",
+     "love"
+    ],
+    "answer": "mind",
+    "accept": [],
+    "phrase": "I don't mind ...",
+    "explain": "Bu «I don't mind» iborasi bo'lib, uncha yomon ko'rmaslikni bildiradi. «it's not my favourite» iborasi buni tasdiqlaydi.",
+    "wrong": {
+     "hate": "Matnda mutlaqo yomon ko'rmasligi aytilgan.",
+     "love": "Sevimli emasligi ta'kidlangan."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Umid: Why ______ you join our after-school robotics club?\nRustam: That sounds like a great idea!\nUmid: Excellent, we meet on Thursdays.",
+    "hint": "",
+    "options": [
+     "don't",
+     "should",
+     "aren't"
+    ],
+    "answer": "don't",
+    "accept": [],
+    "phrase": "Why don't you ...?",
+    "explain": "Bu «Why don't you ...?» iborasi bo'lib, taklif bildiradi. «join our club» iborasi bilan keladi.",
+    "wrong": {
+     "should": "Savol tuzilishida ishlatilmaydi.",
+     "aren't": "Ma'no jihatdan xato."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Nargiza: I hate ______ my physics homework because it is too difficult.\nMalika: Don't worry, we can do it together.\nNargiza: Thank you so much.",
+    "hint": "",
+    "options": [
+     "doing",
+     "do",
+     "did"
+    ],
+    "answer": "doing",
+    "accept": [],
+    "phrase": "I hate ...",
+    "explain": "Bu «I hate» iborasi bo'lib, uy vazifasini bajarishni yomon ko'rishni bildiradi. «homework» so'zi «doing» bilan keladi.",
+    "wrong": {
+     "do": "Boshlang'ich shakl mos emas.",
+     "did": "O'tgan zamon bu yerda xato."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Bobur: I love ______ traditional Uzbek samsa on Sundays.\nJasur: So do I, my grandmother bakes them very well.\nBobur: It is the best snack.",
+    "hint": "",
+    "options": [
+     "eating",
+     "eat",
+     "ate"
+    ],
+    "answer": "eating",
+    "accept": [],
+    "phrase": "I love ...",
+    "explain": "Bu «I love» iborasi bo'lib, samsa yeyishni yaxshi ko'rishni bildiradi. «bakes them» so'zlari ovqatga ishora.",
+    "wrong": {
+     "eat": "Fe'lning -ing shakli kerak.",
+     "ate": "O'tgan zamon ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Zulfiya: I'm really keen ______ painting and draw pictures every day.\nShahlo: Your landscape pictures of Tashkent are amazing.\nZulfiya: I'm glad you like them.",
+    "hint": "",
+    "options": [
+     "on",
+     "in",
+     "at"
+    ],
+    "answer": "on",
+    "accept": [],
+    "phrase": "I'm really keen on ...",
+    "explain": "Bu «I'm really keen on» iborasi bo'lib, biror narsaga qiziqishni bildiradi. Ortidan 'on' predlegi keladi.",
+    "wrong": {
+     "in": "Bu iborada 'in' ishlatilmaydi.",
+     "at": "Predlek xato tanlangan."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Dilnoza: What do you think of the new school canteen food?\nAziza: Well, the soup isn't ______.\nDilnoza: Really? I think it is quite tasty.",
+    "hint": "",
+    "options": [
+     "bad",
+     "good",
+     "great"
+    ],
+    "answer": "bad",
+    "accept": [],
+    "phrase": "... isn't bad.",
+    "explain": "Bu «... isn't bad» iborasi bo'lib, yomon emasligini bildiradi. «tasty» so'zi buni qo'llab-quvvatlaydi.",
+    "wrong": {
+     "good": "Ma'no jihatdan 'isn't good' mos kelmaydi.",
+     "great": "Iboraga to'g'ri kelmaydi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Malika: I thought I lost my keys at the market, but a kind woman brought them back!\nSardor: Really? What a ______!\nMalika: I was so relieved.",
+    "hint": "",
+    "options": [
+     "relief",
+     "shame",
+     "disaster"
+    ],
+    "answer": "relief",
+    "accept": [],
+    "phrase": "Really? What a relief!",
+    "explain": "Bu «Really? What a relief!» iborasi bo'lib, xotirjamlikni bildiradi. «I was so relieved» jumla kalitidir.",
+    "wrong": {
+     "shame": "Xursandchilikka mos emas.",
+     "disaster": "Salbiy ma'noni beradi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Bobur: We helped clean up the local river bank today.\nMadina: What a cool ______ to do!\nBobur: Yes, we had a lot of fun.",
+    "hint": "",
+    "options": [
+     "thing",
+     "job",
+     "time"
+    ],
+    "answer": "thing",
+    "accept": [],
+    "phrase": "What a cool thing to do!",
+    "explain": "Bu «What a cool thing to do!» iborasi bo'lib, ajoyib ishni maqtashda ishlatiladi. «clean up» yaxshi ish.",
+    "wrong": {
+     "job": "Iborada 'thing' so'zi ishlatiladi.",
+     "time": "Ma'nosi to'g'ri kelmaydi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Dilnoza: We are going to perform a traditional dance on stage this Friday.\nMalika: That's ______! I can't wait to watch it.\nDilnoza: Thank you, come and support us.",
+    "hint": "",
+    "options": [
+     "great",
+     "terrible",
+     "bad"
+    ],
+    "answer": "great",
+    "accept": [],
+    "phrase": "... is great.",
+    "explain": "Bu «... is great» iborasi bo'lib, ajoyib yangilikka munosabat bildiradi. «I can't wait» buni ko'rsatadi.",
+    "wrong": {
+     "terrible": "Salbiy ma'no beradi.",
+     "bad": "Ijobiy fikrga mos emas."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Aziza: How was the lecture on world history this morning?\nDilnoza: How ______! I almost fell asleep during the first ten minutes.\nAziza: Oh, that sounds boring indeed.",
+    "hint": "",
+    "options": [
+     "boring",
+     "exciting",
+     "funny"
+    ],
+    "answer": "boring",
+    "accept": [],
+    "phrase": "How boring / funny / frustrating / exciting / upsetting / awful!",
+    "explain": "Bu «How boring!» iborasi bo'lib, zerikarli holatni bildiradi. «almost fell asleep» bunga ishora.",
+    "wrong": {
+     "exciting": "Uxlab qolish hayajonli emas.",
+     "funny": "Kulgili holat emas."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Mansur: My younger cousin told a funny story during dinner and everyone laughed.\nBotir: How ______! What did he say?\nMansur: It was about a lost cat.",
+    "hint": "",
+    "options": [
+     "funny",
+     "awful",
+     "boring"
+    ],
+    "answer": "funny",
+    "accept": [],
+    "phrase": "How boring / funny / frustrating / exciting / upsetting / awful!",
+    "explain": "Bu «How funny!» iborasi bo'lib, kulgili vaziyatni bildiradi. «everyone laughed» jumla kalitidir.",
+    "wrong": {
+     "awful": "Salbiy baho hisoblanadi.",
+     "boring": "Kulgili narsaga nisbatan ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Kamola: We had to walk home in heavy snow without a warm coat.\nMalika: How ______! Did you catch a cold?\nKamola: A little bit, but I am fine now.",
+    "hint": "",
+    "options": [
+     "awful",
+     "funny",
+     "exciting"
+    ],
+    "answer": "awful",
+    "accept": [],
+    "phrase": "How boring / funny / frustrating / exciting / upsetting / awful!",
+    "explain": "Bu «How awful!» iborasi bo'lib, juda yomon holatni bildiradi. «heavy snow without a coat» bunga dalil.",
+    "wrong": {
+     "funny": "Sovqotish kulgili emas.",
+     "exciting": "Bu ijobiy so'z."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Sanjar: I don't ______ listening to classical music while reading a book.\nRustam: Really? I prefer complete silence when I study.\nSanjar: Everyone is different.",
+    "hint": "",
+    "options": [
+     "mind",
+     "hate",
+     "love"
+    ],
+    "answer": "mind",
+    "accept": [],
+    "phrase": "I don't mind ...",
+    "explain": "Bu «I don't mind» iborasi bo'lib, qarshi emasligini bildiradi. Musiqa tinglashga nisbatan ishlatilgan.",
+    "wrong": {
+     "hate": "Matn ma'nosiga zid.",
+     "love": "Bu so'z boshqa ma'no beradi."
+    }
+   }
+  ]
+ ]
+}

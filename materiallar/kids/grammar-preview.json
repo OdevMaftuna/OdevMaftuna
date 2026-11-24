@@ -1,0 +1,942 @@
+[
+ {
+  "code": "KG1",
+  "sample": [
+   {
+    "type": "mc",
+    "q": "“loaf” (buxanka non) so‘zining ko‘plik shakli qaysi?",
+    "options": [
+     "loafen",
+     "loaves",
+     "loafes",
+     "loavs"
+    ],
+    "part": 0,
+    "answer": "loaves",
+    "explain": "-f / -fe bilan tugagan ko‘p otlarda f → v bo‘lib -es qo‘shiladi: loaf → loaves.",
+    "wrong": {
+     "loafes": "f o‘zgarishi kerak: f → ves.",
+     "loavs": "-ves bo‘lishi kerak (v + es).",
+     "loafen": "-en faqat ox → oxen kabi istisnolarda bo‘ladi."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "“egg” (tuxum) so‘zining ko‘plik shakli qaysi?",
+    "options": [
+     "eggs",
+     "egggs",
+     "eggen",
+     "egges"
+    ],
+    "part": 0,
+    "answer": "eggs",
+    "explain": "Ko‘p otlarga oxiriga faqat -s qo‘shiladi: egg → eggs.",
+    "wrong": {
+     "egges": "“egg” -s/-sh/-ch/-x/-o bilan tugamaydi, shuning uchun -es emas, -s qo‘shiladi.",
+     "egggs": "Harf ikkilantirilmaydi — faqat -s qo‘shiladi.",
+     "eggen": "-en faqat ox → oxen kabi istisnolarda bo‘ladi."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "“brush” (cho‘tka) so‘zining ko‘plik shakli qaysi?",
+    "options": [
+     "brushes",
+     "brushies",
+     "brushs",
+     "brushen"
+    ],
+    "part": 0,
+    "answer": "brushes",
+    "explain": "-s, -ss, -sh, -ch, -x, -o bilan tugagan otlarga -es qo‘shiladi: brush → brushes.",
+    "wrong": {
+     "brushs": "“brush” -s/-sh/-ch/-x bilan tugaydi — faqat -s emas, -es qo‘shiladi.",
+     "brushies": "-ies faqat undosh + y bilan tugagan so‘zlarda bo‘ladi.",
+     "brushen": "-en faqat ox → oxen kabi istisnolarda bo‘ladi."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "“glass” (stakan) so‘zining ko‘plik shakli qaysi?",
+    "options": [
+     "glasses",
+     "glassies",
+     "glassen",
+     "glasss"
+    ],
+    "part": 0,
+    "answer": "glasses",
+    "explain": "-s, -ss, -sh, -ch, -x, -o bilan tugagan otlarga -es qo‘shiladi: glass → glasses.",
+    "wrong": {
+     "glasss": "“glass” -s/-sh/-ch/-x bilan tugaydi — faqat -s emas, -es qo‘shiladi.",
+     "glassies": "-ies faqat undosh + y bilan tugagan so‘zlarda bo‘ladi.",
+     "glassen": "-en faqat ox → oxen kabi istisnolarda bo‘ladi."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "“foot” (oyoq panjasi) so‘zining ko‘plik shakli qaysi?",
+    "options": [
+     "feet",
+     "foots",
+     "feets",
+     "footes"
+    ],
+    "part": 0,
+    "answer": "feet",
+    "explain": "Bu noto‘g‘ri (irregular) ot — ko‘plik shakli qoidaga bo‘ysunmaydi, yodlanadi: foot → feet.",
+    "wrong": {
+     "foots": "“foot” — noto‘g‘ri ot, -s qo‘shilmaydi: foot → feet.",
+     "feets": "“feet” o‘zi ko‘plik — yana -s qo‘shilmaydi.",
+     "footes": "Noto‘g‘ri ot: foot → feet."
+    }
+   }
+  ]
+ },
+ {
+  "code": "KG2",
+  "sample": [
+   {
+    "type": "mc",
+    "q": "Which word is UNCOUNTABLE? · Qaysi ot sanalmaydi?",
+    "options": [
+     "bag",
+     "car",
+     "meat",
+     "flower"
+    ],
+    "part": 0,
+    "answer": "meat",
+    "explain": "“meat” — sanalmaydigan ot: “a meat” yoki “meats” deyilmaydi. (go‘sht)",
+    "wrong": {
+     "flower": "“flower” — sanaladi: one flower, two flowers.",
+     "car": "“car” — sanaladi: one car, two cars.",
+     "bag": "“bag” — sanaladi: one bag, two bags."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "Which word is UNCOUNTABLE? · Qaysi ot sanalmaydi?",
+    "options": [
+     "orange",
+     "homework",
+     "dog",
+     "book"
+    ],
+    "part": 0,
+    "answer": "homework",
+    "explain": "“homework” — sanalmaydigan ot: “a homework” yoki “homeworks” deyilmaydi. (uy vazifasi)",
+    "wrong": {
+     "dog": "“dog” — sanaladi: one dog, two dogs.",
+     "orange": "“orange” — sanaladi: one orange, two oranges.",
+     "book": "“book” — sanaladi: one book, two books."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "Which word is COUNTABLE? · Qaysi ot sanaladi?",
+    "options": [
+     "egg",
+     "money",
+     "milk",
+     "furniture"
+    ],
+    "part": 0,
+    "answer": "egg",
+    "explain": "“egg” (tuxum) — sanaladi: one egg, two eggs.",
+    "wrong": {
+     "money": "“money” — sanalmaydigan ot: “a money” yoki “moneys” deyilmaydi.",
+     "milk": "“milk” — sanalmaydigan ot: “a milk” yoki “milks” deyilmaydi.",
+     "furniture": "“furniture” — sanalmaydigan ot: “a furniture” yoki “furnitures” deyilmaydi."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "Which word is UNCOUNTABLE? · Qaysi ot sanalmaydi?",
+    "options": [
+     "umbrella",
+     "honey",
+     "friend",
+     "orange"
+    ],
+    "part": 0,
+    "answer": "honey",
+    "explain": "“honey” — sanalmaydigan ot: “a honey” yoki “honeys” deyilmaydi. (asal)",
+    "wrong": {
+     "friend": "“friend” — sanaladi: one friend, two friends.",
+     "orange": "“orange” — sanaladi: one orange, two oranges.",
+     "umbrella": "“umbrella” — sanaladi: one umbrella, two umbrellas."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "Which word is COUNTABLE? · Qaysi ot sanaladi?",
+    "options": [
+     "music",
+     "luggage",
+     "dog",
+     "rice"
+    ],
+    "part": 0,
+    "answer": "dog",
+    "explain": "“dog” (it) — sanaladi: one dog, two dogs.",
+    "wrong": {
+     "rice": "“rice” — sanalmaydigan ot: “a rice” yoki “rices” deyilmaydi.",
+     "music": "“music” — sanalmaydigan ot: “a music” yoki “musics” deyilmaydi.",
+     "luggage": "“luggage” — sanalmaydigan ot: “a luggage” yoki “luggages” deyilmaydi."
+    }
+   }
+  ]
+ },
+ {
+  "code": "KG3",
+  "sample": [
+   {
+    "type": "mc",
+    "q": "The woman is a shop assistant. ___ is very polite.",
+    "options": [
+     "They",
+     "You",
+     "It",
+     "She"
+    ],
+    "part": 0,
+    "answer": "She",
+    "explain": "“the woman” — bitta qiz bola yoki ayol → she.",
+    "wrong": {
+     "You": "You — sen / siz. “the woman” uchun mos emas: bitta qiz bola yoki ayol → she.",
+     "It": "It — u (narsa, hayvon). “the woman” uchun mos emas: bitta qiz bola yoki ayol → she.",
+     "They": "They — ular. “the woman” uchun mos emas: bitta qiz bola yoki ayol → she."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "The boy is at school. ___ is in class 4.",
+    "options": [
+     "It",
+     "He",
+     "She",
+     "They"
+    ],
+    "part": 0,
+    "answer": "He",
+    "explain": "“the boy” — bitta o‘g‘il bola yoki erkak → he.",
+    "wrong": {
+     "She": "She — u (qiz bola, ayol). “the boy” uchun mos emas: bitta o‘g‘il bola yoki erkak → he.",
+     "They": "They — ular. “the boy” uchun mos emas: bitta o‘g‘il bola yoki erkak → he.",
+     "It": "It — u (narsa, hayvon). “the boy” uchun mos emas: bitta o‘g‘il bola yoki erkak → he."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "The car is red. ___ is very fast.",
+    "options": [
+     "She",
+     "He",
+     "We",
+     "It"
+    ],
+    "part": 0,
+    "answer": "It",
+    "explain": "“the car” — bitta narsa, hayvon yoki joy → it.",
+    "wrong": {
+     "He": "He — u (o‘g‘il bola, erkak). “the car” uchun mos emas: bitta narsa, hayvon yoki joy → it.",
+     "She": "She — u (qiz bola, ayol). “the car” uchun mos emas: bitta narsa, hayvon yoki joy → it.",
+     "We": "We — biz. “the car” uchun mos emas: bitta narsa, hayvon yoki joy → it."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "Tom is from England. ___ is my pen friend.",
+    "options": [
+     "She",
+     "He",
+     "It",
+     "We"
+    ],
+    "part": 0,
+    "answer": "He",
+    "explain": "“Tom” — bitta o‘g‘il bola yoki erkak → he.",
+    "wrong": {
+     "It": "It — u (narsa, hayvon). “Tom” uchun mos emas: bitta o‘g‘il bola yoki erkak → he.",
+     "She": "She — u (qiz bola, ayol). “Tom” uchun mos emas: bitta o‘g‘il bola yoki erkak → he.",
+     "We": "We — biz. “Tom” uchun mos emas: bitta o‘g‘il bola yoki erkak → he."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "Which pronoun can replace “the tree”? · “the tree” o‘rniga qaysi olmosh?",
+    "options": [
+     "she",
+     "they",
+     "it",
+     "we"
+    ],
+    "part": 0,
+    "answer": "it",
+    "explain": "“the tree” — bitta narsa, hayvon yoki joy → it.",
+    "wrong": {
+     "they": "they — ular.",
+     "we": "we — biz.",
+     "she": "she — u (qiz bola, ayol)."
+    }
+   }
+  ]
+ },
+ {
+  "code": "KG4",
+  "sample": [
+   {
+    "type": "mc",
+    "q": "You and your sister ___ very tidy.",
+    "options": [
+     "be",
+     "am",
+     "are",
+     "is"
+    ],
+    "part": 0,
+    "answer": "are",
+    "explain": "You and your sister → you → are. “you” — ko‘plik yoki you → are.",
+    "wrong": {
+     "am": "“you” — ko‘plik yoki you → are. “am” mos emas.",
+     "is": "“you” — ko‘plik yoki you → are. “is” mos emas.",
+     "be": "“be” — asl shakl; gapda am / is / are bo‘ladi."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "What colour ___ your bag?",
+    "options": [
+     "are",
+     "be",
+     "am",
+     "is"
+    ],
+    "part": 0,
+    "answer": "is",
+    "explain": "Birlik → is.",
+    "wrong": {
+     "am": "Keyingi so‘z birlikda → is.",
+     "are": "Keyingi so‘z birlikda → is.",
+     "be": "Gapda am / is / are bo‘ladi."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "How many books ___ there?",
+    "options": [
+     "are",
+     "be",
+     "is",
+     "am"
+    ],
+    "part": 0,
+    "answer": "are",
+    "explain": "Ko‘plik yoki you → are.",
+    "wrong": {
+     "am": "Keyingi so‘z ko‘plikda yoki “you” → are.",
+     "is": "Keyingi so‘z ko‘plikda yoki “you” → are.",
+     "be": "Gapda am / is / are bo‘ladi."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "They ___ at school.",
+    "options": [
+     "is",
+     "be",
+     "am",
+     "are"
+    ],
+    "part": 0,
+    "answer": "are",
+    "explain": "They → they → are. “they” — ko‘plik yoki you → are.",
+    "wrong": {
+     "am": "“they” — ko‘plik yoki you → are. “am” mos emas.",
+     "is": "“they” — ko‘plik yoki you → are. “is” mos emas.",
+     "be": "“be” — asl shakl; gapda am / is / are bo‘ladi."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "The dogs ___ hungry.",
+    "options": [
+     "is",
+     "are",
+     "am",
+     "be"
+    ],
+    "part": 0,
+    "answer": "are",
+    "explain": "The dogs → they → are. “they” — ko‘plik yoki you → are.",
+    "wrong": {
+     "am": "“they” — ko‘plik yoki you → are. “am” mos emas.",
+     "is": "“they” — ko‘plik yoki you → are. “is” mos emas.",
+     "be": "“be” — asl shakl; gapda am / is / are bo‘ladi."
+    }
+   }
+  ]
+ },
+ {
+  "code": "KG5",
+  "sample": [
+   {
+    "type": "mc",
+    "q": "It is ___ egg. (tuxum)",
+    "options": [
+     "an",
+     "— (artikl kerak emas)",
+     "a"
+    ],
+    "part": 0,
+    "answer": "an",
+    "explain": "“egg” unli tovush bilan boshlanadi → an egg.",
+    "wrong": {
+     "a": "“egg” unli tovush bilan boshlanadi → an egg.",
+     "— (artikl kerak emas)": "“egg” — birlik sanaladigan ot, artiklsiz kelmaydi."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "This is ___ oven. (pech)",
+    "options": [
+     "— (artikl kerak emas)",
+     "a",
+     "an"
+    ],
+    "part": 0,
+    "answer": "an",
+    "explain": "“oven” unli tovush bilan boshlanadi → an oven.",
+    "wrong": {
+     "a": "“oven” unli tovush bilan boshlanadi → an oven.",
+     "— (artikl kerak emas)": "“oven” — birlik sanaladigan ot, artiklsiz kelmaydi."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "We have ___ hour for lunch. (soat (60 daqiqa))",
+    "options": [
+     "a",
+     "an",
+     "— (artikl kerak emas)"
+    ],
+    "part": 0,
+    "answer": "an",
+    "explain": "“hour” so‘zida h o‘qilmaydi [auə] — unli tovush bilan boshlanadi → an hour.",
+    "wrong": {
+     "a": "“hour” so‘zida h o‘qilmaydi [auə] — unli tovush bilan boshlanadi → an hour.",
+     "— (artikl kerak emas)": "“hour” — birlik sanaladigan ot, artiklsiz kelmaydi."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "This is ___ apple. (olma)",
+    "options": [
+     "a",
+     "— (artikl kerak emas)",
+     "an"
+    ],
+    "part": 0,
+    "answer": "an",
+    "explain": "“apple” unli tovush bilan boshlanadi → an apple.",
+    "wrong": {
+     "a": "“apple” unli tovush bilan boshlanadi → an apple.",
+     "— (artikl kerak emas)": "“apple” — birlik sanaladigan ot, artiklsiz kelmaydi."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "It is ___ banana. (banan)",
+    "options": [
+     "— (artikl kerak emas)",
+     "a",
+     "an"
+    ],
+    "part": 0,
+    "answer": "a",
+    "explain": "“banana” undosh tovush bilan boshlanadi → a banana.",
+    "wrong": {
+     "an": "“banana” undosh tovush bilan boshlanadi → a banana.",
+     "— (artikl kerak emas)": "“banana” — birlik sanaladigan ot, artiklsiz kelmaydi."
+    }
+   }
+  ]
+ },
+ {
+  "code": "KG6",
+  "sample": [
+   {
+    "type": "mc",
+    "q": "Look at ___ bags over there!",
+    "options": [
+     "those",
+     "this",
+     "that",
+     "these"
+    ],
+    "part": 0,
+    "answer": "those",
+    "explain": "bags — ko‘plik, uzoqda (over there) → those. those — anavilar / ular (uzoqdagi ko‘p).",
+    "wrong": {
+     "this": "“this” birlik uchun, bu yerda ko‘plik ot bor.",
+     "that": "“that” birlik uchun, bu yerda ko‘plik ot bor.",
+     "these": "“these” yaqindagi narsa uchun, bu yerda narsa uzoqda (over there)."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "Look at ___ toy here!",
+    "options": [
+     "that",
+     "these",
+     "those",
+     "this"
+    ],
+    "part": 0,
+    "answer": "this",
+    "explain": "toy — birlik, yaqinda (here) → this. this — bu (yaqindagi bitta).",
+    "wrong": {
+     "that": "“that” uzoqdagi narsa uchun, bu yerda narsa yaqinda (here).",
+     "these": "“these” ko‘plik uchun, bu yerda birlik ot bor.",
+     "those": "“those” ko‘plik uchun, bu yerda birlik ot bor."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "___ cats here are white.",
+    "options": [
+     "That",
+     "Those",
+     "This",
+     "These"
+    ],
+    "part": 0,
+    "answer": "These",
+    "explain": "cats — ko‘plik, yaqinda (here) → these. these — bular (yaqindagi ko‘p).",
+    "wrong": {
+     "This": "“this” birlik uchun, bu yerda ko‘plik ot bor.",
+     "That": "“that” birlik uchun, bu yerda ko‘plik ot bor.",
+     "Those": "“those” uzoqdagi narsa uchun, bu yerda narsa yaqinda (here)."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "___ sheep over there are white.",
+    "options": [
+     "This",
+     "Those",
+     "That",
+     "These"
+    ],
+    "part": 0,
+    "answer": "Those",
+    "explain": "sheep — ko‘plik, uzoqda (over there) → those. those — anavilar / ular (uzoqdagi ko‘p).",
+    "wrong": {
+     "This": "“this” birlik uchun, bu yerda ko‘plik ot bor.",
+     "That": "“that” birlik uchun, bu yerda ko‘plik ot bor.",
+     "These": "“these” yaqindagi narsa uchun, bu yerda narsa uzoqda (over there)."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "___ bag over there is heavy.",
+    "options": [
+     "That",
+     "Those",
+     "This",
+     "These"
+    ],
+    "part": 0,
+    "answer": "That",
+    "explain": "bag — birlik, uzoqda (over there) → that. that — anavi / u (uzoqdagi bitta).",
+    "wrong": {
+     "This": "“this” yaqindagi narsa uchun, bu yerda narsa uzoqda (over there).",
+     "These": "“these” ko‘plik uchun, bu yerda birlik ot bor.",
+     "Those": "“those” ko‘plik uchun, bu yerda birlik ot bor."
+    }
+   }
+  ]
+ },
+ {
+  "code": "KG7",
+  "sample": [
+   {
+    "type": "mc",
+    "q": "Ali and Vali ___ a headache.",
+    "options": [
+     "is got",
+     "have got",
+     "has got",
+     "are got"
+    ],
+    "part": 0,
+    "answer": "have got",
+    "explain": "“Ali and Vali” — I / you / we / they → have got. (bosh og‘rig‘i)",
+    "wrong": {
+     "has got": "“Ali and Vali” — I / you / we / they → have got.",
+     "is got": "“is got” degan shakl yo‘q — have / has got.",
+     "are got": "“are got” degan shakl yo‘q — have / has got."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "We ___ a pet dog.",
+    "options": [
+     "have got",
+     "are got",
+     "is got",
+     "has got"
+    ],
+    "part": 0,
+    "answer": "have got",
+    "explain": "“we” — I / you / we / they → have got. (uy iti)",
+    "wrong": {
+     "has got": "“we” — I / you / we / they → have got.",
+     "is got": "“is got” degan shakl yo‘q — have / has got.",
+     "are got": "“are got” degan shakl yo‘q — have / has got."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "The boy ___ two sisters.",
+    "options": [
+     "is got",
+     "are got",
+     "have got",
+     "has got"
+    ],
+    "part": 0,
+    "answer": "has got",
+    "explain": "“the boy” — he / she / it → has got. (ikkita opa-singil)",
+    "wrong": {
+     "have got": "“the boy” — he / she / it → has got.",
+     "is got": "“is got” degan shakl yo‘q — have / has got.",
+     "are got": "“are got” degan shakl yo‘q — have / has got."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "The elephant ___ four legs.",
+    "options": [
+     "is got",
+     "are got",
+     "has got",
+     "have got"
+    ],
+    "part": 0,
+    "answer": "has got",
+    "explain": "“the elephant” — he / she / it → has got. (to‘rtta oyoq)",
+    "wrong": {
+     "have got": "“the elephant” — he / she / it → has got.",
+     "is got": "“is got” degan shakl yo‘q — have / has got.",
+     "are got": "“are got” degan shakl yo‘q — have / has got."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "I ___ a headache.",
+    "options": [
+     "has got",
+     "is got",
+     "have got",
+     "are got"
+    ],
+    "part": 0,
+    "answer": "have got",
+    "explain": "“I” — I / you / we / they → have got. (bosh og‘rig‘i)",
+    "wrong": {
+     "has got": "“I” — I / you / we / they → have got.",
+     "is got": "“is got” degan shakl yo‘q — have / has got.",
+     "are got": "“are got” degan shakl yo‘q — have / has got."
+    }
+   }
+  ]
+ },
+ {
+  "code": "KG8",
+  "sample": [
+   {
+    "type": "mc",
+    "q": "They have got a pen. ___ pen is new.",
+    "options": [
+     "Their",
+     "Our",
+     "My",
+     "His"
+    ],
+    "part": 0,
+    "answer": "Their",
+    "explain": "“They” → they → their (ularning).",
+    "wrong": {
+     "My": "“my” — mening. “They” → their.",
+     "Our": "“our” — bizning. “They” → their.",
+     "His": "“his” — uning (o‘g‘il / erkak). “They” → their."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "The dog has got a tail. ___ tail is new.",
+    "options": [
+     "Its",
+     "Her",
+     "Our",
+     "Your"
+    ],
+    "part": 0,
+    "answer": "Its",
+    "explain": "“The dog” → it → its (uning (narsa / hayvon)).",
+    "wrong": {
+     "Your": "“your” — sening / sizning. “The dog” → its.",
+     "Our": "“our” — bizning. “The dog” → its.",
+     "Her": "“her” — uning (qiz / ayol). “The dog” → its."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "The girl has got a dog. ___ dog is new.",
+    "options": [
+     "My",
+     "Its",
+     "Their",
+     "Her"
+    ],
+    "part": 0,
+    "answer": "Her",
+    "explain": "“The girl” → she → her (uning (qiz / ayol)).",
+    "wrong": {
+     "Its": "“its” — uning (narsa / hayvon). “The girl” → her.",
+     "Their": "“their” — ularning. “The girl” → her.",
+     "My": "“my” — mening. “The girl” → her."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "Ali and Vali have got a dog. ___ dog is new.",
+    "options": [
+     "His",
+     "Its",
+     "Our",
+     "Their"
+    ],
+    "part": 0,
+    "answer": "Their",
+    "explain": "“Ali and Vali” → they → their (ularning).",
+    "wrong": {
+     "Its": "“its” — uning (narsa / hayvon). “Ali and Vali” → their.",
+     "His": "“his” — uning (o‘g‘il / erkak). “Ali and Vali” → their.",
+     "Our": "“our” — bizning. “Ali and Vali” → their."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "She has got a bag. ___ bag is new.",
+    "options": [
+     "My",
+     "Her",
+     "Our",
+     "Its"
+    ],
+    "part": 0,
+    "answer": "Her",
+    "explain": "“She” → she → her (uning (qiz / ayol)).",
+    "wrong": {
+     "Its": "“its” — uning (narsa / hayvon). “She” → her.",
+     "My": "“my” — mening. “She” → her.",
+     "Our": "“our” — bizning. “She” → her."
+    }
+   }
+  ]
+ },
+ {
+  "code": "KG9",
+  "sample": [
+   {
+    "type": "mc",
+    "q": "run → ___",
+    "options": [
+     "running",
+     "runing",
+     "runeing",
+     "runnning"
+    ],
+    "part": 0,
+    "answer": "running",
+    "explain": "Bir bo‘g‘inli, unli + undosh bilan tugasa, oxirgi undosh ikkilanadi: run → running.",
+    "wrong": {
+     "runing": "Bir bo‘g‘inli, unli + undosh → oxirgi harf ikkilanadi: running.",
+     "runnning": "Faqat bir marta ikkilanadi.",
+     "runeing": "-eing degan qo‘shimcha yo‘q."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "come → ___",
+    "options": [
+     "comming",
+     "comeeing",
+     "comeing",
+     "coming"
+    ],
+    "part": 0,
+    "answer": "coming",
+    "explain": "Oxiri -e bilan tugasa, e tushib qoladi va -ing qo‘shiladi: come → coming.",
+    "wrong": {
+     "comeing": "“come” -e bilan tugaydi — e tushib qoladi: coming.",
+     "comming": "Harf ikkilanmaydi.",
+     "comeeing": "-eing degan qo‘shimcha yo‘q."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "jump → ___",
+    "options": [
+     "jumpping",
+     "jumpng",
+     "jumping",
+     "jumpeing"
+    ],
+    "part": 0,
+    "answer": "jumping",
+    "explain": "Fe’lga oddiy -ing qo‘shiladi: jump → jumping.",
+    "wrong": {
+     "jumpping": "Harf ikkilanmaydi — oddiy -ing.",
+     "jumpeing": "-eing degan qo‘shimcha yo‘q.",
+     "jumpng": "-ing to‘liq yoziladi."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "cook → ___",
+    "options": [
+     "cookeing",
+     "cookng",
+     "cookking",
+     "cooking"
+    ],
+    "part": 0,
+    "answer": "cooking",
+    "explain": "Fe’lga oddiy -ing qo‘shiladi: cook → cooking.",
+    "wrong": {
+     "cookking": "Harf ikkilanmaydi — oddiy -ing.",
+     "cookeing": "-eing degan qo‘shimcha yo‘q.",
+     "cookng": "-ing to‘liq yoziladi."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "watch → ___",
+    "options": [
+     "watching",
+     "watchng",
+     "watcheing",
+     "watchhing"
+    ],
+    "part": 0,
+    "answer": "watching",
+    "explain": "Fe’lga oddiy -ing qo‘shiladi: watch → watching.",
+    "wrong": {
+     "watchhing": "Harf ikkilanmaydi — oddiy -ing.",
+     "watcheing": "-eing degan qo‘shimcha yo‘q.",
+     "watchng": "-ing to‘liq yoziladi."
+    }
+   }
+  ]
+ },
+ {
+  "code": "KG10",
+  "sample": [
+   {
+    "type": "mc",
+    "q": "My sister ___ lunch at school. (have)",
+    "options": [
+     "having",
+     "haves",
+     "has",
+     "haves’"
+    ],
+    "part": 0,
+    "answer": "has",
+    "explain": "Istisno: have → has: she has.",
+    "wrong": {
+     "haves": "have → has (istisno).",
+     "haves’": "have → has.",
+     "having": "Present Simple’da -ing qo‘shilmaydi."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "buy → he / she ___",
+    "options": [
+     "buys",
+     "buyes",
+     "buying",
+     "buy"
+    ],
+    "part": 0,
+    "answer": "buys",
+    "explain": "Ko‘p fe’llarga -s qo‘shiladi: buy → buys.",
+    "wrong": {
+     "buyes": "“buy” ga faqat -s qo‘shiladi: buys.",
+     "buying": "Present Simple’da -ing qo‘shilmaydi.",
+     "buy": "he / she / it bilan fe’lga -s qo‘shiladi."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "do → he / she ___",
+    "options": [
+     "dos",
+     "do",
+     "does",
+     "doing"
+    ],
+    "part": 0,
+    "answer": "does",
+    "explain": "-s, -sh, -ch, -x, -o bilan tugasa -es qo‘shiladi: do → does.",
+    "wrong": {
+     "dos": "“do” -o bilan tugaydi → -es: does.",
+     "doing": "Present Simple’da -ing qo‘shilmaydi.",
+     "do": "he / she / it bilan fe’lga -s qo‘shiladi."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "My sister ___ English at our school. (teach)",
+    "options": [
+     "teach",
+     "teaches",
+     "teaching",
+     "teachs"
+    ],
+    "part": 0,
+    "answer": "teaches",
+    "explain": "-s, -sh, -ch, -x, -o bilan tugasa -es qo‘shiladi: she teaches.",
+    "wrong": {
+     "teachs": "“teach” -sh / -ch / -x bilan tugaydi → -es: teaches.",
+     "teaching": "Present Simple’da -ing qo‘shilmaydi.",
+     "teach": "he / she / it bilan fe’lga -s qo‘shiladi."
+    }
+   },
+   {
+    "type": "mc",
+    "q": "My sister ___ the dishes after dinner. (wash)",
+    "options": [
+     "washing",
+     "wash",
+     "washs",
+     "washes"
+    ],
+    "part": 0,
+    "answer": "washes",
+    "explain": "-s, -sh, -ch, -x, -o bilan tugasa -es qo‘shiladi: she washes.",
+    "wrong": {
+     "washs": "“wash” -sh / -ch / -x bilan tugaydi → -es: washes.",
+     "washing": "Present Simple’da -ing qo‘shilmaydi.",
+     "wash": "he / she / it bilan fe’lga -s qo‘shiladi."
+    }
+   }
+  ]
+ }
+]

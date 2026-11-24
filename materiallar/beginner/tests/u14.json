@@ -1,0 +1,64 @@
+{
+  "code": "U14", "kind": "unit", "unit": 14, "price": 20000,
+  "title": "Unit 14 Test",
+  "subtitle": "going to · future plans · infinitive of purpose · weather · transport",
+  "sections": [
+    {
+      "title": "A. Complete the sentences. Use going to.",
+      "items": [
+        { "t": "text", "q": "I (visit) ______ my grandparents this weekend.", "a": ["am going to visit", "’m going to visit"] },
+        { "t": "text", "q": "She (study) ______ medicine at university.", "a": ["is going to study", "’s going to study"] },
+        { "t": "text", "q": "We (buy) ______ a new car next year.", "a": ["are going to buy", "’re going to buy"] },
+        { "t": "text", "q": "They (not travel) ______ this summer.", "a": ["aren’t going to travel", "are not going to travel", "’re not going to travel"] },
+        { "t": "text", "q": "He (not watch) ______ the match tonight.", "a": ["isn’t going to watch", "is not going to watch", "’s not going to watch"] }
+      ]
+    },
+    {
+      "title": "B. Write questions with going to.",
+      "items": [
+        { "t": "text", "q": "What / you / do / tomorrow / ?", "a": ["What are you going to do tomorrow"] },
+        { "t": "text", "q": "Where / they / stay / ?", "a": ["Where are they going to stay"] },
+        { "t": "text", "q": "she / learn / to drive / ?", "a": ["Is she going to learn to drive"] },
+        { "t": "text", "q": "When / he / come back / ?", "a": ["When is he going to come back", "When’s he going to come back"] }
+      ]
+    },
+    {
+      "title": "C. Look at the pictures in your mind. What is going to happen? Choose the correct answer.",
+      "items": [
+        { "t": "mc", "q": "There are black clouds in the sky.", "o": ["It’s going to rain.", "It rains.", "It rained.", "It’s raining yesterday."], "a": 0 },
+        { "t": "mc", "q": "The man is running for the bus, but it’s leaving.", "o": ["He’s going to miss it.", "He misses it every day.", "He missed it tomorrow.", "He’s miss it."], "a": 0 },
+        { "t": "mc", "q": "The glass is at the edge of the table and the cat is near it.", "o": ["It falls.", "It’s going to fall.", "It fell yesterday.", "It’s falls."], "a": 1 }
+      ]
+    },
+    {
+      "title": "D. Why? Match and complete. Use to + verb.",
+      "items": [
+        { "t": "mc", "q": "I went to the bank ______.", "o": ["to get some money", "for get some money", "to getting money", "getting money"], "a": 0 },
+        { "t": "mc", "q": "She’s going to the library ______.", "o": ["for study", "to study", "studying", "to studies"], "a": 1 },
+        { "t": "mc", "q": "We’re going to Samarkand ______ the old buildings.", "o": ["to see", "for see", "seeing", "to seeing"], "a": 0 },
+        { "t": "mc", "q": "He went to the shop ______ some bread.", "o": ["for buy", "to buying", "to buy", "buys"], "a": 2 }
+      ]
+    },
+    {
+      "title": "E. Write the weather words.",
+      "items": [
+        { "t": "text", "q": "☀ It’s ______.", "a": ["sunny", "hot"] },
+        { "t": "text", "q": "🌧 It’s ______.", "a": ["raining", "rainy", "wet"] },
+        { "t": "text", "q": "❄ It’s ______.", "a": ["snowing", "snowy", "cold"] },
+        { "t": "text", "q": "💨 It’s ______.", "a": ["windy"] },
+        { "t": "text", "q": "☁ It’s ______.", "a": ["cloudy"] }
+      ]
+    },
+    {
+      "title": "F. Read the email. Are the sentences true or false?",
+      "passage": "Hi Laura! Great news — I’m going to visit you in London next month! I’m going to fly from Tashkent on 3rd June and stay for ten days. First I’m going to do an English course for a week. Then I’m going to travel to Oxford by train to see the university. I’m not going to stay in a hotel — I’m going to stay with a family. I can’t wait! Love, Dildora",
+      "items": [
+        { "t": "tf", "q": "Dildora is going to visit Laura next week.", "a": false },
+        { "t": "tf", "q": "She’s going to stay for ten days.", "a": true },
+        { "t": "tf", "q": "She’s going to do an English course.", "a": true },
+        { "t": "tf", "q": "She’s going to go to Oxford by bus.", "a": false },
+        { "t": "tf", "q": "She’s going to stay in a hotel.", "a": false }
+      ]
+    }
+  ]
+}

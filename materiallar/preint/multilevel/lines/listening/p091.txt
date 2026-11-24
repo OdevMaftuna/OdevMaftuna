@@ -1,0 +1,32 @@
+﻿107`t20`t222`t92
+174`t25`t255`tExercise 16
+86`t35`t786`tMultilevel Master listening
+211`t27`t255`tYou will hear someone giving a talk. Label the places (1-5) on the map
+248`t27`t253`t(A-H). There are THREE extra options which you do not need to use.
+292`t19`t523`tCroft Valley Park
+328`t17`t474`tNorth gate
+368`t18`t551`tB Adventure playgrond
+550`t14`t539`tLake
+424`t14`t886`ts
+561`t13`t719`tGlass houses
+726`t26`t713`t3. formal gardens
+732`t21`t248`t1. cafe
+768`t21`t247`t4. outdoor gym
+843`t25`t247`tExercise 17
+696`t16`t613`tSouth gate
+730`t21`t464`t2. toilets
+766`t21`t464`t5. wild flowers
+892`t26`t246`tYou will hear someone giving a talk. Label the places (1-5) on the map
+929`t27`t243`t(A-H). There are THREE extra options which you do not need to use.
+971`t16`t525`tPlan of Stevenson's site
+1051`t12`t596`tFACTORY
+1245`t10`t599`tOPEN
+1259`t11`t579`tCOURTYARD
+1356`t12`t650`tRECEPTION
+1396`t14`t580`tMAIN ROAD
+1432`t22`t228`t1. coffee room
+1470`t26`t227`t4. meeting room
+1432`t22`t535`t2. warehouse
+1469`t23`t534`t5. boardroom
+1437`t22`t789`t3. staff canteen
+1653`t9`t1022`tScanned With

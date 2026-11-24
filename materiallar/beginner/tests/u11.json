@@ -1,0 +1,67 @@
+{
+  "code": "U11", "kind": "unit", "unit": 11, "price": 20000,
+  "title": "Unit 11 Test",
+  "subtitle": "can / can’t · abilities · requests · adverbs (well, fast…)",
+  "sections": [
+    {
+      "title": "A. Look at the table. Complete the sentences with can or can’t.",
+      "passage": "ABILITIES — Javohir: swim ✓ · drive ✗ · cook ✓ · play the guitar ✗ | Sabina: swim ✗ · drive ✓ · cook ✓ · play the guitar ✓",
+      "items": [
+        { "t": "text", "q": "Javohir ______ swim.", "a": ["can"] },
+        { "t": "text", "q": "Sabina ______ swim.", "a": ["can’t", "cannot", "can not"] },
+        { "t": "text", "q": "Javohir ______ drive.", "a": ["can’t", "cannot", "can not"] },
+        { "t": "text", "q": "Sabina ______ drive.", "a": ["can"] },
+        { "t": "text", "q": "Javohir and Sabina ______ cook.", "a": ["can"] },
+        { "t": "text", "q": "Javohir ______ play the guitar.", "a": ["can’t", "cannot", "can not"] }
+      ]
+    },
+    {
+      "title": "B. Write questions with Can. Then choose the short answer.",
+      "items": [
+        { "t": "text", "q": "Sabina / play the guitar", "a": ["Can Sabina play the guitar"] },
+        { "t": "text", "q": "Javohir / drive", "a": ["Can Javohir drive"] },
+        { "t": "mc", "q": "Can Sabina drive?", "o": ["Yes, she can.", "Yes, she does.", "Yes, she cans.", "No, she can’t."], "a": 0 },
+        { "t": "mc", "q": "Can Javohir play the guitar?", "o": ["Yes, he can.", "No, he can’t.", "No, he doesn’t.", "No, he isn’t."], "a": 1 }
+      ]
+    },
+    {
+      "title": "C. Choose the correct sentence.",
+      "items": [
+        { "t": "mc", "q": "", "o": ["She can speaks French.", "She can speak French.", "She cans speak French.", "She can to speak French."], "a": 1 },
+        { "t": "mc", "q": "", "o": ["Can you to help me?", "Do you can help me?", "Can you help me?", "Can you helping me?"], "a": 2 },
+        { "t": "mc", "q": "", "o": ["I can’t to swim.", "I don’t can swim.", "I can’t swim.", "I not can swim."], "a": 2 },
+        { "t": "mc", "q": "", "o": ["They can play chess very well.", "They can play very well chess.", "They very well can play chess.", "They can very well play chess."], "a": 0 }
+      ]
+    },
+    {
+      "title": "D. Make requests. Use Can I … ? or Can you … ?",
+      "items": [
+        { "t": "text", "q": "You want to open the window. → ______ open the window?", "a": ["Can I"] },
+        { "t": "text", "q": "You want your friend to help you. → ______ help me?", "a": ["Can you"] },
+        { "t": "text", "q": "You want to use your teacher’s pen. → ______ use your pen?", "a": ["Can I"] },
+        { "t": "text", "q": "You want the waiter to bring water. → ______ bring some water, please?", "a": ["Can you"] }
+      ]
+    },
+    {
+      "title": "E. Write the adverb.",
+      "items": [
+        { "t": "text", "q": "He’s a fast runner. He runs ______.", "a": ["fast"] },
+        { "t": "text", "q": "She’s a good singer. She sings ______.", "a": ["well"] },
+        { "t": "text", "q": "It’s a slow car. It goes ______.", "a": ["slowly"] },
+        { "t": "text", "q": "He’s a careful driver. He drives ______.", "a": ["carefully"] },
+        { "t": "text", "q": "She’s a quiet speaker. She speaks ______.", "a": ["quietly"] }
+      ]
+    },
+    {
+      "title": "F. Read the text and answer the questions.",
+      "passage": "Mohira is only twelve, but she can do a lot of things. She can speak three languages: Uzbek, Russian, and English. She can play the piano very well, and last year she won a music competition in Tashkent. She can’t swim yet, but she wants to learn this summer. Her brother can swim, but he can’t play any musical instruments.",
+      "items": [
+        { "t": "text", "q": "How many languages can Mohira speak?", "a": ["three", "3", "She can speak three languages", "three languages"] },
+        { "t": "tf", "q": "Mohira can play the piano.", "a": true },
+        { "t": "tf", "q": "Mohira can swim very well.", "a": false },
+        { "t": "tf", "q": "Her brother can play the guitar.", "a": false },
+        { "t": "mc", "q": "What did she win last year?", "o": ["a sports race", "a music competition", "a language prize", "a swimming race"], "a": 1 }
+      ]
+    }
+  ]
+}

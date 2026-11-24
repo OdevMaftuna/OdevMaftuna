@@ -1,0 +1,43 @@
+﻿66`t17`t116`t292
+66`t20`t590`tMultilevel Master reading
+120`t21`t144`tFor questions 1-4, choose the correct answer A, B, C, or D.
+147`t21`t143`t1. How did the boyis family react to the problem of his education?
+176`t21`t144`tA) Actively discussed the situation.
+204`t21`t144`tB) Avoided any disputes on this topic.
+233`t21`t144`tC) Showed no desire in solving it
+263`t20`t144`tD) Felt indifferent.
+308`t21`t144`t2. George was
+336`t21`t144`tA) a teacher.
+365`t20`t144`tC) a writer.
+335`t19`t392`tB) a dancer.
+408`t21`t144`t3. How did the boy and George feel when they first met?
+437`t21`t144`tA) They treated the situation with humor.
+465`t21`t146`tB) They were upset about their studies.
+494`t21`t144`tC) They didn't trust each other.
+522`t21`t146`tD) They liked each other very much.
+579`t21`t144`t4. Why did the boy enjoy his lessons in natural history?
+608`t21`t146`tA) He remembered much more from those lessons.
+637`t21`t146`tB) He got very interested in the subject.
+666`t21`t144`tC) He learned how to focus on the lesson,
+696`t21`t147`tD) He finally learned how to write.
+750`t21`t146`tFor questions 5-9, decide if the following statements agree with the
+779`t21`t120`tinformation given in the text. Mark your answers on the answer sheet.
+818`t22`t147`t5. The family used to deal with problems by analyzing everyone's opin-
+849`t18`t120`tions.
+878`t21`t147`tA) True
+878`t19`t327`tB) False
+876`t21`t532`tC) No Information
+920`t23`t149`t6. The boy liked Georgeis lessons more than his previous teacher's
+953`t16`t122`tlessons.
+981`t20`t149`tA) True
+979`t21`t329`tB) False
+978`t21`t533`tC) No Information
+1023`t21`t149`t7. There were several options for choosing a book.
+1055`t19`t149`tA) True
+1053`t21`t329`tB) False
+1052`t21`t534`tC) No Information
+1095`t22`t149`t8. Learning Geography and French was more essential than other sub-
+1128`t23`t120`tjects for the boy,
+1157`t18`t149`tA) True
+1155`t21`t329`tB) False
+1154`t21`t534`tC) No Information

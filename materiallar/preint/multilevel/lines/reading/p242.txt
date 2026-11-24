@@ -1,0 +1,33 @@
+﻿78`t15`t77`tPort S
+132`t20`t105`tExercise 40
+78`t15`t737`t241
+179`t21`t104`tRead the text and choose the correct heading each paragraph
+209`t21`t104`tfrom the list of beadings below.
+235`t21`t105`tThere are more headings than paragraphs, so you will not use all of
+264`t21`t105`tthem. You cannot use any heading more than once.
+304`t20`t104`tA) A solution which iS no solution
+333`t21`t105`tB) Changing working practices
+362`t21`t105`tC) Closing city centres to traffic
+389`t22`t105`tD) Making cors more environmentallyfriendly
+419`t21`t104`tE) Not doing enough
+447`t20`t105`tF) Paying to get in
+476`t22`t105`tG) A globat problem
+510`t24`t269`tTraffic jams- no end in sight
+552`t21`t129`tThere are no easy answers to the problems of traffic congestion
+632`t21`t105`tTraffic congestion affects people throughout the world. Traffic jams
+660`t21`t78`tcause smog in dozens Of cities across both the developed and developing-
+689`t20`t80`tworld. In the US, commuters spend an average of a full working week each
+717`t21`t80`tyear sitting in traffic jams, according to the Texas Transportation Institute.
+746`t21`t80`tWhite alternative ways of getting around are available, most people still
+774`t21`t80`tchoose theircars because they are looking for convenience, comfort and
+807`t21`t80`tprivacy.
+896`t21`t108`tThe most promisingtechnique for reducing city traffic is called
+900`t12`t731`tcon-
+924`t21`t80`tgestion pricingv whereby cities chargea toll to enter certain parts of town at
+953`t23`t81`tcertain times Of day. In theory,if the toil is high enough. some drivers will
+981`t21`t81`tcancel their trips or go by bus or train.And in practice it seems to work:
+1010`t21`t81`tSingapore, London and Stockholm have reduced traffic and pollution in city
+1040`t22`t81`tcentres thanks to congestion pricing-
+1131`t21`t114`tAnother way to reduce rush-hour traffic is for employers to implement
+1160`t21`t81`tflexitime, which lets employees travel to and from work at off-peak traffic
+1205`t19`t681`tmytests.uz

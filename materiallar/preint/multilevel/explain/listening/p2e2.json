@@ -1,0 +1,35 @@
+{
+ "script": "Speaker: Listen, everyone. I've got some information about this year's school photography competition. As you'll probably remember, last year's competition asked you to focus on the topic of travel, but photos should have something to do with the environment this time. As in previous years, there are certain things that we want the photographs to include. We want all the pictures to have wildlife in them, so we're not looking for photos that only show landscapes or people. The headteacher has decided to ask someone from outside the school to judge the competition this year. She was hoping that local artist Sally Graves would be able to judge the entries, but she's actually away at that time. Writer James McKay has agreed to help us instead. I'm sure many of you have heard of him, as he's quite famous and was born not far away from here, too. It was felt that most keen photographers already have the photography books or equipment they need, so the organizers have decided that the winner will receive a photography course run by Central College instead. The college was also hoping to have a small photography exhibition for winners of all the school photography competitions in the area, but their gallery's too busy putting on other shows, I'm afraid. The winner of the competition will be announced on the 11th of March. If you wish to enter, please make sure we receive your photos by the 15th of February, as the judging will take place on the 19th of February. So, if you're interested, send your entry to the school secretary, Mrs Mitchell, not to me or the headteacher. I'll give you her email address: it's k.mitchell – that's spelled M-I-T-C-H-E-L-L – @school.com. Good luck!",
+ "items": [
+  {
+   "n": 1,
+   "quote": "photos should have something to do with the environment this time.",
+   "uz": "Bu yilgi tanlov mavzusi 'environment' (atrof-muhit). Utgan yilgi mavzu 'travel' (sayohat) bo'lgani aytib o'tiladi, shuning uchun chalg'ib ketmaslik kerak."
+  },
+  {
+   "n": 2,
+   "quote": "We want all the pictures to have wildlife in them",
+   "uz": "Rasmlarda albatta 'wildlife' (yovvoyi tabiat/hayvonot olami) bo'lishi kerak. Ma'ruzachi faqat 'landscapes' (manzaralar) yoki 'people' (odamlar) ko'ringan rasmlar qabul qilinmasligini uqtiradi."
+  },
+  {
+   "n": 3,
+   "quote": "Writer James McKay has agreed to help us instead.",
+   "uz": "Tanlovni 'writer' (yozuvchi) James McKay baholaydi. Dastlab 'local artist' (mahalliy rassom) Sally Graves rejalashtirilgan edi, lekin u uzoqda bo'ladi."
+  },
+  {
+   "n": 4,
+   "quote": "the winner will receive a photography course run by Central College instead.",
+   "uz": "G'olib uchun birinchi o'rin sovrini 'photography course' (fotografiya kursi). Odatdagi 'books' (kitoblar) yoki 'equipment' (uskunalar) o'rniga kurs berilishi aytiladi."
+  },
+  {
+   "n": 5,
+   "quote": "please make sure we receive your photos by the 15th of February",
+   "uz": "Rasmlarni eng kechi bilan 15-fevralgacha ('15th of February') topshirish kerak. Baholash 19-fevralda, g'olibni e'lon qilish esa 11-martda bo'ladi."
+  },
+  {
+   "n": 6,
+   "quote": "that's spelled M-I-T-C-H-E-L-L",
+   "uz": "Maktab kotibasining email manzilidagi familiyasi 'M-I-T-C-H-E-L-L' ko'rinishida harfma-harf aytib beriladi."
+  }
+ ]
+}

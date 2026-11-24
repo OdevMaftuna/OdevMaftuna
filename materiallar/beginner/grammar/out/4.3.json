@@ -1,0 +1,1167 @@
+{
+ "code": "4.3",
+ "intro": {
+  "what": "Ingliz tilida otlarni birlikdan ko'plikka o'tkazish uchun -s, -es, -ies qo'shimchalari ishlatiladi. Ba'zi otlar esa noto'g'ri shaklga ega bo'lib, butunlay o'zgaradi.",
+  "when": [
+   "Bitta narsa yoki shaxs haqida gapirganda birlik ot ishlatiladi.",
+   "Ikki va undan ortiq narsalar haqida gapirganda ko'plik ot ishlatiladi.",
+   "-y harfi bilan tugagan va oldi undosh bo'lgan so'zlarda -ies qo'shiladi.",
+   "Ba'zi inson va tana a'zolari noto'g'ri ko'plik shaklini oladi."
+  ],
+  "structures": [
+   {
+    "label": "Birlik (Singular)",
+    "formula": "[ S + a/an + OB ]",
+    "example_en": "This is a book.",
+    "example_uz": "Bu kitob."
+   },
+   {
+    "label": "Ko'plik (Plural)",
+    "formula": "[ S + OB + s/es/ies ]",
+    "example_en": "These are books.",
+    "example_uz": "Bular kitoblar."
+   }
+  ],
+  "rules": [
+   {
+    "title": "-y to -ies qoidasi",
+    "text": "Agar ot undosh harf va y harfi bilan tugasa, y tushib qoladi va -ies qo'shiladi.",
+    "examples": [
+     {
+      "en": "A city - cities",
+      "uz": "Shahar - shaharlar"
+     },
+     {
+      "en": "A country - countries",
+      "uz": "Mamlakat - mamlakatlar"
+     }
+    ]
+   },
+   {
+    "title": "-es qo'shimchasi",
+    "text": "Agar ot s, ss, sh, ch, x, o harflari bilan tugasa, -es qo'shiladi.",
+    "examples": [
+     {
+      "en": "A bus - buses",
+      "uz": "Avtobus - avtobuslar"
+     },
+     {
+      "en": "A box - boxes",
+      "uz": "Quti - qutilar"
+     }
+    ]
+   },
+   {
+    "title": "Noto'g'ri ko'plik otlar",
+    "text": "Bu otlar -s yoki -es olmaydi, ularning ko'plik shakli boshqacha yoziladi.",
+    "examples": [
+     {
+      "en": "A man - men",
+      "uz": "Erkak - erkaklar"
+     },
+     {
+      "en": "A child - children",
+      "uz": "Bola - bolalar"
+     }
+    ]
+   }
+  ],
+  "signal_words": [],
+  "mistakes": [
+   {
+    "wrong": "Three citys",
+    "right": "Three cities",
+    "why": "Undosh + y harfi bilan tugagan so'zlarda y tushib, -ies yoziladi."
+   },
+   {
+    "wrong": "Two mans",
+    "right": "Two men",
+    "why": "Man so'zi noto'g'ri ot bo'lib, ko'plikda men bo'ladi."
+   },
+   {
+    "wrong": "Four childs",
+    "right": "Four children",
+    "why": "Child so'zining ko'plik shakli children hisoblanadi."
+   }
+  ]
+ },
+ "test": [
+  {
+   "type": "fill",
+   "q": "This is a bus. Those are two ______.",
+   "answer": "buses",
+   "explain": "-s, -ss, -sh, -ch, -x, -o bilan tugagan otlarga -es qo'shiladi.",
+   "accept": [],
+   "hint": "bus"
+  },
+  {
+   "type": "fill",
+   "q": "She has a cat. I have two ______.",
+   "answer": "cats",
+   "explain": "Oddiy otlarga ko'plik yasash uchun -s qo'shiladi.",
+   "accept": [],
+   "hint": "cat"
+  },
+  {
+   "type": "fill",
+   "q": "This is a dog. Those are three ______.",
+   "answer": "dogs",
+   "explain": "Oddiy otlarga -s qo'shish orqali ko'plik yasaladi.",
+   "accept": [],
+   "hint": "dog"
+  },
+  {
+   "type": "fill",
+   "q": "This is an apple. These are five ______.",
+   "answer": "apples",
+   "explain": "Apple so'zining ko'plik shakli apples.",
+   "accept": [],
+   "hint": "apple"
+  },
+  {
+   "type": "fill",
+   "q": "That is a house. These are four ______.",
+   "answer": "houses",
+   "explain": "House so'ziga -s qo'shilib houses bo'ladi.",
+   "accept": [],
+   "hint": "house"
+  },
+  {
+   "type": "fill",
+   "q": "This is a car. Those are two ______.",
+   "answer": "cars",
+   "explain": "Car so'zi ko'plikda cars bo'ladi.",
+   "accept": [],
+   "hint": "car"
+  },
+  {
+   "type": "fill",
+   "q": "This is a country. Uzbekistan and England are ______.",
+   "answer": "countries",
+   "explain": "Undosh + y bilan tugagan country so'zi countries bo'lib o'zgaradi.",
+   "accept": [],
+   "hint": "country"
+  },
+  {
+   "type": "fill",
+   "q": "Tashkent is a big city. Samarkand and Bukhara are ______.",
+   "answer": "cities",
+   "explain": "City so'zi -ies qoidasi bo'yicha cities bo'ladi.",
+   "accept": [],
+   "hint": "city"
+  },
+  {
+   "type": "fill",
+   "q": "There is a man in the car. There are two ______ in the bus.",
+   "answer": "men",
+   "explain": "Man so'zining noto'g'ri ko'plik shakli men.",
+   "accept": [],
+   "hint": "man"
+  },
+  {
+   "type": "fill",
+   "q": "She is a woman. They are two ______.",
+   "answer": "women",
+   "explain": "Woman so'zi noto'g'ri ot bo'lib, women bo'ladi.",
+   "accept": [],
+   "hint": "woman"
+  },
+  {
+   "type": "fill",
+   "q": "He is a child. They are three ______.",
+   "answer": "children",
+   "explain": "Child so'zining ko'plik shakli children.",
+   "accept": [],
+   "hint": "child"
+  },
+  {
+   "type": "fill",
+   "q": "One person is here. Many ______ are in the street.",
+   "answer": "people",
+   "explain": "Person so'zining ko'plik shakli people.",
+   "accept": [],
+   "hint": "person"
+  },
+  {
+   "type": "fill",
+   "q": "This is a foot. These are two ______.",
+   "answer": "feet",
+   "explain": "Foot so'zining noto'g'ri ko'plik shakli feet.",
+   "accept": [],
+   "hint": "foot"
+  },
+  {
+   "type": "fill",
+   "q": "This is a tooth. These are white ______.",
+   "answer": "teeth",
+   "explain": "Tooth so'zining noto'g'ri ko'plik shakli teeth.",
+   "accept": [],
+   "hint": "tooth"
+  },
+  {
+   "type": "fill",
+   "q": "This is a sandwich. Those are two ______.",
+   "answer": "sandwiches",
+   "explain": "-ch bilan tugagan so'zlarga -es qo'shiladi.",
+   "accept": [],
+   "hint": "sandwich"
+  },
+  {
+   "type": "fill",
+   "q": "This is a box. Those are four ______.",
+   "answer": "boxes",
+   "explain": "-x bilan tugagan box so'zi boxes bo'ladi.",
+   "accept": [],
+   "hint": "box"
+  },
+  {
+   "type": "fill",
+   "q": "That is a book. These are my ______.",
+   "answer": "books",
+   "explain": "Book so'ziga -s qo'shib books yasaladi.",
+   "accept": [],
+   "hint": "book"
+  },
+  {
+   "type": "fill",
+   "q": "This is a bag. Those are your ______.",
+   "answer": "bags",
+   "explain": "Bag so'zining ko'plik shakli bags.",
+   "accept": [],
+   "hint": "bag"
+  },
+  {
+   "type": "fill",
+   "q": "This is a baby. Those are cute ______.",
+   "answer": "babies",
+   "explain": "Baby so'zi undosh + y bilan tugagani uchun babies bo'ladi.",
+   "accept": [],
+   "hint": "baby"
+  },
+  {
+   "type": "fill",
+   "q": "This is a family. We have two ______.",
+   "answer": "families",
+   "explain": "Family so'zi -ies qoidasiga ko'ra families bo'ladi.",
+   "accept": [],
+   "hint": "family"
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct plural form of 'city':",
+   "answer": "cities",
+   "explain": "City so'zi undosh + y bilan tugagani uchun cities bo'ladi.",
+   "options": [
+    "citys",
+    "cities",
+    "cites"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct plural form of 'man':",
+   "answer": "men",
+   "explain": "Man so'zi noto'g'ri ot bo'lib, ko'plikda men bo'ladi.",
+   "options": [
+    "mans",
+    "men",
+    "mens"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct plural form of 'child':",
+   "answer": "children",
+   "explain": "Child so'zining noto'g'ri ko'plik shakli children.",
+   "options": [
+    "childs",
+    "children",
+    "childrens"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct plural form of 'bus':",
+   "answer": "buses",
+   "explain": "-s bilan tugagan otlarga -es qo'shiladi.",
+   "options": [
+    "buss",
+    "buses",
+    "busies"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct plural form of 'person':",
+   "answer": "people",
+   "explain": "Person so'zining ko'plikdagi maxsus shakli people.",
+   "options": [
+    "persons",
+    "people",
+    "peoples"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct plural form of 'tooth':",
+   "answer": "teeth",
+   "explain": "Tooth so'zi noto'g'ri ot bo'lib, teeth bo'ladi.",
+   "options": [
+    "tooths",
+    "teeths",
+    "teeth"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct plural form of 'country':",
+   "answer": "countries",
+   "explain": "Country so'zi -ies qoidasi bo'yicha countries bo'ladi.",
+   "options": [
+    "countrys",
+    "countries",
+    "countres"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct plural form of 'woman':",
+   "answer": "women",
+   "explain": "Woman so'zi women shaklida ko'plikda yoziladi.",
+   "options": [
+    "womans",
+    "womens",
+    "women"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct plural form of 'box':",
+   "answer": "boxes",
+   "explain": "-x bilan tugagan otlarga -es qo'shiladi.",
+   "options": [
+    "boxs",
+    "boxes",
+    "boxies"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct plural form of 'foot':",
+   "answer": "feet",
+   "explain": "Foot so'zining noto'g'ri ko'plik shakli feet.",
+   "options": [
+    "foots",
+    "feet",
+    "feets"
+   ]
+  }
+ ],
+ "model": "gemini-3.5-flash-lite",
+ "tr1": [
+  {
+   "part": 0,
+   "uz": "Bu shahar katta.",
+   "en": [
+    "This city is big."
+   ],
+   "rule": "Birlikdagi ot: city"
+  },
+  {
+   "part": 0,
+   "uz": "Bu shaharlar katta.",
+   "en": [
+    "These cities are big."
+   ],
+   "rule": "Ko'plik: -y harfi -ies bo'ladi"
+  },
+  {
+   "part": 0,
+   "uz": "Toshkent - chiroyli shahar.",
+   "en": [
+    "Tashkent is a beautiful city."
+   ],
+   "rule": "Birlikdagi ot: city"
+  },
+  {
+   "part": 0,
+   "uz": "Ushbu shaharlar chiroyli.",
+   "en": [
+    "These cities are beautiful."
+   ],
+   "rule": "Ko'plik: city - cities"
+  },
+  {
+   "part": 0,
+   "uz": "Bu mamlakat kichik.",
+   "en": [
+    "This country is small."
+   ],
+   "rule": "Birlikdagi ot: country"
+  },
+  {
+   "part": 0,
+   "uz": "Bu mamlakatlar kichik.",
+   "en": [
+    "These countries are small."
+   ],
+   "rule": "Ko'plik: country - countries"
+  },
+  {
+   "part": 0,
+   "uz": "O'zbekiston - yaxshi mamlakat.",
+   "en": [
+    "Uzbekistan is a good country."
+   ],
+   "rule": "Birlikdagi ot: country"
+  },
+  {
+   "part": 0,
+   "uz": "Ular yaxshi mamlakatlar.",
+   "en": [
+    "They are good countries."
+   ],
+   "rule": "Ko'plik: country - countries"
+  },
+  {
+   "part": 0,
+   "uz": "Bu qaysi shahar?",
+   "en": [
+    "What city is this?"
+   ],
+   "rule": "Birlikdagi ot: city"
+  },
+  {
+   "part": 0,
+   "uz": "Bular qaysi shaharlar?",
+   "en": [
+    "What cities are these?"
+   ],
+   "rule": "Ko'plik: city - cities"
+  },
+  {
+   "part": 0,
+   "uz": "Bu qaysi mamlakat?",
+   "en": [
+    "What country is this?"
+   ],
+   "rule": "Birlikdagi ot: country"
+  },
+  {
+   "part": 0,
+   "uz": "Bular qaysi mamlakatlar?",
+   "en": [
+    "What countries are these?"
+   ],
+   "rule": "Ko'plik: country - countries"
+  },
+  {
+   "part": 0,
+   "uz": "Mening shahrim kichik.",
+   "en": [
+    "My city is small."
+   ],
+   "rule": "Birlikdagi ot: city"
+  },
+  {
+   "part": 0,
+   "uz": "Mening shaharlarim katta.",
+   "en": [
+    "My cities are big."
+   ],
+   "rule": "Ko'plik: city - cities"
+  },
+  {
+   "part": 0,
+   "uz": "Sizning mamlakatingiz chiroyli.",
+   "en": [
+    "Your country is beautiful."
+   ],
+   "rule": "Birlikdagi ot: country"
+  },
+  {
+   "part": 0,
+   "uz": "Sizning mamlakatlaringiz zo'r.",
+   "en": [
+    "Your countries are fantastic.",
+    "Your countries are great."
+   ],
+   "rule": "Ko'plik: country - countries"
+  },
+  {
+   "part": 0,
+   "uz": "Ushbu shahar juda chiroyli.",
+   "en": [
+    "This city is very beautiful."
+   ],
+   "rule": "Birlikdagi ot: city"
+  },
+  {
+   "part": 0,
+   "uz": "Ushbu shaharlar juda chiroyli.",
+   "en": [
+    "These cities are very beautiful."
+   ],
+   "rule": "Ko'plik: city - cities"
+  },
+  {
+   "part": 0,
+   "uz": "U mamlakat qayerda?",
+   "en": [
+    "Where is that country?"
+   ],
+   "rule": "Birlikdagi ot: country"
+  },
+  {
+   "part": 0,
+   "uz": "Ushbu mamlakatlar qayerda?",
+   "en": [
+    "Where are these countries?"
+   ],
+   "rule": "Ko'plik: country - countries"
+  },
+  {
+   "part": 0,
+   "uz": "Bu shahar yangi.",
+   "en": [
+    "This city is new."
+   ],
+   "rule": "Birlikdagi ot: city"
+  },
+  {
+   "part": 0,
+   "uz": "Bu shaharlar yangi.",
+   "en": [
+    "These cities are new."
+   ],
+   "rule": "Ko'plik: city - cities"
+  },
+  {
+   "part": 0,
+   "uz": "Germaniya - katta mamlakat.",
+   "en": [
+    "Germany is a big country."
+   ],
+   "rule": "Birlikdagi ot: country"
+  },
+  {
+   "part": 0,
+   "uz": "Angliya va Germaniya - mamlakatlar.",
+   "en": [
+    "England and Germany are countries."
+   ],
+   "rule": "Ko'plik: country - countries"
+  },
+  {
+   "part": 0,
+   "uz": "Samarqand - tarixiy shahar.",
+   "en": [
+    "Samarkand is a city."
+   ],
+   "rule": "Birlikdagi ot: city"
+  },
+  {
+   "part": 0,
+   "uz": "Toshkent va Samarqand - shaharlar.",
+   "en": [
+    "Tashkent and Samarkand are cities."
+   ],
+   "rule": "Ko'plik: city - cities"
+  },
+  {
+   "part": 0,
+   "uz": "Ushbu mamlakat katta.",
+   "en": [
+    "This country is big."
+   ],
+   "rule": "Birlikdagi ot: country"
+  },
+  {
+   "part": 0,
+   "uz": "Ushbu mamlakatlar katta.",
+   "en": [
+    "These countries are big."
+   ],
+   "rule": "Ko'plik: country - countries"
+  },
+  {
+   "part": 0,
+   "uz": "Mening mamlakatim - O'zbekiston.",
+   "en": [
+    "My country is Uzbekistan."
+   ],
+   "rule": "Birlikdagi ot: country"
+  },
+  {
+   "part": 0,
+   "uz": "Sizning shahringiz qayerda?",
+   "en": [
+    "Where is your city?"
+   ],
+   "rule": "Birlikdagi ot: city"
+  },
+  {
+   "part": 0,
+   "uz": "Sizning shaharlaringiz qayerda?",
+   "en": [
+    "Where are your cities?"
+   ],
+   "rule": "Ko'plik: city - cities"
+  },
+  {
+   "part": 0,
+   "uz": "Bu shahar markazi.",
+   "en": [
+    "This is a city centre."
+   ],
+   "rule": "Birlikdagi ot: city"
+  },
+  {
+   "part": 0,
+   "uz": "Ushbu shaharlar markazi.",
+   "en": [
+    "These are city centres."
+   ],
+   "rule": "Ko'plik: city - cities"
+  },
+  {
+   "part": 0,
+   "uz": "U mamlakat uzoqda.",
+   "en": [
+    "That country is near."
+   ],
+   "rule": "Birlikdagi ot: country"
+  },
+  {
+   "part": 0,
+   "uz": "Ushbu mamlakatlar uzoqda.",
+   "en": [
+    "These countries are near."
+   ],
+   "rule": "Ko'plik: country - countries"
+  },
+  {
+   "part": 0,
+   "uz": "Bu shahar juda kichik.",
+   "en": [
+    "This city is very small."
+   ],
+   "rule": "Birlikdagi ot: city"
+  },
+  {
+   "part": 0,
+   "uz": "Bu shaharlar juda kichik.",
+   "en": [
+    "These cities are very small."
+   ],
+   "rule": "Ko'plik: city - cities"
+  },
+  {
+   "part": 0,
+   "uz": "Shotlandiya - chiroyli mamlakat.",
+   "en": [
+    "Scotland is a beautiful country."
+   ],
+   "rule": "Birlikdagi ot: country"
+  },
+  {
+   "part": 0,
+   "uz": "Irlandiya va Shvetsiya - mamlakatlar.",
+   "en": [
+    "Ireland and Sweden are countries."
+   ],
+   "rule": "Ko'plik: country - countries"
+  },
+  {
+   "part": 0,
+   "uz": "Mening shahrim juda yaxshi.",
+   "en": [
+    "My city is really good."
+   ],
+   "rule": "Birlikdagi ot: city"
+  },
+  {
+   "part": 0,
+   "uz": "Mening shaharlarim juda yaxshi.",
+   "en": [
+    "My cities are really good."
+   ],
+   "rule": "Ko'plik: city - cities"
+  },
+  {
+   "part": 0,
+   "uz": "Bu shahar emas.",
+   "en": [
+    "This is not a city."
+   ],
+   "rule": "Birlikdagi ot: city"
+  },
+  {
+   "part": 0,
+   "uz": "Bular shahar emas.",
+   "en": [
+    "These are not cities."
+   ],
+   "rule": "Ko'plik: city - cities"
+  },
+  {
+   "part": 0,
+   "uz": "Bu mamlakat emas.",
+   "en": [
+    "This is not a country."
+   ],
+   "rule": "Birlikdagi ot: country"
+  },
+  {
+   "part": 0,
+   "uz": "Bular mamlakat emas.",
+   "en": [
+    "These are not countries."
+   ],
+   "rule": "Ko'plik: country - countries"
+  },
+  {
+   "part": 0,
+   "uz": "Ushbu shahar juda katta.",
+   "en": [
+    "This city is very big."
+   ],
+   "rule": "Birlikdagi ot: city"
+  },
+  {
+   "part": 0,
+   "uz": "Ushbu shaharlar juda katta.",
+   "en": [
+    "These cities are very big."
+   ],
+   "rule": "Ko'plik: city - cities"
+  },
+  {
+   "part": 0,
+   "uz": "Ushbu mamlakat kichikmi?",
+   "en": [
+    "Is this country small?"
+   ],
+   "rule": "Birlikdagi ot: country"
+  },
+  {
+   "part": 0,
+   "uz": "Ushbu mamlakatlar kichikmi?",
+   "en": [
+    "Are these countries small?"
+   ],
+   "rule": "Ko'plik: country - countries"
+  },
+  {
+   "part": 0,
+   "uz": "Bu shahar yaxshimi?",
+   "en": [
+    "Is this city good?"
+   ],
+   "rule": "Birlikdagi ot: city"
+  }
+ ],
+ "tr51": [
+  {
+   "part": 1,
+   "uz": "Bu shahar qizil avtobuslar va yangi maktablar bilan.",
+   "en": [
+    "This is with red buses and new schools.",
+    "This city is with red buses and new schools."
+   ],
+   "rule": "Ko'plik: bus - buses, school - schools"
+  },
+  {
+   "part": 1,
+   "uz": "Ushbu stansiyada ko'plab yangi avtobuslar bor.",
+   "en": [
+    "There are a lot of new buses at this station."
+   ],
+   "rule": "Ko'plik: bus - buses"
+  },
+  {
+   "part": 1,
+   "uz": "Bu uylarda ikkita katta kamera bor.",
+   "en": [
+    "There are two big cameras in these houses."
+   ],
+   "rule": "Ko'plik: house - houses"
+  },
+  {
+   "part": 1,
+   "uz": "Bizning shahrimizda ikkita katta mehmonxona bor.",
+   "en": [
+    "There are two big hotels in our town."
+   ],
+   "rule": "Ko'plik: hotel - hotels"
+  },
+  {
+   "part": 1,
+   "uz": "Ushbu kichik xonalarda qizil stullar bor.",
+   "en": [
+    "There are red chairs in these small rooms."
+   ],
+   "rule": "Ko'plik: room - rooms, chair - chairs"
+  },
+  {
+   "part": 1,
+   "uz": "Bular mening yangi kompyuterlarim va kitoblarim.",
+   "en": [
+    "These are my new computers and books."
+   ],
+   "rule": "Ko'plik: computer - computers, book - books"
+  },
+  {
+   "part": 1,
+   "uz": "Bu yerda uchta katta xarita va ikkita kamera bor.",
+   "en": [
+    "There are three big maps and two cameras here."
+   ],
+   "rule": "Ko'plik: map - maps, camera - cameras"
+  },
+  {
+   "part": 1,
+   "uz": "Ushbu maktablarda yaxshi talabalar bor.",
+   "en": [
+    "There are good students in these schools."
+   ],
+   "rule": "Ko'plik: school - schools, student - students"
+  },
+  {
+   "part": 1,
+   "uz": "Bu kichik stansiyalarda qizil avtobuslar bor.",
+   "en": [
+    "There are red buses at these small stations."
+   ],
+   "rule": "Ko'plik: station - stations, bus - buses"
+  },
+  {
+   "part": 1,
+   "uz": "Ushbu do'konlarda yaxshi sumkalar bor.",
+   "en": [
+    "There are good bags in these shops."
+   ],
+   "rule": "Ko'plik: shop - shops, bag - bags"
+  },
+  {
+   "part": 1,
+   "uz": "Bu xonalarda mening telefonlarim va kitoblarim bor.",
+   "en": [
+    "My phones and books are in these rooms."
+   ],
+   "rule": "Ko'plik: room - rooms, phone - phones, book - books"
+  },
+  {
+   "part": 1,
+   "uz": "Bular mening akalarim va do'stlarim.",
+   "en": [
+    "These are my brothers and friends."
+   ],
+   "rule": "Ko'plik: brother - brothers, friend - friends"
+  },
+  {
+   "part": 1,
+   "uz": "Ushbu shaharlarda ko'plab qizil avtobuslar bor.",
+   "en": [
+    "There are a lot of red buses in these cities."
+   ],
+   "rule": "Ko'plik: city - cities, bus - buses"
+  },
+  {
+   "part": 1,
+   "uz": "Bu universitetlarda yaxshi o'qituvchilar bor.",
+   "en": [
+    "There are good teachers in these universities."
+   ],
+   "rule": "Ko'plik: university - universities, teacher - teachers"
+  },
+  {
+   "part": 1,
+   "uz": "Ushbu jurnallarda qiziqarli rasmlar bor.",
+   "en": [
+    "There are interesting photographs in these magazines."
+   ],
+   "rule": "Ko'plik: photograph - photographs, magazine - magazines"
+  },
+  {
+   "part": 1,
+   "uz": "Bu stollarda qizil stakanlar bor.",
+   "en": [
+    "There are red cups on these tables."
+   ],
+   "rule": "Ko'plik: table - tables, cup - cups"
+  },
+  {
+   "part": 1,
+   "uz": "Ushbu binolarda yangi ofislar bor.",
+   "en": [
+    "There are new offices in these buildings."
+   ],
+   "rule": "Ko'plik: building - buildings, office - offices"
+  },
+  {
+   "part": 1,
+   "uz": "Bu xonalarda ikkita eshik va to'rtta deraza bor.",
+   "en": [
+    "There are two doors and four windows in these rooms."
+   ],
+   "rule": "Ko'plik: door - doors, window - windows, room - rooms"
+  },
+  {
+   "part": 1,
+   "uz": "Ushbu qishloqlarda kichik uylar bor.",
+   "en": [
+    "There are small houses in these villages."
+   ],
+   "rule": "Ko'plik: village - villages, house - houses"
+  },
+  {
+   "part": 1,
+   "uz": "Bu ko'chalarda ko'plab odamlar bor.",
+   "en": [
+    "There are a lot of people in these streets."
+   ],
+   "rule": "Ko'plik: street - streets, irregular: person - people"
+  },
+  {
+   "part": 2,
+   "uz": "Bu xonada uchta erkak va ikkita ayol bor.",
+   "en": [
+    "There are three men and two women in this room."
+   ],
+   "rule": "Noto'g'ri ko'plik: man - men, woman - women"
+  },
+  {
+   "part": 2,
+   "uz": "Ushbu maktabda ko'plab bolalar bor.",
+   "en": [
+    "There are a lot of children in this school."
+   ],
+   "rule": "Noto'g'ri ko'plik: child - children"
+  },
+  {
+   "part": 2,
+   "uz": "Bu shaharda ko'plab odamlar yashaydi.",
+   "en": [
+    "A lot of people live in this city."
+   ],
+   "rule": "Noto'g'ri ko'plik: person - people"
+  },
+  {
+   "part": 2,
+   "uz": "Bu uyda ikkita bola va bitta chaqaloq bor.",
+   "en": [
+    "There are two children and one baby in this house."
+   ],
+   "rule": "Noto'g'ri ko'plik: child - children"
+  },
+  {
+   "part": 2,
+   "uz": "Ushbu binoda o'nta erkak va beshta ayol ishlaydi.",
+   "en": [
+    "Ten men and five women work in this building."
+   ],
+   "rule": "Noto'g'ri ko'plik: man - men, woman - women"
+  },
+  {
+   "part": 2,
+   "uz": "Bu xonada bolalar va ularning ota-onalari bor.",
+   "en": [
+    "There are children and their parents in this room."
+   ],
+   "rule": "Noto'g'ri ko'plik: child - children"
+  },
+  {
+   "part": 2,
+   "uz": "Ushbu ko'chada ko'plab odamlar va mashinalar bor.",
+   "en": [
+    "There are a lot of people and cars in this street."
+   ],
+   "rule": "Noto'g'ri ko'plik: person - people; car - cars"
+  },
+  {
+   "part": 2,
+   "uz": "Bu maktabda o'g'il bolalar va qizlar bor.",
+   "en": [
+    "There are boys and girls in this school."
+   ],
+   "rule": "Ko'plik: boy - boys, girl - girls"
+  },
+  {
+   "part": 2,
+   "uz": "Ushbu do'konda erkaklar va ayollar uchun kiyimlar bor.",
+   "en": [
+    "There are clothes for men and women in this shop."
+   ],
+   "rule": "Noto'g'ri ko'plik: man - men, woman - women"
+  },
+  {
+   "part": 2,
+   "uz": "Bu parkda xursand bolalar juda ko'p.",
+   "en": [
+    "There are a lot of happy children in this park."
+   ],
+   "rule": "Noto'g'ri ko'plik: child - children"
+  },
+  {
+   "part": 2,
+   "uz": "Ushbu stansiyada odamlar juda ko'p.",
+   "en": [
+    "There are a lot of people at this station."
+   ],
+   "rule": "Noto'g'ri ko'plik: person - people"
+  },
+  {
+   "part": 2,
+   "uz": "Bu xonada ikkita erkak va uchta ayol o'tiribdi.",
+   "en": [
+    "Two men and three women are sitting in this room."
+   ],
+   "rule": "Noto'g'ri ko'plik: man - men, woman - women"
+  },
+  {
+   "part": 2,
+   "uz": "Ushbu oilada uchta bola bor.",
+   "en": [
+    "There are three children in this family."
+   ],
+   "rule": "Noto'g'ri ko'plik: child - children"
+  },
+  {
+   "part": 2,
+   "uz": "Bu bozorda har kuni ko'p odamlar yuradi.",
+   "en": [
+    "A lot of people walk in this market everyday."
+   ],
+   "rule": "Noto'g'ri ko'plik: person - people"
+  },
+  {
+   "part": 2,
+   "uz": "Ushbu xonada mening do'stlarim va ularning bolalari bor.",
+   "en": [
+    "My friends and their children are in this room."
+   ],
+   "rule": "Ko'plik: friend - friends; Noto'g'ri: child - children"
+  },
+  {
+   "part": 2,
+   "uz": "Bu uyda beshta bola va ikkita mushuk bor.",
+   "en": [
+    "There are five children and two cats in this house."
+   ],
+   "rule": "Noto'g'ri ko'plik: child - children; cat - cats"
+  },
+  {
+   "part": 2,
+   "uz": "Ushbu universitetda ko'plab talabalar va o'qituvchilar bor.",
+   "en": [
+    "There are a lot of students and teachers in this university."
+   ],
+   "rule": "Ko'plik: student - students, teacher - teachers"
+  },
+  {
+   "part": 2,
+   "uz": "Bu shaharda odamlar juda ko'p va uylar katta.",
+   "en": [
+    "There are a lot of people and big houses in this city."
+   ],
+   "rule": "Noto'g'ri ko'plik: person - people; house - houses"
+  },
+  {
+   "part": 2,
+   "uz": "Ushbu sinfda o'nta bola bor.",
+   "en": [
+    "There are ten children in this classroom."
+   ],
+   "rule": "Noto'g'ri ko'plik: child - children"
+  },
+  {
+   "part": 2,
+   "uz": "Bu ofisda ikkita biznesmen va uchta xodim ishlaydi.",
+   "en": [
+    "Two businessmen and three staff work in this office."
+   ],
+   "rule": "Noto'g'ri ko'plik: businessman - businessmen"
+  },
+  {
+   "part": 2,
+   "uz": "Ushbu ko'chada ko'plab odamlar va mashinalar bor.",
+   "en": [
+    "There are a lot of people and cars in this street."
+   ],
+   "rule": "Noto'g'ri ko'plik: person - people; car - cars"
+  },
+  {
+   "part": 2,
+   "uz": "Bu uyda ikkita bola va bitta it bor.",
+   "en": [
+    "There are two children and one dog in this house."
+   ],
+   "rule": "Noto'g'ri ko'plik: child - children; dog - dogs"
+  },
+  {
+   "part": 2,
+   "uz": "Ushbu maktabda o'g'il bolalar va qizlar o'qiydi.",
+   "en": [
+    "Boys and girls study in this school."
+   ],
+   "rule": "Ko'plik: boy - boys, girl - girls"
+  },
+  {
+   "part": 2,
+   "uz": "Bu shahar markazida odamlar juda ko'p.",
+   "en": [
+    "There are a lot of people in this town centre."
+   ],
+   "rule": "Noto'g'ri ko'plik: person - people"
+  },
+  {
+   "part": 2,
+   "uz": "Ushbu xonada to'rtta erkak va to'rtta ayol bor.",
+   "en": [
+    "There are four men and four women in this room."
+   ],
+   "rule": "Noto'g'ri ko'plik: man - men, woman - women"
+  },
+  {
+   "part": 2,
+   "uz": "Bu parkda xursand bolalar va ota-onalar bor.",
+   "en": [
+    "There are happy children and parents in this park."
+   ],
+   "rule": "Noto'g'ri ko'plik: child - children; parent - parents"
+  },
+  {
+   "part": 2,
+   "uz": "Ushbu stansiyada odamlar va avtobuslar juda ko'p.",
+   "en": [
+    "There are a lot of people and buses at this station."
+   ],
+   "rule": "Noto'g'ri ko'plik: person - people; bus - buses"
+  },
+  {
+   "part": 2,
+   "uz": "Bu oilada uchta qiz va ikkita o'g'il bola bor.",
+   "en": [
+    "There are three girls and two boys in this family."
+   ],
+   "rule": "Ko'plik: girl - girls, boy - boys"
+  },
+  {
+   "part": 2,
+   "uz": "Ushbu binoda ko'plab ishchilar va odamlar bor.",
+   "en": [
+    "There are a lot of workers and people in this building."
+   ],
+   "rule": "Noto'g'ri ko'plik: person - people; worker - workers"
+  },
+  {
+   "part": 2,
+   "uz": "Bu maktabda o'n ta bola va ikkita o'qituvchi bor.",
+   "en": [
+    "There are ten children and two teachers in this school."
+   ],
+   "rule": "Noto'g'ri ko'plik: child - children; teacher - teachers"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "script": "Speaker: Hi everyone. Today I will tell you about my typical day filming. It sounds like a great job, but it really is very tiring. Every day I get up at 4:00 in the morning and I have to be ready by 4:30 to get in the car to the studio. In the winter, it's still dark, and as the studio is only half an hour away, I'm there at 5:00 and I don't get a chance to have a quick sleep. As soon as I get to the studio, I go to the hairdresser who brushes my hair into the hairstyle of the character I'm playing. This usually takes about half an hour. When she finishes doing my hair, I don't have to move from the chair, because the makeup lady comes to me and prepares me for filming. At the moment I'm playing a police officer, so I don't need a lot of makeup. In my last film, I played the part of a big monster, and I needed a lot of makeup, which took 5 hours to do. It wasn't comfortable sitting in the same chair for such a long time. After makeup, I'm given my costume to put on. At this point I am now ready to act, but it is never like that. The film director is either late or the engineers haven't finished with the scenery or lights. We don't usually start on time. When they are ready, I go into the studio and we act out the different scenes. This takes all day until about 5:00 p.m. when they remove my makeup and I get changed back into my normal clothes. A car then takes me home, where I have dinner and go to bed, usually about 10:00 p.m. Then the same happens the next day, and every day during filming. And that's my typical day.",
+ "items": [
+  {
+   "n": 1,
+   "quote": "as the studio is only half an hour away, I'm there at 5",
+   "uz": "Roger studiyaga soat 5:00 da yetib keladi. U soat 4:00 da o'rnidan turadi va 4:30 da yo'lga tushadi, shuning uchun bu soatlar bilan chalkashtirmaslik kerak."
+  },
+  {
+   "n": 2,
+   "quote": "When she finishes doing my hair, I don't have to move from the chair, because the makeup lady comes to me",
+   "uz": "Sartarosh uning sochini tartibga solgach, makiyajchi ayol kelib unga pardoz ('make-up') qiladi."
+  },
+  {
+   "n": 3,
+   "quote": "At the moment I'm playing a police officer",
+   "uz": "Roger ushbu yangi filmda politsiya zobi ti ('police officer') rolini o'ynamoqda. Oldingi filmida esa maxluq (monster) rolini o'ynagan edi."
+  },
+  {
+   "n": 4,
+   "quote": "The film director is either late or the engineers haven't finished",
+   "uz": "Tasvirga olish ishlari film rejissori ('film director') ko'pincha kechikgani uchun orqaga suriladi."
+  },
+  {
+   "n": 5,
+   "quote": "when they remove my makeup and I get changed back into my normal clothes",
+   "uz": "Tasvirga olish tugaganda, uning pardozini tozalashadi va u o'zining odatiy kiyimlarini ('normal clothes') kiyib oladi."
+  },
+  {
+   "n": 6,
+   "quote": "A car then takes me home, where I have dinner and go to bed",
+   "uz": "Roger uyiga yetib kelgach, kechki ovqat ('dinner') yeydi va soat 10 lar atrofida barvaqt uxlaydi."
+  }
+ ]
+}

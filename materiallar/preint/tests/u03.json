@@ -1,0 +1,528 @@
+{
+ "code": "P3",
+ "course": "Pre-Intermediate",
+ "kind": "unit",
+ "unit": 3,
+ "price": 35000,
+ "title": "Unit 3 Test",
+ "subtitle": "On screen · quantifiers · must / needn’t",
+ "sections": [
+  {
+   "title": "A. Choose the correct words.",
+   "items": [
+    {
+     "t": "mc",
+     "q": "We only have ___ time before the film starts.",
+     "o": [
+      "a few",
+      "a little"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "How ___ episodes are there in this series?",
+     "o": [
+      "much",
+      "many"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "I think ___ cartoons are better for adults than for children.",
+     "o": [
+      "some",
+      "any"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "There aren’t ___ good programmes on TV tonight.",
+     "o": [
+      "some",
+      "any"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "Did you do ___ homework last night?",
+     "o": [
+      "much",
+      "many"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Is there ___ popcorn left?",
+     "o": [
+      "some",
+      "any"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "We haven’t got ___ milk, but we’ve got lots of juice.",
+     "o": [
+      "much",
+      "many"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Quick! There are only ___ seats left in the cinema.",
+     "o": [
+      "a few",
+      "a little"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "title": "B. Rewrite the rules for a film club. Use must, mustn’t or needn’t.",
+   "items": [
+    {
+     "t": "text",
+     "q": "It is necessary to arrive on time. → You ______ arrive on time.",
+     "a": [
+      "must"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "You are not allowed to eat during the film. → You ______ eat during the film.",
+     "a": [
+      "mustn't",
+      "must not"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "It isn’t necessary to bring your own snacks. → You ______ bring your own snacks.",
+     "a": [
+      "needn't",
+      "need not",
+      "don't have to"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "You are not allowed to use your phone. → You ______ use your phone.",
+     "a": [
+      "mustn't",
+      "must not"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Members are obliged to show their card. → Members ______ show their card.",
+     "a": [
+      "must"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "It isn’t necessary to book a seat. → You ______ book a seat.",
+     "a": [
+      "needn't",
+      "need not",
+      "don't have to"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "You are not allowed to talk loudly. → You ______ talk loudly.",
+     "a": [
+      "mustn't",
+      "must not"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "C. Complete the advert with the words in the box.",
+   "box": [
+    "any",
+    "few",
+    "little",
+    "lot",
+    "much"
+   ],
+   "items": [
+    {
+     "t": "text",
+     "q": "Do you spend a ______ of time watching series?",
+     "a": [
+      "lot"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Don’t have ______ friends who like the same films?",
+     "a": [
+      "any"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "We meet a ______ times a month.",
+     "a": [
+      "few"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "It costs very ______ — only 10,000 so‘m.",
+     "a": [
+      "little"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "You don’t need ______ money to have fun!",
+     "a": [
+      "much"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "D. Write the type of film or TV programme.",
+   "items": [
+    {
+     "t": "text",
+     "q": "It tells you if it will rain tomorrow. → the weather ______",
+     "a": [
+      "forecast"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "A film with drawn or computer-made characters, often for children. → an ______",
+     "a": [
+      "animation",
+      "animated film",
+      "cartoon"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "A programme about real animals, places or events. → a ______",
+     "a": [
+      "documentary"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Ordinary people compete, and viewers vote for the winner. → a reality ______",
+     "a": [
+      "show"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "A funny series about the same characters in the same place. → a ______",
+     "a": [
+      "sitcom"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "A host talks to famous guests about their lives. → a ______ show",
+     "a": [
+      "chat",
+      "talk"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "E. Complete the adjectives. The first and last letters are given.",
+   "items": [
+    {
+     "t": "text",
+     "q": "The film was so g______g that I couldn’t stop watching.",
+     "a": [
+      "gripping"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Too many characters made the story c_______g.",
+     "a": [
+      "confusing"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The s________k has some great songs.",
+     "a": [
+      "soundtrack"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The ending was so p_______e — I knew what would happen.",
+     "a": [
+      "predictable"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The jokes were really a_____g; we laughed all the time.",
+     "a": [
+      "amusing"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The special effects were i________e.",
+     "a": [
+      "impressive"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "F. Complete the sentences with the words in the box. There is one extra word.",
+   "box": [
+    "benefits",
+    "conduct",
+    "express",
+    "get",
+    "make",
+    "play",
+    "problems",
+    "views",
+    "effects"
+   ],
+   "items": [
+    {
+     "t": "text",
+     "q": "My brother likes to ______ video games after school.",
+     "a": [
+      "play"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "It is hard to ______ a decision when you’re tired.",
+     "a": [
+      "make"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Too much screen time causes ______ for young children.",
+     "a": [
+      "problems"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "We should be free to ______ our opinions.",
+     "a": [
+      "express"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Social media can have good and bad ______ on teenagers.",
+     "a": [
+      "effects"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Scientists ______ experiments to find answers.",
+     "a": [
+      "conduct"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "If you study hard, you will ______ good marks.",
+     "a": [
+      "get"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Sport has many health ______.",
+     "a": [
+      "benefits"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "G. Each sentence has one mistake. Write the correct word.",
+   "items": [
+    {
+     "t": "text",
+     "q": "Shall we watch a film tonight? — I’m not sure of that. → correct: ______",
+     "a": [
+      "about"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I quite fancy to watch a comedy. → correct: ______",
+     "a": [
+      "watching"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I’m not keen in horror films. → correct: ______",
+     "a": [
+      "on"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I’d rather to stay at home. → correct: ______",
+     "a": [
+      "stay"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I prefer comedies than dramas. → correct: ______",
+     "a": [
+      "to"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I’m big fan of science fiction. → correct: ______",
+     "a": [
+      "a"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Shall we settle in the new action film? → correct: ______",
+     "a": [
+      "on"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "OK, I’m agree. → correct: ______",
+     "a": [
+      "agree"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "That’s agree, then. → correct: ______",
+     "a": [
+      "agreed"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I can’t stand watch sad films. → correct: ______",
+     "a": [
+      "watching"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Listening. Listen to an interview with a young film-maker. Are the sentences true or false?",
+   "audio": "preint/P3.mp3",
+   "script": "Host: Today I'm talking to Sevara, who is only seventeen but has already made three short films. Sevara, how did you start?\nSevara: I started with my phone when I was thirteen. I made funny videos about my cat. My friends loved them, so I tried to tell real stories.\nHost: What is your new film about?\nSevara: It's about a grandmother who teaches her grandson to cook. It's quite emotional — some people cry at the end!\nHost: Was it expensive to make?\nSevara: Not at all. We didn't have much money, so my family were the actors and we filmed everything in our kitchen.\nHost: What's the hardest part of making a film?\nSevara: Editing. It takes much longer than filming. For a ten-minute film, I spent about forty hours on the computer.\nHost: And what's next?\nSevara: A film festival in Tashkent has chosen my film, so I'm going there next month. I'm really nervous!",
+   "items": [
+    {
+     "t": "tf",
+     "q": "Sevara started making videos with a professional camera.",
+     "a": false
+    },
+    {
+     "t": "tf",
+     "q": "Her first videos were about her cat.",
+     "a": true
+    },
+    {
+     "t": "tf",
+     "q": "She paid professional actors for her new film.",
+     "a": false
+    },
+    {
+     "t": "tf",
+     "q": "She thinks editing takes more time than filming.",
+     "a": true
+    },
+    {
+     "t": "tf",
+     "q": "She has already been to the film festival.",
+     "a": false
+    }
+   ]
+  },
+  {
+   "title": "H. Read the text and choose the correct answers.",
+   "passage": "Have you ever wanted to be in a film? Every year, film companies need hundreds of ‘extras’ — the people you see walking in the street or sitting in a café behind the main actors.\n\nYou don’t need acting experience, but you do need patience. A day on a film set can last twelve hours, and you might spend ten of them waiting. Experienced extras always take a book or some music. Directors prefer people who are calm and follow instructions; if you complain or are late, they won’t call you again.\n\nThe pay is not high — about the same as working in a shop — and you will probably never see your face clearly on screen. So why do people do it? Many say it’s the experience: you see how films are made, you meet interesting people and, sometimes, you stand two metres from a star.",
+   "items": [
+    {
+     "t": "mc",
+     "q": "According to the writer, you are more likely to work as an extra again if you",
+     "o": [
+      "have acting experience.",
+      "are calm and follow instructions.",
+      "talk to the director."
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "The writer suggests taking a book because",
+     "o": [
+      "there is a lot of waiting.",
+      "extras must learn their lines.",
+      "it helps you look natural."
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "What does the writer say about the pay?",
+     "o": [
+      "It is very good.",
+      "It is similar to shop work.",
+      "There is no pay."
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "What is a benefit for extras?",
+     "o": [
+      "They become famous.",
+      "They see how films are made.",
+      "They always appear clearly on screen."
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "The best title for the article is",
+     "o": [
+      "How to become a star",
+      "Life as a film extra",
+      "The history of cinema"
+     ],
+     "a": 1
+    }
+   ]
+  }
+ ]
+}

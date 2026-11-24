@@ -1,0 +1,682 @@
+[
+ {
+  "why": "«scary» — qo‘rqinchli. Gapda «monster» va «loud» so‘zlari bor, bu maxluq juda qo‘rqinchli ekanini bildiradi.",
+  "wrong": {
+   "funny": "«funny» — kulgili; bu yerda gap kulgi emas, qo‘rquv haqida.",
+   "gripping": "«gripping» — qiziqarli; bu kino dahshatli edi, qiziqarli emas.",
+   "moving": "«moving» — ta’sirli; bu yerda yig‘lashga sabab ta’sirli ekani emas, qo‘rquv."
+  }
+ },
+ {
+  "why": "«western» — kovboylar haqidagi film. Gapda «cowboys riding horses in the old American desert» bor.",
+  "wrong": {
+   "comedy": "«comedy» — komediya; bu yerda kovboylar haqida ketmoqda, kulgili voqea emas.",
+   "horror film": "«horror film» — dahshatli kino; cho‘ldagi kovboylar dahshatli film emas.",
+   "musical": "«musical» — myuzikl; bu yerda qo‘shiq va raqs haqida emas, kovboylar haqida."
+  }
+ },
+ {
+  "why": "«musical» — qo‘shiq va raqslar ko‘p bo‘ladigan musiqa ko‘rsatuvi. Gapda «danced and sang wonderful songs» bor.",
+  "wrong": {
+   "sitcom": "«sitcom» — vaziyatli komediya; bu yerda qo‘shiq va raqs aytilmoqda.",
+   "soap": "«soap» — serial; bu raqs va qo‘shiqqa boy musical.",
+   "game show": "«game show» — o‘yin ko‘rsatuvi; bu yerda sahna va qo‘shiqlar haqida."
+  }
+ },
+ {
+  "why": "«game show» — pul yutib olish o‘yin ko‘rsatuvi. Gapda «win big money prizes» bor.",
+  "wrong": {
+   "chat show": "«chat show» — suhbat ko‘rsatuvi; bu yerda pul yutish o‘yini haqida.",
+   "reality show": "«reality show» — realiti-shou; bu yerda savol-javob va pul yutish bor.",
+   "talent show": "«talent show» — iste'dodlar shousi; bu yerda esa savollarga javob berib pul yutish."
+  }
+ },
+ {
+  "why": "«chat show» — mashhurlar bilan suhbatlashish ko‘rsatuvi. Gapda «talk about their new albums» bor.",
+  "wrong": {
+   "news bulletin": "«news bulletin» — yangiliklar; bu yerda mashhurlar o‘z albomlari haqida gapirmoqda.",
+   "weather forecast": "«weather forecast» — ob-havo; bu yerda xonandalar suhbati haqida.",
+   "documentary": "«documentary» — hujjatli film; bu xonandalar ishtirokidagi tok-shou."
+  }
+ },
+ {
+  "why": "«documentary» — tabiat haqidagi hujjatli film. Gapda «wild lions and tigers living in the African grasslands» bor.",
+  "wrong": {
+   "action film": "«action film» — jangari film; bu yerda sher va yo‘qbarslar hayoti haqida.",
+   "science fiction film": "«science fiction film» — fantastik kino; bu hayvonot olami haqidagi hujjatli film.",
+   "fantasy film": "«fantasy film» — afsonaviy kino; haqiqiy tabiat haqida so‘z bormoqda."
+  }
+ },
+ {
+  "why": "«comedy» — kulgili komediya filmi. Gapda «Everyone laughed loudly when the clumsy teacher fell» bor.",
+  "wrong": {
+   "horror film": "«horror film» — dahshatli kino; o‘qituvchining yiqilishi kulgili holat.",
+   "thriller": "«thriller» — triller; bu yerda kulgi va hazil haqida.",
+   "war film": "«war film» — urush filmi; bu maktabdagi kulgili voqea."
+  }
+ },
+ {
+  "why": "«animation» — animatsion multfilm. Gapda «cartoon drawings» bor.",
+  "wrong": {
+   "news bulletin": "«news bulletin» — yangiliklar; bu yerda chizilgan mushuk haqida.",
+   "sitcom": "«sitcom» — komediya seriali; bu multfilm.",
+   "weather forecast": "«weather forecast» — ob-havo ma’lumoti; bu rasm chizilgan multfilm."
+  }
+ },
+ {
+  "why": "«war film» — urush filmi. Gapda «Soldiers fought bravely... European battles of 1942» bor.",
+  "wrong": {
+   "fantasy film": "«fantasy film» — sehrli kino; bu yerda tarixiy urush haqida.",
+   "science fiction film": "«science fiction film» — ilmiy-fantastik; bu 1942-yilgi janglar haqida.",
+   "musical": "«musical» — myuzikl; bu urush va askarlar haqidagi film."
+  }
+ },
+ {
+  "why": "«science fiction film» — kosmos va kelajak haqidagi ilmiy-fantastik film. Gapda «Spaceships flew... laser guns... deep space» bor.",
+  "wrong": {
+   "period drama": "«period drama» — tarixiy drama; kosmik kemalar fantastik kinoga tegishli.",
+   "soap": "«soap» — kundalik serial; bu kosmos haqidagi fantastika.",
+   "chat show": "«chat show» — suhbat shousi; bu yerda fazo va lazerlar haqida."
+  }
+ },
+ {
+  "why": "«fantasy film» — sehrgarlar va ajdarho haqidagi fantastik film. Gapda «Wizards and dragons used magic spells» bor.",
+  "wrong": {
+   "action film": "«action film» — jangari; sehr va ajdarholar fantastik filmga xos.",
+   "documentary": "«documentary» — hujjatli film; sehrgarlar haqiqatda yo‘q.",
+   "comedy": "«comedy» — komediya; bu yerda qadimiy sehr va qasr haqida."
+  }
+ },
+ {
+  "why": "«reality show» — realiti-shou. Gapda «cameras watching their every move daily» bor.",
+  "wrong": {
+   "sitcom": "«sitcom» — komediya serial; bu kameralar kuzatib turadigan realiti-shou.",
+   "soap": "«soap» — serial; bu esa real hayotdagi shou.",
+   "news bulletin": "«news bulletin» — yangiliklar; bu shou ishtirokchilari haqida."
+  }
+ },
+ {
+  "why": "«soundtrack» — kinodagi musiqa. Gapda «sad piano music... made all the viewers cry» bor.",
+  "wrong": {
+   "script": "«script» — ssenariy matni; musiqa bu soundtrack.",
+   "plot": "«plot» — syujet; bu yerda pianino musiqasi haqida.",
+   "characters": "«characters» — qahramonlar; bu yoqimli pianino kuyi."
+  }
+ },
+ {
+  "why": "«special effects» — maxsus effektlar (kompyuter grafikasi). Gapda «Computer artists created a giant flying dragon» bor.",
+  "wrong": {
+   "characters": "«characters» — qahramonlar; kompyuterda yaratilgan narsa bu effektlar.",
+   "ending": "«ending» — oxiri; bu yerda kompyuterda yaratilgan tasvir haqida.",
+   "scenes": "«scenes» — sahnalar; bu maxsus effektlar yordamida qilingan."
+  }
+ },
+ {
+  "why": "«thriller» — triller, detektiv kino. Gapda «police officer solved the dangerous mystery» bor.",
+  "wrong": {
+   "comedy": "«comedy» — komediya; jinoyatni ochish trillerga xos.",
+   "western": "«western» — kovboylar kinosi; politsiya siri bu triller.",
+   "musical": "«musical» — myuzikl; bu sirli jinoyatni topish."
+  }
+ },
+ {
+  "why": "«soap» — kundalik serial (soap opera). Gapda «small town shared secrets while drinking tea» bor.",
+  "wrong": {
+   "sitcom": "«sitcom» — kulgili serial; sirlar va dramatik voqealar serialga xos.",
+   "game show": "«game show» — o‘yin shousi; bu esa qishloqdagi odamlar hayoti.",
+   "talent show": "«talent show» — iste'dodlar shousi; bu serial voqealari."
+  }
+ },
+ {
+  "why": "«sitcom» — kulgili vaziyatli komediya seriali. Gapda «funny family... had hilarious arguments» bor.",
+  "wrong": {
+   "documentary": "«documentary» — hujjatli film; bu oilaviy kulgili serial.",
+   "news bulletin": "«news bulletin» — yangiliklar; bu sitcom.",
+   "weather forecast": "«weather forecast» — ob-havo; bu oilaning kulgili janjali."
+  }
+ },
+ {
+  "why": "«period drama» — o'tgan zamon tarixi aks etgan drama. Gapda «19th-century London wore long wool coats» bor.",
+  "wrong": {
+   "science fiction film": "«science fiction film» — fantastika; bu 19-asr tarixi.",
+   "action film": "«action film» — jangari; bu kostyumli tarixiy drama.",
+   "animation": "«animation» — multfilm; bu tarixiy kino."
+  }
+ },
+ {
+  "why": "«romantic comedy» — romantik komediya. Gapda «boy and girl fell deeply in love after meeting» bor.",
+  "wrong": {
+   "horror film": "«horror film» — dahshatli kino; sevgi haqidagi kino romantic comedy bo‘ladi.",
+   "war film": "«war film» — urush filmi; bu yerda ikki yoshning muhabbati.",
+   "thriller": "«thriller» — triller; bu romantik uchrashuv."
+  }
+ },
+ {
+  "why": "«script» — ssenariy (matn). Gapda «read the written words on paper to learn their lines» bor.",
+  "wrong": {
+   "soundtrack": "«soundtrack» — musiqa; aktyorlar qog‘ozdagi so‘zlarni ssenariydan o‘qiydi.",
+   "special effects": "«special effects» — effektlar; bu esa yozma matn.",
+   "plot": "«plot» — syujet; so‘zlarni yodlash uchun ssenariy kerak."
+  }
+ },
+ {
+  "why": "«characters» — personajlar. Gapda «The funny dog and the clever cat» bor: multfilmdagi hayvonlar uning asosiy qahramonlari hisoblanadi.",
+  "wrong": {
+   "scenes": "«scenes» — sahnalar; bu yerda gap voqealar joyi haqida emas, ishtirokchilar haqida.",
+   "ending": "«ending» — oxiri; bu yerda hikoya yakuni emas, balki qahramonlar tasvirlangan.",
+   "soundtrack": "«soundtrack» — musiqa; it va mushuk musiqa bo'lolmaydi, ular qahramon."
+  }
+ },
+ {
+  "why": "«plot» — syujet. Gapda «A young thief stole a golden crown» bor: bu voqealar rivoji yoki hikoya mazmunini bildiradi.",
+  "wrong": {
+   "script": "«script» — ssenariy; bu yozma matn, o'g'rilik esa voqeaning o'zi.",
+   "soundtrack": "«soundtrack» — musiqiy jo'rlik; bu o'g'rilik voqeasiga aloqador emas.",
+   "special effects": "«special effects» — maxsus effektlar; bu kino texnologiyasi, real voqea emas."
+  }
+ },
+ {
+  "why": "«scenes» — sahnalar. Gapda «filmed the romantic kissing moment» bor: aktyorlar aynan shu lavha yoki sahna suratga olishgan.",
+  "wrong": {
+   "characters": "«characters» — qahramonlar; aktyorlar qahramonlarni ijro etadi, lekin suratga olingani bu sahna.",
+   "ending": "«ending» — oxiri; bu romantik lahza filmning oxiri emas, balki bitta sahna.",
+   "script": "«script» — ssenariy; aktyorlar ssenariyni o'qiydi, lekin lahzani suratga oladi."
+  }
+ },
+ {
+  "why": "«ending» — yakun, oxiri. Gapda «finally returned home» bor: bu hikoyaning xursandchilik bilan tugashini ko'rsatadi.",
+  "wrong": {
+   "script": "«script» — ssenariy; bu voqea yakuniga nisbatan ishlatilmaydi.",
+   "plot": "«plot» — syujet; bu butun voqealar zanjiri, uyga qaytish esa oxirgi qism.",
+   "soundtrack": "«soundtrack» — musiqa; itning qaytishi musiqaga aloqador emas."
+  }
+ },
+ {
+  "why": "«honest» — halol. Gapda «never lies about his homework» bor: hech qachon yolg'on gapirmaydigan odam halol bo'ladi.",
+  "wrong": {
+   "dishonest": "«dishonest» — noshukur yoki yolg'onchi; gapda yolg'on gapirmasligi aytilgan.",
+   "impatient": "«impatient» — sabrsiz; bu xarakter yolg'on gapirmaslikka aloqador emas.",
+   "irresponsible": "«irresponsible» — mas'uliyatsiz; bu so'z yolg'on mavzusiga mos kelmaydi."
+  }
+ },
+ {
+  "why": "«dishonest» — nohalol. Gapda «took money from her brother's wallet» bor: birovning hamyonidan ruxsatsiz pul olish nohalollikdir.",
+  "wrong": {
+   "honest": "«honest» — halol; birovning pulini olish halol ish emas.",
+   "patient": "«patient» — sabrli; pul olish sabrlilikka bog'liq emas.",
+   "responsible": "«responsible» — mas'uliyatli; bu hamyondan pul olish holatiga mos kelmaydi."
+  }
+ },
+ {
+  "why": "«patient» — sabrli. Gapda «waited quietly for thirty minutes... without getting angry» bor: jahl qilmasdan kutish sabrlilikni bildiradi.",
+  "wrong": {
+   "impatient": "«impatient» — sabrsiz; jahl qilmasdan kutgan odam sabrsiz bo'lolmaydi.",
+   "dependent": "«dependent» — qaram; bu uzoq kutishga aloqador emas.",
+   "independent": "«independent» — mustaqil; navbatda kutishga bu so'z mos kelmaydi."
+  }
+ },
+ {
+  "why": "«impatient» — sabrsiz. Gapda «shouted loudly and banged on the shop door» bor: shirinlikni darhol xohlab, baqirish sabrsizlikdir.",
+  "wrong": {
+   "patient": "«patient» — sabrli; baqirib eshikni urish sabrlilik belgisi emas.",
+   "responsible": "«responsible» — mas'uliyatli; bu xatti-harakat boshqa ma'noga ega.",
+   "honest": "«honest» — halol; bu bolaning shirinlik talab qilishiga aloqasi yo'q."
+  }
+ },
+ {
+  "why": "«responsible» — mas'uliyatli. Gapda «finishes her homework on time and takes good care» bor: vazifasini o'z vaqtida bajarish mas'uliyatdir.",
+  "wrong": {
+   "irresponsible": "«irresponsible» — mas'uliyatsiz; darsini o'z vaqtida qiladigan qiz mas'uliyatsiz bo'lmaydi.",
+   "dishonest": "«dishonest» — nohalol; g'amxo'rlik qilishga bu to'g'ri kelmaydi.",
+   "dependent": "«dependent» — qaram; singlisiga qarab turish mustaqillik va mas'uliyatni bildiradi."
+  }
+ },
+ {
+  "why": "«irresponsible» — mas'uliyatsiz. Gapda «left his wet bicycle outside in the heavy rain» bor: velosipedni yomg'irda qoldirish mas'uliyatsizlikdir.",
+  "wrong": {
+   "responsible": "«responsible» — mas'uliyatli; velosipedni buzilishga sababchi bo'lish mas'uliyatli ish emas.",
+   "honest": "«honest» — halol; bu buyumlarga e'tiborsizlikka nisbatan ishlatilmaydi.",
+   "patient": "«patient» — sabrli; bu holat kutish yoki sabrga bog'liq emas."
+  }
+ },
+ {
+  "why": "«independent» — mustaqil. Gapda «earns her own money, and doesn't need help» bor: o'z pulini topib yashash mustaqillikdir.",
+  "wrong": {
+   "dependent": "«dependent» — qaram; ota-onasining yordamiga muhtoj bo'lmagan odam qaram emas.",
+   "impatient": "«impatient» — sabrsiz; bu mustaqil hayot tarziga mos emas.",
+   "dishonest": "«dishonest» — yolg'onchi; pul topish va yolg'onning aloqasi yo'q."
+  }
+ },
+ {
+  "why": "«dependent» — qaram. Gapda «cannot fly or find food yet, so it needs its mother» bor: o'zi yashay olmagani uchun onasiga qaram.",
+  "wrong": {
+   "independent": "«independent» — mustaqil; ucholmaydigan qushcha mustaqil bo'lolmaydi.",
+   "responsible": "«responsible» — mas'uliyatli; jajji qushchaga bu sifat mos emas.",
+   "honest": "«honest» — halol; bu tabiatdagi qaramlik holatiga to'g'ri kelmaydi."
+  }
+ },
+ {
+  "why": "«illegal» — noqonuniy. Gapda «against the country's criminal law» bor: qonunga qarshi qilingan ish noqonuniy hisoblanadi.",
+  "wrong": {
+   "legal": "«legal» — qonuniy; qonunga qarshi ish qonuniy bo'lishi mumkin emas.",
+   "fair": "«fair» — adolatli; jinoyatga nisbatan asosan qonuniy so'zi ishlatiladi.",
+   "unfair": "«unfair» — adolatsiz; o'g'rilik uchun bu so'z yetarli emas, u noqonuniy."
+  }
+ },
+ {
+  "why": "«legal» — qonuniy. Gapda «official right to vote» bor: saylovda ovoz berish rasmiy va qonuniy huquqdir.",
+  "wrong": {
+   "illegal": "«illegal» — noqonuniy; rasmiy huquq noqonuniy bo'lmaydi.",
+   "unfair": "«unfair» — adolatsiz; bu saylov huquqiga nisbatan ishlatilmaydi.",
+   "inappropriate": "«inappropriate» — noo'rin; bu huquqiy tushuncha emas."
+  }
+ },
+ {
+  "why": "«fair» — adolatli. Gapda «equal chances and made correct decisions» bor: hakamning barchaga bir xil imkoniyat berishi adolatdan.",
+  "wrong": {
+   "unfair": "«unfair» — adolatsiz; to'g'ri qarorlar adolatsiz bo'lmaydi.",
+   "acceptable": "«acceptable» — ma'qul; teng imkoniyatlar uchun «fair» so'zi aniqroq.",
+   "unacceptable": "«unacceptable» — qabul qilib bo'lmaydigan; hakamning to'g'ri qarori qabul qilsa bo'ladigan."
+  }
+ },
+ {
+  "why": "«unfair» — adolatsiz. Gapda «other team broke the rules five times» va bitta o'yinchi jazolangani bor: qoida 5 marta buzilsa ham jazo kam bo'lishi adolatsizlik.",
+  "wrong": {
+   "fair": "«fair» — adolatli; qoidani ko'p buzib jazolanmaslik adolatli emas.",
+   "appropriate": "«appropriate» — o'rinli; bu holatda adolatsizlik sodir bo'lgan.",
+   "legal": "«legal» — qonuniy; bu sportdagi adolat masalasiga tegishli."
+  }
+ },
+ {
+  "why": "«western» — vestern filmi. Gapda «cowboys riding horses across the wild desert» bor: kovboylar haqidagi kinolar vestern deb ataladi.",
+  "wrong": {
+   "war film": "«war film» — urush filmi; bu yerda askarlar emas, kovboylar haqida ketmoqda.",
+   "science fiction film": "«science fiction film» — fantastik kino; cho'ldagi kovboylar ilm-fan fantastikasi emas.",
+   "fantasy film": "«fantasy film» — fantastika (sehrli); kovboylar sehrgarlar emas."
+  }
+ },
+ {
+  "why": "«weather forecast» — ob-havo ma'lumoti. Gapda «updates on rain and sunshine for tomorrow» bor: yomg'ir va quyosh haqida ob-havo prognozi xabar beradi.",
+  "wrong": {
+   "news bulletin": "«news bulletin» — yangiliklar byulleteni; u umumiy yangiliklar uchun, faqat ob-havo emas.",
+   "chat show": "«chat show» — tok-shou; mehmonlar bilan suhbat, ob-havo emas.",
+   "documentary": "«documentary» — hujjatli film; bu ilmiy yoki tarixiy voqealar uchun."
+  }
+ },
+ {
+  "why": "«sitcom» — vaziyatli komediya (sitkom). Gapda «funny television series about the same group of friends living in a New York flat» bor: do'stlar haqidagi kulgili serial sitcom deyiladi.",
+  "wrong": {
+   "soap": "«soap» —",
+   "game show": "«game show» — o'yin ko'rsatuvi; bu yerda serial haqida gap ketmoqda.",
+   "chat show": "«chat show» — tok-shou; bu ko'rsatuvda do'stlar hayoti ko'rsatilmaydi."
+  }
+ },
+ {
+  "why": "«musical» — mюzikl. Gapda «performed traditional songs and dances» bor: qo'shiq va raqslarga boy teatr shousi myuzikl deb ataladi.",
+  "wrong": {
+   "comedy": "«comedy» — komediya; asosiy e'tibor qo'shiq va raqslarga qaratilgan.",
+   "animation": "«animation» — animatsiya (multfilm); teatrda aktyorlar jonli ijro etishmoqda.",
+   "period drama": "«period drama» — tarixiy drama; bu yerda asosiy janr qo'shiq-raqslidir."
+  }
+ },
+ {
+  "why": "«animation» — multfilm. Gapda «drawings always make him laugh» bor: chizmalar kuldirishi multfilmga xos.",
+  "wrong": {
+   "documentary": "«documentary» — hujjatli film; bu yerda esa kulgili chizmalar haqida gap ketmoqda.",
+   "chat show": "«chat show» — suhbat ko‘rsatuvi; u chizmalardan iborat emas.",
+   "game show": "«game show» — o‘yin ko‘rsatuvi; bu yerda multfilm nazarda tutilgan."
+  }
+ },
+ {
+  "why": "«western» — kovboylar haqidagi film. Gapda «brave cowboy in America» bor: bu kovboylar haqidagi janrni bildiradi.",
+  "wrong": {
+   "science fiction film": "«science fiction film» — fantastik film; kovboylar bilan bog‘liq emas.",
+   "documentary": "«documentary» — hujjatli film; bu yerda esa badiiy qahramon haqida.",
+   "sitcom": "«sitcom» — vaziyatli komediya; kovboylarga aloqasi yo‘q."
+  }
+ },
+ {
+  "why": "«romantic comedy» — romantik komediya. Gapda «watch something light and funny» bor: yengil va kulgili kino uchun mos.",
+  "wrong": {
+   "thriller": "«thriller» — triller; u yengil va kulgili bo‘lmaydi.",
+   "war film": "«war film» — urush haqidagi film; bu yerda yengil kino kerak.",
+   "period drama": "«period drama» — tarixiy drama; bu kulgili janr emas."
+  }
+ },
+ {
+  "why": "«science fiction film» — ilmiy-fantastik film. Gapda «space travel and aliens» bor: kosmos va o‘zga sayyoraliklar fantastikaga tegishli.",
+  "wrong": {
+   "action film": "«action film» — jangari film; kosmos va o‘zga sayyoraliklar uchun mos kelmaydi.",
+   "game show": "«game show» — o‘yin ko‘rsatuvi; kosmosga aloqasi yo‘q.",
+   "talent show": "«talent show» — iqtidorlar ko‘rsatuvi; bu yerda fantastika nazarda tutilgan."
+  }
+ },
+ {
+  "why": "«documentary» — hujjatli film. Gapda «learn about wild animals» bor: yovvoyi tabiatni hujjatli film orqali o‘rganamiz.",
+  "wrong": {
+   "sitcom": "«sitcom» — komediya seriali; hayvonlarni o‘rgatish uchun emas.",
+   "soap": "«soap» — kundalik serial; u ta'limiy xarakterga ega emas.",
+   "news bulletin": "«news bulletin» — yangiliklar dasturi; hayvonlar haqida emas."
+  }
+ },
+ {
+  "why": "«news bulletin» — yangiliklar soni. Gapda «what is happening globally» bor: dunyo yangiliklarini yangiliklar orqali bilib olamiz.",
+  "wrong": {
+   "chat show": "«chat show» — suhbat ko‘rsatuvi; jahon yangiliklari berilmaydi.",
+   "weather forecast": "«weather forecast» — ob-havo ma'lumoti; u faqat ob-havoni ko‘rsatadi.",
+   "game show": "«game show» — o‘yin ko‘rsatuvi; dunyo voqealari uchun emas."
+  }
+ },
+ {
+  "why": "«game show» — o‘yin ko‘rsatuvi. Gapda «contestants... can win a lot of money» bor: ishtirokchilar pul yutib olishi o‘yin shousiga xos.",
+  "wrong": {
+   "talent show": "«talent show» — iqtidorlar shousi; bu yerda asosiy e'tibor o‘yinga qaratilgan.",
+   "reality show": "«reality show» — realiti-shou; ishtirokchilar pul yutadigan o‘yin emas.",
+   "sitcom": "«sitcom» — komediya; ishtirokchilar pul yutishmaydi."
+  }
+ },
+ {
+  "why": "«talent show» — iqtidorlar shousi. Gapda «young singers try to show their unique skills» bor: qo‘shiqchilar o‘z mahoratini ko‘rsatishi shu shouga tegishli.",
+  "wrong": {
+   "chat show": "«chat show» — suhbat ko‘rsatuvi; yosh xonandalar mahorat ko‘rsatmaydi.",
+   "soap": "«soap» — serial; bu qo‘shiqchilar musobaqasi emas.",
+   "sitcom": "«sitcom» — komediya seriali; mahorat ko‘rsatishga aloqasi yo‘q."
+  }
+ },
+ {
+  "why": "«chat show» — suhbat ko‘rsatuvi. Gapda «famous host invited a popular Hollywood actor» bor: boshlovchi mehmonni chaqirib suhbatlashishi chat show'dir.",
+  "wrong": {
+   "game show": "«game show» — o‘yin ko‘rsatuvi; aktyorlar bilan shunchaki suhbatlashilmaydi.",
+   "documentary": "«documentary» — hujjatli film; studiyadagi kechki suhbat emas.",
+   "news bulletin": "«news bulletin» — yangiliklar; mehmonlar bilan suhbat qurilmaydi."
+  }
+ },
+ {
+  "why": "«soap» — kundalik serial (soap opera). Gapda «daily... dramatic family stories» bor: kundalik dramatik oilaviy voqealar soap opera'ga xos.",
+  "wrong": {
+   "sitcom": "«sitcom» — kulgili serial, drama emas.",
+   "animation": "«animation» — multfilm; oilaviy dramalar chizilmaydi.",
+   "western": "«western» — kovboylar haqidagi film; kundalik oilaviy drama emas."
+  }
+ },
+ {
+  "why": "«sitcom» — vaziyatli komediya. Gapda «laughed so much... about a crazy family» bor: telba oila haqidagi kulgili serial sitcom deyiladi.",
+  "wrong": {
+   "soap": "«soap» — dramatik serial; odatda unda bunchalik ko‘p kulishmaydi.",
+   "thriller": "«thriller» — qo‘rqinchli yoki hayajonli kino; kulgili bo‘lmaydi.",
+   "action film": "«action film» — jangari film; komediya emas."
+  }
+ },
+ {
+  "why": "«plot» — syujet. Gapda «kept me awake until three o'clock» bor: kitobning qiziqarli voqealar rivoji (syujeti) uxlatmagan.",
+  "wrong": {
+   "script": "«script» — ssenariy; uni o‘quvchilar o‘qib o‘tirmaydi.",
+   "ending": "«ending» — yakun; kitob oxirigacha uxlatmagan bo‘lsa, bu butun syujetga tegishli.",
+   "soundtrack": "«soundtrack» — saundtrek; kitoblarda musiqa bo‘lmaydi."
+  }
+ },
+ {
+  "why": "«characters» — qahramonlar. Gapda «learn important life lessons» bor: hayotiy saboqlarni kitobdagi qahramonlar o‘rganadi.",
+  "wrong": {
+   "scenes": "«scenes» — sahnalar; saboq oladigan jonli mavjudotlar emas.",
+   "special effects": "«special effects» — maxsus effektlar; kitoblarda ishlatilmaydi.",
+   "soundtrack": "«soundtrack» — musiqa; saboq chiqarolmaydi."
+  }
+ },
+ {
+  "why": "«ending» — yakun, oxiri. Gapda «left everyone in the cinema completely shocked» bor: kinoning kutilmagan yakuni kishilarni hayratda qoldiradi.",
+  "wrong": {
+   "plot": "«plot» — syujet; butun voqealar rivoji, oxirgi lahza emas.",
+   "script": "«script» — ssenariy; tomoshabinlar uni kinoteatrda ko‘rmaydi.",
+   "soundtrack": "«soundtrack» — musiqa; odamlarni shokka solishi qiyin."
+  }
+ },
+ {
+  "why": "«script» — ssenariy. Gapda «actors had to memorise» bor: aktyorlar yodlashi kerak bo‘lgan narsa bu matn yoki ssenariydir.",
+  "wrong": {
+   "plot": "«plot» — syujet; uni so‘zma-so‘z yodlab bo‘lmaydi.",
+   "soundtrack": "«soundtrack» — musiqa; aktyorlar uni yodlamaydi.",
+   "ending": "«ending» — yakun; uni yodlash talab etilmaydi."
+  }
+ },
+ {
+  "why": "«soundtrack» — saundtrek, musiqa. Gapda «piano songs are lovely» bor: pianino qo‘shiqlari kinoning musiqasiga tegishli.",
+  "wrong": {
+   "plot": "«plot» — syujet; musiqiy ohang emas.",
+   "script": "«script» — ssenariy; musiqa ma'nosini bermaydi.",
+   "ending": "«ending» — yakun; pianino qo‘shiqlari bilan bog‘liq emas."
+  }
+ },
+ {
+  "why": "«special effects» — maxsus effektlar. Gapda «digital... looked extremely realistic» bor: raqamli maxsus effektlar kino uchun ishlatiladi.",
+  "wrong": {
+   "characters": "«characters» — qahramonlar; ular raqamli effekt bo‘la olmaydi.",
+   "scenes": "«scenes» — sahnalar; ular realistik ko‘rinishi mumkin, lekin raqamli emas.",
+   "soundtrack": "«soundtrack» — musiqa; raqamli tasvirga aloqasi yo‘q."
+  }
+ },
+ {
+  "why": "«thriller» — triller. Gapda «hero was in big danger» bor: qahramon katta xavf ostida bo‘lishi triller janriga xos.",
+  "wrong": {
+   "comedy": "«comedy» — komediya; xavfli vaziyatlar bo‘lmaydi.",
+   "animation": "«animation» — multfilm; doim ham xavfli triller bo‘lavermaydi.",
+   "documentary": "«documentary» — hujjatli film; to‘qima qahramon xavfi haqida emas."
+  }
+ },
+ {
+  "why": "«acting» — aktyorlik mahorati. Gapda «audience started to cry» bor: tomoshabinlarni yig‘latgan narsa aktyorlarning mahorati.",
+  "wrong": {
+   "script": "«script» — ssenariy; tomoshabinlar uni o‘qimaydi.",
+   "plot": "«plot» — syujet; lekin bu yerda ijro haqida gap ketmoqda.",
+   "soundtrack": "«soundtrack» — musiqa; mahorat ko‘rsatmaydi."
+  }
+ },
+ {
+  "why": "«dishonest» — vijdonsiz, nohalol. Gapda «unacceptable... to copy someone else's homework» bor: birovning uy vazifasini ko‘chirish nohalollikdir.",
+  "wrong": {
+   "honest": "«honest» — halol; ko‘chirish halol ish emas.",
+   "fair": "«fair» — adolatli; birovdan ko‘chirish adolatli emas.",
+   "legal": "«legal» — qonuniy; bu so‘z ta'limga ishlatilmaydi."
+  }
+ },
+ {
+  "why": "«animation» — multfilm turi. Gapda «funny cartoons» bor, shuning uchun rang-barang multfilmlar haqida ketyapti.",
+  "wrong": {
+   "comedy": "«comedy» — komediya; bu yerda multfilmlar haqida gap ketmoqda.",
+   "documentary": "«documentary» — hujjatli film; bu bolalar ko'radigan multfilm emas.",
+   "sitcom": "«sitcom» — vaziyatli komediya; multfilmlarga mos kelmaydi."
+  }
+ },
+ {
+  "why": "«special effects» — maxsus effektlar. Gapda «spaceship battles look very real» bor, bu maxsus effektlarga ishora.",
+  "wrong": {
+   "soundtrack": "«soundtrack» — musiqa; u kosmik kemalarni real ko'rsata olmaydi.",
+   "script": "«script» — ssenariy; janglarni real ko'rsatish uchun maxsus effektlar kerak.",
+   "ending": "«ending» — yakun; u janglarning real ko'rinishiga aloqador emas."
+  }
+ },
+ {
+  "why": "«documentary» — hujjatli film. Gapda «wild animals living in the deep Amazon rainforest» bor, bu tabiat haqidagi hujjatli film.",
+  "wrong": {
+   "game show": "«game show» — o'yin shou; u yovvoyi hayvonlar haqida emas.",
+   "chat show": "«chat show» — tok-shou; hayvonlar hayotiga bag'ishlanmaydi.",
+   "soap": "«soap» — serial; bu yovvoyi tabiat haqidagi film emas."
+  }
+ },
+ {
+  "why": "«convincing» — ishontarli. Gapda «made everyone in the cinema cry» bor, yaxshi o'yin barchani yig'latish uchun ishontarli bo'lishi kerak.",
+  "wrong": {
+   "funny": "«funny» — kulgili; bu kinoda odamlarni yig'latgan o'yinga to'g'ri kelmaydi.",
+   "scary": "«scary» — qo'rqinchli; bu yerda yig'latadigan dramatik ijro haqida.",
+   "gripping": "«gripping» — qiziqarli; lekin bu yerda aynan yig'latadigan mahorat haqida ketmoqda."
+  }
+ },
+ {
+  "why": "«soap» — kundalik teleserial. Gapda «dramatic family stories» va «daily» so'zlari bor, bu seriallarga xos.",
+  "wrong": {
+   "news bulletin": "«news bulletin» — yangiliklar; unda dramatik oilaviy hikoyalar bo'lmaydi.",
+   "talent show": "«talent show» — iqtidorlar shousi; bu oilaviy serial emas.",
+   "weather forecast": "«weather forecast» — ob-havo ma'lumoti; bu kundalik serial emas."
+  }
+ },
+ {
+  "why": "«weather forecast» — ob-havo ma'lumoti. Gapda «rain during our picnic» bor, ya'ni ob-havoni tekshirish kerak.",
+  "wrong": {
+   "chat show": "«chat show» — tok-shou; undan yomg'ir yo-yo'qligini bilib bo'lmaydi.",
+   "game show": "«game show» — o'yin shou; piknikdagi ob-havoga aloqasi yo'q.",
+   "talent show": "«talent show» — iqtidorlar shousi; bu yomg'irni ko'rsatmaydi."
+  }
+ },
+ {
+  "why": "«talent show» — iqtidorlar tanlovi. Gapda «performing a wonderful song on live television» va «singer» so'zlari bor.",
+  "wrong": {
+   "sitcom": "«sitcom» — komediya seriali; bu jonli efirdagi qo'shiq tanlovi emas.",
+   "news bulletin": "«news bulletin» — yangiliklar; qo'shiq kuylanadigan tanlov emas.",
+   "period drama": "«period drama» — tarixiy drama; bu qo'shiqchilar tanlovi emas."
+  }
+ },
+ {
+  "why": "«ending» — yakun. Gapda «mystery movie completely unforgettable» bor, kutilmagan yakun sirli kinoni unutilmas qiladi.",
+  "wrong": {
+   "acting": "«acting» — aktyorlik; kutilmagan bo'lishi mumkin emas.",
+   "soundtrack": "«soundtrack» — musiqa; kutilmagan voqea yakunda bo'ladi.",
+   "script": "«script» — ssenariy; bu yerda aynan kutilmagan yakun nazarda tutilgan."
+  }
+ },
+ {
+  "why": "«western» — vestern filmi. Gapda «cowboys riding horses across the wild American desert» bor.",
+  "wrong": {
+   "action film": "«action film» — jangari film; kovboylar haqidagi aniq janr bu vestern.",
+   "science fiction film": "«science fiction film» — fantastik film; cho'ldagi kovboylarga mos emas.",
+   "war film": "«war film» — urush filmi; bu yerda cho'ldagi kovboylar haqida."
+  }
+ },
+ {
+  "why": "«chat show» — tok-shou. Gapda «comedian told several funny jokes during the late night» bor.",
+  "wrong": {
+   "documentary": "«documentary» — hujjatli film; komiklar kechki shoularda hazil qilishadi.",
+   "game show": "«game show» — o'yin shou; bu yerda komikning hazillari haqida.",
+   "news bulletin": "«news bulletin» — yangiliklar; hazillar u yerda aytilmaydi."
+  }
+ },
+ {
+  "why": "«animation» — multfilm. Gapda «funny cartoons» so'zi bor, bu multfilmlarni bildiradi.",
+  "wrong": {}
+ },
+ {
+  "why": "«plot» — syujet. Gapda «keeps all the viewers guessing» bor, bu qiziqarli syujetga xos.",
+  "wrong": {}
+ },
+ {
+  "why": "«documentary» — hujjatli film. Gapda «wild animals living in the remote mountains» bor.",
+  "wrong": {}
+ },
+ {
+  "why": "«comedy» — komediya. Gapda «makes everyone laugh loudly» bor.",
+  "wrong": {}
+ },
+ {
+  "why": "«soap» — kundalik serial. Gapda «daily afternoon... lives of ordinary families» bor.",
+  "wrong": {}
+ },
+ {
+  "why": "«western» — vestern. Gapda «playing cowboys» so'zi bor.",
+  "wrong": {}
+ },
+ {
+  "why": "«soundtrack» — saundtrek. Gapda «beautiful songs in this romantic movie» bor.",
+  "wrong": {}
+ },
+ {
+  "why": "«scenes» ko'plik shaklda — sahnalar. Gapda «filmed several dramatic... inside the old abandoned station» bor.",
+  "wrong": {}
+ },
+ {
+  "why": "«script» — ssenariy. Gapda «Actors must read the... before they start rehearsing» bor.",
+  "wrong": {}
+ },
+ {
+  "why": "«prevent» — oldini olmoq. Gapda «thief from escaping» bor, politsiya o'g'ri qochishining oldini olmoqchi.",
+  "wrong": {}
+ },
+ {
+  "why": "«provide» — ta'minlamoq, bermoq. Gapda «helpful study materials» bor: o'qituvchilar o'quvchilarga foydali materiallar berishadi.",
+  "wrong": {}
+ },
+ {
+  "why": "«improve» — yaxshilamoq. Gapda «clean polluted water» bor: olimlar suvni tozalash usullarini yaxshilashni xohlashadi.",
+  "wrong": {}
+ },
+ {
+  "why": "«increase» — oshirmoq, ko'paytirmoq. Gapda «money for buying new books» bor: ular kitob sotib olish uchun pul yig'ishni yoki oshirishni rejalashtirishdi.",
+  "wrong": {}
+ },
+ {
+  "why": "«participate» — qatnashmoq. Gapda «group activities» va «practise speaking» bor: gapirishni mashq qilish uchun guruhdagi barcha ishlarda qatnashish kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«emphasise» — alohida ta'kidlamoq. Gapda «importance of reading» bor: o'qituvchi o'qishning muhimligini alohida ta'kidlashi kerak edi.",
+  "wrong": {}
+ },
+ {
+  "why": "«deny» — rad etmoq, inkor qilmoq. Gapda «broken window» va «everything» bor: bola deraza sindirilgani haqida so'rashganda hamma narsani inkor qilishga urindi.",
+  "wrong": {}
+ },
+ {
+  "why": "«reveal» — fosh qilmoq, sirni ochmoq. Gapda «secrets about her childhood» bor: qo'shiqchi o'z bolaligining sirlarini ochishni boshladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«likely» — ehtimoli bor. Gapda «someone honest will return it» bor: gavjum bozorda hamyonni halol odam qaytarib berishi ehtimoli bor.",
+  "wrong": {}
+ },
+ {
+  "why": "«unlikely» — ehtimoli yo'q. Gapda «hot month of July» va «snow in Tashkent» bor: iyul oyining issiq vaqtida Toshkentda qor yog'ishi ehtimoldan yiroq.",
+  "wrong": {}
+ },
+ {
+  "why": "«illegal» — noqonuniy. Gapda «hospital entrance» va «traffic rules» bor: shifoxona kirish eshigi oldiga mashina qo'yish qoidaga ko'ra noqonuniy.",
+  "wrong": {}
+ },
+ {
+  "why": "«legal» — qonuniy, to'g'ri. Gapda «healthy vegetables» va «daily wellbeing» bor: sabzavot yeyish va mashq qilish salomatlik uchun butunlay to'g'ri va foydali.",
+  "wrong": {}
+ },
+ {
+  "why": "«irresponsible» — mas'uliyatsiz. Gapda «alone near a deep swimming pool» bor: bolani hovuz oldida yolg'iz qoldirish juda mas'uliyatsizlikdir.",
+  "wrong": {}
+ },
+ {
+  "why": "«animation» — multfilm, animatsiya. Gapda «funny cartoons» va «watching TV» bor: u har dam olish kunida kulgili multfilmlarni ko'rishni yaxshi ko'radi.",
+  "wrong": {}
+ },
+ {
+  "why": "«invisible» — ko'rinmaydigan. Gapda «magic potion» bor: sehrli ichimlik ichgani uchun kitobdagi bosh qahramon ko'rinmaydigan bo'lib qoladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«horror» — qo'rqinchli kino. Gapda «terrifying» va «ghosts» bor: biz arvohlar haqidagi qo'rqinchli kinoni tomosha qildik.",
+  "wrong": {}
+ },
+ {
+  "why": "«improve» — yaxshilamoq. Gapda «English vocabulary» va «reading interesting stories» bor: u o'z lug'at boyligini yaxshilashni xohlaydi.",
+  "wrong": {}
+ },
+ {
+  "why": "«violent» — zo'ravonlikka to'la. Gapda «bloody» va «stressful» bor: onasi qonli va zo'ravon kinolarni ko'rishni yoqtirmaydi.",
+  "wrong": {}
+ },
+ {
+  "why": "«ending» — oxiri, yakuni. Gapda «romantic film» va «make almost everyone cry» bor: kinoning so'nggi yakuni hamma yig'lashiga sabab bo'ldi.",
+  "wrong": {}
+ },
+ {
+  "why": "«convincing» — ishontirarli. Gapda «brave detective» va «performance» bor: mashhur aktyor detektiv rolini juda ishontirarli o'ynadi.",
+  "wrong": {}
+ },
+ {
+  "why": "«impatient» — sabrsiz. Gapda «hates waiting in long queues» bor: singlim uzun navbatda kutishni yomon ko'rgani uchun juda sabrsiz.",
+  "wrong": {}
+ }
+]

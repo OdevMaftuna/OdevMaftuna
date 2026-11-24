@@ -1,0 +1,934 @@
+{
+ "unit": 8,
+ "parts": [
+  [
+   {
+    "kind": "word",
+    "q": "Sam: Should people go to prison for shoplifting?\nHelen: I'm not ______ really. It depends.",
+    "hint": "",
+    "options": [],
+    "answer": "sure",
+    "accept": [],
+    "phrase": "I'm not sure really.",
+    "explain": "«I'm not sure really» — aniq bilmayman.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Sam: Prisons don't help criminals.\nHelen: I agree to some ______, but some people do change.",
+    "hint": "",
+    "options": [],
+    "answer": "extent",
+    "accept": [],
+    "phrase": "I agree to some extent.",
+    "explain": "«to some extent» — ma'lum darajada.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Sam: Crime is a big problem in cities.\nHelen: I suppose it's ______ to say that, but villages have crime too.",
+    "hint": "",
+    "options": [],
+    "answer": "true",
+    "accept": [],
+    "phrase": "I suppose it's true to say that ...",
+    "explain": "«it's true to say that».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Sam: Why do you think that?\nHelen: Prison is very expensive. ______, it doesn't stop people committing crimes again.",
+    "hint": "",
+    "options": [],
+    "answer": "Moreover",
+    "accept": [
+     "Furthermore"
+    ],
+    "phrase": "Moreover, ...",
+    "explain": "Qo'shimcha dalil — «Moreover,» (yoki «Furthermore,»).",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Sam: Is graffiti a crime?\nHelen: Yes. It's damage to property. ______, it costs a lot to clean.",
+    "hint": "",
+    "options": [],
+    "answer": "Furthermore",
+    "accept": [
+     "Moreover"
+    ],
+    "phrase": "Furthermore, ...",
+    "explain": "Qo'shimcha dalil — «Furthermore,».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Sam: Should young criminals do community service?\nHelen: Yes, it helps the town. What ______ more, they learn to work.",
+    "hint": "",
+    "options": [],
+    "answer": "is",
+    "accept": [],
+    "phrase": "What is more, ...",
+    "explain": "«What is more» — «is» kerak.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Sam: The police should have more power.\nHelen: I agree ______ some extent.",
+    "hint": "",
+    "options": [],
+    "answer": "to",
+    "accept": [],
+    "phrase": "I agree to some extent.",
+    "explain": "«agree to some extent» — «to» predlogi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Sam: Is cybercrime worse than street crime?\nHelen: I'm not sure ______. I've never thought about it.",
+    "hint": "",
+    "options": [],
+    "answer": "really",
+    "accept": [],
+    "phrase": "I'm not sure really.",
+    "explain": "«I'm not sure really».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Sam: Do cameras stop crime?\nHelen: I ______ it's true to say that they help a little.",
+    "hint": "",
+    "options": [],
+    "answer": "suppose",
+    "accept": [],
+    "phrase": "I suppose it's true to say that ...",
+    "explain": "«I suppose it's true to say that».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Sam: Stealing is wrong.\nHelen: Yes. ______ is more, it hurts small shop owners.",
+    "hint": "",
+    "options": [],
+    "answer": "What",
+    "accept": [],
+    "phrase": "What is more, ...",
+    "explain": "«What is more,».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Sam: Should fines be bigger?\nHelen: I don't ______ that's fair. Poor people can't pay.",
+    "hint": "",
+    "options": [],
+    "answer": "think",
+    "accept": [],
+    "phrase": "I'm not sure really.",
+    "explain": "«I don't think (that) ...» — o'z fikrini yumshoq aytish.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Sam: Should phones be banned in prisons?\nHelen: In ______ opinion, yes.",
+    "hint": "",
+    "options": [],
+    "answer": "my",
+    "accept": [],
+    "phrase": "I'm not sure really.",
+    "explain": "«In my opinion» — o'z fikri.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Sam: Some crimes are not serious.\nHelen: I suppose it's true to ______ that, but they still hurt people.",
+    "hint": "",
+    "options": [],
+    "answer": "say",
+    "accept": [],
+    "phrase": "I suppose it's true to say that ...",
+    "explain": "«true to say».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Sam: Tourists are often robbed here.\nHelen: That's true. Furthermore, ______ police don't do much.",
+    "hint": "",
+    "options": [],
+    "answer": "the",
+    "accept": [],
+    "phrase": "Furthermore, ...",
+    "explain": "«the police» — aniq artikl.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Sam: Do you agree that punishment works?\nHelen: To some extent. To ______ honest, education works better.",
+    "hint": "",
+    "options": [],
+    "answer": "be",
+    "accept": [],
+    "phrase": "I agree to some extent.",
+    "explain": "«To be honest» — ehtiyotkorona fikrdan keyin ochiq fikr.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Sam: Should teenagers be allowed out after midnight?\nHelen: I'm not sure, really. I ______ to some extent with the rule.",
+    "hint": "",
+    "options": [],
+    "answer": "agree",
+    "accept": [],
+    "phrase": "I agree to some extent.",
+    "explain": "«agree to some extent».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Sam: Burglary is increasing.\nHelen: Yes, and moreover, ______ people lock their doors.",
+    "hint": "",
+    "options": [],
+    "answer": "fewer",
+    "accept": [
+     "few"
+    ],
+    "phrase": "Moreover, ...",
+    "explain": "«fewer people» — kamroq odam (qo'shimcha muammo).",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Sam: Is it OK to download films for free?\nHelen: I suppose it's true to say ______ many people do it, but it's still illegal.",
+    "hint": "",
+    "options": [],
+    "answer": "that",
+    "accept": [],
+    "phrase": "I suppose it's true to say that ...",
+    "explain": "«to say that + gap».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Sam: Speed cameras are a good idea.\nHelen: I agree to some extent. Furthermore, they ______ lives.",
+    "hint": "",
+    "options": [],
+    "answer": "save",
+    "accept": [],
+    "phrase": "Furthermore, ...",
+    "explain": "«they save lives» — qo'shimcha dalil.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Sam: Should vandals clean the walls they damaged?\nHelen: Yes! What is ______, they should pay for the paint.",
+    "hint": "",
+    "options": [],
+    "answer": "more",
+    "accept": [],
+    "phrase": "What is more, ...",
+    "explain": "«What is more».",
+    "wrong": {}
+   }
+  ],
+  [
+   {
+    "kind": "abc",
+    "q": "Ben: Is it ever OK to steal food if you're hungry?\nAnna: I'm not ______ really. It's a difficult question.",
+    "hint": "",
+    "options": [
+     "sure",
+     "sorry",
+     "agree"
+    ],
+    "answer": "sure",
+    "accept": [],
+    "phrase": "I'm not sure really.",
+    "explain": "«I'm not sure really» — aniq bilmayman.",
+    "wrong": {
+     "sorry": "«I'm not sorry» — boshqa ma'no.",
+     "agree": "«I'm not agree» — xato."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Ben: Prison sentences are too short.\nAnna: I agree to some ______, but long sentences don't always work.",
+    "hint": "",
+    "options": [
+     "extent",
+     "extend",
+     "extra"
+    ],
+    "answer": "extent",
+    "accept": [],
+    "phrase": "I agree to some extent.",
+    "explain": "«to some extent» — ma'lum darajada.",
+    "wrong": {
+     "extend": "Fe'l (uzaytirmoq).",
+     "extra": "Ma'nosiz."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Ben: Online crime is growing.\nAnna: I ______ it's true to say that, yes.",
+    "hint": "",
+    "options": [
+     "suppose",
+     "support",
+     "say"
+    ],
+    "answer": "suppose",
+    "accept": [],
+    "phrase": "I suppose it's true to say that ...",
+    "explain": "«I suppose» — taxmin qilaman.",
+    "wrong": {
+     "support": "«support» — qo'llab-quvvatlamoq, iboraga mos emas.",
+     "say": "«I say it's true to say» — takroriy, xato."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Ben: Why should we have more police?\nAnna: The streets will be safer. ______, people will feel happier.",
+    "hint": "",
+    "options": [
+     "Moreover",
+     "However",
+     "Although"
+    ],
+    "answer": "Moreover",
+    "accept": [],
+    "phrase": "Moreover, ...",
+    "explain": "Qo'shimcha ijobiy dalil — «Moreover».",
+    "wrong": {
+     "However": "«However» — qarama-qarshi fikr uchun.",
+     "Although": "«Although,» bilan gap boshlanib, vergul qo'yilmaydi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Ben: Is shoplifting serious?\nAnna: Yes. Shops lose money. ______, prices go up for everyone.",
+    "hint": "",
+    "options": [
+     "Furthermore",
+     "Nevertheless",
+     "Unlike"
+    ],
+    "answer": "Furthermore",
+    "accept": [],
+    "phrase": "Furthermore, ...",
+    "explain": "Qo'shimcha dalil — «Furthermore».",
+    "wrong": {
+     "Nevertheless": "Qarama-qarshilik uchun.",
+     "Unlike": "Taqqoslash uchun, keyin ot keladi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Ben: Should hackers go to prison?\nAnna: Yes. They steal personal data. What is ______, they can steal money.",
+    "hint": "",
+    "options": [
+     "more",
+     "most",
+     "much"
+    ],
+    "answer": "more",
+    "accept": [],
+    "phrase": "What is more, ...",
+    "explain": "«What is more» — buning ustiga.",
+    "wrong": {
+     "most": "«What is most» — xato.",
+     "much": "«What is much» — xato."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Ben: Teenagers commit most crimes.\nAnna: Well, I agree ______ some extent, but adults commit a lot too.",
+    "hint": "",
+    "options": [
+     "to",
+     "in",
+     "at"
+    ],
+    "answer": "to",
+    "accept": [],
+    "phrase": "I agree to some extent.",
+    "explain": "«to some extent».",
+    "wrong": {
+     "in": "Xato predlog.",
+     "at": "Xato predlog."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Ben: Do you think the new law is good?\nAnna: I'm not sure ______. I need to read more about it.",
+    "hint": "",
+    "options": [
+     "really",
+     "real",
+     "reality"
+    ],
+    "answer": "really",
+    "accept": [],
+    "phrase": "I'm not sure really.",
+    "explain": "«I'm not sure really» — ravish «really».",
+    "wrong": {
+     "real": "Sifat — xato.",
+     "reality": "Ot — xato."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Ben: People don't respect the police.\nAnna: I suppose it's true to ______ that, but it's not everyone.",
+    "hint": "",
+    "options": [
+     "say",
+     "tell",
+     "speak"
+    ],
+    "answer": "say",
+    "accept": [],
+    "phrase": "I suppose it's true to say that ...",
+    "explain": "«true to say that».",
+    "wrong": {
+     "tell": "«true to tell that» — xato.",
+     "speak": "«true to speak that» — xato."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Ben: Should graffiti be legal on some walls?\nAnna: Yes, it's art. ______ more, it makes the city colourful.",
+    "hint": "",
+    "options": [
+     "What is",
+     "That is",
+     "It is"
+    ],
+    "answer": "What is",
+    "accept": [],
+    "phrase": "What is more, ...",
+    "explain": "«What is more».",
+    "wrong": {
+     "That is": "«That is more» — boshqa ma'no.",
+     "It is": "«It is more» — xato."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Ben: Is it better to give criminals a job than to put them in prison?\nAnna: I ______ to some extent.",
+    "hint": "",
+    "options": [
+     "agree",
+     "think",
+     "suppose"
+    ],
+    "answer": "agree",
+    "accept": [],
+    "phrase": "I agree to some extent.",
+    "explain": "«I agree to some extent».",
+    "wrong": {
+     "think": "«I think to some extent» — xato.",
+     "suppose": "«I suppose to some extent» — g'ayritabiiy."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Ben: Why do you like your neighbourhood?\nAnna: It's quiet. ______, there is very little crime.",
+    "hint": "",
+    "options": [
+     "Furthermore",
+     "In contrast",
+     "Instead"
+    ],
+    "answer": "Furthermore",
+    "accept": [],
+    "phrase": "Furthermore, ...",
+    "explain": "Yana bir ijobiy tomon — «Furthermore».",
+    "wrong": {
+     "In contrast": "Qarama-qarshilik uchun.",
+     "Instead": "«o'rniga» ma'nosi, mos emas."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Ben: Will crime disappear one day?\nAnna: Hmm… I'm not sure ______. Maybe not.",
+    "hint": "",
+    "options": [
+     "really",
+     "sure",
+     "agree"
+    ],
+    "answer": "really",
+    "accept": [],
+    "phrase": "I'm not sure really.",
+    "explain": "«I'm not sure really».",
+    "wrong": {
+     "sure": "«not sure sure» — takror.",
+     "agree": "Ma'nosiz."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Ben: Fines should be higher for rich people.\nAnna: I suppose it's ______ to say that it's fairer.",
+    "hint": "",
+    "options": [
+     "true",
+     "truth",
+     "truly"
+    ],
+    "answer": "true",
+    "accept": [],
+    "phrase": "I suppose it's true to say that ...",
+    "explain": "«it's true to say» — sifat «true».",
+    "wrong": {
+     "truth": "Ot.",
+     "truly": "Ravish."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Ben: Is cycling without lights dangerous?\nAnna: Yes, drivers can't see you. ______, it's illegal.",
+    "hint": "",
+    "options": [
+     "Moreover",
+     "However",
+     "On the other hand"
+    ],
+    "answer": "Moreover",
+    "accept": [],
+    "phrase": "Moreover, ...",
+    "explain": "Yana bir dalil — «Moreover».",
+    "wrong": {
+     "However": "Qarama-qarshilik uchun.",
+     "On the other hand": "Qarama-qarshi tomonni bildiradi."
+    }
+   }
+  ],
+  [
+   {
+    "kind": "abctext",
+    "q": "Forum post: Some people say prison is the best punishment. I agree to ______ extent, but I think community service is better for young people.",
+    "hint": "",
+    "options": [
+     "some",
+     "any",
+     "much"
+    ],
+    "answer": "some",
+    "accept": [],
+    "phrase": "I agree to some extent.",
+    "explain": "«to some extent».",
+    "wrong": {
+     "any": "«to any extent» — boshqa ma'no.",
+     "much": "«to much extent» — xato."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Essay: Cameras in streets can help the police. ______, they make people feel safer at night.",
+    "hint": "",
+    "options": [
+     "Moreover",
+     "However",
+     "Although"
+    ],
+    "answer": "Moreover",
+    "accept": [],
+    "phrase": "Moreover, ...",
+    "explain": "Qo'shimcha dalil.",
+    "wrong": {
+     "However": "Qarama-qarshilik.",
+     "Although": "Bog'lovchi, vergul bilan gap boshlamaydi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Essay: Shoplifting is not a violent crime. I suppose it's true to say ______, but it still hurts businesses.",
+    "hint": "",
+    "options": [
+     "that",
+     "this is",
+     "it"
+    ],
+    "answer": "that",
+    "accept": [],
+    "phrase": "I suppose it's true to say that ...",
+    "explain": "«true to say that».",
+    "wrong": {
+     "this is": "Xato.",
+     "it": "«to say it» — g'ayritabiiy."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Blog: Is it right to download music without paying? I'm not ______ really. Many people do it, but artists lose money.",
+    "hint": "",
+    "options": [
+     "sure",
+     "true",
+     "agree"
+    ],
+    "answer": "sure",
+    "accept": [],
+    "phrase": "I'm not sure really.",
+    "explain": "«I'm not sure really».",
+    "wrong": {
+     "true": "«I'm not true» — xato.",
+     "agree": "«I'm not agree» — xato."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Letter to a newspaper: Our town needs more police officers. Crime is rising. ______, many streets have no lights.",
+    "hint": "",
+    "options": [
+     "Furthermore",
+     "Nevertheless",
+     "Whereas"
+    ],
+    "answer": "Furthermore",
+    "accept": [],
+    "phrase": "Furthermore, ...",
+    "explain": "Qo'shimcha muammo — «Furthermore».",
+    "wrong": {
+     "Nevertheless": "Qarama-qarshilik.",
+     "Whereas": "Ikki gapni qarshi qo'yadi, gap boshida vergul bilan emas."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Essay: Young offenders should get a second chance. What is ______, they can learn useful skills.",
+    "hint": "",
+    "options": [
+     "more",
+     "better",
+     "most"
+    ],
+    "answer": "more",
+    "accept": [],
+    "phrase": "What is more, ...",
+    "explain": "«What is more».",
+    "wrong": {
+     "better": "«What is better» — boshqa ma'no.",
+     "most": "Xato."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Report: Burglary in the area has fallen. I ______ it's true to say that the new cameras have helped.",
+    "hint": "",
+    "options": [
+     "suppose",
+     "agree",
+     "sure"
+    ],
+    "answer": "suppose",
+    "accept": [],
+    "phrase": "I suppose it's true to say that ...",
+    "explain": "«I suppose it's true to say that».",
+    "wrong": {
+     "agree": "«I agree it's true to say» — g'ayritabiiy.",
+     "sure": "«I sure» — xato."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Forum post: Should mobile phones be allowed in prisons? I'm not sure really. ______, I think prisoners should be able to call their families.",
+    "hint": "",
+    "options": [
+     "However",
+     "Moreover",
+     "Furthermore"
+    ],
+    "answer": "However",
+    "accept": [],
+    "phrase": "I'm not sure really.",
+    "explain": "Ehtiyotkorona fikrdan keyin qarama-qarshi fikr — «However».",
+    "wrong": {
+     "Moreover": "Qo'shimcha fikr, bu yerda qarama-qarshilik bor.",
+     "Furthermore": "Qo'shimcha fikr, qarama-qarshilik emas."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Essay: Speeding is dangerous. ______, it is one of the main causes of accidents.",
+    "hint": "",
+    "options": [
+     "Furthermore",
+     "Unlike",
+     "But"
+    ],
+    "answer": "Furthermore",
+    "accept": [],
+    "phrase": "Furthermore, ...",
+    "explain": "Qo'shimcha fikr.",
+    "wrong": {
+     "Unlike": "Keyin ot keladi.",
+     "But": "Rasmiy matnda «But,» bilan vergul ishlatilmaydi va ma'no qarama-qarshilik."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Comment: Teachers say that strict rules stop bad behaviour. I agree ______ some extent.",
+    "hint": "",
+    "options": [
+     "to",
+     "with",
+     "on"
+    ],
+    "answer": "to",
+    "accept": [],
+    "phrase": "I agree to some extent.",
+    "explain": "«to some extent».",
+    "wrong": {
+     "with": "«agree with some extent» — xato.",
+     "on": "Xato."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Essay: Vandalism costs the city millions. What ______ more, it makes our parks ugly.",
+    "hint": "",
+    "options": [
+     "is",
+     "are",
+     "was"
+    ],
+    "answer": "is",
+    "accept": [],
+    "phrase": "What is more, ...",
+    "explain": "«What is more».",
+    "wrong": {
+     "are": "Xato.",
+     "was": "Fiksirlangan ibora hozirgi zamonda."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Opinion: I suppose it's ______ to say that most crimes are not reported.",
+    "hint": "",
+    "options": [
+     "true",
+     "real",
+     "right to"
+    ],
+    "answer": "true",
+    "accept": [],
+    "phrase": "I suppose it's true to say that ...",
+    "explain": "«true to say».",
+    "wrong": {
+     "real": "«real to say» — xato.",
+     "right to": "«right to to say» — xato."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Forum: Should the age of criminal responsibility be 10? I'm not sure ______. It seems very young.",
+    "hint": "",
+    "options": [
+     "really",
+     "realise",
+     "real"
+    ],
+    "answer": "really",
+    "accept": [],
+    "phrase": "I'm not sure really.",
+    "explain": "«I'm not sure really».",
+    "wrong": {
+     "realise": "Fe'l.",
+     "real": "Sifat."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Essay: Community service helps the town. Moreover, ______ teaches offenders responsibility.",
+    "hint": "",
+    "options": [
+     "it",
+     "its",
+     "they"
+    ],
+    "answer": "it",
+    "accept": [],
+    "phrase": "Moreover, ...",
+    "explain": "«Moreover, it teaches ...» — «community service» birlik → «it».",
+    "wrong": {
+     "its": "Egalik — xato.",
+     "they": "Ko'plik — xato."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Letter: The fines for littering are too small. Furthermore, ______ police rarely give them.",
+    "hint": "",
+    "options": [
+     "the",
+     "a",
+     "an"
+    ],
+    "answer": "the",
+    "accept": [],
+    "phrase": "Furthermore, ...",
+    "explain": "«the police» — har doim «the» bilan.",
+    "wrong": {
+     "a": "«a police» — xato.",
+     "an": "Xato."
+    }
+   }
+  ]
+ ],
+ "guide": {
+  "topics": [
+   {
+    "name": "Giving a tentative opinion",
+    "name_uz": "Ehtiyotkorona fikr bildirish",
+    "summary": "Fikringizga to'liq ishonmasangiz yoki qisman qo'shilsangiz, gapni yumshatish uchun.",
+    "usage": [
+     {
+      "text": "I'm not sure really. — «Rostini aytsam, aniq bilmayman». Qat'iy javob bermaslik.",
+      "example": {
+       "en": "A: Should shoplifters go to prison? B: I'm not sure really.",
+       "uz": "A: Do'kon o'g'rilari qamalishi kerakmi? B: Aniq bilmayman."
+      }
+     },
+     {
+      "text": "I agree to some extent. — «Ma'lum darajada qo'shilaman». Qisman rozilik, ko'pincha keyin «but».",
+      "example": {
+       "en": "I agree to some extent, but it depends on the crime.",
+       "uz": "Ma'lum darajada qo'shilaman, lekin jinoyatga bog'liq."
+      }
+     },
+     {
+      "text": "I suppose it's true to say that ... — «Menimcha, ... deyish to'g'ri bo'lsa kerak».",
+      "example": {
+       "en": "I suppose it's true to say that crime is falling.",
+       "uz": "Jinoyat kamayyapti deyish to'g'ri bo'lsa kerak."
+      }
+     }
+    ],
+    "structure": [
+     {
+      "type": "+",
+      "formula": "I agree to some extent, but ...",
+      "example": {
+       "en": "I agree to some extent, but not completely.",
+       "uz": "Qisman qo'shilaman, lekin to'liq emas."
+      }
+     },
+     {
+      "type": "+",
+      "formula": "I suppose it's true to say that + gap",
+      "example": {
+       "en": "I suppose it's true to say that people are kinder now.",
+       "uz": "Hozir odamlar mehribonroq deyish mumkin."
+      }
+     },
+     {
+      "type": "short",
+      "formula": "I'm not sure really.",
+      "example": {
+       "en": "I'm not sure really.",
+       "uz": "Aniq bilmayman."
+      }
+     }
+    ],
+    "signals": [
+     {
+      "en": "to some extent",
+      "uz": "ma'lum darajada"
+     },
+     {
+      "en": "suppose",
+      "uz": "taxmin qilmoq"
+     },
+     {
+      "en": "not sure",
+      "uz": "aniq emas"
+     },
+     {
+      "en": "really",
+      "uz": "rostdan, aslida"
+     }
+    ],
+    "tip": "«I agree in some extent» — xato. To'g'ri predlog: «to some extent»."
+   },
+   {
+    "name": "Making an additional point",
+    "name_uz": "Qo'shimcha fikr qo'shish",
+    "summary": "Bitta fikrdan keyin yana bir dalil qo'shish uchun. Ko'proq yozma va rasmiy nutqda.",
+    "usage": [
+     {
+      "text": "Moreover, ... — «Bundan tashqari, ...». Yangi gap boshida, keyin vergul.",
+      "example": {
+       "en": "Prison is expensive. Moreover, it doesn't always work.",
+       "uz": "Qamoq qimmat. Bundan tashqari, har doim ham foyda bermaydi."
+      }
+     },
+     {
+      "text": "Furthermore, ... — «Qolaversa, ...». «Moreover» bilan bir xil.",
+      "example": {
+       "en": "The town is safe. Furthermore, it's very clean.",
+       "uz": "Shahar xavfsiz. Qolaversa, juda toza."
+      }
+     },
+     {
+      "text": "What is more, ... — «Buning ustiga, ...». Uch so'zli ibora.",
+      "example": {
+       "en": "He stole a car. What is more, he crashed it.",
+       "uz": "U mashina o'g'irladi. Buning ustiga, uni urib qo'ydi."
+      }
+     }
+    ],
+    "structure": [
+     {
+      "type": "short",
+      "formula": "Gap 1. Moreover, / Furthermore, / What is more, + gap 2",
+      "example": {
+       "en": "It's cheap. What is more, it's fast.",
+       "uz": "Arzon. Buning ustiga, tez."
+      }
+     }
+    ],
+    "signals": [
+     {
+      "en": "moreover",
+      "uz": "bundan tashqari"
+     },
+     {
+      "en": "furthermore",
+      "uz": "qolaversa"
+     },
+     {
+      "en": "what is more",
+      "uz": "buning ustiga"
+     }
+    ],
+    "tip": "Bu so'zlar QO'SHIMCHA fikr uchun. Qarama-qarshi fikr uchun «However» ishlatiladi — adashtirmang."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I agree in some extent.",
+    "right": "I agree to some extent.",
+    "why": "To'g'ri predlog — «to»."
+   },
+   {
+    "wrong": "I suppose it's true say that ...",
+    "right": "I suppose it's true to say that ...",
+    "why": "«true to say» — «to» shart."
+   },
+   {
+    "wrong": "It's cheap. Moreover, it's very expensive to repair.",
+    "right": "It's cheap. However, it's very expensive to repair.",
+    "why": "Qarama-qarshi fikr uchun «However», «Moreover» — qo'shimcha fikr uchun."
+   },
+   {
+    "wrong": "What more, ...",
+    "right": "What is more, ... / What's more, ...",
+    "why": "«is» tushib qolmasin."
+   },
+   {
+    "wrong": "Furthermore it's cheap.",
+    "right": "Furthermore, it's cheap.",
+    "why": "Bu so'zlardan keyin vergul qo'yiladi."
+   }
+  ]
+ }
+}

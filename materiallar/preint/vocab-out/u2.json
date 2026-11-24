@@ -1,0 +1,958 @@
+{
+ "a": [
+  {
+   "q": "I have not eaten anything since early morning, and my stomach is making loud noises now.",
+   "options": [
+    "starving",
+    "filthy",
+    "awful",
+    "icy"
+   ],
+   "answer": "starving",
+   "explain": "starving — och qolgan: butun kun ovqat yemagani uchun qorni juda ochgan."
+  },
+  {
+   "q": "My friends and I walked through the thick trees where wild animals live all day long.",
+   "options": [
+    "forest",
+    "desert",
+    "cave",
+    "ocean"
+   ],
+   "answer": "forest",
+   "explain": "forest — o'rmon: daraxtlar ko'p bo'lgan va hayvonlar yashaydigan katta hudud."
+  },
+  {
+   "q": "The students put their heavy books and lunch boxes into their big bags before walking home.",
+   "options": [
+    "rucksack",
+    "helmet",
+    "boots",
+    "dinghy"
+   ],
+   "answer": "rucksack",
+   "explain": "rucksack — ryukzak: orqaga taqib yuriladigan katta sumka."
+  },
+  {
+   "q": "We climbed a massive pile of hard earth and stone that was much higher than a normal hill.",
+   "options": [
+    "mountain",
+    "stream",
+    "lake",
+    "shore"
+   ],
+   "answer": "mountain",
+   "explain": "mountain — tog': atrofdagilardan juda baland bo'lgan tabiiy yer qismi."
+  },
+  {
+   "q": "She walked beside the large body of salty water and watched the big waves crash together.",
+   "options": [
+    "ocean",
+    "forest",
+    "desert",
+    "cave"
+   ],
+   "answer": "ocean",
+   "explain": "ocean — okean: yer yuzidagi eng katta suv qismi."
+  },
+  {
+   "q": "After running a very difficult marathon in the hot sun, all my muscles hurt so much.",
+   "options": [
+    "athletic",
+    "brave",
+    "terrifying",
+    "remote"
+   ],
+   "answer": "athletic",
+   "explain": "athletic — sportsevar: jismoniy mashqlarga boy va baquvvat."
+  },
+  {
+   "q": "We walked on the soft sand where the dry land meets the blue water of the sea.",
+   "options": [
+    "shore",
+    "stream",
+    "cave",
+    "forest"
+   ],
+   "answer": "shore",
+   "explain": "shore — qirg'oq: dengiz yoki ko'lning yer bilan tutashgan joyi."
+  },
+  {
+   "q": "The water in the small river was not deep at all, so we walked across it easily.",
+   "options": [
+    "shallow",
+    "deep",
+    "icy",
+    "steep"
+   ],
+   "answer": "shallow",
+   "explain": "shallow — sayoz: suvi chuqur bo'lmagan joy."
+  },
+  {
+   "q": "The winter wind was so cold that the small pool of water turned completely into hard ice.",
+   "options": [
+    "icy",
+    "deep",
+    "steep",
+    "shallow"
+   ],
+   "answer": "icy",
+   "explain": "icy — muzlagan: sovuqdan qattiq muzga aylangan."
+  },
+  {
+   "q": "We walked on a path that went in the direction of the bottom of the long valley.",
+   "options": [
+    "down",
+    "along",
+    "across",
+    "beside"
+   ],
+   "answer": "down",
+   "explain": "down — pastga: yuqoridan pastki yo'nalishga qarab harakatlanish."
+  },
+  {
+   "q": "The little green frog jumped from one hard piece of grey stone to another.",
+   "options": [
+    "rocks",
+    "poles",
+    "paddles",
+    "boots"
+   ],
+   "answer": "rocks",
+   "explain": "rocks — qoyalar: yer ustidagi qattiq tosh bo'laklari."
+  },
+  {
+   "q": "He put his strong feet inside the heavy leather shoes designed for walking in the mountains.",
+   "options": [
+    "boots",
+    "helmet",
+    "rucksack",
+    "dinghy"
+   ],
+   "answer": "boots",
+   "explain": "boots — etiklar: oyoqni himoya qiluvchi qalin poyabzal."
+  },
+  {
+   "q": "She wore a hard plastic hat on her head to protect herself during the bicycle ride.",
+   "options": [
+    "helmet",
+    "boots",
+    "rucksack",
+    "life jacket"
+   ],
+   "answer": "helmet",
+   "explain": "helmet — dubulg'a: boshni zarbadan saqlaydigan qattiq bosh kiyim."
+  },
+  {
+   "q": "We used long wooden sticks to push ourselves forward while skiing down the white snow.",
+   "options": [
+    "poles",
+    "rocks",
+    "paddles",
+    "boots"
+   ],
+   "answer": "poles",
+   "explain": "poles — tayoqlar: chang'i uchishda ishlatiladigan uzun tayoqlar."
+  },
+  {
+   "q": "The children sat in the small plastic boat and used oars to move across the calm lake.",
+   "options": [
+    "dinghy",
+    "rucksack",
+    "helmet",
+    "boots"
+   ],
+   "answer": "dinghy",
+   "explain": "dinghy — shishiriladigan kichik qayiq: suvda suzish uchun mo'ljallangan kichik kemacha."
+  },
+  {
+   "q": "They held the two flat wooden oars in their hands to push the water and move faster.",
+   "options": [
+    "paddles",
+    "poles",
+    "rocks",
+    "boots"
+   ],
+   "answer": "paddles",
+   "explain": "paddles — eshkaklar: qayiqni suvda harakatlantirish uchun asbob."
+  },
+  {
+   "q": "Before going into the dangerous water, every passenger put on an orange vest that helps you float.",
+   "options": [
+    "life jacket",
+    "helmet",
+    "rucksack",
+    "boots"
+   ],
+   "answer": "life jacket",
+   "explain": "life jacket — qutqaruv yelegi: suvda cho'kib ketmaslik uchun kiyiladigan yelek."
+  },
+  {
+   "q": "The climbers attached a strong nylon belt around their waists so they would not fall down.",
+   "options": [
+    "safety harness",
+    "helmet",
+    "rucksack",
+    "boots"
+   ],
+   "answer": "safety harness",
+   "explain": "safety harness — xavfsizlik kamari: balandlikda tushib ketishdan saqlaydigan moslama."
+  },
+  {
+   "q": "We need to study hard because the big test at the end of the term is tomorrow morning.",
+   "options": [
+    "examination",
+    "preparation",
+    "development",
+    "entertainment"
+   ],
+   "answer": "examination",
+   "explain": "examination — imtihon: bilimlarni tekshirish uchun sinov."
+  },
+  {
+   "q": "The doctor wanted to check my throat and listen to my heart with her special medical tool.",
+   "options": [
+    "examine",
+    "explore",
+    "develop",
+    "entertain"
+   ],
+   "answer": "examine",
+   "explain": "examine — tekshirmoq: shifokor yoki mutaxassis tomonidan ko'zdan kechirmoq."
+  },
+  {
+   "q": "She spent three hours cleaning the kitchen until every single plate and spoon was shining.",
+   "options": [
+    "complete",
+    "achieve",
+    "accomplish",
+    "attempt"
+   ],
+   "answer": "complete",
+   "explain": "complete — yakunlamoq: ishni oxiriga yetkazib bajarmoq."
+  },
+  {
+   "q": "After months of hard work, the builders finally reached the finish of the new school building.",
+   "options": [
+    "completion",
+    "achievement",
+    "accomplishment",
+    "exploration"
+   ],
+   "answer": "completion",
+   "explain": "completion — yakunlash: biror ishning tugallanish jarayoni."
+  },
+  {
+   "q": "The scientist wants to discover new plants in the unknown parts of the Amazon jungle.",
+   "options": [
+    "explore",
+    "examine",
+    "develop",
+    "entertain"
+   ],
+   "answer": "explore",
+   "explain": "explore — tadqiq qilmoq: noma'lum joylarni o'rganib chiqmoq."
+  },
+  {
+   "q": "Going on a long journey through the unknown desert was the most exciting adventure ever.",
+   "options": [
+    "exploration",
+    "achievement",
+    "accomplishment",
+    "completion"
+   ],
+   "answer": "exploration",
+   "explain": "exploration — tadqiqot: yangi joylarni o'rganish safari."
+  },
+  {
+   "q": "The sleeping volcano suddenly threw hot red lava and dark smoke high up into the sky.",
+   "options": [
+    "erupt",
+    "develop",
+    "motivate",
+    "entertain"
+   ],
+   "answer": "erupt",
+   "explain": "erupt — otilib chiqmoq: vulqondan lava chiqishi."
+  },
+  {
+   "q": "The loud sound of red fire and hot rocks coming out of the volcano frightened the villagers.",
+   "options": [
+    "eruption",
+    "development",
+    "preparation",
+    "entertainment"
+   ],
+   "answer": "eruption",
+   "explain": "eruption — otilish: vulqonning lava otib chiqarish jarayoni."
+  },
+  {
+   "q": "The bright green valley between the two huge hills looked very peaceful in the morning light.",
+   "options": [
+    "stunning",
+    "awful",
+    "filthy",
+    "icy"
+   ],
+   "answer": "stunning",
+   "explain": "stunning — lol qoldiradigan: juda chiroyli va hayratlanarli."
+  },
+  {
+   "q": "We stayed in a small wooden house far away from any towns, with no internet or shops.",
+   "options": [
+    "remote",
+    "steep",
+    "shallow",
+    "narrow"
+   ],
+   "answer": "remote",
+   "explain": "remote — olis: odamlardan va shaharlardan uzoqda joylashgan."
+  },
+  {
+   "q": "The path up the side of the mountain was so vertical that we had to climb very slowly.",
+   "options": [
+    "steep",
+    "shallow",
+    "icy",
+    "narrow"
+   ],
+   "answer": "steep",
+   "explain": "steep — tik: tepaga qarab juda keskin ko'tariladigan joy."
+  },
+  {
+   "q": "Two brave men in a helicopter saved the lost hikers from the cold snowy mountain top.",
+   "options": [
+    "rescue",
+    "attempt",
+    "risk",
+    "need"
+   ],
+   "answer": "rescue",
+   "explain": "rescue — qutqarish: xavfli vaziyatdagi odamni olib chiqish."
+  },
+  {
+   "q": "The film about the huge hungry sharks attacking people in the dark sea was really scary.",
+   "options": [
+    "terrifying",
+    "athletic",
+    "brave",
+    "remote"
+   ],
+   "answer": "terrifying",
+   "explain": "terrifying — dahshatli: juda qo'rqinchli."
+  },
+  {
+   "q": "Riding the fastest roller coaster at the amusement park was so exciting and fun.",
+   "options": [
+    "thrilling",
+    "awful",
+    "filthy",
+    "icy"
+   ],
+   "answer": "thrilling",
+   "explain": "thrilling — hayajonli: zavqli va yurakni tez urtradigan."
+  },
+  {
+   "q": "The old castle on top of the green hill looked like something from a magical fairy tale.",
+   "options": [
+    "spectacular",
+    "filthy",
+    "awful",
+    "icy"
+   ],
+   "answer": "spectacular",
+   "explain": "spectacular — muhtaasham: ko'zni quvontiradigan darajada go'zal."
+  },
+  {
+   "q": "The food cooked by my grandmother at the weekend family party tasted exceptionally good.",
+   "options": [
+    "delicious",
+    "filthy",
+    "awful",
+    "icy"
+   ],
+   "answer": "delicious",
+   "explain": "delicious — mazali: yeyishga juda yoqimli taom."
+  },
+  {
+   "q": "After finishing our final exams, we spent the whole weekend lying on the sofa and watching films.",
+   "options": [
+    "relax",
+    "develop",
+    "motivate",
+    "entertain"
+   ],
+   "answer": "relax",
+   "explain": "relax — dam olmoq: charchoqni chiqarib hordiq chiqarmoq."
+  },
+  {
+   "q": "Listening to quiet classical music in the evening brings a deep feeling of peace to my mind.",
+   "options": [
+    "relaxation",
+    "preparation",
+    "development",
+    "entertainment"
+   ],
+   "answer": "relaxation",
+   "explain": "relaxation — dam olish: tan va ongning hordiq chiqarishi."
+  },
+  {
+   "q": "The teacher said kind words to the students to make them want to work harder for the exam.",
+   "options": [
+    "motivate",
+    "explore",
+    "examine",
+    "entertain"
+   ],
+   "answer": "motivate",
+   "explain": "motivate — ruhlantirmoq: biror ishni qilishga bo'lgan ishtiyoqni oshirmoq."
+  },
+  {
+   "q": "The water in the mountain river was so cold that my feet felt completely frozen and numb.",
+   "options": [
+    "icy",
+    "filthy",
+    "awful",
+    "dark"
+   ],
+   "answer": "icy",
+   "explain": "icy — muzdek: tog' daryosidagi suvning juda sovuqligi."
+  },
+  {
+   "q": "After working in the garden all afternoon, my clothes were covered in thick mud and dirt.",
+   "options": [
+    "filthy",
+    "icy",
+    "awful",
+    "dark"
+   ],
+   "answer": "filthy",
+   "explain": "filthy — kir, bulg'angan: bog'dagi ishdan keyin kiyimlarning kir bo'lishi."
+  },
+  {
+   "q": "We watched the volcano suddenly throw red fire and hot ash high up into the evening sky.",
+   "options": [
+    "erupt",
+    "develop",
+    "explore",
+    "employ"
+   ],
+   "answer": "erupt",
+   "explain": "erupt — otilib chiqmoq: vulqonning olov va kul sochib otilishi."
+  }
+ ],
+ "b": [
+  {
+   "q": "After walking all day in the hot sun, we finally reached the sandy ______ of the blue lake.",
+   "options": [
+    "shore",
+    "cave",
+    "cliff",
+    "desert"
+   ],
+   "answer": "shore",
+   "explain": "shore — qirg'oq: suv bo'yidagi qumli qirg'oqqa yetib keldik."
+  },
+  {
+   "q": "You must wear a strong ______ on your head when you ride a mountain bike.",
+   "options": [
+    "helmet",
+    "boots",
+    "rucksack",
+    "paddles"
+   ],
+   "answer": "helmet",
+   "explain": "helmet — dubulg'a: velosiped haydashda boshga kiyiladigan himoya vositasi."
+  },
+  {
+   "q": "The brave climbers reached the top of the very ______ mountain before sunset.",
+   "options": [
+    "steep",
+    "shallow",
+    "low",
+    "narrow"
+   ],
+   "answer": "steep",
+   "explain": "steep — tik: tog'ning juda tik qismiga chiqib borishdi."
+  },
+  {
+   "q": "We walked ______ the quiet river for an hour while talking about our weekend plans.",
+   "options": [
+    "along",
+    "across",
+    "inside",
+    "behind"
+   ],
+   "answer": "along",
+   "explain": "along — bo'ylab: daryo bo'ylab uzoq sayr qildik."
+  },
+  {
+   "q": "That historical movie about ancient Rome was absolutely ______ and everyone loved it.",
+   "options": [
+    "brilliant",
+    "awful",
+    "filthy",
+    "icy"
+   ],
+   "answer": "brilliant",
+   "explain": "brilliant — ajoyib: tarixiy film hammaga juda yoqdi."
+  },
+  {
+   "q": "My little brother was so ______ after playing football that he ate three plates of plov.",
+   "options": [
+    "starving",
+    "athletic",
+    "brave",
+    "dark"
+   ],
+   "answer": "starving",
+   "explain": "starving — o'ta och qolgan: futbol o'ynab kelib juda och qolgandi."
+  },
+  {
+   "q": "We packed all our warm clothes and heavy sleeping bags into a large ______.",
+   "options": [
+    "rucksack",
+    "dinghy",
+    "swimming trunks",
+    "life jacket"
+   ],
+   "answer": "rucksack",
+   "explain": "rucksack — ryukzak: barcha issiq kiyimlar katta ryukzakka joylandi."
+  },
+  {
+   "q": "It takes courage to walk through a dark underground ______ with only a small torch.",
+   "options": [
+    "cave",
+    "hill",
+    "cliff",
+    "shore"
+   ],
+   "answer": "cave",
+   "explain": "cave — g'or: qorong'u yer osti g'origa chiroq bilan kirishdi."
+  },
+  {
+   "q": "My uncle works hard every day to ______ new computer software for international companies.",
+   "options": [
+    "develop",
+    "erupt",
+    "rescue",
+    "motivate"
+   ],
+   "answer": "develop",
+   "explain": "develop — ishlab chiqmoq: u yangi kompyuter dasturini yaratmoqda."
+  },
+  {
+   "q": "We need to wear strong waterproof ______ because the mountain paths are very muddy today.",
+   "options": [
+    "boots",
+    "paddles",
+    "poles",
+    "helmet"
+   ],
+   "answer": "boots",
+   "explain": "boots — etik: baland tog' yo'llari uchun qulay mustahkam etiklar."
+  },
+  {
+   "q": "My mother cooked a ______ dinner with fresh vegetables from our family garden yesterday.",
+   "options": [
+    "delicious",
+    "filthy",
+    "awful",
+    "icy"
+   ],
+   "answer": "delicious",
+   "explain": "delicious — mazali: bog'dagi sabzavotlardan tayyorlangan juda mazali kechki ovqat."
+  },
+  {
+   "q": "The weather was so ______ yesterday that we had to stay indoors and watch television.",
+   "options": [
+    "awful",
+    "brilliant",
+    "stunning",
+    "fantastic"
+   ],
+   "answer": "awful",
+   "explain": "awful — yomon: ob-havo juda yomon bo'lgani uchun uyda qoldik."
+  },
+  {
+   "q": "You should always put on your ______ before getting into the fast-flowing river.",
+   "options": [
+    "life jacket",
+    "rucksack",
+    "swimming trunks",
+    "helmet"
+   ],
+   "answer": "life jacket",
+   "explain": "life jacket — qutqaruv yelegi: daryoga tushishdan oldin yelek kiyish kerak."
+  },
+  {
+   "q": "The strong winds made it very difficult to pitch our camping tent in the open ______.",
+   "options": [
+    "desert",
+    "cave",
+    "ocean",
+    "stream"
+   ],
+   "answer": "desert",
+   "explain": "desert — cho'l: ochiq cho'lda shamol ostida choh qurish qiyin."
+  },
+  {
+   "q": "My grandfather told us a ______ story about his exciting adventures in the high mountains.",
+   "options": [
+    "terrifying",
+    "filthy",
+    "icy",
+    "low"
+   ],
+   "answer": "terrifying",
+   "explain": "terrifying — qo'rqinchli: bobomning tog'dagi qo'rqinchli sarguzashtlari haqidagi hikoyasi."
+  },
+  {
+   "q": "We walked ______ the old wooden bridge to reach the beautiful green park on the other side.",
+   "options": [
+    "across",
+    "along",
+    "inside",
+    "behind"
+   ],
+   "answer": "across",
+   "explain": "across — kesib o'tib: eski yog'och ko'prikdan narigi tomonga o'tdik."
+  },
+  {
+   "q": "My little sister loves to read ______ stories about magic kingdoms and flying horses.",
+   "options": [
+    "fantastic",
+    "awful",
+    "filthy",
+    "icy"
+   ],
+   "answer": "fantastic",
+   "explain": "fantastic — fantastik: sehrli qirolliklar haqidagi ajoyib ertaklar."
+  },
+  {
+   "q": "Our school football team worked hard to ______ the championship trophy this year.",
+   "options": [
+    "achieve",
+    "attempt",
+    "employ",
+    "explore"
+   ],
+   "answer": "achieve",
+   "explain": "achieve — erishmoq: maktab jamoasi chempionlik kubogini qo'lga kiritdi."
+  },
+  {
+   "q": "The teacher tried to ______ all her students to read more books during the summer holidays.",
+   "options": [
+    "motivate",
+    "develop",
+    "erupt",
+    "employ"
+   ],
+   "answer": "motivate",
+   "explain": "motivate — rag'batlantirmoq: o'qituvchi o'quvchilarni ko'proq kitob o'qishga undadi."
+  },
+  {
+   "q": "We had to wear a secure ______ when we tried rock climbing in the national park.",
+   "options": [
+    "safety harness",
+    "life jacket",
+    "swimming trunks",
+    "rucksack"
+   ],
+   "answer": "safety harness",
+   "explain": "safety harness — xavfsizlik kamari: qoyaga chiqishda taqiladigan maxsus xavfsizlik kamari."
+  },
+  {
+   "q": "After the heavy rain, our white shoes became completely ______ from the muddy garden path.",
+   "options": [
+    "filthy",
+    "delicious",
+    "brilliant",
+    "stunning"
+   ],
+   "answer": "filthy",
+   "explain": "filthy — kir-chir: loy yo'ldan yurib poyabzalimiz juda iflos bo'ldi."
+  },
+  {
+   "q": "My father likes to ______ in the garden with a good book on warm summer Sunday afternoons.",
+   "options": [
+    "relax",
+    "attempt",
+    "explore",
+    "achieve"
+   ],
+   "answer": "relax",
+   "explain": "relax — dam olmoq: u issiq kunda bog'da kitob o'qib dam oladi."
+  },
+  {
+   "q": "The famous traveler plans to ______ the deep jungles of South America next month.",
+   "options": [
+    "explore",
+    "achieve",
+    "employ",
+    "motivate"
+   ],
+   "answer": "explore",
+   "explain": "explore — tadqiq qilmoq: mashhur sayyoh Janubiy Amerika o'rmonlarini o'rganmoqchi."
+  },
+  {
+   "q": "My younger brother is very ______ because he plays football and runs every single morning.",
+   "options": [
+    "athletic",
+    "awful",
+    "filthy",
+    "icy"
+   ],
+   "answer": "athletic",
+   "explain": "athletic — sportsevar: u har kuni ertalab futbol o'ynaydi va yuguradi."
+  },
+  {
+   "q": "We walked slowly ______ the dark and mysterious cave to see what was hidden inside.",
+   "options": [
+    "along",
+    "across",
+    "behind",
+    "beside"
+   ],
+   "answer": "along",
+   "explain": "along — bo'ylab: biz qorong'u g'or bo'ylab asta-sekin yurdik."
+  },
+  {
+   "q": "The view from the top of the tall mountain was truly ______ and breathtaking.",
+   "options": [
+    "spectacular",
+    "awful",
+    "filthy",
+    "low"
+   ],
+   "answer": "spectacular",
+   "explain": "spectacular — ajoyib: baland tog' cho'qqisidan manzara juda ajoyib edi."
+  },
+  {
+   "q": "After walking for five hours in the hot desert, we were absolutely ______ and thirsty.",
+   "options": [
+    "starving",
+    "athletic",
+    "brave",
+    "tall"
+   ],
+   "answer": "starving",
+   "explain": "starving — juda och: cho'lda besh soat yurganimizdan keyin juda och qolgandik."
+  },
+  {
+   "q": "You must wear a strong ______ on your head when you ride a bicycle in the city.",
+   "options": [
+    "helmet",
+    "dinghy",
+    "rucksack",
+    "paddles"
+   ],
+   "answer": "helmet",
+   "explain": "helmet — dubulg'a: shaharda velosiped haydashda boshga dubulg'a kiyish kerak."
+  },
+  {
+   "q": "They had to use a long rope to climb down the dangerous and steep ______ near the sea.",
+   "options": [
+    "cliff",
+    "stream",
+    "lake",
+    "forest"
+   ],
+   "answer": "cliff",
+   "explain": "cliff — qoya: ular dengiz yaqinidagi tik qoyadan tushish uchun arqon ishlatdi."
+  },
+  {
+   "q": "She put all her warm clothes and books inside her heavy ______ before the school trip.",
+   "options": [
+    "rucksack",
+    "helmet",
+    "dinghy",
+    "life jacket"
+   ],
+   "answer": "rucksack",
+   "explain": "rucksack — ryukzak: maktab sayohatidan oldin u barcha narsasini ryukzagiga soldi."
+  }
+ ],
+ "c": [
+  {
+   "q": "Yesterday my little brother walked ______ the busy street without looking both ways.",
+   "answer": "across",
+   "base": "across",
+   "explain": "across — kesib o'tib: u ko'chani kesib o'tdi"
+  },
+  {
+   "q": "We walked ______ the long river bank while enjoying the cool evening breeze.",
+   "answer": "along",
+   "base": "along",
+   "explain": "along — bo'ylab: daryo bo'ylab sayr qildik"
+  },
+  {
+   "q": "The magician performed an ______ trick that left everyone in the room completely amazed.",
+   "answer": "astonishing",
+   "base": "astonishing",
+   "explain": "astonishing — hayratlanarli: juda hayratlanarli fokus ko'rsatdi"
+  },
+  {
+   "q": "My older cousin is very ______ and wins many running medals at school.",
+   "answer": "athletic",
+   "base": "athletic",
+   "explain": "athletic — sportsevar: u sport musobaqalarida g'olib chiqadi"
+  },
+  {
+   "q": "They made a brave ______ to reach the snowy peak before the sun went down.",
+   "answer": "attempt",
+   "base": "attempt",
+   "explain": "attempt — urinish: cho'qqiga chiqishga qilingan urinish"
+  },
+  {
+   "q": "The weather was ______ yesterday with heavy rain and strong cold wind outside.",
+   "answer": "awful",
+   "base": "awful",
+   "explain": "awful — dahshatli: ob-havo juda yomon edi"
+  },
+  {
+   "q": "Our school building is located just ______ the large city central park.",
+   "answer": "behind",
+   "base": "behind",
+   "explain": "behind — orqasida: maktab parkning orqasida joylashgan"
+  },
+  {
+   "q": "She sat ______ her best friend on the bus during the school trip.",
+   "answer": "beside",
+   "base": "beside",
+   "explain": "beside — yonida: dugonasining yoniga o'tirdi"
+  },
+  {
+   "q": "Make sure you wear strong leather ______ before walking in the muddy forest.",
+   "answer": "boots",
+   "base": "boots",
+   "explain": "boots — etiklar: loy ko'chada yurish uchun etiklar"
+  },
+  {
+   "q": "The ______ firefighter saved the little cat from the high burning tree.",
+   "answer": "brave",
+   "base": "brave",
+   "explain": "brave — jasur: jasur o't o'chiruvchi mushukni qutqardi"
+  },
+  {
+   "q": "That is a ______ idea for our upcoming English class presentation project.",
+   "answer": "brilliant",
+   "base": "brilliant",
+   "explain": "brilliant — ajoyib: juda zo'r va aqlli g'oya"
+  },
+  {
+   "q": "We went inside a dark underground ______ to see the old stone formations.",
+   "answer": "cave",
+   "base": "cave",
+   "explain": "cave — g'or: qorong'u g'orni borib ko'rdik"
+  },
+  {
+   "q": "Be careful near the edge of that high ______ overlooking the blue sea.",
+   "answer": "cliff",
+   "base": "cliff",
+   "explain": "cliff — qoya: dengiz bo'yidagi baland qoya"
+  },
+  {
+   "q": "Students must ______ their science homework before Friday morning without fail.",
+   "answer": "complete",
+   "base": "complete",
+   "explain": "complete — bajarmoq: uy vazifasini to'liq bajarmoq"
+  },
+  {
+   "q": "The successful ______ of the bridge project made all the local engineers proud.",
+   "answer": "completion",
+   "base": "completion",
+   "explain": "completion — yakunlash: ko'prik qurilishining yakunlanishi"
+  },
+  {
+   "q": "Please turn on the bedroom light because it is too ______ in here.",
+   "answer": "dark",
+   "base": "dark",
+   "explain": "dark — qorong'i: xona juda qorong'i bo'lib qoldi"
+  },
+  {
+   "q": "The swimming pool in our local sports complex is two meters ______.",
+   "answer": "deep",
+   "base": "deep",
+   "explain": "deep — chuqur: basseyn ikki metr chuqurlikda"
+  },
+  {
+   "q": "My grandmother cooked a ______ traditional plov for our family Sunday lunch.",
+   "answer": "delicious",
+   "base": "delicious",
+   "explain": "delicious — mazali: buvimg tayyorlagan mazali osh"
+  },
+  {
+   "q": "The Kyzylkum ______ in Central Asia has very hot summers and sandy dunes.",
+   "answer": "desert",
+   "base": "desert",
+   "explain": "desert — cho'l: Qizilqum cho'zi issiq yozga ega"
+  },
+  {
+   "q": "Reading interesting books helps young students ______ their vocabulary and reading skills.",
+   "answer": "develop",
+   "base": "develop",
+   "explain": "develop — rivojlantirmoq: so'z boyligini oshirib bormoq"
+  },
+  {
+   "q": "The rapid economic ______ of our country brings new jobs for graduates.",
+   "answer": "development",
+   "base": "development",
+   "explain": "development — rivojlanish: mamlakatning iqtisodiy rivojlanishi"
+  },
+  {
+   "q": "We crossed the fast mountain river safely in a small yellow ______.",
+   "answer": "dinghy",
+   "base": "dinghy",
+   "explain": "dinghy — rezina qayiq: kichik qayiqda daryoni kesib o'tdik"
+  },
+  {
+   "q": "The ball rolled ______ the steep hill and landed in the green bushes.",
+   "answer": "down",
+   "base": "down",
+   "explain": "down — pastga: to'p tepalikdan pastga dumalab tushdi"
+  },
+  {
+   "q": "My biggest ______ in life is to travel around the world and help others.",
+   "answer": "dream",
+   "base": "dream",
+   "explain": "dream — orzu: mening eng katta orzuim"
+  },
+  {
+   "q": "That local factory will ______ fifty new workers from our town next month.",
+   "answer": "employ",
+   "base": "employ",
+   "explain": "employ — ishga olmoq: zavod yangi ishchilarni ishga oladi"
+  },
+  {
+   "q": "Finding good ______ is very important for young university graduates today.",
+   "answer": "employment",
+   "base": "employment",
+   "explain": "employment — bandlik: yaxshi ish topish juda muhim"
+  },
+  {
+   "q": "Street musicians play great music to ______ the people walking in the park.",
+   "answer": "entertain",
+   "base": "entertain",
+   "explain": "entertain — ko'ngil ochmoq: odamlarning ko'nglini ko'tarish"
+  },
+  {
+   "q": "Children love watching cartoons for fun and afternoon television ______.",
+   "answer": "entertainment",
+   "base": "entertainment",
+   "explain": "entertainment — ko'ngilochar narsa: televizordagi ko'ngilochar dastur"
+  },
+  {
+   "q": "Scientists monitor the active volcano because it might ______ at any time.",
+   "answer": "erupt",
+   "base": "erupt",
+   "explain": "erupt — otilib chiqmoq: vulqon otilib chiqishi mumkin"
+  },
+  {
+   "q": "The sudden volcanic ______ covered the nearby town in thick grey ash.",
+   "answer": "eruption",
+   "base": "eruption",
+   "explain": "eruption — otilib chiqish: vulqon otilishi natijasida kul tarqaldi"
+  }
+ ]
+}

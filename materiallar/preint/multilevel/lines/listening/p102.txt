@@ -1,0 +1,50 @@
+﻿79`t26`t86`tport 4
+143`t32`t117`tExercise 38
+90`t21`t939`t103
+199`t29`t117`tyou will hear someone giving a talk. Label the places (1-4) on the
+236`t28`t115`tmap (A-I). There are FIVE extra options which you do not need to use
+297`t16`t379`tTRAIN STATION
+330`t16`t400`tSTATION
+348`t15`t407`tPLACE
+501`t13`t311`tBUS
+519`t14`t311`tSTATION
+724`t28`t117`t1. park hotel .................
+524`t14`t428`tHIGH STREET
+567`t10`t422`t0
+760`t23`t117`t3. tourist information office
+839`t26`t120`tExercise 39
+891`t28`t120`tYou will hear someone giving
+928`t26`t119`ta talk. Label the places (1-5)
+968`t28`t119`ton the map (A-G). There are
+1003`t28`t120`tTWO extra options which you
+1044`t22`t119`tdo not need to use
+1305`t22`t121`t1. conference centre
+1342`t23`t122`t2. information desk
+1379`t30`t122`t3. bookshop
+1416`t29`t122`t4. king's library
+1453`t28`t123`t5. stamp display
+725`t21`t564`t2. internet café ...................
+760`t27`t565`t4. Royal House restaurant .........
+878`t22`t525`tPlan of the British Libraty
+1123`t15`t546`tTreasures
+1144`t18`t547`tGallety
+1310`t27`t567`tE
+1363`t25`t551`tB
+1475`t17`t541`tStatue
+932`t17`t681`tCafeteria
+980`t12`t784`tower
+1127`t19`t682`tUpper Ground
+1150`t16`t725`tFloor
+1296`t17`t668`tLower Ground
+1318`t15`t709`tFloor
+1357`t18`t663`tMain Entrance
+1437`t19`t697`tPiazza
+981`t16`t905`tToilets
+1144`t20`t863`tCatalogues
+1244`t16`t915`tto
+1267`t17`t872`tcloakroom
+1297`t22`t851`tMeeting O
+1317`t16`t852`tPoint
+1451`t30`t917`tc
+1527`t26`t555`tDarajangizni aniqlosh uchun: mytests. uz
+1653`t9`t1022`tScanned With

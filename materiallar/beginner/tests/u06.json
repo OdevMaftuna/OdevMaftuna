@@ -1,0 +1,67 @@
+{
+  "code": "U6", "kind": "unit", "unit": 6, "price": 20000,
+  "title": "Unit 6 Test",
+  "subtitle": "Present Simple (he / she / it) · does / doesn’t · the time · daily routine · always / never",
+  "sections": [
+    {
+      "title": "A. Write the verb in the he / she / it form.",
+      "items": [
+        { "t": "text", "q": "She (work) ______ in a bank.", "a": ["works"] },
+        { "t": "text", "q": "He (go) ______ to bed at eleven.", "a": ["goes"] },
+        { "t": "text", "q": "My mother (watch) ______ TV in the evening.", "a": ["watches"] },
+        { "t": "text", "q": "Akbar (have) ______ breakfast at seven.", "a": ["has"] },
+        { "t": "text", "q": "The shop (close) ______ at 9 p.m.", "a": ["closes"] },
+        { "t": "text", "q": "She (study) ______ English at university.", "a": ["studies"] }
+      ]
+    },
+    {
+      "title": "B. Make the sentences negative.",
+      "items": [
+        { "t": "text", "q": "He drinks coffee.", "a": ["He doesn’t drink coffee", "He does not drink coffee"] },
+        { "t": "text", "q": "She lives in Termez.", "a": ["She doesn’t live in Termez", "She does not live in Termez"] },
+        { "t": "text", "q": "My brother plays football.", "a": ["My brother doesn’t play football", "My brother does not play football"] },
+        { "t": "text", "q": "It rains in summer.", "a": ["It doesn’t rain in summer", "It does not rain in summer"] }
+      ]
+    },
+    {
+      "title": "C. Write questions with Does.",
+      "items": [
+        { "t": "text", "q": "she / speak / Chinese", "a": ["Does she speak Chinese"] },
+        { "t": "text", "q": "he / get up / early", "a": ["Does he get up early"] },
+        { "t": "text", "q": "your father / work / at weekends", "a": ["Does your father work at weekends"] },
+        { "t": "text", "q": "Malika / like / cats", "a": ["Does Malika like cats"] }
+      ]
+    },
+    {
+      "title": "D. What time is it? Choose the correct answer.",
+      "items": [
+        { "t": "mc", "q": "07:30", "o": ["It’s half past seven.", "It’s seven o’clock.", "It’s half past six.", "It’s quarter past seven."], "a": 0 },
+        { "t": "mc", "q": "09:15", "o": ["It’s quarter to nine.", "It’s quarter past nine.", "It’s nine fifty.", "It’s half past nine."], "a": 1 },
+        { "t": "mc", "q": "04:45", "o": ["It’s quarter past four.", "It’s quarter to four.", "It’s quarter to five.", "It’s half past four."], "a": 2 },
+        { "t": "mc", "q": "12:00", "o": ["It’s twelve o’clock.", "It’s half past twelve.", "It’s twelve past.", "It’s quarter to twelve."], "a": 0 },
+        { "t": "mc", "q": "02:20", "o": ["It’s twenty to two.", "It’s twenty past two.", "It’s two past twenty.", "It’s twenty to three."], "a": 1 }
+      ]
+    },
+    {
+      "title": "E. Put the adverb in the correct place. Write the sentence.",
+      "items": [
+        { "t": "text", "q": "He is late. (never)", "a": ["He is never late", "He’s never late"] },
+        { "t": "text", "q": "She walks to school. (always)", "a": ["She always walks to school"] },
+        { "t": "text", "q": "I drink cola. (sometimes)", "a": ["I sometimes drink cola", "Sometimes I drink cola"] },
+        { "t": "text", "q": "We go to the cinema. (usually)", "a": ["We usually go to the cinema"] }
+      ]
+    },
+    {
+      "title": "F. Read about Feruza’s day. Answer the questions.",
+      "passage": "Feruza is a pharmacist. She gets up at six o’clock every morning. She has a quick breakfast and leaves home at half past six. She goes to work by metro. She works from seven to three. After work she usually goes shopping or visits her mother. In the evening she cooks dinner and reads a book. She never watches TV. She goes to bed at ten.",
+      "items": [
+        { "t": "text", "q": "What’s Feruza’s job?", "a": ["pharmacist", "She’s a pharmacist", "She is a pharmacist", "a pharmacist"] },
+        { "t": "mc", "q": "What time does she leave home?", "o": ["at six", "at half past six", "at seven", "at three"], "a": 1 },
+        { "t": "mc", "q": "How does she go to work?", "o": ["by bus", "by car", "by metro", "on foot"], "a": 2 },
+        { "t": "tf", "q": "She works from seven to three.", "a": true },
+        { "t": "tf", "q": "She watches TV every evening.", "a": false },
+        { "t": "tf", "q": "She goes to bed at eleven.", "a": false }
+      ]
+    }
+  ]
+}

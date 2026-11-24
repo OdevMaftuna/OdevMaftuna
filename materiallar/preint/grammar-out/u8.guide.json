@@ -1,0 +1,208 @@
+[
+ {
+  "name": "Reported statements",
+  "name_uz": "Ko'chirma gaplarni o'zlashtirma gapga aylantirish",
+  "summary": "Birovning so'zlarini o'zgartirib, boshqasiga aytib berish uchun ishlatiladi. Bunda zamonlar orqaga suriladi.",
+  "usage": [
+   {
+    "text": "Birovning aytgan gapini o'tgan zamonda boshqasiga yetkazish uchun qo'llaniladi.",
+    "example": {
+     "en": "He said that he lived in London.",
+     "uz": "U Londonda yashashini aytdi."
+    }
+   },
+   {
+    "text": "Present Simple zamonidagi gapni Past Simple ga o'zgartirish uchun.",
+    "example": {
+     "en": "She said she liked music.",
+     "uz": "U musiqani yoqtirishini aytdi."
+    }
+   },
+   {
+    "text": "Present Continuous zamonini Past Continuous ga o'tkazish uchun.",
+    "example": {
+     "en": "Tom said he was reading a book.",
+     "uz": "Tom kitob o'qiyotganini aytdi."
+    }
+   },
+   {
+    "text": "Past Simple zamonini Past Perfect ga o'tkazish uchun.",
+    "example": {
+     "en": "They said they had played tennis.",
+     "uz": "Ular tennis o'ynagan edik deyishdi."
+    }
+   }
+  ],
+  "structure": [
+   {
+    "type": "+",
+    "formula": "Subject + said + (that) + Subject + Past Tense",
+    "example": {
+     "en": "She said that she was happy.",
+     "uz": "U xursand ekanligini aytdi."
+    }
+   },
+   {
+    "type": "-",
+    "formula": "Subject + said + (that) + Subject + didn't + V1 / hadn't + V3",
+    "example": {
+     "en": "He said he didn't like coffee.",
+     "uz": "U kofe yoqtirmasligini aytdi."
+    }
+   }
+  ],
+  "signals": [
+   {
+    "en": "he said that",
+    "uz": "u aytdiki"
+   },
+   {
+    "en": "she told me that",
+    "uz": "u menga aytdiki"
+   },
+   {
+    "en": "they explained that",
+    "uz": "ular tushuntirishdiki"
+   },
+   {
+    "en": "he replied that",
+    "uz": "u javob berdi"
+   }
+  ],
+  "tip": "Eslatma: Ko'chirma gapdan o'zlashtirma gapga o'tganda zamonlar bitta qadam ortga surilishini unutmang (masalan: Present Past bo'ladi)."
+ },
+ {
+  "name": "Say vs. Tell",
+  "name_uz": "Say va Tell fe'llarining farqi",
+  "summary": "'Say' va 'tell' fe'llari 'aytmoq' ma'nosini bildiradi, lekin ulardan keyin keladigan so'zlar turlicha bo'ladi.",
+  "usage": [
+   {
+    "text": "Say fe'lidan keyin tinglovchi (kimga qaratilgani) ko'rsatilmasa ishlatiladi.",
+    "example": {
+     "en": "He said goodbye.",
+     "uz": "U xayrlashdi."
+    }
+   },
+   {
+    "text": "Say fe'lidan keyin odam qo'shmoqchi bo'lsak, 'to' ko'makchisi ishlatiladi.",
+    "example": {
+     "en": "She said to me that she was tired.",
+     "uz": "U menga charchaganini aytdi."
+    }
+   },
+   {
+    "text": "Tell fe'lidan keyin doimo tinglovchi (kimga aytilgani) to'g'ridan-to'g'ri yoziladi.",
+    "example": {
+     "en": "She told me a secret.",
+     "uz": "U menga sir aytdi."
+    }
+   }
+  ],
+  "structure": [
+   {
+    "type": "+",
+    "formula": "Subject + say / says / said + (to someone)",
+    "example": {
+     "en": "He said to us that he was busy.",
+     "uz": "U bizga bandligini aytdi."
+    }
+   },
+   {
+    "type": "+",
+    "formula": "Subject + tell / tells / told + someone + something",
+    "example": {
+     "en": "He told us that he was busy.",
+     "uz": "U bizga bandligini aytdi."
+    }
+   }
+  ],
+  "signals": [
+   {
+    "en": "tell someone",
+    "uz": "kimgadir aytmoq"
+   },
+   {
+    "en": "say to someone",
+    "uz": "kimgadir demoq"
+   },
+   {
+    "en": "tell a lie",
+    "uz": "yolg'on gapirmoq"
+   },
+   {
+    "en": "say sorry",
+    "uz": "uzr so'ramoq"
+   }
+  ],
+  "tip": "Eslatma: He told me to'g'ri, lekin He said me noto'g'ri. Say dan keyin 'to' kerak!"
+ },
+ {
+  "name": "Pronoun and time-word changes",
+  "name_uz": "Olmoshlar va payt so'zlarining o'zgarishi",
+  "summary": "O'zlashtirma gap tuzganda vaqt va joyni bildiruvchi so'zlar hamda olmoshlar vaziyatga qarab o'zgaradi.",
+  "usage": [
+   {
+    "text": "Payt so'zlari o'tmishdagi paytga moslab o'zgartiriladi (masalan, bugun - o'sha kuni).",
+    "example": {
+     "en": "He said, 'I will go today.' -> He said he would go that day.",
+     "uz": "U 'Bugun boraman' dedi -> U o'sha kuni borishini aytdi."
+    }
+   },
+   {
+    "text": "Shaxs olmoshlari gapni kim aytayotganiga qarab moslashtiriladi.",
+    "example": {
+     "en": "She said, 'I like my car.' -> She said she liked her car.",
+     "uz": "U 'Mashinamni yoqtiraman' dedi -> U o'z mashinasini yoqtirishini aytdi."
+    }
+   },
+   {
+    "text": "Ko'rsatish olmoshlari (this/these) ham o'zgaradi.",
+    "example": {
+     "en": "He said, 'I want this book.' -> He wanted that book.",
+     "uz": "U 'Bu kitobni xohlayman' dedi -> U o'sha kitobni xohlashini aytdi."
+    }
+   }
+  ],
+  "structure": [
+   {
+    "type": "+",
+    "formula": "today -> that day / now -> then / here -> there",
+    "example": {
+     "en": "She said she was busy then.",
+     "uz": "U o'sha paytda band ekanligini aytdi."
+    }
+   },
+   {
+    "type": "+",
+    "formula": "yesterday -> the day before / tomorrow -> the next day",
+    "example": {
+     "en": "He said he would come the next day.",
+     "uz": "U ertasi kuni kelishini aytdi."
+    }
+   }
+  ],
+  "signals": [
+   {
+    "en": "now -> then",
+    "uz": "hozir -> o'sha paytda"
+   },
+   {
+    "en": "today -> that day",
+    "uz": "bugun -> o'sha kuni"
+   },
+   {
+    "en": "yesterday -> the day before",
+    "uz": "kecha -> bir kun oldin"
+   },
+   {
+    "en": "tomorrow -> the following day",
+    "uz": "ertaga -> keyingi kuni"
+   },
+   {
+    "en": "here -> there",
+    "uz": "bu yerda -> u yerda"
+   }
+  ],
+  "tip": "Eslatma: Agar suhbat o'sha kuni va o'sha joyning o'zida bo'lib o'tayotgan bo'lsa, payt so'zlari o'zgarmasligi ham mumkin."
+ }
+]

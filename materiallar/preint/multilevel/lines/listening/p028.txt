@@ -1,0 +1,40 @@
+﻿80`t21`t130`tPort I
+142`t28`t162`tExercise 44
+77`t18`t1002`t29
+199`t21`t160`tYou will hear sentences. You will hear each sentence twice. Choose the
+233`t25`t155`tbest reply to the sentence.
+280`t22`t154`t1. Al like ita lot.
+314`t21`t180`tB I don't think so.
+349`t22`t178`tC He's very kind.
+404`t25`t148`t2. A Yes, that's right.
+440`t22`t174`tB You must go there.
+473`t22`t172`tC I can't do it.
+529`t24`t141`t3. A No, that'll be fine.
+565`t22`t169`tB What would you like?
+600`t26`t167`tC It hasn't happened yet.
+683`t27`t136`tExercise 45
+284`t22`t622`t4. A I don't think so.
+318`t28`t651`tB That's a good idea.
+354`t27`t649`tC It's possible, yes.
+409`t26`t620`t5. A I'll bring it to you.
+443`t21`t648`tB Of course I don't.
+478`t22`t647`tC It wasn't me.
+739`t21`t135`tYou will hear sentences. You will hear each sentence twice. Choose the
+781`t26`t130`tbest reply to the sentence.
+829`t27`t129`t1. A But I think he found his job quite stressful.
+866`t26`t163`tB I'll let him know what they decided.
+903`t28`t161`tC Well, I just hope you're right.
+960`t22`t122`t2. A That's not necessary, thanks.
+996`t26`t157`tB You could always check with Mary.
+1030`t28`t155`tC Sorry, I haven't had a chance to think about it.
+1093`t27`t116`t3. A It was really useful, thanks.
+1131`t24`t151`tB I'll forward the email to you.
+1167`t29`t149`tC I'm not sure that's completely true.
+1225`t23`t110`t4. A You'll find out if you check the details.
+1262`t23`t145`tB What was his reaction when he saw it?
+1306`t23`t144`tC It's better to be safe than sorry.
+1360`t29`t105`t5. A In that case I might have to think about another day.
+1401`t23`t140`tB That would be ideal if it's still available.
+1440`t29`t138`tC I'd welcome your thoughts on the matter.
+1524`t26`t551`tDargangizni aniqlash uchun: mytests. uz
+1653`t9`t1022`tScanned With

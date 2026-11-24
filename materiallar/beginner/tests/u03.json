@@ -1,0 +1,80 @@
+{
+  "code": "U3", "kind": "unit", "unit": 3, "price": 20000,
+  "title": "Unit 3 Test",
+  "subtitle": "Jobs · negatives · questions & short answers · personal information",
+  "sections": [
+    {
+      "title": "A. Make the sentences negative.",
+      "items": [
+        { "t": "text", "q": "She’s a teacher.", "a": ["She isn’t a teacher", "She’s not a teacher", "She is not a teacher"] },
+        { "t": "text", "q": "I’m from Bukhara.", "a": ["I’m not from Bukhara", "I am not from Bukhara"] },
+        { "t": "text", "q": "They’re married.", "a": ["They aren’t married", "They’re not married", "They are not married"] },
+        { "t": "text", "q": "He’s 19.", "a": ["He isn’t 19", "He’s not 19", "He is not 19"] },
+        { "t": "text", "q": "We’re students.", "a": ["We aren’t students", "We’re not students", "We are not students"] }
+      ]
+    },
+    {
+      "title": "B. Read the card and write the questions.",
+      "passage": "STUDENT CARD — First name: Shahzoda · Surname: Karimova · Country: Uzbekistan · Age: 21 · Job: student · Phone: 90 456 78 12 · Married: no",
+      "items": [
+        { "t": "text", "q": "______? — Karimova.", "a": ["What’s her surname", "What is her surname"] },
+        { "t": "text", "q": "______? — Uzbekistan.", "a": ["Where’s she from", "Where is she from"] },
+        { "t": "text", "q": "______? — 21.", "a": ["How old is she"] },
+        { "t": "text", "q": "______? — She’s a student.", "a": ["What’s her job", "What is her job", "What does she do"] },
+        { "t": "text", "q": "______? — No, she isn’t.", "a": ["Is she married"] }
+      ]
+    },
+    {
+      "title": "C. Write short answers.",
+      "items": [
+        { "t": "mc", "q": "Are you a student? (✓)", "o": ["Yes, I am.", "Yes, I’m.", "Yes, you are.", "Yes, I is."], "a": 0 },
+        { "t": "mc", "q": "Is he a doctor? (✗)", "o": ["No, he not.", "No, he isn’t.", "No, he aren’t.", "No, isn’t he."], "a": 1 },
+        { "t": "mc", "q": "Are they from Egypt? (✓)", "o": ["Yes, they’re.", "Yes, they is.", "Yes, they are.", "Yes, are they."], "a": 2 },
+        { "t": "mc", "q": "Is your phone number 334 21 90? (✗)", "o": ["No, it isn’t.", "No, it not.", "No, is it.", "No, it aren’t."], "a": 0 },
+        { "t": "mc", "q": "Am I late? (✗)", "o": ["No, you isn’t.", "No, I’m not.", "No, you aren’t.", "No, you not."], "a": 2 }
+      ]
+    },
+    {
+      "title": "D. Write the job.",
+      "items": [
+        { "t": "text", "q": "He works in a hospital. He’s a ______. (shifokor)", "a": ["doctor"] },
+        { "t": "text", "q": "She works in a shop. She’s a shop ______.", "a": ["assistant"] },
+        { "t": "text", "q": "He drives a taxi. He’s a ______ driver.", "a": ["taxi"] },
+        { "t": "text", "q": "She works in a school. She’s a ______.", "a": ["teacher"] },
+        { "t": "text", "q": "He makes food in a restaurant. He’s a ______. (oshpaz)", "a": ["chef", "cook"] },
+        { "t": "text", "q": "She works in a hospital. She isn’t a doctor. She’s a ______. (hamshira)", "a": ["nurse"] }
+      ]
+    },
+    {
+      "title": "E. Choose a or an.",
+      "items": [
+        { "t": "mc", "q": "She’s ______ engineer.", "o": ["a", "an"], "a": 1 },
+        { "t": "mc", "q": "He’s ______ police officer.", "o": ["a", "an"], "a": 0 },
+        { "t": "mc", "q": "I’m ______ actor.", "o": ["a", "an"], "a": 1 },
+        { "t": "mc", "q": "It’s ______ orange.", "o": ["a", "an"], "a": 1 },
+        { "t": "mc", "q": "My father is ______ businessman.", "o": ["a", "an"], "a": 0 }
+      ]
+    },
+    {
+      "title": "F. Read the text. Are the sentences true or false?",
+      "passage": "This is Nigora and this is Daniyar. They’re from Namangan, but now they live in Tashkent. Nigora is 28 and she’s an accountant. She works in a bank. Daniyar is 30. He isn’t an accountant, he’s a mechanic. His garage is near the bank. Nigora and Daniyar aren’t married — they’re brother and sister.",
+      "items": [
+        { "t": "tf", "q": "Nigora and Daniyar are from Namangan.", "a": true },
+        { "t": "tf", "q": "Nigora is 30.", "a": false },
+        { "t": "tf", "q": "Nigora works in a bank.", "a": true },
+        { "t": "tf", "q": "Daniyar is an accountant.", "a": false },
+        { "t": "tf", "q": "The garage is near the bank.", "a": true },
+        { "t": "tf", "q": "Nigora and Daniyar are married.", "a": false }
+      ]
+    },
+    {
+      "title": "G. Choose Good morning, Good afternoon, Good evening, or Good night.",
+      "items": [
+        { "t": "mc", "q": "08:00 — at school", "o": ["Good morning", "Good afternoon", "Good evening", "Good night"], "a": 0 },
+        { "t": "mc", "q": "15:00 — in the office", "o": ["Good morning", "Good afternoon", "Good evening", "Good night"], "a": 1 },
+        { "t": "mc", "q": "19:00 — at a restaurant", "o": ["Good morning", "Good afternoon", "Good evening", "Good night"], "a": 2 },
+        { "t": "mc", "q": "23:00 — before bed", "o": ["Good morning", "Good afternoon", "Good evening", "Good night"], "a": 3 }
+      ]
+    }
+  ]
+}

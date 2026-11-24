@@ -1,0 +1,7278 @@
+{
+ "1": {
+  "ok": true,
+  "model": "gemini-3-flash-preview",
+  "words": 123,
+  "data": {
+   "title": "Nice to Meet You",
+   "setting": "Two students meet for the first time at a university in the United States.",
+   "speakers": [
+    "Ben",
+    "Leo"
+   ],
+   "lines": [
+    {
+     "speaker": "Ben",
+     "text": "Hello! I am Ben. What is your name?"
+    },
+    {
+     "speaker": "Leo",
+     "text": "Hi Ben. I am Leo. Nice to meet you."
+    },
+    {
+     "speaker": "Ben",
+     "text": "Nice to meet you, too. What is your surname, Leo?"
+    },
+    {
+     "speaker": "Leo",
+     "text": "My surname is Miller. I am from London."
+    },
+    {
+     "speaker": "Ben",
+     "text": "Oh, London is a big city. I am from New York."
+    },
+    {
+     "speaker": "Leo",
+     "text": "New York is great! I am a student here. Are you a student?"
+    },
+    {
+     "speaker": "Ben",
+     "text": "Yes, I am a student, too. I am twenty years old. What is your age?"
+    },
+    {
+     "speaker": "Leo",
+     "text": "I am twenty-one. I live in a small apartment."
+    },
+    {
+     "speaker": "Ben",
+     "text": "I live in a house. Do you speak English and Spanish?"
+    },
+    {
+     "speaker": "Leo",
+     "text": "Yes, I speak two languages. English is my first language."
+    },
+    {
+     "speaker": "Ben",
+     "text": "I speak English and French. It is good to meet you, Leo."
+    },
+    {
+     "speaker": "Leo",
+     "text": "You too, Ben. See you in class!"
+    }
+   ],
+   "tf": [
+    {
+     "q": "Leo's surname is Miller.",
+     "answer": true
+    },
+    {
+     "q": "Ben is from London.",
+     "answer": false
+    },
+    {
+     "q": "Leo is twenty-one years old.",
+     "answer": true
+    },
+    {
+     "q": "Ben lives in an apartment.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "What is Ben's job?",
+     "options": [
+      "Teacher",
+      "Student",
+      "Doctor"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Where is Leo from?",
+     "options": [
+      "New York",
+      "London",
+      "Madrid"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "How many languages does Leo speak?",
+     "options": [
+      "One",
+      "Two",
+      "Three"
+     ],
+     "answer": 1
+    }
+   ],
+   "gaps": [
+    {
+     "q": "London is a big ______.",
+     "answer": "city"
+    },
+    {
+     "q": "I ______ in a house.",
+     "answer": "live"
+    },
+    {
+     "q": "English is my first ______.",
+     "answer": "language"
+    }
+   ]
+  }
+ },
+ "2": {
+  "ok": true,
+  "model": "gemini-3-flash-preview",
+  "words": 110,
+  "data": {
+   "title": "New Friends at School",
+   "setting": "Two friends are talking about a new student at their school.",
+   "speakers": [
+    "Ali",
+    "Kevin"
+   ],
+   "lines": [
+    {
+     "speaker": "Ali",
+     "text": "Hi Kevin. Look at that new student over there."
+    },
+    {
+     "speaker": "Kevin",
+     "text": "Oh, yes. He is very tall. Where does he come from?"
+    },
+    {
+     "speaker": "Ali",
+     "text": "He comes from Uzbekistan. His name is Aziz."
+    },
+    {
+     "speaker": "Kevin",
+     "text": "Is his nationality Uzbek?"
+    },
+    {
+     "speaker": "Ali",
+     "text": "Yes, it is. He was born in Tashkent."
+    },
+    {
+     "speaker": "Kevin",
+     "text": "Is Tashkent the capital city of his country?"
+    },
+    {
+     "speaker": "Ali",
+     "text": "Yes, it is a very big and beautiful city."
+    },
+    {
+     "speaker": "Kevin",
+     "text": "Does he have many foreign friends here?"
+    },
+    {
+     "speaker": "Ali",
+     "text": "Yes, he does. He is friends with Maria and Elena."
+    },
+    {
+     "speaker": "Kevin",
+     "text": "Are they from Uzbekistan too?"
+    },
+    {
+     "speaker": "Ali",
+     "text": "No, they are not. They are from Italy."
+    },
+    {
+     "speaker": "Kevin",
+     "text": "Are they happy to be abroad?"
+    },
+    {
+     "speaker": "Ali",
+     "text": "Yes, they are. They like this school very much."
+    },
+    {
+     "speaker": "Kevin",
+     "text": "That is good. I want to meet them."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Aziz is from Uzbekistan.",
+     "answer": true
+    },
+    {
+     "q": "Tashkent is a small city.",
+     "answer": false
+    },
+    {
+     "q": "Maria and Elena are from Italy.",
+     "answer": true
+    },
+    {
+     "q": "Kevin is already best friends with Aziz.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "What is Aziz's nationality?",
+     "options": [
+      "Italian",
+      "Uzbek",
+      "American"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Where was Aziz born?",
+     "options": [
+      "Tashkent",
+      "Rome",
+      "Paris"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Where are Maria and Elena from?",
+     "options": [
+      "Uzbekistan",
+      "Italy",
+      "France"
+     ],
+     "answer": 1
+    }
+   ],
+   "gaps": [
+    {
+     "q": "Is Tashkent the ______ city of his country?",
+     "answer": "capital"
+    },
+    {
+     "q": "Does he have many ______ friends here?",
+     "answer": "foreign"
+    },
+    {
+     "q": "Are they happy to be ______?",
+     "answer": "abroad"
+    }
+   ]
+  }
+ },
+ "3": {
+  "ok": true,
+  "model": "gemini-3-flash-preview",
+  "words": 136,
+  "data": {
+   "title": "Daniel's Family Photo",
+   "setting": "Two friends are looking at a picture on a cell phone.",
+   "speakers": [
+    "Daniel",
+    "Omar"
+   ],
+   "lines": [
+    {
+     "speaker": "Daniel",
+     "text": "Hi Omar. Look at this photo on my phone. It is from last summer."
+    },
+    {
+     "speaker": "Omar",
+     "text": "Oh, is this your family? It is a great picture."
+    },
+    {
+     "speaker": "Daniel",
+     "text": "Yes. This is my mother and this is my father. They are in the park."
+    },
+    {
+     "speaker": "Omar",
+     "text": "They look very happy. Have you got any brothers or sisters?"
+    },
+    {
+     "speaker": "Daniel",
+     "text": "Yes, I have. I've got one older brother and one younger sister."
+    },
+    {
+     "speaker": "Omar",
+     "text": "What are their names?"
+    },
+    {
+     "speaker": "Daniel",
+     "text": "My brother's name is Leo. He is twenty-five. My sister's name is Sara. She is only ten."
+    },
+    {
+     "speaker": "Omar",
+     "text": "And who are the people behind your parents in the photo?"
+    },
+    {
+     "speaker": "Daniel",
+     "text": "They are my grandfather and my grandmother. They live in a house in New York."
+    },
+    {
+     "speaker": "Omar",
+     "text": "That is a very big family, Daniel."
+    },
+    {
+     "speaker": "Daniel",
+     "text": "It is! Have you got a photo of your family here?"
+    },
+    {
+     "speaker": "Omar",
+     "text": "No, I haven't got one on my phone today."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Daniel has got two brothers.",
+     "answer": false
+    },
+    {
+     "q": "Sara is ten years old.",
+     "answer": true
+    },
+    {
+     "q": "Daniel's grandparents live in New York.",
+     "answer": true
+    },
+    {
+     "q": "Omar has a photo of his family on his phone.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "Where are Daniel's parents in the photo?",
+     "options": [
+      "In a house",
+      "In the park",
+      "In New York"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "How old is Leo?",
+     "options": [
+      "Ten",
+      "Twenty",
+      "Twenty-five"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "Who is behind the parents in the photo?",
+     "options": [
+      "A brother and sister",
+      "A mother and father",
+      "A grandfather and grandmother"
+     ],
+     "answer": 2
+    }
+   ],
+   "gaps": [
+    {
+     "q": "I've got one ______ brother and one younger sister.",
+     "answer": "older"
+    },
+    {
+     "q": "They live in a ______ in New York.",
+     "answer": "house"
+    },
+    {
+     "q": "No, I haven't got one on my ______ today.",
+     "answer": "phone"
+    }
+   ]
+  }
+ },
+ "4": {
+  "ok": true,
+  "model": "gemini-3-flash-preview",
+  "words": 132,
+  "data": {
+   "title": "Mark's Best Friend",
+   "setting": "Mark and Paul are sitting at a small cafe looking at photos on a phone.",
+   "speakers": [
+    "Mark",
+    "Paul"
+   ],
+   "lines": [
+    {
+     "speaker": "Mark",
+     "text": "Look at this photo on my phone, Paul."
+    },
+    {
+     "speaker": "Paul",
+     "text": "Oh, who is that man in the blue shirt?"
+    },
+    {
+     "speaker": "Mark",
+     "text": "He is Sam. He is my best friend."
+    },
+    {
+     "speaker": "Paul",
+     "text": "Is he a teacher at your school?"
+    },
+    {
+     "speaker": "Mark",
+     "text": "No, he is not a teacher. He is a doctor. He is 30 years old."
+    },
+    {
+     "speaker": "Paul",
+     "text": "He looks very nice in the photo. Is he a nice person?"
+    },
+    {
+     "speaker": "Mark",
+     "text": "Yes, Sam is very kind. He is also a very funny person."
+    },
+    {
+     "speaker": "Paul",
+     "text": "That is good. Is he smart?"
+    },
+    {
+     "speaker": "Mark",
+     "text": "Yes, he is very clever. He is very honest too."
+    },
+    {
+     "speaker": "Paul",
+     "text": "Do you see him often during the week?"
+    },
+    {
+     "speaker": "Mark",
+     "text": "Yes, we are together every Saturday. We play soccer."
+    },
+    {
+     "speaker": "Paul",
+     "text": "It is important to have a good friend like that."
+    },
+    {
+     "speaker": "Mark",
+     "text": "I agree. I trust him completely. He is always there to help me."
+    },
+    {
+     "speaker": "Paul",
+     "text": "You are very lucky, Mark."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Sam is Mark's brother.",
+     "answer": false
+    },
+    {
+     "q": "Sam is 30 years old.",
+     "answer": true
+    },
+    {
+     "q": "Mark and Sam meet every Sunday.",
+     "answer": false
+    },
+    {
+     "q": "Sam is a clever person.",
+     "answer": true
+    }
+   ],
+   "mc": [
+    {
+     "q": "What is Sam's job?",
+     "options": [
+      "Teacher",
+      "Doctor",
+      "Soccer player"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "When are the two friends together?",
+     "options": [
+      "Every Saturday",
+      "Every Friday",
+      "Every Monday"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Which adjective does Mark use to describe Sam?",
+     "options": [
+      "Angry",
+      "Lazy",
+      "Funny"
+     ],
+     "answer": 2
+    }
+   ],
+   "gaps": [
+    {
+     "q": "He is my ______ friend.",
+     "answer": "best"
+    },
+    {
+     "q": "Yes, he is very ______.",
+     "answer": "clever"
+    },
+    {
+     "q": "I ______ him completely.",
+     "answer": "trust"
+    }
+   ]
+  }
+ },
+ "5": {
+  "ok": true,
+  "model": "gemini-3-flash-preview",
+  "words": 126,
+  "data": {
+   "title": "Sam's Home Country",
+   "setting": "Tom and Sam are talking in a classroom.",
+   "speakers": [
+    "Tom",
+    "Sam"
+   ],
+   "lines": [
+    {
+     "speaker": "Tom",
+     "text": "Hi Sam. It is nice to meet you. Where are you from?"
+    },
+    {
+     "speaker": "Sam",
+     "text": "I am from Uzbekistan. It is a beautiful country in Central Asia."
+    },
+    {
+     "speaker": "Tom",
+     "text": "Oh, that is interesting! Is it a big country?"
+    },
+    {
+     "speaker": "Sam",
+     "text": "Yes, it is quite big. The population is 36 million people."
+    },
+    {
+     "speaker": "Tom",
+     "text": "What is the country famous for?"
+    },
+    {
+     "speaker": "Sam",
+     "text": "It is famous for ancient cities and a long history."
+    },
+    {
+     "speaker": "Tom",
+     "text": "Is the weather nice there?"
+    },
+    {
+     "speaker": "Sam",
+     "text": "Yes, it is very sunny and warm. We have 300 sunny days a year."
+    },
+    {
+     "speaker": "Tom",
+     "text": "Are the people friendly?"
+    },
+    {
+     "speaker": "Sam",
+     "text": "Yes, the people are very hospitable. They are happy to help every tourist."
+    },
+    {
+     "speaker": "Tom",
+     "text": "What is the food like?"
+    },
+    {
+     "speaker": "Sam",
+     "text": "The food is great. Our fruit is very sweet and delicious."
+    },
+    {
+     "speaker": "Tom",
+     "text": "That sounds wonderful. I want to visit Uzbekistan one day!"
+    },
+    {
+     "speaker": "Sam",
+     "text": "You are always welcome!"
+    }
+   ],
+   "tf": [
+    {
+     "q": "Sam is from Central Asia.",
+     "answer": true
+    },
+    {
+     "q": "The population of Uzbekistan is 13 million.",
+     "answer": false
+    },
+    {
+     "q": "The country has 300 sunny days every year.",
+     "answer": true
+    },
+    {
+     "q": "The fruit in Sam's country is sour.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "How many people live in Uzbekistan?",
+     "options": [
+      "20 million",
+      "36 million",
+      "50 million"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What is the country famous for?",
+     "options": [
+      "Modern malls",
+      "Big forests",
+      "Ancient cities"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "Who is happy to help every tourist?",
+     "options": [
+      "The people",
+      "The police",
+      "The pilots"
+     ],
+     "answer": 0
+    }
+   ],
+   "gaps": [
+    {
+     "q": "It is a beautiful country in Central ______.",
+     "answer": "Asia"
+    },
+    {
+     "q": "The ______ is 36 million people.",
+     "answer": "population"
+    },
+    {
+     "q": "It is famous for ______ cities and a long history.",
+     "answer": "ancient"
+    }
+   ]
+  }
+ },
+ "6": {
+  "ok": true,
+  "model": "gemini-3-flash-preview",
+  "words": 140,
+  "data": {
+   "title": "A Photo of the Village",
+   "setting": "Mike and Chris are looking at a photo on a phone.",
+   "speakers": [
+    "Mike",
+    "Chris"
+   ],
+   "lines": [
+    {
+     "speaker": "Mike",
+     "text": "Hi Chris. Is this a photo of your hometown?"
+    },
+    {
+     "speaker": "Chris",
+     "text": "Yes, it is. It is a small village in the mountains. Look at the trees."
+    },
+    {
+     "speaker": "Mike",
+     "text": "It looks very beautiful. Are there many houses in the photo?"
+    },
+    {
+     "speaker": "Chris",
+     "text": "No, there are only thirty houses. It is a very quiet place."
+    },
+    {
+     "speaker": "Mike",
+     "text": "Is there a park for children to play?"
+    },
+    {
+     "speaker": "Chris",
+     "text": "No, there isn't a park, but there is a big forest next to the houses."
+    },
+    {
+     "speaker": "Mike",
+     "text": "That is nice. Are there any shops for food?"
+    },
+    {
+     "speaker": "Chris",
+     "text": "There is one small market on the main street. It is open every day."
+    },
+    {
+     "speaker": "Mike",
+     "text": "Is the main street noisy?"
+    },
+    {
+     "speaker": "Chris",
+     "text": "No, there are no cars in my village. It is very peaceful."
+    },
+    {
+     "speaker": "Mike",
+     "text": "That is amazing. Is there a school for the children?"
+    },
+    {
+     "speaker": "Chris",
+     "text": "Yes, there is a small school. There are twelve students in the class."
+    },
+    {
+     "speaker": "Mike",
+     "text": "Your village is very interesting and pretty!"
+    }
+   ],
+   "tf": [
+    {
+     "q": "The village is in the mountains.",
+     "answer": true
+    },
+    {
+     "q": "There are fifty houses in the village.",
+     "answer": false
+    },
+    {
+     "q": "There is a park for children in the village.",
+     "answer": false
+    },
+    {
+     "q": "There are no cars in the village.",
+     "answer": true
+    }
+   ],
+   "mc": [
+    {
+     "q": "How many students are in the school class?",
+     "options": [
+      "Ten",
+      "Twelve",
+      "Thirty"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Where is the small market located?",
+     "options": [
+      "In the forest",
+      "On the main street",
+      "Next to the school"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What is next to the houses?",
+     "options": [
+      "A big forest",
+      "A noisy market",
+      "A large park"
+     ],
+     "answer": 0
+    }
+   ],
+   "gaps": [
+    {
+     "q": "It is a small ______ in the mountains.",
+     "answer": "village"
+    },
+    {
+     "q": "There is one small ______ on the main street.",
+     "answer": "market"
+    },
+    {
+     "q": "It is a very ______ place.",
+     "answer": "quiet"
+    }
+   ]
+  }
+ },
+ "7": {
+  "ok": true,
+  "model": "gemini-3-flash-preview",
+  "words": 123,
+  "data": {
+   "title": "A Visit to the City",
+   "setting": "Jack and Liam meet in a park on a Saturday afternoon.",
+   "speakers": [
+    "Jack",
+    "Liam"
+   ],
+   "lines": [
+    {
+     "speaker": "Jack",
+     "text": "Hi Liam! Do you live near here?"
+    },
+    {
+     "speaker": "Liam",
+     "text": "Yes, I live in that blue house. My neighbor is very friendly."
+    },
+    {
+     "speaker": "Jack",
+     "text": "That is nice. I live far away, but I visit my relatives here every week."
+    },
+    {
+     "speaker": "Liam",
+     "text": "Do you have a large family?"
+    },
+    {
+     "speaker": "Jack",
+     "text": "Yes, I do. Today, I spend time with my cousin, David."
+    },
+    {
+     "speaker": "Liam",
+     "text": "Is David a student?"
+    },
+    {
+     "speaker": "Jack",
+     "text": "No, he is a doctor. We are very close friends too."
+    },
+    {
+     "speaker": "Liam",
+     "text": "I also have a good friend here. His name is Ryan."
+    },
+    {
+     "speaker": "Jack",
+     "text": "Is Ryan a classmate from school?"
+    },
+    {
+     "speaker": "Liam",
+     "text": "No, he is a coworker. We work together at the big bank on Main Street."
+    },
+    {
+     "speaker": "Jack",
+     "text": "That is interesting. We are hungry now. Do you want to eat lunch with us?"
+    },
+    {
+     "speaker": "Liam",
+     "text": "I can't today. I have a meeting at two o'clock."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Liam lives in a blue house.",
+     "answer": true
+    },
+    {
+     "q": "David is a student.",
+     "answer": false
+    },
+    {
+     "q": "Jack visits his relatives every week.",
+     "answer": true
+    },
+    {
+     "q": "Liam has a meeting at three o'clock.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "Who is David?",
+     "options": [
+      "Jack's cousin",
+      "Jack's classmate",
+      "Liam's neighbor"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Where do Liam and Ryan work?",
+     "options": [
+      "At a school",
+      "At a bank",
+      "At a hospital"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What time is Liam's meeting?",
+     "options": [
+      "At one o'clock",
+      "At two o'clock",
+      "At four o'clock"
+     ],
+     "answer": 1
+    }
+   ],
+   "gaps": [
+    {
+     "q": "My ______ is very friendly.",
+     "answer": "neighbor"
+    },
+    {
+     "q": "We are very ______ friends too.",
+     "answer": "close"
+    },
+    {
+     "q": "Is Ryan a ______ from school?",
+     "answer": "classmate"
+    }
+   ]
+  }
+ },
+ "8": {
+  "ok": true,
+  "model": "gemini-3-flash-preview",
+  "words": 127,
+  "data": {
+   "title": "A Photo of a Friend",
+   "setting": "Two friends are looking at a photo on a phone.",
+   "speakers": [
+    "David",
+    "Robert"
+   ],
+   "lines": [
+    {
+     "speaker": "David",
+     "text": "Hi Robert. Look at this photo on my phone. Is that your new friend?"
+    },
+    {
+     "speaker": "Robert",
+     "text": "Yes, it is. His name is Alex. We are in the same class."
+    },
+    {
+     "speaker": "David",
+     "text": "He is very tall. Has he got dark hair?"
+    },
+    {
+     "speaker": "Robert",
+     "text": "No, he has got blond hair and blue eyes. He is very slim."
+    },
+    {
+     "speaker": "David",
+     "text": "He looks nice. Is he a shy person?"
+    },
+    {
+     "speaker": "Robert",
+     "text": "No, he isn't. He is very friendly and hard-working. He studies at the library until 8 p.m."
+    },
+    {
+     "speaker": "David",
+     "text": "That is great. Has he got any siblings?"
+    },
+    {
+     "speaker": "Robert",
+     "text": "Yes, he has got one brother. His name is Peter."
+    },
+    {
+     "speaker": "David",
+     "text": "Is Peter tall like Alex?"
+    },
+    {
+     "speaker": "Robert",
+     "text": "No, Peter is very short. He has got dark hair and green eyes."
+    },
+    {
+     "speaker": "David",
+     "text": "Where does Peter work?"
+    },
+    {
+     "speaker": "Robert",
+     "text": "He works at the local library with Alex. They are both very helpful."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Alex has got dark hair.",
+     "answer": false
+    },
+    {
+     "q": "Alex is hard-working.",
+     "answer": true
+    },
+    {
+     "q": "Peter is Alex's brother.",
+     "answer": true
+    },
+    {
+     "q": "Peter is very tall.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "What color are Alex's eyes?",
+     "options": [
+      "Blue",
+      "Green",
+      "Dark"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Until what time does Alex study?",
+     "options": [
+      "6 p.m.",
+      "7 p.m.",
+      "8 p.m."
+     ],
+     "answer": 2
+    },
+    {
+     "q": "Where do the brothers work?",
+     "options": [
+      "A school",
+      "A library",
+      "A bank"
+     ],
+     "answer": 1
+    }
+   ],
+   "gaps": [
+    {
+     "q": "He is very ______.",
+     "answer": "slim"
+    },
+    {
+     "q": "No, Peter is very ______.",
+     "answer": "short"
+    },
+    {
+     "q": "He has got ______ hair and green eyes.",
+     "answer": "dark"
+    }
+   ]
+  }
+ },
+ "9": {
+  "ok": true,
+  "model": "gemini-3-flash-preview",
+  "words": 124,
+  "data": {
+   "title": "New Hobbies",
+   "setting": "Alex and Ryan are talking in the cafeteria.",
+   "speakers": [
+    "Alex",
+    "Ryan"
+   ],
+   "lines": [
+    {
+     "speaker": "Alex",
+     "text": "Hi Ryan. What do you do in your free time?"
+    },
+    {
+     "speaker": "Ryan",
+     "text": "I have a new hobby. I like drawing pictures of animals."
+    },
+    {
+     "speaker": "Alex",
+     "text": "That is very interesting! Are you good at drawing?"
+    },
+    {
+     "speaker": "Ryan",
+     "text": "No, I am a beginner. But it is a very relaxing activity for me."
+    },
+    {
+     "speaker": "Alex",
+     "text": "I understand. My favorite hobby is playing basketball."
+    },
+    {
+     "speaker": "Ryan",
+     "text": "Oh, do you like playing with your friends?"
+    },
+    {
+     "speaker": "Alex",
+     "text": "Yes, I play every Saturday morning at ten o'clock. We go to the park near the school."
+    },
+    {
+     "speaker": "Ryan",
+     "text": "Do you enjoy other sports too?"
+    },
+    {
+     "speaker": "Alex",
+     "text": "I enjoy hiking in the big mountains. It is very quiet and beautiful there."
+    },
+    {
+     "speaker": "Ryan",
+     "text": "That sounds very nice. I want to try hiking next month."
+    },
+    {
+     "speaker": "Alex",
+     "text": "You can come with me next Sunday morning!"
+    },
+    {
+     "speaker": "Ryan",
+     "text": "Thank you, Alex. That is a great idea."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Ryan thinks drawing is relaxing.",
+     "answer": true
+    },
+    {
+     "q": "Alex plays basketball at night.",
+     "answer": false
+    },
+    {
+     "q": "Alex likes hiking in the mountains.",
+     "answer": true
+    },
+    {
+     "q": "Ryan is very good at drawing.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "What does Ryan like drawing?",
+     "options": [
+      "animals",
+      "trees",
+      "cars"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "When does Alex play basketball?",
+     "options": [
+      "On Friday",
+      "On Saturday",
+      "On Sunday"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Where does Alex go to play basketball?",
+     "options": [
+      "To a gym",
+      "To a stadium",
+      "To a park"
+     ],
+     "answer": 2
+    }
+   ],
+   "gaps": [
+    {
+     "q": "But it is a very ______ activity for me.",
+     "answer": "relaxing"
+    },
+    {
+     "q": "My ______ hobby is playing basketball.",
+     "answer": "favorite"
+    },
+    {
+     "q": "It is very ______ and beautiful there.",
+     "answer": "quiet"
+    }
+   ]
+  }
+ },
+ "10": {
+  "ok": true,
+  "model": "gemini-3-flash-preview",
+  "words": 125,
+  "data": {
+   "title": "Weekend Plans",
+   "setting": "Peter and John are talking about their free time.",
+   "speakers": [
+    "Peter",
+    "John"
+   ],
+   "lines": [
+    {
+     "speaker": "Peter",
+     "text": "Hi John. What do you usually do on the weekend?"
+    },
+    {
+     "speaker": "John",
+     "text": "I usually stay at home to relax. I am very tired after work."
+    },
+    {
+     "speaker": "Peter",
+     "text": "Do you watch TV in the living room?"
+    },
+    {
+     "speaker": "John",
+     "text": "Yes, I often watch movies on Saturday night. I like action movies."
+    },
+    {
+     "speaker": "Peter",
+     "text": "I never watch movies. I sometimes go for a walk in the park."
+    },
+    {
+     "speaker": "John",
+     "text": "Do you go with your dog?"
+    },
+    {
+     "speaker": "Peter",
+     "text": "Yes, I go at 10:00 AM on Sunday morning. The park is big and green."
+    },
+    {
+     "speaker": "John",
+     "text": "I sometimes go for a walk, but only in the afternoon."
+    },
+    {
+     "speaker": "Peter",
+     "text": "Do you go to the city gym?"
+    },
+    {
+     "speaker": "John",
+     "text": "No, I never go to the gym. I am very lazy!"
+    },
+    {
+     "speaker": "Peter",
+     "text": "Well, I often go to the gym on Friday evening."
+    },
+    {
+     "speaker": "John",
+     "text": "That is good for you. Enjoy your weekend, Peter!"
+    }
+   ],
+   "tf": [
+    {
+     "q": "John is tired after work.",
+     "answer": true
+    },
+    {
+     "q": "Peter watches movies every Saturday.",
+     "answer": false
+    },
+    {
+     "q": "Peter goes for a walk on Sunday.",
+     "answer": true
+    },
+    {
+     "q": "John often goes to the gym.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "What kind of movies does John like?",
+     "options": [
+      "Comedy",
+      "Action",
+      "Horror"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What time does Peter go to the park?",
+     "options": [
+      "10:00 AM",
+      "2:00 PM",
+      "5:00 PM"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "When does Peter go to the gym?",
+     "options": [
+      "Friday",
+      "Saturday",
+      "Sunday"
+     ],
+     "answer": 0
+    }
+   ],
+   "gaps": [
+    {
+     "q": "I usually stay at home to ______.",
+     "answer": "relax"
+    },
+    {
+     "q": "The park is big and ______.",
+     "answer": "green"
+    },
+    {
+     "q": "I am very ______!",
+     "answer": "lazy"
+    }
+   ]
+  }
+ },
+ "11": {
+  "ok": true,
+  "model": "gemini-3-flash-preview",
+  "words": 115,
+  "data": {
+   "title": "Adam and Brian's Routine",
+   "setting": "Two friends talk about their daily schedules in the park.",
+   "speakers": [
+    "Adam",
+    "Brian"
+   ],
+   "lines": [
+    {
+     "speaker": "Adam",
+     "text": "Hi Brian. Do you have a busy day?"
+    },
+    {
+     "speaker": "Brian",
+     "text": "Yes, I do. I get up at six o'clock every morning."
+    },
+    {
+     "speaker": "Adam",
+     "text": "That is very early! I get up at eight o'clock."
+    },
+    {
+     "speaker": "Brian",
+     "text": "I have breakfast at six thirty. Then I go to school."
+    },
+    {
+     "speaker": "Adam",
+     "text": "Do you walk to school or take the bus?"
+    },
+    {
+     "speaker": "Brian",
+     "text": "I take the bus. I come home at four o'clock."
+    },
+    {
+     "speaker": "Adam",
+     "text": "What do you do in the evening?"
+    },
+    {
+     "speaker": "Brian",
+     "text": "I do my homework. I have a lot of math work."
+    },
+    {
+     "speaker": "Adam",
+     "text": "Do you go to bed late?"
+    },
+    {
+     "speaker": "Brian",
+     "text": "No, I go to bed at nine o'clock because I am tired."
+    },
+    {
+     "speaker": "Adam",
+     "text": "I go to bed at eleven o'clock. I like the night."
+    },
+    {
+     "speaker": "Brian",
+     "text": "You are lucky. I need my sleep for class."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Brian gets up at six o'clock.",
+     "answer": true
+    },
+    {
+     "q": "Adam gets up at seven o'clock.",
+     "answer": false
+    },
+    {
+     "q": "Brian goes to school by bus.",
+     "answer": true
+    },
+    {
+     "q": "Brian goes to bed at eleven o'clock.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "When does Brian come home?",
+     "options": [
+      "4:00",
+      "6:30",
+      "9:00"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What subject is Brian's homework?",
+     "options": [
+      "English",
+      "Math",
+      "Science"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "When does Adam go to bed?",
+     "options": [
+      "8:00",
+      "9:00",
+      "11:00"
+     ],
+     "answer": 2
+    }
+   ],
+   "gaps": [
+    {
+     "q": "I have ______ at six thirty.",
+     "answer": "breakfast"
+    },
+    {
+     "q": "I ______ home at four o'clock.",
+     "answer": "come"
+    },
+    {
+     "q": "I do my ______.",
+     "answer": "homework"
+    }
+   ]
+  }
+ },
+ "12": {
+  "ok": true,
+  "model": "gemini-3-flash-preview",
+  "words": 139,
+  "data": {
+   "title": "Monday Night Plans",
+   "setting": "Two friends are talking about their schedules for the week.",
+   "speakers": [
+    "Steve",
+    "Gary"
+   ],
+   "lines": [
+    {
+     "speaker": "Steve",
+     "text": "Hey Gary. Are you very busy on Monday?"
+    },
+    {
+     "speaker": "Gary",
+     "text": "Yes, I am. I work on every weekday from Monday to Friday."
+    },
+    {
+     "speaker": "Steve",
+     "text": "I see. What time do you usually start your work?"
+    },
+    {
+     "speaker": "Gary",
+     "text": "I start at eight o'clock in the morning. It is a long day."
+    },
+    {
+     "speaker": "Steve",
+     "text": "That is very early! When do you finish in the afternoon?"
+    },
+    {
+     "speaker": "Gary",
+     "text": "I finish at half past four. Then I go home and cook dinner."
+    },
+    {
+     "speaker": "Steve",
+     "text": "Do you work at night or on the weekend?"
+    },
+    {
+     "speaker": "Gary",
+     "text": "No, I don't. I am always at home at night and on Saturdays. Why do you ask?"
+    },
+    {
+     "speaker": "Steve",
+     "text": "I have two tickets for a big soccer game on Monday evening."
+    },
+    {
+     "speaker": "Gary",
+     "text": "Oh! That sounds fun. What time is the soccer game?"
+    },
+    {
+     "speaker": "Steve",
+     "text": "It is at seven o'clock. Can you come with me?"
+    },
+    {
+     "speaker": "Gary",
+     "text": "Great! I finish work at half past four, so I can go at seven."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Gary works on every weekday.",
+     "answer": true
+    },
+    {
+     "q": "Gary starts work at seven o'clock.",
+     "answer": false
+    },
+    {
+     "q": "The soccer game is on Monday.",
+     "answer": true
+    },
+    {
+     "q": "Gary is at work at night.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "What time does Gary finish work?",
+     "options": [
+      "half past four",
+      "seven o'clock",
+      "eight o'clock"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What does Steve have for Monday evening?",
+     "options": [
+      "movie tickets",
+      "soccer tickets",
+      "dinner plans"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Where is Gary at night?",
+     "options": [
+      "at work",
+      "at a restaurant",
+      "at home"
+     ],
+     "answer": 2
+    }
+   ],
+   "gaps": [
+    {
+     "q": "I work on every ______ from Monday to Friday.",
+     "answer": "weekday"
+    },
+    {
+     "q": "I start at eight ______ in the morning.",
+     "answer": "o'clock"
+    },
+    {
+     "q": "I have two ______ for a big soccer game.",
+     "answer": "tickets"
+    }
+   ]
+  }
+ },
+ "13": {
+  "ok": true,
+  "model": "gemini-3-flash-preview",
+  "words": 127,
+  "data": {
+   "title": "Busy Sarah",
+   "setting": "Eric and Frank are talking about Frank's wife at a park.",
+   "speakers": [
+    "Eric",
+    "Frank"
+   ],
+   "lines": [
+    {
+     "speaker": "Eric",
+     "text": "Hi Frank. How is your wife, Sarah? Is she happy?"
+    },
+    {
+     "speaker": "Frank",
+     "text": "She is good, but she is very busy this week."
+    },
+    {
+     "speaker": "Eric",
+     "text": "What does her routine look like every day?"
+    },
+    {
+     "speaker": "Frank",
+     "text": "She is a nurse. She works at the big hospital downtown."
+    },
+    {
+     "speaker": "Eric",
+     "text": "That is interesting. What time does she leave home?"
+    },
+    {
+     "speaker": "Frank",
+     "text": "She leaves home at 7:00 a.m. She drives her small blue car to work."
+    },
+    {
+     "speaker": "Eric",
+     "text": "Does she cook dinner for the family in the evening?"
+    },
+    {
+     "speaker": "Frank",
+     "text": "No, I cook dinner every night. She comes back at 6:30 p.m."
+    },
+    {
+     "speaker": "Eric",
+     "text": "Is she tired when she gets home from the hospital?"
+    },
+    {
+     "speaker": "Frank",
+     "text": "Yes, she is very tired. She likes to rest on the sofa for one hour."
+    },
+    {
+     "speaker": "Eric",
+     "text": "That is a long day for her."
+    },
+    {
+     "speaker": "Frank",
+     "text": "Yes, it is. But she loves her job and her patients."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Sarah works at a hospital.",
+     "answer": true
+    },
+    {
+     "q": "Sarah leaves home at 8:00 a.m.",
+     "answer": false
+    },
+    {
+     "q": "Frank cooks dinner for the family.",
+     "answer": true
+    },
+    {
+     "q": "Sarah has a red car.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "Where is the hospital?",
+     "options": [
+      "In a small village",
+      "Downtown",
+      "Near the park"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What time does Sarah come back home?",
+     "options": [
+      "6:30 p.m.",
+      "7:00 a.m.",
+      "1:00 p.m."
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What does Sarah do on the sofa?",
+     "options": [
+      "She cooks",
+      "She works",
+      "She rests"
+     ],
+     "answer": 2
+    }
+   ],
+   "gaps": [
+    {
+     "q": "She ______ home at 7:00 a.m.",
+     "answer": "leaves"
+    },
+    {
+     "q": "No, I ______ dinner every night.",
+     "answer": "cook"
+    },
+    {
+     "q": "She likes to ______ on the sofa.",
+     "answer": "rest"
+    }
+   ]
+  }
+ },
+ "14": {
+  "ok": true,
+  "model": "gemini-3-flash-preview",
+  "words": 121,
+  "data": {
+   "title": "Family Jobs",
+   "setting": "Two friends are talking in a park about their families.",
+   "speakers": [
+    "Harry",
+    "Oscar"
+   ],
+   "lines": [
+    {
+     "speaker": "Harry",
+     "text": "Hi Oscar. How are you today?"
+    },
+    {
+     "speaker": "Oscar",
+     "text": "I am very good, Harry. How is your family?"
+    },
+    {
+     "speaker": "Harry",
+     "text": "They are great. My brother has a new job this month."
+    },
+    {
+     "speaker": "Oscar",
+     "text": "That is wonderful! What does he do?"
+    },
+    {
+     "speaker": "Harry",
+     "text": "He is a doctor. He works at the city hospital every day."
+    },
+    {
+     "speaker": "Oscar",
+     "text": "That is a very busy job. My father is a driver."
+    },
+    {
+     "speaker": "Harry",
+     "text": "Is he a bus driver or a taxi driver?"
+    },
+    {
+     "speaker": "Oscar",
+     "text": "No, he drives a small truck for a big office downtown."
+    },
+    {
+     "speaker": "Harry",
+     "text": "Interesting. What does your sister do?"
+    },
+    {
+     "speaker": "Oscar",
+     "text": "She is a teacher. She works with twenty children at a school."
+    },
+    {
+     "speaker": "Harry",
+     "text": "My mother is a housewife. She stays at home and cooks."
+    },
+    {
+     "speaker": "Oscar",
+     "text": "It is a busy life for everyone!"
+    },
+    {
+     "speaker": "Harry",
+     "text": "Yes, it is. Let's get some hot coffee now."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Harry's brother is a doctor.",
+     "answer": true
+    },
+    {
+     "q": "Oscar's father drives a bus.",
+     "answer": false
+    },
+    {
+     "q": "Oscar's sister works with children.",
+     "answer": true
+    },
+    {
+     "q": "Harry's mother works at an office downtown.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "Where does the doctor work?",
+     "options": [
+      "At a hospital",
+      "At a school",
+      "At a bank"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "How many children are in the sister's class?",
+     "options": [
+      "Ten",
+      "Thirty",
+      "Twenty"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "What does Harry's mother do at home?",
+     "options": [
+      "She cleans",
+      "She cooks",
+      "She works"
+     ],
+     "answer": 1
+    }
+   ],
+   "gaps": [
+    {
+     "q": "My brother has a new ______ this month.",
+     "answer": "job"
+    },
+    {
+     "q": "No, he ______ a small truck for a big office.",
+     "answer": "drives"
+    },
+    {
+     "q": "She is a ______.",
+     "answer": "teacher"
+    }
+   ]
+  }
+ },
+ "15": {
+  "ok": true,
+  "model": "gemini-3-flash-preview",
+  "words": 123,
+  "data": {
+   "title": "A Tour of the School",
+   "setting": "Lucas shows Nathan around his new school.",
+   "speakers": [
+    "Lucas",
+    "Nathan"
+   ],
+   "lines": [
+    {
+     "speaker": "Lucas",
+     "text": "Hi Nathan. Welcome to our school. It is a very big building."
+    },
+    {
+     "speaker": "Nathan",
+     "text": "Thank you, Lucas. I like it. Is there a library?"
+    },
+    {
+     "speaker": "Lucas",
+     "text": "Yes, there is. It is near the front door. There are many books there."
+    },
+    {
+     "speaker": "Nathan",
+     "text": "Great. How many pupils are in your class?"
+    },
+    {
+     "speaker": "Lucas",
+     "text": "There are twenty pupils in my classroom. Look, they all wear a blue uniform."
+    },
+    {
+     "speaker": "Nathan",
+     "text": "I see. Is there a place to eat lunch?"
+    },
+    {
+     "speaker": "Lucas",
+     "text": "Yes, there is a canteen. We eat lunch at twelve o'clock."
+    },
+    {
+     "speaker": "Nathan",
+     "text": "Is there a gym for sports?"
+    },
+    {
+     "speaker": "Lucas",
+     "text": "Yes, there is a large gym. There are basketball games every Friday."
+    },
+    {
+     "speaker": "Nathan",
+     "text": "When is the next break?"
+    },
+    {
+     "speaker": "Lucas",
+     "text": "There is a short break after this lesson. It is at ten thirty."
+    },
+    {
+     "speaker": "Nathan",
+     "text": "Perfect. I am ready to start my first day."
+    }
+   ],
+   "tf": [
+    {
+     "q": "There are thirty pupils in the class.",
+     "answer": false
+    },
+    {
+     "q": "The library is near the front door.",
+     "answer": true
+    },
+    {
+     "q": "The school uniform is blue.",
+     "answer": true
+    },
+    {
+     "q": "Lunch is at eleven o'clock.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "Where is the library?",
+     "options": [
+      "Near the gym",
+      "Near the front door",
+      "In the canteen"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "When are the basketball games?",
+     "options": [
+      "Every Monday",
+      "Every Wednesday",
+      "Every Friday"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "What time is the break?",
+     "options": [
+      "Ten thirty",
+      "Eleven thirty",
+      "Twelve o'clock"
+     ],
+     "answer": 0
+    }
+   ],
+   "gaps": [
+    {
+     "q": "There is a ______ after this lesson.",
+     "answer": "break"
+    },
+    {
+     "q": "There are twenty ______ in my classroom.",
+     "answer": "pupils"
+    },
+    {
+     "q": "There is a large ______ for sports.",
+     "answer": "gym"
+    }
+   ]
+  }
+ },
+ "16": {
+  "ok": true,
+  "model": "gemini-3-flash-preview",
+  "words": 123,
+  "data": {
+   "title": "School Subjects",
+   "setting": "Jacob and Noah are talking in the school cafeteria.",
+   "speakers": [
+    "Jacob",
+    "Noah"
+   ],
+   "lines": [
+    {
+     "speaker": "Jacob",
+     "text": "Hi Noah. How is your school day today?"
+    },
+    {
+     "speaker": "Noah",
+     "text": "It is okay. I have a big test in history this afternoon."
+    },
+    {
+     "speaker": "Jacob",
+     "text": "Oh, do you like history?"
+    },
+    {
+     "speaker": "Noah",
+     "text": "No, I don't like it. I think it is very difficult."
+    },
+    {
+     "speaker": "Jacob",
+     "text": "I agree. History is boring for me too. What is your favorite subject?"
+    },
+    {
+     "speaker": "Noah",
+     "text": "I really like math. It is easy for me. I always get a good mark."
+    },
+    {
+     "speaker": "Jacob",
+     "text": "I don't like math because it is hard, but I love English."
+    },
+    {
+     "speaker": "Noah",
+     "text": "Why do you like English class so much?"
+    },
+    {
+     "speaker": "Jacob",
+     "text": "The teacher is very nice and the stories are great."
+    },
+    {
+     "speaker": "Noah",
+     "text": "That is good. I have English at two o'clock."
+    },
+    {
+     "speaker": "Jacob",
+     "text": "I have my English class at ten o'clock in room five."
+    },
+    {
+     "speaker": "Noah",
+     "text": "My class is in room twelve. See you later!"
+    }
+   ],
+   "tf": [
+    {
+     "q": "Noah likes history.",
+     "answer": false
+    },
+    {
+     "q": "Jacob thinks history is boring.",
+     "answer": true
+    },
+    {
+     "q": "Noah always gets a good mark in math.",
+     "answer": true
+    },
+    {
+     "q": "Jacob has English at two o'clock.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "Why does Jacob like English?",
+     "options": [
+      "The teacher is nice",
+      "The room is big",
+      "It is easy"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What time is Jacob's English class?",
+     "options": [
+      "Two o'clock",
+      "Ten o'clock",
+      "Five o'clock"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What room is Noah's class in?",
+     "options": [
+      "Room five",
+      "Room ten",
+      "Room twelve"
+     ],
+     "answer": 2
+    }
+   ],
+   "gaps": [
+    {
+     "q": "I think it is very ______.",
+     "answer": "difficult"
+    },
+    {
+     "q": "What is your favorite ______?",
+     "answer": "subject"
+    },
+    {
+     "q": "I really like ______.",
+     "answer": "math"
+    }
+   ]
+  }
+ },
+ "17": {
+  "ok": true,
+  "model": "gemini-3-flash-preview",
+  "words": 106,
+  "data": {
+   "title": "Study Time",
+   "setting": "Two friends are talking in the library in the evening.",
+   "speakers": [
+    "Matt",
+    "Carl"
+   ],
+   "lines": [
+    {
+     "speaker": "Matt",
+     "text": "Hi Carl. Are you busy right now?"
+    },
+    {
+     "speaker": "Carl",
+     "text": "Hi Matt. Yes, I am studying for my English test."
+    },
+    {
+     "speaker": "Matt",
+     "text": "Why do you want to study now? It is 8:00 PM."
+    },
+    {
+     "speaker": "Carl",
+     "text": "I want to study because I have a big exam on Monday."
+    },
+    {
+     "speaker": "Matt",
+     "text": "I see. Is the English grammar difficult?"
+    },
+    {
+     "speaker": "Carl",
+     "text": "Yes, it is. I need to learn many new rules."
+    },
+    {
+     "speaker": "Matt",
+     "text": "Do you have a dictionary?"
+    },
+    {
+     "speaker": "Carl",
+     "text": "No, I use a phone app to understand new words."
+    },
+    {
+     "speaker": "Matt",
+     "text": "That is good. Do you want to practise with me?"
+    },
+    {
+     "speaker": "Carl",
+     "text": "Yes, please. I often make a mistake with verbs."
+    },
+    {
+     "speaker": "Matt",
+     "text": "Don't worry. It is hard to remember everything."
+    },
+    {
+     "speaker": "Carl",
+     "text": "Thank you. Let's start with chapter five."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Carl is studying for a math test.",
+     "answer": false
+    },
+    {
+     "q": "It is 8:00 PM.",
+     "answer": true
+    },
+    {
+     "q": "Carl has a paper dictionary.",
+     "answer": false
+    },
+    {
+     "q": "The two friends start with chapter five.",
+     "answer": true
+    }
+   ],
+   "mc": [
+    {
+     "q": "When is the English exam?",
+     "options": [
+      "Sunday",
+      "Monday",
+      "Tuesday"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Why is Carl studying?",
+     "options": [
+      "Because he has an exam",
+      "Because he is bored",
+      "Because he likes the library"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What does Carl often make?",
+     "options": [
+      "A phone app",
+      "A new rule",
+      "A mistake"
+     ],
+     "answer": 2
+    }
+   ],
+   "gaps": [
+    {
+     "q": "I want to study ______ I have a big exam on Monday.",
+     "answer": "because"
+    },
+    {
+     "q": "Do you want to ______ with me?",
+     "answer": "practise"
+    },
+    {
+     "q": "It is hard to ______ everything.",
+     "answer": "remember"
+    }
+   ]
+  }
+ },
+ "18": {
+  "ok": true,
+  "model": "gemini-3-flash-preview",
+  "words": 120,
+  "data": {
+   "title": "My Teacher",
+   "setting": "George and Henry talk about their teachers at school.",
+   "speakers": [
+    "George",
+    "Henry"
+   ],
+   "lines": [
+    {
+     "speaker": "George",
+     "text": "Hi Henry. Do you like your new English class at the college?"
+    },
+    {
+     "speaker": "Henry",
+     "text": "Yes, I do. My teacher is Mr. Miller. He is a great person."
+    },
+    {
+     "speaker": "George",
+     "text": "Is he a good teacher?"
+    },
+    {
+     "speaker": "Henry",
+     "text": "Yes, he is very smart. He knows many things about languages."
+    },
+    {
+     "speaker": "George",
+     "text": "Does he explain the grammar well?"
+    },
+    {
+     "speaker": "Henry",
+     "text": "Yes, he explains everything clearly. He is very patient with us."
+    },
+    {
+     "speaker": "George",
+     "text": "That is good. Is he strict with the rules?"
+    },
+    {
+     "speaker": "Henry",
+     "text": "No, he is not strict, but he gives a lot of homework every day."
+    },
+    {
+     "speaker": "George",
+     "text": "Does he answer every question in class?"
+    },
+    {
+     "speaker": "Henry",
+     "text": "Yes, he always listens to us. All the students respect him."
+    },
+    {
+     "speaker": "George",
+     "text": "My teacher, Ms. White, is also very kind. She teaches the morning class."
+    },
+    {
+     "speaker": "Henry",
+     "text": "We are lucky students. Our teachers are wonderful."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Mr. Miller is a smart teacher.",
+     "answer": true
+    },
+    {
+     "q": "Mr. Miller is very strict with the rules.",
+     "answer": false
+    },
+    {
+     "q": "The teacher gives homework every day.",
+     "answer": true
+    },
+    {
+     "q": "Ms. White teaches a night class.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "Where is the English class?",
+     "options": [
+      "At a college",
+      "At a library",
+      "At a house"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What does Mr. Miller explain clearly?",
+     "options": [
+      "The books",
+      "The grammar",
+      "The homework"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "How does George describe Ms. White?",
+     "options": [
+      "Strict",
+      "Smart",
+      "Kind"
+     ],
+     "answer": 2
+    }
+   ],
+   "gaps": [
+    {
+     "q": "He is very ______ with us.",
+     "answer": "patient"
+    },
+    {
+     "q": "Does he ______ every question in class?",
+     "answer": "answer"
+    },
+    {
+     "q": "All the students ______ him.",
+     "answer": "respect"
+    }
+   ]
+  }
+ },
+ "19": {
+  "ok": true,
+  "model": "gemini-3-flash-preview",
+  "words": 137,
+  "data": {
+   "title": "Summer Plans",
+   "setting": "Two friends talk about their summer holiday habits at work.",
+   "speakers": [
+    "Andy",
+    "Will"
+   ],
+   "lines": [
+    {
+     "speaker": "Andy",
+     "text": "Hi Will. What do you usually do for your summer holiday?"
+    },
+    {
+     "speaker": "Will",
+     "text": "I usually go to the mountains with my brother. We stay in a small hotel."
+    },
+    {
+     "speaker": "Andy",
+     "text": "That sounds nice. Is there a lake near the hotel?"
+    },
+    {
+     "speaker": "Will",
+     "text": "Yes, there is a big blue lake. I like to swim there every morning."
+    },
+    {
+     "speaker": "Andy",
+     "text": "I prefer the city. I usually stay in a big hotel with a swimming pool."
+    },
+    {
+     "speaker": "Will",
+     "text": "Do you like the fresh air in the mountains?"
+    },
+    {
+     "speaker": "Andy",
+     "text": "Yes, the air is great, but I like museums and stores."
+    },
+    {
+     "speaker": "Will",
+     "text": "We also hike for three hours every day. It is very quiet."
+    },
+    {
+     "speaker": "Andy",
+     "text": "Three hours? That is a long time! I usually read books by the pool."
+    },
+    {
+     "speaker": "Will",
+     "text": "My brother usually takes many photos of the trees."
+    },
+    {
+     "speaker": "Andy",
+     "text": "My holiday is in July. When do you go?"
+    },
+    {
+     "speaker": "Will",
+     "text": "We usually go in August for ten days."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Will usually goes to the mountains with his brother.",
+     "answer": true
+    },
+    {
+     "q": "Andy likes to visit museums.",
+     "answer": true
+    },
+    {
+     "q": "There is a big green lake near the hotel.",
+     "answer": false
+    },
+    {
+     "q": "Will stays on holiday for two weeks.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "Where does Andy usually stay?",
+     "options": [
+      "In a city hotel",
+      "In a mountain hotel",
+      "In a small cabin"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "How long does Will hike every day?",
+     "options": [
+      "One hour",
+      "Three hours",
+      "Five hours"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "When does Will go on holiday?",
+     "options": [
+      "June",
+      "July",
+      "August"
+     ],
+     "answer": 2
+    }
+   ],
+   "gaps": [
+    {
+     "q": "I usually stay in a big hotel with a swimming ______.",
+     "answer": "pool"
+    },
+    {
+     "q": "Do you like the fresh ______ in the mountains?",
+     "answer": "air"
+    },
+    {
+     "q": "My brother usually takes many ______ of the trees.",
+     "answer": "photos"
+    }
+   ]
+  }
+ },
+ "20": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 92,
+  "data": {
+   "title": "How is the weather?",
+   "setting": "Two men talking outside a cafe in the morning.",
+   "speakers": [
+    "Arthur",
+    "Mason"
+   ],
+   "lines": [
+    {
+     "speaker": "Arthur",
+     "text": "Good morning, Mason. How are you today?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "Good morning, Arthur. I am very good, thank you. But look outside."
+    },
+    {
+     "speaker": "Arthur",
+     "text": "Oh, yes. It is raining right now."
+    },
+    {
+     "speaker": "Mason",
+     "text": "Yes, it is. I do not like this season. Winter is very cold."
+    },
+    {
+     "speaker": "Arthur",
+     "text": "I agree. Winter is cold and gray."
+    },
+    {
+     "speaker": "Mason",
+     "text": "Do you like spring?"
+    },
+    {
+     "speaker": "Arthur",
+     "text": "Yes, I love spring. It is warm and sunny."
+    },
+    {
+     "speaker": "Mason",
+     "text": "I like spring too. And autumn is nice."
+    },
+    {
+     "speaker": "Arthur",
+     "text": "True. Autumn is cool and the trees are red and yellow."
+    },
+    {
+     "speaker": "Mason",
+     "text": "Summer is my favorite. It is hot every day."
+    },
+    {
+     "speaker": "Arthur",
+     "text": "Summer is good for swimming."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Arthur and Mason are talking in the morning.",
+     "answer": true
+    },
+    {
+     "q": "It is snowing outside right now.",
+     "answer": false
+    },
+    {
+     "q": "Mason does not like the winter season.",
+     "answer": true
+    },
+    {
+     "q": "Arthur says summer is his favorite season.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "What is the weather doing right now?",
+     "options": [
+      "It is snowing",
+      "It is raining",
+      "It is hot"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "How does Arthur describe the spring season?",
+     "options": [
+      "Warm and sunny",
+      "Cold and gray",
+      "Cool and red"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Which season does Mason like best?",
+     "options": [
+      "Spring",
+      "Autumn",
+      "Summer"
+     ],
+     "answer": 2
+    }
+   ],
+   "gaps": [
+    {
+     "q": "Oh, yes. It is ______ right now.",
+     "answer": "raining"
+    },
+    {
+     "q": "Yes, I love spring. It is warm and ______.",
+     "answer": "sunny"
+    },
+    {
+     "q": "Summer is good for ______.",
+     "answer": "swimming"
+    }
+   ]
+  }
+ },
+ "21": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 96,
+  "data": {
+   "title": "My New Home",
+   "setting": "Two friends are talking about a new flat.",
+   "speakers": [
+    "Ethan",
+    "Noah"
+   ],
+   "lines": [
+    {
+     "speaker": "Ethan",
+     "text": "Hi Noah. Welcome to my new flat!"
+    },
+    {
+     "speaker": "Noah",
+     "text": "Thank you, Ethan. It is very nice. How many rooms are there?"
+    },
+    {
+     "speaker": "Ethan",
+     "text": "There are five rooms. There is a living room, a kitchen, a bedroom, and a bathroom."
+    },
+    {
+     "speaker": "Noah",
+     "text": "Is there a garden?"
+    },
+    {
+     "speaker": "Ethan",
+     "text": "Yes, there is a small garden behind the house."
+    },
+    {
+     "speaker": "Noah",
+     "text": "Where is the kitchen?"
+    },
+    {
+     "speaker": "Ethan",
+     "text": "The kitchen is on the first floor, next to the living room."
+    },
+    {
+     "speaker": "Noah",
+     "text": "And where is the bedroom?"
+    },
+    {
+     "speaker": "Ethan",
+     "text": "The bedroom is upstairs. There is a big bed and a red chair in it."
+    },
+    {
+     "speaker": "Noah",
+     "text": "I like the red chair."
+    },
+    {
+     "speaker": "Ethan",
+     "text": "Thanks! Come and see the kitchen now."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Ethan lives in a house.",
+     "answer": false
+    },
+    {
+     "q": "There are five rooms in the flat.",
+     "answer": true
+    },
+    {
+     "q": "The kitchen is upstairs.",
+     "answer": false
+    },
+    {
+     "q": "There is a red chair in the bedroom.",
+     "answer": true
+    }
+   ],
+   "mc": [
+    {
+     "q": "Where is the garden?",
+     "options": [
+      "Behind the house",
+      "In front of the flat",
+      "Next to the bedroom"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What floor is the kitchen on?",
+     "options": [
+      "Upstairs",
+      "First floor",
+      "Second floor"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What color is the chair in the bedroom?",
+     "options": [
+      "Blue",
+      "Green",
+      "Red"
+     ],
+     "answer": 2
+    }
+   ],
+   "gaps": [
+    {
+     "q": "Welcome to my new ______!",
+     "answer": "flat"
+    },
+    {
+     "q": "There is a small garden behind the ______.",
+     "answer": "house"
+    },
+    {
+     "q": "The kitchen is on the first floor, next to the living ______.",
+     "answer": "room"
+    }
+   ]
+  }
+ },
+ "22": {
+  "ok": true,
+  "model": "gemini-3-flash-preview",
+  "words": 142,
+  "data": {
+   "title": "Toby's New Room",
+   "setting": "Toby shows his new bedroom to his friend Simon.",
+   "speakers": [
+    "Toby",
+    "Simon"
+   ],
+   "lines": [
+    {
+     "speaker": "Toby",
+     "text": "Welcome to my new apartment, Simon. Come and see my bedroom."
+    },
+    {
+     "speaker": "Simon",
+     "text": "It looks great! Your bed is very big and looks comfortable."
+    },
+    {
+     "speaker": "Toby",
+     "text": "Thanks. I have a small desk next to the bed for my work."
+    },
+    {
+     "speaker": "Simon",
+     "text": "I see a blue lamp on the desk. But where is your computer?"
+    },
+    {
+     "speaker": "Toby",
+     "text": "My laptop is under the bed right now because I am cleaning."
+    },
+    {
+     "speaker": "Simon",
+     "text": "That is funny! Your wardrobe is very tall and very white."
+    },
+    {
+     "speaker": "Toby",
+     "text": "Yes, it is between the door and the window. It is heavy."
+    },
+    {
+     "speaker": "Simon",
+     "text": "You have many books on that shelf. You are a student, right?"
+    },
+    {
+     "speaker": "Toby",
+     "text": "Yes. That shelf is opposite my bed. I like to read at night."
+    },
+    {
+     "speaker": "Simon",
+     "text": "Is there a chair in this room for me to sit?"
+    },
+    {
+     "speaker": "Toby",
+     "text": "Yes, the black chair is next to the wardrobe. Please, sit down."
+    },
+    {
+     "speaker": "Simon",
+     "text": "It is a very nice and clean room, Toby. Thank you."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Toby has a small desk.",
+     "answer": true
+    },
+    {
+     "q": "The laptop is on the desk.",
+     "answer": false
+    },
+    {
+     "q": "The wardrobe is between the door and the window.",
+     "answer": true
+    },
+    {
+     "q": "The shelf is next to the bed.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "What color is the lamp?",
+     "options": [
+      "Blue",
+      "Red",
+      "Green"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Why is the laptop under the bed?",
+     "options": [
+      "It is broken",
+      "Toby is cleaning",
+      "Simon put it there"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Where is the black chair?",
+     "options": [
+      "Next to the bed",
+      "Opposite the shelf",
+      "Next to the wardrobe"
+     ],
+     "answer": 2
+    }
+   ],
+   "gaps": [
+    {
+     "q": "I have a small ______ next to the bed.",
+     "answer": "desk"
+    },
+    {
+     "q": "My laptop is ______ the bed right now.",
+     "answer": "under"
+    },
+    {
+     "q": "That ______ is opposite my bed.",
+     "answer": "shelf"
+    }
+   ]
+  }
+ },
+ "23": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 112,
+  "data": {
+   "title": "My Neighbourhood",
+   "setting": "Two friends talking about their new neighbourhood on the street.",
+   "speakers": [
+    "Logan",
+    "Miles"
+   ],
+   "lines": [
+    {
+     "speaker": "Logan",
+     "text": "Hi Miles. How is your new neighbourhood?"
+    },
+    {
+     "speaker": "Miles",
+     "text": "Hi Logan. It is very nice. There is a big shop near my house."
+    },
+    {
+     "speaker": "Logan",
+     "text": "That is great. Is there a pharmacy too?"
+    },
+    {
+     "speaker": "Miles",
+     "text": "Yes, there is. There is a pharmacy on the corner. It is very close."
+    },
+    {
+     "speaker": "Logan",
+     "text": "Is there a mosque near you?"
+    },
+    {
+     "speaker": "Miles",
+     "text": "Yes, there is a mosque on Main Street. It is very quiet."
+    },
+    {
+     "speaker": "Logan",
+     "text": "What about a bus stop? Is there a bus stop far from your house?"
+    },
+    {
+     "speaker": "Miles",
+     "text": "No, the bus stop is not far from my house. It is right outside."
+    },
+    {
+     "speaker": "Logan",
+     "text": "Is there a playground for children?"
+    },
+    {
+     "speaker": "Miles",
+     "text": "Yes, there is a small playground behind the shop."
+    },
+    {
+     "speaker": "Logan",
+     "text": "That sounds like a wonderful place to live."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Miles says there is a big shop near his house.",
+     "answer": true
+    },
+    {
+     "q": "The pharmacy is far from Miles's house.",
+     "answer": false
+    },
+    {
+     "q": "There is a mosque on Main Street.",
+     "answer": true
+    },
+    {
+     "q": "The bus stop is far from the house.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "Where is the pharmacy?",
+     "options": [
+      "Behind the shop",
+      "On the corner",
+      "On Main Street"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Where is the mosque?",
+     "options": [
+      "On Main Street",
+      "Near the park",
+      "On the corner"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Where is the playground?",
+     "options": [
+      "Outside the bus stop",
+      "Next to the pharmacy",
+      "Behind the shop"
+     ],
+     "answer": 2
+    }
+   ],
+   "gaps": [
+    {
+     "q": "There is a big shop ______ my house.",
+     "answer": "near"
+    },
+    {
+     "q": "There is a pharmacy on the ______.",
+     "answer": "corner"
+    },
+    {
+     "q": "There is a small playground ______ the shop.",
+     "answer": "behind"
+    }
+   ]
+  }
+ },
+ "24": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 98,
+  "data": {
+   "title": "At the Market",
+   "setting": "Two men are shopping for fruit at a local outdoor market.",
+   "speakers": [
+    "Carlos",
+    "Victor"
+   ],
+   "lines": [
+    {
+     "speaker": "Carlos",
+     "text": "Hello! I want to buy some fruit today."
+    },
+    {
+     "speaker": "Victor",
+     "text": "Hello, sir. Look at these red apples. They are very fresh."
+    },
+    {
+     "speaker": "Carlos",
+     "text": "How much are the apples?"
+    },
+    {
+     "speaker": "Victor",
+     "text": "The price is three dollars for one bag."
+    },
+    {
+     "speaker": "Carlos",
+     "text": "That is very cheap! I want two bags, please."
+    },
+    {
+     "speaker": "Victor",
+     "text": "Sure. Do you need anything else?"
+    },
+    {
+     "speaker": "Carlos",
+     "text": "How much is that large yellow melon?"
+    },
+    {
+     "speaker": "Victor",
+     "text": "The melon is six dollars. It is a bit expensive, but it is very sweet."
+    },
+    {
+     "speaker": "Carlos",
+     "text": "Okay, I will take one melon too."
+    },
+    {
+     "speaker": "Victor",
+     "text": "Great. That is twelve dollars in total."
+    },
+    {
+     "speaker": "Carlos",
+     "text": "Here is my money. Thank you."
+    },
+    {
+     "speaker": "Victor",
+     "text": "Thank you for shopping here. Have a nice day!"
+    }
+   ],
+   "tf": [
+    {
+     "q": "Carlos wants to buy some fruit.",
+     "answer": true
+    },
+    {
+     "q": "The apples are green.",
+     "answer": false
+    },
+    {
+     "q": "One bag of apples costs three dollars.",
+     "answer": true
+    },
+    {
+     "q": "Carlos buys three melons.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "What color are the apples?",
+     "options": [
+      "Green",
+      "Red",
+      "Yellow"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "How many bags of apples does Carlos buy?",
+     "options": [
+      "One",
+      "Two",
+      "Three"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "How much is the total price?",
+     "options": [
+      "Nine dollars",
+      "Ten dollars",
+      "Twelve dollars"
+     ],
+     "answer": 2
+    }
+   ],
+   "gaps": [
+    {
+     "q": "How much are the ______?",
+     "answer": "apples"
+    },
+    {
+     "q": "The price is three dollars for one ______.",
+     "answer": "bag"
+    },
+    {
+     "q": "Here is my ______.",
+     "answer": "money"
+    }
+   ]
+  }
+ },
+ "25": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 95,
+  "data": {
+   "title": "My Favourite Dish",
+   "setting": "Two men are talking about food in a small kitchen.",
+   "speakers": [
+    "Lucas",
+    "Oliver"
+   ],
+   "lines": [
+    {
+     "speaker": "Lucas",
+     "text": "I am so hungry today."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "Me too, Lucas. What do you want to eat?"
+    },
+    {
+     "speaker": "Lucas",
+     "text": "I want my favourite dish. It is a rice meal."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "Is it difficult to make?"
+    },
+    {
+     "speaker": "Lucas",
+     "text": "No, it is very easy. It is made of white rice, fresh meat, and one orange carrot."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "That sounds good. Do you put it on a big plate?"
+    },
+    {
+     "speaker": "Lucas",
+     "text": "Yes, on a blue plate. I also make a cold green salad."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "I love green salad. Is it delicious?"
+    },
+    {
+     "speaker": "Lucas",
+     "text": "Yes, it is very delicious. Let us cook it now."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "Great idea. I can help you with the meat."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Lucas and Oliver are in a small kitchen.",
+     "answer": true
+    },
+    {
+     "q": "The dish is made of brown rice.",
+     "answer": false
+    },
+    {
+     "q": "Lucas puts the food on a blue plate.",
+     "answer": true
+    },
+    {
+     "q": "Oliver wants to help with the salad.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "How does Lucas feel at the start?",
+     "options": [
+      "Tired",
+      "Hungry",
+      "Happy"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What color is the carrot in the meal?",
+     "options": [
+      "Orange",
+      "Red",
+      "Yellow"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What does Oliver want to help with?",
+     "options": [
+      "The rice",
+      "The salad",
+      "The meat"
+     ],
+     "answer": 2
+    }
+   ],
+   "gaps": [
+    {
+     "q": "I am so ______ today.",
+     "answer": "hungry"
+    },
+    {
+     "q": "It is made of white rice, fresh meat, and one orange ______.",
+     "answer": "carrot"
+    },
+    {
+     "q": "Yes, on a blue ______.",
+     "answer": "plate"
+    }
+   ]
+  }
+ },
+ "26": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 100,
+  "data": {
+   "title": "National Food",
+   "setting": "Two men talk about popular food in their country at a small cafe.",
+   "speakers": [
+    "Carlos",
+    "Victor"
+   ],
+   "lines": [
+    {
+     "speaker": "Carlos",
+     "text": "Hello, Victor. Welcome to our city. Are you hungry?"
+    },
+    {
+     "speaker": "Victor",
+     "text": "Yes, I am. I want to try national food here."
+    },
+    {
+     "speaker": "Carlos",
+     "text": "Great. This restaurant is very popular. Many tourists come here."
+    },
+    {
+     "speaker": "Victor",
+     "text": "What do people eat for lunch?"
+    },
+    {
+     "speaker": "Carlos",
+     "text": "We eat a lot of soup. It is hot and has chicken and carrots."
+    },
+    {
+     "speaker": "Victor",
+     "text": "Do you eat bread with the soup?"
+    },
+    {
+     "speaker": "Carlos",
+     "text": "Yes, we eat a lot of brown bread every day."
+    },
+    {
+     "speaker": "Victor",
+     "text": "Is there meat in other dishes?"
+    },
+    {
+     "speaker": "Carlos",
+     "text": "Yes. We have many meat dishes with rice."
+    },
+    {
+     "speaker": "Victor",
+     "text": "I want some sweets after lunch."
+    },
+    {
+     "speaker": "Carlos",
+     "text": "No problem. They have sweet cakes with honey."
+    },
+    {
+     "speaker": "Victor",
+     "text": "Sounds wonderful. Let us order now."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Victor wants to try national food.",
+     "answer": true
+    },
+    {
+     "q": "The restaurant is not popular.",
+     "answer": false
+    },
+    {
+     "q": "People eat a lot of brown bread every day.",
+     "answer": true
+    },
+    {
+     "q": "Carlos orders fish and potatoes for lunch.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "Where are the two men talking?",
+     "options": [
+      "At a small cafe",
+      "At a restaurant",
+      "At an office"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What is in the hot soup?",
+     "options": [
+      "Fish and rice",
+      "Chicken and carrots",
+      "Beef and onions"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What kind of sweet cakes do they have?",
+     "options": [
+      "Cakes with honey",
+      "Cakes with chocolate",
+      "Cakes with fruit"
+     ],
+     "answer": 0
+    }
+   ],
+   "gaps": [
+    {
+     "q": "Yes, I am. I want to try ______ food here.",
+     "answer": "national"
+    },
+    {
+     "q": "We eat a lot of ______.",
+     "answer": "soup"
+    },
+    {
+     "q": "Yes, we eat a lot of brown ______ every day.",
+     "answer": "bread"
+    }
+   ]
+  }
+ },
+ "27": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 92,
+  "data": {
+   "title": "Time for Lunch",
+   "setting": "Two men are talking about their meals in the kitchen.",
+   "speakers": [
+    "Lucas",
+    "Mason"
+   ],
+   "lines": [
+    {
+     "speaker": "Lucas",
+     "text": "Hi Mason. What time do you have breakfast?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "I have breakfast at seven o'clock in the morning."
+    },
+    {
+     "speaker": "Lucas",
+     "text": "What do you eat?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "I eat one egg and some cheese with my tea."
+    },
+    {
+     "speaker": "Lucas",
+     "text": "That sounds good. Do you have lunch at home?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "No, I have lunch at work at one o'clock."
+    },
+    {
+     "speaker": "Lucas",
+     "text": "Do you eat vegetables?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "Yes, I eat green vegetables every day. But my friend eats fast food."
+    },
+    {
+     "speaker": "Lucas",
+     "text": "Fast food is not very healthy."
+    },
+    {
+     "speaker": "Mason",
+     "text": "That is true. What about dinner? When do you have dinner?"
+    },
+    {
+     "speaker": "Lucas",
+     "text": "I have dinner at seven o'clock in the evening."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Mason has breakfast at seven o'clock in the morning.",
+     "answer": true
+    },
+    {
+     "q": "Mason eats lunch at home.",
+     "answer": false
+    },
+    {
+     "q": "Mason eats green vegetables every day.",
+     "answer": true
+    },
+    {
+     "q": "Lucas has dinner at eight o'clock in the evening.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "What does Mason drink with his breakfast?",
+     "options": [
+      "Water",
+      "Tea",
+      "Milk"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Where does Mason have lunch?",
+     "options": [
+      "At work",
+      "At home",
+      "At a park"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "When does Lucas have dinner?",
+     "options": [
+      "At six o'clock",
+      "At seven o'clock",
+      "At eight o'clock"
+     ],
+     "answer": 1
+    }
+   ],
+   "gaps": [
+    {
+     "q": "I have breakfast at seven o'clock in the ______.",
+     "answer": "morning"
+    },
+    {
+     "q": "I eat one egg and some ______ with my tea.",
+     "answer": "cheese"
+    },
+    {
+     "q": "What about dinner? When do you have ______?",
+     "answer": "dinner"
+    }
+   ]
+  }
+ },
+ "28": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 112,
+  "data": {
+   "title": "Cooking Dinner",
+   "setting": "Two friends are in the kitchen cooking a simple meal together.",
+   "speakers": [
+    "Noah",
+    "Lucas"
+   ],
+   "lines": [
+    {
+     "speaker": "Noah",
+     "text": "Hi Lucas. I am hungry. Can we cook dinner now?"
+    },
+    {
+     "speaker": "Lucas",
+     "text": "Yes, Noah. I have a hot pan on the stove."
+    },
+    {
+     "speaker": "Noah",
+     "text": "Great! Can you fry the chicken in the pan?"
+    },
+    {
+     "speaker": "Lucas",
+     "text": "Yes, I can. But I need to cut the meat first."
+    },
+    {
+     "speaker": "Noah",
+     "text": "Here is a big knife. Be careful."
+    },
+    {
+     "speaker": "Lucas",
+     "text": "Thank you. Now the chicken is in the pan. Can you boil some water?"
+    },
+    {
+     "speaker": "Noah",
+     "text": "Yes, I can boil water for the pasta."
+    },
+    {
+     "speaker": "Lucas",
+     "text": "Please add some salt to the water."
+    },
+    {
+     "speaker": "Noah",
+     "text": "Done. Do you want to put sugar in the sauce too?"
+    },
+    {
+     "speaker": "Lucas",
+     "text": "No, the sauce is not sweet. It needs salt, not sugar."
+    },
+    {
+     "speaker": "Noah",
+     "text": "Okay. I think this food will be very tasty."
+    },
+    {
+     "speaker": "Lucas",
+     "text": "Yes, it smells very good!"
+    }
+   ],
+   "tf": [
+    {
+     "q": "Noah is hungry at the start of the dialogue.",
+     "answer": true
+    },
+    {
+     "q": "Lucas puts sugar in the pasta sauce.",
+     "answer": false
+    },
+    {
+     "q": "Noah boils water for the pasta.",
+     "answer": true
+    },
+    {
+     "q": "They are cooking fish in the pan.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "What does Noah give to Lucas?",
+     "options": [
+      "A knife",
+      "A spoon",
+      "A bowl"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What meat are they cooking in the pan?",
+     "options": [
+      "Beef",
+      "Chicken",
+      "Pork"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What do they add to the boiling water?",
+     "options": [
+      "Sugar",
+      "Salt",
+      "Pepper"
+     ],
+     "answer": 1
+    }
+   ],
+   "gaps": [
+    {
+     "q": "I have a hot ______ on the stove.",
+     "answer": "pan"
+    },
+    {
+     "q": "Can you ______ the chicken in the pan?",
+     "answer": "fry"
+    },
+    {
+     "q": "I think this food will be very ______.",
+     "answer": "tasty"
+    }
+   ]
+  }
+ },
+ "29": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 88,
+  "data": {
+   "title": "What Are You Wearing?",
+   "setting": "Two friends talking in a clothing store before a party.",
+   "speakers": [
+    "Logan",
+    "Miles"
+   ],
+   "lines": [
+    {
+     "speaker": "Logan",
+     "text": "Hi, Miles. Are you ready for the party tonight?"
+    },
+    {
+     "speaker": "Miles",
+     "text": "Almost, Logan. I am looking for some new clothes right now."
+    },
+    {
+     "speaker": "Logan",
+     "text": "What are you wearing to the party?"
+    },
+    {
+     "speaker": "Miles",
+     "text": "I am wearing a blue shirt and black trousers."
+    },
+    {
+     "speaker": "Logan",
+     "text": "That sounds nice. Is it comfortable?"
+    },
+    {
+     "speaker": "Miles",
+     "text": "Yes, it is very comfortable. But I need a new jacket."
+    },
+    {
+     "speaker": "Logan",
+     "text": "Look at this brown jacket. It is very fashionable."
+    },
+    {
+     "speaker": "Miles",
+     "text": "Oh, I like it. I also need to wear new shoes."
+    },
+    {
+     "speaker": "Logan",
+     "text": "There are white shoes over there on the shelf."
+    },
+    {
+     "speaker": "Miles",
+     "text": "Great, I will try them on."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Logan and Miles are talking in a clothing store.",
+     "answer": true
+    },
+    {
+     "q": "Miles is wearing a red shirt.",
+     "answer": false
+    },
+    {
+     "q": "Miles thinks his trousers and shirt are comfortable.",
+     "answer": true
+    },
+    {
+     "q": "Logan wants to buy a new jacket.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "What color is Miles's shirt?",
+     "options": [
+      "Blue",
+      "Red",
+      "White"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What does Miles need to buy?",
+     "options": [
+      "A new shirt",
+      "A new jacket",
+      "New trousers"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What kind of shoes does Logan point out?",
+     "options": [
+      "Black shoes",
+      "Brown shoes",
+      "White shoes"
+     ],
+     "answer": 2
+    }
+   ],
+   "gaps": [
+    {
+     "q": "I am wearing a blue shirt and black ______.",
+     "answer": "trousers"
+    },
+    {
+     "q": "Look at this brown jacket. It is very ______.",
+     "answer": "fashionable"
+    },
+    {
+     "q": "There are white shoes over there on the ______.",
+     "answer": "shelf"
+    }
+   ]
+  }
+ },
+ "30": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 93,
+  "data": {
+   "title": "Favourite Things",
+   "setting": "Two men talk about their favourite things and colours in a cafe.",
+   "speakers": [
+    "Arthur",
+    "Mason"
+   ],
+   "lines": [
+    {
+     "speaker": "Arthur",
+     "text": "Hi Mason. Look at my new watch."
+    },
+    {
+     "speaker": "Mason",
+     "text": "Hello Arthur. Oh, that is very nice. What colour is it?"
+    },
+    {
+     "speaker": "Arthur",
+     "text": "It is bright red. Red is my favourite colour."
+    },
+    {
+     "speaker": "Mason",
+     "text": "Red is a great choice. My favourite colour is blue."
+    },
+    {
+     "speaker": "Arthur",
+     "text": "Blue is nice too. Is that blue thing in your bag a present?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "Yes, it is. It is a present for my brother."
+    },
+    {
+     "speaker": "Arthur",
+     "text": "What is his name?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "His name is Lucas. He likes blue and green."
+    },
+    {
+     "speaker": "Arthur",
+     "text": "That is a great present. I hope he likes it."
+    },
+    {
+     "speaker": "Mason",
+     "text": "Thank you, Arthur. I am sure he will love it."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Arthur has a new watch.",
+     "answer": true
+    },
+    {
+     "q": "Arthur's watch is blue.",
+     "answer": false
+    },
+    {
+     "q": "Mason's favourite colour is blue.",
+     "answer": true
+    },
+    {
+     "q": "The present in Mason's bag is for his father.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "What colour is Arthur's new watch?",
+     "options": [
+      "Bright blue",
+      "Bright red",
+      "Dark green"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Whose name is Lucas?",
+     "options": [
+      "Mason's brother",
+      "Arthur's brother",
+      "Mason's friend"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Where are the two men talking?",
+     "options": [
+      "At a park",
+      "In a cafe",
+      "At a store"
+     ],
+     "answer": 1
+    }
+   ],
+   "gaps": [
+    {
+     "q": "Look at my new ______.",
+     "answer": "watch"
+    },
+    {
+     "q": "Red is my favourite ______.",
+     "answer": "colour"
+    },
+    {
+     "q": "It is a present for my ______.",
+     "answer": "brother"
+    }
+   ]
+  }
+ },
+ "31": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 97,
+  "data": {
+   "title": "My New Pet",
+   "setting": "Two friends are talking about pets in a park.",
+   "speakers": [
+    "Ethan",
+    "Mason"
+   ],
+   "lines": [
+    {
+     "speaker": "Ethan",
+     "text": "Hi Mason. How are you?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "I am good, Ethan. Look at my phone. This is my new pet."
+    },
+    {
+     "speaker": "Ethan",
+     "text": "Oh, what a cute dog! Have you got a dog?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "Yes, I have got one dog and one cat."
+    },
+    {
+     "speaker": "Ethan",
+     "text": "That is nice. I have got a small bird at home."
+    },
+    {
+     "speaker": "Mason",
+     "text": "A bird? Does it eat seeds?"
+    },
+    {
+     "speaker": "Ethan",
+     "text": "Yes, I feed it every morning at eight o'clock."
+    },
+    {
+     "speaker": "Mason",
+     "text": "Animals are great, but they are a lot of work."
+    },
+    {
+     "speaker": "Ethan",
+     "text": "Yes, you must look after them every day."
+    },
+    {
+     "speaker": "Mason",
+     "text": "True. My sister wants to go to the zoo this weekend."
+    },
+    {
+     "speaker": "Ethan",
+     "text": "Have a great time there!"
+    }
+   ],
+   "tf": [
+    {
+     "q": "Mason has got a new dog.",
+     "answer": true
+    },
+    {
+     "q": "Ethan has got two birds at home.",
+     "answer": false
+    },
+    {
+     "q": "Ethan feeds his bird in the morning.",
+     "answer": true
+    },
+    {
+     "q": "Mason's brother wants to go to the zoo.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "What pets does Mason have?",
+     "options": [
+      "A dog and a cat",
+      "A cat and a bird",
+      "Two dogs"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What time does Ethan feed his pet?",
+     "options": [
+      "Seven o'clock",
+      "Eight o'clock",
+      "Nine o'clock"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Who wants to go to the zoo?",
+     "options": [
+      "Ethan",
+      "Mason",
+      "Mason's sister"
+     ],
+     "answer": 2
+    }
+   ],
+   "gaps": [
+    {
+     "q": "Oh, what a cute ______!",
+     "answer": "dog"
+    },
+    {
+     "q": "Yes, I feed it every morning at eight ______.",
+     "answer": "o'clock"
+    },
+    {
+     "q": "My sister wants to go to the ______ this weekend.",
+     "answer": "zoo"
+    }
+   ]
+  }
+ },
+ "32": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 98,
+  "data": {
+   "title": "Our New Sports Team",
+   "setting": "Two men talking outside a local gym about sports and games.",
+   "speakers": [
+    "Lucas",
+    "Oliver"
+   ],
+   "lines": [
+    {
+     "speaker": "Lucas",
+     "text": "Hi Oliver. Do you want to play football with us on Saturday?"
+    },
+    {
+     "speaker": "Oliver",
+     "text": "Hi Lucas. Yes, I do. I love football. When is the match?"
+    },
+    {
+     "speaker": "Lucas",
+     "text": "The match is at ten o'clock in the morning at the green park."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "Great. We need a strong team to win this time."
+    },
+    {
+     "speaker": "Lucas",
+     "text": "Yes, we do. We always lose because we do not practice."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "That is true. Do you go swimming too?"
+    },
+    {
+     "speaker": "Lucas",
+     "text": "Yes, I go swimming twice a week."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "That is very good for you. I want to try that."
+    },
+    {
+     "speaker": "Lucas",
+     "text": "You can come with me on Monday."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "Thank you, Lucas. See you on Saturday."
+    }
+   ],
+   "tf": [
+    {
+     "q": "The football match is on Saturday.",
+     "answer": true
+    },
+    {
+     "q": "The match starts at two o'clock.",
+     "answer": false
+    },
+    {
+     "q": "Lucas goes swimming twice a week.",
+     "answer": true
+    },
+    {
+     "q": "Oliver goes swimming on Monday.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "Where is the football match?",
+     "options": [
+      "At the green park",
+      "At the school",
+      "At the gym"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Why do they always lose?",
+     "options": [
+      "They are tired",
+      "They do not practice",
+      "They have no ball"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "When does Oliver want to try swimming?",
+     "options": [
+      "On Saturday",
+      "On Sunday",
+      "On Monday"
+     ],
+     "answer": 2
+    }
+   ],
+   "gaps": [
+    {
+     "q": "Do you want to play ______ with us on Saturday?",
+     "answer": "football"
+    },
+    {
+     "q": "We need a strong ______ to win this time.",
+     "answer": "team"
+    },
+    {
+     "q": "Yes, I go swimming ______ a week.",
+     "answer": "twice"
+    }
+   ]
+  }
+ },
+ "33": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 85,
+  "data": {
+   "title": "Favorite Music",
+   "setting": "Two men are talking about music in a living room.",
+   "speakers": [
+    "Tyler",
+    "Mason"
+   ],
+   "lines": [
+    {
+     "speaker": "Tyler",
+     "text": "Hey Mason. What are you doing?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "Hi Tyler. I am listening to a new song."
+    },
+    {
+     "speaker": "Tyler",
+     "text": "Who is the singer?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "Her name is Clara. Do you want to hear her voice?"
+    },
+    {
+     "speaker": "Tyler",
+     "text": "Yes, please. Give me the headphones."
+    },
+    {
+     "speaker": "Mason",
+     "text": "Here you go. The music is very loud."
+    },
+    {
+     "speaker": "Tyler",
+     "text": "It is loud, but it is good. Does she play the guitar?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "Yes, she plays the guitar on every track."
+    },
+    {
+     "speaker": "Tyler",
+     "text": "I like him too. Wait, her! I like her!"
+    },
+    {
+     "speaker": "Mason",
+     "text": "Haha, yes. She sings very well."
+    },
+    {
+     "speaker": "Tyler",
+     "text": "Let us listen to them again."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Mason is listening to a new song.",
+     "answer": true
+    },
+    {
+     "q": "The name of the singer is Clara.",
+     "answer": true
+    },
+    {
+     "q": "Tyler is playing the guitar.",
+     "answer": false
+    },
+    {
+     "q": "The music is very quiet.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "What is Mason listening to?",
+     "options": [
+      "A new song",
+      "The radio",
+      "A podcast"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What does Tyler ask for?",
+     "options": [
+      "The guitar",
+      "The headphones",
+      "A phone"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What instrument does Clara play?",
+     "options": [
+      "Piano",
+      "Drums",
+      "Guitar"
+     ],
+     "answer": 2
+    }
+   ],
+   "gaps": [
+    {
+     "q": "I am listening to a new ______.",
+     "answer": "song"
+    },
+    {
+     "q": "Do you want to hear her ______?",
+     "answer": "voice"
+    },
+    {
+     "q": "The music is very ______.",
+     "answer": "loud"
+    }
+   ]
+  }
+ },
+ "34": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 88,
+  "data": {
+   "title": "Movie Night",
+   "setting": "Two friends talk about films at home.",
+   "speakers": [
+    "Lucas",
+    "Oliver"
+   ],
+   "lines": [
+    {
+     "speaker": "Lucas",
+     "text": "Hey Oliver, do you want to watch a film tonight?"
+    },
+    {
+     "speaker": "Oliver",
+     "text": "Yes, Lucas! I love watching movies at home. What do you like?"
+    },
+    {
+     "speaker": "Lucas",
+     "text": "I like watching comedy films. I love laughing."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "Me too. Comedy is great. Do you like scary films?"
+    },
+    {
+     "speaker": "Lucas",
+     "text": "No, I hate watching scary movies. They are not fun."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "I hate them too. What about a cartoon?"
+    },
+    {
+     "speaker": "Lucas",
+     "text": "Oh, I love cartoons! They are very exciting."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "Great. My favorite actor is in this cartoon."
+    },
+    {
+     "speaker": "Lucas",
+     "text": "Awesome. Let us watch it at seven o'clock."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "Perfect. I will get some popcorn."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Lucas likes comedy films.",
+     "answer": true
+    },
+    {
+     "q": "Oliver wants to go to the cinema.",
+     "answer": false
+    },
+    {
+     "q": "Lucas hates scary movies.",
+     "answer": true
+    },
+    {
+     "q": "They plan to watch the film at eight o'clock.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "What kind of films does Lucas like?",
+     "options": [
+      "Comedy",
+      "Scary",
+      "Action"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What do they both hate?",
+     "options": [
+      "Cartoons",
+      "Scary films",
+      "Comedies"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What time do they want to watch the film?",
+     "options": [
+      "Six o'clock",
+      "Seven o'clock",
+      "Nine o'clock"
+     ],
+     "answer": 1
+    }
+   ],
+   "gaps": [
+    {
+     "q": "I love watching movies at ______.",
+     "answer": "home"
+    },
+    {
+     "q": "I hate watching ______ movies.",
+     "answer": "scary"
+    },
+    {
+     "q": "I will get some ______.",
+     "answer": "popcorn"
+    }
+   ]
+  }
+ },
+ "35": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 86,
+  "data": {
+   "title": "At the Library",
+   "setting": "Two men talk about books in a quiet library.",
+   "speakers": [
+    "Miles",
+    "Oliver"
+   ],
+   "lines": [
+    {
+     "speaker": "Miles",
+     "text": "Hi Oliver. Do you like this book?"
+    },
+    {
+     "speaker": "Oliver",
+     "text": "Hello Miles. No, I don't like it. It is too long."
+    },
+    {
+     "speaker": "Miles",
+     "text": "How many pages are in the book?"
+    },
+    {
+     "speaker": "Oliver",
+     "text": "There are three hundred pages."
+    },
+    {
+     "speaker": "Miles",
+     "text": "That is a big story. What do you like to read?"
+    },
+    {
+     "speaker": "Oliver",
+     "text": "I like a short poem or a fairy tale."
+    },
+    {
+     "speaker": "Miles",
+     "text": "I read a fairy tale every night before bed."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "That is nice. Do you read writer biographies?"
+    },
+    {
+     "speaker": "Miles",
+     "text": "No, I don't read them. They are not very useful for me."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "I want to borrow this book anyway."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Oliver likes the book.",
+     "answer": false
+    },
+    {
+     "q": "The book has three hundred pages.",
+     "answer": true
+    },
+    {
+     "q": "Miles reads a fairy tale before bed.",
+     "answer": true
+    },
+    {
+     "q": "Oliver wants to read writer biographies.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "Where are the men?",
+     "options": [
+      "In a library",
+      "At home",
+      "In a park"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What does Oliver like to read?",
+     "options": [
+      "A long book",
+      "A short poem or a fairy tale",
+      "Writer biographies"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What does Oliver want to do with the book?",
+     "options": [
+      "Buy it",
+      "Sell it",
+      "Borrow it"
+     ],
+     "answer": 2
+    }
+   ],
+   "gaps": [
+    {
+     "q": "No, I don't like it. It is too ______.",
+     "answer": "long"
+    },
+    {
+     "q": "I read a fairy tale every night before ______.",
+     "answer": "bed"
+    },
+    {
+     "q": "I want to ______ this book anyway.",
+     "answer": "borrow"
+    }
+   ]
+  }
+ },
+ "36": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 99,
+  "data": {
+   "title": "My New Phone",
+   "setting": "Two men are talking about a new phone and the internet in a coffee shop.",
+   "speakers": [
+    "Felix",
+    "Max"
+   ],
+   "lines": [
+    {
+     "speaker": "Felix",
+     "text": "Hi Max. Look at my new phone."
+    },
+    {
+     "speaker": "Max",
+     "text": "Hello Felix. That phone is very nice. What color is it?"
+    },
+    {
+     "speaker": "Felix",
+     "text": "It is black. I use this phone to call my family and to send messages."
+    },
+    {
+     "speaker": "Max",
+     "text": "Do you use it to go on the internet?"
+    },
+    {
+     "speaker": "Felix",
+     "text": "Yes, I do. I use it to read the news online every morning."
+    },
+    {
+     "speaker": "Max",
+     "text": "That is great. Do you have any games on it?"
+    },
+    {
+     "speaker": "Felix",
+     "text": "No, I do not. But I have a useful app to check the weather."
+    },
+    {
+     "speaker": "Max",
+     "text": "Can you use it to download music too?"
+    },
+    {
+     "speaker": "Felix",
+     "text": "Yes, I can. I have five favorite songs on it right now."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Felix has a new phone that is black.",
+     "answer": true
+    },
+    {
+     "q": "Felix uses his phone to play video games.",
+     "answer": false
+    },
+    {
+     "q": "Max asks if Felix can download music.",
+     "answer": true
+    },
+    {
+     "q": "Felix reads the news online every night.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "What color is the new phone?",
+     "options": [
+      "White",
+      "Black",
+      "Blue"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What does Felix use the app for?",
+     "options": [
+      "To check the weather",
+      "To watch movies",
+      "To learn Spanish"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "How many favorite songs does Felix have on his phone?",
+     "options": [
+      "Two",
+      "Ten",
+      "Five"
+     ],
+     "answer": 2
+    }
+   ],
+   "gaps": [
+    {
+     "q": "That phone is very ______.",
+     "answer": "nice"
+    },
+    {
+     "q": "I use it to read the news ______ every morning.",
+     "answer": "online"
+    },
+    {
+     "q": "Can you use it to download ______ too?",
+     "answer": "music"
+    }
+   ]
+  }
+ },
+ "37": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 90,
+  "data": {
+   "title": "Playing Games",
+   "setting": "Two men are talking about their favorite games in the living room.",
+   "speakers": [
+    "Arthur",
+    "Mason"
+   ],
+   "lines": [
+    {
+     "speaker": "Arthur",
+     "text": "Hi Mason. What is that on your computer?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "Hello Arthur. It is a new computer game. I play it every day."
+    },
+    {
+     "speaker": "Arthur",
+     "text": "Is it difficult? I am not a very good player."
+    },
+    {
+     "speaker": "Mason",
+     "text": "No, it is easy. There are three levels. I am on level two now."
+    },
+    {
+     "speaker": "Arthur",
+     "text": "That is nice. Do you know the rules?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "Yes, they are very simple. The winner gets ten points."
+    },
+    {
+     "speaker": "Arthur",
+     "text": "Can we play chess too? I like chess."
+    },
+    {
+     "speaker": "Mason",
+     "text": "Yes, we can play chess. But not now. It is sunny outside."
+    },
+    {
+     "speaker": "Arthur",
+     "text": "You are right. Let us go out."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Mason plays the computer game every day.",
+     "answer": true
+    },
+    {
+     "q": "Mason is on level three of the game.",
+     "answer": false
+    },
+    {
+     "q": "The winner gets ten points.",
+     "answer": true
+    },
+    {
+     "q": "Arthur wants to play chess inside all day.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "What is Mason playing on?",
+     "options": [
+      "Phone",
+      "Computer",
+      "Television"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What level is Mason on now?",
+     "options": [
+      "Level one",
+      "Level two",
+      "Level three"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Why can they not play chess right now?",
+     "options": [
+      "It is sunny outside",
+      "It is raining",
+      "It is late at night"
+     ],
+     "answer": 0
+    }
+   ],
+   "gaps": [
+    {
+     "q": "Hello Arthur. It is a new computer ______.",
+     "answer": "game"
+    },
+    {
+     "q": "I am not a very good ______.",
+     "answer": "player"
+    },
+    {
+     "q": "There are three ______.",
+     "answer": "levels"
+    }
+   ]
+  }
+ },
+ "38": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 96,
+  "data": {
+   "title": "Things We Can Do",
+   "setting": "Two friends are talking in the park about what they can do.",
+   "speakers": [
+    "Max",
+    "Luke"
+   ],
+   "lines": [
+    {
+     "speaker": "Max",
+     "text": "Hi Luke! This park is very nice."
+    },
+    {
+     "speaker": "Luke",
+     "text": "Hi Max! Yes, it is. Look at my bike. I can ride a bike very fast."
+    },
+    {
+     "speaker": "Max",
+     "text": "That is great! Can you run fast too?"
+    },
+    {
+     "speaker": "Luke",
+     "text": "No, I can not run fast. I can run a little."
+    },
+    {
+     "speaker": "Max",
+     "text": "I can run fast. And I can draw pictures."
+    },
+    {
+     "speaker": "Luke",
+     "text": "Can you draw a cat?"
+    },
+    {
+     "speaker": "Max",
+     "text": "Yes, I can. I can draw well."
+    },
+    {
+     "speaker": "Luke",
+     "text": "That is cool. What about music? Can you dance?"
+    },
+    {
+     "speaker": "Max",
+     "text": "No, I cannot dance. But I can count to twenty in Spanish."
+    },
+    {
+     "speaker": "Luke",
+     "text": "Oh! I can count to ten in Spanish."
+    },
+    {
+     "speaker": "Max",
+     "text": "Let us practice together!"
+    }
+   ],
+   "tf": [
+    {
+     "q": "Luke can ride a bike very fast.",
+     "answer": true
+    },
+    {
+     "q": "Max can run fast.",
+     "answer": true
+    },
+    {
+     "q": "Max can dance very well.",
+     "answer": false
+    },
+    {
+     "q": "Luke can count to twenty in Spanish.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "Where are Max and Luke?",
+     "options": [
+      "In a school",
+      "In the park",
+      "At home"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What can Max draw?",
+     "options": [
+      "A car",
+      "A house",
+      "A cat"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "How high can Luke count in Spanish?",
+     "options": [
+      "To ten",
+      "To twenty",
+      "To thirty"
+     ],
+     "answer": 0
+    }
+   ],
+   "gaps": [
+    {
+     "q": "I can ride a bike very ______.",
+     "answer": "fast"
+    },
+    {
+     "q": "Yes, I can. I can draw ______.",
+     "answer": "well"
+    },
+    {
+     "q": "No, I can not run ______.",
+     "answer": "fast"
+    }
+   ]
+  }
+ },
+ "39": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 121,
+  "data": {
+   "title": "Going to Work",
+   "setting": "Two colleagues talk about how they travel to the office in the morning.",
+   "speakers": [
+    "Oliver",
+    "Miles"
+   ],
+   "lines": [
+    {
+     "speaker": "Oliver",
+     "text": "Good morning, Miles. How do you get to work?"
+    },
+    {
+     "speaker": "Miles",
+     "text": "Good morning, Oliver. I usually go by bus. The bus stop is near my house."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "Is the bus fast?"
+    },
+    {
+     "speaker": "Miles",
+     "text": "No, it is slow because there is a lot of traffic at eight o'clock."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "I see. Do you buy a ticket every day?"
+    },
+    {
+     "speaker": "Miles",
+     "text": "Yes, I pay two dollars for a ticket. What about you? Do you take a car?"
+    },
+    {
+     "speaker": "Oliver",
+     "text": "No, I do not have a car. I go on foot."
+    },
+    {
+     "speaker": "Miles",
+     "text": "On foot? Is your home far from the office?"
+    },
+    {
+     "speaker": "Oliver",
+     "text": "No, it is very close. I walk for ten minutes."
+    },
+    {
+     "speaker": "Miles",
+     "text": "That is nice. You do not need to wait for a bus or take a taxi."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "That is true. Walking is healthy and free."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Miles goes to work by bus.",
+     "answer": true
+    },
+    {
+     "q": "The bus is fast in the morning.",
+     "answer": false
+    },
+    {
+     "q": "Oliver goes to work on foot.",
+     "answer": true
+    },
+    {
+     "q": "Oliver has a blue car.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "How much does Miles pay for a bus ticket?",
+     "options": [
+      "One dollar",
+      "Two dollars",
+      "Three dollars"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Why is the bus slow?",
+     "options": [
+      "There is a lot of traffic",
+      "The driver is new",
+      "It is raining outside"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "How long does Oliver walk to the office?",
+     "options": [
+      "Five minutes",
+      "Ten minutes",
+      "Twenty minutes"
+     ],
+     "answer": 1
+    }
+   ],
+   "gaps": [
+    {
+     "q": "Good morning, Miles. How do you get to ______?",
+     "answer": "work"
+    },
+    {
+     "q": "Yes, I pay two dollars for a ______.",
+     "answer": "ticket"
+    },
+    {
+     "q": "Walking is healthy and ______.",
+     "answer": "free"
+    }
+   ]
+  }
+ },
+ "40": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 108,
+  "data": {
+   "title": "My Favourite Place",
+   "setting": "Two friends are talking about their favourite places in the city.",
+   "speakers": [
+    "Oliver",
+    "Lucas"
+   ],
+   "lines": [
+    {
+     "speaker": "Oliver",
+     "text": "Hi Lucas. What is your favourite place in this city?"
+    },
+    {
+     "speaker": "Lucas",
+     "text": "Hi Oliver. My favourite place is the central park near the museum."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "Ah, I know that place. It is very nice."
+    },
+    {
+     "speaker": "Lucas",
+     "text": "Yes, it is. You can sit on a wooden bench and read a book there."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "Is it loud?"
+    },
+    {
+     "speaker": "Lucas",
+     "text": "No, it is very quiet in the morning. It is never crowded before ten o'clock."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "That sounds good. Is there water?"
+    },
+    {
+     "speaker": "Lucas",
+     "text": "Yes, there is a big fountain in the middle."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "Can you buy coffee near the fountain?"
+    },
+    {
+     "speaker": "Lucas",
+     "text": "Yes, you can buy coffee at the small café."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "We should meet there tomorrow."
+    },
+    {
+     "speaker": "Lucas",
+     "text": "Great idea. Let us meet at nine o'clock."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Lucas's favourite place is a park near the museum.",
+     "answer": true
+    },
+    {
+     "q": "The park is very crowded in the morning.",
+     "answer": false
+    },
+    {
+     "q": "There is a big fountain in the middle of the park.",
+     "answer": true
+    },
+    {
+     "q": "Oliver and Lucas plan to meet at ten o'clock.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "What can you do on the wooden bench?",
+     "options": [
+      "Eat lunch",
+      "Read a book",
+      "Draw pictures"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Where is the small café located?",
+     "options": [
+      "Near the fountain",
+      "Inside the museum",
+      "By the train station"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What time do they plan to meet tomorrow?",
+     "options": [
+      "At eight o'clock",
+      "At nine o'clock",
+      "At ten o'clock"
+     ],
+     "answer": 1
+    }
+   ],
+   "gaps": [
+    {
+     "q": "My favourite place is the central park near the ______.",
+     "answer": "museum"
+    },
+    {
+     "q": "You can sit on a wooden ______ and read a book there.",
+     "answer": "bench"
+    },
+    {
+     "q": "It is never ______ before ten o'clock.",
+     "answer": "crowded"
+    }
+   ]
+  }
+ },
+ "41": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 83,
+  "data": {
+   "title": "Feeling Ill",
+   "setting": "Two friends talking in a kitchen about health.",
+   "speakers": [
+    "Noah",
+    "Ethan"
+   ],
+   "lines": [
+    {
+     "speaker": "Noah",
+     "text": "Hi Ethan. You look ill today."
+    },
+    {
+     "speaker": "Ethan",
+     "text": "Hi Noah. Yes, I have a bad headache."
+    },
+    {
+     "speaker": "Noah",
+     "text": "Oh no. Do you drink water?"
+    },
+    {
+     "speaker": "Ethan",
+     "text": "No, I drink coffee. Two cups every morning."
+    },
+    {
+     "speaker": "Noah",
+     "text": "You shouldn't drink coffee when you have a headache. You should drink water."
+    },
+    {
+     "speaker": "Ethan",
+     "text": "You are right. What else should I do?"
+    },
+    {
+     "speaker": "Noah",
+     "text": "You should sleep for eight hours. And you should take some medicine."
+    },
+    {
+     "speaker": "Ethan",
+     "text": "Should I do exercise?"
+    },
+    {
+     "speaker": "Noah",
+     "text": "No, you shouldn't exercise today. Just rest at home."
+    },
+    {
+     "speaker": "Ethan",
+     "text": "Okay. Thank you for your help with my health."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Ethan has a headache.",
+     "answer": true
+    },
+    {
+     "q": "Ethan drinks water every morning.",
+     "answer": false
+    },
+    {
+     "q": "Noah tells Ethan to sleep for eight hours.",
+     "answer": true
+    },
+    {
+     "q": "Ethan should do exercise today.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "What does Ethan drink in the morning?",
+     "options": [
+      "Water",
+      "Coffee",
+      "Milk"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "How many cups does Ethan drink?",
+     "options": [
+      "One",
+      "Two",
+      "Three"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What does Noah say Ethan should take?",
+     "options": [
+      "Medicine",
+      "Vitamin C",
+      "Tea"
+     ],
+     "answer": 0
+    }
+   ],
+   "gaps": [
+    {
+     "q": "Hi Ethan. You look ______ today.",
+     "answer": "ill"
+    },
+    {
+     "q": "You ______ drink water.",
+     "answer": "should"
+    },
+    {
+     "q": "You shouldn't ______ today.",
+     "answer": "exercise"
+    }
+   ]
+  }
+ },
+ "42": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 78,
+  "data": {
+   "title": "What Are They Doing?",
+   "setting": "Two friends are looking at a family picture in the living room.",
+   "speakers": [
+    "Lucas",
+    "Max"
+   ],
+   "lines": [
+    {
+     "speaker": "Lucas",
+     "text": "Look at this picture, Max. It is my family."
+    },
+    {
+     "speaker": "Max",
+     "text": "Nice! Who is that man sitting in the middle?"
+    },
+    {
+     "speaker": "Lucas",
+     "text": "That is my father. He is sitting on the big red sofa."
+    },
+    {
+     "speaker": "Max",
+     "text": "And who is standing next to him?"
+    },
+    {
+     "speaker": "Lucas",
+     "text": "That is my mother. She is smiling now."
+    },
+    {
+     "speaker": "Max",
+     "text": "Is she talking at the moment?"
+    },
+    {
+     "speaker": "Lucas",
+     "text": "No, she is not talking. She is holding a small cat."
+    },
+    {
+     "speaker": "Max",
+     "text": "Is the cat sleeping?"
+    },
+    {
+     "speaker": "Lucas",
+     "text": "Yes, it is sleeping on her lap."
+    },
+    {
+     "speaker": "Max",
+     "text": "What a lovely family photo."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Lucas and Max are looking at a family picture.",
+     "answer": true
+    },
+    {
+     "q": "Lucas's father is standing.",
+     "answer": false
+    },
+    {
+     "q": "Lucas's mother is smiling.",
+     "answer": true
+    },
+    {
+     "q": "The cat is running around the room.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "Where is the father sitting?",
+     "options": [
+      "On the floor",
+      "On the big red sofa",
+      "On a yellow chair"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Who is standing next to the father?",
+     "options": [
+      "Lucas",
+      "Max",
+      "Lucas's mother"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "What is the cat doing?",
+     "options": [
+      "Sleeping",
+      "Eating",
+      "Playing"
+     ],
+     "answer": 0
+    }
+   ],
+   "gaps": [
+    {
+     "q": "Who is that man sitting in the ______?",
+     "answer": "middle"
+    },
+    {
+     "q": "She is ______ now.",
+     "answer": "smiling"
+    },
+    {
+     "q": "Is she talking at the ______?",
+     "answer": "moment"
+    }
+   ]
+  }
+ },
+ "43": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 81,
+  "data": {
+   "title": "My Day Yesterday",
+   "setting": "Two men talking in a coffee shop about yesterday.",
+   "speakers": [
+    "Arthur",
+    "Mason"
+   ],
+   "lines": [
+    {
+     "speaker": "Arthur",
+     "text": "Hi, Mason. How are you?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "Hello, Arthur. I am good, thanks."
+    },
+    {
+     "speaker": "Arthur",
+     "text": "What did you do yesterday?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "I got up at seven o'clock."
+    },
+    {
+     "speaker": "Arthur",
+     "text": "Did you go to work?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "No, I did not. It was Sunday. I went to the park."
+    },
+    {
+     "speaker": "Arthur",
+     "text": "Nice. What did you do there?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "I walked with my dog. Then I had lunch at a small café."
+    },
+    {
+     "speaker": "Arthur",
+     "text": "What did you eat?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "I had a chicken sandwich."
+    },
+    {
+     "speaker": "Arthur",
+     "text": "Did you watch TV last night?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "Yes, I watched a movie with my wife."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Mason got up at seven o'clock yesterday.",
+     "answer": true
+    },
+    {
+     "q": "Mason went to work yesterday.",
+     "answer": false
+    },
+    {
+     "q": "Mason had lunch at a small café.",
+     "answer": true
+    },
+    {
+     "q": "Mason watched a football game last night.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "Where did Mason go yesterday?",
+     "options": [
+      "To the park",
+      "To the store",
+      "To work"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What did Mason eat for lunch?",
+     "options": [
+      "A pizza",
+      "A chicken sandwich",
+      "A burger"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Who did Mason watch a movie with?",
+     "options": [
+      "His friend",
+      "His brother",
+      "His wife"
+     ],
+     "answer": 2
+    }
+   ],
+   "gaps": [
+    {
+     "q": "I got up at seven ______.",
+     "answer": "o'clock"
+    },
+    {
+     "q": "I ______ to the park.",
+     "answer": "went"
+    },
+    {
+     "q": "I ______ a chicken sandwich.",
+     "answer": "had"
+    }
+   ]
+  }
+ },
+ "44": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 84,
+  "data": {
+   "title": "Family Yesterday",
+   "setting": "Two men talk about what their family members did yesterday.",
+   "speakers": [
+    "Blake",
+    "Evan"
+   ],
+   "lines": [
+    {
+     "speaker": "Blake",
+     "text": "Hi Evan. How are you?"
+    },
+    {
+     "speaker": "Evan",
+     "text": "Hi Blake. I am good, thank you. I was very busy yesterday."
+    },
+    {
+     "speaker": "Blake",
+     "text": "What did you do?"
+    },
+    {
+     "speaker": "Evan",
+     "text": "It was not me. My sister Sarah cooked dinner for the family."
+    },
+    {
+     "speaker": "Blake",
+     "text": "That is nice. What did she make?"
+    },
+    {
+     "speaker": "Evan",
+     "text": "She made chicken and rice."
+    },
+    {
+     "speaker": "Blake",
+     "text": "Sounds good. What about your brother?"
+    },
+    {
+     "speaker": "Evan",
+     "text": "My brother David cleaned the kitchen in the afternoon."
+    },
+    {
+     "speaker": "Blake",
+     "text": "Did he do anything else?"
+    },
+    {
+     "speaker": "Evan",
+     "text": "Yes, he bought a new shirt at the mall."
+    },
+    {
+     "speaker": "Blake",
+     "text": "That was a productive day for him."
+    },
+    {
+     "speaker": "Evan",
+     "text": "Yes, it was."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Evan was very busy yesterday.",
+     "answer": true
+    },
+    {
+     "q": "Sarah made pizza for the family.",
+     "answer": false
+    },
+    {
+     "q": "David cleaned the kitchen in the afternoon.",
+     "answer": true
+    },
+    {
+     "q": "David bought a new car at the mall.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "Who cooked dinner for the family?",
+     "options": [
+      "Blake",
+      "David",
+      "Sarah"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "What did Sarah make for dinner?",
+     "options": [
+      "Chicken and rice",
+      "Fish and chips",
+      "Soup and bread"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Where did David buy a new shirt?",
+     "options": [
+      "At the park",
+      "At the mall",
+      "At the store"
+     ],
+     "answer": 1
+    }
+   ],
+   "gaps": [
+    {
+     "q": "My sister Sarah ______ dinner for the family.",
+     "answer": "cooked"
+    },
+    {
+     "q": "My brother David cleaned the kitchen in the ______.",
+     "answer": "afternoon"
+    },
+    {
+     "q": "Yes, he ______ a new shirt at the mall.",
+     "answer": "bought"
+    }
+   ]
+  }
+ },
+ "45": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 104,
+  "data": {
+   "title": "Last Weekend",
+   "setting": "Two men talking about what they did last weekend at a coffee shop.",
+   "speakers": [
+    "Arthur",
+    "Mason"
+   ],
+   "lines": [
+    {
+     "speaker": "Arthur",
+     "text": "Hi, Mason. Did you have a good time last weekend?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "Yes, Arthur, I did. It was a lot of fun."
+    },
+    {
+     "speaker": "Arthur",
+     "text": "What did you do? Did you stay home?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "No, I did not stay home. I visited my parents."
+    },
+    {
+     "speaker": "Arthur",
+     "text": "That is nice. Did you see your brother too?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "Yes, I saw him on Saturday. We played tennis together in the morning."
+    },
+    {
+     "speaker": "Arthur",
+     "text": "Cool. What did you eat after the game?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "We ate pizza at a small Italian restaurant near the park."
+    },
+    {
+     "speaker": "Arthur",
+     "text": "Sounds great. Did you sleep well after that?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "Yes, I slept for nine hours on Saturday night."
+    },
+    {
+     "speaker": "Arthur",
+     "text": "I am glad you had a good weekend."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Mason stayed home last weekend.",
+     "answer": false
+    },
+    {
+     "q": "Mason visited his parents.",
+     "answer": true
+    },
+    {
+     "q": "Mason played tennis with his brother.",
+     "answer": true
+    },
+    {
+     "q": "Mason ate hamburgers with his brother.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "What did Mason do on Saturday morning?",
+     "options": [
+      "Played tennis",
+      "Stayed home",
+      "Visited friends"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Where did they eat pizza?",
+     "options": [
+      "At home",
+      "Near the park",
+      "Near the beach"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "How many hours did Mason sleep on Saturday night?",
+     "options": [
+      "Seven hours",
+      "Eight hours",
+      "Nine hours"
+     ],
+     "answer": 2
+    }
+   ],
+   "gaps": [
+    {
+     "q": "Did you _______ home?",
+     "answer": "stay"
+    },
+    {
+     "q": "We played tennis together in the _______.",
+     "answer": "morning"
+    },
+    {
+     "q": "We ate _______ at a small Italian restaurant.",
+     "answer": "pizza"
+    }
+   ]
+  }
+ },
+ "46": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 80,
+  "data": {
+   "title": "My Last Holiday",
+   "setting": "Two men are talking about their last summer trip in a park.",
+   "speakers": [
+    "Arthur",
+    "Mason"
+   ],
+   "lines": [
+    {
+     "speaker": "Arthur",
+     "text": "Hi Mason. How was your last summer?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "It was wonderful, Arthur. I travelled to Florida with my family."
+    },
+    {
+     "speaker": "Arthur",
+     "text": "That is a great trip! How was the weather there?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "The weather was hot and sunny every day."
+    },
+    {
+     "speaker": "Arthur",
+     "text": "Did you swim in the ocean?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "Yes, I swam in the ocean every morning."
+    },
+    {
+     "speaker": "Arthur",
+     "text": "Did you take pictures?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "Yes, I took photos of the blue water and tall trees."
+    },
+    {
+     "speaker": "Arthur",
+     "text": "Did you buy a souvenir?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "Yes, I bought a small red hat as a souvenir."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Mason travelled to Florida with his family.",
+     "answer": true
+    },
+    {
+     "q": "The weather was cold and rainy.",
+     "answer": false
+    },
+    {
+     "q": "Mason swam in the ocean every morning.",
+     "answer": true
+    },
+    {
+     "q": "Mason bought a blue shirt.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "Where did Mason go last summer?",
+     "options": [
+      "Florida",
+      "California",
+      "Texas"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "How was the weather?",
+     "options": [
+      "Cold and snowy",
+      "Hot and sunny",
+      "Warm and cloudy"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What souvenir did Mason buy?",
+     "options": [
+      "A red hat",
+      "A blue shirt",
+      "A yellow bag"
+     ],
+     "answer": 0
+    }
+   ],
+   "gaps": [
+    {
+     "q": "It was ________, Arthur.",
+     "answer": "wonderful"
+    },
+    {
+     "q": "I travelled to Florida with my ______.",
+     "answer": "family"
+    },
+    {
+     "q": "Yes, I swam in the ______ every morning.",
+     "answer": "ocean"
+    }
+   ]
+  }
+ },
+ "47": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 90,
+  "data": {
+   "title": "My Childhood",
+   "setting": "Two male friends are talking about their childhood days in a coffee shop.",
+   "speakers": [
+    "Arthur",
+    "Mason"
+   ],
+   "lines": [
+    {
+     "speaker": "Arthur",
+     "text": "Mason, where were you born?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "I was born in Chicago."
+    },
+    {
+     "speaker": "Arthur",
+     "text": "Oh, nice! Were you a happy child?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "Yes, I was very happy. But I was also a bit naughty."
+    },
+    {
+     "speaker": "Arthur",
+     "text": "Really? Could you read when you went to kindergarten?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "No, I could not read then. But I had a favorite toy car."
+    },
+    {
+     "speaker": "Arthur",
+     "text": "What color was the toy car?"
+    },
+    {
+     "speaker": "Mason",
+     "text": "It was red. What about your childhood, Arthur?"
+    },
+    {
+     "speaker": "Arthur",
+     "text": "I was born in Boston. I was a quiet child."
+    },
+    {
+     "speaker": "Mason",
+     "text": "Could you ride a bike in kindergarten?"
+    },
+    {
+     "speaker": "Arthur",
+     "text": "Yes, I could ride a small blue bike."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Mason was born in Chicago.",
+     "answer": true
+    },
+    {
+     "q": "Mason could read when he went to kindergarten.",
+     "answer": false
+    },
+    {
+     "q": "Mason's favorite toy car was red.",
+     "answer": true
+    },
+    {
+     "q": "Arthur was born in Chicago.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "Where was Mason born?",
+     "options": [
+      "Boston",
+      "Chicago",
+      "New York"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What color was Mason's toy car?",
+     "options": [
+      "Red",
+      "Blue",
+      "Green"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What kind of child was Arthur?",
+     "options": [
+      "Naughty",
+      "Loud",
+      "Quiet"
+     ],
+     "answer": 2
+    }
+   ],
+   "gaps": [
+    {
+     "q": "Mason was born in ______.",
+     "answer": "Chicago"
+    },
+    {
+     "q": "Mason had a favorite toy ______.",
+     "answer": "car"
+    },
+    {
+     "q": "Arthur could ride a small blue ______.",
+     "answer": "bike"
+    }
+   ]
+  }
+ },
+ "48": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 88,
+  "data": {
+   "title": "My Last Birthday",
+   "setting": "Two friends talking about a birthday party in a kitchen.",
+   "speakers": [
+    "Felix",
+    "Max"
+   ],
+   "lines": [
+    {
+     "speaker": "Felix",
+     "text": "Hi Max. How are you?"
+    },
+    {
+     "speaker": "Max",
+     "text": "Hi Felix. I am good, thanks. Today is my birthday."
+    },
+    {
+     "speaker": "Felix",
+     "text": "Happy birthday! Did you have a party yesterday?"
+    },
+    {
+     "speaker": "Max",
+     "text": "Yes, I did. I had a big party at my house."
+    },
+    {
+     "speaker": "Felix",
+     "text": "That is great. Who did you invite?"
+    },
+    {
+     "speaker": "Max",
+     "text": "I invited ten friends."
+    },
+    {
+     "speaker": "Felix",
+     "text": "Did you have a cake?"
+    },
+    {
+     "speaker": "Max",
+     "text": "Yes, there was a chocolate cake with five candles on it."
+    },
+    {
+     "speaker": "Felix",
+     "text": "Did you get nice gifts?"
+    },
+    {
+     "speaker": "Max",
+     "text": "Yes, my brother gave me a new book. And we danced a lot."
+    },
+    {
+     "speaker": "Felix",
+     "text": "Sounds like a lot of fun."
+    },
+    {
+     "speaker": "Max",
+     "text": "It was wonderful."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Max had his birthday party yesterday.",
+     "answer": true
+    },
+    {
+     "q": "Max invited twenty friends to his house.",
+     "answer": false
+    },
+    {
+     "q": "The birthday cake had five candles on it.",
+     "answer": true
+    },
+    {
+     "q": "Max got a new computer from his brother.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "Where did Max have his party?",
+     "options": [
+      "At a park",
+      "At his house",
+      "At a restaurant"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What kind of cake was there?",
+     "options": [
+      "Chocolate cake",
+      "Vanilla cake",
+      "Strawberry cake"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What did Max's brother give him?",
+     "options": [
+      "A game",
+      "A book",
+      "A phone"
+     ],
+     "answer": 1
+    }
+   ],
+   "gaps": [
+    {
+     "q": "Today is my ______.",
+     "answer": "birthday"
+    },
+    {
+     "q": "I invited ten ______.",
+     "answer": "friends"
+    },
+    {
+     "q": "And we ______ a lot.",
+     "answer": "danced"
+    }
+   ]
+  }
+ },
+ "49": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 90,
+  "data": {
+   "title": "My Hobby",
+   "setting": "Two friends talking in a park about their hobbies.",
+   "speakers": [
+    "Miles",
+    "Victor"
+   ],
+   "lines": [
+    {
+     "speaker": "Miles",
+     "text": "Hi Victor. What do you do on the weekend?"
+    },
+    {
+     "speaker": "Victor",
+     "text": "Hi Miles. I paint pictures. I started three months ago."
+    },
+    {
+     "speaker": "Miles",
+     "text": "That is nice. Is painting hard?"
+    },
+    {
+     "speaker": "Victor",
+     "text": "At first, yes. My drawings were not very good."
+    },
+    {
+     "speaker": "Miles",
+     "text": "Are you better now?"
+    },
+    {
+     "speaker": "Victor",
+     "text": "Yes. My skill has improved a lot."
+    },
+    {
+     "speaker": "Miles",
+     "text": "I am proud of you. Do you like blue colors?"
+    },
+    {
+     "speaker": "Victor",
+     "text": "Yes, I use blue and green every day."
+    },
+    {
+     "speaker": "Miles",
+     "text": "Will you sell your art?"
+    },
+    {
+     "speaker": "Victor",
+     "text": "In the future, yes. I want to show my work in a gallery."
+    },
+    {
+     "speaker": "Miles",
+     "text": "Good luck with your art."
+    },
+    {
+     "speaker": "Victor",
+     "text": "Thank you very much."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Victor started painting three months ago.",
+     "answer": true
+    },
+    {
+     "q": "At first, Victor's drawings were very good.",
+     "answer": false
+    },
+    {
+     "q": "Victor uses blue and green colors every day.",
+     "answer": true
+    },
+    {
+     "q": "Miles wants to sell his art in the future.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "What is Victor's hobby?",
+     "options": [
+      "Reading books",
+      "Painting pictures",
+      "Playing guitar"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "When did Victor start his hobby?",
+     "options": [
+      "Three months ago",
+      "One year ago",
+      "Two weeks ago"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What colors does Victor use?",
+     "options": [
+      "Red and yellow",
+      "Black and white",
+      "Blue and green"
+     ],
+     "answer": 2
+    }
+   ],
+   "gaps": [
+    {
+     "q": "I started three months ______.",
+     "answer": "ago"
+    },
+    {
+     "q": "At ______, yes, my drawings were not very good.",
+     "answer": "first"
+    },
+    {
+     "q": "In the ______, yes, I want to show my work.",
+     "answer": "future"
+    }
+   ]
+  }
+ },
+ "50": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 76,
+  "data": {
+   "title": "A trip to the old castle",
+   "setting": "Two friends meet at a cafe to talk about a recent trip.",
+   "speakers": [
+    "Leo",
+    "Max"
+   ],
+   "lines": [
+    {
+     "speaker": "Leo",
+     "text": "Hi Max. How are you?"
+    },
+    {
+     "speaker": "Max",
+     "text": "Hello Leo. I am very good, thanks."
+    },
+    {
+     "speaker": "Leo",
+     "text": "Did you go to the old castle yesterday?"
+    },
+    {
+     "speaker": "Max",
+     "text": "Yes, I did. It was amazing."
+    },
+    {
+     "speaker": "Leo",
+     "text": "What did you see there?"
+    },
+    {
+     "speaker": "Max",
+     "text": "I saw a huge stone wall and an old building."
+    },
+    {
+     "speaker": "Leo",
+     "text": "Was there a tour guide?"
+    },
+    {
+     "speaker": "Max",
+     "text": "Yes, there was. He talked about the history of the place."
+    },
+    {
+     "speaker": "Leo",
+     "text": "Do you remember his name?"
+    },
+    {
+     "speaker": "Max",
+     "text": "Yes, his name was Peter."
+    },
+    {
+     "speaker": "Leo",
+     "text": "That sounds like a great trip."
+    },
+    {
+     "speaker": "Max",
+     "text": "It really was."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Max visited the old castle yesterday.",
+     "answer": true
+    },
+    {
+     "q": "Max went to the castle with Leo.",
+     "answer": false
+    },
+    {
+     "q": "There was a tour guide named Peter.",
+     "answer": true
+    },
+    {
+     "q": "Max thought the castle was boring.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "Where did Max go yesterday?",
+     "options": [
+      "To a park",
+      "To an old castle",
+      "To a museum"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What did Max see at the castle?",
+     "options": [
+      "A huge stone wall",
+      "A red car",
+      "A small bridge"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What was the tour guide's name?",
+     "options": [
+      "Leo",
+      "Max",
+      "Peter"
+     ],
+     "answer": 2
+    }
+   ],
+   "gaps": [
+    {
+     "q": "Max went to the ______ castle yesterday.",
+     "answer": "old"
+    },
+    {
+     "q": "I saw a huge stone ______ and an old building.",
+     "answer": "wall"
+    },
+    {
+     "q": "He talked about the ______ of the place.",
+     "answer": "history"
+    }
+   ]
+  }
+ },
+ "51": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 76,
+  "data": {
+   "title": "Happy Navruz",
+   "setting": "Two friends talk about the Navruz holiday in the park.",
+   "speakers": [
+    "Noah",
+    "Ethan"
+   ],
+   "lines": [
+    {
+     "speaker": "Noah",
+     "text": "Hi Ethan. Today is March twenty-first."
+    },
+    {
+     "speaker": "Ethan",
+     "text": "Hello Noah. Yes, we celebrate Navruz today."
+    },
+    {
+     "speaker": "Noah",
+     "text": "It is a great tradition. We always wear national clothes."
+    },
+    {
+     "speaker": "Ethan",
+     "text": "My shirt is green. What color is your shirt?"
+    },
+    {
+     "speaker": "Noah",
+     "text": "My shirt is blue. Navruz is the beginning of spring."
+    },
+    {
+     "speaker": "Ethan",
+     "text": "We get together with family and friends."
+    },
+    {
+     "speaker": "Noah",
+     "text": "Do you go to the park?"
+    },
+    {
+     "speaker": "Ethan",
+     "text": "Yes, we listen to music at the big concert."
+    },
+    {
+     "speaker": "Noah",
+     "text": "We wish everyone a happy new year."
+    },
+    {
+     "speaker": "Ethan",
+     "text": "Have a wonderful day, Noah!"
+    }
+   ],
+   "tf": [
+    {
+     "q": "Today is March twenty-first.",
+     "answer": true
+    },
+    {
+     "q": "Noah's shirt is red.",
+     "answer": false
+    },
+    {
+     "q": "They celebrate Navruz together.",
+     "answer": true
+    },
+    {
+     "q": "They listen to music at home.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "What month is it today?",
+     "options": [
+      "March",
+      "April",
+      "May"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What color is Ethan's shirt?",
+     "options": [
+      "Blue",
+      "Green",
+      "Red"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Where do they go to listen to music?",
+     "options": [
+      "School",
+      "Park",
+      "Store"
+     ],
+     "answer": 1
+    }
+   ],
+   "gaps": [
+    {
+     "q": "Today is March ______-first.",
+     "answer": "twenty"
+    },
+    {
+     "q": "My shirt is ______.",
+     "answer": "blue"
+    },
+    {
+     "q": "Navruz is the beginning of ______.",
+     "answer": "spring"
+    }
+   ]
+  }
+ },
+ "52": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 87,
+  "data": {
+   "title": "New Year Plan",
+   "setting": "Two men are talking about New Year in the living room.",
+   "speakers": [
+    "Max",
+    "Luke"
+   ],
+   "lines": [
+    {
+     "speaker": "Max",
+     "text": "Hi Luke. Do you like New Year?"
+    },
+    {
+     "speaker": "Luke",
+     "text": "Yes, I do. I love December and the big holiday."
+    },
+    {
+     "speaker": "Max",
+     "text": "What do you usually do? Did you stay up late last year?"
+    },
+    {
+     "speaker": "Luke",
+     "text": "Yes, I stayed up until midnight last year."
+    },
+    {
+     "speaker": "Max",
+     "text": "That is nice. Did you decorate your house?"
+    },
+    {
+     "speaker": "Luke",
+     "text": "Yes. We put a green New Year tree in the living room."
+    },
+    {
+     "speaker": "Max",
+     "text": "Did you see any fireworks outside?"
+    },
+    {
+     "speaker": "Luke",
+     "text": "Yes, we saw red and blue fireworks in the sky."
+    },
+    {
+     "speaker": "Max",
+     "text": "Did you make a wish?"
+    },
+    {
+     "speaker": "Luke",
+     "text": "Yes, I made a good wish for my family."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Luke loves December and the holiday.",
+     "answer": true
+    },
+    {
+     "q": "Luke stayed up until ten o'clock last year.",
+     "answer": false
+    },
+    {
+     "q": "They put a green New Year tree in the living room.",
+     "answer": true
+    },
+    {
+     "q": "Luke saw yellow and green fireworks.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "What month does Luke love?",
+     "options": [
+      "December",
+      "January",
+      "November"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What color was the New Year tree?",
+     "options": [
+      "Blue",
+      "Green",
+      "Red"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What did Luke make for his family?",
+     "options": [
+      "A cake",
+      "A wish",
+      "A gift"
+     ],
+     "answer": 1
+    }
+   ],
+   "gaps": [
+    {
+     "q": "Yes, I stayed up until ______ last year.",
+     "answer": "midnight"
+    },
+    {
+     "q": "We put a green New Year ______ in the living room.",
+     "answer": "tree"
+    },
+    {
+     "q": "Yes, we saw red and blue ______ in the sky.",
+     "answer": "fireworks"
+    }
+   ]
+  }
+ },
+ "53": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 90,
+  "data": {
+   "title": "A Nice Gift",
+   "setting": "Two men talk about a special birthday present in a living room.",
+   "speakers": [
+    "Lucas",
+    "Ethan"
+   ],
+   "lines": [
+    {
+     "speaker": "Lucas",
+     "text": "Hi Ethan. What is that box on the table?"
+    },
+    {
+     "speaker": "Ethan",
+     "text": "Hello Lucas. It is a gift for my mother."
+    },
+    {
+     "speaker": "Lucas",
+     "text": "Is today her birthday?"
+    },
+    {
+     "speaker": "Ethan",
+     "text": "Yes, it is. She is sixty years old today."
+    },
+    {
+     "speaker": "Lucas",
+     "text": "That is a big birthday. What did you get her?"
+    },
+    {
+     "speaker": "Ethan",
+     "text": "I got her a bottle of red perfume."
+    },
+    {
+     "speaker": "Lucas",
+     "text": "Oh, perfume is a wonderful surprise."
+    },
+    {
+     "speaker": "Ethan",
+     "text": "Yes, I chose a nice smell for her."
+    },
+    {
+     "speaker": "Lucas",
+     "text": "Did you give it to her this morning?"
+    },
+    {
+     "speaker": "Ethan",
+     "text": "Yes. She wanted to open it right away."
+    },
+    {
+     "speaker": "Lucas",
+     "text": "Did she like it?"
+    },
+    {
+     "speaker": "Ethan",
+     "text": "She loved it. She thanked me twice."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Ethan bought a gift for his mother.",
+     "answer": true
+    },
+    {
+     "q": "The mother is fifty years old today.",
+     "answer": false
+    },
+    {
+     "q": "The perfume is red.",
+     "answer": true
+    },
+    {
+     "q": "Ethan gave the gift to his friend.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "Who is the gift for?",
+     "options": [
+      "His sister",
+      "His mother",
+      "His friend"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "How old is she today?",
+     "options": [
+      "Sixty",
+      "Fifty",
+      "Seventy"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What did Ethan get her?",
+     "options": [
+      "Flowers",
+      "A book",
+      "Perfume"
+     ],
+     "answer": 2
+    }
+   ],
+   "gaps": [
+    {
+     "q": "It is a ______ for my mother.",
+     "answer": "gift"
+    },
+    {
+     "q": "I got her a bottle of red ______.",
+     "answer": "perfume"
+    },
+    {
+     "q": "She ______ me twice.",
+     "answer": "thanked"
+    }
+   ]
+  }
+ },
+ "54": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 114,
+  "data": {
+   "title": "Guests at Home",
+   "setting": "Two men are preparing their apartment for guests coming for dinner.",
+   "speakers": [
+    "Luke",
+    "Evan"
+   ],
+   "lines": [
+    {
+     "speaker": "Luke",
+     "text": "Evan, our first guest is arriving in twenty minutes!"
+    },
+    {
+     "speaker": "Evan",
+     "text": "I am ready, Luke. When friends come over, we always have a clean home."
+    },
+    {
+     "speaker": "Luke",
+     "text": "That is very polite. Look at the table. Do you like the red tablecloth?"
+    },
+    {
+     "speaker": "Evan",
+     "text": "Yes, it looks great. Did you invite four people tonight?"
+    },
+    {
+     "speaker": "Luke",
+     "text": "Yes, I did. I like to invite good friends for dinner."
+    },
+    {
+     "speaker": "Evan",
+     "text": "When people arrive, we can welcome them at the front door."
+    },
+    {
+     "speaker": "Luke",
+     "text": "Good idea. And when they sit down, I can pour some cold water for them."
+    },
+    {
+     "speaker": "Evan",
+     "text": "They want to bring some dessert too."
+    },
+    {
+     "speaker": "Luke",
+     "text": "That is nice. When the evening ends, we will say goodbye and thank them."
+    },
+    {
+     "speaker": "Evan",
+     "text": "Everything is ready now. Let us wait for them."
+    }
+   ],
+   "tf": [
+    {
+     "q": "The first guest is arriving in twenty minutes.",
+     "answer": true
+    },
+    {
+     "q": "The tablecloth on the table is blue.",
+     "answer": false
+    },
+    {
+     "q": "Luke likes to invite good friends for dinner.",
+     "answer": true
+    },
+    {
+     "q": "Evan wants to pour hot tea for the guests.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "How many people are coming tonight?",
+     "options": [
+      "Two people",
+      "Four people",
+      "Six people"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What color is the tablecloth?",
+     "options": [
+      "Red",
+      "White",
+      "Green"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What will Luke pour for the guests when they sit down?",
+     "options": [
+      "Hot tea",
+      "Cold milk",
+      "Cold water"
+     ],
+     "answer": 2
+    }
+   ],
+   "gaps": [
+    {
+     "q": "When friends come over, we always have a clean ______.",
+     "answer": "home"
+    },
+    {
+     "q": "Do you like the red ______?",
+     "answer": "tablecloth"
+    },
+    {
+     "q": "When people arrive, we can welcome them at the front ______.",
+     "answer": "door"
+    }
+   ]
+  }
+ },
+ "55": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 90,
+  "data": {
+   "title": "Weekend Plans",
+   "setting": "Two colleagues talk in the office kitchen about their schedules.",
+   "speakers": [
+    "Ethan",
+    "Noah"
+   ],
+   "lines": [
+    {
+     "speaker": "Ethan",
+     "text": "Hi Noah. What is your plan for tomorrow?"
+    },
+    {
+     "speaker": "Noah",
+     "text": "Hi Ethan. Tomorrow I am going to work until five o'clock."
+    },
+    {
+     "speaker": "Ethan",
+     "text": "Are you going to study after work?"
+    },
+    {
+     "speaker": "Noah",
+     "text": "Yes. I am going to prepare for the English test on Wednesday."
+    },
+    {
+     "speaker": "Ethan",
+     "text": "Good luck. Are you free next weekend?"
+    },
+    {
+     "speaker": "Noah",
+     "text": "Maybe. On Saturday, I am going to finish my housework in the morning."
+    },
+    {
+     "speaker": "Ethan",
+     "text": "Are you going to stay home on Sunday?"
+    },
+    {
+     "speaker": "Noah",
+     "text": "No. I am going to visit my parents on Sunday."
+    },
+    {
+     "speaker": "Ethan",
+     "text": "That sounds nice. I am going to visit my brother."
+    },
+    {
+     "speaker": "Noah",
+     "text": "Have a great time!"
+    }
+   ],
+   "tf": [
+    {
+     "q": "Noah is going to work until five o'clock tomorrow.",
+     "answer": true
+    },
+    {
+     "q": "Noah has an English test on Tuesday.",
+     "answer": false
+    },
+    {
+     "q": "Noah is going to finish his housework on Saturday morning.",
+     "answer": true
+    },
+    {
+     "q": "Noah is going to visit his brother next weekend.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "Where are the men talking?",
+     "options": [
+      "In the office kitchen",
+      "At a coffee shop",
+      "In the classroom"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What test is Noah preparing for?",
+     "options": [
+      "Math",
+      "English",
+      "History"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Who is Noah going to visit on Sunday?",
+     "options": [
+      "His brother",
+      "His friend",
+      "His parents"
+     ],
+     "answer": 2
+    }
+   ],
+   "gaps": [
+    {
+     "q": "Tomorrow I am going to work until five ______.",
+     "answer": "o'clock"
+    },
+    {
+     "q": "Are you free next ______?",
+     "answer": "weekend"
+    },
+    {
+     "q": "I am going to visit my ______ on Sunday.",
+     "answer": "parents"
+    }
+   ]
+  }
+ },
+ "56": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 96,
+  "data": {
+   "title": "Summer Plans",
+   "setting": "Two friends are talking about what they are going to do this summer.",
+   "speakers": [
+    "Carlos",
+    "Victor"
+   ],
+   "lines": [
+    {
+     "speaker": "Carlos",
+     "text": "Hi Victor. How are you?"
+    },
+    {
+     "speaker": "Victor",
+     "text": "Hi Carlos. I am fine, thanks. Are you ready for the holiday?"
+    },
+    {
+     "speaker": "Carlos",
+     "text": "Yes, I am. I would like to travel this summer."
+    },
+    {
+     "speaker": "Victor",
+     "text": "Where are you going to go?"
+    },
+    {
+     "speaker": "Carlos",
+     "text": "I am going to visit my family near the sea."
+    },
+    {
+     "speaker": "Victor",
+     "text": "That sounds nice. Do you want to rest?"
+    },
+    {
+     "speaker": "Carlos",
+     "text": "Yes, I need to rest. What about you, Victor?"
+    },
+    {
+     "speaker": "Victor",
+     "text": "I am going to take a computer course."
+    },
+    {
+     "speaker": "Carlos",
+     "text": "Is there a big exam at the end?"
+    },
+    {
+     "speaker": "Victor",
+     "text": "Yes, there is an exam in August."
+    },
+    {
+     "speaker": "Carlos",
+     "text": "I hope you pass the exam."
+    },
+    {
+     "speaker": "Victor",
+     "text": "Thank you, Carlos. Have a good summer."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Carlos is going to visit his family.",
+     "answer": true
+    },
+    {
+     "q": "Victor is going to travel to the sea.",
+     "answer": false
+    },
+    {
+     "q": "Victor is going to take a computer course.",
+     "answer": true
+    },
+    {
+     "q": "The exam is in July.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "What would Carlos like to do this summer?",
+     "options": [
+      "To travel",
+      "To study",
+      "To work"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Where is Carlos going to go?",
+     "options": [
+      "To the mountains",
+      "Near the sea",
+      "To the city"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "When is Victor's exam?",
+     "options": [
+      "In June",
+      "In July",
+      "In August"
+     ],
+     "answer": 2
+    }
+   ],
+   "gaps": [
+    {
+     "q": "I would like to ______ this summer.",
+     "answer": "travel"
+    },
+    {
+     "q": "I am going to take a computer ______.",
+     "answer": "course"
+    },
+    {
+     "q": "Yes, there is an exam in ______.",
+     "answer": "August"
+    }
+   ]
+  }
+ },
+ "57": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 77,
+  "data": {
+   "title": "My Future Job",
+   "setting": "Two men are talking about their future jobs at a coffee shop.",
+   "speakers": [
+    "Noah",
+    "Miles"
+   ],
+   "lines": [
+    {
+     "speaker": "Noah",
+     "text": "Hi Miles. What is your dream job for the future?"
+    },
+    {
+     "speaker": "Miles",
+     "text": "Hello Noah. I want to be a programmer."
+    },
+    {
+     "speaker": "Noah",
+     "text": "That is a great job. Do you want to enter university?"
+    },
+    {
+     "speaker": "Miles",
+     "text": "Yes, I will study hard every day to enter university next year."
+    },
+    {
+     "speaker": "Noah",
+     "text": "Will you get a good salary?"
+    },
+    {
+     "speaker": "Miles",
+     "text": "Yes, the salary is very high for programmers."
+    },
+    {
+     "speaker": "Noah",
+     "text": "What about you, Noah? What do you want to become?"
+    },
+    {
+     "speaker": "Miles",
+     "text": "I want to become a teacher."
+    },
+    {
+     "speaker": "Noah",
+     "text": "That is a wonderful job too."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Miles wants to be a programmer.",
+     "answer": true
+    },
+    {
+     "q": "Noah wants to be a programmer.",
+     "answer": false
+    },
+    {
+     "q": "Miles will enter university next year.",
+     "answer": true
+    },
+    {
+     "q": "Noah wants to become a doctor.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "What is Miles's dream job?",
+     "options": [
+      "Teacher",
+      "Programmer",
+      "Doctor"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "When will Miles enter university?",
+     "options": [
+      "Next year",
+      "Next month",
+      "Tomorrow"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What does Noah want to become?",
+     "options": [
+      "Programmer",
+      "Teacher",
+      "Engineer"
+     ],
+     "answer": 1
+    }
+   ],
+   "gaps": [
+    {
+     "q": "I want to be a ______.",
+     "answer": "programmer"
+    },
+    {
+     "q": "I will study hard every day to enter ______ next year.",
+     "answer": "university"
+    },
+    {
+     "q": "Yes, the ______ is very high for programmers.",
+     "answer": "salary"
+    }
+   ]
+  }
+ },
+ "58": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 101,
+  "data": {
+   "title": "A Great Country",
+   "setting": "Two friends are talking about travel at a coffee shop.",
+   "speakers": [
+    "Logan",
+    "Miles"
+   ],
+   "lines": [
+    {
+     "speaker": "Logan",
+     "text": "Hi Miles. I want to see the world one day."
+    },
+    {
+     "speaker": "Miles",
+     "text": "Hello Logan. That is a great plan. Which country would you like to visit?"
+    },
+    {
+     "speaker": "Logan",
+     "text": "I would like to visit Turkey."
+    },
+    {
+     "speaker": "Miles",
+     "text": "Turkey is amazing. Why do you want to go there?"
+    },
+    {
+     "speaker": "Logan",
+     "text": "I want to learn about the culture and see the people."
+    },
+    {
+     "speaker": "Miles",
+     "text": "The people are very nice. Do you want to fly in a plane?"
+    },
+    {
+     "speaker": "Logan",
+     "text": "Yes, I want to take a big white plane."
+    },
+    {
+     "speaker": "Miles",
+     "text": "And what would you like to do in Turkey?"
+    },
+    {
+     "speaker": "Logan",
+     "text": "I would like to try the local food."
+    },
+    {
+     "speaker": "Miles",
+     "text": "The food is very good. I hope you can go soon."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Logan wants to see the world one day.",
+     "answer": true
+    },
+    {
+     "q": "Logan would like to visit Japan.",
+     "answer": false
+    },
+    {
+     "q": "Logan wants to take a big white plane.",
+     "answer": true
+    },
+    {
+     "q": "Miles wants to try the local food.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "Where are Logan and Miles talking?",
+     "options": [
+      "At a park",
+      "At a coffee shop",
+      "At an airport"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Which country does Logan want to visit?",
+     "options": [
+      "Turkey",
+      "France",
+      "Brazil"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What color is the plane Logan talks about?",
+     "options": [
+      "Blue",
+      "Red",
+      "White"
+     ],
+     "answer": 2
+    }
+   ],
+   "gaps": [
+    {
+     "q": "I want to see the world one ______.",
+     "answer": "day"
+    },
+    {
+     "q": "I would like to visit ______.",
+     "answer": "Turkey"
+    },
+    {
+     "q": "I want to take a big white ______.",
+     "answer": "plane"
+    }
+   ]
+  }
+ },
+ "59": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 112,
+  "data": {
+   "title": "City Life",
+   "setting": "Two friends meet on a park bench to talk about living in the city and the village.",
+   "speakers": [
+    "Oliver",
+    "Luke"
+   ],
+   "lines": [
+    {
+     "speaker": "Oliver",
+     "text": "Hi Luke. Do you like living in this city?"
+    },
+    {
+     "speaker": "Luke",
+     "text": "Hi Oliver. Yes, I do. But my hometown is quieter than this place."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "Is the village cleaner too?"
+    },
+    {
+     "speaker": "Luke",
+     "text": "Yes, it is. The air is very clean there. And food is cheaper than here."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "That sounds nice. But this city is bigger than your village."
+    },
+    {
+     "speaker": "Luke",
+     "text": "That is true. And life in the city is more interesting for me."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "Why is that?"
+    },
+    {
+     "speaker": "Luke",
+     "text": "There are five cinemas and many parks. My village has only one store."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "I see. City life is better for shopping, but village life is nicer for rest."
+    },
+    {
+     "speaker": "Luke",
+     "text": "Exactly. Apartments here are more expensive than houses in the village, though."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "Nothing is perfect!"
+    }
+   ],
+   "tf": [
+    {
+     "q": "Luke says his hometown is quieter than the city.",
+     "answer": true
+    },
+    {
+     "q": "The village has five cinemas.",
+     "answer": false
+    },
+    {
+     "q": "Food is cheaper in the village than in the city.",
+     "answer": true
+    },
+    {
+     "q": "Apartments in the city are cheaper than houses in the village.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "Where do Oliver and Luke talk?",
+     "options": [
+      "In a store",
+      "On a park bench",
+      "In an apartment"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "How many cinemas does Luke's village have?",
+     "options": [
+      "Zero",
+      "One",
+      "Five"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What does Luke say about city life?",
+     "options": [
+      "It is more interesting",
+      "It is too quiet",
+      "It is very cheap"
+     ],
+     "answer": 0
+    }
+   ],
+   "gaps": [
+    {
+     "q": "My hometown is ______ than this place.",
+     "answer": "quieter"
+    },
+    {
+     "q": "This city is ______ than your village.",
+     "answer": "bigger"
+    },
+    {
+     "q": "My village has only one ______.",
+     "answer": "store"
+    }
+   ]
+  }
+ },
+ "60": {
+  "ok": true,
+  "model": "gemini-3.5-flash-lite",
+  "words": 95,
+  "data": {
+   "title": "All About Me",
+   "setting": "Two classmates talking about themselves at a community center in Boston.",
+   "speakers": [
+    "Owen",
+    "Blake"
+   ],
+   "lines": [
+    {
+     "speaker": "Owen",
+     "text": "Hello, Blake. Let us talk about ourselves today."
+    },
+    {
+     "speaker": "Blake",
+     "text": "Hello, Owen. I can tell you about myself."
+    },
+    {
+     "speaker": "Owen",
+     "text": "Great. What is your character like?"
+    },
+    {
+     "speaker": "Blake",
+     "text": "I am quiet and calm. Last year, I was shy."
+    },
+    {
+     "speaker": "Owen",
+     "text": "That is nice. I practised my English every day last year."
+    },
+    {
+     "speaker": "Blake",
+     "text": "Did you learn English easily?"
+    },
+    {
+     "speaker": "Owen",
+     "text": "Yes, I did. Listening to songs helped me a lot."
+    },
+    {
+     "speaker": "Blake",
+     "text": "Wonderful. What is your goal for next year?"
+    },
+    {
+     "speaker": "Owen",
+     "text": "My goal is to read three books in English every month."
+    },
+    {
+     "speaker": "Blake",
+     "text": "That is a very good goal. I wish you success."
+    },
+    {
+     "speaker": "Owen",
+     "text": "Thank you, Blake. Good luck to you too."
+    }
+   ],
+   "tf": [
+    {
+     "q": "Blake describes himself as quiet and calm.",
+     "answer": true
+    },
+    {
+     "q": "Owen says he was shy last year.",
+     "answer": false
+    },
+    {
+     "q": "Owen practised his English every day last year.",
+     "answer": true
+    },
+    {
+     "q": "Blake wants to read three books in English every month next year.",
+     "answer": false
+    }
+   ],
+   "mc": [
+    {
+     "q": "What was Blake like last year?",
+     "options": [
+      "Loud",
+      "Shy",
+      "Angry"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What helped Owen learn English easily?",
+     "options": [
+      "Listening to songs",
+      "Watching movies",
+      "Reading magazines"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What is Owen's goal for next year?",
+     "options": [
+      "To write a new song",
+      "To travel to Boston",
+      "To read three books in English every month"
+     ],
+     "answer": 2
+    }
+   ],
+   "gaps": [
+    {
+     "q": "I can tell you about ______.",
+     "answer": "myself"
+    },
+    {
+     "q": "Last year, I was ______.",
+     "answer": "shy"
+    },
+    {
+     "q": "What is your ______ for next year?",
+     "answer": "goal"
+    }
+   ]
+  }
+ }
+}

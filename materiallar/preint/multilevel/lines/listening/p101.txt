@@ -1,0 +1,28 @@
+﻿94`t21`t188`t102
+166`t26`t226`tExercise 36
+86`t27`t779`tMultilevel Master listening
+208`t28`t227`tYou will hear someone giving a talk. Label the places (1-4) on the map
+244`t27`t226`t(A-G). There are THREE extra options which you do not need to use.
+316`t18`t588`tStation Road
+392`t15`t611`tMarket
+414`t18`t611`tSquare
+501`t22`t374`tc
+596`t13`t489`tSouth Street
+760`t26`t232`t1. school 2. prison 3. coaching inn 4. warehouses
+837`t24`t233`tExercise 37
+889`t27`t233`tYou will hear someone giving a talk. Label the places (1-5) on the map
+925`t26`t231`t(A-H). There are THREE extra options which you do not need to use.
+978`t20`t430`tBESTLEY CASTLE AND GROUNDS
+1117`t23`t387`tF
+1270`t17`t329`tEntrance
+1121`t18`t515`tExit
+1237`t16`t540`tNorth
+1129`t15`t660`toat
+1244`t24`t481`tE
+1246`t16`t638`tCastle
+1261`t20`t540`tBridge
+1241`t16`t734`tSouth
+1252`t16`t814`tDeer park
+1263`t19`t734`tBridge
+1477`t28`t226`tI. tourist information 2. car park 3. museum 4. picnic area 5. gift shop
+1653`t9`t1022`tScanned With

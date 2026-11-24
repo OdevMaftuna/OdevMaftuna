@@ -1,0 +1,35 @@
+{
+ "script": "Speaker 1: You will hear a man called Jack Pindar talking to a group of students about his job as a radio presenter. Jack: Good morning. Thanks for inviting me to come and talk to you all today. I have been a radio presenter for ten years now. I started doing DJ work for the university radio station. Strangely, I wasn't studying music or art. In fact, I was a history student, but I've always loved music. I do the breakfast show Monday to Friday. I start at 6:00 a.m. and I'm not much of a breakfast person, so I don't eat before the show. Everyone else eats and drinks loads of strong coffee, but I'm a tea man myself. One big cup and then I'm ready to start. Once I've finished the show at 10:00, I have my breakfast then and a glass of juice. I love my job because I get to play great music. The best thing of all is when I get to do interviews. I've met some amazing people, some of them famous and some of them just ordinary people who have done wonderful things. Unfortunately, I have made myself look silly a few times. My memory isn't that good. It's not that I forget dates or times or anything like that, but once in the middle of talking to a politician, I forgot their name. That was not good. I had never thought that I would have a successful career as a radio presenter when I was at university. I was always interested in teaching or acting, but if I changed careers now, I would definitely be a reporter of some kind as I love talking to people. Well, that's a little bit about me. If any of you are free this weekend and aren't too busy studying or going to clubs, why not come and see me at a charity event I'm doing at Hatfield House? If you want to make a note of that, it's spelled H-A-T-F-I-E-L-D House. I hope to see some of you there.",
+ "items": [
+  {
+   "n": 1,
+   "quote": "In fact, I was a history student",
+   "uz": "Jack universitetda musiqa yoki san'at emas, balki tarix (history) yo'nalishida o'qiganini aytadi."
+  },
+  {
+   "n": 2,
+   "quote": "I'm a tea man myself. One big cup and then I'm ready to start.",
+   "uz": "Jack ko'rsatuvdan oldin kofe emas, balki bir katta finjon choy (tea) ichishini ta'kidlaydi."
+  },
+  {
+   "n": 3,
+   "quote": "The best thing of all is when I get to do interviews.",
+   "uz": "U o'z ishining eng yoqimli qismi sifatida intervyular (interviews) o'tkazishni aytadi."
+  },
+  {
+   "n": 4,
+   "quote": "once in the middle of talking to a politician, I forgot their name.",
+   "uz": "Jack siyosatchi bilan suhbat paytida uning ismini (name) unutib qo'ygani uchun xijolat bo'lgan."
+  },
+  {
+   "n": 5,
+   "quote": "if I changed careers now, I would definitely be a reporter of some kind",
+   "uz": "Agar u radio boshlovchisi bo'lmaganida, reportyor (reporter) bo'lishini aytadi. O'qituvchilik yoki aktyorlik uning eski qiziqishlari edi."
+  },
+  {
+   "n": 6,
+   "quote": "charity event I'm doing at Hatfield House",
+   "uz": "Xayriya tadbiri Hatfield House deb nomlangan joyda bo'lib o'tadi."
+  }
+ ]
+}

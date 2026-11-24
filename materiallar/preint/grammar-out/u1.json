@@ -1,0 +1,1437 @@
+{
+ "unit": 1,
+ "parts": [
+  [
+   {
+    "kind": "verb",
+    "q": "Yesterday I ______ to the new shopping mall with my friends.",
+    "hint": "go",
+    "options": [],
+    "answer": "went",
+    "accept": [],
+    "explain": "Gapda «yesterday» bor — bu o‘tgan zamon belgisi, shuning uchun Past Simple: went.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "My brother ______ football after school last Tuesday.",
+    "hint": "play",
+    "options": [],
+    "answer": "played",
+    "accept": [],
+    "explain": "Gapda «last Tuesday» bor — bu o‘tgan zamon belgisi, shuning uchun Past Simple: played.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "We ______ our grandparents in Samarkand last weekend.",
+    "hint": "visit",
+    "options": [],
+    "answer": "visited",
+    "accept": [],
+    "explain": "Gapda «last weekend» bor — bu o‘tgan zamon belgisi, shuning uchun Past Simple: visited.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "She ______ eat breakfast this morning because she was late.",
+    "hint": "not",
+    "options": [],
+    "answer": "didn't",
+    "accept": [
+     "did not"
+    ],
+    "explain": "Gapda «this morning» va «because she was late» bor, shuning uchun inkor shakl: didn't eat.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "______ you watch the interesting film on TV last night?",
+    "hint": "you / watch",
+    "options": [],
+    "answer": "Did",
+    "accept": [],
+    "explain": "Gapda «last night» bor va oxirida so‘roq belgisi kelgan, shuning uchun Past Simple so‘roq shakli: Did you watch.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "They ______ English grammar very well at school yesterday.",
+    "hint": "study",
+    "options": [],
+    "answer": "studied",
+    "accept": [],
+    "explain": "Gapda «yesterday» so‘zi bor, shuning uchun fe'lning o‘tgan zamon shakli: studied.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "I ______ my favorite blue pen under the desk five minutes ago.",
+    "hint": "find",
+    "options": [],
+    "answer": "found",
+    "accept": [],
+    "explain": "Gapda «five minutes ago» bor — bu o‘tgan zamon belgisi, shuning uchun irregular fe'l: found.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Aziza ______ happy when she got a bad mark in maths.",
+    "hint": "not be",
+    "options": [],
+    "answer": "wasn't",
+    "accept": [
+     "was not"
+    ],
+    "explain": "Gapda «bad mark» va o‘tgan zamon bor, shuning uchun to be fe'lining inkor shakli: wasn't.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "______ they arrive at the train station on time this morning?",
+    "hint": "they / arrive",
+    "options": [],
+    "answer": "Did",
+    "accept": [],
+    "explain": "Gapda «this morning» bor va so‘roq gap, shuning uchun boshida Did keladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "He ______ a delicious pizza for dinner on Sunday evening.",
+    "hint": "cook",
+    "options": [],
+    "answer": "cooked",
+    "accept": [],
+    "explain": "Gapda «on Sunday evening» bor, shuning uchun to‘g‘ri keladigan Past Simple fe'li: cooked.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "We ______ to Tashkent by train during our winter holidays.",
+    "hint": "travel",
+    "options": [],
+    "answer": "traveled",
+    "accept": [
+     "travelled"
+    ],
+    "explain": "Gapda «during our winter holidays» bor, shuning uchun o‘tgan zamon fe'li: traveled.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Tom ______ his phone in the classroom yesterday afternoon.",
+    "hint": "lose",
+    "options": [],
+    "answer": "lost",
+    "accept": [],
+    "explain": "Gapda «yesterday afternoon» bor, shuning uchun lose fe'lining o‘tgan zamon shakli: lost.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Why ______ you buy that expensive jacket last week?",
+    "hint": "you / buy",
+    "options": [],
+    "answer": "did",
+    "accept": [],
+    "explain": "Gapda «last week» bor va maxsus so‘roq gap, shuning uchun yordamchi fe'l: did.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "The weather ______ very cold and rainy during our trip.",
+    "hint": "be",
+    "options": [],
+    "answer": "was",
+    "accept": [],
+    "explain": "Gapda «during our trip» bor, shuning uchun singular subject uchun to be o‘tgan zamon: was.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "She ______ her bedroom on Saturday morning because it was messy.",
+    "hint": "clean",
+    "options": [],
+    "answer": "cleaned",
+    "accept": [],
+    "explain": "Gapda «Saturday morning» bor, shuning uchun to‘g‘ri o‘tgan zamon shakli: cleaned.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "______ Bekhzod clean his bike yesterday? No, he didn't.",
+    "hint": "Bekhzod / clean",
+    "options": [],
+    "answer": "Did",
+    "accept": [],
+    "explain": "Gapda «yesterday» bor va qisqa javobga qarab savol Did bilan boshlanishi kerak.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "I ______ the bus to school this morning, so I walked.",
+    "hint": "miss",
+    "options": [],
+    "answer": "missed",
+    "accept": [],
+    "explain": "Gapda «this morning» va «so I walked» bor, shuning uchun missed.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "They ______ ready for the English test last night.",
+    "hint": "not be",
+    "options": [],
+    "answer": "weren't",
+    "accept": [
+     "were not"
+    ],
+    "explain": "Gapda «last night» va inkor ma'no bor, shuning uchun plural to be inkor shakli: weren't.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Where ______ you go for your summer holiday last year?",
+    "hint": "you / go",
+    "options": [],
+    "answer": "did",
+    "accept": [],
+    "explain": "Gapda «last year» bor va joy haqida so‘roq, shuning uchun did ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "My mother ______ a very tasty cake for my birthday.",
+    "hint": "bake",
+    "options": [],
+    "answer": "baked",
+    "accept": [],
+    "explain": "Gapda «my birthday» o‘tgan voqea ekanini ko‘rsatadi, shuning uchun baked.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "He ______ listen to the teacher during the lesson yesterday.",
+    "hint": "not listen",
+    "options": [],
+    "answer": "didn't",
+    "accept": [
+     "did not"
+    ],
+    "explain": "Gapda «yesterday» bor va inkor ma'no kerak, shuning uchun didn't.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "______ the children play football after classes yesterday?",
+    "hint": "the children / play",
+    "options": [],
+    "answer": "Did",
+    "accept": [],
+    "explain": "Gapda «yesterday» va so‘roq belgi bor, shuning uchun boshida Did keladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "I ______ a strange noise outside my window late at night.",
+    "hint": "hear",
+    "options": [],
+    "answer": "heard",
+    "accept": [],
+    "explain": "Gapda «late at night» o‘tgan zamonni bildiradi, shuning uchun irregular fe'l: heard.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Jasur ______ happy when he won the first prize in chess.",
+    "hint": "be",
+    "options": [],
+    "answer": "was",
+    "accept": [],
+    "explain": "Gapda «won» o‘tgan zamonni ko‘rsatadi, shuning uchun to be shakli: was.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "We ______ our keys in the living room two hours ago.",
+    "hint": "leave",
+    "options": [],
+    "answer": "left",
+    "accept": [],
+    "explain": "Gapda «two hours ago» bor — bu o‘tgan zamon belgisi, shuning uchun left.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "She ______ finish her homework because she was very tired.",
+    "hint": "not finish",
+    "options": [],
+    "answer": "didn't",
+    "accept": [
+     "did not"
+    ],
+    "explain": "Gapda «because she was very tired» sababli inkor o‘tgan zamon kerak: didn't.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "______ you see the new art gallery in the city center?",
+    "hint": "you / see",
+    "options": [],
+    "answer": "Did",
+    "accept": [],
+    "explain": "Gapda o‘tgan zamon ma'nosi bor va so‘roq gap, shuning uchun Did ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "The students ______ many new English words in class yesterday.",
+    "hint": "learn",
+    "options": [],
+    "answer": "learned",
+    "accept": [
+     "learnt"
+    ],
+    "explain": "Gapda «yesterday» bor, shuning uchun to‘g‘ri Past Simple fe'li: learned.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "I ______ a cup of hot tea after coming home from work.",
+    "hint": "drink",
+    "options": [],
+    "answer": "drank",
+    "accept": [],
+    "explain": "Gapda «coming home» o‘tgan voqea, shuning uchun drink fe'lining o‘tgan zamoni: drank.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "They ______ at home all day yesterday because of the rain.",
+    "hint": "be",
+    "options": [],
+    "answer": "were",
+    "accept": [],
+    "explain": "Gapda «yesterday» bor va plural subject, shuning uchun to be o‘tgan zamon: were.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Who ______ you talk to on the phone last night?",
+    "hint": "you / talk",
+    "options": [],
+    "answer": "did",
+    "accept": [],
+    "explain": "Gapda «last night» bor va so‘roq gap, shuning uchun did ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Madina ______ her old friend at the market last Sunday.",
+    "hint": "meet",
+    "options": [],
+    "answer": "met",
+    "accept": [],
+    "explain": "Gapda «last Sunday» bor, shuning uchun meet fe'lining o‘tgan zamoni: met.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "He ______ buy a new laptop last month because it was expensive.",
+    "hint": "not buy",
+    "options": [],
+    "answer": "didn't",
+    "accept": [
+     "did not"
+    ],
+    "explain": "Gapda «because it was expensive» inkor zamonni talab qiladi: didn't buy.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "______ it rain heavily during your stay in London?",
+    "hint": "it / rain",
+    "options": [],
+    "answer": "Did",
+    "accept": [],
+    "explain": "Gapda o‘tgan zamon va so‘roq shakl bor, shuning uchun boshida Did keladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "We ______ a wonderful time at the music concert yesterday.",
+    "hint": "have",
+    "options": [],
+    "answer": "had",
+    "accept": [],
+    "explain": "Gapda «yesterday» bor, shuning uchun have fe'lining o‘tgan zamon shakli: had.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "The teacher ______ a very interesting story to the class.",
+    "hint": "tell",
+    "options": [],
+    "answer": "told",
+    "accept": [],
+    "explain": "Gapda o‘tgan zamondagi hikoya haqida boryapti, shuning uchun told.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Why ______ she cry when she heard the bad news?",
+    "hint": "she / cry",
+    "options": [],
+    "answer": "did",
+    "accept": [],
+    "explain": "Gapda sabab so‘ralmoqda va o‘tgan zamon, shuning uchun did ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "I ______ a letter to my penfriend in England last week.",
+    "hint": "write",
+    "options": [],
+    "answer": "wrote",
+    "accept": [],
+    "explain": "Gapda «last week» bor, shuning uchun write fe'lining o‘tgan zamoni: wrote.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "They ______ open the window because it was very cold outside.",
+    "hint": "not open",
+    "options": [],
+    "answer": "didn't",
+    "accept": [
+     "did not"
+    ],
+    "explain": "Gapda «because it was very cold» inkor fe'lni talab qiladi: didn't.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "______ you sleep well last night after the long journey?",
+    "hint": "you / sleep",
+    "options": [],
+    "answer": "Did",
+    "accept": [],
+    "explain": "Gapda «last night» bor va so‘roq shakl kerak, shuning uchun Did ishlatiladi.",
+    "wrong": {}
+   }
+  ],
+  [
+   {
+    "kind": "choose",
+    "q": "You ______ walk alone in the dark park at night.",
+    "hint": "",
+    "options": [
+     "should",
+     "shouldn't",
+     "did",
+     "didn't"
+    ],
+    "answer": "shouldn't",
+    "accept": [],
+    "explain": "Xavfli vaziyatda maslahat berish uchun «shouldn't» ishlatiladi, chunki gapda «alone in the dark park» bor.",
+    "wrong": {
+     "should": "Xavfli ishni tavsiya qilib bo'lmaydi, shuning uchun bu noto'g'ri.",
+     "did": "Bu o'tgan zamon yordamchi fe'li, maslahat uchun mos kelmaydi.",
+     "didn't": "Bu o'tgan zamon inkor shakli, ma'nosi bu yerga to'g'ri kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Students ______ listen carefully when the teacher explains a new rule.",
+    "hint": "",
+    "options": [
+     "should",
+     "shouldn't",
+     "was",
+     "were"
+    ],
+    "answer": "should",
+    "accept": [],
+    "explain": "To'g'ri ishni bajarishni tavsiya qilish uchun «should» ishlatiladi, chunki gapda «listen carefully» bor.",
+    "wrong": {
+     "shouldn't": "Darsda tinglamaslikni maslahat berib bo'lmaydi.",
+     "was": "Bu o'tgan zamon fe'li, bu yerda fe'lning bosh shakli kerak.",
+     "were": "Bu ko'plikdagi o'tgan zamon fe'li, ma'nosi mos kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Shaxzod ______ his English notebook at home this morning.",
+    "hint": "",
+    "options": [
+     "leave",
+     "left",
+     "leaving",
+     "leaves"
+    ],
+    "answer": "left",
+    "accept": [],
+    "explain": "Gapda «this morning» bor — bu o'tgan zamon, shuning uchun Past Simple: left.",
+    "wrong": {
+     "leave": "Bu fe'lning birinchi shakli, o'tgan zamon uchun ishlatilmaydi.",
+     "leaving": "Bu -ing qo'shimchali shakl, bu yerga noto'g'ri.",
+     "leaves": "Bu hozirgi zamon shakli, vaqt o'tgan zamonni ko'rsatmoqda."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "______ Dilbar drink milk before going to bed last night?",
+    "hint": "",
+    "options": [
+     "Do",
+     "Does",
+     "Did",
+     "Should"
+    ],
+    "answer": "Did",
+    "accept": [],
+    "explain": "Gapda «last night» bor va fe'l so'roq shaklida, shuning uchun «Did» ishlatiladi.",
+    "wrong": {
+     "Do": "Bu hozirgi zamon, o'tgan zamondagi «last night» so'ziga mos kelmaydi.",
+     "Does": "Uchinchi shaxs birlik uchun hozirgi zamon yordamchi fe'li.",
+     "Should": "O'tgan zamon so'roq gapini bu so'z bilan yasab bo'lmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "We ______ eat too many sweets because they are bad for teeth.",
+    "hint": "",
+    "options": [
+     "should",
+     "shouldn't",
+     "did",
+     "do"
+    ],
+    "answer": "shouldn't",
+    "accept": [],
+    "explain": "Salomatlikka zararli narsadan qochishni maslahat berish uchun «shouldn't» ishlatiladi.",
+    "wrong": {
+     "should": "Ko'p shirinlik yeyishni tavsiya qilib bo'lmaydi.",
+     "did": "Bu maslahat berish uchun ishlatiladigan so'z emas.",
+     "do": "Hozirgi zamon fe'li, maslahat ma'nosini bermaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "My uncle ______ a new car two weeks ago.",
+    "hint": "",
+    "options": [
+     "buy",
+     "buys",
+     "bought",
+     "buying"
+    ],
+    "answer": "bought",
+    "accept": [],
+    "explain": "Gapda «two weeks ago» bor — o'tgan zamon, shuning uchun Past Simple: bought.",
+    "wrong": {
+     "buy": "Fe'lning bosh shakli o'tgan zamon uchun xato.",
+     "buys": "Bu hozirgi zamon shakli, vaqt ko'rsatkichi o'tgan zamonda.",
+     "buying": "Bu -ing shakli, yakka o'zi kesim bo'la olmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "______ you help your younger sister with her homework yesterday?",
+    "hint": "",
+    "options": [
+     "Did",
+     "Do",
+     "Should",
+     "Were"
+    ],
+    "answer": "Did",
+    "accept": [],
+    "explain": "Gap oxirida «yesterday» bor, shuning uchun Past Simple so'roq shakli «Did» ishlatiladi.",
+    "wrong": {
+     "Do": "Hozirgi zamon so'roq so'zi o'tgan zamon uchun noto'g'ri.",
+     "Should": "Ma'no bo'yicha «yesterday» so'ziga to'g'ri kelmaydi.",
+     "Were": "Asosiy fe'l «help» bo'lgani uchun «Were» ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Children ______ spend too much time playing computer games.",
+    "hint": "",
+    "options": [
+     "should",
+     "shouldn't",
+     "did",
+     "didn't"
+    ],
+    "answer": "shouldn't",
+    "accept": [],
+    "explain": "Noto'g'ri odatdan qaytarish uchun «shouldn't» ishlatiladi, chunki gapda «too much time» bor.",
+    "wrong": {
+     "should": "Ko'p o'ynashni tavsiya etib bo'lmaydi.",
+     "did": "Maslahat berish ma'nosini bildirmaydi.",
+     "didn't": "O'tgan zamon inkor shakli bu yerga mos kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Kamola ______ a beautiful song at the school concert last Friday.",
+    "hint": "",
+    "options": [
+     "sing",
+     "sings",
+     "sang",
+     "sung"
+    ],
+    "answer": "sang",
+    "accept": [],
+    "explain": "Gapda «last Friday» bor — bu o'tgan zamon, shuning uchun Past Simple: sang.",
+    "wrong": {
+     "sing": "Bu fe'lning birinchi shakli, o'tgan zamonda ishlatilmaydi.",
+     "sings": "Bu hozirgi zamon shakli.",
+     "sung": "Bu uchinchi shakl, yordamchi fe'lsiz ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "You ______ wear a warm coat when it is very cold outside.",
+    "hint": "",
+    "options": [
+     "should",
+     "shouldn't",
+     "did",
+     "didn't"
+    ],
+    "answer": "should",
+    "accept": [],
+    "explain": "Foydali tavsiya berish uchun «should» ishlatiladi, chunki ob-havo sovuq.",
+    "wrong": {
+     "shouldn't": "Sovuqda issiq kiyim kiymaslikni maslahat berib bo'lmaydi.",
+     "did": "Bu o'tgan zamon yordamchi fe'li.",
+     "didn't": "Maslahat uchun inkor shakli noto'g'ri."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Nodir ______ to bed early last night because he was tired.",
+    "hint": "",
+    "options": [
+     "go",
+     "goes",
+     "went",
+     "gone"
+    ],
+    "answer": "went",
+    "accept": [],
+    "explain": "Gapda «last night» bor — bu o'tgan zamon, shuning uchun Past Simple: went.",
+    "wrong": {
+     "go": "Fe'lning bosh shakli o'tgan zamon uchun noto'g'ri.",
+     "goes": "Hozirgi zamon shakli.",
+     "gone": "Fe'lning uchinchi shakli bu yerga mos kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "______ you find your lost umbrella after the rain yesterday?",
+    "hint": "",
+    "options": [
+     "Did",
+     "Do",
+     "Should",
+     "Are"
+    ],
+    "answer": "Did",
+    "accept": [],
+    "explain": "Gapda «yesterday» bor, shuning uchun o'tgan zamon so'roq shakli «Did» ishlatiladi.",
+    "wrong": {
+     "Do": "Hozirgi zamon yordamchi fe'li o'tgan zamonga to'g'ri kelmaydi.",
+     "Should": "Ma'no jihatidan «yesterday» bilan ishlatilmaydi.",
+     "Are": "Asosiy fe'l «find» bo'lgani uchun «Are» ishlatib bo'lmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "People ______ drop litter on the streets of our city.",
+    "hint": "",
+    "options": [
+     "should",
+     "shouldn't",
+     "did",
+     "does"
+    ],
+    "answer": "shouldn't",
+    "accept": [],
+    "explain": "Salbiy harakatni taqiqlash yoki maslahat bermaslik uchun «shouldn't» ishlatiladi.",
+    "wrong": {
+     "should": "Ko'chaga axlat tashlashni tavsiya qilib bo'lmaydi.",
+     "did": "O'tgan zamon fe'li bu yerga mos kelmaydi.",
+     "does": "Hozirgi zamon yordamchi fe'li."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Gulnora ______ English books at the local library last month.",
+    "hint": "",
+    "options": [
+     "borrow",
+     "borrows",
+     "borrowed",
+     "borrowing"
+    ],
+    "answer": "borrowed",
+    "accept": [],
+    "explain": "Gapda «last month» bor — bu o'tgan zamon, shuning uchun Past Simple: borrowed.",
+    "wrong": {
+     "borrow": "Birinchi shakl o'tgan zamon uchun xato.",
+     "borrows": "Hozirgi zamon fe'li.",
+     "borrowing": "Ing-shaklidagi fe'l kesim vazifasini bajara olmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "You ______ wash your hands before eating any meal.",
+    "hint": "",
+    "options": [
+     "should",
+     "shouldn't",
+     "did",
+     "didn't"
+    ],
+    "answer": "should",
+    "accept": [],
+    "explain": "Gigiyena qoidasi bo'yicha yaxshi maslahat berish uchun «should» ishlatiladi.",
+    "wrong": {
+     "shouldn't": "Ovqatdan oldin qo'l yuvmaslikni maslahat berib bo'lmaydi.",
+     "did": "O'tgan zamon bu yerda ma'no bermaydi.",
+     "didn't": "Inkor ma'nodagi o'tgan zamon noto'g'ri."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Sanjar ______ a funny text message to his friend ten minutes ago.",
+    "hint": "",
+    "options": [
+     "send",
+     "sends",
+     "sent",
+     "sending"
+    ],
+    "answer": "sent",
+    "accept": [],
+    "explain": "Gapda «ten minutes ago» bor — bu o'tgan zamon, shuning uchun Past Simple: sent.",
+    "wrong": {
+     "send": "Fe'lning bosh shakli o'tgan zamon uchun mos emas.",
+     "sends": "Hozirgi zamon shakli.",
+     "sending": "Ing-shakl bu yerda xato."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "______ you visit your grandparents during the winter break?",
+    "hint": "",
+    "options": [
+     "Did",
+     "Do",
+     "Does",
+     "Should"
+    ],
+    "answer": "Did",
+    "accept": [],
+    "explain": "Gapda «winter break» o'tgan zamonni bildiradi, shuning uchun so'roq shakli «Did» bo'ladi.",
+    "wrong": {
+     "Do": "Hozirgi zamon so'roq so'zi o'tgan zamonga mos kelmaydi.",
+     "Does": "Uchinchi shaxs uchun ishlatiladi, «you» olmoshiga to'g'ri kelmaydi.",
+     "Should": "Ma'no jihatidan mos kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Drivers ______ drive very fast when the road is wet and slippery.",
+    "hint": "",
+    "options": [
+     "should",
+     "shouldn't",
+     "did",
+     "were"
+    ],
+    "answer": "shouldn't",
+    "accept": [],
+    "explain": "Xavfli holatda tez haydamaslikni maslahat berish uchun «shouldn't» ishlatiladi.",
+    "wrong": {
+     "should": "Siyloq yo'lda tez haydashni tavsiya qilib bo'lmaydi.",
+     "did": "O'tgan zamon yordamchi fe'li.",
+     "were": "Bu fe'l bu yerda grammatik jihatdan xato."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Malika ______ a delicious fruit salad for the party yesterday.",
+    "hint": "",
+    "options": [
+     "make",
+     "makes",
+     "made",
+     "making"
+    ],
+    "answer": "made",
+    "accept": [],
+    "explain": "Gapda «yesterday» bor — bu o'tgan zamon, shuning uchun Past Simple: made.",
+    "wrong": {
+     "make": "Fe'lning birinchi shakli o'tgan zamon uchun noto'g'ri.",
+     "makes": "Hozirgi zamon shakli.",
+     "making": "Ing-shakl yolg'iz o'zi kesim bo'la olmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "You ______ drink enough water every day to stay healthy.",
+    "hint": "",
+    "options": [
+     "should",
+     "shouldn't",
+     "did",
+     "didn't"
+    ],
+    "answer": "should",
+    "accept": [],
+    "explain": "Foydali odatni tavsiya qilish uchun «should» ishlatiladi.",
+    "wrong": {
+     "shouldn't": "Suv ichmaslikni maslahat berib bo'lmaydi.",
+     "did": "O'tgan zamon bu yerda ishlatilmaydi.",
+     "didn't": "Inkor ma'noli o'tgan zamon xato."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Temur ______ his old bicycle to his younger cousin last week.",
+    "hint": "",
+    "options": [
+     "give",
+     "gives",
+     "gave",
+     "given"
+    ],
+    "answer": "gave",
+    "accept": [],
+    "explain": "Gapda «last week» bor — bu o'tgan zamon, shuning uchun Past Simple: gave.",
+    "wrong": {
+     "give": "Fe'lning bosh shakli o'tgan zamon uchun xato.",
+     "gives": "Hozirgi zamon fe'li.",
+     "given": "Fe'lning uchinchi shakli bu yerga to'g'ri kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "______ you buy any souvenirs during your trip to Samarkand?",
+    "hint": "",
+    "options": [
+     "Did",
+     "Do",
+     "Does",
+     "Should"
+    ],
+    "answer": "Did",
+    "accept": [],
+    "explain": "Gapda «during your trip» o'tgan zamonni bildiradi, shuning uchun so'roq «Did» bo'ladi.",
+    "wrong": {
+     "Do": "Hozirgi zamon so'roq so'zi o'tgan zamonga mos kelmaydi.",
+     "Does": "«you» olmoshiga «does» ishlatilmaydi.",
+     "Should": "Ma'no jihatidan to'g'ri kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "We ______ waste electricity, so always turn off the lights.",
+    "hint": "",
+    "options": [
+     "should",
+     "shouldn't",
+     "did",
+     "were"
+    ],
+    "answer": "shouldn't",
+    "accept": [],
+    "explain": "Keraksiz narsalarni qilmaslikni tavsiya qilish uchun «shouldn't» ishlatiladi.",
+    "wrong": {
+     "should": "Tokni behuda sarflashni tavsiya qilib bo'lmaydi.",
+     "did": "O'tgan zamon yordamchi fe'li.",
+     "were": "Bu fe'l bu yerda grammatikaga to'g'ri kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Ziyoda ______ a very interesting book over the weekend.",
+    "hint": "",
+    "options": [
+     "read",
+     "reads",
+     "reading",
+     "red"
+    ],
+    "answer": "read",
+    "accept": [],
+    "explain": "Gapda «over the weekend» bor — bu o'tgan zamon, shuning uchun Past Simple: read.",
+    "wrong": {
+     "reads": "Hozirgi zamon shakli o'tgan zamon uchun noto'g'ri.",
+     "reading": "Ing-shakl kesim bo'la olmaydi.",
+     "red": "Bu so'z rang nomini bildiradi, fe'l emas."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "You ______ cross the road only when the traffic light is green.",
+    "hint": "",
+    "options": [
+     "should",
+     "shouldn't",
+     "did",
+     "didn't"
+    ],
+    "answer": "should",
+    "accept": [],
+    "explain": "To'g'ri harakat qilishni tavsiya etish uchun «should» ishlatiladi.",
+    "wrong": {
+     "shouldn't": "Yashil chiroqda o'tmaslikni maslahat berib bo'lmaydi.",
+     "did": "O'tgan zamon so'zi ma'no bermaydi.",
+     "didn't": "Inkor ma'noli o'tgan zamon xato."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Javohir ______ his English homework before dinner yesterday.",
+    "hint": "",
+    "options": [
+     "finish",
+     "finishes",
+     "finished",
+     "finishing"
+    ],
+    "answer": "finished",
+    "accept": [],
+    "explain": "Gapda «yesterday» bor — bu o'tgan zamon, shuning uchun Past Simple: finished.",
+    "wrong": {
+     "finish": "Birinchi shakl o'tgan zamon uchun xato.",
+     "finishes": "Hozirgi zamon shakli.",
+     "finishing": "Ing-shakl yolg'iz o'zi ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "______ Jamshid call you on the phone yesterday afternoon?",
+    "hint": "",
+    "options": [
+     "Did",
+     "Do",
+     "Does",
+     "Should"
+    ],
+    "answer": "Did",
+    "accept": [],
+    "explain": "Gapda «yesterday afternoon» bor, shuning uchun o'tgan zamon so'roq shakli «Did» bo'ladi.",
+    "wrong": {
+     "Do": "Hozirgi zamon yordamchi fe'li o'tgan zamonga mos kelmaydi.",
+     "Does": "O'tgan zamondagi gapda hozirgi zamon so'rog'i ishlatilmaydi.",
+     "Should": "Ma'no jihatidan to'g'ri kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "We ______ be polite to our teachers and classmates.",
+    "hint": "",
+    "options": [
+     "should",
+     "shouldn't",
+     "did",
+     "were"
+    ],
+    "answer": "should",
+    "accept": [],
+    "explain": "Ijobiy xulq-atvorni tavsiya qilish uchun «should» ishlatiladi.",
+    "wrong": {
+     "shouldn't": "Xushmuomala bo'lmaslikni maslahat berib bo'lmaydi.",
+     "did": "O'tgan zamon yordamchi fe'li ma'no bermaydi.",
+     "were": "Bu yerda modal fe'l kerak."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Dilshod ______ a big fish in the river last Sunday.",
+    "hint": "",
+    "options": [
+     "catch",
+     "catches",
+     "caught",
+     "catching"
+    ],
+    "answer": "caught",
+    "accept": [],
+    "explain": "Gapda «last Sunday» bor — bu o'tgan zamon, shuning uchun Past Simple: caught.",
+    "wrong": {
+     "catch": "Fe'lning bosh shakli o'tgan zamon uchun xato.",
+     "catches": "Hozirgi zamon shakli.",
+     "catching": "Ing-shakl kesim bo'la olmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "______ you like the new comedy film at the cinema last week?",
+    "hint": "",
+    "options": [
+     "Did",
+     "Do",
+     "Does",
+     "Should"
+    ],
+    "answer": "Did",
+    "accept": [],
+    "explain": "Gapda «last week» bor, shuning uchun o'tgan zamon so'roq shakli «Did» ishlatiladi.",
+    "wrong": {
+     "Do": "Hozirgi zamon so'roq so'zi o'tgan zamon uchun noto'g'ri.",
+     "Does": "«you» olmoshiga «does» mos kelmaydi.",
+     "Should": "Ma'no jihatidan mos kelmaydi."
+    }
+   }
+  ],
+  [
+   {
+    "kind": "verb",
+    "q": "Where ______ on holiday last summer?",
+    "hint": "you / go",
+    "options": [],
+    "answer": "did you go",
+    "accept": [],
+    "explain": "Gapda «last summer» bor va bu o‘tgan zamon so‘rog‘i. Shuning uchun Past Simple yordamchi fe'li «did» va asosiy fe'l ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Aziza ______ her grandmother in Bukhara last weekend.",
+    "hint": "visit",
+    "options": [],
+    "answer": "visited",
+    "accept": [],
+    "explain": "Gapda «last weekend» o‘tgan zamon kalit so‘zi bor, shuning uchun muntazam fe'lga «-ed» qo‘shib Past Simple yasaladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "What time ______ the train leave the station this morning?",
+    "hint": "do",
+    "options": [],
+    "answer": "did",
+    "accept": [],
+    "explain": "O‘tgan zamonda savol tuzish uchun egadan oldin «did» yordamchi fe'li ishlatiladi, chunki gapda «this morning» bor.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "How much ______ these trousers cost at the bazaar?",
+    "hint": "do",
+    "options": [],
+    "answer": "did",
+    "accept": [],
+    "explain": "Gap o‘tgan zamondagi xarid haqida ketmoqda, shuning uchun o‘tgan zamon so‘roq shaklidagi «did» yordamchi fe'li kerak.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Who ______ you see at the party on Saturday night?",
+    "hint": "do",
+    "options": [],
+    "answer": "did",
+    "accept": [],
+    "explain": "O‘tgan zamondagi maxsus savolda egadan oldin «did» yordamchi fe'li kelishi shart, kalit so‘z — «Saturday night».",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Students ______ listen carefully when the teacher explains a new grammar rule.",
+    "hint": "should",
+    "options": [],
+    "answer": "should",
+    "accept": [],
+    "explain": "To‘g‘ri harakat yoki tavsiya bildirish uchun «should» so‘zi ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "My father ______ a delicious plov for the family last Sunday.",
+    "hint": "cook",
+    "options": [],
+    "answer": "cooked",
+    "accept": [],
+    "explain": "Gapda «last Sunday» o‘tgan zamon belgisi bor, shuning uchun fe'l Past Simple shaklida yoziladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Why ______ Bobur lose his keys on the way home?",
+    "hint": "do",
+    "options": [],
+    "answer": "did",
+    "accept": [],
+    "explain": "O‘tgan zamon so‘roq gapida «Why» so‘zidan keyin «did» yordamchi fe'li ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Farhod ______ a new smartphone two days ago.",
+    "hint": "buy",
+    "options": [],
+    "answer": "bought",
+    "accept": [],
+    "explain": "«Buy» fe'lining Past Simple'dagi noto‘g‘ri shakli «bought» bo‘ladi, chunki gapda «two days ago» vaqti ko‘rsatilgan.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "When ______ the builders finish building our new school?",
+    "hint": "do",
+    "options": [],
+    "answer": "did",
+    "accept": [],
+    "explain": "O‘tgan zamonda amalga oshgan ish haqida so‘rash uchun «did» yordamchi fe'li kerak.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "You ______ wear a jacket because it is starting to snow outside.",
+    "hint": "should",
+    "options": [],
+    "answer": "should",
+    "accept": [],
+    "explain": "Ob-havo sovuq bo‘lgani uchun issiq kiyim kiyishni tavsiya qilishda «should» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "The children ______ tired after the long journey, so they went to bed.",
+    "hint": "be",
+    "options": [],
+    "answer": "were",
+    "accept": [],
+    "explain": "To be fe'lining o‘tgan zamondagi ko‘plik shakli «were» bo‘ladi, chunki ega «The children» so‘zidir.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "What ______ you eat for breakfast this morning?",
+    "hint": "do",
+    "options": [],
+    "answer": "did",
+    "accept": [],
+    "explain": "«This morning» o‘tgan vaqtni bildiradi, shuning uchun Past Simple savol shaklida «did» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Nasiba ______ an English song at the concert last night.",
+    "hint": "sing",
+    "options": [],
+    "answer": "sang",
+    "accept": [],
+    "explain": "«Sing» fe'lining Past Simple shakli «sang» bo‘ladi, chunki gap oxirida «last night» so‘zi mavjud.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Where ______ you put my red pen yesterday?",
+    "hint": "do",
+    "options": [],
+    "answer": "did",
+    "accept": [],
+    "explain": "O‘tgan zamondagi «yesterday» so‘zi sababli savol «did» yordamchi fe'li yordamida tuziladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Drivers ______ stop when the traffic light is red.",
+    "hint": "should",
+    "options": [],
+    "answer": "should",
+    "accept": [],
+    "explain": "Yo‘l qoidasiga ko‘ra qizil chiroqda to‘xtash shart, bu majburiy tavsiya uchun «should» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Shoxruh ______ his homework before he watched TV last night.",
+    "hint": "finish",
+    "options": [],
+    "answer": "finished",
+    "accept": [],
+    "explain": "Gapda «last night» o‘tgan zamon zamoni ko‘rsatilgani uchun muntazam fe'lga «-ed» qo‘shiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "How ______ you travel to Samarkand last summer?",
+    "hint": "do",
+    "options": [],
+    "answer": "did",
+    "accept": [],
+    "explain": "O‘tgan yozgi («last summer») safar haqida so‘ralganda «did» yordamchi fe'lidan foydalaniladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "You ______ eat fruit and vegetables every day to stay healthy.",
+    "hint": "should",
+    "options": [],
+    "answer": "should",
+    "accept": [],
+    "explain": "Sog‘lom bo‘lish uchun meva-sabzavot iste'mol qilish yaxshi odat, shuning uchun «should» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Zarina ______ her lost cat near the park two days ago.",
+    "hint": "find",
+    "options": [],
+    "answer": "found",
+    "accept": [],
+    "explain": "«Find» fe'lining o‘tgan zamon shakli «found» bo‘ladi, chunki gapda «two days ago» vaqti berilgan.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Who ______ help you paint the kitchen walls last week?",
+    "hint": "do",
+    "options": [],
+    "answer": "did",
+    "accept": [],
+    "explain": "O‘tgan haftadagi («last week») harakat haqida maxsus savol berish uchun «did» yordamchi fe'li ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Rustam ______ an interesting book about science last month.",
+    "hint": "read",
+    "options": [],
+    "answer": "read",
+    "accept": [],
+    "explain": "«Read» fe'lining Past Simple shakli yozilishda bir xil o‘qilishda o‘zgargan bo‘lsa ham, «last month» sababli o‘tgan zamondadir.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Which film ______ you watch at the cinema on Sunday?",
+    "hint": "do",
+    "options": [],
+    "answer": "did",
+    "accept": [],
+    "explain": "Yakshanba kungi kino haqidagi savol o‘tgan zamonda bo‘lgani uchun «did» yordamchi fe'li qo‘llanadi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Dilnoza ______ a nice postcard to her friend in London yesterday.",
+    "hint": "send",
+    "options": [],
+    "answer": "sent",
+    "accept": [],
+    "explain": "«Send» fe'lining noto‘g‘ri o‘tgan zamon shakli «sent» bo‘ladi, kalit so‘z — «yesterday».",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "What ______ you buy at the supermarket this morning?",
+    "hint": "do",
+    "options": [],
+    "answer": "did",
+    "accept": [],
+    "explain": "«This morning» tugagan vaqtni anglatgani uchun Past Simple savol shaklida «did» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "You ______ apologize when you make a mistake.",
+    "hint": "should",
+    "options": [],
+    "answer": "should",
+    "accept": [],
+    "explain": "Xato qilganda uzr so‘rash odob qoidasi bo‘lib, buning uchun «should» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Anvar ______ his old bicycle to his cousin last summer.",
+    "hint": "sell",
+    "options": [],
+    "answer": "sold",
+    "accept": [],
+    "explain": "«Sell» fe'lining Past Simple shakli «sold» bo‘ladi, chunki gapda «last summer» so‘zi bor.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "How ______ you feel when you heard the good news?",
+    "hint": "do",
+    "options": [],
+    "answer": "did",
+    "accept": [],
+    "explain": "O‘tgan zamondagi his-tuyg‘u haqida so‘rash uchun «did» yordamchi fe'li ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Where ______ your summer vacation last year?",
+    "hint": "you / spend",
+    "options": [],
+    "answer": "did you spend",
+    "accept": [],
+    "explain": "Gapda «last year» o‘tgan zamonni ko‘rsatadi va savol so‘roq so‘zi (Where) bilan boshlangan, shuning uchun Past Simple yordamchi fe'li «did» ishlatiladi: did you spend.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "What ______ for lunch at the school canteen yesterday?",
+    "hint": "you / eat",
+    "options": [],
+    "answer": "did you eat",
+    "accept": [],
+    "explain": "Gapda «yesterday» so‘zi bor — bu o‘tgan zamon belgisi, shuning uchun Past Simple savol shakli: did you eat.",
+    "wrong": {}
+   }
+  ]
+ ],
+ "intro": {
+  "what": "Past simple o'tgan zamonda sodir bo'lgan va tugagan harakatlarni bildiradi. Should va shouldn't so'zlari esa boshqalarga maslahat berish yoki tavsiya qilish uchun ishlatiladi.",
+  "when": [
+   "O'tgan zamonda aniq vaqtda bo'lib o'tgan ish-harakatlar",
+   "O'tgan zamondagi ketma-ket sodir bo'lgan voqealar",
+   "O'tgan zamondagi takrorlanib turgan odatlar",
+   "Tegishli maslahat berish",
+   "Yaxshi fikrni tavsiya qilish"
+  ],
+  "structures": [
+   {
+    "label": "Past Simple (Darak gap)",
+    "formula": "Subject + V2 / V-ed",
+    "example_en": "I played football yesterday.",
+    "example_uz": "Men kecha futbol o'ynadim."
+   },
+   {
+    "label": "Past Simple (Inkor gap)",
+    "formula": "Subject + did not (didn't) + V1",
+    "example_en": "She didn't go to school.",
+    "example_uz": "U maktabga bormadi."
+   },
+   {
+    "label": "Past Simple (So'roq gap)",
+    "formula": "Did + subject + V1?",
+    "example_en": "Did you visit Tashkent?",
+    "example_uz": "Siz Toshkentga bordingizmi?"
+   },
+   {
+    "label": "Should / Shouldn't",
+    "formula": "Subject + should / shouldn't + V1",
+    "example_en": "You should study hard for the exam.",
+    "example_uz": "Siz imtihon uchun qattiq o'qishingiz kerak."
+   }
+  ],
+  "rules": [
+   {
+    "title": "To'g'ri fe'llar (Regular verbs)",
+    "text": "O'tgan zamon yasash uchun ko'pchilik fe'llarga -ed qo'shimchasi qo'shiladi.",
+    "examples": [
+     {
+      "en": "They watched a movie last night.",
+      "uz": "Ular kecha tunda kino ko'rishdi."
+     },
+     {
+      "en": "My dad cleaned the car.",
+      "uz": "Dadam mashinani tozaladi."
+     }
+    ]
+   },
+   {
+    "title": "Noto'g'ri fe'llar (Irregular verbs)",
+    "text": "Ba'zi fe'llar o'tgan zamonda butunlay o'zgaradi va ularni yod olish kerak.",
+    "examples": [
+     {
+      "en": "Aziz bought a new bicycle.",
+      "uz": "Aziz yangi velosiped sotib oldi."
+     },
+     {
+      "en": "We ate tasty plov.",
+      "uz": "Biz mazali osh yedik."
+     }
+    ]
+   },
+   {
+    "title": "Should maslahat uchun",
+    "text": "Biror ishni qilish to'g'ri yoki foydali ekanligini aytish uchun should ishlatiladi.",
+    "examples": [
+     {
+      "en": "You should drink more water.",
+      "uz": "Siz ko'proq suv ichishingiz kerak."
+     },
+     {
+      "en": "Students should listen to the teacher.",
+      "uz": "O'quvchilar o'qituvchini tinglashlari kerak."
+     }
+    ]
+   },
+   {
+    "title": "Shouldn't taqiqlash yoki ogohlantirish uchun",
+    "text": "Noto'g'ri ishni qilmaslikni maslahat berishda shouldn't qo'llaniladi.",
+    "examples": [
+     {
+      "en": "You shouldn't sleep late.",
+      "uz": "Siz kech uxlashingiz kerak emas."
+     },
+     {
+      "en": "He shouldn't eat too much fast food.",
+      "uz": "U juda ko'p fast-fud yemasligi kerak."
+     }
+    ]
+   }
+  ],
+  "signal_words": [
+   {
+    "en": "yesterday",
+    "uz": "kecha"
+   },
+   {
+    "en": "last week",
+    "uz": "o'tgan hafta"
+   },
+   {
+    "en": "in 2010",
+    "uz": "2010 yilda"
+   },
+   {
+    "en": "two days ago",
+    "uz": "ikki kun oldin"
+   },
+   {
+    "en": "this morning",
+    "uz": "bugun ertalab"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "She didn't went to the park.",
+    "right": "She didn't go to the park.",
+    "why": "Did so'zidan keyin fe'l o'zining birinchi shaklida (V1) kelishi shart, went emas."
+   },
+   {
+    "wrong": "Did you watched TV?",
+    "right": "Did you watch TV?",
+    "why": "So'roq gaplarda 'did' yordamchi fe'li kelgani uchun asosiy fe'lga -ed qo'shilmaydi."
+   },
+   {
+    "wrong": "You should to help your mother.",
+    "right": "You should help your mother.",
+    "why": "Modal fe'llardan (should) keyin 'to' ishlatilmaydi."
+   },
+   {
+    "wrong": "He play football yesterday.",
+    "right": "He played football yesterday.",
+    "why": "O'tgan zamon darak gapida fe'lning 2-shakli yoki -ed qo'shimchasi ishlatilishi kerak."
+   }
+  ]
+ }
+}

@@ -1,0 +1,168 @@
+[
+ {
+  "name": "Past simple",
+  "name_uz": "O'tgan zamon oddiy fe'li",
+  "summary": "O'tgan zamonda sodir bo'lgan va tugagan harakatlarni ifodalash uchun ishlatiladi. Bu zamonda fe'llar o'tgan zamon shakliga o'zgaradi.",
+  "usage": [
+   {
+    "text": "O'tmishda aniq vaqtda sodir bo'lgan tugallangan ish-harakatlar uchun.",
+    "example": {
+     "en": "I played football yesterday.",
+     "uz": "Men kecha futbol o'ynadim."
+    }
+   },
+   {
+    "text": "O'tmishdagi ketma-ket sodir bo'lgan voqealarni aytish uchun.",
+    "example": {
+     "en": "She opened the door and walked in.",
+     "uz": "U eshikni ochdi va ichkariga kirdi."
+    }
+   },
+   {
+    "text": "O'tmishdagi odatlar yoki takrorlanib turgan holatlar uchun.",
+    "example": {
+     "en": "We lived in London in 2015.",
+     "uz": "Biz 2015-yilda Londonda yashaganmiz."
+    }
+   }
+  ],
+  "structure": [
+   {
+    "type": "+",
+    "formula": "Subject + V2 (or -ed)",
+    "example": {
+     "en": "They watched a film.",
+     "uz": "Ular kino ko'rishdi."
+    }
+   },
+   {
+    "type": "-",
+    "formula": "Subject + didn't + V1",
+    "example": {
+     "en": "He didn't go to school.",
+     "uz": "U maktabga bormadi."
+    }
+   },
+   {
+    "type": "?",
+    "formula": "Did + subject + V1?",
+    "example": {
+     "en": "Did you like the book?",
+     "uz": "Sizga kitob yoqdimi?"
+    }
+   },
+   {
+    "type": "short",
+    "formula": "Yes, subject + did / No, subject + didn't",
+    "example": {
+     "en": "Yes, I did. / No, I didn't.",
+     "uz": "Ha, yoqdi. / Yo'q, yoqmadi."
+    }
+   }
+  ],
+  "signals": [
+   {
+    "en": "yesterday",
+    "uz": "kecha"
+   },
+   {
+    "en": "last week / month / year",
+    "uz": "o'tgan hafta / oy / yil"
+   },
+   {
+    "en": "in 2010",
+    "uz": "2010-yilda"
+   },
+   {
+    "en": "two days ago",
+    "uz": "ikki kun oldin"
+   },
+   {
+    "en": "when I was young",
+    "uz": "men yoshligimda"
+   }
+  ],
+  "tip": "Inkor va so'roq gaplarda 'did' yoki 'didn't' ishlatilganda, asosiy fe'l o'zining boshlang'ich shakliga (V1) qaytadi ('ed' qo'shimchasi tushib qoladi yoki noto'g'ri fe'l birinchi shaklga o'tadi)."
+ },
+ {
+  "name": "should / shouldn't for advice",
+  "name_uz": "Maslahat berish uchun should / shouldn't",
+  "summary": "Biror kishiga nima qilish kerakligi yoki kerak emasligi haqida maslahat berish uchun ishlatiladi.",
+  "usage": [
+   {
+    "text": "Birovga yaxshi fikr yoki foydali maslahat berish uchun.",
+    "example": {
+     "en": "You should study harder for the exam.",
+     "uz": "Imtihonga qattiqroq o'qishing kerak."
+    }
+   },
+   {
+    "text": "Noto'g'ri ish qilishdan qaytarish yoki ogohlantirish uchun.",
+    "example": {
+     "en": "You shouldn't eat too much fast food.",
+     "uz": "Juda ko'p fast-fud yemasliging kerak."
+    }
+   },
+   {
+    "text": "Nima qilish kerakligi haqida fikr so'rash uchun.",
+    "example": {
+     "en": "What should I wear today?",
+     "uz": "Bugun nima kiyishim kerak?"
+    }
+   }
+  ],
+  "structure": [
+   {
+    "type": "+",
+    "formula": "Subject + should + V1",
+    "example": {
+     "en": "You should drink water.",
+     "uz": "Suv ichishing kerak."
+    }
+   },
+   {
+    "type": "-",
+    "formula": "Subject + shouldn't + V1",
+    "example": {
+     "en": "He shouldn't stay up late.",
+     "uz": "U kech uxlashga yotmasligi kerak."
+    }
+   },
+   {
+    "type": "?",
+    "formula": "Should + subject + V1?",
+    "example": {
+     "en": "Should I call him?",
+     "uz": "Unga qo'ng'iroq qilaymi?"
+    }
+   },
+   {
+    "type": "short",
+    "formula": "Yes, subject + should / No, subject + shouldn't",
+    "example": {
+     "en": "Yes, you should. / No, you shouldn't.",
+     "uz": "Ha, qilish kerak. / Yo'q, kerak emas."
+    }
+   }
+  ],
+  "signals": [
+   {
+    "en": "giving advice",
+    "uz": "maslahat berish"
+   },
+   {
+    "en": "asking for recommendation",
+    "uz": "tavsiya so'rash"
+   },
+   {
+    "en": "it's a good idea to",
+    "uz": "... qilish yaxshi fikr"
+   },
+   {
+    "en": "it's a bad idea to",
+    "uz": "... qilish yomon fikr"
+   }
+  ],
+  "tip": "'Should' va 'shouldn't' dan keyin fe'lga hech qanday qo'shimcha (-s, -ed, -ing) qo'shilmaydi va 'to' ishlatilmaydi (masalan: You should go, lekin You should to go emas)."
+ }
+]

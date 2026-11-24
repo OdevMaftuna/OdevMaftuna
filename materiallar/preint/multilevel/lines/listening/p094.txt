@@ -1,0 +1,30 @@
+﻿81`t23`t96`tport
+143`t30`t130`tExercise 22
+80`t21`t958`t95
+198`t29`t130`tyou will hear someone giving a talk. Label the places (1-5) on the map
+235`t30`t128`t(A-H). There are THREE extra options which you do not need to use.
+272`t16`t379`tMAIN
+292`t19`t348`tENTRANCE
+368`t21`t525`tc
+401`t19`t651`tF
+664`t12`t572`tto main
+681`t15`t565`tbuildings
+720`t22`t131`t1. Brown Hall
+757`t27`t131`t4. Parkway Flats
+828`t27`t133`tExercise 23
+717`t26`t458`t2. Blake Residence 3. Queens Building
+756`t27`t458`t5. Temple Rise
+874`t27`t134`tYou will hear someone giving a talk. Label the places (1-5) on the map
+911`t27`t132`t(A-H). There are THREE extra options which you do not need to use.
+1055`t18`t564`tCentral
+1080`t19`t564`tLibrary
+1256`t16`t328`tWater Feature
+1323`t16`t730`t— First Ave
+1446`t25`t137`t1. pizza
+1482`t23`t137`t3. town hall
+1397`t19`t476`tTown Center
+1427`t27`t461`t2. electric vehicle charging station
+1467`t22`t639`t5. diner
+1477`t30`t371`t4. parking
+1528`t27`t567`tDarajangizni aniqlosh uchun• mytests.uz
+1653`t9`t1022`tScanned With

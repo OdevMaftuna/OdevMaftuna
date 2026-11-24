@@ -1,0 +1,45 @@
+﻿94`t24`t67`tpart 4
+88`t21`t948`t83
+157`t29`t68`tlarni chalg'itish maqsadida xaritadagi harflar soni, so'ralayotgan javoblar
+193`t28`t69`tsonidan ko'proq bo'ladi. Bundan tashqari, o'quvchilarni chalg'itish maqsa-
+230`t28`t69`tdida biroz vaqt davomida xaritaga oid bo'lmagan yoki savolda so'ralmagan
+266`t31`t69`tjoylar haqida ham suhbat kuzatilishi mumkin. Bunday holatda diqqatlik bi-
+303`t28`t71`tIan eshitib, ortiqcha aytilayotgan ma'lumotlarni filtrlab Olish kerak.
+340`t27`t104`tEng asosiysi, sizga imtihonda taqdim qilinadigan savollar kitobchasiga
+376`t30`t73`tbemalol qaydlarni yozib borishingiz mumkin. Xarita savol turida ayniqsa
+413`t29`t73`thar bir aytilayotgan joyni o'zingiz uchun belgilab borsangiz, ortiqcha javob
+449`t29`t74`tvariantlarini tezda aniqlab olishingiz mumkin bo'ladi.
+486`t28`t106`tSavollarni ko'rib chiqishga vaqt berilganida, birinchi navbatda xaritada
+523`t29`t75`tqanday ma'lumotlar bor ekanligiga, yo'llar qanday nomlanishi va xarita-
+560`t30`t76`tda nomi ko'rsatilgan binolarning qayerda joylashganligiga e'tibor bering.
+597`t27`t76`tChunki savolga javob topishda aynan xaritada aniq qilib ko'rsatilgan ma'lu-
+635`t28`t77`tmotlar yordam beradi.
+671`t28`t110`tKitobdagi savollarni ishlashni boshlashdan oldin quyidagi barcha so'z va
+709`t28`t79`tbirikmalarni bilishingizga ishonch hosil qiling:
+743`t27`t112`tLeft-hand side, right-hand side, pass through, in the middle/center of,
+779`t26`t80`tcorner, on the other side, opposite, to your right/left, heading east, first/
+817`t27`t81`tsecond turning, conjunction, junction, straight ahead, dead end, same
+858`t26`t81`tside, before you get to.
+888`t28`t114`tQuyida sizlarga misol tariqasida bitta xarita va undagi joylar savolda
+929`t28`t83`tqanday aytilishini ko'rsatib o'tamiz.
+1017`t26`t254`tUNIVERSITY SPORTS CENTRE (future plans)
+1072`t24`t567`tGym
+1120`t26`t811`t08
+1144`t20`t930`ts
+1157`t22`t154`tLoisure
+1182`t26`t173`tpool
+1334`t28`t127`tChanging
+1365`t16`t153`troom
+1170`t20`t668`tS orts
+1194`t20`t700`tall
+1255`t18`t345`to
+1354`t26`t267`tSports
+1379`t24`t277`tshop
+1184`t20`t462`t25m
+1207`t21`t462`tpool
+1308`t26`t428`tReception
+1350`t21`t642`tCafé
+1318`t25`t732`tChanging
+1347`t16`t759`troom
+1533`t27`t569`tDarajangizni oniqlash uchun: mytests.uz
+1642`t8`t1087`twith

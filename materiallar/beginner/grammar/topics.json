@@ -1,0 +1,458 @@
+[
+ {
+  "unit": 1,
+  "code": "1.1",
+  "title": "am / are / is (I, you, it)",
+  "uz": "To be: I am, you are, it is",
+  "focus": "Verb to be with I, you, it and names: I'm Ben. You're Mika. My name's ... This is ... Contractions I'm, you're, it's, what's. Questions What's your name? How are you?",
+  "parts": [
+   "Darak gaplar (I am / you are / it is)",
+   "Qisqa shakllar (I'm, you're, it's, what's)",
+   "Savollar (What's ...? How are you?)"
+  ]
+ },
+ {
+  "unit": 1,
+  "code": "1.2",
+  "title": "Possessive adjectives: my, your",
+  "uz": "Egalik: my, your",
+  "focus": "my and your before nouns: my name, your book, my bag. What's your name? My name is ...",
+  "parts": [
+   "my + ot",
+   "your + ot",
+   "Savol va javob (What's your ...? My ...)"
+  ]
+ },
+ {
+  "unit": 1,
+  "code": "1.3",
+  "title": "Plural nouns (-s, -es)",
+  "uz": "Otlarning ko'plik shakli (-s, -es)",
+  "focus": "Regular plurals: book-books, camera-cameras; -es after s, ss, sh, ch, x: bus-buses, sandwich-sandwiches, watch-watches. Numbers + plural nouns: two books.",
+  "parts": [
+   "-s qo'shiladigan otlar",
+   "-es qo'shiladigan otlar",
+   "Son + ko'plik (two books, three buses)"
+  ]
+ },
+ {
+  "unit": 2,
+  "code": "2.1",
+  "title": "am / are / is (he, she, they)",
+  "uz": "To be: he is, she is, they are",
+  "focus": "He's / She's / It's / They're with jobs, places and countries: He's from Brazil. She's a student. They're in New York. Contractions.",
+  "parts": [
+   "he / she is",
+   "it / they",
+   "Qisqa shakllar (he's, she's, they're)"
+  ]
+ },
+ {
+  "unit": 2,
+  "code": "2.2",
+  "title": "Possessive adjectives: his, her",
+  "uz": "Egalik: his, her",
+  "focus": "his (for a man) and her (for a woman): His name's Pablo. What's her name? Difference between he's (he is) and his.",
+  "parts": [
+   "his + ot",
+   "her + ot",
+   "he's yoki his? she's yoki her?"
+  ]
+ },
+ {
+  "unit": 2,
+  "code": "2.3",
+  "title": "Questions with what, where, how",
+  "uz": "Savol so'zlari: what, where, how",
+  "focus": "What's your/his/her name? Where are you from? Where is she from? How are you? How old are you? Word order: question word + be + subject.",
+  "parts": [
+   "What ...?",
+   "Where ... from?",
+   "How ...? How old ...?"
+  ]
+ },
+ {
+  "unit": 3,
+  "code": "3.1",
+  "title": "Verb to be: negatives",
+  "uz": "To be: inkor (I'm not, isn't, aren't)",
+  "focus": "I'm not, he/she/it isn't, we/you/they aren't. I'm not a teacher. She isn't married. They aren't from Spain.",
+  "parts": [
+   "I'm not",
+   "isn't (he / she / it)",
+   "aren't (we / you / they)"
+  ]
+ },
+ {
+  "unit": 3,
+  "code": "3.2",
+  "title": "Verb to be: questions and short answers",
+  "uz": "To be: so'roq gaplar va qisqa javoblar",
+  "focus": "Am I/Is he/Are you ...? Short answers: Yes, I am. No, I'm not. Yes, she is. No, she isn't. Yes, they are. No, they aren't. Question words with be: What's your address? How old are they?",
+  "parts": [
+   "Is he / she / it ...?",
+   "Are you / we / they ...?",
+   "Qisqa javoblar (Yes, I am. No, she isn't.)"
+  ]
+ },
+ {
+  "unit": 4,
+  "code": "4.1",
+  "title": "Possessive adjectives (all)",
+  "uz": "Egalik olmoshlari: my, your, his, her, its, our, their",
+  "focus": "my, your, his, her, its, our, their + noun: This is our school. Their house is big. Its name is Rex.",
+  "parts": [
+   "my / your / his / her",
+   "our / their / its",
+   "Aralash"
+  ]
+ },
+ {
+  "unit": 4,
+  "code": "4.2",
+  "title": "Possessive 's",
+  "uz": "Qaratqich 's (Tom's house)",
+  "focus": "Name/noun + 's for possession: John's son, Marie's car, my sister's name, the teacher's book. 's can also mean is: he's = he is. Who's = who is.",
+  "parts": [
+   "Ism + 's (Tom's ...)",
+   "Ot + 's (my mother's ...)",
+   "'s = is yoki egalik?"
+  ]
+ },
+ {
+  "unit": 4,
+  "code": "4.3",
+  "title": "Plural nouns: rules and irregular",
+  "uz": "Ko'plik: -ies va noto'g'ri shakllar",
+  "focus": "-y to -ies (city-cities, country-countries), -es endings, irregular plurals man-men, woman-women, child-children, person-people, foot-feet, tooth-teeth.",
+  "parts": [
+   "-y → -ies",
+   "-s / -es",
+   "Noto'g'ri shakllar (men, women, children, people)"
+  ]
+ },
+ {
+  "unit": 4,
+  "code": "4.4",
+  "title": "have / has",
+  "uz": "have / has (bor, ega)",
+  "focus": "I/you/we/they have; he/she/it has. I have a good job. She has a computer. They have two children. (Beginner: positive sentences mainly.)",
+  "parts": [
+   "I / you / we / they have",
+   "he / she / it has",
+   "Aralash"
+  ]
+ },
+ {
+  "unit": 4,
+  "code": "4.5",
+  "title": "Possessive pronouns: mine, yours, his, hers, ours, theirs",
+  "uz": "Egalik olmoshlari: mine, yours, hers ... (meniki, seniki)",
+  "focus": "Possessive pronoun stands alone without a noun, usually at the end: This book is mine. Is this bag yours? The red car is hers. Compare: This is my book (adjective + noun) vs This book is mine (pronoun). Whose ... is this? It's Tom's.",
+  "parts": [
+   "mine / yours / his / hers",
+   "ours / theirs",
+   "my yoki mine? (sifat yoki olmosh)"
+  ]
+ },
+ {
+  "unit": 5,
+  "code": "5.1",
+  "title": "Present Simple: I, you, we, they",
+  "uz": "Present Simple: I, you, we, they",
+  "focus": "Positive: I like coffee. We live in London. Negative: I don't like ... They don't work ... Questions: Do you like ...? Short answers: Yes, I do. No, I don't. Where do you live?",
+  "parts": [
+   "Darak gaplar",
+   "Inkor (don't)",
+   "So'roq (Do you ...?) va qisqa javoblar"
+  ]
+ },
+ {
+  "unit": 5,
+  "code": "5.2",
+  "title": "a / an",
+  "uz": "Artikl: a / an",
+  "focus": "a before consonant sound (a book, a university), an before vowel sound (an apple, an hour, an engineer). Jobs: He's a doctor. She's an actor. No article with plurals.",
+  "parts": [
+   "a + undosh tovush",
+   "an + unli tovush",
+   "Kasblar (a doctor, an engineer)"
+  ]
+ },
+ {
+  "unit": 5,
+  "code": "5.3",
+  "title": "Adjective + noun",
+  "uz": "Sifat + ot (a big house)",
+  "focus": "Adjectives come before the noun and do not take -s: a big house, two red cars, an old man, a fast car. With be: The house is big.",
+  "parts": [
+   "Sifat + ot",
+   "Ko'plikda (two big houses)",
+   "be + sifat (It's big.)"
+  ]
+ },
+ {
+  "unit": 6,
+  "code": "6.1",
+  "title": "Present Simple: he, she, it",
+  "uz": "Present Simple: he, she, it (-s)",
+  "focus": "He works, she lives, it starts. Spelling: -es after s/sh/ch/x/o (goes, watches), consonant+y → -ies (studies), have → has. Negative: doesn't + verb. Questions: Does she ...? Short answers: Yes, she does. No, he doesn't.",
+  "parts": [
+   "Darak gaplar (-s / -es / -ies)",
+   "Inkor (doesn't)",
+   "So'roq (Does he ...?) va qisqa javoblar"
+  ]
+ },
+ {
+  "unit": 6,
+  "code": "6.2",
+  "title": "Adverbs of frequency",
+  "uz": "Takrorlik ravishlari (always, usually, often, sometimes, never)",
+  "focus": "always, usually, often, sometimes, never: before the main verb (I always get up at seven) but after be (She is never late).",
+  "parts": [
+   "Fe'ldan oldin",
+   "be dan keyin",
+   "Aralash"
+  ]
+ },
+ {
+  "unit": 6,
+  "code": "6.3",
+  "title": "Telling the time",
+  "uz": "Soat (vaqtni aytish): past, to, quarter, half",
+  "focus": "What time is it? It's ten o'clock. five past ten, quarter past ten, half past ten, twenty to eleven, quarter to eleven. at + time: at seven o'clock.",
+  "parts": [
+   "o'clock / past",
+   "quarter / half",
+   "to (... ga ... bor)"
+  ]
+ },
+ {
+  "unit": 6,
+  "code": "6.4",
+  "title": "Prepositions of time: at, in, on",
+  "uz": "Vaqt predloglari: at, in, on",
+  "focus": "at + clock time / at night / at the weekend; on + days and dates (on Monday, on 5th May); in + months, years, seasons, parts of day (in July, in 2020, in summer, in the morning).",
+  "parts": [
+   "at",
+   "on",
+   "in"
+  ]
+ },
+ {
+  "unit": 7,
+  "code": "7.1",
+  "title": "Question words",
+  "uz": "Savol so'zlari (who, what, where, when, why, how, how much, how many)",
+  "focus": "who, what, where, when, what time, why, how, how much, how many, which with be and Present Simple: Where do you live? When does it start? Why do you like ...? How much is it?",
+  "parts": [
+   "who / what / where",
+   "when / what time / why",
+   "how / how much / how many"
+  ]
+ },
+ {
+  "unit": 7,
+  "code": "7.2",
+  "title": "Object pronouns",
+  "uz": "Kelishikdagi olmoshlar (me, you, him, her, it, us, them)",
+  "focus": "Subject vs object pronouns: I-me, he-him, she-her, we-us, they-them. I like her. She loves him. Can you help me? Listen to them.",
+  "parts": [
+   "me / him / her",
+   "us / them / it",
+   "Aralash"
+  ]
+ },
+ {
+  "unit": 7,
+  "code": "7.3",
+  "title": "this / that / these / those",
+  "uz": "this / that / these / those",
+  "focus": "this (near, singular), that (far, singular), these (near, plural), those (far, plural): This is my bag. That's a nice car. These shoes are new. Those children are noisy.",
+  "parts": [
+   "this / that",
+   "these / those",
+   "Aralash"
+  ]
+ },
+ {
+  "unit": 8,
+  "code": "8.1",
+  "title": "There is / There are",
+  "uz": "There is / There are (... bor)",
+  "focus": "There's a / There are some + place: There's a sofa in the living room. There are two bedrooms. Negative: There isn't / There aren't any. Questions: Is there a ...? Are there any ...? How many ... are there? Short answers.",
+  "parts": [
+   "Darak gaplar (There is / There are)",
+   "Inkor gaplar (There isn't / There aren't)",
+   "So'roq gaplar (Is there / Are there)"
+  ]
+ },
+ {
+  "unit": 8,
+  "code": "8.2",
+  "title": "some / any; prepositions of place",
+  "uz": "some / any va joy predloglari (in, on, under, next to)",
+  "focus": "some in positive sentences, any in negatives and questions with plural nouns: There are some books. There aren't any chairs. Are there any cups? Prepositions in, on, under, next to, near, opposite.",
+  "parts": [
+   "some (darak)",
+   "any (inkor va so'roq)",
+   "Joy predloglari (in, on, under, next to)"
+  ]
+ },
+ {
+  "unit": 9,
+  "code": "9.1",
+  "title": "was / were",
+  "uz": "was / were (o'tgan zamonda to be)",
+  "focus": "I/he/she/it was, we/you/they were; wasn't/weren't; Was she ...? Were they ...? Short answers. When were you born? I was born in ... Where were you yesterday?",
+  "parts": [
+   "Darak (was / were)",
+   "Inkor (wasn't / weren't)",
+   "So'roq va qisqa javoblar"
+  ]
+ },
+ {
+  "unit": 9,
+  "code": "9.2",
+  "title": "Past Simple: irregular verbs",
+  "uz": "Past Simple: noto'g'ri fe'llar",
+  "focus": "Common irregular past forms: go-went, have-had, see-saw, buy-bought, come-came, get-got, make-made, take-took, eat-ate, leave-left, give-gave, meet-met, say-said, know-knew. Time expressions: yesterday, last week, ago.",
+  "parts": [
+   "went / had / saw / came",
+   "bought / got / made / took",
+   "Aralash (yesterday, last ..., ago)"
+  ]
+ },
+ {
+  "unit": 10,
+  "code": "10.1",
+  "title": "Past Simple: regular verbs (positive)",
+  "uz": "Past Simple: to'g'ri fe'llar (-ed)",
+  "focus": "Regular verbs + -ed: worked, played, lived, studied, stopped. Spelling: -d after e, consonant+y → -ied, double consonant (stop-stopped). Same form for all persons.",
+  "parts": [
+   "-ed / -d",
+   "-ied va undoshning ikkilanishi",
+   "Aralash"
+  ]
+ },
+ {
+  "unit": 10,
+  "code": "10.2",
+  "title": "Past Simple: questions and negatives",
+  "uz": "Past Simple: so'roq va inkor (did / didn't)",
+  "focus": "did/didn't + base verb for all persons: Did you go ...? Yes, I did. No, I didn't. I didn't see him. Where did you go? What did she buy? (not: didn't went)",
+  "parts": [
+   "Inkor (didn't + fe'l)",
+   "So'roq (Did ...?) va qisqa javoblar",
+   "Savol so'zlari bilan (Where did ...?)"
+  ]
+ },
+ {
+  "unit": 10,
+  "code": "10.3",
+  "title": "have / do / go + nouns",
+  "uz": "have / do / go bilan iboralar",
+  "focus": "Collocations: have breakfast/lunch/dinner/a shower/a good time; do homework/the housework/exercise; go shopping/for a walk/on holiday/home/to work. In Present Simple and Past Simple (had, did, went).",
+  "parts": [
+   "have + ...",
+   "do + ...",
+   "go + ..."
+  ]
+ },
+ {
+  "unit": 11,
+  "code": "11.1",
+  "title": "can / can't",
+  "uz": "can / can't (qila olaman / olmayman)",
+  "focus": "can + base verb for ability and requests, same for all persons, no -s: I can swim. She can't drive. Can you speak French? Yes, I can. No, I can't. Can I ...? Can you help me?",
+  "parts": [
+   "Darak (can)",
+   "Inkor (can't)",
+   "So'roq va qisqa javoblar"
+  ]
+ },
+ {
+  "unit": 11,
+  "code": "11.2",
+  "title": "Adverbs",
+  "uz": "Ravishlar (quickly, well, fast, hard)",
+  "focus": "Adjective + -ly: quick-quickly, slow-slowly, careful-carefully, easy-easily; irregular: good-well, fast-fast, hard-hard. Adverbs describe verbs: She speaks English well. He drives carefully.",
+  "parts": [
+   "-ly ravishlar",
+   "Noto'g'ri (well, fast, hard)",
+   "Sifat yoki ravish?"
+  ]
+ },
+ {
+  "unit": 12,
+  "code": "12.1",
+  "title": "would like",
+  "uz": "would like (... istardim)",
+  "focus": "I'd like ... / Would you like ...? for polite offers and requests: I'd like a coffee, please. Would you like a sandwich? Yes, please. No, thank you. I'd like to + verb.",
+  "parts": [
+   "I'd like ...",
+   "Would you like ...?",
+   "I'd like to + fe'l"
+  ]
+ },
+ {
+  "unit": 12,
+  "code": "12.2",
+  "title": "some / any with countable and uncountable nouns",
+  "uz": "some / any: sanaladigan va sanalmaydigan otlar",
+  "focus": "Countable (apples, eggs) vs uncountable (bread, milk, water, money). some in positives and offers (Would you like some tea?), any in negatives and questions. a/an only with singular countable.",
+  "parts": [
+   "Sanaladigan / sanalmaydigan",
+   "some",
+   "any"
+  ]
+ },
+ {
+  "unit": 12,
+  "code": "12.3",
+  "title": "like and would like",
+  "uz": "like va would like farqi",
+  "focus": "like = always / in general (I like coffee. Do you like swimming?) vs would like = now / a specific time (I'd like a coffee now. Would you like to go swimming tomorrow?).",
+  "parts": [
+   "like (umuman yoqadi)",
+   "would like (hozir xohlayman)",
+   "like yoki would like?"
+  ]
+ },
+ {
+  "unit": 13,
+  "code": "13.1",
+  "title": "Present Continuous",
+  "uz": "Present Continuous (hozir bo'layotgan ish)",
+  "focus": "am/is/are + verb-ing for actions happening now: I'm reading. She's wearing a red dress. They aren't working. What are you doing? Is it raining? Spelling: -ing, e drop (make-making), double consonant (run-running, sit-sitting).",
+  "parts": [
+   "Darak (am / is / are + -ing)",
+   "Inkor (isn't / aren't + -ing)",
+   "So'roq (What are you doing?)"
+  ]
+ },
+ {
+  "unit": 13,
+  "code": "13.2",
+  "title": "Present Simple and Present Continuous",
+  "uz": "Present Simple yoki Present Continuous?",
+  "focus": "Present Simple for habits and facts (He usually wears jeans. She works in a bank.) vs Present Continuous for now (Today he's wearing a suit. She's working at home today.). Time words: usually, every day vs now, today, at the moment, Look!",
+  "parts": [
+   "Present Simple (odat)",
+   "Present Continuous (hozir)",
+   "Qaysi biri?"
+  ]
+ },
+ {
+  "unit": 14,
+  "code": "14.1",
+  "title": "Future plans: going to",
+  "uz": "Kelasi rejalar: going to",
+  "focus": "am/is/are going to + verb for future plans and intentions: I'm going to visit my grandmother. She isn't going to work tomorrow. What are you going to do this weekend? Are they going to buy a car? Time: tomorrow, next week, this weekend, soon.",
+  "parts": [
+   "Darak (going to)",
+   "Inkor (not going to)",
+   "So'roq (What are you going to ...?)"
+  ]
+ }
+]

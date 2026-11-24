@@ -1,0 +1,291 @@
+[
+ {
+  "kind": "situation",
+  "q": "Aziz made a strong wall using a grey mixture of cement, sand, water, and small stones.",
+  "options": [
+   "concrete",
+   "cardboard",
+   "ceramic",
+   "copper"
+  ],
+  "answer": "concrete",
+  "why": "«grey mixture of cement, sand, water, and small stones» klivi qattiq devor qurish uchun ishlatiladigan betonni bildiradi.",
+  "wrong": {
+   "cardboard": "Qalin qog'oz turi, devor qurishga yaroqsiz.",
+   "ceramic": "Pishirilgan loy buyum, devor uchun emas.",
+   "copper": "Qizg'ish metall, devor qurilmaydi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Malika wears a shiny yellow ring made from a very precious and expensive metal.",
+  "options": [
+   "gold",
+   "iron",
+   "steel",
+   "wood"
+  ],
+  "answer": "gold",
+  "why": "«shiny yellow ring» va qimmatbaho metall tilla (oltin) ekanini bildiradi.",
+  "wrong": {
+   "iron": "Temir qora metall, sariq va qimmatbaho uzuk emas.",
+   "steel": "Pushtirang-kulrang qotishma, oltin emas.",
+   "wood": "Yog'och metall emas."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Javohir bought a new small electronic device that makes his daily life much easier.",
+  "options": [
+   "gadget",
+   "glass",
+   "plastic",
+   "stone"
+  ],
+  "answer": "gadget",
+  "why": "«small electronic device» iborasi gadjet so'ziga mos keladi.",
+  "wrong": {
+   "glass": "Shisha, elektron qurilma emas.",
+   "plastic": "Plastmassa material, qurilma ma'nosini bermaydi.",
+   "stone": "Tosh, elektron asbob emas."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "The windows of our school are made of a clear, hard material that breaks easily.",
+  "options": [
+   "glass",
+   "stone",
+   "wood",
+   "rubber"
+  ],
+  "answer": "glass",
+  "why": "«clear, hard material that breaks easily» shisha (deraza oynasi) ekanini ko'rsatadi.",
+  "wrong": {
+   "stone": "Tosh tiniq emas va oson sinmaydi.",
+   "wood": "Yog'och tiniq emas.",
+   "rubber": "Rezina tiniq va mo'rt emas."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "My grandfather's old heavy gate is made of a strong dark metal that can rust in the rain.",
+  "options": [
+   "iron",
+   "aluminium",
+   "copper",
+   "gold"
+  ],
+  "answer": "iron",
+  "why": "«rust in the rain» va og'ir metall bu temir.",
+  "wrong": {
+   "aluminium": "Alyuminiy zanglamaydi va yengil.",
+   "copper": "Mis qizg'ish tusda va boshqacha zanglaydi.",
+   "gold": "Oltin zanglamaydi va juda qimmat."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Bekzod wears comfortable brown shoes made from the soft skin of an animal.",
+  "options": [
+   "leather",
+   "nylon",
+   "paper",
+   "plastic"
+  ],
+  "answer": "leather",
+  "why": "«soft skin of an animal» ishorasi teri (charm) materialini bildiradi.",
+  "wrong": {
+   "nylon": "Neylon sun'iy tola, hayvon terisi emas.",
+   "paper": "Qog'ozdan poyabzal qilinmaydi.",
+   "plastic": "Plastmassa hayvon terisi emas."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Dilshod writes his daily homework notes in a notebook using thin white sheets.",
+  "options": [
+   "paper",
+   "cardboard",
+   "wood",
+   "stone"
+  ],
+  "answer": "paper",
+  "why": "«thin white sheets» va notebook (daftar) so'zlari qog'ozni anglatadi.",
+  "wrong": {
+   "cardboard": "Karton qalin bo'ladi, daftarga ishlatilmaydi.",
+   "wood": "Yog'och yupqa oq varaq emas.",
+   "stone": "Toshga daftar varag'i sifatida yozib bo'lmaydi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Ancient people built old fortress walls using heavy, hard pieces found in the mountains.",
+  "options": [
+   "stone",
+   "wood",
+   "paper",
+   "plastic"
+  ],
+  "answer": "stone",
+  "why": "«heavy, hard pieces found in the mountains» tog' toshini bildiradi.",
+  "wrong": {
+   "wood": "Yog'och tog'dan topiladigan qattiq bo'lak emas.",
+   "paper": "Qog'oz qal'a devori uchun yaroqsiz.",
+   "plastic": "Plastmassa qadimda ishlatilmagan."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "The carpenter cut tall tree trunks to make a warm table and chairs for the room.",
+  "options": [
+   "wood",
+   "stone",
+   "glass",
+   "iron"
+  ],
+  "answer": "wood",
+  "why": "«tree trunks to make a table» bu yog'och (wood).",
+  "wrong": {
+   "stone": "Daraxt tanasidan tosh yasalmaydi.",
+   "glass": "Daraxt shisha emas.",
+   "iron": "Daraxt temir emas."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "My soda can is made from a very light and soft silver metal that is easy to recycle.",
+  "options": [
+   "aluminium",
+   "steel",
+   "iron",
+   "gold"
+  ],
+  "answer": "aluminium",
+  "why": "«light and soft silver metal» va soda bankasi alyuminiy ekanini bildiradi.",
+  "wrong": {
+   "steel": "Po'lat og'irroq va qattiqroq.",
+   "iron": "Temir og'ir va zanglaydi.",
+   "gold": "Oltin banka uchun ishlatilmaydi."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "We pack heavy books inside a strong brown ______ box before moving to a new house.",
+  "options": [
+   "cardboard",
+   "copper",
+   "ceramic",
+   "plastic"
+  ],
+  "answer": "cardboard",
+  "why": "«strong brown box» buyumlarni ko'chirishda ishlatiladigan karton qutini anglatadi.",
+  "wrong": {
+   "copper": "Mis quti qog'oz emas.",
+   "ceramic": "Keramika quti ko'chishda ishlatilmaydi, sinadi.",
+   "plastic": "Plastmassa quti to'g'ri kelishi mumkin, lekin «brown box» kartonga xos."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "Traditional tea cups and plates are often made of white ______ fired at a high temperature.",
+  "options": [
+   "ceramic",
+   "rubber",
+   "paper",
+   "stone"
+  ],
+  "answer": "ceramic",
+  "why": "«tea cups and plates... fired at high temperature» keramika idishlarni bildiradi.",
+  "wrong": {
+   "rubber": "Rezindan chashka yasalmaydi.",
+   "paper": "Qog'oz idishga choy quyib bo'lmaydi.",
+   "stone": "Toshdan chashka yasalmaydi."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "Electric cables use bright orange-red ______ inside because it carries electricity very well.",
+  "options": [
+   "copper",
+   "iron",
+   "wood",
+   "glass"
+  ],
+  "answer": "copper",
+  "why": "«carries electricity very well» va qizg'ish sim bu mis (copper).",
+  "wrong": {
+   "iron": "Temir sim uchun kam ishlatiladi.",
+   "wood": "Yog'och tok o'tkazmaydi.",
+   "glass": "Shisha tok o'tkazmaydigan izolyator."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "My sister wears a strong synthetic ______ jacket that keeps her dry in the rain.",
+  "options": [
+   "nylon",
+   "leather",
+   "gold",
+   "steel"
+  ],
+  "answer": "nylon",
+  "why": "«strong synthetic» so'zi sun'iy tola bo'lgan neylonni ko'rsatadi.",
+  "wrong": {
+   "leather": "Tabiiy teri, sintetik emas.",
+   "gold": "Oltindan kurtka qilinmaydi.",
+   "steel": "Po'latdan kurtka bo'lmaydi."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "Most kitchen water bottles and shopping bags are made of cheap colourful ______.",
+  "options": [
+   "plastic",
+   "stone",
+   "wood",
+   "iron"
+  ],
+  "answer": "plastic",
+  "why": "«shopping bags... cheap colourful» material bu plastmassa.",
+  "wrong": {
+   "stone": "Toshdan sumka qilinmaydi.",
+   "wood": "Yog'ochdan paket bo'lmaydi.",
+   "iron": "Temirdan paket yasalmaydi."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "Skyscraper buildings in big cities are supported by a strong framework of heavy ______.",
+  "options": [
+   "steel",
+   "paper",
+   "glass",
+   "rubber"
+  ],
+  "answer": "steel",
+  "why": "«strong framework» va «skyscraper buildings» iboralari «steel» (po'lat) ishlatilishini ko'rsatadi.",
+  "wrong": {
+   "paper": "«paper» - qog'oz. Binoni ushlab turolmaydi.",
+   "glass": "«glass» - shisha. Karkas uchun emas.",
+   "rubber": "«rubber» - rezina. Mustahkam karkas emas."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "To protect his hands while fixing the car engine, Rustam wore heavy black gloves made of stretchy elastic material.",
+  "options": [
+   "rubber",
+   "stone",
+   "iron",
+   "cardboard"
+  ],
+  "answer": "rubber",
+  "why": "«stretchy elastic material» iborasi «rubber» (rezina) qo'lqopni bildiradi.",
+  "wrong": {
+   "stone": "«stone» - tosh. Cho'ziluvchan emas.",
+   "iron": "«iron» - temir. Elastik material emas.",
+   "cardboard": "«cardboard» - karton. Suv va moydan yirtiladi."
+  }
+ }
+]

@@ -1,0 +1,35 @@
+{
+ "script": "Speaker: Welcome to Milburn's. If you're looking for a sale or for something unusual, don't forget our Thursday 'Special Buy' day, where you'll find some great offers. These change every week and are removed from the shelves at the end of the day. This Thursday, you'll be able to buy a special gift for your pet with lots of items at low, low prices. Come early and don't miss our offers. Are you interested in a career with Milburn's? We're looking for new staff in various areas of the business. There are now opportunities to join our trainee manager programme, and several jobs for cleaners. We are proud of our staff and like to think they're proud to be part of the Milburn family. Why not speak to our manager today if you're interested in joining us? Or pick up a magazine at the exit for details about how to apply. As the new year approaches, we know you'll need to get your shopping done ready for all the celebrations. We'll be opening until 10.30 on Friday evening to give you time to get ready for the big day. Don't forget we'll be closed on the 1st, but open again on the 2nd when we return to normal opening hours. We value our local community and are always looking for the chance to help out where we can. This month, we're supporting the local Arts Project and the Children's Theatre Group. When you pay for your shopping, you'll be given a ticket to show your support. Choose which of the organisations you would like to give this to by putting it in the box by the exit. We'll turn these into cash when they are counted up at the end of the month.",
+ "items": [
+  {
+   "n": 1,
+   "quote": "buy a special gift for your pet",
+   "uz": "Spiker ushbu payshanba kuni uy hayvonlari uchun sovg'alarga chegirma borligini aytib, 'pet' so'zini qo'llaydi."
+  },
+  {
+   "n": 2,
+   "quote": "opportunities to join our trainee manager programme, and several jobs for cleaners",
+   "uz": "Trainee managers bilan birgalikda 'cleaners' (tozalovchilar/farroshlar) uchun ham ish o'rinlari borligi aytiladi."
+  },
+  {
+   "n": 3,
+   "quote": "pick up a magazine at the exit for details about how to apply",
+   "uz": "Matndagi 'pick up' iborasi topshiriqdagi 'collect' so'ziga mos keladi. Chiqish eshigi oldidan 'magazine' (jurnal) olish kerakligi aytilgan."
+  },
+  {
+   "n": 4,
+   "quote": "We'll be opening until 10.30 on Friday evening",
+   "uz": "Juma kuni do'kon soat '10.30' gacha ochiq bo'lishi aniq ta'kidlanadi."
+  },
+  {
+   "n": 5,
+   "quote": "supporting the local Arts Project and the Children's Theatre Group",
+   "uz": "Do'kon 'Arts Project' bilan birga 'Children's Theatre Group' (Bolalar teatri guruhi)ni qo'llab-quvvatlamoqda."
+  },
+  {
+   "n": 6,
+   "quote": "When you pay for your shopping, you'll be given a ticket",
+   "uz": "To'lov qilganingizda sizga 'ticket' (chipta/talon) berilishi aytiladi."
+  }
+ ]
+}

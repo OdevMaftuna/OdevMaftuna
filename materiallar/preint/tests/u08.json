@@ -1,0 +1,528 @@
+{
+ "code": "P8",
+ "course": "Pre-Intermediate",
+ "kind": "unit",
+ "unit": 8,
+ "price": 35000,
+ "title": "Unit 8 Test",
+ "subtitle": "Crime · reported speech",
+ "sections": [
+  {
+   "title": "A. Complete the reported speech.",
+   "items": [
+    {
+     "t": "text",
+     "q": "‘I am tired.’ → She said that she ______ tired.",
+     "a": [
+      "was"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "‘We can’t find the key.’ → They said that they ______ find the key.",
+     "a": [
+      "couldn't",
+      "could not"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "‘I will call the police.’ → He said that he ______ call the police.",
+     "a": [
+      "would"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "‘I have lost my bag.’ → She said that she ______ her bag.",
+     "a": [
+      "had lost"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "‘I saw the thief.’ → He said that he ______ the thief.",
+     "a": [
+      "had seen",
+      "saw"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "‘We are watching the news.’ → They said that they ______ the news.",
+     "a": [
+      "were watching"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "‘I don’t know him.’ → She said that she ______ him.",
+     "a": [
+      "didn't know",
+      "did not know"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "B. Rewrite the direct speech as reported speech. Start with the words given.",
+   "items": [
+    {
+     "t": "text",
+     "q": "Witness: ‘I’m frightened.’ → The witness said ______",
+     "a": [
+      "that he was frightened",
+      "that she was frightened",
+      "that they were frightened"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Victim (she): ‘Someone has stolen my car!’ → She said ______",
+     "a": [
+      "that someone had stolen her car"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Police officer: ‘We will find the burglar.’ → The police officer said ______",
+     "a": [
+      "that they would find the burglar"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Shop owner (he): ‘A boy took a phone yesterday.’ → He said ______",
+     "a": [
+      "that a boy had taken a phone the day before",
+      "that a boy had taken a phone the previous day",
+      "that a boy took a phone the day before"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Teenager (he): ‘I can’t sleep at night.’ → He said ______",
+     "a": [
+      "that he couldn't sleep at night",
+      "that he could not sleep at night"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Judge: ‘The prisoner is guilty.’ → The judge said ______",
+     "a": [
+      "that the prisoner was guilty"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Thief (she): ‘I won’t do it again.’ → She said ______",
+     "a": [
+      "that she wouldn't do it again",
+      "that she would not do it again"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "C. Read the dialogue. Then complete the summary with ONE word in each gap.",
+   "passage": "Nodir: I was at the bus stop. A man took my phone and ran away. — Police: Can you describe him? — Nodir: He was tall and he was wearing a red jacket. I will help you if I can.",
+   "items": [
+    {
+     "t": "text",
+     "q": "Nodir said that he ______ been at the bus stop.",
+     "a": [
+      "had"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "He said that a man ______ taken his phone.",
+     "a": [
+      "had"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "He said that the man ______ been tall.",
+     "a": [
+      "had"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "He said that the man had been ______ a red jacket.",
+     "a": [
+      "wearing"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "He said that he ______ help the police.",
+     "a": [
+      "would"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "He said he would help if he ______.",
+     "a": [
+      "could"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "D. Complete the sentences. The first letter of each word is given.",
+   "items": [
+    {
+     "t": "text",
+     "q": "The r_____ took money from the bank.",
+     "a": [
+      "robber"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "He was s_________ drugs across the border.",
+     "a": [
+      "smuggling"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The murderer k_____ two people before the police caught him.",
+     "a": [
+      "killed"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "After the storm there was l_______ from empty shops.",
+     "a": [
+      "looting"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "She was arrested for s__________ — she took a dress without paying.",
+     "a": [
+      "shoplifting"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "V______ broke all the windows in the bus stop.",
+     "a": [
+      "vandals"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Someone is stealing money in the office. There’s a t____ here.",
+     "a": [
+      "thief"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "An a______ started the fire on purpose.",
+     "a": [
+      "arsonist"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "A m_____ took my bag in the street.",
+     "a": [
+      "mugger"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The b______ climbed in through the window at night.",
+     "a": [
+      "burglar"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "E. Complete the sentences with the words in the box. There are two extra words.",
+   "box": [
+    "arrested",
+    "charged",
+    "commit",
+    "court",
+    "evidence",
+    "fine",
+    "guilty",
+    "investigation",
+    "prison",
+    "sentenced",
+    "witness",
+    "jury"
+   ],
+   "items": [
+    {
+     "t": "text",
+     "q": "The police ______ him outside his house.",
+     "a": [
+      "arrested"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The police found important ______ — his fingerprints.",
+     "a": [
+      "evidence"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "A ______ saw the accident and called the police.",
+     "a": [
+      "witness"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "He was ______ with theft.",
+     "a": [
+      "charged"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The case went to ______ in March.",
+     "a": [
+      "court"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The ______ decided that the man was guilty.",
+     "a": [
+      "jury"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The judge ______ him to two years in prison.",
+     "a": [
+      "sentenced"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "He spent two years in ______.",
+     "a": [
+      "prison"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "For parking in the wrong place, you pay a ______.",
+     "a": [
+      "fine"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The police have started an ______ into the robbery.",
+     "a": [
+      "investigation"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "F. Complete the dialogue with ONE word in each gap.",
+   "items": [
+    {
+     "t": "text",
+     "q": "Ben: Should people go to prison for small crimes? — Anna: I don’t ______ so.",
+     "a": [
+      "think"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Ben: ______ my opinion, they should do community work.",
+     "a": [
+      "In"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Anna: I’m not ______ really. It depends on the crime.",
+     "a": [
+      "sure"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Anna: I agree ______ some extent.",
+     "a": [
+      "to"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Ben: I suppose it’s true ______ say that prisons are expensive.",
+     "a": [
+      "to"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Ben: M_______, they don’t always help people change.",
+     "a": [
+      "Moreover"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Anna: What ______ more, many people commit crimes again.",
+     "a": [
+      "is"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Ben: To ______ honest, I think education is the answer.",
+     "a": [
+      "be"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Anna: I ______ with you about that.",
+     "a": [
+      "agree"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Ben: That’s ______ I think too!",
+     "a": [
+      "what"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Listening. Listen to a radio interview with a crime writer. Choose the correct answers.",
+   "audio": "preint/P8.mp3",
+   "script": "Presenter: My guest today is Madina Karimova, who writes detective stories. Madina, where do your ideas come from?\nMadina: Mostly from real life. I'm interested in why people commit crimes — not how. Usually they're ordinary people who make one bad decision.\nPresenter: Do you meet real criminals?\nMadina: Sometimes. I once interviewed a man who had been a pickpocket for twenty years. He told me that everybody thinks they would notice a thief, but nobody does.\nPresenter: Were you nervous?\nMadina: A little! We met in a café, and he could see my bag on the chair the whole time. I kept my hand on it!\nPresenter: Your books are very popular now. Why do you think that is?\nMadina: I think it's because the detective is a normal schoolteacher, not a police officer. Readers say she reminds them of someone they know.",
+   "items": [
+    {
+     "t": "mc",
+     "q": "Madina is most interested in",
+     "o": [
+      "how criminals commit crimes.",
+      "why people commit crimes.",
+      "how the police catch criminals."
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "The pickpocket told her that",
+     "o": [
+      "most people notice thieves.",
+      "nobody notices thieves.",
+      "he had stopped stealing."
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "Madina felt nervous in the café because",
+     "o": [
+      "the man could see her bag.",
+      "the café was empty.",
+      "the man was angry."
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Who is the detective in her books?",
+     "o": [
+      "A police officer",
+      "A schoolteacher",
+      "A journalist"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "Madina thinks her books are popular because",
+     "o": [
+      "they are very short.",
+      "readers recognise the detective.",
+      "they are based on films."
+     ],
+     "a": 1
+    }
+   ]
+  },
+  {
+   "title": "G. Read the text and choose the correct answers.",
+   "passage": "When I was a student, I wanted to be a detective. Instead, I became a teacher — but crime is still part of my job. Every year I organise a ‘murder mystery’ evening for my class.\n\nBefore the evening, each student gets a card with a secret: who they are, where they were at 9 p.m., and one lie they must tell. During the evening, they ask each other questions and try to find the ‘murderer’. Nobody is really hurt, of course!\n\nThe first time, I was nervous that the students would be bored. In fact, they loved it, especially the moment at the end when the murderer is revealed. The quiet students often become the best detectives because they listen carefully.\n\nNow other teachers in my school use the idea. If you try it, my advice is simple: keep the rules short and let the students do the talking.",
+   "items": [
+    {
+     "t": "mc",
+     "q": "What did the writer want to be as a student?",
+     "o": [
+      "A teacher",
+      "A detective",
+      "An actor"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "What does each student get before the evening?",
+     "o": [
+      "A card with a secret",
+      "A costume",
+      "A list of questions"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Which part do students enjoy most?",
+     "o": [
+      "Writing the cards",
+      "The end, when the murderer is revealed",
+      "Telling lies"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "Why are quiet students often good detectives?",
+     "o": [
+      "They know the answers.",
+      "They listen carefully.",
+      "They ask a lot of questions."
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "What is the writer doing in this text?",
+     "o": [
+      "Describing a classroom activity",
+      "Reporting a real crime",
+      "Complaining about students"
+     ],
+     "a": 0
+    }
+   ]
+  }
+ ]
+}

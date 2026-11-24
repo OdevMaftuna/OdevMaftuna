@@ -1,0 +1,1191 @@
+{
+ "code": "7.3",
+ "intro": {
+  "what": "Bu mavzu ingliz tilida narsa-buyumlarni ko'rsatib gapirish uchun ishlatiladi. O'zbek tilidagi 'bu', 'anavi', 'bular' va 'anavilar' so'zlariga to'g'ri keladi.",
+  "when": [
+   "Yaqindagi bitta narsani ko'rsatganda (This)",
+   "Uzoqdagi bitta narsani ko'rsatganda (That)",
+   "Yaqindagi ko'p narsalarni ko'rsatganda (These)",
+   "Uzoqdagi ko'p narsalarni ko'rsatganda (Those)"
+  ],
+  "structures": [
+   {
+    "label": "(+) Birlik",
+    "formula": "[ This / That + IS + OB ]",
+    "example_en": "This is my car.",
+    "example_uz": "Bu mening mashinam."
+   },
+   {
+    "label": "(+) Ko'plik",
+    "formula": "[ These / Those + ARE + OB ]",
+    "example_en": "Those are my books.",
+    "example_uz": "Anavilar mening kitoblarim."
+   },
+   {
+    "label": "(-) Inkor",
+    "formula": "[ This / That + IS + NOT + OB ]",
+    "example_en": "That isn't my bag.",
+    "example_uz": "Anavi mening sumkam emas."
+   },
+   {
+    "label": "(?) So'roq",
+    "formula": "[ IS / ARE + this/that/these/those + OB? ]",
+    "example_en": "Are these your shoes?",
+    "example_uz": "Bular sening poyabzalingmi?"
+   }
+  ],
+  "rules": [
+   {
+    "title": "Masofa va Miqdor",
+    "text": "Yaqindagi narsalar uchun 'this' (birlik) va 'these' (ko'plik) ishlatiladi. Uzoqdagi narsalar uchun 'that' (birlik) va 'those' (ko'plik) ishlatiladi.",
+    "examples": [
+     {
+      "en": "This book here.",
+      "uz": "Mana bu yerda turgan kitob."
+     },
+     {
+      "en": "That book over there.",
+      "uz": "Anavi yerda turgan kitob."
+     }
+    ]
+   },
+   {
+    "title": "Fe'l bilan moslashish",
+    "text": "This va That bilan har doim 'is' ishlatiladi. These va Those bilan esa har doim 'are' ishlatiladi.",
+    "examples": [
+     {
+      "en": "This is a sandwich.",
+      "uz": "Bu sendvich."
+     },
+     {
+      "en": "These are sandwiches.",
+      "uz": "Bular sendvichlar."
+     }
+    ]
+   }
+  ],
+  "signal_words": [
+   {
+    "en": "here",
+    "uz": "shu yerda / yaqinda"
+   },
+   {
+    "en": "over there",
+    "uz": "anavi yerda / uzoqda"
+   },
+   {
+    "en": "look",
+    "uz": "qara"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "This are my friends.",
+    "right": "These are my friends.",
+    "why": "Friends ko'plikda bo'lgani uchun 'this' emas, 'these' ishlatilishi kerak."
+   },
+   {
+    "wrong": "Those is a big house.",
+    "right": "That is a big house.",
+    "why": "Bitta uy haqida gap ketganda 'those' emas, 'that' ishlatiladi."
+   },
+   {
+    "wrong": "These shoes is new.",
+    "right": "These shoes are new.",
+    "why": "Shoes ko'plikda bo'lgani uchun 'is' emas, 'are' ishlatiladi."
+   }
+  ]
+ },
+ "test": [
+  {
+   "type": "fill",
+   "q": "______ is my book here.",
+   "answer": "This",
+   "explain": "Yaqindagi birlikdagi narsa uchun 'this' ishlatiladi.",
+   "accept": [],
+   "hint": "this / these"
+  },
+  {
+   "type": "fill",
+   "q": "______ are my shoes.",
+   "answer": "These",
+   "explain": "Yaqindagi ko'plikdagi narsalar (shoes) uchun 'these' ishlatiladi.",
+   "accept": [],
+   "hint": "this / these"
+  },
+  {
+   "type": "fill",
+   "q": "Look! ______ is a beautiful car over there.",
+   "answer": "That",
+   "explain": "Uzoqdagi (over there) birlikdagi narsa uchun 'that' ishlatiladi.",
+   "accept": [],
+   "hint": "this / that"
+  },
+  {
+   "type": "fill",
+   "q": "Who are ______ children over there?",
+   "answer": "those",
+   "explain": "Uzoqdagi ko'plikdagi shaxslar (children) uchun 'those' ishlatiladi.",
+   "accept": [],
+   "hint": "these / those"
+  },
+  {
+   "type": "fill",
+   "q": "This ______ my computer.",
+   "answer": "is",
+   "explain": "This bilan birlikda 'is' fe'li ishlatiladi.",
+   "accept": [],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "These ______ my friends.",
+   "answer": "are",
+   "explain": "These bilan ko'plikda 'are' fe'li ishlatiladi.",
+   "accept": [],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "______ that your bag?",
+   "answer": "Is",
+   "explain": "Birlikdagi so'roq gapda 'is' gap boshiga chiqadi.",
+   "accept": [],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "______ those your parents?",
+   "answer": "Are",
+   "explain": "Ko'plikdagi so'roq gapda 'are' gap boshiga chiqadi.",
+   "accept": [],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "This is ______ orange.",
+   "answer": "an",
+   "explain": "Unli harf bilan boshlanadigan birlikdagi otlar oldidan 'an' qo'yiladi.",
+   "accept": [],
+   "hint": "a / an"
+  },
+  {
+   "type": "fill",
+   "q": "______ is a very good sandwich.",
+   "answer": "This",
+   "explain": "Bitta sendvich haqida gapirganda 'this' ishlatiladi.",
+   "accept": [],
+   "hint": "this / these"
+  },
+  {
+   "type": "fill",
+   "q": "______ are delicious hamburgers.",
+   "answer": "These",
+   "explain": "Ko'plikdagi narsalar uchun 'these' ishlatiladi.",
+   "accept": [],
+   "hint": "this / these"
+  },
+  {
+   "type": "fill",
+   "q": "Is ______ your phone over there?",
+   "answer": "that",
+   "explain": "Uzoqdagi (over there) bitta narsani so'raganda 'that' ishlatiladi.",
+   "accept": [],
+   "hint": "this / that"
+  },
+  {
+   "type": "fill",
+   "q": "Are ______ your books here?",
+   "answer": "these",
+   "explain": "Yaqindagi (here) ko'p narsalarni so'raganda 'these' ishlatiladi.",
+   "accept": [],
+   "hint": "these / those"
+  },
+  {
+   "type": "fill",
+   "q": "______ is a big building in the city centre.",
+   "answer": "That",
+   "explain": "Uzoqdagi bitta binoni ko'rsatishda 'that' ishlatiladi.",
+   "accept": [],
+   "hint": "that / those"
+  },
+  {
+   "type": "fill",
+   "q": "______ are small houses.",
+   "answer": "Those",
+   "explain": "Uzoqdagi ko'plikdagi narsalar uchun 'those' ishlatiladi.",
+   "accept": [],
+   "hint": "that / those"
+  },
+  {
+   "type": "fill",
+   "q": "This isn't ______ coat.",
+   "answer": "my",
+   "explain": "Egalikni bildirish uchun 'my' (mening) ishlatiladi.",
+   "accept": [],
+   "hint": "I"
+  },
+  {
+   "type": "fill",
+   "q": "Are ______ your keys here?",
+   "answer": "these",
+   "explain": "Yaqindagi ko'plikdagi narsalar uchun 'these' ishlatiladi.",
+   "accept": [],
+   "hint": "these / those"
+  },
+  {
+   "type": "fill",
+   "q": "That ______ an old camera.",
+   "answer": "isn't",
+   "explain": "That bilan birlikdagi inkor 'is not' yoki 'isn't' bo'ladi.",
+   "accept": [
+    "is not"
+   ],
+   "hint": "not + be"
+  },
+  {
+   "type": "fill",
+   "q": "What is ______ over there?",
+   "answer": "that",
+   "explain": "Uzoqdagi bitta narsani 'nima u?' deb so'rashda 'that' ishlatiladi.",
+   "accept": [],
+   "hint": "this / that"
+  },
+  {
+   "type": "fill",
+   "q": "______ children are very happy today.",
+   "answer": "These",
+   "explain": "Yaqindagi ko'p bolalar haqida gapirganda 'these' ishlatiladi.",
+   "accept": [],
+   "hint": "this / these"
+  },
+  {
+   "type": "mc",
+   "q": "______ are my new photos.",
+   "answer": "These",
+   "explain": "Photos ko'plikda bo'lgani uchun 'these' to'g'ri keladi.",
+   "options": [
+    "This",
+    "That",
+    "These"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Is ______ your teacher over there?",
+   "answer": "that",
+   "explain": "Uzoqdagi (over there) bitta odam haqida so'ralmoqda.",
+   "options": [
+    "this",
+    "that",
+    "these"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ is a delicious pizza!",
+   "answer": "This",
+   "explain": "Bitta pizza haqida gapirilganda 'this' ishlatiladi.",
+   "options": [
+    "This",
+    "These",
+    "Those"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Are ______ children your brothers?",
+   "answer": "those",
+   "explain": "Ko'plikdagi shaxslar uchun 'those' variantini tanlaymiz.",
+   "options": [
+    "this",
+    "that",
+    "those"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Look at ______ shoes. They are beautiful.",
+   "answer": "these",
+   "explain": "Shoes (poyabzal) har doim ko'plikda bo'ladi.",
+   "options": [
+    "this",
+    "that",
+    "these"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ isn't my bag. My bag is blue.",
+   "answer": "This",
+   "explain": "Inkor gapda birlikdagi narsa uchun 'this' ishlatiladi.",
+   "options": [
+    "This",
+    "These",
+    "Those"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "What is ______? It's a map.",
+   "answer": "this",
+   "explain": "Yaqindagi bitta narsani so'rash uchun 'this' ishlatiladi.",
+   "options": [
+    "this",
+    "these",
+    "those"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "How much are ______ oranges?",
+   "answer": "these",
+   "explain": "Oranges ko'plikda bo'lgani uchun 'these' ishlatiladi.",
+   "options": [
+    "this",
+    "that",
+    "these"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ is my house over there.",
+   "answer": "That",
+   "explain": "Uzoqdagi (over there) bitta uy uchun 'that' ishlatiladi.",
+   "options": [
+    "This",
+    "That",
+    "These"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ are my books here on the table.",
+   "answer": "These",
+   "explain": "Yaqindagi (here) ko'plikdagi kitoblar uchun 'these' ishlatiladi.",
+   "options": [
+    "This",
+    "That",
+    "These"
+   ]
+  }
+ ],
+ "model": "gemini-3-flash-preview",
+ "tr1": [
+  {
+   "part": 0,
+   "uz": "Bu mening sumkam.",
+   "en": [
+    "This is my bag."
+   ],
+   "rule": "Yaqindagi bitta narsa uchun: this."
+  },
+  {
+   "part": 0,
+   "uz": "Ana u chiroyli mashina.",
+   "en": [
+    "That is a beautiful car.",
+    "That's a beautiful car."
+   ],
+   "rule": "Uzoqdagi bitta narsa uchun: that."
+  },
+  {
+   "part": 0,
+   "uz": "Bu kitob juda qiziqarli.",
+   "en": [
+    "This book is very interesting."
+   ],
+   "rule": "Yaqindagi bitta narsa haqida gapirganda: this."
+  },
+  {
+   "part": 0,
+   "uz": "Anavi kishi mening dadam.",
+   "en": [
+    "That man is my dad.",
+    "That man is my father."
+   ],
+   "rule": "Uzoqdagi bitta shaxs uchun: that."
+  },
+  {
+   "part": 0,
+   "uz": "Bu bir finjon kofe issiq.",
+   "en": [
+    "This cup of coffee is hot."
+   ],
+   "rule": "Yaqindagi bitta narsa (this) + ot."
+  },
+  {
+   "part": 0,
+   "uz": "Ana u uy juda katta.",
+   "en": [
+    "That house is very big."
+   ],
+   "rule": "Uzoqdagi bitta narsa (that) + ot."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mening yangi kompyuterim.",
+   "en": [
+    "This is my new computer."
+   ],
+   "rule": "Yaqindagi bitta narsa uchun: this."
+  },
+  {
+   "part": 0,
+   "uz": "Anavi qiz mening singlim.",
+   "en": [
+    "That girl is my sister."
+   ],
+   "rule": "Uzoqdagi bitta shaxs uchun: that."
+  },
+  {
+   "part": 0,
+   "uz": "Bu rasm juda chiroyli.",
+   "en": [
+    "This photograph is very beautiful.",
+    "This photo is very beautiful."
+   ],
+   "rule": "Yaqindagi bitta narsa uchun: this."
+  },
+  {
+   "part": 0,
+   "uz": "Ana u avtobus markazga boradi.",
+   "en": [
+    "That bus goes to the centre."
+   ],
+   "rule": "Uzoqdagi bitta narsa uchun: that."
+  },
+  {
+   "part": 0,
+   "uz": "Bu sendvich mazali.",
+   "en": [
+    "This sandwich is delicious."
+   ],
+   "rule": "Yaqindagi bitta narsa uchun: this."
+  },
+  {
+   "part": 0,
+   "uz": "Anavi bino shifoxona.",
+   "en": [
+    "That building is a hospital."
+   ],
+   "rule": "Uzoqdagi bitta narsa uchun: that."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mening telefon raqamim.",
+   "en": [
+    "This is my phone number."
+   ],
+   "rule": "Yaqindagi bitta narsa uchun: this."
+  },
+  {
+   "part": 0,
+   "uz": "Ana u ayol hamshira.",
+   "en": [
+    "That woman is a nurse."
+   ],
+   "rule": "Uzoqdagi bitta shaxs uchun: that."
+  },
+  {
+   "part": 0,
+   "uz": "Bu lug'at juda yaxshi.",
+   "en": [
+    "This dictionary is very good."
+   ],
+   "rule": "Yaqindagi bitta narsa uchun: this."
+  },
+  {
+   "part": 0,
+   "uz": "Anavi it juda kichkina.",
+   "en": [
+    "That dog is very small."
+   ],
+   "rule": "Uzoqdagi bitta hayvon uchun: that."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mening do'stim Ali.",
+   "en": [
+    "This is my friend Ali."
+   ],
+   "rule": "Yaqindagi bitta shaxs uchun: this."
+  },
+  {
+   "part": 0,
+   "uz": "Anavi mehmonxona qimmat.",
+   "en": [
+    "That hotel is expensive."
+   ],
+   "rule": "Uzoqdagi bitta narsa uchun: that."
+  },
+  {
+   "part": 0,
+   "uz": "Bu pitsa ajoyib!",
+   "en": [
+    "This pizza is fantastic!",
+    "This pizza is great!"
+   ],
+   "rule": "Yaqindagi bitta narsa uchun: this."
+  },
+  {
+   "part": 0,
+   "uz": "Ana u do'kon juda katta.",
+   "en": [
+    "That shop is very big."
+   ],
+   "rule": "Uzoqdagi bitta narsa uchun: that."
+  },
+  {
+   "part": 0,
+   "uz": "Bu kofe necha pul?",
+   "en": [
+    "How much is this coffee?"
+   ],
+   "rule": "Soroq gapda yaqindagi narsa: this."
+  },
+  {
+   "part": 0,
+   "uz": "Anavi maktab eski.",
+   "en": [
+    "That school is old."
+   ],
+   "rule": "Uzoqdagi bitta narsa uchun: that."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mening shaxsiy kartam.",
+   "en": [
+    "This is my identity card."
+   ],
+   "rule": "Yaqindagi bitta narsa uchun: this."
+  },
+  {
+   "part": 0,
+   "uz": "Ana u talaba juda aqlli.",
+   "en": [
+    "That student is very good.",
+    "That student is very clever."
+   ],
+   "rule": "Uzoqdagi bitta shaxs uchun: that."
+  },
+  {
+   "part": 0,
+   "uz": "Bu palto juda arzon.",
+   "en": [
+    "This coat is very cheap."
+   ],
+   "rule": "Yaqindagi bitta narsa uchun: this."
+  },
+  {
+   "part": 0,
+   "uz": "Anavi kishi bizning o'qituvchimiz.",
+   "en": [
+    "That man is our teacher."
+   ],
+   "rule": "Uzoqdagi bitta shaxs uchun: that."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mening dadamning mashinasi.",
+   "en": [
+    "This is my dad's car."
+   ],
+   "rule": "Yaqindagi bitta narsa uchun: this."
+  },
+  {
+   "part": 0,
+   "uz": "Anavi rasmda kim bor?",
+   "en": [
+    "Who is in that photograph?",
+    "Who is in that photo?"
+   ],
+   "rule": "Uzoqdagi bitta narsa uchun: that."
+  },
+  {
+   "part": 0,
+   "uz": "Bu jurnal juda qiziqarli.",
+   "en": [
+    "This magazine is very interesting."
+   ],
+   "rule": "Yaqindagi bitta narsa uchun: this."
+  },
+  {
+   "part": 0,
+   "uz": "Ana u o'g'il bola mening ukam.",
+   "en": [
+    "That boy is my brother."
+   ],
+   "rule": "Uzoqdagi bitta shaxs uchun: that."
+  },
+  {
+   "part": 0,
+   "uz": "Bu xona juda qulay.",
+   "en": [
+    "This room is very comfortable."
+   ],
+   "rule": "Yaqindagi bitta narsa uchun: this."
+  },
+  {
+   "part": 0,
+   "uz": "Anavi stul juda eski.",
+   "en": [
+    "That chair is very old."
+   ],
+   "rule": "Uzoqdagi bitta narsa uchun: that."
+  },
+  {
+   "part": 0,
+   "uz": "Bu sumka juda og'ir.",
+   "en": [
+    "This bag is very big."
+   ],
+   "rule": "Yaqindagi bitta narsa uchun: this."
+  },
+  {
+   "part": 0,
+   "uz": "Ana u ofis juda kichkina.",
+   "en": [
+    "That office is very small."
+   ],
+   "rule": "Uzoqdagi bitta narsa uchun: that."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mening vizitkam.",
+   "en": [
+    "This is my business card."
+   ],
+   "rule": "Yaqindagi bitta narsa uchun: this."
+  },
+  {
+   "part": 0,
+   "uz": "Anavi shahar juda katta.",
+   "en": [
+    "That city is very big."
+   ],
+   "rule": "Uzoqdagi bitta joy uchun: that."
+  },
+  {
+   "part": 0,
+   "uz": "Bu muzqaymoq mazali.",
+   "en": [
+    "This ice cream is delicious."
+   ],
+   "rule": "Yaqindagi bitta narsa uchun: this."
+  },
+  {
+   "part": 0,
+   "uz": "Anavi ayol kim?",
+   "en": [
+    "Who is that woman?"
+   ],
+   "rule": "Uzoqdagi bitta shaxs uchun: that."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mening yangi telefonim.",
+   "en": [
+    "This is my new phone."
+   ],
+   "rule": "Yaqindagi bitta narsa uchun: this."
+  },
+  {
+   "part": 0,
+   "uz": "Ana u bino juda baland.",
+   "en": [
+    "That building is very beautiful."
+   ],
+   "rule": "Uzoqdagi bitta narsa uchun: that."
+  },
+  {
+   "part": 1,
+   "uz": "Bu poyabzallar yangi.",
+   "en": [
+    "These shoes are new."
+   ],
+   "rule": "Yaqindagi ko'plikdagi otlar uchun: these."
+  },
+  {
+   "part": 1,
+   "uz": "Anavi bolalar juda shovqinli.",
+   "en": [
+    "Those children are very noisy."
+   ],
+   "rule": "Uzoqdagi ko'plikdagi otlar uchun: those."
+  },
+  {
+   "part": 1,
+   "uz": "Bu odamlar juda baxtli.",
+   "en": [
+    "These people are very happy."
+   ],
+   "rule": "Yaqindagi ko'plikdagi shaxslar: these."
+  },
+  {
+   "part": 1,
+   "uz": "Ana u finjonlar stolda.",
+   "en": [
+    "Those cups are on the table."
+   ],
+   "rule": "Uzoqdagi ko'plikdagi otlar uchun: those."
+  },
+  {
+   "part": 1,
+   "uz": "Bu kitoblar meniki.",
+   "en": [
+    "These books are mine."
+   ],
+   "rule": "Yaqindagi ko'plikdagi otlar uchun: these."
+  },
+  {
+   "part": 1,
+   "uz": "Anavi talabalar charchagan.",
+   "en": [
+    "Those students are tired."
+   ],
+   "rule": "Uzoqdagi ko'plikdagi shaxslar: those."
+  },
+  {
+   "part": 1,
+   "uz": "Bu apelsinlar mazali.",
+   "en": [
+    "These oranges are delicious."
+   ],
+   "rule": "Yaqindagi ko'plikdagi otlar uchun: these."
+  },
+  {
+   "part": 1,
+   "uz": "Ana u uylar juda chiroyli.",
+   "en": [
+    "Those houses are very beautiful."
+   ],
+   "rule": "Uzoqdagi ko'plikdagi otlar uchun: those."
+  },
+  {
+   "part": 1,
+   "uz": "Bu rasmlar ajoyib.",
+   "en": [
+    "These photographs are fantastic.",
+    "These photos are great."
+   ],
+   "rule": "Yaqindagi ko'plikdagi otlar uchun: these."
+  },
+  {
+   "part": 1,
+   "uz": "Anavi do'stlarim Amerikadan.",
+   "en": [
+    "Those friends are from America."
+   ],
+   "rule": "Uzoqdagi ko'plikdagi shaxslar: those."
+  }
+ ],
+ "tr51": [
+  {
+   "part": 1,
+   "uz": "Mana bu mening poyabzallarim.",
+   "en": [
+    "These are my shoes."
+   ],
+   "rule": "Yaqin, ko'plik: these"
+  },
+  {
+   "part": 1,
+   "uz": "Anavi mashinalar katta.",
+   "en": [
+    "Those cars are big.",
+    "Those are big cars."
+   ],
+   "rule": "Uzoq, ko'plik: those"
+  },
+  {
+   "part": 1,
+   "uz": "Mana bu bolalar xursand.",
+   "en": [
+    "These children are happy."
+   ],
+   "rule": "Yaqin, ko'plik: these"
+  },
+  {
+   "part": 1,
+   "uz": "Anavi sening kitoblaringmi?",
+   "en": [
+    "Are those your books?"
+   ],
+   "rule": "Uzoq, ko'plik: those"
+  },
+  {
+   "part": 1,
+   "uz": "Mana bu olmalar qizil.",
+   "en": [
+    "These apples are red."
+   ],
+   "rule": "Yaqin, ko'plik: these"
+  },
+  {
+   "part": 1,
+   "uz": "Anavi odamlar Angliyadan.",
+   "en": [
+    "Those people are from England."
+   ],
+   "rule": "Uzoq, ko'plik: those"
+  },
+  {
+   "part": 1,
+   "uz": "Mana bu sening sendvichlaringmi?",
+   "en": [
+    "Are these your sandwiches?"
+   ],
+   "rule": "Yaqin, ko'plik: these"
+  },
+  {
+   "part": 1,
+   "uz": "Anavi sumkalar qimmat.",
+   "en": [
+    "Those bags are expensive."
+   ],
+   "rule": "Uzoq, ko'plik: those"
+  },
+  {
+   "part": 1,
+   "uz": "Mana bu paltolar kichik.",
+   "en": [
+    "These coats are small."
+   ],
+   "rule": "Yaqin, ko'plik: these"
+  },
+  {
+   "part": 1,
+   "uz": "Anavi sening do'stlaringmi?",
+   "en": [
+    "Are those your friends?"
+   ],
+   "rule": "Uzoq, ko'plik: those"
+  },
+  {
+   "part": 1,
+   "uz": "Mana bu suratlar chiroyli.",
+   "en": [
+    "These photographs are beautiful.",
+    "These photos are beautiful."
+   ],
+   "rule": "Yaqin, ko'plik: these"
+  },
+  {
+   "part": 1,
+   "uz": "Anavi yangi kompyuterlar.",
+   "en": [
+    "Those are new computers."
+   ],
+   "rule": "Uzoq, ko'plik: those"
+  },
+  {
+   "part": 1,
+   "uz": "Mana bu uylar juda katta.",
+   "en": [
+    "These houses are very big."
+   ],
+   "rule": "Yaqin, ko'plik: these"
+  },
+  {
+   "part": 1,
+   "uz": "Anavi mening opalarim.",
+   "en": [
+    "Those are my sisters."
+   ],
+   "rule": "Uzoq, ko'plik: those"
+  },
+  {
+   "part": 1,
+   "uz": "Mana bu yaxshi do'stlar.",
+   "en": [
+    "These are good friends."
+   ],
+   "rule": "Yaqin, ko'plik: these"
+  },
+  {
+   "part": 1,
+   "uz": "Anavi bolalar shovqin.",
+   "en": [
+    "Those children are noisy."
+   ],
+   "rule": "Uzoq, ko'plik: those"
+  },
+  {
+   "part": 1,
+   "uz": "Mana bu arzon shlyapalar.",
+   "en": [
+    "These are cheap hats."
+   ],
+   "rule": "Yaqin, ko'plik: these"
+  },
+  {
+   "part": 1,
+   "uz": "Anavi eski do'konlar.",
+   "en": [
+    "Those are old shops."
+   ],
+   "rule": "Uzoq, ko'plik: those"
+  },
+  {
+   "part": 1,
+   "uz": "Mana bu mening bolalarim.",
+   "en": [
+    "These are my children."
+   ],
+   "rule": "Yaqin, ko'plik: these"
+  },
+  {
+   "part": 1,
+   "uz": "Anavi ajoyib binolar.",
+   "en": [
+    "Those are wonderful buildings.",
+    "Those are fantastic buildings."
+   ],
+   "rule": "Uzoq, ko'plik: those"
+  },
+  {
+   "part": 2,
+   "uz": "Bu mening sumkam.",
+   "en": [
+    "This is my bag."
+   ],
+   "rule": "Yaqin, birlik: this"
+  },
+  {
+   "part": 2,
+   "uz": "Anavi qimmat poyabzallar.",
+   "en": [
+    "Those are expensive shoes."
+   ],
+   "rule": "Uzoq, ko'plik: those"
+  },
+  {
+   "part": 2,
+   "uz": "Anavi sening mashinangmi?",
+   "en": [
+    "Is that your car?"
+   ],
+   "rule": "Uzoq, birlik: that"
+  },
+  {
+   "part": 2,
+   "uz": "Mana bu mening akalarim.",
+   "en": [
+    "These are my brothers."
+   ],
+   "rule": "Yaqin, ko'plik: these"
+  },
+  {
+   "part": 2,
+   "uz": "Bu sendvich mazali.",
+   "en": [
+    "This sandwich is delicious."
+   ],
+   "rule": "Yaqin, birlik: this"
+  },
+  {
+   "part": 2,
+   "uz": "Anavi odamlar charchagan.",
+   "en": [
+    "Those people are tired."
+   ],
+   "rule": "Uzoq, ko'plik: those"
+  },
+  {
+   "part": 2,
+   "uz": "Bu sening telefoningmi?",
+   "en": [
+    "Is this your phone?"
+   ],
+   "rule": "Yaqin, birlik: this"
+  },
+  {
+   "part": 2,
+   "uz": "Mana bu kitoblar qiziqarli.",
+   "en": [
+    "These books are interesting."
+   ],
+   "rule": "Yaqin, ko'plik: these"
+  },
+  {
+   "part": 2,
+   "uz": "Anavi bino - shifoxona.",
+   "en": [
+    "That building is a hospital."
+   ],
+   "rule": "Uzoq, birlik: that"
+  },
+  {
+   "part": 2,
+   "uz": "Anavi kichik finjonlar.",
+   "en": [
+    "Those are small cups."
+   ],
+   "rule": "Uzoq, ko'plik: those"
+  },
+  {
+   "part": 2,
+   "uz": "Bu kofe issiq.",
+   "en": [
+    "This coffee is hot."
+   ],
+   "rule": "Yaqin, birlik: this"
+  },
+  {
+   "part": 2,
+   "uz": "Anavi sening do'stlaringmi?",
+   "en": [
+    "Are those your friends?"
+   ],
+   "rule": "Uzoq, ko'plik: those"
+  },
+  {
+   "part": 2,
+   "uz": "Mana bu mening suratlarim.",
+   "en": [
+    "These are my photographs.",
+    "These are my photos."
+   ],
+   "rule": "Yaqin, ko'plik: these"
+  },
+  {
+   "part": 2,
+   "uz": "Anavi chiroyli maktab.",
+   "en": [
+    "That is a beautiful school."
+   ],
+   "rule": "Uzoq, birlik: that"
+  },
+  {
+   "part": 2,
+   "uz": "Mana bu mushuklar kulgili.",
+   "en": [
+    "These cats are funny."
+   ],
+   "rule": "Yaqin, ko'plik: these"
+  },
+  {
+   "part": 2,
+   "uz": "Anavi sening o'qituvchingmi?",
+   "en": [
+    "Is that your teacher?"
+   ],
+   "rule": "Uzoq, birlik: that"
+  },
+  {
+   "part": 2,
+   "uz": "Bu arzon kurtka.",
+   "en": [
+    "This is a cheap jacket."
+   ],
+   "rule": "Yaqin, birlik: this"
+  },
+  {
+   "part": 2,
+   "uz": "Anavi bolalar maktabda.",
+   "en": [
+    "Those children are at school."
+   ],
+   "rule": "Uzoq, ko'plik: those"
+  },
+  {
+   "part": 2,
+   "uz": "Mana bu mening yangi poyabzallarim.",
+   "en": [
+    "These are my new shoes."
+   ],
+   "rule": "Yaqin, ko'plik: these"
+  },
+  {
+   "part": 2,
+   "uz": "Anavi eski kompyuter.",
+   "en": [
+    "That is an old computer."
+   ],
+   "rule": "Uzoq, birlik: that"
+  },
+  {
+   "part": 2,
+   "uz": "Mana bu sening sumkalaringmi?",
+   "en": [
+    "Are these your bags?"
+   ],
+   "rule": "Yaqin, ko'plik: these"
+  },
+  {
+   "part": 2,
+   "uz": "Bu ajoyib kun.",
+   "en": [
+    "This is a lovely day.",
+    "This is a wonderful day."
+   ],
+   "rule": "Yaqin, birlik: this"
+  },
+  {
+   "part": 2,
+   "uz": "Anavi katta uylar.",
+   "en": [
+    "Those are big houses."
+   ],
+   "rule": "Uzoq, ko'plik: those"
+  },
+  {
+   "part": 2,
+   "uz": "Anavi xaritami?",
+   "en": [
+    "Is that a map?"
+   ],
+   "rule": "Uzoq, birlik: that"
+  },
+  {
+   "part": 2,
+   "uz": "Mana bu talabalar O'zbekistondan.",
+   "en": [
+    "These students are from Uzbekistan."
+   ],
+   "rule": "Yaqin, ko'plik: these"
+  },
+  {
+   "part": 2,
+   "uz": "Bu mening sevimli qo'shig'im.",
+   "en": [
+    "This is my favourite song."
+   ],
+   "rule": "Yaqin, birlik: this"
+  },
+  {
+   "part": 2,
+   "uz": "Anavi qimmat mashinalar.",
+   "en": [
+    "Those are expensive cars."
+   ],
+   "rule": "Uzoq, ko'plik: those"
+  },
+  {
+   "part": 2,
+   "uz": "Bu sening kredit kartangmi?",
+   "en": [
+    "Is this your credit card?"
+   ],
+   "rule": "Yaqin, birlik: this"
+  },
+  {
+   "part": 2,
+   "uz": "Mana bu bolalar juda baxtli.",
+   "en": [
+    "These children are very happy."
+   ],
+   "rule": "Yaqin, ko'plik: these"
+  },
+  {
+   "part": 2,
+   "uz": "Anavi ajoyib ko'rsatuv.",
+   "en": [
+    "That is a wonderful programme.",
+    "That is a great programme."
+   ],
+   "rule": "Uzoq, birlik: that"
+  }
+ ]
+}

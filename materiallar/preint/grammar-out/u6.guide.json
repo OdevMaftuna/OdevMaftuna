@@ -1,0 +1,294 @@
+[
+ {
+  "name": "Present perfect: experience, ever/never, just/already/yet",
+  "name_uz": "Present Perfect: tajriba, ever/never, just/already/yet",
+  "summary": "Present Perfect zamoni o'tmishda sodir bo'lgan, ammo hozirgi paytda ham muhim yoki ta'sirga ega bo'lgan harakatlarni bildiradi.",
+  "usage": [
+   {
+    "text": "Hayotdagi tajribalar haqida gapirishda (qachon sodir bo'lgani muhim emas).",
+    "example": {
+     "en": "I have visited London three times.",
+     "uz": "Men Londonda uch marta bo'lganman."
+    }
+   },
+   {
+    "text": "'Ever' so'zi savollarda 'hech qachon' degan ma'noni bildiradi.",
+    "example": {
+     "en": "Have you ever eaten sushi?",
+     "uz": "Siz hech qachon sushi yeb ko'rganmisiz?"
+    }
+   },
+   {
+    "text": "'Never' so'zi darak gaplarda inkor ma'nosini beradi.",
+    "example": {
+     "en": "She has never flown in a plane.",
+     "uz": "U hech qachon samolyotda uchmagan."
+    }
+   },
+   {
+    "text": "'Just' yaqindagina sodir bo'lgan voqealar uchun ishlatiladi.",
+    "example": {
+     "en": "I have just finished my homework.",
+     "uz": "Men hozirgina uy vazifamni tugatdim."
+    }
+   },
+   {
+    "text": "'Already' allaqachon bajarilgan ishni, 'yet' esa hali bajarilmagan ishni bildiradi.",
+    "example": {
+     "en": "He has already left, but they haven't arrived yet.",
+     "uz": "U allaqachon ketdi, lekin ular hali kelishmadi."
+    }
+   }
+  ],
+  "structure": [
+   {
+    "type": "+",
+    "formula": "Subject + have/has + V3 (Past Participle)",
+    "example": {
+     "en": "I have seen that film.",
+     "uz": "Men u filmni ko'rganman."
+    }
+   },
+   {
+    "type": "-",
+    "formula": "Subject + haven't/hasn't + V3",
+    "example": {
+     "en": "She hasn't finished yet.",
+     "uz": "U hali tugatgani yo'q."
+    }
+   },
+   {
+    "type": "?",
+    "formula": "Have/Has + subject + V3?",
+    "example": {
+     "en": "Have you ever been to Paris?",
+     "uz": "Siz Parijda bo'lganmisiz?"
+    }
+   },
+   {
+    "type": "short",
+    "formula": "Yes, subject + have/has. / No, subject + haven't/hasn't.",
+    "example": {
+     "en": "Yes, I have. / No, she hasn't.",
+     "uz": "Ha. / Yo'q."
+    }
+   }
+  ],
+  "signals": [
+   {
+    "en": "ever",
+    "uz": "hech qachon (savolda)"
+   },
+   {
+    "en": "never",
+    "uz": "hech qachon"
+   },
+   {
+    "en": "just",
+    "uz": "hozirgina"
+   },
+   {
+    "en": "already",
+    "uz": "allaqachon"
+   },
+   {
+    "en": "yet",
+    "uz": "hali"
+   },
+   {
+    "en": "so far",
+    "uz": "shu paytgacha"
+   },
+   {
+    "en": "recently",
+    "uz": "yaqinda"
+   }
+  ],
+  "tip": "Eslab qoling: 'He/She/It' olmoshlari bilan 'has', qolganlari bilan 'have' ishlatiladi va fe'lning uchinchi shakli (V3) qo'shiladi."
+ },
+ {
+  "name": "for / since, How long",
+  "name_uz": "for / since va How long",
+  "summary": "Bu qoida o'tmishda boshlanib, hozirgacha davom etayotgan harakatlarning davomiyligini ko'rsatish uchun ishlatiladi.",
+  "usage": [
+   {
+    "text": "'For' vaqt davomiyligini (qancha vaqt?) ko'rsatish uchun ishlatiladi.",
+    "example": {
+     "en": "I have lived here for three years.",
+     "uz": "Men bu yerda uch yildan beri yashayman."
+    }
+   },
+   {
+    "text": "'Since' ish boshlangan aniq vaqtni (qachondan beri?) ko'rsatadi.",
+    "example": {
+     "en": "She has worked here since 2020.",
+     "uz": "U bu yerda 2020-yildan beri ishlaydi."
+    }
+   },
+   {
+    "text": "'How long' davomiylik haqida savol berish uchun ishlatiladi.",
+    "example": {
+     "en": "How long have you known him?",
+     "uz": "Uni taniganingizga qancha bo'ldi?"
+    }
+   }
+  ],
+  "structure": [
+   {
+    "type": "+",
+    "formula": "Subject + have/has + V3 + for/since + time",
+    "example": {
+     "en": "We have studied English for two hours.",
+     "uz": "Biz ikki soatdan beri ingliz tilini o'rganmoqdamiz."
+    }
+   },
+   {
+    "type": "-",
+    "formula": "Subject + haven't/hasn't + V3 + for/since + time",
+    "example": {
+     "en": "I haven't seen him since Monday.",
+     "uz": "Men uni dushanba kunidan beri ko'rmadim."
+    }
+   },
+   {
+    "type": "?",
+    "formula": "How long + have/has + subject + V3?",
+    "example": {
+     "en": "How long have you lived in this city?",
+     "uz": "Bu shaharda yashayotganingizga qancha bo'ldi?"
+    }
+   },
+   {
+    "type": "short",
+    "formula": "For + time period / Since + point in time",
+    "example": {
+     "en": "For five years. / Since May.",
+     "uz": "Besh yildan beri. / May oyidan beri."
+    }
+   }
+  ],
+  "signals": [
+   {
+    "en": "for two hours",
+    "uz": "ikki soat davomida"
+   },
+   {
+    "en": "for a long time",
+    "uz": "uzoq vaqt davomida"
+   },
+   {
+    "en": "since Monday",
+    "uz": "dushanbadan beri"
+   },
+   {
+    "en": "since 2015",
+    "uz": "2015-yildan beri"
+   },
+   {
+    "en": "since I was a child",
+    "uz": "bolaligimdan beri"
+   },
+   {
+    "en": "how long",
+    "uz": "qancha vaqt"
+   }
+  ],
+  "tip": "'For' so'zidan keyin vaqt oralig'i (three days, two years), 'since' dan keyin esa aniq boshlanish nuqtasi (Monday, 10 o'clock) kelishini unutmang!"
+ },
+ {
+  "name": "Present perfect vs past simple; been vs gone",
+  "name_uz": "Present Perfect va Past Simple; been va gone",
+  "summary": "Past Simple aniq o'tmish vaqti uchun, Present Perfect esa hozirgi natija yoki tajriba uchun ishlatiladi. 'Been' borgan-kelgan, 'gone' esa ketgan va hali qaytmagan ma'noni beradi.",
+  "usage": [
+   {
+    "text": "Past Simple aniq o'tmish payti (yesterday, in 2010) ko'rsatilganda ishlatiladi.",
+    "example": {
+     "en": "I visited Rome last year.",
+     "uz": "Men o'tgan yili Rimga bordim."
+    }
+   },
+   {
+    "text": "Present Perfect esa vaqt ko'rsatilmaganda va natija muhim bo'lganda ishlatiladi.",
+    "example": {
+     "en": "I have visited Rome.",
+     "uz": "Men Rimda bo'lganman."
+    }
+   },
+   {
+    "text": "'Have/has been' - biror joyga borib qaytib kelganini bildiradi.",
+    "example": {
+     "en": "She has been to the shop. (She is back now)",
+     "uz": "U do'konga borib keldi. (Hozir u qaytgan)"
+    }
+   },
+   {
+    "text": "'Have/has gone' - biror joyga ketgan va hali qaytib kelmaganini bildiradi.",
+    "example": {
+     "en": "He has gone to the shop. (He is still there or on the way)",
+     "uz": "U do'konga ketdi. (Hali qaytib kelmagan)"
+    }
+   }
+  ],
+  "structure": [
+   {
+    "type": "+",
+    "formula": "Subject + V2 (Past Simple) vs Subject + have/has + V3 (Present Perfect)",
+    "example": {
+     "en": "I bought a car yesterday. / I have bought a new car.",
+     "uz": "Men kecha mashina sotib oldim. / Men yangi mashina sotib oldim."
+    }
+   },
+   {
+    "type": "-",
+    "formula": "Subject + didn't + V1 vs Subject + haven't/hasn't + V3",
+    "example": {
+     "en": "I didn't see him. / I haven't seen him.",
+     "uz": "Men uni ko'rmadim. / Men uni ko'rmaganman."
+    }
+   },
+   {
+    "type": "?",
+    "formula": "Did + subject + V1? vs Have/Has + subject + V3?",
+    "example": {
+     "en": "Did you go? / Have you been?",
+     "uz": "Bordingizmi? / Bo'lganmisiz?"
+    }
+   },
+   {
+    "type": "short",
+    "formula": "Yes, I did. / Yes, I have.",
+    "example": {
+     "en": "Yes, I did. / Yes, I have.",
+     "uz": "Ha. / Ha."
+    }
+   }
+  ],
+  "signals": [
+   {
+    "en": "yesterday",
+    "uz": "kecha (Past Simple)"
+   },
+   {
+    "en": "last week",
+    "uz": "o'tgan hafta (Past Simple)"
+   },
+   {
+    "en": "in 2010",
+    "uz": "2010-yilda (Past Simple)"
+   },
+   {
+    "en": "already",
+    "uz": "allaqachon (Present Perfect)"
+   },
+   {
+    "en": "yet",
+    "uz": "hali (Present Perfect)"
+   },
+   {
+    "en": "ever/never",
+    "uz": "hech qachon (Present Perfect)"
+   }
+  ],
+  "tip": "Gapda 'yesterday' yoki 'last year' kabi aniq o'tmish vaqti bo'lsa, hech qachon Present Perfect ishlatmang — faqat Past Simple ishlating!"
+ }
+]

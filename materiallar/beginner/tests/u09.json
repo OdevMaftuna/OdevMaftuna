@@ -1,0 +1,76 @@
+{
+  "code": "U9", "kind": "unit", "unit": 9, "price": 20000,
+  "title": "Unit 9 Test",
+  "subtitle": "was / were · born · years & dates · past time expressions",
+  "sections": [
+    {
+      "title": "A. Complete the sentences. Write was or were.",
+      "items": [
+        { "t": "text", "q": "I ______ at home yesterday evening.", "a": ["was"] },
+        { "t": "text", "q": "My parents ______ in Bukhara last week.", "a": ["were"] },
+        { "t": "text", "q": "The weather ______ cold on Monday.", "a": ["was"] },
+        { "t": "text", "q": "We ______ very tired after the lesson.", "a": ["were"] },
+        { "t": "text", "q": "Amir Temur ______ a great leader.", "a": ["was"] },
+        { "t": "text", "q": "You ______ late this morning!", "a": ["were"] }
+      ]
+    },
+    {
+      "title": "B. Make the sentences negative. Use wasn’t or weren’t.",
+      "items": [
+        { "t": "text", "q": "She was at the party.", "a": ["She wasn’t at the party", "She was not at the party"] },
+        { "t": "text", "q": "They were happy.", "a": ["They weren’t happy", "They were not happy"] },
+        { "t": "text", "q": "The film was interesting.", "a": ["The film wasn’t interesting", "The film was not interesting"] },
+        { "t": "text", "q": "We were at school on Sunday.", "a": ["We weren’t at school on Sunday", "We were not at school on Sunday"] }
+      ]
+    },
+    {
+      "title": "C. Choose the correct answer.",
+      "items": [
+        { "t": "mc", "q": "Where ______ you born? — In Jizzakh.", "o": ["was", "were", "are", "did"], "a": 1 },
+        { "t": "mc", "q": "When ______ your grandfather born?", "o": ["was", "were", "is", "does"], "a": 0 },
+        { "t": "mc", "q": "Were you at work yesterday? — No, I ______.", "o": ["weren’t", "wasn’t", "didn’t", "am not"], "a": 1 },
+        { "t": "mc", "q": "Was the hotel nice? — Yes, it ______.", "o": ["is", "were", "was", "did"], "a": 2 },
+        { "t": "mc", "q": "Were your friends at the concert? — Yes, they ______.", "o": ["was", "were", "are", "did"], "a": 1 }
+      ]
+    },
+    {
+      "title": "D. How do you say these years? Choose the correct answer.",
+      "items": [
+        { "t": "mc", "q": "1991", "o": ["nineteen ninety-one", "one thousand ninety-one", "nineteen nine one", "ninety-one nineteen"], "a": 0 },
+        { "t": "mc", "q": "2008", "o": ["twenty eight", "two thousand and eight", "twenty hundred eight", "two zero eight"], "a": 1 },
+        { "t": "mc", "q": "1875", "o": ["eighteen seventy-five", "one eight seventy-five", "eighty seventy-five", "eighteen hundred five"], "a": 0 },
+        { "t": "mc", "q": "2015", "o": ["twenty fifteen", "two thousand fifty", "twenty fifty", "two thousand five"], "a": 0 }
+      ]
+    },
+    {
+      "title": "E. Write the ordinal numbers in words.",
+      "items": [
+        { "t": "text", "q": "1st", "a": ["first"] },
+        { "t": "text", "q": "2nd", "a": ["second"] },
+        { "t": "text", "q": "3rd", "a": ["third"] },
+        { "t": "text", "q": "5th", "a": ["fifth"] },
+        { "t": "text", "q": "12th", "a": ["twelfth"] }
+      ]
+    },
+    {
+      "title": "F. Complete with in, on, at, or last.",
+      "items": [
+        { "t": "mc", "q": "I was born ______ 2004.", "o": ["in", "on", "at", "last"], "a": 0 },
+        { "t": "mc", "q": "We were in Tashkent ______ month.", "o": ["in", "on", "at", "last"], "a": 3 },
+        { "t": "mc", "q": "She was at the doctor’s ______ Tuesday.", "o": ["in", "on", "at", "last"], "a": 1 },
+        { "t": "mc", "q": "The lesson was ______ 9 o’clock.", "o": ["in", "on", "at", "last"], "a": 2 }
+      ]
+    },
+    {
+      "title": "G. Read the text and answer the questions.",
+      "passage": "My grandmother, Hanifa, was born in 1950 in a small village near Khiva. Her parents were farmers. There were seven children in the family, and their house was very small. Hanifa was a good student, and in 1968 she was the first girl from her village at university. She was a teacher for forty years. Now she is retired and she lives with us.",
+      "items": [
+        { "t": "text", "q": "When was Hanifa born?", "a": ["1950", "in 1950", "She was born in 1950"] },
+        { "t": "tf", "q": "Her parents were teachers.", "a": false },
+        { "t": "tf", "q": "There were seven children in the family.", "a": true },
+        { "t": "tf", "q": "Their house was big.", "a": false },
+        { "t": "mc", "q": "What was her job?", "o": ["a farmer", "a doctor", "a teacher", "a student"], "a": 2 }
+      ]
+    }
+  ]
+}

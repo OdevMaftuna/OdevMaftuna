@@ -1,0 +1,69 @@
+{
+  "code": "U10", "kind": "unit", "unit": 10, "price": 20000,
+  "title": "Unit 10 Test",
+  "subtitle": "Past Simple · regular & irregular verbs · did / didn’t · ago",
+  "sections": [
+    {
+      "title": "A. Write the Past Simple form.",
+      "items": [
+        { "t": "text", "q": "play → ______", "a": ["played"] },
+        { "t": "text", "q": "go → ______", "a": ["went"] },
+        { "t": "text", "q": "study → ______", "a": ["studied"] },
+        { "t": "text", "q": "see → ______", "a": ["saw"] },
+        { "t": "text", "q": "buy → ______", "a": ["bought"] },
+        { "t": "text", "q": "have → ______", "a": ["had"] },
+        { "t": "text", "q": "stop → ______", "a": ["stopped"] },
+        { "t": "text", "q": "write → ______", "a": ["wrote"] }
+      ]
+    },
+    {
+      "title": "B. Complete the sentences. Use the verb in the Past Simple.",
+      "items": [
+        { "t": "text", "q": "Last night we (watch) ______ a football match.", "a": ["watched"] },
+        { "t": "text", "q": "She (get up) ______ at six yesterday.", "a": ["got up"] },
+        { "t": "text", "q": "I (meet) ______ my friends in the park.", "a": ["met"] },
+        { "t": "text", "q": "They (come) ______ home very late.", "a": ["came"] },
+        { "t": "text", "q": "He (lose) ______ his keys last week.", "a": ["lost"] }
+      ]
+    },
+    {
+      "title": "C. Make the sentences negative.",
+      "items": [
+        { "t": "text", "q": "I went to work yesterday.", "a": ["I didn’t go to work yesterday", "I did not go to work yesterday"] },
+        { "t": "text", "q": "She ate breakfast.", "a": ["She didn’t eat breakfast", "She did not eat breakfast"] },
+        { "t": "text", "q": "We visited the museum.", "a": ["We didn’t visit the museum", "We did not visit the museum"] },
+        { "t": "text", "q": "They bought a new car.", "a": ["They didn’t buy a new car", "They did not buy a new car"] }
+      ]
+    },
+    {
+      "title": "D. Write questions.",
+      "items": [
+        { "t": "text", "q": "you / go / to the cinema / last weekend", "a": ["Did you go to the cinema last weekend"] },
+        { "t": "text", "q": "Where / you / go / on holiday", "a": ["Where did you go on holiday"] },
+        { "t": "text", "q": "What time / she / arrive", "a": ["What time did she arrive"] },
+        { "t": "text", "q": "What / they / have / for dinner", "a": ["What did they have for dinner"] }
+      ]
+    },
+    {
+      "title": "E. Choose the correct answer.",
+      "items": [
+        { "t": "mc", "q": "Did you call your mum? — Yes, I ______.", "o": ["did", "called", "do", "was"], "a": 0 },
+        { "t": "mc", "q": "Did he pass the exam? — No, he ______.", "o": ["doesn’t", "didn’t", "wasn’t", "not"], "a": 1 },
+        { "t": "mc", "q": "I started school ten years ______.", "o": ["before", "last", "ago", "past"], "a": 2 },
+        { "t": "mc", "q": "We moved to Tashkent ______ year.", "o": ["ago", "last", "in", "on"], "a": 1 },
+        { "t": "mc", "q": "When ______ you start learning English?", "o": ["do", "were", "did", "are"], "a": 2 }
+      ]
+    },
+    {
+      "title": "F. Read the text. Are the sentences true or false?",
+      "passage": "Last summer Shoxrux and his friend Akram went to the mountains near Chimgan. They left Tashkent early on Saturday morning and arrived at about ten. They walked for five hours and had lunch next to a river. In the afternoon it started to rain, so they stayed in a small guest house. They didn’t have a TV, but they played cards and talked all evening. On Sunday they came home by bus.",
+      "items": [
+        { "t": "tf", "q": "They went to the mountains in winter.", "a": false },
+        { "t": "tf", "q": "They arrived at about ten o’clock.", "a": true },
+        { "t": "tf", "q": "They had lunch next to a river.", "a": true },
+        { "t": "tf", "q": "They watched TV in the evening.", "a": false },
+        { "t": "tf", "q": "They came home by car.", "a": false }
+      ]
+    }
+  ]
+}

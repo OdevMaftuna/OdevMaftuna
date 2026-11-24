@@ -1,0 +1,1174 @@
+{
+ "code": "10.1",
+ "intro": {
+  "what": "Past Simple: to'g'ri fe'llar o'tmishda tugagan ish-harakatlarni bildiradi. Barcha shaxslar uchun fe'l oxiriga -ed qo'shimchasi qo'shiladi.",
+  "when": [
+   "O'tmishda aniq vaqtda tugagan ish-harakatlar",
+   "O'tmishdagi takroriy odatlar",
+   "Ketma-ket sodir bo'lgan voqealar"
+  ],
+  "structures": [
+   {
+    "label": "(+)",
+    "formula": "[ S + V2/ed + OB ]",
+    "example_en": "I worked yesterday.",
+    "example_uz": "Men kecha ishladim."
+   },
+   {
+    "label": "(+)",
+    "formula": "[ S + V2/ed + OB ]",
+    "example_en": "She played football last week.",
+    "example_uz": "U o'tgan hafta futbol o'ynadi."
+   }
+  ],
+  "rules": [
+   {
+    "title": "Oddiy qoida",
+    "text": "Ko'pchilik fe'llarga shunchaki -ed qo'shiladi.",
+    "examples": [
+     {
+      "en": "I watched TV yesterday.",
+      "uz": "Men kecha televizor ko'rdim."
+     },
+     {
+      "en": "We walked home last night.",
+      "uz": "Biz kecha oqshom uyga piyoda keldik."
+     }
+    ]
+   },
+   {
+    "title": "Imlo qoidalari (-e, -y, ikki undosh)",
+    "text": "Agar fe'l -e bilan tugasa, faqat -d qo'shamiz (live - lived). Undosh + y kelsa, y tushib -ied bo'ladi (study - studied). Qisqa fe'llarda oxirgi undosh ikkita yoziladi (stop - stopped).",
+    "examples": [
+     {
+      "en": "They lived in London last year.",
+      "uz": "Ular o'tgan yili Londonda yashashdi."
+     },
+     {
+      "en": "She studied English yesterday.",
+      "uz": "U kecha ingliz tilini o'rgandi."
+     }
+    ]
+   }
+  ],
+  "signal_words": [
+   {
+    "en": "Yesterday",
+    "uz": "Kecha"
+   },
+   {
+    "en": "Last night",
+    "uz": "Kecha oqshom"
+   },
+   {
+    "en": "Last week",
+    "uz": "O'tgan hafta"
+   },
+   {
+    "en": "Last year",
+    "uz": "O'tgan yili"
+   },
+   {
+    "en": "Two days ago",
+    "uz": "Ikki kun oldin"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I workd yesterday.",
+    "right": "I worked yesterday.",
+    "why": "To'g'ri fe'llarga -ed qo'shiladi, harflar tushirib qoldirilmaydi."
+   },
+   {
+    "wrong": "He plays football yesterday.",
+    "right": "He played football yesterday.",
+    "why": "Yesterday so'zi o'tgan zamonni bildiradi, shuning uchun fe'l ikkinchi shaklda (-ed) bo'lishi kerak."
+   },
+   {
+    "wrong": "She studyed English.",
+    "right": "She studied English.",
+    "why": "Undosh harf va y kelsa, y harfi i ga o'zgaradi va -ed qo'shiladi."
+   }
+  ]
+ },
+ "test": [
+  {
+   "type": "fill",
+   "q": "I ______ English yesterday. [study]",
+   "answer": "studied",
+   "explain": "Undosh + y harfi kelganda y harfi i ga o'zgarib -ied qo'shiladi.",
+   "accept": [],
+   "hint": "study"
+  },
+  {
+   "type": "fill",
+   "q": "She ______ TV last night. [watch]",
+   "answer": "watched",
+   "explain": "O'tgan zamondagi darak gapda to'g'ri fe'lga -ed qo'shiladi.",
+   "accept": [],
+   "hint": "watch"
+  },
+  {
+   "type": "fill",
+   "q": "They ______ in Tashkent last year. [live]",
+   "answer": "lived",
+   "explain": "Fe'l -e bilan tugasa, faqat -d qo'shiladi.",
+   "accept": [],
+   "hint": "live"
+  },
+  {
+   "type": "fill",
+   "q": "We ______ football at the weekend. [play]",
+   "answer": "played",
+   "explain": "O'tgan zamon darak gapida to'g'ri fe'lga -ed qo'shiladi.",
+   "accept": [],
+   "hint": "play"
+  },
+  {
+   "type": "fill",
+   "q": "He ______ hard yesterday. [work]",
+   "answer": "worked",
+   "explain": "O'tgan zamondagi ish-harakat uchun fe'lga -ed qo'shiladi.",
+   "accept": [],
+   "hint": "work"
+  },
+  {
+   "type": "fill",
+   "q": "Ali ______ the car near the shop. [stop]",
+   "answer": "stopped",
+   "explain": "Qisqa unli va undosh bilan tugagan fe'llarda oxirgi harf ikkita yoziladi va -ed qo'shiladi.",
+   "accept": [],
+   "hint": "stop"
+  },
+  {
+   "type": "fill",
+   "q": "Aziz ______ his room yesterday. [tidy]",
+   "answer": "tidied",
+   "explain": "Undosh + y harfi kelganda y harfi i ga o'zgarib -ied qo'shiladi.",
+   "accept": [],
+   "hint": "tidy"
+  },
+  {
+   "type": "fill",
+   "q": "I ______ to music last night. [listen]",
+   "answer": "listened",
+   "explain": "O'tgan zamonda to'g'ri fe'lga -ed qo'shiladi.",
+   "accept": [],
+   "hint": "listen"
+  },
+  {
+   "type": "fill",
+   "q": "Malika ______ a nice film yesterday. [watch]",
+   "answer": "watched",
+   "explain": "O'tgan zamon darak gapida watch fe'liga -ed qo'shiladi.",
+   "accept": [],
+   "hint": "watch"
+  },
+  {
+   "type": "fill",
+   "q": "Tom ______ his grandmother last week. [visit]",
+   "answer": "visited",
+   "explain": "O'tgan zamon darak gapida visit fe'liga -ed qo'shiladi.",
+   "accept": [],
+   "hint": "visit"
+  },
+  {
+   "type": "fill",
+   "q": "Anna ______ dinner in the kitchen. [cook]",
+   "answer": "cooked",
+   "explain": "O'tgan zamon darak gapida cook fe'liga -ed qo'shiladi.",
+   "accept": [],
+   "hint": "cook"
+  },
+  {
+   "type": "fill",
+   "q": "We ______ to Samarkand last month. [travel]",
+   "answer": "travelled",
+   "explain": "O'tgan zamonda to'g'ri fe'lga -ed qo'shiladi.",
+   "accept": [],
+   "hint": "travel"
+  },
+  {
+   "type": "fill",
+   "q": "The children ______ in the park. [play]",
+   "answer": "played",
+   "explain": "O'tgan zamon darak gapida play fe'liga -ed qo'shiladi.",
+   "accept": [],
+   "hint": "play"
+  },
+  {
+   "type": "fill",
+   "q": "My dad ______ a new car yesterday. [want]",
+   "answer": "wanted",
+   "explain": "O'tgan zamon darak gapida want fe'liga -ed qo'shiladi.",
+   "accept": [],
+   "hint": "want"
+  },
+  {
+   "type": "fill",
+   "q": "She ______ the door. [open]",
+   "answer": "opened",
+   "explain": "O'tgan zamon darak gapida open fe'liga -ed qo'shiladi.",
+   "accept": [],
+   "hint": "open"
+  },
+  {
+   "type": "fill",
+   "q": "You ______ very well yesterday. [dance]",
+   "answer": "danced",
+   "explain": "Fe'l -e bilan tugasa, oxiriga faqat -d qo'shiladi.",
+   "accept": [],
+   "hint": "dance"
+  },
+  {
+   "type": "fill",
+   "q": "They ______ English at school. [learn]",
+   "answer": "learned",
+   "explain": "O'tgan zamon darak gapida learn fe'liga -ed qo'shiladi.",
+   "accept": [
+    "learnt"
+   ],
+   "hint": "learn"
+  },
+  {
+   "type": "fill",
+   "q": "I ______ my friend yesterday. [phone]",
+   "answer": "phoned",
+   "explain": "Fe'l -e bilan tugasa, oxiriga faqat -d qo'shiladi.",
+   "accept": [],
+   "hint": "phone"
+  },
+  {
+   "type": "fill",
+   "q": "He ______ the door and entered the room. [close]",
+   "answer": "closed",
+   "explain": "Fe'l -e bilan tugasa, oxiriga faqat -d qo'shiladi.",
+   "accept": [],
+   "hint": "close"
+  },
+  {
+   "type": "fill",
+   "q": "We ______ home yesterday. [walk]",
+   "answer": "walked",
+   "explain": "O'tgan zamon darak gapida walk fe'liga -ed qo'shiladi.",
+   "accept": [],
+   "hint": "walk"
+  },
+  {
+   "type": "mc",
+   "q": "I ______ my homework last night.",
+   "answer": "finished",
+   "explain": "O'tgan zamonda to'g'ri fe'lga -ed qo'shiladi.",
+   "options": [
+    "finish",
+    "finishes",
+    "finished"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "She ______ in a nice hotel last year.",
+   "answer": "stayed",
+   "explain": "O'tgan zamon darak gapida stay fe'liga -ed qo'shiladi.",
+   "options": [
+    "stayed",
+    "stay",
+    "staying"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "They ______ football yesterday.",
+   "answer": "played",
+   "explain": "O'tgan zamonda play fe'li -ed qo'shimchasini oladi.",
+   "options": [
+    "plays",
+    "playing",
+    "played"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Aziz ______ English yesterday.",
+   "answer": "studied",
+   "explain": "Undosh + y harfi kelganda -ied qo'shiladi.",
+   "options": [
+    "studyed",
+    "studied",
+    "studys"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "We ______ TV two hours ago.",
+   "answer": "watched",
+   "explain": "O'tgan zamonni bildiruvchi 'ago' so'zi bor, shuning uchun watch fe'liga -ed qo'shiladi.",
+   "options": [
+    "watch",
+    "watched",
+    "watching"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "He ______ the car near the house.",
+   "answer": "stopped",
+   "explain": "Stop fe'li o'tgan zamonda ikkita p harfi bilan yoziladi.",
+   "options": [
+    "stoped",
+    "stopped",
+    "stop"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "My mother ______ a delicious cake yesterday.",
+   "answer": "cooked",
+   "explain": "O'tgan zamon darak gapida cook fe'liga -ed qo'shiladi.",
+   "options": [
+    "cooked",
+    "cook",
+    "cooks"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Ali ______ his uncle last weekend.",
+   "answer": "visited",
+   "explain": "O'tgan zamon darak gapida visit fe'liga -ed qo'shiladi.",
+   "options": [
+    "visit",
+    "visited",
+    "visiting"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "I ______ in London in 2020.",
+   "answer": "lived",
+   "explain": "Fe'l -e bilan tugasa, oxiriga faqat -d qo'shiladi.",
+   "options": [
+    "lived",
+    "live",
+    "lives"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "The children ______ in the room.",
+   "answer": "played",
+   "explain": "O'tgan zamon darak gapida play fe'liga -ed qo'shiladi.",
+   "options": [
+    "play",
+    "playing",
+    "played"
+   ]
+  }
+ ],
+ "model": "gemini-3.5-flash-lite",
+ "tr1": [
+  {
+   "part": 0,
+   "uz": "Kecha men uyda ishladim.",
+   "en": [
+    "Yesterday I worked at home."
+   ],
+   "rule": "O'tgan zamon: work fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular parkda o'ynadi.",
+   "en": [
+    "They played in the park."
+   ],
+   "rule": "O'tgan zamon: play fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Tom Toshkentda yashadi.",
+   "en": [
+    "Tom lived in Tashkent."
+   ],
+   "rule": "Oxiri 'e' bilan tugagan fe'lga -d qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Anna kecha televizor ko'rdi.",
+   "en": [
+    "Anna watched TV yesterday."
+   ],
+   "rule": "O'tgan zamon: watch fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Biz kecha shahar markazida yurdik.",
+   "en": [
+    "We walked in the town centre yesterday."
+   ],
+   "rule": "O'tgan zamon: walk fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular kecha ingliz tilini o'rgandi.",
+   "en": [
+    "They learned English yesterday."
+   ],
+   "rule": "O'tgan zamon: learn fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Men kecha xat yozdim.",
+   "en": [
+    "I posted a letter yesterday."
+   ],
+   "rule": "O'tgan zamon: post fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Aziz kecha do'stini ziyorat qildi.",
+   "en": [
+    "Aziz visited his friend yesterday."
+   ],
+   "rule": "O'tgan zamon: visit fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Qizlar kecha raqsga tushdi.",
+   "en": [
+    "The girls danced yesterday."
+   ],
+   "rule": "Oxiri 'e' bilan tugagan fe'lga -d qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Biz o'tgan yili Fransiyaga sayohat qildik.",
+   "en": [
+    "We traveled last year."
+   ],
+   "rule": "O'tgan zamon: travel fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular kecha oqshom ovqat pishirdi.",
+   "en": [
+    "They cooked dinner yesterday evening."
+   ],
+   "rule": "O'tgan zamon: cook fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Men kecha musiqa tingladim.",
+   "en": [
+    "I listened to music yesterday."
+   ],
+   "rule": "O'tgan zamon: listen fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bolalar kecha muzeyga bordi.",
+   "en": [
+    "The children visited a museum yesterday."
+   ],
+   "rule": "O'tgan zamon: visit fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Malika kecha xonani tozaladi.",
+   "en": [
+    "Malika tidied the room yesterday."
+   ],
+   "rule": "Undoshdan keyin y harfi ied bo'ladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular kecha kinoteatrda film ko'rdi.",
+   "en": [
+    "They watched a film at the cinema yesterday."
+   ],
+   "rule": "O'tgan zamon: watch fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Men kecha kitob o'qidim.",
+   "en": [
+    "I looked at a book yesterday."
+   ],
+   "rule": "O'tgan zamon: look fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Biz kecha restoranda ovqat yedik.",
+   "en": [
+    "We enjoyed food at a restaurant yesterday."
+   ],
+   "rule": "O'tgan zamon: enjoy fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U kecha o'z uyida qoldi.",
+   "en": [
+    "He stayed at his home yesterday."
+   ],
+   "rule": "O'tgan zamon: stay fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Siz kecha internetdan foydalandingiz.",
+   "en": [
+    "You used the internet yesterday."
+   ],
+   "rule": "Oxiri 'e' bilan tugagan fe'lga -d qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular kecha darsni boshladi.",
+   "en": [
+    "They started the lesson yesterday."
+   ],
+   "rule": "O'tgan zamon: start fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Men kecha uyni bo'yab chiqdim.",
+   "en": [
+    "I painted the house yesterday."
+   ],
+   "rule": "O'tgan zamon: paint fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular kecha o'yin o'ynadi.",
+   "en": [
+    "They played games yesterday."
+   ],
+   "rule": "O'tgan zamon: play fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Tom kecha Samarkandda yashadi.",
+   "en": [
+    "Tom lived in Samarkand yesterday."
+   ],
+   "rule": "Oxiri 'e' bilan tugagan fe'lga -d qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Biz kecha chiroyli binolarni ko'rdik.",
+   "en": [
+    "We looked at beautiful buildings yesterday."
+   ],
+   "rule": "O'tgan zamon: look fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Anna kecha xat oldi.",
+   "en": [
+    "Anna posted a card yesterday."
+   ],
+   "rule": "O'tgan zamon: post fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Do'stlarim kecha kechqurun keldi.",
+   "en": [
+    "My friends walked yesterday evening."
+   ],
+   "rule": "O'tgan zamon: walk fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Men kecha choy ichdim.",
+   "en": [
+    "I ordered tea yesterday."
+   ],
+   "rule": "O'tgan zamon: order fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular kecha bozorga bordi.",
+   "en": [
+    "They visited the market yesterday."
+   ],
+   "rule": "O'tgan zamon: visit fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Biz kecha darsni tugatdik.",
+   "en": [
+    "We finished the lesson yesterday."
+   ],
+   "rule": "O'tgan zamon: finish fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U kecha ishda ko'p ishladi.",
+   "en": [
+    "He worked hard at work yesterday."
+   ],
+   "rule": "O'tgan zamon: work fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Sen kecha menga yordam berding.",
+   "en": [
+    "You helped me yesterday."
+   ],
+   "rule": "O'tgan zamon: help fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular kecha yangi mashina ko'rdi.",
+   "en": [
+    "They looked at a new car yesterday."
+   ],
+   "rule": "O'tgan zamon: look fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Men kecha shahar markazida yashadim.",
+   "en": [
+    "I lived in the town centre yesterday."
+   ],
+   "rule": "Oxiri 'e' bilan tugagan fe'lga -d qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular kecha sport bilan shug'ullandi.",
+   "en": [
+    "They played sports yesterday."
+   ],
+   "rule": "O'tgan zamon: play fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Biz kecha kechqurun ovqatlandik.",
+   "en": [
+    "We enjoyed dinner yesterday evening."
+   ],
+   "rule": "O'tgan zamon: enjoy fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Anna kecha uyda dam oldi.",
+   "en": [
+    "Anna relaxed at home yesterday."
+   ],
+   "rule": "O'tgan zamon: relax fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular kecha ingliz tilida gaplashdi.",
+   "en": [
+    "They talked in English yesterday."
+   ],
+   "rule": "O'tgan zamon: talk fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Men kecha yangi xonani bo'yadim.",
+   "en": [
+    "I painted a new room yesterday."
+   ],
+   "rule": "O'tgan zamon: paint fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Biz kecha darsda ko'p o'qidik.",
+   "en": [
+    "We learned a lot in the lesson yesterday."
+   ],
+   "rule": "O'tgan zamon: learn fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular kecha mehmonxonada qoldi.",
+   "en": [
+    "They stayed at a hotel yesterday."
+   ],
+   "rule": "O'tgan zamon: stay fe'liga -ed qo'shiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Men kecha ingliz tilini o'rgandim.",
+   "en": [
+    "I studied English yesterday."
+   ],
+   "rule": "Undoshdan keyin y harfi -ied bo'ladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular kecha ko'chada to'xtadi.",
+   "en": [
+    "They stopped in the street yesterday."
+   ],
+   "rule": "Qisqa unlidan keyin oxirgi undosh ikkilanadi."
+  },
+  {
+   "part": 1,
+   "uz": "Malika kecha xonani tozaladi.",
+   "en": [
+    "Malika tidied the room yesterday."
+   ],
+   "rule": "Undoshdan keyin y harfi -ied bo'ladi."
+  },
+  {
+   "part": 1,
+   "uz": "Tom kecha avtobusni to'xtatdi.",
+   "en": [
+    "Tom stopped the bus yesterday."
+   ],
+   "rule": "Qisqa unlidan keyin oxirgi undosh ikkilanadi."
+  },
+  {
+   "part": 1,
+   "uz": "Biz kecha darsni rejalashtirdik.",
+   "en": [
+    "We planned the lesson yesterday."
+   ],
+   "rule": "Qisqa unlidan keyin oxirgi undosh ikkilanadi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular kecha uyda o'qidi.",
+   "en": [
+    "They studied at home yesterday."
+   ],
+   "rule": "Undoshdan keyin y harfi -ied bo'ladi."
+  },
+  {
+   "part": 1,
+   "uz": "Men kecha mashinani to'xtatdim.",
+   "en": [
+    "I stopped the car yesterday."
+   ],
+   "rule": "Qisqa unlidan keyin oxirgi undosh ikkilanadi."
+  },
+  {
+   "part": 1,
+   "uz": "Anna kecha do'konda to'xtadi.",
+   "en": [
+    "Anna stopped at the shop yesterday."
+   ],
+   "rule": "Qisqa unlidan keyin oxirgi undosh ikkilanadi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular kecha dars uchun tayyorgarlik ko'rdi.",
+   "en": [
+    "They studied for the lesson yesterday."
+   ],
+   "rule": "Undoshdan keyin y harfi -ied bo'ladi."
+  },
+  {
+   "part": 1,
+   "uz": "Biz kecha stansiyada to'xtadik.",
+   "en": [
+    "We stopped at the station yesterday."
+   ],
+   "rule": "Qisqa unlidan keyin oxirgi undosh ikkilanadi."
+  }
+ ],
+ "tr51": [
+  {
+   "part": 1,
+   "uz": "Kecha Malika ingliz tilini o'rgandi.",
+   "en": [
+    "Malika studied English yesterday."
+   ],
+   "rule": "Undosh + y harfi -ied bo'ladi"
+  },
+  {
+   "part": 1,
+   "uz": "Ular avtobusda to'xtadilar.",
+   "en": [
+    "They stopped on a bus.",
+    "They stopped by bus."
+   ],
+   "rule": "Undosh harf ikkilanib -ed qo'shiladi"
+  },
+  {
+   "part": 1,
+   "uz": "Aziz uyda ingliz tilini o'rgandi.",
+   "en": [
+    "Aziz studied English at home."
+   ],
+   "rule": "y harfi tushib -ied qo'shiladi"
+  },
+  {
+   "part": 1,
+   "uz": "Biz shaharda to'xtadik.",
+   "en": [
+    "We stopped in the town."
+   ],
+   "rule": "Oxirgi undosh ikkilanadi"
+  },
+  {
+   "part": 1,
+   "uz": "Tom kecha tennis o'ynadi.",
+   "en": [
+    "Tom played tennis yesterday."
+   ],
+   "rule": "Unlidan keyingi y o'zgarmaydi"
+  },
+  {
+   "part": 1,
+   "uz": "Ular kinoteatr oldida to'xtadilar.",
+   "en": [
+    "They stopped near the cinema."
+   ],
+   "rule": "stop fe'li stopped bo'ladi"
+  },
+  {
+   "part": 1,
+   "uz": "Anna kecha darsni o'rgandi.",
+   "en": [
+    "Anna studied the lesson yesterday."
+   ],
+   "rule": "study - studied"
+  },
+  {
+   "part": 1,
+   "uz": "Men muzey oldida to'xtadim.",
+   "en": [
+    "I stopped near the museum."
+   ],
+   "rule": "stop - stopped"
+  },
+  {
+   "part": 1,
+   "uz": "Ular kecha futbol o'ynadilar.",
+   "en": [
+    "They played football yesterday."
+   ],
+   "rule": "play - played"
+  },
+  {
+   "part": 1,
+   "uz": "Ali uyda ingliz tilini o'rgandi.",
+   "en": [
+    "Ali studied English at home."
+   ],
+   "rule": "y -> ied qoidasi"
+  },
+  {
+   "part": 1,
+   "uz": "Biz supermarket oldida to'xtadik.",
+   "en": [
+    "We stopped near the supermarket."
+   ],
+   "rule": "p harfi ikkilanadi"
+  },
+  {
+   "part": 1,
+   "uz": "Malika kecha parkda o'ynadi.",
+   "en": [
+    "Malika played in the park yesterday."
+   ],
+   "rule": "play fe'liga -ed qo'shiladi"
+  },
+  {
+   "part": 1,
+   "uz": "Ular universitetda o'qidilar.",
+   "en": [
+    "They studied at the university."
+   ],
+   "rule": "study - studied"
+  },
+  {
+   "part": 1,
+   "uz": "Men restoranda to'xtadim.",
+   "en": [
+    "I stopped at the restaurant."
+   ],
+   "rule": "stop fe'lining o'tgan zamoni"
+  },
+  {
+   "part": 1,
+   "uz": "Tom uyda tennis o'ynadi.",
+   "en": [
+    "Tom played tennis at home."
+   ],
+   "rule": "play fe'li to'g'ri fe'l"
+  },
+  {
+   "part": 1,
+   "uz": "Ular muzeyda to'xtadilar.",
+   "en": [
+    "They stopped at the museum."
+   ],
+   "rule": "stop fe'lida harf ikkilanadi"
+  },
+  {
+   "part": 1,
+   "uz": "Anna kecha ingliz tilini o'rgandi.",
+   "en": [
+    "Anna studied English yesterday."
+   ],
+   "rule": "study fe'lidan -ied yasaladi"
+  },
+  {
+   "part": 1,
+   "uz": "Biz kecha parkda o'ynadik.",
+   "en": [
+    "We played in the park yesterday."
+   ],
+   "rule": "play - played"
+  },
+  {
+   "part": 1,
+   "uz": "Aziz maktabda o'rgandi.",
+   "en": [
+    "Aziz studied at school."
+   ],
+   "rule": "y harfi o'zgaradi"
+  },
+  {
+   "part": 1,
+   "uz": "Ular vokzalda to'xtadilar.",
+   "en": [
+    "They stopped at the railway station."
+   ],
+   "rule": "stop - stopped"
+  },
+  {
+   "part": 2,
+   "uz": "Men kecha uyda ishladim.",
+   "en": [
+    "I worked at home yesterday."
+   ],
+   "rule": "To'g'ri fe'lga -ed qo'shiladi"
+  },
+  {
+   "part": 2,
+   "uz": "Malika Samarqandda yashadi.",
+   "en": [
+    "Malika lived in Samarkand."
+   ],
+   "rule": "-e bilan tugasa, -d qo'shiladi"
+  },
+  {
+   "part": 2,
+   "uz": "Ular kecha futbol o'ynadilar.",
+   "en": [
+    "They played football yesterday."
+   ],
+   "rule": "play - played"
+  },
+  {
+   "part": 2,
+   "uz": "Tom Toshkentda yashadi.",
+   "en": [
+    "Tom lived in Tashkent."
+   ],
+   "rule": "live - lived"
+  },
+  {
+   "part": 2,
+   "uz": "Biz kecha darsni o'qidik.",
+   "en": [
+    "We studied the lesson yesterday."
+   ],
+   "rule": "study - studied"
+  },
+  {
+   "part": 2,
+   "uz": "Anna ofisda ishladim.",
+   "en": [
+    "Anna worked in the office."
+   ],
+   "rule": "work - worked"
+  },
+  {
+   "part": 2,
+   "uz": "Ular avtobusda to'xtadilar.",
+   "en": [
+    "They stopped on a bus."
+   ],
+   "rule": "stop - stopped"
+  },
+  {
+   "part": 2,
+   "uz": "Men kecha xat yozdim.",
+   "en": [
+    "I wrote a letter yesterday."
+   ],
+   "rule": "O'tgan zamon oddiy shakli"
+  },
+  {
+   "part": 2,
+   "uz": "Aziz kecha tennis o'ynadi.",
+   "en": [
+    "Aziz played tennis yesterday."
+   ],
+   "rule": "play fe'li to'g'ri fe'l"
+  },
+  {
+   "part": 2,
+   "uz": "Biz uyda yashadik.",
+   "en": [
+    "We lived at home."
+   ],
+   "rule": "live fe'liga -d qo'shiladi"
+  },
+  {
+   "part": 2,
+   "uz": "Malika kecha shahar markazida ishlad.",
+   "en": [
+    "Malika worked in the town centre yesterday."
+   ],
+   "rule": "work - worked"
+  },
+  {
+   "part": 2,
+   "uz": "Ular kecha kinoda bo'ldilar.",
+   "en": [
+    "They were at the cinema yesterday."
+   ],
+   "rule": "to be fe'lining o'tgan zamoni"
+  },
+  {
+   "part": 2,
+   "uz": "Tom kecha ingliz tilini o'rgandi.",
+   "en": [
+    "Tom studied English yesterday."
+   ],
+   "rule": "study - studied"
+  },
+  {
+   "part": 2,
+   "uz": "Biz restoranda kechki ovqat yedik.",
+   "en": [
+    "We ate dinner at the restaurant."
+   ],
+   "rule": "Notog'ri fe'l shakli"
+  },
+  {
+   "part": 2,
+   "uz": "Anna parkda o'ynadi.",
+   "en": [
+    "Anna played in the park."
+   ],
+   "rule": "play - played"
+  },
+  {
+   "part": 2,
+   "uz": "Men kecha ofisda ishladim.",
+   "en": [
+    "I worked in the office yesterday."
+   ],
+   "rule": "work fe'li -ed oladi"
+  },
+  {
+   "part": 2,
+   "uz": "Ular Toshkentda yashadilar.",
+   "en": [
+    "They lived in Tashkent."
+   ],
+   "rule": "live - lived"
+  },
+  {
+   "part": 2,
+   "uz": "Aziz kecha to'xtadi.",
+   "en": [
+    "Aziz stopped yesterday."
+   ],
+   "rule": "stop - stopped"
+  },
+  {
+   "part": 2,
+   "uz": "Biz kecha muzeyga bordik.",
+   "en": [
+    "We went to the museum yesterday."
+   ],
+   "rule": "go fe'lining o'tgan zamoni"
+  },
+  {
+   "part": 2,
+   "uz": "Malika uyda ishladim.",
+   "en": [
+    "Malika worked at home."
+   ],
+   "rule": "work fe'li"
+  },
+  {
+   "part": 2,
+   "uz": "Tom kecha futbol o'ynadi.",
+   "en": [
+    "Tom played football yesterday."
+   ],
+   "rule": "play - played"
+  },
+  {
+   "part": 2,
+   "uz": "Ular kecha ingliz tilini o'rgandilar.",
+   "en": [
+    "They studied English yesterday."
+   ],
+   "rule": "study - studied"
+  },
+  {
+   "part": 2,
+   "uz": "Men supermarkezda ishladim.",
+   "en": [
+    "I worked at the supermarket."
+   ],
+   "rule": "work - worked"
+  },
+  {
+   "part": 2,
+   "uz": "Anna Samarqandda yashadi.",
+   "en": [
+    "Anna lived in Samarkand."
+   ],
+   "rule": "live - lived"
+  },
+  {
+   "part": 2,
+   "uz": "Biz kecha shahar markazida to'xtadik.",
+   "en": [
+    "We stopped in the town centre yesterday."
+   ],
+   "rule": "stop - stopped"
+  },
+  {
+   "part": 2,
+   "uz": "Aziz kecha darsni o'qidi.",
+   "en": [
+    "Aziz studied the lesson yesterday."
+   ],
+   "rule": "study - studied"
+  },
+  {
+   "part": 2,
+   "uz": "Ular kecha parkda o'ynadilar.",
+   "en": [
+    "They played in the park yesterday."
+   ],
+   "rule": "play - played"
+  },
+  {
+   "part": 2,
+   "uz": "Tom ofisda ishladim.",
+   "en": [
+    "Tom worked in the office."
+   ],
+   "rule": "work - worked"
+  },
+  {
+   "part": 2,
+   "uz": "Malika kecha televizor ko'rdi.",
+   "en": [
+    "Malika watched TV yesterday."
+   ],
+   "rule": "watch - watched"
+  },
+  {
+   "part": 2,
+   "uz": "Biz kecha uyda dam oldik.",
+   "en": [
+    "We relaxed at home yesterday."
+   ],
+   "rule": "relax - relaxed"
+  }
+ ]
+}

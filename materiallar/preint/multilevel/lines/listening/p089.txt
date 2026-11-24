@@ -1,0 +1,36 @@
+﻿102`t18`t214`t90
+166`t24`t247`tExercise 12
+87`t32`t790`tMultilevel Master listening
+204`t26`t247`tYou will hear someone giving a talk. Label the places (1-5) on the map
+240`t26`t243`t(A-H). There are THREE extra options which you do not need to use.
+283`t23`t447`tArt and History in the Sheepmarket
+404`t12`t662`tHill Road
+511`t15`t729`tRubllc
+532`t14`t719`tGardens
+607`t14`t472`tStation
+627`t17`t472`tSquare
+713`t26`t232`t1. The Reynolds House
+678`t13`t578`tCrawle Road
+710`t21`t626`t2. The Thumb
+709`t23`t883`t3. The Museum
+747`t26`t231`t4. The Contemporary Art Gallery 5. Nucleus
+824`t24`t232`tExercise 13
+875`t27`t231`tYou will hear someone giving a talk. Label the places (1-5) on the map
+911`t27`t227`t(A-H). There are THREE extra options which you do not need to use.
+963`t22`t425`tProposed traffic changes in Granford
+1013`t15`t439`tNorth
+1051`t16`t487`tEast
+1052`t14`t391`tWest
+1084`t15`t435`tSouth
+1197`t12`t489`tBank
+1118`t15`t768`tSchool
+1325`t10`t410`t0
+1346`t14`t407`t2
+1423`t28`t201`t1. new traffic lights
+1237`t13`t607`tChemist
+1279`t15`t517`tHigh Street
+1319`t15`t588`tSuperman et
+1428`t28`t480`t2. pedestrian crossing 3. parking allowed
+1462`t29`t197`t4. new disabled parking spaces
+1475`t29`t750`t5. widened pavement
+1653`t9`t1022`tScanned With

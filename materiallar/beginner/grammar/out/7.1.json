@@ -1,0 +1,1263 @@
+{
+ "code": "7.1",
+ "intro": {
+  "what": "Savol so'zlari (who, what, where, when, why, how, how much, how many) ingliz tilida ma'lumot so'rash uchun ishlatiladi.",
+  "when": [
+   "Inson haqida so'rashda (who)",
+   "Narsa yoki predmet haqida so'rashda (what)",
+   "Joy haqida so'rashda (where)",
+   "Vaqt haqida so'rashda (when, what time)",
+   "Narx yoki miqdor haqida so'rashda (how much, how many)"
+  ],
+  "structures": [
+   {
+    "label": "Wh- + to be",
+    "formula": "Wh- + TOBE + S + OB?",
+    "example_en": "Where are you from?",
+    "example_uz": "Siz qayerdansiz?"
+   },
+   {
+    "label": "Wh- + Present Simple",
+    "formula": "Wh- + DO/DOES + S + V1 + OB?",
+    "example_en": "Where do you live?",
+    "example_uz": "Siz qayerda yashaysiz?"
+   },
+   {
+    "label": "Wh- + Present Simple (He/She/It)",
+    "formula": "Wh- + DOES + S + V1 + OB?",
+    "example_en": "When does it start?",
+    "example_uz": "Bu qachon boshlanadi?"
+   },
+   {
+    "label": "How much (Price)",
+    "formula": "How much + TOBE + OB?",
+    "example_en": "How much is it?",
+    "example_uz": "Bu qancha turadi?"
+   }
+  ],
+  "rules": [
+   {
+    "title": "Savol so'zlarining joylashuvi",
+    "text": "Savol so'zlari (Who, What, Where, When, Why, How) har doim gapning boshida keladi.",
+    "examples": [
+     {
+      "en": "Where do you live?",
+      "uz": "Qayerda yashaysiz?"
+     },
+     {
+      "en": "What is your name?",
+      "uz": "Ismingiz nima?"
+     }
+    ]
+   },
+   {
+    "title": "Do va Does yordamchi fe'llari",
+    "text": "Present Simple zamonida I, you, we, they uchun 'do', he, she, it uchun esa 'does' ishlatiladi.",
+    "examples": [
+     {
+      "en": "Where do they work?",
+      "uz": "Ular qayerda ishlaydi?"
+     },
+     {
+      "en": "What time does she get up?",
+      "uz": "U soat nechada turadi?"
+     }
+    ]
+   },
+   {
+    "title": "How much va How many farqi",
+    "text": "Sanalmaydigan otlar bilan 'how much', sanaladigan ko'plikdagi otlar bilan 'how many' ishlatiladi.",
+    "examples": [
+     {
+      "en": "How much is the coffee?",
+      "uz": "Kofe qancha turadi?"
+     },
+     {
+      "en": "How many children do you have?",
+      "uz": "Qancha farzandingiz bor?"
+     }
+    ]
+   }
+  ],
+  "signal_words": [
+   {
+    "en": "Who",
+    "uz": "Kim"
+   },
+   {
+    "en": "What",
+    "uz": "Nima"
+   },
+   {
+    "en": "Where",
+    "uz": "Qayerda"
+   },
+   {
+    "en": "When",
+    "uz": "Qachon"
+   },
+   {
+    "en": "Why",
+    "uz": "Nima uchun"
+   },
+   {
+    "en": "How",
+    "uz": "Qanday"
+   },
+   {
+    "en": "How much",
+    "uz": "Qancha (narx/sanalmaydigan)"
+   },
+   {
+    "en": "How many",
+    "uz": "Nechta (sanaladigan)"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "Where you live?",
+    "right": "Where do you live?",
+    "why": "Present Simple savol gaplarida 'do' yoki 'does' yordamchi fe'li tushib qolmasligi kerak."
+   },
+   {
+    "wrong": "What time she gets up?",
+    "right": "What time does she get up?",
+    "why": "He, she, it olmoshlari bilan savol tuzganda 'does' ishlatiladi va asosiy fe'l o'z holatiga qaytadi."
+   },
+   {
+    "wrong": "How much are the coffee?",
+    "right": "How much is the coffee?",
+    "why": "Kofe sanalmaydigan ot, shuning uchun 'is' ishlatiladi."
+   }
+  ]
+ },
+ "test": [
+  {
+   "type": "fill",
+   "q": "______ is your name?",
+   "answer": "What",
+   "explain": "Ism so'rash uchun 'What' so'zi ishlatiladi.",
+   "accept": [
+    "what"
+   ],
+   "hint": "what / where / how"
+  },
+  {
+   "type": "fill",
+   "q": "______ are you from?",
+   "answer": "Where",
+   "explain": "Kelib chiqqan joyni so'rashda 'Where' ishlatiladi.",
+   "accept": [
+    "where"
+   ],
+   "hint": "what / where / who"
+  },
+  {
+   "type": "fill",
+   "q": "______ do you live?",
+   "answer": "Where",
+   "explain": "Yashash joyini so'rash uchun 'Where' ishlatiladi.",
+   "accept": [
+    "where"
+   ],
+   "hint": "what / where / when"
+  },
+  {
+   "type": "fill",
+   "q": "______ is that man?",
+   "answer": "Who",
+   "explain": "Inson haqida so'rashda 'Who' ishlatiladi.",
+   "accept": [
+    "who"
+   ],
+   "hint": "who / what / where"
+  },
+  {
+   "type": "fill",
+   "q": "______ old are you?",
+   "answer": "How",
+   "explain": "Yoshni so'rash uchun 'How old' birikmasi ishlatiladi.",
+   "accept": [
+    "how"
+   ],
+   "hint": "how / what / who"
+  },
+  {
+   "type": "fill",
+   "q": "______ much is the coffee?",
+   "answer": "How",
+   "explain": "Narxni so'rash uchun 'How much' ishlatiladi.",
+   "accept": [
+    "how"
+   ],
+   "hint": "how / what / where"
+  },
+  {
+   "type": "fill",
+   "q": "______ does the lesson start?",
+   "answer": "When",
+   "explain": "Vaqtni so'rash uchun 'When' yoki 'What time' ishlatiladi.",
+   "accept": [
+    "When",
+    "What time",
+    "what time"
+   ],
+   "hint": "when / where / who"
+  },
+  {
+   "type": "fill",
+   "q": "______ do you like this food?",
+   "answer": "Why",
+   "explain": "Sabab so'rash uchun 'Why' so'zi ishlatiladi.",
+   "accept": [
+    "why"
+   ],
+   "hint": "why / what / where"
+  },
+  {
+   "type": "fill",
+   "q": "Where ______ you live?",
+   "answer": "do",
+   "explain": "You olmoshidan oldin Present Simple'da 'do' yordamchi fe'li keladi.",
+   "accept": [
+    "Do"
+   ],
+   "hint": "do / does / is"
+  },
+  {
+   "type": "fill",
+   "q": "What time ______ she get up?",
+   "answer": "does",
+   "explain": "She olmoshidan oldin Present Simple'da 'does' yordamchi fe'li ishlatiladi.",
+   "accept": [
+    "Does"
+   ],
+   "hint": "do / does / is"
+  },
+  {
+   "type": "fill",
+   "q": "______ is your phone number?",
+   "answer": "What",
+   "explain": "Telefon raqamini so'rashda 'What' ishlatiladi.",
+   "accept": [
+    "what"
+   ],
+   "hint": "what / where / who"
+  },
+  {
+   "type": "fill",
+   "q": "______ are you sad today?",
+   "answer": "Why",
+   "explain": "Holat sababini so'rashda 'Why' ishlatiladi.",
+   "accept": [
+    "why"
+   ],
+   "hint": "why / what / when"
+  },
+  {
+   "type": "fill",
+   "q": "______ many children do you have?",
+   "answer": "How",
+   "explain": "Sanaladigan otlar miqdori uchun 'How many' ishlatiladi.",
+   "accept": [
+    "how"
+   ],
+   "hint": "how / what / where"
+  },
+  {
+   "type": "fill",
+   "q": "Where ______ Ali work?",
+   "answer": "does",
+   "explain": "Ali (he) uchun Present Simple savolida 'does' ishlatiladi.",
+   "accept": [
+    "Does"
+   ],
+   "hint": "do / does / is"
+  },
+  {
+   "type": "fill",
+   "q": "______ is this car?",
+   "answer": "How much",
+   "explain": "Mashinaning narxini so'rash uchun 'How much' ishlatiladi.",
+   "accept": [
+    "How much",
+    "how much"
+   ],
+   "hint": "how much / how many / who"
+  },
+  {
+   "type": "fill",
+   "q": "Who ______ your best friend?",
+   "answer": "is",
+   "explain": "Birlikdagi ega uchun to be fe'lining 'is' shakli ishlatiladi.",
+   "accept": [
+    "Is"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "What ______ you do?",
+   "answer": "do",
+   "explain": "You olmoshiga savol berishda 'do' ishlatiladi.",
+   "accept": [
+    "Do"
+   ],
+   "hint": "do / does / are"
+  },
+  {
+   "type": "fill",
+   "q": "______ do you go to bed?",
+   "answer": "What time",
+   "explain": "Aniq vaqtni so'rashda 'What time' yoki 'When' ishlatiladi.",
+   "accept": [
+    "When",
+    "What time",
+    "what time"
+   ],
+   "hint": "what time / who / where"
+  },
+  {
+   "type": "fill",
+   "q": "Why ______ you like coffee?",
+   "answer": "do",
+   "explain": "You olmoshli savol gapda 'do' yordamchi fe'li ishlatiladi.",
+   "accept": [
+    "Do"
+   ],
+   "hint": "do / does / are"
+  },
+  {
+   "type": "fill",
+   "q": "______ are my shoes?",
+   "answer": "Where",
+   "explain": "Buyumning qayerdaligini so'rashda 'Where' ishlatiladi.",
+   "accept": [
+    "where"
+   ],
+   "hint": "where / what / who"
+  },
+  {
+   "type": "mc",
+   "q": "______ do you live?",
+   "answer": "Where",
+   "explain": "Yashash joyini so'rash uchun 'Where' so'zi ishlatiladi.",
+   "options": [
+    "Where",
+    "What",
+    "Who"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ is your job?",
+   "answer": "What",
+   "explain": "Kasbni so'rashda 'What' ishlatiladi.",
+   "options": [
+    "Where",
+    "What",
+    "Who"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Where ______ you work?",
+   "answer": "do",
+   "explain": "You olmoshidan oldin Present Simple'da 'do' ishlatiladi.",
+   "options": [
+    "does",
+    "do",
+    "is"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "What time ______ she get up?",
+   "answer": "does",
+   "explain": "She olmoshli savol gaplarda 'does' yordamchi fe'li ishlatiladi.",
+   "options": [
+    "do",
+    "does",
+    "is"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ much is this sandwich?",
+   "answer": "How",
+   "explain": "Narxni so'rash uchun 'How much' birikmasi ishlatiladi.",
+   "options": [
+    "What",
+    "How",
+    "Where"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ is that woman?",
+   "answer": "Who",
+   "explain": "Ayol kishi haqida so'rashda 'Who' ishlatiladi.",
+   "options": [
+    "Who",
+    "What",
+    "Where"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Why ______ you like tea?",
+   "answer": "do",
+   "explain": "You olmoshidan oldin 'do' yordamchi fe'li keladi.",
+   "options": [
+    "does",
+    "do",
+    "are"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ does the bank open?",
+   "answer": "When",
+   "explain": "Vaqtni so'rash uchun 'When' ishlatiladi.",
+   "options": [
+    "Who",
+    "When",
+    "Where"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "How ______ books do you have?",
+   "answer": "many",
+   "explain": "Sanaladigan ko'plikdagi otlar bilan 'How many' ishlatiladi.",
+   "options": [
+    "much",
+    "many",
+    "is"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Where ______ Aziz live?",
+   "answer": "does",
+   "explain": "Aziz (he) uchun Present Simple savolida 'does' ishlatiladi.",
+   "options": [
+    "do",
+    "does",
+    "is"
+   ]
+  }
+ ],
+ "model": "gemini-3.5-flash-lite",
+ "tr1": [
+  {
+   "part": 0,
+   "uz": "Bu yerda kim yashaydi?",
+   "en": [
+    "Who lives here?"
+   ],
+   "rule": "Kim so'rog'i: Who + fe'l"
+  },
+  {
+   "part": 0,
+   "uz": "U yerda nima bor?",
+   "en": [
+    "What is there?"
+   ],
+   "rule": "Nima so'rog'i: What + is"
+  },
+  {
+   "part": 0,
+   "uz": "Siz qayerda yashaysiz?",
+   "en": [
+    "Where do you live?"
+   ],
+   "rule": "Qayerda so'rog'i: Where do you + fe'l"
+  },
+  {
+   "part": 0,
+   "uz": "U kim?",
+   "en": [
+    "Who is he?",
+    "Who is she?"
+   ],
+   "rule": "Kim so'rog'i: Who + to be"
+  },
+  {
+   "part": 0,
+   "uz": "Bu nima?",
+   "en": [
+    "What is this?"
+   ],
+   "rule": "Nima so'rog'i: What is this"
+  },
+  {
+   "part": 0,
+   "uz": "Sizning do'stingiz qayerda?",
+   "en": [
+    "Where is your friend?"
+   ],
+   "rule": "Qayerda so'rog'i: Where + to be"
+  },
+  {
+   "part": 0,
+   "uz": "Ular kirlar?",
+   "en": [
+    "Who are they?"
+   ],
+   "rule": "Kimlar so'rog'i: Who are they"
+  },
+  {
+   "part": 0,
+   "uz": "Siz nima xohlaysiz?",
+   "en": [
+    "What do you want?"
+   ],
+   "rule": "Nima so'rog'i: What do you want"
+  },
+  {
+   "part": 0,
+   "uz": "Ular qayerda ishlaydi?",
+   "en": [
+    "Where do they work?"
+   ],
+   "rule": "Qayerda so'rog'i: Where do they work"
+  },
+  {
+   "part": 0,
+   "uz": "Bag'da nima bor?",
+   "en": [
+    "What is in the bag?"
+   ],
+   "rule": "Nima so'rog'i: What is in + ot"
+  },
+  {
+   "part": 0,
+   "uz": "Mening kitobim qayerda?",
+   "en": [
+    "Where is my book?"
+   ],
+   "rule": "Qayerda so'rog'i: Where is + egalik"
+  },
+  {
+   "part": 0,
+   "uz": "Bu qiz kim?",
+   "en": [
+    "Who is this girl?"
+   ],
+   "rule": "Kim so'rog'i: Who is this + ot"
+  },
+  {
+   "part": 0,
+   "uz": "Stolda nima bor?",
+   "en": [
+    "What is on the table?"
+   ],
+   "rule": "Nima so'rog'i: What is on + ot"
+  },
+  {
+   "part": 0,
+   "uz": "U qayerda o'qiydi?",
+   "en": [
+    "Where does he study?",
+    "Where does she study?"
+   ],
+   "rule": "Qayerda so'rog'i: Where does he/she + fe'l"
+  },
+  {
+   "part": 0,
+   "uz": "Ular kimni sevishadi?",
+   "en": [
+    "Who do they love?"
+   ],
+   "rule": "Kimni so'rog'i: Who do they + fe'l"
+  },
+  {
+   "part": 0,
+   "uz": "Sizning ismingiz nima?",
+   "en": [
+    "What is your name?"
+   ],
+   "rule": "Nima so'rog'i: What is your name"
+  },
+  {
+   "part": 0,
+   "uz": "Toshkent qayerda?",
+   "en": [
+    "Where is Tashkent?"
+   ],
+   "rule": "Qayerda so'rog'i: Where is + shahar"
+  },
+  {
+   "part": 0,
+   "uz": "U nima deydi?",
+   "en": [
+    "What does he say?",
+    "What does she say?"
+   ],
+   "rule": "Nima so'rog'i: What does he/she"
+  },
+  {
+   "part": 0,
+   "uz": "Bu bolalar kimlar?",
+   "en": [
+    "Who are these children?"
+   ],
+   "rule": "Kimlar so'rog'i: Who are these"
+  },
+  {
+   "part": 0,
+   "uz": "Sizning uyingiz qayerda?",
+   "en": [
+    "Where is your house?"
+   ],
+   "rule": "Qayerda so'rog'i: Where is your house"
+  },
+  {
+   "part": 0,
+   "uz": "U yerda nima ko'rasiz?",
+   "en": [
+    "What do you see there?"
+   ],
+   "rule": "Nima so'rog'i: What do you see"
+  },
+  {
+   "part": 0,
+   "uz": "Bu yigit kim?",
+   "en": [
+    "Who is this boy?"
+   ],
+   "rule": "Kim so'rog'i: Who is this boy"
+  },
+  {
+   "part": 0,
+   "uz": "Siz qayerdan kelasiz?",
+   "en": [
+    "Where do you come from?"
+   ],
+   "rule": "Qayerdan so'rog'i: Where do you come"
+  },
+  {
+   "part": 0,
+   "uz": "Ular nimani yaxshi ko'radi?",
+   "en": [
+    "What do they like?"
+   ],
+   "rule": "Nima so'rog'i: What do they like"
+  },
+  {
+   "part": 0,
+   "uz": "Mening telefonim qayerda?",
+   "en": [
+    "Where is my phone?"
+   ],
+   "rule": "Qayerda so'rog'i: Where is my phone"
+  },
+  {
+   "part": 0,
+   "uz": "Ular kimlar bilan yashaydi?",
+   "en": [
+    "Who do they live with?"
+   ],
+   "rule": "Kim bilan so'rog'i: Who do they live with"
+  },
+  {
+   "part": 0,
+   "uz": "Xonada nima bor?",
+   "en": [
+    "What is in the room?"
+   ],
+   "rule": "Nima so'rog'i: What is in the room"
+  },
+  {
+   "part": 0,
+   "uz": "Sizning do'stlaringiz qayerda?",
+   "en": [
+    "Where are your friends?"
+   ],
+   "rule": "Qayerda so'rog'i: Where are your friends"
+  },
+  {
+   "part": 0,
+   "uz": "U nima ichadi?",
+   "en": [
+    "What does he drink?",
+    "What does she drink?"
+   ],
+   "rule": "Nima so'rog'i: What does he/she drink"
+  },
+  {
+   "part": 0,
+   "uz": "Bu odam kim?",
+   "en": [
+    "Who is this man?"
+   ],
+   "rule": "Kim so'rog'i: Who is this man"
+  },
+  {
+   "part": 0,
+   "uz": "Mashina qayerda?",
+   "en": [
+    "Where is the car?"
+   ],
+   "rule": "Qayerda so'rog'i: Where is the car"
+  },
+  {
+   "part": 0,
+   "uz": "Siz kechqurun nima qilasiz?",
+   "en": [
+    "What do you do in the evening?"
+   ],
+   "rule": "Nima so'rog'i: What do you do"
+  },
+  {
+   "part": 0,
+   "uz": "Ular qayerda o'qiydi?",
+   "en": [
+    "Where do they study?"
+   ],
+   "rule": "Qayerda so'rog'i: Where do they study"
+  },
+  {
+   "part": 0,
+   "uz": "Bu ayol kim?",
+   "en": [
+    "Who is this woman?"
+   ],
+   "rule": "Kim so'rog'i: Who is this woman"
+  },
+  {
+   "part": 0,
+   "uz": "Stakan ichida nima bor?",
+   "en": [
+    "What is in the cup?"
+   ],
+   "rule": "Nima so'rog'i: What is in the cup"
+  },
+  {
+   "part": 0,
+   "uz": "Sizning akangiz qayerda?",
+   "en": [
+    "Where is your brother?"
+   ],
+   "rule": "Qayerda so'rog'i: Where is your brother"
+  },
+  {
+   "part": 0,
+   "uz": "U nonushtaga nima yeydi?",
+   "en": [
+    "What does he eat for breakfast?",
+    "What does she eat for breakfast?"
+   ],
+   "rule": "Nima so'rog'i: What does he/she eat"
+  },
+  {
+   "part": 0,
+   "uz": "O'qituvchi kim?",
+   "en": [
+    "Who is the teacher?"
+   ],
+   "rule": "Kim so'rog'i: Who is the teacher"
+  },
+  {
+   "part": 0,
+   "uz": "Do'kon qayerda?",
+   "en": [
+    "Where is the shop?"
+   ],
+   "rule": "Qayerda so'rog'i: Where is the shop"
+  },
+  {
+   "part": 0,
+   "uz": "Siz qaysi tilda gapirasiz?",
+   "en": [
+    "What language do you speak?"
+   ],
+   "rule": "Qaysi so'rog'i: What language do you"
+  },
+  {
+   "part": 1,
+   "uz": "Siz qachon uyg'onasiz?",
+   "en": [
+    "When do you get up?"
+   ],
+   "rule": "Qachon so'rog'i: When do you get up"
+  },
+  {
+   "part": 1,
+   "uz": "Dars soat nechada boshlanadi?",
+   "en": [
+    "What time does the lesson start?"
+   ],
+   "rule": "Soat nechada: What time does + ot"
+  },
+  {
+   "part": 1,
+   "uz": "Nega siz ingliz tilini o'rganasiz?",
+   "en": [
+    "Why do you learn English?"
+   ],
+   "rule": "Nega so'rog'i: Why do you learn"
+  },
+  {
+   "part": 1,
+   "uz": "U qachon ishga boradi?",
+   "en": [
+    "When does he go to work?",
+    "When does she go to work?"
+   ],
+   "rule": "Qachon so'rog'i: When does he/she"
+  },
+  {
+   "part": 1,
+   "uz": "Siz nega xursandmiz?",
+   "en": [
+    "Why are we happy?"
+   ],
+   "rule": "Nega so'rog'i: Why are we happy"
+  },
+  {
+   "part": 1,
+   "uz": "Poezd soat nechada keladi?",
+   "en": [
+    "What time does the train arrive?"
+   ],
+   "rule": "Soat nechada: What time does train"
+  },
+  {
+   "part": 1,
+   "uz": "Ular qachon dam olishadi?",
+   "en": [
+    "When do they relax?"
+   ],
+   "rule": "Qachon so'rog'i: When do they relax"
+  },
+  {
+   "part": 1,
+   "uz": "Nega bu kitob qimmat?",
+   "en": [
+    "Why is this book expensive?"
+   ],
+   "rule": "Nega so'rog'i: Why is this book"
+  },
+  {
+   "part": 1,
+   "uz": "Siz kechqurun soat nechada uxlaysiz?",
+   "en": [
+    "What time do you go to bed?"
+   ],
+   "rule": "Soat nechada: What time do you"
+  },
+  {
+   "part": 1,
+   "uz": "Nega u qahva ichadi?",
+   "en": [
+    "Why does he drink coffee?",
+    "Why does she drink coffee?"
+   ],
+   "rule": "Nega so'rog'i: Why does he/she"
+  }
+ ],
+ "tr51": [
+  {
+   "part": 1,
+   "uz": "U qachon ishga boradi?",
+   "en": [
+    "When does he go to work?"
+   ],
+   "rule": "Present Simple va when so'rog'i."
+  },
+  {
+   "part": 1,
+   "uz": "Siz qachon uyingizga borasiz?",
+   "en": [
+    "When do you go to your home?"
+   ],
+   "rule": "Present Simple zamon va when."
+  },
+  {
+   "part": 1,
+   "uz": "Ular qachon Parijga borishadi?",
+   "en": [
+    "When do they go to Paris?"
+   ],
+   "rule": "Ular bilan do va when."
+  },
+  {
+   "part": 1,
+   "uz": "U qachon kitobni o'qiydi?",
+   "en": [
+    "When does she read the book?"
+   ],
+   "rule": "Uchinchi shaxs birlik va when."
+  },
+  {
+   "part": 1,
+   "uz": "Siz maktabga qachon borasiz?",
+   "en": [
+    "When do you go to school?"
+   ],
+   "rule": "Zamonni so'rash uchun when."
+  },
+  {
+   "part": 1,
+   "uz": "Dars soat nechada boshlanadi?",
+   "en": [
+    "What time does the lesson start?"
+   ],
+   "rule": "Aniq vaqt uchun what time."
+  },
+  {
+   "part": 1,
+   "uz": "Film soat nechada tugaydi?",
+   "en": [
+    "What time does the film finish?"
+   ],
+   "rule": "What time va Present Simple."
+  },
+  {
+   "part": 1,
+   "uz": "Ular ertalab soat nechada turishadi?",
+   "en": [
+    "What time do they get up in the morning?"
+   ],
+   "rule": "Tonggi vaqt so'rash uchun what time."
+  },
+  {
+   "part": 1,
+   "uz": "Poezd soat nechada keladi?",
+   "en": [
+    "What time does the train arrive?"
+   ],
+   "rule": "Transport vaqti uchun what time."
+  },
+  {
+   "part": 1,
+   "uz": "Sen kechqurun soat nechada uxlaysan?",
+   "en": [
+    "What time do you go to bed in the evening?"
+   ],
+   "rule": "Uxlash vaqtini so'rashda what time."
+  },
+  {
+   "part": 1,
+   "uz": "Nima uchun u qahva ichadi?",
+   "en": [
+    "Why does he drink coffee?"
+   ],
+   "rule": "Sababni so'rash uchun why."
+  },
+  {
+   "part": 1,
+   "uz": "Nima uchun siz bu mashinani yoqtirasiz?",
+   "en": [
+    "Why do you like this car?"
+   ],
+   "rule": "Fikrni bilish uchun why."
+  },
+  {
+   "part": 1,
+   "uz": "Nima uchun u ingliz tilini o'rganadi?",
+   "en": [
+    "Why does she learn English?"
+   ],
+   "rule": "Sabab va maqsad uchun why."
+  },
+  {
+   "part": 1,
+   "uz": "Nima uchun ular kech qolishadi?",
+   "en": [
+    "Why are they late?"
+   ],
+   "rule": "To be fe'li bilan why so'rog'i."
+  },
+  {
+   "part": 1,
+   "uz": "Nima uchun siz bu kitobni o'qiysiz?",
+   "en": [
+    "Why do you read this book?"
+   ],
+   "rule": "Present Simple va why so'zi."
+  },
+  {
+   "part": 1,
+   "uz": "U qachon tushlik qiladi?",
+   "en": [
+    "When does he have lunch?"
+   ],
+   "rule": "Kunlik vaqt uchun when."
+  },
+  {
+   "part": 1,
+   "uz": "Siz qachon do'konga borasiz?",
+   "en": [
+    "When do you go shopping?"
+   ],
+   "rule": "Xarid vaqti uchun when."
+  },
+  {
+   "part": 1,
+   "uz": "Ular qachon uyga kelishadi?",
+   "en": [
+    "When do they come home?"
+   ],
+   "rule": "Kelish vaqtini so'rash."
+  },
+  {
+   "part": 1,
+   "uz": "U qachon musiqa tinglaydi?",
+   "en": [
+    "When does she listen to music?"
+   ],
+   "rule": "Uchinchi shaxs va when."
+  },
+  {
+   "part": 1,
+   "uz": "Do'kon soat nechada ochiladi?",
+   "en": [
+    "What time does the shop open?"
+   ],
+   "rule": "Ochilish vaqti uchun what time."
+  },
+  {
+   "part": 1,
+   "uz": "Bank soat nechada yopiladi?",
+   "en": [
+    "What time does the bank close?"
+   ],
+   "rule": "Yopilish vaqti uchun what time."
+  },
+  {
+   "part": 1,
+   "uz": "Siz ishga soat nechada ketasiz?",
+   "en": [
+    "What time do you go to work?"
+   ],
+   "rule": "Ishga ketish vaqti."
+  },
+  {
+   "part": 1,
+   "uz": "Nima uchun u xafa?",
+   "en": [
+    "Why is she sad?"
+   ],
+   "rule": "Holatni so'rash uchun why."
+  },
+  {
+   "part": 1,
+   "uz": "Nima uchun siz charchagansiz?",
+   "en": [
+    "Why are you tired?"
+   ],
+   "rule": "Charchoq sababini so'rash."
+  },
+  {
+   "part": 1,
+   "uz": "Nima uchun u futbolni yoqtirmaydi?",
+   "en": [
+    "Why doesn't he like football?"
+   ],
+   "rule": "Inkor shaklda why so'rog'i."
+  },
+  {
+   "part": 1,
+   "uz": "Biz qachon uchrashamiz?",
+   "en": [
+    "When do we meet?"
+   ],
+   "rule": "Uchrashuv vaqti uchun when."
+  },
+  {
+   "part": 1,
+   "uz": "U qachon dam oladi?",
+   "en": [
+    "When does he relax?"
+   ],
+   "rule": "Dam olish vaqti."
+  },
+  {
+   "part": 1,
+   "uz": "Ular dam olish kunlari qachon uxlashadi?",
+   "en": [
+    "When do they sleep at the weekend?"
+   ],
+   "rule": "Dam olish kunidagi vaqt."
+  },
+  {
+   "part": 1,
+   "uz": "Pochta soat nechada ochiladi?",
+   "en": [
+    "What time does the post office open?"
+   ],
+   "rule": "Pochta ish vaqti."
+  },
+  {
+   "part": 1,
+   "uz": "Nima uchun bu shahar chiroyli?",
+   "en": [
+    "Why is this city beautiful?"
+   ],
+   "rule": "Shahar haqida savol."
+  },
+  {
+   "part": 2,
+   "uz": "Bu ko'ylak qancha turadi?",
+   "en": [
+    "How much is this dress?"
+   ],
+   "rule": "Narxni so'rash uchun how much."
+  },
+  {
+   "part": 2,
+   "uz": "Bu qahva qancha?",
+   "en": [
+    "How much is this coffee?"
+   ],
+   "rule": "Narxni bilish uchun how much."
+  },
+  {
+   "part": 2,
+   "uz": "Sizda qancha pul bor?",
+   "en": [
+    "How much money do you have?"
+   ],
+   "rule": "Sanab bo'lmaydigan otlar bilan how much."
+  },
+  {
+   "part": 2,
+   "uz": "Stolda nechta kitob bor?",
+   "en": [
+    "How many books are there on the table?"
+   ],
+   "rule": "Sanaladigan ko'plik otlar bilan how many."
+  },
+  {
+   "part": 2,
+   "uz": "Sizda nechta do'st bor?",
+   "en": [
+    "How many friends do you have?"
+   ],
+   "rule": "Sanaladigan otlar va how many."
+  },
+  {
+   "part": 2,
+   "uz": "Siz ingliz tilida qanday gapirasiz?",
+   "en": [
+    "How do you speak English?"
+   ],
+   "rule": "Usulni so'rash uchun how."
+  },
+  {
+   "part": 2,
+   "uz": "Siz shaharga qanday borasiz?",
+   "en": [
+    "How do you go to the city?"
+   ],
+   "rule": "Harakat usuli uchun how."
+  },
+  {
+   "part": 2,
+   "uz": "Bu mashina qancha turadi?",
+   "en": [
+    "How much is this car?"
+   ],
+   "rule": "Narx uchun how much is."
+  },
+  {
+   "part": 2,
+   "uz": "Sinflarimizda nechta talaba bor?",
+   "en": [
+    "How many students are there in our classrooms?"
+   ],
+   "rule": "Soni ko'p otlar uchun how many."
+  },
+  {
+   "part": 2,
+   "uz": "Oshxonada nechta stul bor?",
+   "en": [
+    "How many chairs are there in the kitchen?"
+   ],
+   "rule": "Stullar sonini so'rashda how many."
+  },
+  {
+   "part": 2,
+   "uz": "Siz o'zingizni qanday his qilasiz?",
+   "en": [
+    "How do you feel?"
+   ],
+   "rule": "Holatni so'rash uchun how."
+  },
+  {
+   "part": 2,
+   "uz": "Ular ingliz tilini qanday o'rganishadi?",
+   "en": [
+    "How do they learn English?"
+   ],
+   "rule": "O'rganish usuli uchun how."
+  },
+  {
+   "part": 2,
+   "uz": "Shovqinli xonada qancha odam bor?",
+   "en": [
+    "How many people are there in the room?"
+   ],
+   "rule": "Odamlar soni uchun how many."
+  },
+  {
+   "part": 2,
+   "uz": "Stakanda qancha suv bor?",
+   "en": [
+    "How much water is there in the glass?"
+   ],
+   "rule": "Suv miqdori uchun how much."
+  },
+  {
+   "part": 2,
+   "uz": "Siz u yerga qanday borasiz?",
+   "en": [
+    "How do you go there?"
+   ],
+   "rule": "Borish yo'lini so'rash."
+  },
+  {
+   "part": 2,
+   "uz": "Kechki ovqat qancha turadi?",
+   "en": [
+    "How much is dinner?"
+   ],
+   "rule": "Ovqat narxi uchun how much."
+  },
+  {
+   "part": 2,
+   "uz": "Sumkangizda nechta ruchka bor?",
+   "en": [
+    "How many pens are there in your bag?"
+   ],
+   "rule": "Buyumlar soni uchun how many."
+  },
+  {
+   "part": 2,
+   "uz": "Oilangizda nechta bola bor?",
+   "en": [
+    "How many children are there in your family?"
+   ],
+   "rule": "Bolalar soni uchun how many."
+  },
+  {
+   "part": 2,
+   "uz": "Siz bu so'zni qanday yozasiz?",
+   "en": [
+    "How do you spell this word?"
+   ],
+   "rule": "Imloni so'rash uchun how."
+  },
+  {
+   "part": 2,
+   "uz": "Bugun ob-havo qanday?",
+   "en": [
+    "How is the weather today?"
+   ],
+   "rule": "Ob-havoni so'rash uchun how is."
+  }
+ ]
+}

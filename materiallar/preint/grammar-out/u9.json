@@ -1,0 +1,1354 @@
+{
+ "unit": 9,
+ "parts": [
+  [
+   {
+    "kind": "rewrite",
+    "q": "Beethoven composed this wonderful music. → This wonderful music ______",
+    "hint": "",
+    "options": [],
+    "answer": "was composed",
+    "accept": [],
+    "explain": "Gapda musiqa o'tmishda yaratilgan va 'music' birlikda, shuning uchun Past Simple passive: was composed.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "They invited all my friends. → All my friends ______",
+    "hint": "",
+    "options": [],
+    "answer": "were invited",
+    "accept": [],
+    "explain": "Gapda 'friends' ko'plikda, shuning uchun Past Simple passive: were invited.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The teacher punished the naughty boy. → The naughty boy ______",
+    "hint": "",
+    "options": [],
+    "answer": "was punished",
+    "accept": [],
+    "explain": "Bola birlikda va ish o‘tgan zamonda, shuning uchun Past Simple passive: was punished.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The police caught the dangerous thieves. → The dangerous thieves ______",
+    "hint": "",
+    "options": [],
+    "answer": "were caught",
+    "accept": [],
+    "explain": "O‘g‘rilar ko‘plikda, shuning uchun Past Simple passive: were caught.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The mechanic repaired our old car. → Our old car ______",
+    "hint": "",
+    "options": [],
+    "answer": "was repaired",
+    "accept": [],
+    "explain": "Mashina bitta, shuning uchun Past Simple passive: was repaired.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Someone took my favorite pen. → My favorite pen ______",
+    "hint": "",
+    "options": [],
+    "answer": "was taken",
+    "accept": [],
+    "explain": "Qalam birlikda, shuning uchun Past Simple passive: was taken.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The chef cooked a delicious dinner. → A delicious dinner ______",
+    "hint": "",
+    "options": [],
+    "answer": "was cooked",
+    "accept": [],
+    "explain": "Kechki ovqat bitta, shuning uchun Past Simple passive: was cooked.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "People visit Registan Square every day. → Registan Square ______",
+    "hint": "",
+    "options": [],
+    "answer": "is visited every day",
+    "accept": [],
+    "explain": "Gapda «every day» bor — bu hozirgi zamon, shuning uchun Present Simple passive: is visited.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Farmers grow cotton in Bukhara. → Cotton ______",
+    "hint": "",
+    "options": [],
+    "answer": "is grown in Bukhara",
+    "accept": [],
+    "explain": "Gapda «grow» fe'li bor va ish-harakat doimiy bajariladi, shuning uchun Present Simple passive: is grown.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Workers built this bridge in 2010. → This bridge ______",
+    "hint": "",
+    "options": [],
+    "answer": "was built in 2010",
+    "accept": [],
+    "explain": "Gapda «in 2010» bor — bu o‘tgan zamon, shuning uchun Past Simple passive: was built.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "They clean the blackboard after the lesson. → The blackboard ______",
+    "hint": "",
+    "options": [],
+    "answer": "is cleaned after the lesson",
+    "accept": [],
+    "explain": "Gapda «after the lesson» takroriy harakatni bildiradi, shuning uchun Present Simple passive: is cleaned.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Someone painted my bedroom last week. → My bedroom ______",
+    "hint": "",
+    "options": [],
+    "answer": "was painted last week",
+    "accept": [],
+    "explain": "Gapda «last week» bor — o‘tgan zamon, shuning uchun Past Simple passive: was painted.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "People drink green tea all over Uzbekistan. → Green tea ______",
+    "hint": "",
+    "options": [],
+    "answer": "is drunk all over Uzbekistan",
+    "accept": [],
+    "explain": "Gapda umumiy odat aytilmoqda, shuning uchun Present Simple passive: is drunk.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "My mother baked a delicious cake yesterday. → A delicious cake ______",
+    "hint": "",
+    "options": [],
+    "answer": "was baked yesterday",
+    "accept": [],
+    "explain": "Gapda «yesterday» bor — bu o‘tgan zamon, shuning uchun Past Simple passive: was baked.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Students speak English in our club. → English ______",
+    "hint": "",
+    "options": [],
+    "answer": "is spoken in our club",
+    "accept": [],
+    "explain": "Gapda odatiy holat bildirilmoqda, shuning uchun Present Simple passive: is spoken.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The mechanic repaired our car on Monday. → Our car ______",
+    "hint": "",
+    "options": [],
+    "answer": "was repaired on Monday",
+    "accept": [],
+    "explain": "Gapda «on Monday» bor — o‘tgan zamon, shuning uchun Past Simple passive: was repaired.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "They serve traditional soup for lunch. → Traditional soup ______",
+    "hint": "",
+    "options": [],
+    "answer": "is served for lunch",
+    "accept": [],
+    "explain": "Gap hozirgi zamondagi odatni ko‘rsatadi, shuning uchun Present Simple passive: is served.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Somebody stole my bike last night. → My bike ______",
+    "hint": "",
+    "options": [],
+    "answer": "was stolen last night",
+    "accept": [],
+    "explain": "Gapda «last night» bor — o‘tgan zamon, shuning uchun Past Simple passive: was stolen.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "People wear warm coats in winter. → Warm coats ______",
+    "hint": "",
+    "options": [],
+    "answer": "are worn in winter",
+    "accept": [],
+    "explain": "Gapda mavsumiy odat aytilmoqda va «coats» ko‘plikda, shuning uchun Present Simple passive: are worn.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The teacher checked our homework this morning. → Our homework ______",
+    "hint": "",
+    "options": [],
+    "answer": "was checked this morning",
+    "accept": [],
+    "explain": "Gapda «this morning» bor — o‘tgan zamon, shuning uchun Past Simple passive: was checked.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "They make carpets in Khiva. → Carpets ______",
+    "hint": "",
+    "options": [],
+    "answer": "are made in Khiva",
+    "accept": [],
+    "explain": "Gapda «carpets» ko‘plikda va ish doimiy bajariladi, shuning uchun Present Simple passive: are made.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "My brother washed the dishes after dinner. → The dishes ______",
+    "hint": "",
+    "options": [],
+    "answer": "were washed after dinner",
+    "accept": [],
+    "explain": "Gap o‘tgan zamonda va «dishes» ko‘plikda, shuning uchun Past Simple passive: were washed.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "People play football all over the world. → Football ______",
+    "hint": "",
+    "options": [],
+    "answer": "is played all over the world",
+    "accept": [],
+    "explain": "Gap hozirgi zamondagi umumiy haqiqatni bildiradi, shuning uchun Present Simple passive: is played.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "She bought a new dress last Friday. → A new dress ______",
+    "hint": "",
+    "options": [],
+    "answer": "was bought last Friday",
+    "accept": [],
+    "explain": "Gapda «last Friday» bor — o‘tgan zamon, shuning uchun Past Simple passive: was bought.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "They teach mathematics at this school. → Mathematics ______",
+    "hint": "",
+    "options": [],
+    "answer": "is taught at this school",
+    "accept": [],
+    "explain": "Gap fanni o'qitish haqida, shuning uchun Present Simple passive: is taught.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Someone lost three books in the library. → Three books ______",
+    "hint": "",
+    "options": [],
+    "answer": "were lost in the library",
+    "accept": [],
+    "explain": "Gapda «three books» ko‘plikda va ish o‘tgan zamonda bajarilgan, shuning uchun Past Simple passive: were lost.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "People celebrate Navruz in March. → Navruz ______",
+    "hint": "",
+    "options": [],
+    "answer": "is celebrated in March",
+    "accept": [],
+    "explain": "Gapda bayram va oy nomi kelgan, shuning uchun Present Simple passive: is celebrated.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The cat chased the mouse across the yard. → The mouse ______",
+    "hint": "",
+    "options": [],
+    "answer": "was chased across the yard",
+    "accept": [],
+    "explain": "Gap o‘tgan zamonda sodir bo‘lgan, shuning uchun Past Simple passive: was chased.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "They sell fresh bread at the corner shop. → Fresh bread ______",
+    "hint": "",
+    "options": [],
+    "answer": "is sold at the corner shop",
+    "accept": [],
+    "explain": "Gap kundalik savdoni bildiradi, shuning uchun Present Simple passive: is sold.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "My uncle planted many trees last spring. → Many trees ______",
+    "hint": "",
+    "options": [],
+    "answer": "were planted last spring",
+    "accept": [],
+    "explain": "Gapda «last spring» va ko‘plikdagi «trees» bor, shuning uchun Past Simple passive: were planted.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "People use smartphones every single day. → Smartphones ______",
+    "hint": "",
+    "options": [],
+    "answer": "are used every single day",
+    "accept": [],
+    "explain": "Gapda «every single day» va ko‘plikdagi ot bor, shuning uchun Present Simple passive: are used.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The wind broke the window last night. → The window ______",
+    "hint": "",
+    "options": [],
+    "answer": "was broken last night",
+    "accept": [],
+    "explain": "Gapda «last night» bor — o‘tgan zamon, shuning uchun Past Simple passive: was broken.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "They grow sweet grapes in Fergana. → Sweet grapes ______",
+    "hint": "",
+    "options": [],
+    "answer": "are grown in Fergana",
+    "accept": [],
+    "explain": "Gapda «grapes» ko‘plikda va odatiy holat, shuning uchun Present Simple passive: are grown.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Somebody found my lost phone yesterday. → My lost phone ______",
+    "hint": "",
+    "options": [],
+    "answer": "was found yesterday",
+    "accept": [],
+    "explain": "Gapda «yesterday» bor — o‘tgan zamon, shuning uchun Past Simple passive: was found.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "People write letters much less nowadays. → Letters ______",
+    "hint": "",
+    "options": [],
+    "answer": "are written much less nowadays",
+    "accept": [],
+    "explain": "Gapda «nowadays» va ko‘plikdagi «letters» bor, shuning uchun Present Simple passive: are written.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The gardener watered the flowers an hour ago. → The flowers ______",
+    "hint": "",
+    "options": [],
+    "answer": "were watered an hour ago",
+    "accept": [],
+    "explain": "Gapda «an hour ago» va ko‘plikdagi ot bor, shuning uchun Past Simple passive: were watered.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "They take many photos of Registan. → Many photos ______",
+    "hint": "",
+    "options": [],
+    "answer": "are taken of Registan",
+    "accept": [],
+    "explain": "Gapda ko‘plikdagi «photos» bor, shuning uchun Present Simple passive: are taken.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Tom wrote a long letter last week. → A long letter ______",
+    "hint": "",
+    "options": [],
+    "answer": "was written last week",
+    "accept": [],
+    "explain": "Gapda «last week» bor — o‘tgan zamon, shuning uchun Past Simple passive: was written.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "People speak Russian in many offices. → Russian ______",
+    "hint": "",
+    "options": [],
+    "answer": "is spoken in many offices",
+    "accept": [],
+    "explain": "Gap tilda gaplashish odatini bildiradi, shuning uchun Present Simple passive: is spoken.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The cleaner washed the floor this morning. → The floor ______",
+    "hint": "",
+    "options": [],
+    "answer": "was washed this morning",
+    "accept": [],
+    "explain": "Gapda «this morning» bor — o‘tgan zamon, shuning uchun Past Simple passive: was washed.",
+    "wrong": {}
+   }
+  ],
+  [
+   {
+    "kind": "verb",
+    "q": "English ______ in many countries around the world.",
+    "hint": "speak",
+    "options": [],
+    "answer": "is spoken",
+    "accept": [],
+    "explain": "Gapda «around the world» bor va mavzu Present Simple — bu oddiy qoida: is + V3.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "This famous bridge ______ by a great engineer in 1905.",
+    "hint": "build",
+    "options": [],
+    "answer": "was built",
+    "accept": [],
+    "explain": "Gapda «in 1905» vaqt belgisi bor, egasi birlikda — Past Simple passive: was + V3.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Rice ______ in the south of Uzbekistan every year.",
+    "hint": "grow",
+    "options": [],
+    "answer": "is grown",
+    "accept": [],
+    "explain": "Gapda «every year» so'zi bor, fe'l majburiy nisbatda — Present Simple passive: is + grown.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "The new hospital ______ last month by the president.",
+    "hint": "open",
+    "options": [],
+    "answer": "was opened",
+    "accept": [],
+    "explain": "Gapda «last month» o'tgan zamon belgisi bor — Past Simple passive: was + opened.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "French ______ at our school on Mondays and Wednesdays.",
+    "hint": "teach",
+    "options": [],
+    "answer": "is taught",
+    "accept": [],
+    "explain": "Gapda «on Mondays» odatdagi ishni bildiradi, shuning uchun Present Simple passive: is + taught.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "The old window ______ by the naughty boy yesterday.",
+    "hint": "break",
+    "options": [],
+    "answer": "was broken",
+    "accept": [],
+    "explain": "Gapda «yesterday» o'tgan zamonni bildiradi — Past Simple passive: was + broken.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Many interesting books ______ in our school library.",
+    "hint": "read",
+    "options": [],
+    "answer": "are read",
+    "accept": [],
+    "explain": "Gapda ko'plikdagi ot «books» va hozirgi zamon bor — Present Simple passive: are + read.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "The lost wallet ______ under the big table this morning.",
+    "hint": "find",
+    "options": [],
+    "answer": "was found",
+    "accept": [],
+    "explain": "Gapda «this morning» va «wallet» (birlik) bor — Past Simple passive: was + found.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Letters ______ to my grandparents every week.",
+    "hint": "send",
+    "options": [],
+    "answer": "are sent",
+    "accept": [],
+    "explain": "Gapda «every week» bor, egasi ko'plik — Present Simple passive: are + sent.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "The room ______ before the guests arrived yesterday.",
+    "hint": "clean",
+    "options": [],
+    "answer": "was cleaned",
+    "accept": [],
+    "explain": "Gapda «yesterday» o'tgan zamonni ko'rsatadi — Past Simple passive: was + cleaned.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Tea ______ with milk by many people in England.",
+    "hint": "drink",
+    "options": [],
+    "answer": "is drunk",
+    "accept": [],
+    "explain": "Gapda umumiy odat haqida gap bormoqda — Present Simple passive: is + drunk.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "My bicycle ______ from the yard last night.",
+    "hint": "steal",
+    "options": [],
+    "answer": "was stolen",
+    "accept": [],
+    "explain": "Gapda «last night» bor — Past Simple passive: was + stolen.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Computer games ______ by millions of teenagers today.",
+    "hint": "play",
+    "options": [],
+    "answer": "are played",
+    "accept": [],
+    "explain": "Gapda «today» va ko'plikdagi egasi bor — Present Simple passive: are + played.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "The first mobile phone ______ in the last century.",
+    "hint": "invent",
+    "options": [],
+    "answer": "was invented",
+    "accept": [],
+    "explain": "Gapda o'tgan zamon haqida gap ketyapti — Past Simple passive: was + invented.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Cotton ______ in several regions of our country.",
+    "hint": "harvest",
+    "options": [],
+    "answer": "is harvested",
+    "accept": [],
+    "explain": "Gapda hozirgi zamondagi jarayon haqida gapirilmoqda — Present Simple passive: is + harvested.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "The tasty cake ______ by my younger sister.",
+    "hint": "bake",
+    "options": [],
+    "answer": "was baked",
+    "accept": [],
+    "explain": "Gapda «by my younger sister» agent ko'rsatilgan va ish bajarilgan — Past Simple: was + baked.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "English homework ______ by students every evening.",
+    "hint": "do",
+    "options": [],
+    "answer": "is done",
+    "accept": [],
+    "explain": "Gapda «every evening» odatni bildiradi — Present Simple passive: is + done.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "The stolen car ______ by the police an hour ago.",
+    "hint": "find",
+    "options": [],
+    "answer": "was found",
+    "accept": [],
+    "explain": "Gapda «an hour ago» o'tgan zamon belgisi bor — Past Simple passive: was + found.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Mathematics ______ to all students in this school.",
+    "hint": "teach",
+    "options": [],
+    "answer": "is taught",
+    "accept": [],
+    "explain": "Gapda umumiy fan haqida gap bormoqda — Present Simple passive: is + taught.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "The beautiful picture ______ by a famous local artist.",
+    "hint": "paint",
+    "options": [],
+    "answer": "was painted",
+    "accept": [],
+    "explain": "Gapda o'tgan zamonda yaratilgan san'at asari haqida — Past Simple passive: was + painted.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Samarkand ______ by thousands of tourists every year.",
+    "hint": "visit",
+    "options": [],
+    "answer": "is visited",
+    "accept": [],
+    "explain": "Gapda «every year» bor — Present Simple passive: is + visited.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "The heavy box ______ up the stairs by Tom.",
+    "hint": "carry",
+    "options": [],
+    "answer": "was carried",
+    "accept": [],
+    "explain": "Gapda o'tgan zamondagi harakat bor — Past Simple passive: was + carried.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Warm clothes ______ in winter to keep us warm.",
+    "hint": "wear",
+    "options": [],
+    "answer": "are worn",
+    "accept": [],
+    "explain": "Gapda mavsumiy holat «in winter» va ko'plikdagi egasi bor — Present Simple: are + worn.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "The old house ______ by my grandfather long ago.",
+    "hint": "build",
+    "options": [],
+    "answer": "was built",
+    "accept": [],
+    "explain": "Gapda «long ago» o'tgan zamonni bildiradi — Past Simple passive: was + built.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Delicious plov ______ at Uzbek weddings.",
+    "hint": "serve",
+    "options": [],
+    "answer": "is served",
+    "accept": [],
+    "explain": "Gapda milliy an'ana haqida gap bormoqda — Present Simple passive: is + served.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "The lost key ______ under the mat yesterday.",
+    "hint": "discover",
+    "options": [],
+    "answer": "was discovered",
+    "accept": [],
+    "explain": "Gapda «yesterday» o'tgan zamon belgisi bor — Past Simple passive: was + discovered.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Different languages ______ in many European schools.",
+    "hint": "speak",
+    "options": [],
+    "answer": "are spoken",
+    "accept": [],
+    "explain": "Gapda umumiy fakt va ko'plik egasi bor — Present Simple passive: are + spoken.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "The dangerous snake ______ by the farmer last Friday.",
+    "hint": "kill",
+    "options": [],
+    "answer": "was killed",
+    "accept": [],
+    "explain": "Gapda «last Friday» o'tgan zamonni ko'rsatadi — Past Simple passive: was + killed.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Fresh bread ______ at the local market every morning.",
+    "hint": "sell",
+    "options": [],
+    "answer": "is sold",
+    "accept": [],
+    "explain": "Gapda «every morning» bor — Present Simple passive: is + sold.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "The famous song ______ by the young singer last night.",
+    "hint": "sing",
+    "options": [],
+    "answer": "was sung",
+    "accept": [],
+    "explain": "Gapda «last night» o'tgan zamon belgisi bor — Past Simple passive: was + sung.",
+    "wrong": {}
+   }
+  ],
+  [
+   {
+    "kind": "choose",
+    "q": "Basketball ______ by teenagers in the school yard every afternoon.",
+    "hint": "",
+    "options": [
+     "is played",
+     "was played",
+     "plays"
+    ],
+    "answer": "is played",
+    "accept": [],
+    "explain": "Gapda «every afternoon» bor — bu hozirgi zamon odati, shuning uchun Present Simple Passive: is played.",
+    "wrong": {
+     "was played": "O‘tgan zamon uchun ishlatiladi, lekin «every afternoon» hozirgi zamonni bildiradi.",
+     "plays": "Bu faol nisbat, lekin ega («Basketball») ishni o‘zi bajarmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "The history test ______ by the teacher tomorrow morning.",
+    "hint": "",
+    "options": [
+     "is marked",
+     "will be marked",
+     "marked"
+    ],
+    "answer": "will be marked",
+    "accept": [],
+    "explain": "Gapda «tomorrow morning» bor — bu kelasi zamon, shuning uchun Passive shakli to‘g‘ri keladi.",
+    "wrong": {
+     "is marked": "Faqat hozirgi zamon uchun ishlatiladi, kelasi zamon emas.",
+     "marked": "Noto‘g‘ri fe'l shakli, passiv ma'no bermaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Many beautiful photos ______ with my new smartphone yesterday.",
+    "hint": "",
+    "options": [
+     "are taken",
+     "were taken",
+     "took"
+    ],
+    "answer": "were taken",
+    "accept": [],
+    "explain": "Gapda «yesterday» bor — bu o‘tgan zamon, shuning uchun Past Simple Passive: were taken.",
+    "wrong": {
+     "are taken": "Hozirgi zamon uchun, lekin «yesterday» o‘tgan zamon.",
+     "took": "Faol nisbat, ega o‘zi suratga olmagan, suratlarni olganlar."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Delicious somosa ______ in our local bakery every single morning.",
+    "hint": "",
+    "options": [
+     "is baked",
+     "was baked",
+     "bakes"
+    ],
+    "answer": "is baked",
+    "accept": [],
+    "explain": "Gapda «every single morning» bor — bu hozirgi zamon, shuning uchun Present Simple Passive: is baked.",
+    "wrong": {
+     "was baked": "O‘tgan zamon uchun, lekin gapda hozirgi zamon belgilari bor.",
+     "bakes": "Faol nisbat, somosa o‘zi pishirmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "The old library book ______ to the librarian last Tuesday.",
+    "hint": "",
+    "options": [
+     "is returned",
+     "was returned",
+     "returned"
+    ],
+    "answer": "was returned",
+    "accept": [],
+    "explain": "Gapda «last Tuesday» bor — bu o‘tgan zamon, shuning uchun Past Simple Passive: was returned.",
+    "wrong": {
+     "is returned": "Hozirgi zamon uchun, lekin «last Tuesday» o‘tgan zamonda.",
+     "returned": "Faol nisbat, kitob o‘zi qaytmagan."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "German ______ as a foreign language in many schools in Tashkent.",
+    "hint": "",
+    "options": [
+     "is taught",
+     "was taught",
+     "teaches"
+    ],
+    "answer": "is taught",
+    "accept": [],
+    "explain": "Gapda odatdagi holat haqida gap bormoqda, shuning uchun Present Simple Passive: is taught.",
+    "wrong": {
+     "was taught": "O‘tgan zamon uchun, lekin gapda umumiy holat aytilmoqda.",
+     "teaches": "Faol nisbat, til o‘zi o‘qitmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "The broken window ______ by our neighbour last weekend.",
+    "hint": "",
+    "options": [
+     "is fixed",
+     "was fixed",
+     "fixed"
+    ],
+    "answer": "was fixed",
+    "accept": [],
+    "explain": "Gapda «last weekend» bor — bu o‘tgan zamon, shuning uchun Past Simple Passive: was fixed.",
+    "wrong": {
+     "is fixed": "Hozirgi zamon uchun, lekin «last weekend» o‘tgan zamon.",
+     "fixed": "Faol nisbat, deraza o‘zini o‘zi tuzatmagan."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Sweet watermelons ______ in the Surkhandarya region every summer.",
+    "hint": "",
+    "options": [
+     "are grown",
+     "were grown",
+     "grow"
+    ],
+    "answer": "are grown",
+    "accept": [],
+    "explain": "Gapda «every summer» bor — bu hozirgi zamon, shuning uchun Present Simple Passive: are grown.",
+    "wrong": {
+     "were grown": "O‘tgan zamon uchun, lekin bu yerda har yoz takrorlanadigan ish.",
+     "grow": "Faol nisbat, tarvuzlar o‘zini o‘zi o‘stirmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "The lost puppy ______ by a kind girl near the park yesterday.",
+    "hint": "",
+    "options": [
+     "is found",
+     "was found",
+     "found"
+    ],
+    "answer": "was found",
+    "accept": [],
+    "explain": "Gapda «yesterday» bor — bu o‘tgan zamon, shuning uchun Past Simple Passive: was found.",
+    "wrong": {
+     "is found": "Hozirgi zamon uchun, lekin «yesterday» o‘tgan zamon.",
+     "found": "Faol nisbat, kuchukcha o‘zini o‘zi topmagan."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Tasty green tea ______ in almost every Uzbek home to guests.",
+    "hint": "",
+    "options": [
+     "is served",
+     "was served",
+     "serve"
+    ],
+    "answer": "is served",
+    "accept": [],
+    "explain": "Gapda odatdagi urf-odat haqida gap bormoqda, shuning uchun Present Simple Passive: is served.",
+    "wrong": {
+     "was served": "O‘tgan zamon uchun, lekin bu doimiy holat.",
+     "serve": "Faol nisbat, choy o‘zi tortilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "The classroom floor ______ by the duty students after the lessons.",
+    "hint": "",
+    "options": [
+     "is cleaned",
+     "was cleaned",
+     "clean"
+    ],
+    "answer": "is cleaned",
+    "accept": [],
+    "explain": "Gapda «after the lessons» takroriy ishni bildiradi, shuning uchun Present Simple Passive: is cleaned.",
+    "wrong": {
+     "was cleaned": "O‘tgan zamon uchun, lekin bu kundalik vazifa.",
+     "clean": "Faol nisbat va ko'plik shakl noto'g'ri."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Our school football team ______ by a famous coach last year.",
+    "hint": "",
+    "options": [
+     "is trained",
+     "was trained",
+     "trained"
+    ],
+    "answer": "was trained",
+    "accept": [],
+    "explain": "Gapda «last year» bor — bu o‘tgan zamon, shuning uchun Past Simple Passive: was trained.",
+    "wrong": {
+     "is trained": "Hozirgi zamon uchun, lekin «last year» o‘tgan zamon.",
+     "trained": "Faol nisbat, jamoa o‘zini o‘zi shug‘ullantirmagan."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Nice greeting cards ______ in local shops before New Year.",
+    "hint": "",
+    "options": [
+     "are sold",
+     "were sold",
+     "sell"
+    ],
+    "answer": "are sold",
+    "accept": [],
+    "explain": "Gapda umumiy holat aytilmoqda, shuning uchun Present Simple Passive: are sold.",
+    "wrong": {
+     "were sold": "O‘tgan zamon uchun, lekin gap hozirgi zamonda umumiy qoidani bildiradi.",
+     "sell": "Faol nisbat, ochiqchasiga xatolar bor."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "The heavy suitcase ______ upstairs by my older brother yesterday.",
+    "hint": "",
+    "options": [
+     "is carried",
+     "was carried",
+     "carried"
+    ],
+    "answer": "was carried",
+    "accept": [],
+    "explain": "Gapda «yesterday» bor — bu o‘tgan zamon, shuning uchun Past Simple Passive: was carried.",
+    "wrong": {
+     "is carried": "Hozirgi zamon uchun, lekin «yesterday» o‘tgan zamon.",
+     "carried": "Faol nisbat, chamadon o‘zini o‘zi ko‘tarmagan."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Warm coats ______ by people during cold winter days in winter.",
+    "hint": "",
+    "options": [
+     "are worn",
+     "were worn",
+     "wear"
+    ],
+    "answer": "are worn",
+    "accept": [],
+    "explain": "Gapda «in winter» doimiy holatni bildiradi, shuning uchun Present Simple Passive: are worn.",
+    "wrong": {
+     "were worn": "O‘tgan zamon uchun, lekin bu qishda doimiy sodir bo'ladi.",
+     "wear": "Faol nisbat, kiyimlar o‘zini o‘zi kiymaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "The broken bicycle ______ by my uncle two days ago.",
+    "hint": "",
+    "options": [
+     "is repaired",
+     "was repaired",
+     "repaired"
+    ],
+    "answer": "was repaired",
+    "accept": [],
+    "explain": "Gapda «two days ago» bor — bu o‘tgan zamon, shuning uchun Past Simple Passive: was repaired.",
+    "wrong": {
+     "is repaired": "Hozirgi zamon uchun, lekin «two days ago» o‘tgan zamon.",
+     "repaired": "Faol nisbat, velosiped o‘zini o‘zi tuzatmagan."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "English grammar rules ______ to students in every lesson.",
+    "hint": "",
+    "options": [
+     "are explained",
+     "were explained",
+     "explain"
+    ],
+    "answer": "are explained",
+    "accept": [],
+    "explain": "Gapda «every lesson» takroriy harakatni bildiradi, shuning uchun Present Simple Passive: are explained.",
+    "wrong": {
+     "were explained": "O‘tgan zamon uchun, lekin bu doimiy jarayon.",
+     "explain": "Faol nisbat, qoidalar o‘zi tushuntirmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "The old wooden bridge ______ by the river many years ago.",
+    "hint": "",
+    "options": [
+     "is built",
+     "was built",
+     "built"
+    ],
+    "answer": "was built",
+    "accept": [],
+    "explain": "Gapda «many years ago» bor — bu o‘tgan zamon, shuning uchun Past Simple Passive: was built.",
+    "wrong": {
+     "is built": "Hozirgi zamon uchun, lekin «many years ago» o‘tgan zamon.",
+     "built": "Faol nisbat, ko'prik o‘zini o‘zi qurmagan."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Different kinds of fruit ______ at the big bazaar on Sundays.",
+    "hint": "",
+    "options": [
+     "are sold",
+     "were sold",
+     "sell"
+    ],
+    "answer": "are sold",
+    "accept": [],
+    "explain": "Gapda «on Sundays» takroriy harakatni bildiradi, shuning uchun Present Simple Passive: are sold.",
+    "wrong": {
+     "were sold": "O‘tgan zamon uchun, lekin bu har yakshanba takrorlanadi.",
+     "sell": "Faol nisbat, mevalar o‘zi sotilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "The scary dog ______ away by a loud noise last night.",
+    "hint": "",
+    "options": [
+     "is frightened",
+     "was frightened",
+     "frightened"
+    ],
+    "answer": "was frightened",
+    "accept": [],
+    "explain": "Gapda «last night» bor — bu o‘tgan zamon, shuning uchun Past Simple Passive: was frightened.",
+    "wrong": {
+     "is frightened": "Hozirgi zamon uchun, lekin «last night» o‘tgan zamon.",
+     "frightened": "Faol nisbat, it o'zini qo'rqitmagan."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Modern mobile phones ______ in many countries around the world.",
+    "hint": "",
+    "options": [
+     "are made",
+     "were made",
+     "make"
+    ],
+    "answer": "are made",
+    "accept": [],
+    "explain": "Gapda umumiy holat aytilmoqda, shuning uchun Present Simple Passive: are made.",
+    "wrong": {
+     "were made": "O‘tgan zamon uchun, lekin telefonlar hozir ham yasalmoqda.",
+     "make": "Faol nisbat, telefonlar o‘zi yasalmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "The tasty dinner ______ by my mother an hour ago.",
+    "hint": "",
+    "options": [
+     "is cooked",
+     "was cooked",
+     "cooked"
+    ],
+    "answer": "was cooked",
+    "accept": [],
+    "explain": "Gapda «an hour ago» bor — bu o‘tgan zamon, shuning uchun Past Simple Passive: was cooked.",
+    "wrong": {
+     "is cooked": "Hozirgi zamon uchun, lekin «an hour ago» o‘tgan zamon.",
+     "cooked": "Faol nisbat, kechki ovqat o‘zini o‘zi pishirmagan."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Bright stars ______ in the clear night sky in summer.",
+    "hint": "",
+    "options": [
+     "are seen",
+     "were seen",
+     "see"
+    ],
+    "answer": "are seen",
+    "accept": [],
+    "explain": "Gapda «in summer» umumiy holatni bildiradi, shuning uchun Present Simple Passive: are seen.",
+    "wrong": {
+     "were seen": "O‘tgan zamon uchun, lekin yulduzlar doim ko'rinadi.",
+     "see": "Faol nisbat, yulduzlar o‘zi ko'rmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "The lost cat ______ under our porch yesterday evening.",
+    "hint": "",
+    "options": [
+     "is found",
+     "was found",
+     "find"
+    ],
+    "answer": "was found",
+    "accept": [],
+    "explain": "Gapda «yesterday evening» bor — bu o‘tgan zamon, shuning uchun Past Simple Passive: was found.",
+    "wrong": {
+     "is found": "Hozirgi zamon uchun, lekin «yesterday» o‘tgan zamon.",
+     "find": "Faol nisbat, mushuk o‘zini o‘zi topmagan."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Interesting books ______ from the school library every week.",
+    "hint": "",
+    "options": [
+     "are borrowed",
+     "were borrowed",
+     "borrow"
+    ],
+    "answer": "are borrowed",
+    "accept": [],
+    "explain": "Gapda «every week» bor — bu hozirgi zamon, shuning uchun Present Simple Passive: are borrowed.",
+    "wrong": {
+     "were borrowed": "O‘tgan zamon uchun, lekin gapda har hafta takrorlanishi aytilgan.",
+     "borrow": "Faol nisbat, kitoblar o‘zi olinmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "The dirty car ______ by my brother last Saturday.",
+    "hint": "",
+    "options": [
+     "is washed",
+     "was washed",
+     "washed"
+    ],
+    "answer": "was washed",
+    "accept": [],
+    "explain": "Gapda «last Saturday» bor — bu o‘tgan zamon, shuning uchun Past Simple Passive: was washed.",
+    "wrong": {
+     "is washed": "Hozirgi zamon uchun, lekin «last Saturday» o‘tgan zamon.",
+     "washed": "Faol nisbat, mashina o‘zini o‘zi yuvmagan."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Sweet melons ______ in the sunny fields of Uzbekistan.",
+    "hint": "",
+    "options": [
+     "are grown",
+     "were grown",
+     "grow"
+    ],
+    "answer": "are grown",
+    "accept": [],
+    "explain": "Gapda umumiy holat va joy aytilmoqda, shuning uchun Present Simple Passive: are grown.",
+    "wrong": {
+     "were grown": "O‘tgan zamon uchun, lekin qovunlar hozir ham o'stiriladi.",
+     "grow": "Faol nisbat, qovunlar o‘zi o'sishni boshqarmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "The front door ______ by someone late last night.",
+    "hint": "",
+    "options": [
+     "is locked",
+     "was locked",
+     "locked"
+    ],
+    "answer": "was locked",
+    "accept": [],
+    "explain": "Gapda «last night» bor — bu o‘tgan zamon, shuning uchun Past Simple Passive: was locked.",
+    "wrong": {
+     "is locked": "Hozirgi zamon uchun, lekin «last night» o‘tgan zamon.",
+     "locked": "Faol nisbat, eshik o‘zi qulflanmagan."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Traditional Uzbek songs ______ at every family wedding.",
+    "hint": "",
+    "options": [
+     "are sung",
+     "were sung",
+     "sing"
+    ],
+    "answer": "are sung",
+    "accept": [],
+    "explain": "Gapda umumiy odat aytilmoqda, shuning uchun Present Simple Passive: are sung.",
+    "wrong": {
+     "were sung": "O‘tgan zamon uchun, lekin bu to'ylarda doim bo'ladi.",
+     "sing": "Faol nisbat, qo'shiqlar o‘zi aytilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "The heavy box ______ up the stairs by my father.",
+    "hint": "",
+    "options": [
+     "is carried",
+     "was carried",
+     "carry"
+    ],
+    "answer": "was carried",
+    "accept": [],
+    "explain": "Gapda o'tgan zamondagi aniq harakat bor, shuning uchun Past Simple Passive: was carried.",
+    "wrong": {
+     "is carried": "Hozirgi zamon uchun, lekin bu o'tgan ish.",
+     "carry": "Faol nisbat, quti o‘zini o‘zi ko'tarmagan."
+    }
+   }
+  ]
+ ],
+ "intro": {
+  "what": "Majhul nisbat (The Passive) harakat kim tomonidan bajarilganidan ko'ra, harakatning o'zi muhim bo'lganda ishlatiladi. Ingliz tilida bu zamonlar am/is/are yoki was/were yordamchi fe'llari hamda fe'urning uchinchi shakli (V3) yordamida yasaladi. Biz bu qoidani kundalik hayotda narsalar qanday qilinishi yoki yaratilishini aytish uchun ishlatamiz.",
+  "when": [
+   "Harakatni bajargan shaxs noma'lum bo'lganda",
+   "Harakatni kim qilgani muhim bo'lmaganda",
+   "Buyumlar yoki mahsulotlar qayerda tayyorlanishini aytganda",
+   "Tarixiy faktlar va kashfiyotlar haqida gapirganda"
+  ],
+  "structures": [
+   {
+    "label": "Present Simple Passive (+)",
+    "formula": "Object + am/is/are + V3",
+    "example_en": "English is spoken in many countries.",
+    "example_uz": "Ko'p mamlakatlarda ingliz tili gapiriladi."
+   },
+   {
+    "label": "Present Simple Passive (-)",
+    "formula": "Object + am/is/are + not + V3",
+    "example_en": "This room is not cleaned every day.",
+    "example_uz": "Bu xona har kuni tozalanmaydi."
+   },
+   {
+    "label": "Past Simple Passive (+)",
+    "formula": "Object + was/were + V3",
+    "example_en": "The telephone was invented by Bell.",
+    "example_uz": "Telefon Bell tomonidan ixtiro qilingan."
+   },
+   {
+    "label": "Past Simple Passive (-)",
+    "formula": "Object + was/were + not + V3",
+    "example_en": "The homework was not finished on time.",
+    "example_uz": "Uy vazifasi o'z vaqtida tugallanmadi."
+   },
+   {
+    "label": "Passive Question",
+    "formula": "Am/Is/Are or Was/Were + Object + V3?",
+    "example_en": "Were these cars made in Japan?",
+    "example_uz": "Bu mashinalar Yaponiyada ishlab chiqarilganmi?"
+   }
+  ],
+  "rules": [
+   {
+    "title": "By so'zini ishlatish",
+    "text": "Agar harakatni kim bajarganini aniq ko'rsatmoqchi bo'lsak, gap oxirida by so'zidan foydalanamiz.",
+    "examples": [
+     {
+      "en": "This book was written by Alisher Navoi.",
+      "uz": "Bu kitob Alisher Navoiy tomonidan yozilgan."
+     },
+     {
+      "en": "The window was broken by my little brother.",
+      "uz": "Oyna kichik ukam tomonidan sindirildi."
+     }
+    ]
+   },
+   {
+    "title": "Present Simple Passive yasalishi",
+    "text": "Hozirgi zamonda narsalar odatda bajarilishini aytish uchun to be fe'lining hozirgi zamon shakli va V3 ishlatiladi.",
+    "examples": [
+     {
+      "en": "Plov is cooked for weddings in Uzbekistan.",
+      "uz": "O'zbekistonda to'ylar uchun osh pishiriladi."
+     },
+     {
+      "en": "New cars are sold in this shop.",
+      "uz": "Bu do'konda yangi mashinalar sotiladi."
+     }
+    ]
+   },
+   {
+    "title": "Past Simple Passive yasalishi",
+    "text": "O'tgan zamonda sodir bo'lgan ish-harakatlar uchun was yoki were yordamchi fe'llari qo'shiladi.",
+    "examples": [
+     {
+      "en": "Samarkand was visited by thousands of tourists last year.",
+      "uz": "O'tgan yili Samarqandga minglab sayyohlar tashrif buyurishdi."
+     },
+     {
+      "en": "My bike was stolen yesterday.",
+      "uz": "Velosipedim kecha o'g'irlandi."
+     }
+    ]
+   }
+  ],
+  "signal_words": [
+   {
+    "en": "every day",
+    "uz": "har kuni"
+   },
+   {
+    "en": "usually",
+    "uz": "odatda"
+   },
+   {
+    "en": "yesterday",
+    "uz": "kecha"
+   },
+   {
+    "en": "last year",
+    "uz": "o'tgan yili"
+   },
+   {
+    "en": "in 1991",
+    "uz": "1991 yilda"
+   },
+   {
+    "en": "by",
+    "uz": "tomonidan"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "English speaks all over the world.",
+    "right": "English is spoken all over the world.",
+    "why": "Ingliz tili o'zi gapirmaydi, uni gapirishadi. Shuning uchun majhul nisbat (is spoken) kerak."
+   },
+   {
+    "wrong": "This car made in Korea.",
+    "right": "This car was made in Korea.",
+    "why": "O'tgan zamonda yasalganligini ko'rsatish uchun was yordamchi fe'li unutmasligi kerak."
+   },
+   {
+    "wrong": "When the telephone was invent?",
+    "right": "When was the telephone invented?",
+    "why": "Majhul nisbat savollarida was/were egadan oldin kelishi va fe'l V3 shaklida bo'lishi shart."
+   },
+   {
+    "wrong": "Rice is grow in warm countries.",
+    "right": "Rice is grown in warm countries.",
+    "why": "Grow fe'lining uchinchi shakli (V3) grow emas, grown bo'ladi."
+   }
+  ]
+ }
+}

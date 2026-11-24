@@ -1,0 +1,35 @@
+{
+ "script": "Woman: Hello everyone. I hope you're all settled in and are looking forward to your first day of landscape painting tomorrow. I just want to run through the daily program with you so that we are all in the right place at the right time. Now, breakfast will be served on the patio between 8:00 and 9:00 in the morning. It's a buffet breakfast and self-service, so you can help yourself to as much as you like. I suggest you fill up as you'll get hungry in all that fresh air and walking. At 9:30 prompt, we meet at the entrance to the hotel and walk to our painting location. This will always be about half an hour away, certainly no further than expected. Once we arrive, I'll give you all a demonstration of landscape painting or drawing. We'll be exploring a variety of materials such as pencil and charcoal and watercolor and acrylic paint. We won't be using oil paint as it takes too long to dry and would be very difficult to handle. Then you get the chance to show what you're made of and I'll be walking around giving advice and encouragement. Please feel free to ask me any questions during this time. That's what I'm here for. We'll have a picnic lunch at 12:30. Don't forget to collect your packed lunch in the morning from reception. After an afternoon of painting and drawing, we all get together for a group tutorial. Now, don't be nervous about this. It's just a chance to share our thoughts and experiences and see what everyone has produced. We'll be back at the hotel at about 5:00, so you have plenty of time to freshen up before dinner at 6:30. Now, any questions?",
+ "items": [
+  {
+   "n": 1,
+   "quote": "It's a buffet breakfast and self-service",
+   "uz": "Nonushta 'buffet' (shved stoli) va 'self-service' (o'z-o'ziga xizmat ko'rsatish) shaklida bo'lishi aytildi. Gapda 'buffet-style' so'zi borligi sababli 'self-service' javob bo'ladi."
+  },
+  {
+   "n": 2,
+   "quote": "At 9:30 prompt, we meet at the entrance",
+   "uz": "Guruh mehmonxonadan chiqib ketish vaqti aniq 9:30 deb aytildi. 8:00 va 9:00 nonushta vaqtlari bo'lgani uchun ularni adashtirmaslik kerak."
+  },
+  {
+   "n": 3,
+   "quote": "I'll give you all a demonstration of landscape painting",
+   "uz": "O'qituvchi 'landscape painting' (manzara chizish) bo'yicha dars berishini aytadi. 'Drawing' so'zi ham ishlatilgan, lekin gapda 'paint a...' deb kelgani uchun 'landscape' mos tushadi."
+  },
+  {
+   "n": 4,
+   "quote": "exploring a variety of materials",
+   "uz": "Turli xil 'materials' (materiallar), masalan qalam va akril bo'yoqlardan foydalaniladi. 'Oil paint' (moybo'yoq) ishlatilmasligi aytilgan, shuning uchun u javob bo'la olmaydi."
+  },
+  {
+   "n": 5,
+   "quote": "collect your packed lunch in the morning from reception",
+   "uz": "Picnic uchun tushlikni 'reception' (qabul bo'limi)dan olish kerakligi aytildi. 'Hotel' so'zi ham bor, lekin aynan qayerdan olish kerakligi so'ralgan."
+  },
+  {
+   "n": 6,
+   "quote": "we all get together for a group tutorial",
+   "uz": "Kun oxirida 'group tutorial' (guruh mashg'uloti) bo'lishi aytildi. 'Meeting' so'zi gapda bor, shuning uchun uning oldidan 'group' so'zini qo'yish kerak."
+  }
+ ]
+}

@@ -1,0 +1,342 @@
+[
+ {
+  "kind": "situation",
+  "q": "You walk inside a very old Christian church with high ceilings, large stained-glass windows, and a bishop's seat in the city center.",
+  "options": [
+   "cathedral",
+   "mosque",
+   "temple",
+   "palace"
+  ],
+  "answer": "cathedral",
+  "why": "Cathedral — katta va asosiy xristian ibodatxonasi. «Christian church» va «bishop's seat» so'zlari buni ko'rsatadi.",
+  "wrong": {
+   "mosque": "Mosque — musulmonlarning masjid ibodatxonasi.",
+   "temple": "Temple — boshqa dinga oid ibodatxona.",
+   "palace": "Palace — qirol yashaydigan saroy."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Visitors can walk among thousands of exotic plants, palm trees, and rare flowers in this huge public garden.",
+  "options": [
+   "botanical gardens",
+   "national park",
+   "theme park",
+   "water park"
+  ],
+  "answer": "botanical gardens",
+  "why": "Botanical gardens — o'simliklar o'stiriladigan bog'. «exotic plants» va «flowers» so'zlari ishora qiladi.",
+  "wrong": {
+   "national park": "National park — tabiatni muhofaza qiluvchi katta hudud.",
+   "theme park": "Theme park — attraksionlar o'ynaladigan park.",
+   "water park": "Water park — suv havzalari va slaydlari bor joy."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "We bought fresh vegetables, spices, and local bread from friendly sellers at the busy outdoor trading area.",
+  "options": [
+   "market",
+   "harbour",
+   "aquarium",
+   "museum"
+  ],
+  "answer": "market",
+  "why": "Market — bozor, savdo joyi. «bought fresh vegetables» va «sellers» ishora qiladi.",
+  "wrong": {
+   "harbour": "Harbour — kemalar to'xtaydigan port.",
+   "aquarium": "Aquarium — baliqlar ko'rsatiladigan akvarium.",
+   "museum": "Museum — tarixiy buyumlar saqlanadigan muzey."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Many huge ships and small fishing boats stay safely in this sheltered coastal area.",
+  "options": [
+   "harbour",
+   "market",
+   "tower",
+   "square"
+  ],
+  "answer": "harbour",
+  "why": "Harbour — kema porti. «ships and small fishing boats» va «coastal area» ishora qiladi.",
+  "wrong": {
+   "market": "Market — oziq-ovqat va buyumlar sotiladigan bozor.",
+   "tower": "Tower — baland minora.",
+   "square": "Square — shahar maydoni."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "You can see ancient stone walls, broken columns, and remains of a Roman settlement from two thousand years ago.",
+  "options": [
+   "ruins",
+   "castle",
+   "temple",
+   "palace"
+  ],
+  "answer": "ruins",
+  "why": "Ruins — vayronalar, harobalar. «ancient stone walls» va «broken columns» so'zlari buni bildiradi.",
+  "wrong": {
+   "castle": "Castle — butun saqlanib qolgan qasr.",
+   "temple": "Temple — ibodatxona.",
+   "palace": "Palace — saroy."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Water shoots high up into the air from this decorative stone structure in the middle of the town square.",
+  "options": [
+   "fountain",
+   "statue",
+   "tower",
+   "market"
+  ],
+  "answer": "fountain",
+  "why": "Fountain — favvora. «Water shoots high up into the air» iborasi buni tasdiqlaydi.",
+  "wrong": {
+   "statue": "Statue — haykal.",
+   "tower": "Tower — minora.",
+   "market": "Market — bozor."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "We rode exciting roller coasters and ate sweet cotton candy all afternoon at the fun amusement area.",
+  "options": [
+   "theme park",
+   "water park",
+   "aquarium",
+   "national park"
+  ],
+  "answer": "theme park",
+  "why": "Theme park — attraksionlar parki. «exciting roller coasters» va «cotton candy» ishora qiladi.",
+  "wrong": {
+   "water park": "Water park — faqat suv o'yinlari joyi.",
+   "aquarium": "Aquarium — suv osti olami ko'rgazmasi.",
+   "national park": "National park — qo'riqxona tabiat maskani."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "We looked at hundreds of colorful tropical fish, sharks, and giant sea turtles swimming in huge glass tanks.",
+  "options": [
+   "aquarium",
+   "water park",
+   "museum",
+   "botanical gardens"
+  ],
+  "answer": "aquarium",
+  "why": "Aquarium — okeanarium, baliqlar maskani. «tropical fish, sharks» va «glass tanks» ishora qiladi.",
+  "wrong": {
+   "water park": "Water park — odamlar cho'miladigan suv parki.",
+   "museum": "Museum — tarixiy muzey.",
+   "botanical gardens": "Botanical gardens — o'simliklar bog'i."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "The stone walls and heavy iron gates of this medieval fortress reminded us of brave knights and kings.",
+  "options": [
+   "castle",
+   "palace",
+   "tower",
+   "ruins"
+  ],
+  "answer": "castle",
+  "why": "Castle — qasr, qal'a. «medieval fortress» va «knights and kings» iboralari ishora qiladi.",
+  "wrong": {
+   "palace": "Palace — faqat hashamatli saroy.",
+   "tower": "Tower — faqat minora.",
+   "ruins": "Ruins — vayrona qoldiqlar."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Muslims come to this beautiful building with a large dome and a tall minaret to pray every day.",
+  "options": [
+   "mosque",
+   "cathedral",
+   "temple",
+   "palace"
+  ],
+  "answer": "mosque",
+  "why": "Mosque — masjid. «Muslims» va «dome and a tall minaret» so'zlari buni bildiradi.",
+  "wrong": {
+   "cathedral": "Cathedral — nasroniy cherkovi.",
+   "temple": "Temple — boshqa ibodatxona.",
+   "palace": "Palace — saroy."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "We saw a bronze sculpture of a famous national poet riding a horse in the central park.",
+  "options": [
+   "statue",
+   "fountain",
+   "tower",
+   "museum"
+  ],
+  "answer": "statue",
+  "why": "Statue — haykal. «bronze sculpture of a famous national poet» so'zlari buni tasdiqlaydi.",
+  "wrong": {
+   "fountain": "Fountain — suv otilib chiqadigan favvora.",
+   "tower": "Tower — minora.",
+   "museum": "Museum — muzey binosi."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "We visited an amazing ______ filled with ancient paintings, swords, and royal clothes from the 14th century.",
+  "options": [
+   "museum",
+   "market",
+   "aquarium",
+   "harbour"
+  ],
+  "answer": "museum",
+  "why": "Museum — muzey. «filled with ancient paintings and swords» iborasi buni ko'rsatadi.",
+  "wrong": {
+   "market": "Market — oziq-ovqat bozori.",
+   "aquarium": "Aquarium — dengiz hayvonlari maskani.",
+   "harbour": "Harbour — kema porti."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "The grand royal ______ had shiny gold ceilings, crystal chandeliers, and a massive ballroom for kings.",
+  "options": [
+   "palace",
+   "castle",
+   "temple",
+   "tower"
+  ],
+  "answer": "palace",
+  "why": "Palace — saroy. «gold ceilings and crystal chandeliers» shohona saroyni bildiradi.",
+  "wrong": {
+   "castle": "Castle — asosan mudofaa uchun qasr.",
+   "temple": "Temple — ibodatxona.",
+   "tower": "Tower — minora."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "We went sliding down giant water tubes and swimming in the wave pool at the new outdoor ______.",
+  "options": [
+   "water park",
+   "theme park",
+   "national park",
+   "botanical gardens"
+  ],
+  "answer": "water park",
+  "why": "Water park — akvapark. «water tubes and swimming in the wave pool» ishora qiladi.",
+  "wrong": {
+   "theme park": "Theme park — attraksionlar parki.",
+   "national park": "National park — qo'riqxona.",
+   "botanical gardens": "Botanical gardens — o'simliklar bog'i."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "Animals like bears, wolves, and eagles live safely in their natural habitat inside this huge ______.",
+  "options": [
+   "national park",
+   "theme park",
+   "water park",
+   "botanical gardens"
+  ],
+  "answer": "national park",
+  "why": "National park — milliy bog', qo'riqxona. «natural habitat» va «animals live safely» ishora qiladi.",
+  "wrong": {
+   "theme park": "Theme park — o'yin parki.",
+   "water park": "Water park — suv parki.",
+   "botanical gardens": "Botanical gardens — faqat o'simliklar bog'i."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "The old mountain village had a very ______ feel with misty mornings, quiet stone streets, and old lamps.",
+  "options": [
+   "atmospheric",
+   "boring",
+   "disappointing",
+   "expensive"
+  ],
+  "answer": "atmospheric",
+  "why": "Atmospheric — o'ziga xos muhitga boy. «misty mornings and quiet stone streets» muhitni tasvirlaydi.",
+  "wrong": {
+   "boring": "Boring — zerikarli.",
+   "disappointing": "Disappointing — hafsirani pir qiluvchi.",
+   "expensive": "Expensive — qimmat."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "The sunset over the blue lake and green mountains was truly ______, like a postcard picture.",
+  "options": [
+   "beautiful",
+   "boring",
+   "disappointing",
+   "busy"
+  ],
+  "answer": "beautiful",
+  "why": "Beautiful — go'zal, chiroyli. «sunset over the blue lake» va «postcard picture» so'zlari ishora qiladi.",
+  "wrong": {
+   "boring": "Boring — zerikarli.",
+   "disappointing": "Disappointing — ko'ngilni qoldiradigan.",
+   "busy": "Busy — gavjum, band."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "There was nothing to do in the small village all day, so we felt completely ______.",
+  "options": [
+   "boring",
+   "atmospheric",
+   "historic",
+   "peaceful"
+  ],
+  "answer": "boring",
+  "why": "Boring — zerikarli. «nothing to do in the small village» iborasi shuni ko'rsatadi.",
+  "wrong": {
+   "atmospheric": "Atmospheric — jozibali muhitga ega.",
+   "historic": "Historic — tarixiy.",
+   "peaceful": "Peaceful — tinch."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "The main shopping street was very ______ on Saturday, with thousands of people walking and buying things.",
+  "options": [
+   "busy",
+   "peaceful",
+   "remote",
+   "cheap"
+  ],
+  "answer": "busy",
+  "why": "Busy — gavjum, odam ko'p. «thousands of people walking» iborasi buni tasdiqlaydi.",
+  "wrong": {
+   "peaceful": "Peaceful — sokin.",
+   "remote": "Remote — olis, uzoq.",
+   "cheap": "Cheap — arzon."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "Samarkand is a wonderfully ______ city with famous mosques, madrasas, and monuments from the Silk Road.",
+  "options": [
+   "historic",
+   "boring",
+   "disappointing",
+   "busy"
+  ],
+  "answer": "historic",
+  "why": "Historic — tarixiy. «famous mosques, madrasas, and monuments from the Silk Road» ishora qiladi.",
+  "wrong": {
+   "boring": "Boring — zerikarli.",
+   "disappointing": "Disappointing — hafsirani pir qiladigan.",
+   "busy": "Busy — gavjum."
+  }
+ }
+]

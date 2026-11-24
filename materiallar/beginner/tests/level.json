@@ -1,0 +1,197 @@
+{
+  "code": "LEVEL", "kind": "level", "unit": null, "price": 40000,
+  "title": "Beginner Level Test",
+  "subtitle": "The final exam · all 14 units · find your real level",
+  "sections": [
+    {
+      "title": "A. Complete the conversation. Choose the correct answer.",
+      "passage": "At a language school. The receptionist talks to a new student, Bilol.",
+      "items": [
+        { "t": "mc", "q": "Receptionist: Good morning! (1) ______ you Bilol?", "o": ["Am", "Is", "Are", "Do"], "a": 2 },
+        { "t": "mc", "q": "Bilol: Yes, I (2) ______.", "o": ["is", "am", "are", "do"], "a": 1 },
+        { "t": "mc", "q": "Receptionist: Nice to meet you. Where (3) ______ you from?", "o": ["is", "do", "am", "are"], "a": 3 },
+        { "t": "mc", "q": "Bilol: I (4) ______ from Andijan.", "o": ["am", "is", "are", "be"], "a": 0 },
+        { "t": "mc", "q": "Receptionist: (5) ______ you a student at university?", "o": ["Do", "Is", "Are", "Am"], "a": 2 },
+        { "t": "mc", "q": "Bilol: No, I (6) ______. I’m a waiter.", "o": ["don’t", "am not", "isn’t", "aren’t"], "a": 1 },
+        { "t": "mc", "q": "Receptionist: How old (7) ______ you?", "o": ["are", "is", "do", "have"], "a": 0 },
+        { "t": "mc", "q": "Bilol: I (8) ______ twenty-two.", "o": ["have", "is", "am", "are"], "a": 2 },
+        { "t": "mc", "q": "Receptionist: (9) ______ this your email address?", "o": ["Are", "Is", "Am", "Does"], "a": 1 },
+        { "t": "mc", "q": "Bilol: Yes, it (10) ______.", "o": ["does", "are", "is", "am"], "a": 2 }
+      ]
+    },
+    {
+      "title": "B. Complete the sentences. Write has, have, is, or are.",
+      "items": [
+        { "t": "text", "q": "My uncle ______ a farmer.", "a": ["is"] },
+        { "t": "text", "q": "We ______ a big kitchen.", "a": ["have"] },
+        { "t": "text", "q": "Dilnoza ______ two cats.", "a": ["has"] },
+        { "t": "text", "q": "These shoes ______ very expensive.", "a": ["are"] },
+        { "t": "text", "q": "I ______ an older sister.", "a": ["have"] },
+        { "t": "text", "q": "The museum ______ closed on Mondays.", "a": ["is"] },
+        { "t": "text", "q": "My friends ______ in the café now.", "a": ["are"] },
+        { "t": "text", "q": "Our town ______ a beautiful park.", "a": ["has"] },
+        { "t": "text", "q": "They ______ a lot of money.", "a": ["have"] },
+        { "t": "text", "q": "The weather ______ hot today.", "a": ["is"] }
+      ]
+    },
+    {
+      "title": "C. Complete the questions. Use these question words.",
+      "box": ["Who", "What", "Where", "When", "Why", "How", "How old", "How much", "What time", "Which"],
+      "items": [
+        { "t": "text", "q": "______ is your brother? — He’s fourteen.", "a": ["How old"] },
+        { "t": "text", "q": "______ do you live? — In Chirchiq.", "a": ["Where"] },
+        { "t": "text", "q": "______ is that woman? — She’s my aunt.", "a": ["Who"] },
+        { "t": "text", "q": "______ does the film start? — At 7:30.", "a": ["What time", "When"] },
+        { "t": "text", "q": "______ are you sad? — Because I lost my phone.", "a": ["Why"] },
+        { "t": "text", "q": "______ is this jacket? — 300,000 so‘m.", "a": ["How much"] },
+        { "t": "text", "q": "______ do you spell your name? — B-O-B-U-R.", "a": ["How"] },
+        { "t": "text", "q": "______ is your job? — I’m an engineer.", "a": ["What"] },
+        { "t": "text", "q": "______ is your birthday? — In October.", "a": ["When"] },
+        { "t": "text", "q": "______ colour do you like, red or blue? — Blue.", "a": ["Which", "What"] }
+      ]
+    },
+    {
+      "title": "D. Write questions. Example: Ali plays tennis. → Does he play tennis?",
+      "items": [
+        { "t": "text", "q": "Madina speaks Korean.", "a": ["Does she speak Korean"] },
+        { "t": "text", "q": "Your friends are at home.", "a": ["Are they at home"] },
+        { "t": "text", "q": "Mr Karimov is a pilot.", "a": ["Is he a pilot"] },
+        { "t": "text", "q": "The students like music.", "a": ["Do they like music"] },
+        { "t": "text", "q": "Sevara has a laptop.", "a": ["Does she have a laptop"] }
+      ]
+    },
+    {
+      "title": "E. Complete the sentences. Use a verb from the box in the Present Simple.",
+      "box": ["drink", "teach", "fly", "wash", "finish", "sell", "go", "speak", "carry", "visit"],
+      "items": [
+        { "t": "text", "q": "My aunt ______ maths at a college.", "a": ["teaches"] },
+        { "t": "text", "q": "We ______ to the market on Sundays.", "a": ["go"] },
+        { "t": "text", "q": "He ______ his car every weekend.", "a": ["washes"] },
+        { "t": "text", "q": "The lesson ______ at half past four.", "a": ["finishes"] },
+        { "t": "text", "q": "Birds ______ south in winter.", "a": ["fly"] },
+        { "t": "text", "q": "That shop ______ fresh bread.", "a": ["sells"] },
+        { "t": "text", "q": "My grandma ______ tea with milk.", "a": ["drinks"] },
+        { "t": "text", "q": "The postman ______ a heavy bag.", "a": ["carries"] },
+        { "t": "text", "q": "I ______ three languages.", "a": ["speak"] },
+        { "t": "text", "q": "She ______ her parents every month.", "a": ["visits"] }
+      ]
+    },
+    {
+      "title": "F. Complete the sentences. Use he, she, it, they, him, her, us, or them.",
+      "items": [
+        { "t": "text", "q": "I have a new bike. I ride ______ to school.", "a": ["it"] },
+        { "t": "text", "q": "My cousin is a doctor. ______ works in a hospital.", "a": ["She", "He"] },
+        { "t": "text", "q": "Akmal and Bobur are clever. I study with ______.", "a": ["them"] },
+        { "t": "text", "q": "We’re lost. Can you help ______?", "a": ["us"] },
+        { "t": "text", "q": "This is my grandfather. I love ______ very much.", "a": ["him"] },
+        { "t": "text", "q": "Lola is my neighbour. I often talk to ______.", "a": ["her"] },
+        { "t": "text", "q": "My parents have a shop. ______ open it at eight.", "a": ["They"] },
+        { "t": "text", "q": "Our teacher is very funny. ______ tells jokes.", "a": ["He", "She"] },
+        { "t": "text", "q": "I bought some apples. Do you want ______?", "a": ["them"] },
+        { "t": "text", "q": "The cat is hungry. Please give ______ some food.", "a": ["it", "him", "her"] }
+      ]
+    },
+    {
+      "title": "G. Write there’s, there are, there isn’t, or there aren’t. (✓ = yes, ✗ = no)",
+      "items": [
+        { "t": "text", "q": "______ a mirror in the bathroom. ✓", "a": ["There’s", "There is"] },
+        { "t": "text", "q": "______ any tomatoes in the fridge. ✗", "a": ["There aren’t", "There are not"] },
+        { "t": "text", "q": "______ three bridges in our city. ✓", "a": ["There are"] },
+        { "t": "text", "q": "______ a swimming pool at my school. ✗", "a": ["There isn’t", "There is not"] },
+        { "t": "text", "q": "______ some sandwiches on the plate. ✓", "a": ["There are"] },
+        { "t": "text", "q": "______ a pharmacy near the station. ✓", "a": ["There’s", "There is"] },
+        { "t": "text", "q": "______ any taxis outside. ✗", "a": ["There aren’t", "There are not"] },
+        { "t": "text", "q": "______ a clock on the wall. ✗", "a": ["There isn’t", "There is not"] },
+        { "t": "text", "q": "______ a lot of people in the bus. ✓", "a": ["There are"] },
+        { "t": "text", "q": "______ any cheese left. ✗", "a": ["There isn’t", "There is not"] }
+      ]
+    },
+    {
+      "title": "H. Complete the sentences. Write was, wasn’t, were, or weren’t.",
+      "items": [
+        { "t": "text", "q": "Where ______ you last night? — At the gym.", "a": ["were"] },
+        { "t": "text", "q": "Alisher Navoi ______ a famous poet.", "a": ["was"] },
+        { "t": "text", "q": "The shops ______ open on the holiday. They were closed.", "a": ["weren’t", "were not"] },
+        { "t": "text", "q": "______ your sister at the wedding? — Yes, she was.", "a": ["Was"] },
+        { "t": "text", "q": "I ______ at work yesterday. I was ill at home.", "a": ["wasn’t", "was not"] },
+        { "t": "text", "q": "The tickets ______ cheap — only 20,000 so‘m.", "a": ["were"] },
+        { "t": "text", "q": "______ they born in Kazakhstan? — No, they weren’t.", "a": ["Were"] },
+        { "t": "text", "q": "It ______ sunny on Saturday. It rained all day.", "a": ["wasn’t", "was not"] }
+      ]
+    },
+    {
+      "title": "I. Choose the correct answer.",
+      "items": [
+        { "t": "mc", "q": "Last Friday we ______ to a concert.", "o": ["go", "goes", "went", "going"], "a": 2 },
+        { "t": "mc", "q": "She ______ a cake for my birthday yesterday.", "o": ["makes", "made", "make", "making"], "a": 1 },
+        { "t": "mc", "q": "I ______ my homework last night.", "o": ["didn’t do", "don’t did", "didn’t did", "not did"], "a": 0 },
+        { "t": "mc", "q": "______ you see Jasur at school yesterday?", "o": ["Do", "Were", "Did", "Was"], "a": 2 },
+        { "t": "mc", "q": "They ______ in Fergana two years ago.", "o": ["live", "lived", "lives", "living"], "a": 1 }
+      ]
+    },
+    {
+      "title": "J. Write questions about the underlined words.",
+      "items": [
+        { "t": "text", "q": "They watched a comedy last night. → What ______?", "a": ["What did they watch last night", "What did they watch"] },
+        { "t": "text", "q": "She went to Khiva in May. → Where ______?", "a": ["Where did she go in May", "Where did she go"] },
+        { "t": "text", "q": "The train arrived at 6:15. → What time ______?", "a": ["What time did the train arrive"] },
+        { "t": "text", "q": "He met his teacher in the street. → Who ______?", "a": ["Who did he meet in the street", "Who did he meet"] },
+        { "t": "text", "q": "We bought a sofa. → What ______?", "a": ["What did you buy", "What did they buy", "What did we buy"] }
+      ]
+    },
+    {
+      "title": "K. Look at the table. Complete the sentences with can or can’t.",
+      "passage": "Diyor: cook ✓ · ski ✗ · draw ✓ · speak German ✗ | Nilufar: cook ✗ · ski ✓ · draw ✓ · speak German ✓",
+      "items": [
+        { "t": "text", "q": "Diyor ______ cook.", "a": ["can"] },
+        { "t": "text", "q": "Nilufar ______ cook.", "a": ["can’t", "cannot", "can not"] },
+        { "t": "text", "q": "Diyor ______ ski.", "a": ["can’t", "cannot", "can not"] },
+        { "t": "text", "q": "Diyor and Nilufar ______ draw.", "a": ["can"] },
+        { "t": "text", "q": "Nilufar ______ speak German.", "a": ["can"] },
+        { "t": "text", "q": "Diyor ______ speak German.", "a": ["can’t", "cannot", "can not"] }
+      ]
+    },
+    {
+      "title": "L. Write sentences. Example: I usually walk to school but (today / take a taxi) → Today I’m taking a taxi.",
+      "items": [
+        { "t": "text", "q": "She usually drinks tea but (today / coffee)", "a": ["Today she’s drinking coffee", "Today she is drinking coffee", "She’s drinking coffee today", "She is drinking coffee today"] },
+        { "t": "text", "q": "We usually eat at home but (today / at a restaurant)", "a": ["Today we’re eating at a restaurant", "Today we are eating at a restaurant", "We’re eating at a restaurant today", "We are eating at a restaurant today"] },
+        { "t": "text", "q": "He usually plays football but (today / play tennis)", "a": ["Today he’s playing tennis", "Today he is playing tennis", "He’s playing tennis today", "He is playing tennis today"] },
+        { "t": "text", "q": "I usually wear a T-shirt but (today / wear a jumper)", "a": ["Today I’m wearing a jumper", "Today I am wearing a jumper", "I’m wearing a jumper today", "I am wearing a jumper today"] },
+        { "t": "text", "q": "They usually go by bus but (today / walk)", "a": ["Today they’re walking", "Today they are walking", "They’re walking today", "They are walking today"] }
+      ]
+    },
+    {
+      "title": "M. Complete the sentences. Use the Present Continuous.",
+      "items": [
+        { "t": "text", "q": "Shh! I ______ on the phone. (talk)", "a": ["am talking", "’m talking"] },
+        { "t": "text", "q": "My sister ______ her room at the moment. (tidy)", "a": ["is tidying", "’s tidying"] },
+        { "t": "text", "q": "Listen! Someone ______ the piano. (play)", "a": ["is playing", "’s playing"] },
+        { "t": "text", "q": "We ______ for the bus now. (wait)", "a": ["are waiting", "’re waiting"] },
+        { "t": "text", "q": "Be quiet! The baby ______. (sleep)", "a": ["is sleeping", "’s sleeping"] },
+        { "t": "text", "q": "They ______ to Bukhara next Friday. (fly)", "a": ["are flying", "’re flying"] },
+        { "t": "text", "q": "I ______ my grandparents this evening. (visit)", "a": ["am visiting", "’m visiting"] },
+        { "t": "text", "q": "Look! It ______. (snow)", "a": ["is snowing", "’s snowing"] }
+      ]
+    },
+    {
+      "title": "N. Look at exercise M. Is each sentence about the present (P) or the future (F)?",
+      "items": [
+        { "t": "mc", "q": "Shh! I am talking on the phone.", "o": ["P", "F"], "a": 0 },
+        { "t": "mc", "q": "My sister is tidying her room at the moment.", "o": ["P", "F"], "a": 0 },
+        { "t": "mc", "q": "They are flying to Bukhara next Friday.", "o": ["P", "F"], "a": 1 },
+        { "t": "mc", "q": "I am visiting my grandparents this evening.", "o": ["P", "F"], "a": 1 },
+        { "t": "mc", "q": "Look! It is snowing.", "o": ["P", "F"], "a": 0 }
+      ]
+    },
+    {
+      "title": "O. Complete the sentences. Use going to.",
+      "items": [
+        { "t": "text", "q": "I (learn) ______ to swim this summer.", "a": ["am going to learn", "’m going to learn"] },
+        { "t": "text", "q": "My brother (not study) ______ medicine.", "a": ["isn’t going to study", "is not going to study", "’s not going to study"] },
+        { "t": "text", "q": "We (paint) ______ the kitchen at the weekend.", "a": ["are going to paint", "’re going to paint"] },
+        { "t": "text", "q": "Look at those clouds! It (rain) ______.", "a": ["is going to rain", "’s going to rain"] }
+      ]
+    }
+  ]
+}

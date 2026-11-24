@@ -1,0 +1,40 @@
+﻿59`t16`t105`t280
+62`t19`t579`tMultilevel Master reod/ng
+113`t23`t132`t7. The main reason for increasing the price of fares was volatile fuel
+143`t16`t104`tcosts,
+170`t21`t132`tA) True
+171`t19`t380`tB) False
+171`t21`t585`tC) No Information
+215`t21`t132`t8. Most landing piers belong to a single company in central London.
+243`t21`t132`tA) True
+245`t19`t380`tB) False
+245`t19`t585`tC) No information
+288`t23`t132`t9. PLA imposes a fixed cruising speed limit for boats in all parts of the
+345`t21`t132`tA) True
+411`t20`t132`tExercise 5
+347`t19`t380`tB) False
+347`t19`t585`tC) NO Information
+458`t22`t132`tRead the following text for questions 1-9.
+501`t20`t405`tInternet
+542`t21`t132`tInternet is one of the greatest tools we have today. Billions ot bits of
+570`t21`t105`tinformation, unlimited ways to connect' games to play, videos to watch,
+600`t21`t102`tthings to learn. There's something for everyone. We Facebools, tumble,
+629`t21`t104`tStumble, and tweet more now than ever. Social media is connecting us in
+656`t21`t104`tincredible ways. You can create communities ot like-minded people that
+686`t21`t104`twould never meet before on the Internet. But, due to this, we are spending
+714`t21`t104`tcopious amounts of time on the World Wide Web, and it'S slowly changing
+743`t21`t104`twho you are as a person. went for a long period of time where didn't read
+771`t21`t104`ta book. I finally got around to picking up a few new books and as soon as I
+800`t21`t103`tstarted reading them, I Struggled, I couldn't hold concentration like I used
+828`t21`t104`tto. I would read a whole paragraph with my mind elsewhere or had this con-
+858`t21`t104`tStant anxious feeling to do something else, even when there was absolutely
+887`t21`t104`tnothing else to do.
+915`t21`t132`tMy mind would jump from one thought to another and barely could
+944`t21`t104`tread a chapter in one sitting. A talked to a few people about this, and I even
+972`t20`t105`tlooked to the trusty Internet for my solution. 1 found that I'm not alone,
+1001`t21`t104`tmany people report the same type of concentration shift. The reason for this
+1029`t21`t104`tis the information overload via Internet. We take in 34 gigabytes of infor-
+1058`t21`t104`tmation each day now. That is 5 times more than we did 20 years ago, There
+1086`t22`t104`tis so much going on in our minds that we rarely spend any time on one par-
+1115`t21`t103`tticular bit Of information because there is always something new and more
+1143`t21`t104`tintriguing just around the corner. When we land on a webpager we spend

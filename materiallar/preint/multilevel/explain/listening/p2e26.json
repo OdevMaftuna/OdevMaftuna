@@ -1,0 +1,35 @@
+{
+ "script": "Woman: Okay everyone, listen carefully, as I need to give you some information about the geography trip. First of all, it is no longer on Monday 13th June. It is on Wednesday 14th... sorry, I mean Wednesday 15th June. So please make sure you have the new date in your diary. As you know, we will be walking up quite a high mountain... well, actually it's not really a mountain, it's a very high hill. You will be put into groups. You need to work together as a team to find your way to the meeting point at the end of the walk. There will be no technology for you to use. You will have to use the map that each group will be given. As I mentioned before, it's quite a difficult walk. The coach will drive you to the bottom of the hill, which is about 12 kilometres from our school, and then you will have to walk the 4 kilometres to the top. Don't worry, there is actually a car park near the top, so you won't have to walk all the way back down again. We wouldn't make you walk 8 kilometres in one day! There will be a doctor with you at all times to help anyone who might feel unwell. It'll be easy to see him, as he will be walking with Mrs Jackson, and he will be wearing a bright orange coat. His name is Mr Walsh, that's W-A-L-S-H. Don't forget to drink lots of water during the walk. Now, on the subject of keeping safe and well, it's a good idea to wear a sun hat, but most important of all, you need to make sure that you are wearing comfortable boots, as you won't be walking on easy paths. No sandals or beach shoes! We will have a packed lunch halfway through the walk, and drinks and cake at the end in the café. The coach will collect us at about 6 p.m., so if there's no heavy traffic, we should be back at school at 7 p.m. Now, are there any questions?",
+ "items": [
+  {
+   "n": 1,
+   "quote": "Wednesday 15th June",
+   "uz": "Ma'ruzachi avval 13th June va Wednesday 14th deb adashdi, lekin to'g'ri sana 15-iyun (June) ekanligini aytdi."
+  },
+  {
+   "n": 2,
+   "quote": "use the map that each group will be given",
+   "uz": "Texnologiyalardan foydalanish taqiqlanadi va har bir guruhga xarita (map) beriladi."
+  },
+  {
+   "n": 3,
+   "quote": "walk the 4 kilometres to the top",
+   "uz": "Avtobus tepalik etagigacha (12 km) olib boradi, lekin piyoda yuriladigan masofa uzunligi 4 kilometr (kilometres) deb ta'kidlandi."
+  },
+  {
+   "n": 4,
+   "quote": "His name is Mr Walsh, that's W-A-L-S-H",
+   "uz": "Sog'liq uchun mas'ul shifokorning familiyasi Mr Walsh deb harflab aytib berildi (Mrs Jackson esa u bilan birga yuradigan boshqa o'qituvchi)."
+  },
+  {
+   "n": 5,
+   "quote": "make sure that you are wearing comfortable boots",
+   "uz": "Yurish uchun qulay etiklar (boots) kiyish shartligi aytildi; sandal va plyaj poyabzallari kiyish taqiqlanadi."
+  },
+  {
+   "n": 6,
+   "quote": "we should be back at school at 7 p.m.",
+   "uz": "Avtobus guruhni soat 6:00 da olib ketadi, lekin maktabga yetib kelish vaqti soat 7:00 (7) p.m. deb aytildi."
+  }
+ ]
+}

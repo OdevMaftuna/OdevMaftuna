@@ -1,0 +1,1203 @@
+{
+ "code": "8.2",
+ "intro": {
+  "what": "Ushbu mavzuda ko'plikdagi otlar bilan 'bir nechta' (some) va 'hech qanday' (any) so'zlarining ishlatilishi hamda buyumlarning joyini bildiruvchi predloglarni o'rganamiz.",
+  "when": [
+   "Darak gaplarda 'bir nechta' narsa borligini aytishda 'some' ishlatiladi.",
+   "Inkor gaplarda 'hech qanday' narsa yo'qligini aytishda 'any' ishlatiladi.",
+   "So'roq gaplarda 'birorta' narsa bor-yo'qligini bilish uchun 'any' ishlatiladi.",
+   "Narsalarning qayerda (ustida, ichida, tagida, yonida) ekanligini ko'rsatishda joy predloglari ishlatiladi."
+  ],
+  "structures": [
+   {
+    "label": "(+)",
+    "formula": "There are + some + plural noun + preposition + place",
+    "example_en": "There are some books on the desk.",
+    "example_uz": "Parta ustida bir nechta kitoblar bor."
+   },
+   {
+    "label": "(-)",
+    "formula": "There aren't + any + plural noun",
+    "example_en": "There aren't any chairs in the room.",
+    "example_uz": "Xonada hech qanday stul yo'q."
+   },
+   {
+    "label": "(?)",
+    "formula": "Are there + any + plural noun?",
+    "example_en": "Are there any photos on the wall?",
+    "example_uz": "Devorda birorta fotosurat bormi?"
+   },
+   {
+    "label": "Prepositions",
+    "formula": "[Subject] + is/are + in / on / under / next to + [Object]",
+    "example_en": "The cat is under the table.",
+    "example_uz": "Mushuk stolning tagida."
+   }
+  ],
+  "rules": [
+   {
+    "title": "Some va Any qo'llanilishi",
+    "text": "Some faqat darak gaplarda, any esa inkor va so'roq gaplarda ko'plikdagi otlar bilan ishlatiladi.",
+    "examples": [
+     {
+      "en": "I have some sandwiches.",
+      "uz": "Menda bir nechta sendvich bor."
+     },
+     {
+      "en": "I don't have any sandwiches.",
+      "uz": "Menda hech qanday sendvich yo'q."
+     }
+    ]
+   },
+   {
+    "title": "Next to va Near farqi",
+    "text": "Next to - yonma-yon, juda yaqin (orasida masofa yo'q). Near - yaqinida (biroz masofa bo'lishi mumkin).",
+    "examples": [
+     {
+      "en": "The lamp is next to the bed.",
+      "uz": "Lampa karavotning yonida (yopishgan)."
+     },
+     {
+      "en": "There is a park near my house.",
+      "uz": "Uyimning yaqinida park bor."
+     }
+    ]
+   }
+  ],
+  "signal_words": [
+   {
+    "en": "some",
+    "uz": "bir nechta / biroz"
+   },
+   {
+    "en": "any",
+    "uz": "hech qanday / birorta"
+   },
+   {
+    "en": "opposite",
+    "uz": "ro'parasida"
+   },
+   {
+    "en": "under",
+    "uz": "tagida"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "There are any books.",
+    "right": "There are some books.",
+    "why": "Darak gaplarda 'any' emas, 'some' ishlatiladi."
+   },
+   {
+    "wrong": "There aren't some students.",
+    "right": "There aren't any students.",
+    "why": "Inkor gaplarda 'some' ishlatib bo'lmaydi, 'any' bo'lishi kerak."
+   },
+   {
+    "wrong": "The keys are in the table.",
+    "right": "The keys are on the table.",
+    "why": "Kalitlar stolning ichida emas, ustida bo'ladi."
+   }
+  ]
+ },
+ "test": [
+  {
+   "type": "fill",
+   "q": "There are ______ photographs in my bag.",
+   "answer": "some",
+   "explain": "Darak gaplarda ko'plikdagi otlar bilan 'some' ishlatiladi.",
+   "accept": [],
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "There aren't ______ computers in the small office.",
+   "answer": "any",
+   "explain": "Inkor gaplarda (aren't) ko'plikdagi otlar bilan 'any' ishlatiladi.",
+   "accept": [],
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "Are there ______ students in the classroom?",
+   "answer": "any",
+   "explain": "So'roq gaplarda ko'plikdagi otlar bilan 'any' ishlatiladi.",
+   "accept": [],
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "I have ______ sandwiches for lunch.",
+   "answer": "some",
+   "explain": "Darak gapda 'bir nechta' ma'nosida 'some' qo'llaniladi.",
+   "accept": [],
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "There aren't ______ pictures on the wall.",
+   "answer": "any",
+   "explain": "Inkor gapda ko'plikdagi otlar bilan 'any' ishlatiladi.",
+   "accept": [],
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "The car keys are ______ the drawer.",
+   "answer": "in",
+   "explain": "Kalitlar g'aladonning ichida bo'lgani uchun 'in' ishlatiladi.",
+   "accept": [],
+   "hint": "in / on / under"
+  },
+  {
+   "type": "fill",
+   "q": "The dictionary is ______ the desk.",
+   "answer": "on",
+   "explain": "Lug'at partaning ustida turganda 'on' predlogi ishlatiladi.",
+   "accept": [],
+   "hint": "in / on / under"
+  },
+  {
+   "type": "fill",
+   "q": "The cat is ______ the armchair.",
+   "answer": "under",
+   "explain": "Mushuk kresloning tagida bo'lsa 'under' predlogi ishlatiladi.",
+   "accept": [],
+   "hint": "in / on / under"
+  },
+  {
+   "type": "fill",
+   "q": "There is a small table ______ to the sofa.",
+   "answer": "next",
+   "explain": "'Next to' iborasi yonma-yon degan ma'noni beradi.",
+   "accept": [],
+   "hint": "next / near"
+  },
+  {
+   "type": "fill",
+   "q": "Are there ______ shops in this town?",
+   "answer": "any",
+   "explain": "So'roq gaplarda ko'plikdagi otlar bilan 'any' ishlatiladi.",
+   "accept": [],
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "There are ______ beautiful flowers in the park.",
+   "answer": "some",
+   "explain": "Darak gaplarda ko'plikdagi otlar bilan 'some' ishlatiladi.",
+   "accept": [],
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "The school is ______ the bank.",
+   "answer": "opposite",
+   "explain": "Maktab bankning ro'parasida joylashgan bo'lsa 'opposite' ishlatiladi.",
+   "accept": [],
+   "hint": "opposite / under"
+  },
+  {
+   "type": "fill",
+   "q": "I don't have ______ English books.",
+   "answer": "any",
+   "explain": "Inkor gapda 'hech qanday' ma'nosida 'any' ishlatiladi.",
+   "accept": [],
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "There are ______ magazines on the table.",
+   "answer": "some",
+   "explain": "Darak gapda ko'plikdagi ot bilan 'some' ishlatiladi.",
+   "accept": [],
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "Is there a lamp ______ the bed?",
+   "answer": "next to",
+   "explain": "Lampa karavotning yonida bo'lsa 'next to' ishlatiladi.",
+   "accept": [
+    "near"
+   ],
+   "hint": "joy predlogi"
+  },
+  {
+   "type": "fill",
+   "q": "There aren't ______ apples in the fridge.",
+   "answer": "any",
+   "explain": "Inkor gapda ko'plikdagi otlar bilan 'any' ishlatiladi.",
+   "accept": [],
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "The bus station is ______ the cinema.",
+   "answer": "near",
+   "explain": "Avtobus bekati kinoteatrning yaqinida bo'lsa 'near' ishlatiladi.",
+   "accept": [],
+   "hint": "near / in"
+  },
+  {
+   "type": "fill",
+   "q": "Are there ______ people in the restaurant?",
+   "answer": "any",
+   "explain": "So'roq gapda ko'plikdagi ot (people) bilan 'any' ishlatiladi.",
+   "accept": [],
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "There are ______ oranges in the kitchen.",
+   "answer": "some",
+   "explain": "Darak gapda 'bir nechta' ma'nosida 'some' ishlatiladi.",
+   "accept": [],
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "The phone is ______ the bag.",
+   "answer": "in",
+   "explain": "Telefon sumkaning ichida bo'lsa 'in' predlogi ishlatiladi.",
+   "accept": [],
+   "hint": "in / on"
+  },
+  {
+   "type": "mc",
+   "q": "There aren't ______ chairs in the dining room.",
+   "answer": "any",
+   "explain": "Inkor gapda ko'plikdagi otlar bilan 'any' ishlatiladi.",
+   "options": [
+    "some",
+    "any",
+    "a"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Are there ______ eggs in the fridge?",
+   "answer": "any",
+   "explain": "So'roq gapda 'birorta' ma'nosida 'any' ishlatiladi.",
+   "options": [
+    "any",
+    "some",
+    "an"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "There are ______ pens on my desk.",
+   "answer": "some",
+   "explain": "Darak gaplarda ko'plikdagi otlar bilan 'some' ishlatiladi.",
+   "options": [
+    "any",
+    "a",
+    "some"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "The laptop is ______ the table.",
+   "answer": "on",
+   "explain": "Kompyuter stolning ustida bo'lgani uchun 'on' ishlatiladi.",
+   "options": [
+    "on",
+    "in",
+    "under"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Is there a TV ______ the bedroom?",
+   "answer": "in",
+   "explain": "Televizor yotoqxonaning ichida bo'lgani uchun 'in' ishlatiladi.",
+   "options": [
+    "on",
+    "in",
+    "under"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "The shoes are ______ the bed.",
+   "answer": "under",
+   "explain": "Oyoq kiyimlar karavotning tagida bo'lgani uchun 'under' ishlatiladi.",
+   "options": [
+    "under",
+    "next",
+    "in"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "There are ______ children in the park today.",
+   "answer": "some",
+   "explain": "Darak gapda 'bir nechta' ma'nosida 'some' ishlatiladi.",
+   "options": [
+    "any",
+    "a",
+    "some"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "There isn't ______ coffee in the cup.",
+   "answer": "any",
+   "explain": "Inkor gapda sanalmaydigan otlar bilan ham 'any' ishlatiladi.",
+   "options": [
+    "some",
+    "any",
+    "a"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "The hotel is ______ the station.",
+   "answer": "next to",
+   "explain": "Mehmonxona stansiyaning yonida bo'lsa 'next to' ishlatiladi.",
+   "options": [
+    "next to",
+    "between",
+    "on"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Are there ______ letters for me?",
+   "answer": "any",
+   "explain": "So'roq gapda ko'plikdagi otlar bilan 'any' ishlatiladi.",
+   "options": [
+    "some",
+    "a",
+    "any"
+   ]
+  }
+ ],
+ "model": "gemini-3-flash-preview",
+ "tr1": [
+  {
+   "part": 0,
+   "uz": "Stolda bir nechta kitoblar bor.",
+   "en": [
+    "There are some books on the table.",
+    "There are some books on the desk."
+   ],
+   "rule": "Darak gap: There are + some + ko'plik."
+  },
+  {
+   "part": 0,
+   "uz": "Muzlatgichda bir oz pishloq bor.",
+   "en": [
+    "There is some cheese in the fridge."
+   ],
+   "rule": "Darak gap: There is + some + sanalmaydigan ot."
+  },
+  {
+   "part": 0,
+   "uz": "Xonada bir nechta kreslolar bor.",
+   "en": [
+    "There are some armchairs in the room."
+   ],
+   "rule": "Darak gap: There are + some + ko'plik."
+  },
+  {
+   "part": 0,
+   "uz": "Sumkamda bir nechta rasm bor.",
+   "en": [
+    "There are some photographs in my bag.",
+    "There are some photos in my bag."
+   ],
+   "rule": "Darak gap: There are + some + ko'plik."
+  },
+  {
+   "part": 0,
+   "uz": "Bizda bir oz choy bor.",
+   "en": [
+    "We have some tea."
+   ],
+   "rule": "Darak gap: Have + some + sanalmaydigan ot."
+  },
+  {
+   "part": 0,
+   "uz": "Devorda bir nechta posterlar bor.",
+   "en": [
+    "There are some posters on the wall."
+   ],
+   "rule": "Darak gap: There are + some + ko'plik."
+  },
+  {
+   "part": 0,
+   "uz": "Oshxonada bir nechta stakanlar bor.",
+   "en": [
+    "There are some cups in the kitchen."
+   ],
+   "rule": "Darak gap: There are + some + ko'plik."
+  },
+  {
+   "part": 0,
+   "uz": "Uning sumkasida bir oz pul bor.",
+   "en": [
+    "There is some money in her bag.",
+    "There is some money in his bag."
+   ],
+   "rule": "Darak gap: There is + some + sanalmaydigan ot."
+  },
+  {
+   "part": 0,
+   "uz": "Stol ustida bir nechta jurnallar bor.",
+   "en": [
+    "There are some magazines on the table."
+   ],
+   "rule": "Darak gap: There are + some + ko'plik."
+  },
+  {
+   "part": 0,
+   "uz": "Muzlatgichda bir oz suv bor.",
+   "en": [
+    "There is some water in the fridge."
+   ],
+   "rule": "Darak gap: There is + some + sanalmaydigan ot."
+  },
+  {
+   "part": 0,
+   "uz": "Bog'da bir nechta bolalar bor.",
+   "en": [
+    "There are some children in the park."
+   ],
+   "rule": "Darak gap: There are + some + ko'plik."
+  },
+  {
+   "part": 0,
+   "uz": "Menda bir nechta yangi gazetalar bor.",
+   "en": [
+    "I have some new newspapers."
+   ],
+   "rule": "Darak gap: Have + some + ko'plik."
+  },
+  {
+   "part": 0,
+   "uz": "Shkafda bir nechta kiyimlar bor.",
+   "en": [
+    "There are some clothes in the drawer."
+   ],
+   "rule": "Darak gap: There are + some + ko'plik."
+  },
+  {
+   "part": 0,
+   "uz": "U yerda bir nechta chiroyli uylar bor.",
+   "en": [
+    "There are some beautiful houses over there."
+   ],
+   "rule": "Darak gap: There are + some + ko'plik."
+  },
+  {
+   "part": 0,
+   "uz": "Bizning shahrimizda bir nechta banklar bor.",
+   "en": [
+    "There are some banks in our town."
+   ],
+   "rule": "Darak gap: There are + some + ko'plik."
+  },
+  {
+   "part": 0,
+   "uz": "Muzlatgichda bir oz sut bor.",
+   "en": [
+    "There is some milk in the fridge."
+   ],
+   "rule": "Darak gap: There is + some + sanalmaydigan ot."
+  },
+  {
+   "part": 0,
+   "uz": "Ushbu qutida bir nechta kalitlar bor.",
+   "en": [
+    "There are some keys in this box."
+   ],
+   "rule": "Darak gap: There are + some + ko'plik."
+  },
+  {
+   "part": 0,
+   "uz": "Mening xonamda bir nechta rasm bor.",
+   "en": [
+    "There are some pictures in my room.",
+    "There are some photographs in my room."
+   ],
+   "rule": "Darak gap: There are + some + ko'plik."
+  },
+  {
+   "part": 0,
+   "uz": "Savatda bir nechta olmalar bor.",
+   "en": [
+    "There are some apples in the basket."
+   ],
+   "rule": "Darak gap: There are + some + ko'plik."
+  },
+  {
+   "part": 0,
+   "uz": "Mehmonxonada bir nechta divanlar bor.",
+   "en": [
+    "There are some sofas in the living room."
+   ],
+   "rule": "Darak gap: There are + some + ko'plik."
+  },
+  {
+   "part": 0,
+   "uz": "Unda bir nechta qiziqarli kitoblar bor.",
+   "en": [
+    "He has some interesting books.",
+    "She has some interesting books."
+   ],
+   "rule": "Darak gap: Has + some + ko'plik."
+  },
+  {
+   "part": 0,
+   "uz": "Dasturxonda bir oz non bor.",
+   "en": [
+    "There is some bread on the table."
+   ],
+   "rule": "Darak gap: There is + some + sanalmaydigan ot."
+  },
+  {
+   "part": 0,
+   "uz": "Ushbu qishloqda bir nechta do'konlar bor.",
+   "en": [
+    "There are some shops in this village."
+   ],
+   "rule": "Darak gap: There are + some + ko'plik."
+  },
+  {
+   "part": 0,
+   "uz": "Mening sumkamda bir nechta qalamlar bor.",
+   "en": [
+    "There are some pens in my bag."
+   ],
+   "rule": "Darak gap: There are + some + ko'plik."
+  },
+  {
+   "part": 0,
+   "uz": "Bizda bir oz kofe bor.",
+   "en": [
+    "We have some coffee."
+   ],
+   "rule": "Darak gap: Have + some + sanalmaydigan ot."
+  },
+  {
+   "part": 0,
+   "uz": "Stol ostida bir nechta poyabzallar bor.",
+   "en": [
+    "There are some shoes under the table."
+   ],
+   "rule": "Darak gap: There are + some + ko'plik."
+  },
+  {
+   "part": 0,
+   "uz": "Oshxonada bir oz shokolad bor.",
+   "en": [
+    "There is some chocolate in the kitchen."
+   ],
+   "rule": "Darak gap: There is + some + sanalmaydigan ot."
+  },
+  {
+   "part": 0,
+   "uz": "U yerda bir nechta talabalar bor.",
+   "en": [
+    "There are some students over there."
+   ],
+   "rule": "Darak gap: There are + some + ko'plik."
+  },
+  {
+   "part": 0,
+   "uz": "Dushda bir oz shampun bor.",
+   "en": [
+    "There is some shampoo in the shower."
+   ],
+   "rule": "Darak gap: There is + some + sanalmaydigan ot."
+  },
+  {
+   "part": 0,
+   "uz": "Bizning bog'imizda bir nechta daraxtlar bor.",
+   "en": [
+    "There are some trees in our garden."
+   ],
+   "rule": "Darak gap: There are + some + ko'plik."
+  },
+  {
+   "part": 0,
+   "uz": "Unda bir nechta do'stlar bor.",
+   "en": [
+    "He has some friends.",
+    "She has some friends."
+   ],
+   "rule": "Darak gap: Has + some + ko'plik."
+  },
+  {
+   "part": 0,
+   "uz": "Muzlatgichda bir oz go'sht bor.",
+   "en": [
+    "There is some meat in the fridge."
+   ],
+   "rule": "Darak gap: There is + some + sanalmaydigan ot."
+  },
+  {
+   "part": 0,
+   "uz": "Uning xonasida bir nechta o'yinlar bor.",
+   "en": [
+    "There are some games in his room.",
+    "There are some games in her room."
+   ],
+   "rule": "Darak gap: There are + some + ko'plik."
+  },
+  {
+   "part": 0,
+   "uz": "Menda bir nechta xatlar bor.",
+   "en": [
+    "I have some letters."
+   ],
+   "rule": "Darak gap: Have + some + ko'plik."
+  },
+  {
+   "part": 0,
+   "uz": "Shifoxonada bir nechta shifokorlar bor.",
+   "en": [
+    "There are some doctors in the hospital."
+   ],
+   "rule": "Darak gap: There are + some + ko'plik."
+  },
+  {
+   "part": 0,
+   "uz": "Stolda bir oz sharbat bor.",
+   "en": [
+    "There is some juice on the table."
+   ],
+   "rule": "Darak gap: There is + some + sanalmaydigan ot."
+  },
+  {
+   "part": 0,
+   "uz": "U yerda bir nechta avtobuslar bor.",
+   "en": [
+    "There are some buses over there."
+   ],
+   "rule": "Darak gap: There are + some + ko'plik."
+  },
+  {
+   "part": 0,
+   "uz": "Bizda bir nechta vazifalar bor.",
+   "en": [
+    "We have some tasks.",
+    "We have some homework."
+   ],
+   "rule": "Darak gap: Have + some + ko'plik."
+  },
+  {
+   "part": 0,
+   "uz": "Maktabda bir nechta o'qituvchilar bor.",
+   "en": [
+    "There are some teachers in the school."
+   ],
+   "rule": "Darak gap: There are + some + ko'plik."
+  },
+  {
+   "part": 0,
+   "uz": "Muzlatgichda bir oz sariyog' bor.",
+   "en": [
+    "There is some butter in the fridge."
+   ],
+   "rule": "Darak gap: There is + some + sanalmaydigan ot."
+  },
+  {
+   "part": 1,
+   "uz": "Sizda hech qanday savollar bormi?",
+   "en": [
+    "Do you have any questions?",
+    "Are there any questions?"
+   ],
+   "rule": "So'roq gap: Any + ko'plik."
+  },
+  {
+   "part": 1,
+   "uz": "Xonada hech qanday stullar yo'q.",
+   "en": [
+    "There aren't any chairs in the room."
+   ],
+   "rule": "Inkor gap: There aren't + any + ko'plik."
+  },
+  {
+   "part": 1,
+   "uz": "Muzlatgichda hech qanday tuxum bormi?",
+   "en": [
+    "Are there any eggs in the fridge?"
+   ],
+   "rule": "So'roq gap: Are there + any + ko'plik?"
+  },
+  {
+   "part": 1,
+   "uz": "Mening sumkamda hech qanday pul yo'q.",
+   "en": [
+    "There isn't any money in my bag."
+   ],
+   "rule": "Inkor gap: There isn't + any + sanalmaydigan ot."
+  },
+  {
+   "part": 1,
+   "uz": "Stol ustida hech qanday kitoblar bormi?",
+   "en": [
+    "Are there any books on the table?",
+    "Are there any books on the desk?"
+   ],
+   "rule": "So'roq gap: Are there + any + ko'plik?"
+  },
+  {
+   "part": 1,
+   "uz": "Bizda hech qanday chiptalar yo'q.",
+   "en": [
+    "We don't have any tickets."
+   ],
+   "rule": "Inkor gap: Don't have + any + ko'plik."
+  },
+  {
+   "part": 1,
+   "uz": "Oshxonada hech qanday pichoqlar bormi?",
+   "en": [
+    "Are there any knives in the kitchen?"
+   ],
+   "rule": "So'roq gap: Are there + any + ko'plik?"
+  },
+  {
+   "part": 1,
+   "uz": "Bu yerda hech qanday do'konlar yo'q.",
+   "en": [
+    "There aren't any shops here."
+   ],
+   "rule": "Inkor gap: There aren't + any + ko'plik."
+  },
+  {
+   "part": 1,
+   "uz": "Sizda hech qanday lug'at bormi?",
+   "en": [
+    "Do you have any dictionaries?",
+    "Is there any dictionary?"
+   ],
+   "rule": "So'roq gap: Any + ko'plik / birlik."
+  },
+  {
+   "part": 1,
+   "uz": "Uning xonasida hech qanday derazalar yo'q.",
+   "en": [
+    "There aren't any windows in his room.",
+    "There aren't any windows in her room."
+   ],
+   "rule": "Inkor gap: There aren't + any + ko'plik."
+  }
+ ],
+ "tr51": [
+  {
+   "part": 1,
+   "uz": "Oshxonada stullar bormi?",
+   "en": [
+    "Are there any chairs in the kitchen?"
+   ],
+   "rule": "So'roq gapda ko'plikdagi otlar bilan any ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Sumkamda hech qanday qalam yo'q.",
+   "en": [
+    "There aren't any pens in my bag."
+   ],
+   "rule": "Inkor gapda ko'plikdagi otlar bilan any ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu yerda suratlar bormi?",
+   "en": [
+    "Are there any photographs here?",
+    "Are there any photos here?"
+   ],
+   "rule": "So'roq gapda ko'plikdagi otlar bilan any ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bizda qahva yo'q.",
+   "en": [
+    "We don't have any coffee."
+   ],
+   "rule": "Inkor gapda sanalmaydigan otlar bilan any ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Stol ustida kitoblar bormi?",
+   "en": [
+    "Are there any books on the table?",
+    "Are there any books on the desk?"
+   ],
+   "rule": "So'roq gap: Are there + any + ko'plikdagi ot."
+  },
+  {
+   "part": 1,
+   "uz": "Xonada hech qanday bolalar yo'q.",
+   "en": [
+    "There aren't any children in the room."
+   ],
+   "rule": "Inkor gap: There aren't + any + ko'plikdagi ot."
+  },
+  {
+   "part": 1,
+   "uz": "Sizda lug'atlar bormi?",
+   "en": [
+    "Do you have any dictionaries?"
+   ],
+   "rule": "Present Simple so'roq gapda any ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Supermarketda olmalar yo'q.",
+   "en": [
+    "There aren't any apples in the supermarket."
+   ],
+   "rule": "Inkor gapda ko'plikdagi otlar bilan any ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Stol ustida jurnallar bormi?",
+   "en": [
+    "Are there any magazines on the desk?",
+    "Are there any magazines on the table?"
+   ],
+   "rule": "So'roq gapda ko'plikdagi otlar bilan any ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Menda otkritkalar yo'q.",
+   "en": [
+    "I don't have any postcards."
+   ],
+   "rule": "Inkor gap: don't have + any + ko'plikdagi ot."
+  },
+  {
+   "part": 1,
+   "uz": "Shaharda parklar bormi?",
+   "en": [
+    "Are there any parks in the town?"
+   ],
+   "rule": "So'roq gapda ko'plikdagi otlar bilan any ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Oshxonada stakanlar yo'q.",
+   "en": [
+    "There aren't any cups in the kitchen."
+   ],
+   "rule": "Inkor gapda ko'plikdagi otlar bilan any ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Sizda savollar bormi?",
+   "en": [
+    "Do you have any questions?"
+   ],
+   "rule": "So'roq gapda ko'plikdagi otlar bilan any ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Muzlatgichda tuxumlar yo'q.",
+   "en": [
+    "There aren't any eggs in the fridge."
+   ],
+   "rule": "Inkor gapda ko'plikdagi otlar bilan any ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Xonada stullar bormi?",
+   "en": [
+    "Are there any chairs in the room?"
+   ],
+   "rule": "So'roq gap: Are there + any + ko'plikdagi ot."
+  },
+  {
+   "part": 1,
+   "uz": "Bizning shahrimizda teatrlar yo'q.",
+   "en": [
+    "There aren't any theatres in our town."
+   ],
+   "rule": "Inkor gapda ko'plikdagi otlar bilan any ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Sizda yangi gazetalar bormi?",
+   "en": [
+    "Do you have any new newspapers?"
+   ],
+   "rule": "So'roq gapda any ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Stol ustida ruchkalar yo'q.",
+   "en": [
+    "There aren't any pens on the desk."
+   ],
+   "rule": "Inkor gap: There aren't + any + ko'plikdagi ot."
+  },
+  {
+   "part": 1,
+   "uz": "Ko'chada avtobuslar bormi?",
+   "en": [
+    "Are there any buses in the street?"
+   ],
+   "rule": "So'roq gapda ko'plikdagi otlar bilan any ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Menda hech qanday pul yo'q.",
+   "en": [
+    "I don't have any money."
+   ],
+   "rule": "Inkor gapda sanalmaydigan otlar bilan any ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Mushuk karavot tagida.",
+   "en": [
+    "The cat is under the bed."
+   ],
+   "rule": "Tagida: under predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Kitob sumkaning ichida.",
+   "en": [
+    "The book is in the bag."
+   ],
+   "rule": "Ichida: in predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Kompyuter stolning ustida.",
+   "en": [
+    "The computer is on the desk.",
+    "The computer is on the table."
+   ],
+   "rule": "Ustida: on predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Shifoxona maktabning yonida.",
+   "en": [
+    "The hospital is next to the school."
+   ],
+   "rule": "Yonma-yon: next to predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Gazeta divan ustida.",
+   "en": [
+    "The newspaper is on the sofa."
+   ],
+   "rule": "Ustida: on predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Kalitlar g'aladon ichida.",
+   "en": [
+    "The keys are in the drawer."
+   ],
+   "rule": "Ichida: in predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Avtobus bekati bank yaqinida.",
+   "en": [
+    "The bus station is near the bank."
+   ],
+   "rule": "Yaqinida: near predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Surat devorda.",
+   "en": [
+    "The photograph is on the wall.",
+    "The photo is on the wall."
+   ],
+   "rule": "Devorda (ustida): on predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Telefon sumka ichida.",
+   "en": [
+    "The phone is in the bag."
+   ],
+   "rule": "Ichida: in predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Chiroq karavot yonida.",
+   "en": [
+    "The lamp is next to the bed."
+   ],
+   "rule": "Yonma-yon: next to predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Mashina uyning yaqinida.",
+   "en": [
+    "The car is near the house."
+   ],
+   "rule": "Yaqinida: near predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Kinoteatr supermarket qarshisida.",
+   "en": [
+    "The cinema is opposite the supermarket."
+   ],
+   "rule": "Qarshisida: opposite predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Kitoblar stol tagida.",
+   "en": [
+    "The books are under the table.",
+    "The books are under the desk."
+   ],
+   "rule": "Tagida: under predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Bizning uyimiz park yaqinida.",
+   "en": [
+    "Our house is near the park."
+   ],
+   "rule": "Yaqinida: near predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Stakan televizor yonida.",
+   "en": [
+    "The cup is next to the TV.",
+    "The cup is next to the television."
+   ],
+   "rule": "Yonma-yon: next to predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Ruchka kitobning ustida.",
+   "en": [
+    "The pen is on the book."
+   ],
+   "rule": "Ustida: on predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Bolalar bog'da.",
+   "en": [
+    "The children are in the park."
+   ],
+   "rule": "Ichida (hududda): in predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Poyabzallar eshik yonida.",
+   "en": [
+    "The shoes are next to the door."
+   ],
+   "rule": "Yonma-yon: next to predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Lug'at sumkamning ichida.",
+   "en": [
+    "The dictionary is in my bag."
+   ],
+   "rule": "Ichida: in predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Xarita devorda.",
+   "en": [
+    "The map is on the wall."
+   ],
+   "rule": "Devorda (ustida): on predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Kafe bankning qarshisida.",
+   "en": [
+    "The cafe is opposite the bank."
+   ],
+   "rule": "Qarshisida: opposite predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Sumka stulning tagida.",
+   "en": [
+    "The bag is under the chair."
+   ],
+   "rule": "Tagida: under predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Olmalar muzlatgichning ichida.",
+   "en": [
+    "The apples are in the fridge."
+   ],
+   "rule": "Ichida: in predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Mehmonxona dengiz yaqinida.",
+   "en": [
+    "The hotel is near the sea."
+   ],
+   "rule": "Yaqinida: near predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Televizor stolning ustida.",
+   "en": [
+    "The TV is on the table.",
+    "The television is on the table."
+   ],
+   "rule": "Ustida: on predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Mushuk divan tagida.",
+   "en": [
+    "The cat is under the sofa."
+   ],
+   "rule": "Tagida: under predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Avtobus bekati kinoteatr yonida.",
+   "en": [
+    "The bus station is next to the cinema."
+   ],
+   "rule": "Yonma-yon: next to predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Jurnal karavot ustida.",
+   "en": [
+    "The magazine is on the bed."
+   ],
+   "rule": "Ustida: on predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Maktab cherkov yaqinida.",
+   "en": [
+    "The school is near the church."
+   ],
+   "rule": "Yaqinida: near predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Kalitlar stol ustida.",
+   "en": [
+    "The keys are on the desk.",
+    "The keys are on the table."
+   ],
+   "rule": "Ustida: on predlogi ishlatiladi."
+  }
+ ]
+}

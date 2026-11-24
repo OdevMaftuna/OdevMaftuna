@@ -1,0 +1,37 @@
+﻿89`t27`t95`tpart 4
+153`t33`t124`tExercise 34
+100`t21`t952`t101
+208`t30`t124`tyou will hear someone giving a talk. Label the places (1-5) on the map
+245`t30`t121`t(Ad). There are FIVE extra options which you do not need to use.
+469`t21`t182`tF
+327`t22`t381`tB
+466`t28`t260`tLobby West
+331`t27`t497`tExit
+477`t23`t497`tClock
+337`t21`t643`tc
+621`t20`t641`tJ
+630`t22`t460`tfrom baggage
+655`t16`t505`tclaim
+694`t22`t374`t2. The Coffee House
+731`t27`t374`t5. quiet lounge
+308`t14`t774`tTo car
+325`t16`t774`tpark
+478`t27`t688`tLobby East
+618`t24`t688`thotei
+699`t22`t741`t3. cash machines
+693`t26`t117`t1. luggage lockers
+730`t27`t116`t4. art gallery
+807`t25`t117`tExercise 35
+860`t27`t116`tYou will hear someone giving a talk. Label the places (1-5) on the map
+898`t27`t114`t(A-G). There are TWO extra options which you do not need to use.
+1036`t21`t580`tsail
+1074`t20`t390`tALVIN
+1302`t13`t763`trear
+1430`t22`t699`t3. hatch
+1430`t26`t110`t1. pressure sphere
+1468`t23`t109`t4. current meter
+1399`t18`t520`tc
+1437`t21`t431`t2. camera
+1469`t22`t431`t5. rotation thruster
+1539`t25`t536`tDorajangizni aniqlash uchun: mytests.uz
+1662`t9`t1005`tScanned With

@@ -1,0 +1,556 @@
+{
+ "code": "PC69",
+ "course": "Pre-Intermediate",
+ "kind": "level",
+ "unit": null,
+ "price": 80000,
+ "sort": 102,
+ "title": "Units 6–9 Test",
+ "subtitle": "Cumulative · Units 6–9 · grammar, vocabulary, use of English, reading",
+ "sections": [
+  {
+   "title": "A. Complete the sentences. Use the correct form of the verbs in brackets.",
+   "items": [
+    {
+     "t": "text",
+     "q": "I ______ (never / be) to London, but I’d love to go.",
+     "a": [
+      "have never been",
+      "'ve never been"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "After Nodir ______ (finish) his homework, he played football.",
+     "a": [
+      "had finished",
+      "'d finished"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "This bridge ______ (build) in 1965.",
+     "a": [
+      "was built"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "If I ______ (have) more time, I would learn Japanese.",
+     "a": [
+      "had"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Timur ______ (visit) Istanbul last year and loved it.",
+     "a": [
+      "visited"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "She said that she ______ (be) tired.",
+     "a": [
+      "was"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "We ______ (live) in this flat since 2018.",
+     "a": [
+      "have lived",
+      "'ve lived"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Paper ______ (make) from wood.",
+     "a": [
+      "is made"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "He told me he ______ (lose) his keys the day before.",
+     "a": [
+      "had lost"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "If everyone ______ (recycle), the planet would be cleaner.",
+     "a": [
+      "recycled"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "B. Complete the second sentence so that it means the same as the first. Use 1–3 words.",
+   "items": [
+    {
+     "t": "text",
+     "q": "Someone stole my bike. → My bike ______ stolen.",
+     "a": [
+      "was"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "‘I am hungry,’ said Ali. → Ali said that ______ hungry.",
+     "a": [
+      "he was"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I don’t have a car, so I can’t drive to work. → If I ______ a car, I could drive to work.",
+     "a": [
+      "had"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I started learning English three years ago. → I ______ English for three years.",
+     "a": [
+      "have learned",
+      "have learnt",
+      "'ve learned",
+      "'ve learnt",
+      "have been learning"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "They will open a new museum next year. → A new museum ______ next year.",
+     "a": [
+      "will be opened"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "‘We can’t come,’ they said. → They said that they ______ come.",
+     "a": [
+      "couldn't",
+      "could not"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "First I did my homework. Then I watched TV. → After I ______ my homework, I watched TV.",
+     "a": [
+      "had done"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Is this your first visit to Bukhara? → ______ you been to Bukhara before?",
+     "a": [
+      "Have"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I’m not tall, so I can’t reach the shelf. → If I ______ taller, I could reach the shelf.",
+     "a": [
+      "were",
+      "was"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "People speak French in Canada. → French ______ in Canada.",
+     "a": [
+      "is spoken"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "C. Choose the correct words.",
+   "items": [
+    {
+     "t": "mc",
+     "q": "We visited a beautiful ___ where the king used to live.",
+     "o": [
+      "palace",
+      "harbour"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "The museum was so ___ that we couldn’t see the paintings.",
+     "o": [
+      "crowded",
+      "deserted"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Can I pay by ___ card?",
+     "o": [
+      "credit",
+      "cash"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "The ___ broke into the house at night and stole a TV.",
+     "o": [
+      "burglar",
+      "shoplifter"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Most bottles are made of ___.",
+     "o": [
+      "glass",
+      "cotton"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "My phone has run out of battery. Where’s my ___?",
+     "o": [
+      "charger",
+      "headphones"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "The police found the thief’s ___ on the window.",
+     "o": [
+      "fingerprints",
+      "footprints"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "I can’t afford this jacket — it’s a ___ expensive.",
+     "o": [
+      "bit too",
+      "too much"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "title": "D. Complete the compound nouns with the words in the box. There is one extra word.",
+   "box": [
+    "code",
+    "glasses",
+    "investigation",
+    "pack",
+    "prints",
+    "site",
+    "car"
+   ],
+   "items": [
+    {
+     "t": "text",
+     "q": "The message was written in a secret ______.",
+     "a": [
+      "code"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "It’s very sunny — take your sun______.",
+     "a": [
+      "glasses"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The police have started a murder ______.",
+     "a": [
+      "investigation"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Put your water bottle in your back______.",
+     "a": [
+      "pack"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The detective found finger______ on the glass.",
+     "a": [
+      "prints"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I booked the hotel on a travel web______.",
+     "a": [
+      "site"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "E. Complete the sentences with the correct form of the verbs in brackets (to + verb or -ing).",
+   "items": [
+    {
+     "t": "text",
+     "q": "She offered ______ (help) me with my homework.",
+     "a": [
+      "to help"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I don’t mind ______ (go) by train.",
+     "a": [
+      "going"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "He forgot ______ (lock) the door.",
+     "a": [
+      "to lock"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "We’re thinking of ______ (visit) Khiva in May.",
+     "a": [
+      "visiting"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "They decided ______ (buy) a new car.",
+     "a": [
+      "to buy"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I’m looking forward to ______ (see) you.",
+     "a": [
+      "seeing"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "F. Complete the dialogue with the words in the box.",
+   "box": [
+    "agree",
+    "extent",
+    "Furthermore",
+    "more",
+    "opinion",
+    "say",
+    "sure",
+    "think",
+    "true",
+    "What"
+   ],
+   "items": [
+    {
+     "t": "text",
+     "q": "Dilnoza: Do you think prisons help criminals change? — Rustam: I don’t ______ so.",
+     "a": [
+      "think"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Rustam: In my ______, education works better.",
+     "a": [
+      "opinion"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Dilnoza: I’m not ______ really. Some people need to be punished.",
+     "a": [
+      "sure"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Rustam: I ______ to some extent.",
+     "a": [
+      "agree"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Rustam: …to some ______, but not completely.",
+     "a": [
+      "extent"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Dilnoza: I suppose it’s ______ to say that prisons are expensive.",
+     "a": [
+      "true"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Rustam: ______, they don’t always work.",
+     "a": [
+      "Furthermore"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Dilnoza: What is ______, many people commit crimes again.",
+     "a": [
+      "more"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Rustam: ______ a shame! We need better ideas.",
+     "a": [
+      "What"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Dilnoza: I wouldn’t ______ that it’s hopeless, though.",
+     "a": [
+      "say"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Listening. Listen to a museum guide talking to visitors. Choose the correct answers.",
+   "audio": "preint/PC69.mp3",
+   "script": "Welcome to the Museum of Inventions. Before we start, a few rules: please don't touch the exhibits, and photos are allowed, but without flash.\nOur tour takes about an hour. We'll begin in the Hall of Materials, where you'll see how glass and paper were made hundreds of years ago. Then we'll move on to the Gadget Room. Many visitors say it's their favourite part, because you can try some of the old telephones and radios.\nLast year something unusual happened here. A small statue was stolen from the entrance. The police found it three weeks later in a local market — the thief had tried to sell it for just ten dollars!\nAt the end of the tour, you can visit our gift shop. And if you show your ticket, you'll get a ten per cent discount on everything.",
+   "items": [
+    {
+     "t": "mc",
+     "q": "What are visitors NOT allowed to do?",
+     "o": [
+      "Take photos",
+      "Touch the exhibits",
+      "Visit the shop"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "How long does the tour take?",
+     "o": [
+      "About an hour",
+      "About two hours",
+      "Thirty minutes"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Why do many visitors like the Gadget Room?",
+     "o": [
+      "It's the biggest room.",
+      "They can try old gadgets.",
+      "It has a café."
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "Where did the police find the stolen statue?",
+     "o": [
+      "At the airport",
+      "In a local market",
+      "In the thief's house"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "What do you get if you show your ticket in the shop?",
+     "o": [
+      "A free gift",
+      "A 10% discount",
+      "A free coffee"
+     ],
+     "a": 1
+    }
+   ]
+  },
+  {
+   "title": "G. Read the posts. Who says each sentence? Choose the person.",
+   "passage": "Nilufar: Last year I travelled to Japan. Everything was so clean, and the trains were never late. I bought too many souvenirs and had to buy a new suitcase!\n\nDoniyor: I’m studying engineering. My dream is to invent a robot that sorts plastic for recycling. I’ve already built a small model.\n\nGulnora: Someone stole my phone on the bus last month. The police found it two weeks later because the thief had tried to sell it online.\n\nOtabek: I think shopping online is better than going to shops. It’s cheaper, and I can compare prices. But I once ordered shoes that were two sizes too small!",
+   "items": [
+    {
+     "t": "mc",
+     "q": "Who had a problem with something they bought?",
+     "o": [
+      "Nilufar",
+      "Doniyor",
+      "Gulnora",
+      "Otabek"
+     ],
+     "a": 3
+    },
+    {
+     "t": "mc",
+     "q": "Who wants to help the environment?",
+     "o": [
+      "Nilufar",
+      "Doniyor",
+      "Gulnora",
+      "Otabek"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "Who was a victim of a crime?",
+     "o": [
+      "Nilufar",
+      "Doniyor",
+      "Gulnora",
+      "Otabek"
+     ],
+     "a": 2
+    },
+    {
+     "t": "mc",
+     "q": "Who spent too much money on a trip?",
+     "o": [
+      "Nilufar",
+      "Doniyor",
+      "Gulnora",
+      "Otabek"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Who explains the advantages of something?",
+     "o": [
+      "Nilufar",
+      "Doniyor",
+      "Gulnora",
+      "Otabek"
+     ],
+     "a": 3
+    }
+   ]
+  }
+ ]
+}

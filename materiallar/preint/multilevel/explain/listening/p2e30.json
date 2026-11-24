@@ -1,0 +1,35 @@
+{
+ "script": "Narrator: You will hear a tour guide talking to a group of people. Sally: Good afternoon. My name is Sally and I will be your tour guide on tomorrow's excursion to Brighton. It's going to be a very full day with many things to see and do. The coach will be outside the Town Hall at 8 o'clock. Please make sure you are on time and ready to board the coach when it arrives, as it is a busy road and the driver can't stop for long. We will be in Brighton at 10 o'clock and you'll be dropped off at the Pool Valley coach station, which is very close to the seafront. We'll start our guided walking tour at 10:15 and we'll have a leisurely wander around the famous Brighton Lanes for half an hour. The Lanes are the original part of Brighton. They used to be narrow streets lined with fishermen's cottages, but now they are more famous for boutiques and jewelers. At 11:00, we'll go to the Royal Pavilion, which was once a royal palace. You'll probably all fancy a quick drink before the tour at 11:30. You can either sit inside the Palace Cafe or sit outside at the Pavilion Gardens Cafe. Lunch will be at 12:45 till 2:00 at the local Italian restaurant. There is a set menu on offer for us tomorrow. The two-course meal costs only £8.95. The afternoon will be busy with a trip to the Brighton Museum and Art Gallery. This has recently been refurbished and it's worth a visit. From 3:00 to 5:00 in the afternoon, you are free to explore Brighton seafront. Particularly worth visiting are the artists' studios on the beach, the Aquarium, the i360 tower where visitors can admire views across Brighton and the south coast, and of course, Brighton Pier. Finally, to round off the day, we will be going for cream tea at the Grand Hotel. Then it's a five-minute walk to the coach station for a 6:00 p.m. departure. Are there any questions?",
+ "items": [
+  {
+   "n": 1,
+   "quote": "The coach will be outside the Town Hall at 8 o'clock.",
+   "uz": "Avtobus \"Town Hall\" (shahar hokimiyati) binosi oldida to'xtashi aytilgan. Gapda \"Town\" so'zidan keyin aynan \"Hall\" so'zi tushib qolgan."
+  },
+  {
+   "n": 2,
+   "quote": "They used to be narrow streets lined with fishermen's cottages",
+   "uz": "Brighton Lanes ilgari baliqchilar uylari joylashgan tor ko'chalar (narrow streets) bo'lganligi ta'kidlangan."
+  },
+  {
+   "n": 3,
+   "quote": "You can either sit inside the Palace Cafe",
+   "uz": "Kofe tanaffusi vaqtida \"Palace Cafe\" ichida o'tirish mumkinligi aytilgan. \"Palace\" so'zidan keyin \"Cafe\" so'zi kelishi mantiqan to'g'ri."
+  },
+  {
+   "n": 4,
+   "quote": "The two-course meal costs only £8.95.",
+   "uz": "Ikki xil taomdan iborat tushlik narxi 8.95 funt ekanligi aniq aytilgan. Boshqa raqamlar (masalan, vaqtlar) bilan adashtirmaslik kerak."
+  },
+  {
+   "n": 5,
+   "quote": "Particularly worth visiting are the artists' studios on the beach",
+   "uz": "Sohil bo'yidagi rassomlar studiyalari (artists' studios) ko'rishga arziydigan joylar qatorida sanab o'tilgan."
+  },
+  {
+   "n": 6,
+   "quote": "we will be going for cream tea at the Grand Hotel.",
+   "uz": "Kun oxirida \"Grand Hotel\"da \"cream tea\" (qaymoqli choy) berilishi aytilgan. Bu an'anaviy inglizcha tushunchadir."
+  }
+ ]
+}

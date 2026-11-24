@@ -1,0 +1,35 @@
+{
+ "script": "Student: Well, London has many surprises waiting to be discovered. So imagine my surprise when I discovered the amazing Chiswick Park in West London, hidden amongst the houses, right next to the main station. In fact, just where you would not expect to find a beautiful park with a restaurant and an example of amazing architecture. Chiswick House was built in 1729. It was designed by its owner, Lord Burlington. The interior of the building is important, not only because of its beauty, but because there are important paintings and furniture in it. You can join group tours of Chiswick House, which take place every weekend. They last an hour and cost 18 pounds per person. There are also family tickets that cost 38 pounds. I went on one of these tours and I can tell you it was well worth every penny. Now, if being outside is more your thing, Chiswick Park, the huge garden which the house was built in, will inspire you. You can go on a garden tour with a guide. You will see the greenhouses filled with flowers and beautiful gardens full of whatever flowers are in season. There is also a flower shop where you can buy plants and souvenirs. The garden tour is 6 pounds per person or 50 for a group of 10. It takes an hour and a half, after which you will be ready for a meal or a coffee at the restaurant. There is a wide selection of cakes and snacks from as little as 2 pounds for coffee and a piece of cake. Oh, and if you're in London from the 7th of June, there is a music week. You can sit on the grass and listen to music from 6 in the afternoon to 10 every evening. The music week ends on the 13th of June with an amazing teenagers' song competition.",
+ "items": [
+  {
+   "n": 1,
+   "quote": "amazing Chiswick Park in West London",
+   "uz": "Chiswick Parki Londonning g'arbiy qismida (West London) joylashganligi aytiladi."
+  },
+  {
+   "n": 2,
+   "quote": "important paintings and furniture in it",
+   "uz": "Binoning ichida muhim rasmlar (paintings) va mebellar (furniture) borligi ta'kidlanadi."
+  },
+  {
+   "n": 3,
+   "quote": "cost 18 pounds per person",
+   "uz": "Bir kishi uchun (per person) uy bo'ylab sayohat chiptasi 18 funt turadi. Oilaviy chipta narxi (38 funt) bilan adashtirmaslik kerak."
+  },
+  {
+   "n": 4,
+   "quote": "flower shop where you can buy plants and souvenirs",
+   "uz": "Gul do'konida o'simliklar (plants) va esdalik sovg'alari (souvenirs) sotib olish mumkin."
+  },
+  {
+   "n": 5,
+   "quote": "50 for a group of 10",
+   "uz": "Bog' bo'ylab 10 kishilik guruh uchun chipta narxi 50 funtni tashkil etadi. Bir kishilik narx (6 funt) bilan adashtirmang."
+  },
+  {
+   "n": 6,
+   "quote": "from the 7th of June, there is a music week",
+   "uz": "Musiqa haftaligi 7-iyundan (7th June) boshlanadi. 13-iyun bu haftalikning tugash sanasidir."
+  }
+ ]
+}

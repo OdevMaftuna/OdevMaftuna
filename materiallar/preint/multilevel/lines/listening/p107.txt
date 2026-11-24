@@ -1,0 +1,17 @@
+﻿112`t20`t182`t108
+183`t25`t221`tExercise 48
+97`t37`t775`tMultilevel Master listening
+232`t28`t224`tYou will heor someone giving a talk. Label the places (1-5) on the map
+271`t27`t224`t(A-H). There are THREE extra options which you do not need to use
+387`t18`t537`tbow
+444`t20`t554`tD
+547`t14`t554`tarrow
+438`t20`t671`tc
+487`t16`t786`tarrow
+939`t26`t241`t1. sight 2. shaft 3. fletching 4. quiver 5. bracer
+1020`t24`t242`tExercise 49
+1080`t27`t242`tYou will hear someone giving a talk. Label the places (1-5) on the map
+1116`t25`t241`t(A-G). There are TWO extra options which you do not need to use
+1205`t18`t502`tc
+1473`t26`t239`t1. mouthpiece 2. valves 3. finger button 4. bell 5. water key
+1653`t9`t1022`tScanned With

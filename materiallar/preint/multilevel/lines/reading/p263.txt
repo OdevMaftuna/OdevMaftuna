@@ -1,0 +1,31 @@
+﻿56`t16`t116`t262
+62`t19`t590`tMultilevel Moster reading
+177`t39`t376`tPART 4
+255`t23`t144`tMulitilevel testining 4-qismida CEFR baholash tizimining B2 qiyinchilik
+283`t22`t116`tdarajasidagi matn beriladi va bu main asosida ikki xil turdagi savol beri-
+312`t21`t116`tladi — 1. rnuqobil javobli test topshiriqlari (savol va 4 ta javob varianti) va
+341`t21`t116`t2.to'g'ri/ noto'gtri/ berilmagan (Trues False. No information).
+411`t24`t275`t1. Muqobil javobii test topshirig'i
+453`t23`t143`tBu turdagi savollarda bizga berilgan savolning to'g•ri javobini savol os-
+482`t21`t115`ttida kelgan to'ftta javob variantlari orasidan tanlashimiz kerak. Bunda biz
+510`t22`t114`tdastlab savolni yaxshi tushunib, keyin matndan shu savoi olingan qismni
+539`t21`t114`ttezda topib yaashilab O'qishimiz kerak.
+567`t23`t143`tKeyin esa testda berilgan variantlarni birma-bir o"qib, torri javobni to-
+596`t23`t116`tPishga harakat qilishimiz kerak. Bundagi eng muhim jihat, xato javoblarni
+624`t21`t114`tham tushunib, ularning nimaga to'g' ri javob bc' Ia olmasliklarini anglash imi?
+653`t21`t114`tkerak. XatO javoblar odatda matnd2 berilgan soazlar orqali ifodalanadir
+681`t23`t114`ttorri javob esa matndagi so'zlarning sinonimtari orqali tasvirlanadi. De-
+711`t21`t114`tmak. biz matndagi so'zlarni javob variantlarida ko'rsak, buni torri javob
+740`t22`t113`tsitatida tanlashga shoshilmasligimiz kerak.
+810`t21`t284`t2. True/ False/ No information
+852`t21`t141`tBu turdagi topshiriqda savolda berilgan gap mazmuni matndagi ma'lu-
+881`t21`t114`tmot bilan taqqoslanadi.
+909`t21`t141`tTrue Agar savoldagi gap va matndagi ma'lumot hir xil ma'noni bildirsa,
+938`t21`t114`tbu to•g'ri — True deb olinadi.
+966`t21`t141`tMasalan, savolda "Kitab qimmat.'degan gap berilgan€ Matnda esa, Bu
+996`t23`t114`tkitobni sotib Olishga faqat boylarning qurbi yetadi.' degan ma'lumot kel-
+1025`t22`t113`ttirilgan. Bunda har ikkala joydagi ma'no bir-biriga keladi. Savoldagi
+1053`t21`t113`tma'lumot matnda togri berilgan deb xulosa qiEamiz.
+1092`t22`t140`tFalse Agar savoldagi gap va matndagi ma'lumot bir-biriga zid ma'no-
+1121`t21`t113`tga ega bollsa, yoki matndagi ma'lumotga ko•raj savoldagi gap xatO bo'lsa,
+1149`t23`t113`tFalse javobini belgilashimiz kerak bolladi.

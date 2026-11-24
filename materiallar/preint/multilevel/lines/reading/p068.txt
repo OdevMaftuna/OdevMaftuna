@@ -1,0 +1,34 @@
+﻿68`t16`t80`tPort 2
+183`t40`t344`tPART 2
+246`t23`t365`tE'LONLAR
+66`t17`t750`t67
+294`t21`t110`tMultilevel testi "Reading" bo'limining ikkinchi qismida qisqa e'lonlarni
+324`t21`t83`tO'qib tushunib. ularga torri keladigan ma'lumotlarni topish so'raladi.
+352`t18`t83`tTestda 8 ta e'lon beriladi. Bu e'lonlar odatda bir mavzu doirasida bo'ladi.
+380`t21`t84`tMasalan, hamma e'lcnlar til kurslari, mehmonxonalar yoki parklar haqida
+408`t21`t84`tbo'lishi mumkin. E'lcnlar 8 ta bolladi, javob variantlari esa 10 ta. Har bir
+437`t21`t84`telonga bittadan gap torri keladi, 2 ta gap ortiqcha bollib, hech bir
+468`t23`t85`te'longa torri kelmaydL
+494`t23`t113`tBundoy turigo qanday yondashishimiz kercjk?
+522`t21`t113`tDastlab tezda A-J harflar ostida berilgan IO ta javob variantlarini tez-
+551`t21`t86`tda o'qib chiqib, kalit sotzlarning tagiga chizib chiqishimiz kerak. Mana shu
+579`t22`t86`tkalit so'zlarning sinonimlari eilonlar ichida berilgan bo'libr buiar bizga tog ri
+611`t23`t84`tjavobni topishimizga yordam beradi.
+636`t22`t114`tKeyin esa, e'lonlarni bir chekkadan o'qib, undagi eng rnuhim rna'lumot-
+665`t21`t87`tlami aniqlaymizw Keyin har bir e'longa qaysi javob to'g'rl kelishinj olylab
+692`t22`t87`tko'ramiz. A-J javob variantlaridagi kant sc/zlarga qarab chiqib, eng to"g'ri
+726`t23`t86`tjavobni tanlaymiz.
+750`t22`t116`tKeling, rasmiy manbada berilgan savollarga to'g'ri javoblarni topishni
+785`t19`t89`tko'rib chiqamlz.
+824`t16`t115`tSavel:
+863`t18`t116`tRead the texts 7-74 and the statements A-I Decide which text matches
+894`t18`t89`tWith the situation described in the statements,
+920`t21`t116`tEach statement can be used ONCE only. There ore TWO extra state-
+953`t17`t89`tments that you do not need to use.
+980`t17`t116`tMark your answers on the answer sheet.
+1037`t21`t117`tA) You need to learn the language for your job.
+1064`t19`t119`tB) you would like to continue your studies in another countryw
+1090`t21`t117`tC) You want to learn the language and do interesting things in your free
+1127`t16`t144`t'time.
+1151`t22`t119`tD) You want to learn the language in London.
+1193`t19`t630`tocht;n: mytestsuz

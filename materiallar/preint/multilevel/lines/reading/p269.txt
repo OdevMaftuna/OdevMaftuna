@@ -1,0 +1,37 @@
+﻿65`t15`t110`t268
+68`t16`t584`tMultilevel Master read
+119`t21`t137`t6, The number of pages was estimated tc set exact price.
+147`t23`t137`tMarkalar jo'natish narxini hisoblashda yuborilayotgan narsaning bet*
+176`t22`t110`tlar soni hisobga olinadi.
+204`t23`t137`tMatndagi quyidagi gapda bu haqida ma'lumot berilgan.
+233`t18`t137`tBecause the fee was calculated on how many sheets were written and
+261`t18`t110`tthe distance travelled.
+290`t23`t135`tXat yuborish nocxini hisoblogondo varaglar soni vo josnatilodjgan maso-
+318`t23`t110`tfa hisobgo olinadi.
+348`t21`t137`tDemaki yuborish narxini hisoblaganda xatning nechta bet ekanligi
+375`t19`t110`tnarxga ta'sir qiladi.
+404`t22`t137`tBu savolda berilgan mallurnot matndagi mailumotga mos keliShini
+432`t18`t110`tbildiradi.
+461`t21`t135`tTorri javob: A (True)
+506`t21`t134`t7. Stamps made a great contribution to the development of the 'JK.
+534`t21`t137`tMarkalar Birlashgan Qirollikning rivojlanishiga kafta hissa qo•shdi.
+564`t21`t137`tUchinchi paragraf oxirida quyidagi gapda shu haqida aytilgan.
+591`t21`t137`tThen economic growth increased as people started to use stamps to
+621`t17`t108`tinvest their hard-earned money.
+649`t22`t135`tKeyin iqtisodiy o'sish ortdi, chunki Odamfor O'zlariniog mehnot bilan
+678`t21`t110`ttopgon pu/}orini investitsiya qilish uchun marka/ardon foydalonishni bosh-
+707`t18`t108`tladilar,
+735`t21`t137`tDemak, markalar tufayli iqtisodiyot rivojlangan ekan. Bu degani, marn-
+764`t21`t110`tlakat rivojiga katta hissa qc'shilgan.
+792`t21`t135`tSavol va matndagi ma'lumot bir-biriga mos keladi„
+821`t22`t135`tTorg'ri javob: A (True)
+865`t22`t135`t8. Italian stamps Often pictured Christopher Columbus's ships
+894`t22`t137`tItaliya markalarida ko'pincha Kristofer Kolumbning kemalari tasvirlan-
+927`t17`t108`tgam
+951`t21`t135`tToertinchi paragrafning oxirda Kolumb haqida gap ketadi.
+1008`t19`t137`tThe second is the Italian-born explorer Christopher Columbus al-
+1038`t21`t108`tthough they tend to picture his ships, or places named after him, rather
+1067`t20`t108`tthan an actual portrait of the man.
+1094`t21`t135`tMarkoiardagi ikkinchi inson "toliyoda tug'ilib o'sgon Kristofer Kolomb
+1123`t22`t108`tgarchi rasmlarda uning kemalari yoki uning nomiga qo'yilgan joy/ar joy ol-
+1152`t22`t108`tgon bo"lsc ham, uning oizining rosmi eso morkalordo aks etmagan.

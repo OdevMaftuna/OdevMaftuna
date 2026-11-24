@@ -1,0 +1,1180 @@
+{
+ "code": "10.2",
+ "intro": {
+  "what": "Past Simple zamonida o'tmishdagi so'roq va inkor gaplarni tuzish uchun 'did' yordamchi fe'li ishlatiladi. Barcha shaxslar (I, you, he, she, we, they) uchun 'did' va 'didn't' bir xil qo'llaniladi.",
+  "when": [
+   "O'tmishda sodir bo'lgan ish-harakatlar haqida so'rashda",
+   "O'tmishdagi ish-harakatlarni inkor etishda (qilmadim, bormadim)",
+   "O'tmishdagi voqealar bo'yicha maxsus savollar berishda (qayerga bording?, nima sotib olding?)"
+  ],
+  "structures": [
+   {
+    "label": "(+)",
+    "formula": "[ S + V2/ed + OB ]",
+    "example_en": "I went to Samarkand yesterday.",
+    "example_uz": "Men kecha Samarqandga bordim."
+   },
+   {
+    "label": "(-)",
+    "formula": "[ S + did + not + V1 + OB ]",
+    "example_en": "I didn't see him yesterday.",
+    "example_uz": "Men uni kecha ko'rmadim."
+   },
+   {
+    "label": "(?)",
+    "formula": "[ Did + S + V1 + OB? ]",
+    "example_en": "Did you go to London?",
+    "example_uz": "Siz Londonga bordingizmi?"
+   },
+   {
+    "label": "(Wh-)",
+    "formula": "[ Wh- + did + S + V1 + OB? ]",
+    "example_en": "Where did you go?",
+    "example_uz": "Siz qayerga bordingiz?"
+   },
+   {
+    "label": "Qisqa javob",
+    "formula": "Yes, S + did / No, S + didn't",
+    "example_en": "Yes, I did. / No, I didn't.",
+    "example_uz": "Ha, bordim. / Yo'q, bormadim."
+   }
+  ],
+  "rules": [
+   {
+    "title": "Barcha shaxslar uchun bir xil",
+    "text": "Past Simple so'roq va inkor shaklida barcha olmoshlar (I, you, he, she, we, they) uchun 'did' va 'didn't' o'zgarmasdan ishlatiladi.",
+    "examples": [
+     {
+      "en": "Did you play tennis?",
+      "uz": "Sen tennis o'ynadingmi?"
+     },
+     {
+      "en": "Did they play tennis?",
+      "uz": "Ular tennis o'ynashdimi?"
+     }
+    ]
+   },
+   {
+    "title": "Asosiy fe'lning 1-shakli",
+    "text": "Inkor (-) va so'roq (?) gaplarda 'did' yoki 'didn't' kelganda, asosiy fe'l o'zining boshlang'ich (1-shaklida) turadi, ikkinchi shaklga o'zgarmaydi.",
+    "examples": [
+     {
+      "en": "I didn't go there.",
+      "uz": "Men u yerga bormadim."
+     },
+     {
+      "en": "Where did she buy the coat?",
+      "uz": "U paltoni qayerdan sotib oldi?"
+     }
+    ]
+   }
+  ],
+  "signal_words": [
+   {
+    "en": "yesterday",
+    "uz": "kecha"
+   },
+   {
+    "en": "last night",
+    "uz": "kecha oqshom"
+   },
+   {
+    "en": "last week",
+    "uz": "o'tgan hafta"
+   },
+   {
+    "en": "last year",
+    "uz": "o'tgan yili"
+   },
+   {
+    "en": "... ago",
+    "uz": "... oldin"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I didn't went home.",
+    "right": "I didn't go home.",
+    "why": "Didn't yordamchi fe'lidan keyin fe'lning 1-shakli (go) ishlatiladi, V2 (went) emas."
+   },
+   {
+    "wrong": "Did you went to school?",
+    "right": "Did you go to school?",
+    "why": "Did so'roq so'zidan keyin fe'l boshlang'ich shaklda (go) kelishi kerak."
+   },
+   {
+    "wrong": "She didn't saw him.",
+    "right": "She didn't see him.",
+    "why": "Didn't dan keyin fe'l o'zgarmaydi, saw o'rniga see ishlatiladi."
+   }
+  ]
+ },
+ "test": [
+  {
+   "type": "fill",
+   "q": "______ you go to London last week? [do]",
+   "answer": "Did",
+   "explain": "O'tgan zamonda so'roq gap tuzish uchun 'Did' yordamchi fe'li ishlatiladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "I ______ see him yesterday. [not + do]",
+   "answer": "didn't",
+   "explain": "Past Simple inkor shaklida 'didn't' + V1 ishlatiladi.",
+   "accept": [
+    "did not"
+   ]
+  },
+  {
+   "type": "fill",
+   "q": "Where ______ you go yesterday? [do]",
+   "answer": "did",
+   "explain": "Maxsus so'roq gaplarda Wh- so'zidan keyin 'did' keladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "What ______ she buy at the shop? [do]",
+   "answer": "did",
+   "explain": "O'tgan zamon so'roq gapida did yordamchi fe'li ishlatiladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "Did you play tennis? Yes, I ______ . [do]",
+   "answer": "did",
+   "explain": "Past Simple qisqa ijobiy javobida 'Yes, I did' ishlatiladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "Did she go to Samarkand? No, she ______ . [not + do]",
+   "answer": "didn't",
+   "explain": "Past Simple qisqa inkor javobida 'No, she didn't' ishlatiladi.",
+   "accept": [
+    "did not"
+   ]
+  },
+  {
+   "type": "fill",
+   "q": "He didn't ______ to the cafe. [go]",
+   "answer": "go",
+   "explain": "Didn't dan keyin fe'lning 1-shakli (go) ishlatiladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "Did they ______ English yesterday? [speak]",
+   "answer": "speak",
+   "explain": "Did so'roq gapidan keyin asosiy fe'l o'zgarishsiz (speak) qoladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "When ______ you arrive home? [do]",
+   "answer": "did",
+   "explain": "O'tgan zamon so'roq gapida Wh- so'zidan keyin 'did' keladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "We didn't ______ lunch at home. [have]",
+   "answer": "have",
+   "explain": "Inkor gapda 'didn't' dan keyin fe'lning birinchi shakli (have) yoziladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "______ they visit Tashkent last year? [do]",
+   "answer": "Did",
+   "explain": "O'tgan zamon so'roq gapining boshida 'Did' ishlatiladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "She didn't ______ a coat yesterday. [wear]",
+   "answer": "wear",
+   "explain": "Didn't yordamchi fe'lidan keyin fe'l o'zgarmaydi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "Why ______ you stay at home? [do]",
+   "answer": "did",
+   "explain": "Sabab so'roq gapida 'Why did + ega + V1' strukturasi qo'llaniladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "Did Aziz ______ a new car? [buy]",
+   "answer": "buy",
+   "explain": "Did bilan kelgan so'roq gapda fe'l 1-shaklda (buy) bo'ladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "I didn't ______ tea this morning. [drink]",
+   "answer": "drink",
+   "explain": "Inkor gapda didn't dan keyin fe'lning boshlang'ich shakli ishlatiladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "Who ______ you see at the cinema? [do]",
+   "answer": "did",
+   "explain": "O'tgan zamonda kimni ko'rganini so'rash uchun 'Who did you see?' ishlatiladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "Did they ______ football on Sunday? [play]",
+   "answer": "play",
+   "explain": "So'roq gapda did so'zidan keyin play fe'li qo'shimchalarsiz keladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "She didn't ______ her homework last night. [do]",
+   "answer": "do",
+   "explain": "Inkor gapda didn't dan keyin do fe'li ishlatiladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "______ you have a good time? [do]",
+   "answer": "Did",
+   "explain": "O'tgan zamon so'roq gapini boshlash uchun 'Did' kerak.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "He didn't ______ anything. [say]",
+   "answer": "say",
+   "explain": "Didn't dan so'ng fe'lning 1-shakli (say) yoziladi.",
+   "accept": []
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct question:",
+   "answer": "Did you go to Samarkand?",
+   "explain": "Past Simple so'roq gapida 'Did + ega + V1' tartibi ishlatiladi.",
+   "options": [
+    "Did you went to Samarkand?",
+    "Did you go to Samarkand?",
+    "Do you went to Samarkand?"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct negative sentence:",
+   "answer": "I didn't see him.",
+   "explain": "Inkor gapda didn't dan keyin fe'lning 1-shakli (see) ishlatiladi.",
+   "options": [
+    "I didn't saw him.",
+    "I didn't see him.",
+    "I not saw him."
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Select the correct question with 'where':",
+   "answer": "Where did you buy this bag?",
+   "explain": "Wh- so'zidan keyin 'did' va fe'lning 1-shakli keladi.",
+   "options": [
+    "Where did you buy this bag?",
+    "Where did you bought this bag?",
+    "Where you bought this bag?"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the right short answer:",
+   "answer": "Yes, I did.",
+   "explain": "Past Simple savoliga qisqa ijobiy javob 'Yes, I did' bo'ladi.",
+   "options": [
+    "Yes, I was.",
+    "Yes, I did.",
+    "Yes, I do."
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Which sentence is correct?",
+   "answer": "She didn't like the food.",
+   "explain": "Inkor gapda didn't dan keyin 'like' fe'li o'zgarishsiz turadi.",
+   "options": [
+    "She didn't liked the food.",
+    "She didn't like the food.",
+    "She wasn't like the food."
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct question:",
+   "answer": "What did she buy?",
+   "explain": "So'roq gapda did va buy (1-shakl) ishlatiladi.",
+   "options": [
+    "What did she bought?",
+    "What did she buy?",
+    "What she bought?"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Select the correct negative sentence:",
+   "answer": "We didn't play tennis.",
+   "explain": "Past Simple inkor shaklida didn't + V1 ishlatiladi.",
+   "options": [
+    "We didn't played tennis.",
+    "We didn't play tennis.",
+    "We weren't play tennis."
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct sentence:",
+   "answer": "Did they watch TV last night?",
+   "explain": "Past Simple so'roq gapida did yordamchi fe'li boshida keladi.",
+   "options": [
+    "Did they watched TV last night?",
+    "Did they watch TV last night?",
+    "They did watch TV last night?"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct short answer for: 'Did he go home?'",
+   "answer": "No, he didn't.",
+   "explain": "Inkor qisqa javobda 'No, he didn't' ishlatiladi.",
+   "options": [
+    "No, he didn't.",
+    "No, he wasn't.",
+    "No, he don't."
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Which sentence uses Past Simple negative correctly?",
+   "answer": "I didn't drink coffee.",
+   "explain": "Didn't dan keyin drink fe'lining birinchi shakli keladi.",
+   "options": [
+    "I didn't drank coffee.",
+    "I didn't drink coffee.",
+    "I not drank coffee."
+   ]
+  }
+ ],
+ "model": "gemini-3.5-flash-lite",
+ "tr1": [
+  {
+   "part": 0,
+   "uz": "Kecha men kinoga bormadim.",
+   "en": [
+    "I didn't go to the cinema yesterday."
+   ],
+   "rule": "Inkor gap: didn't + fe'lning birinchi shakli."
+  },
+  {
+   "part": 0,
+   "uz": "U kecha nonushta qilmadi.",
+   "en": [
+    "He didn't have breakfast yesterday.",
+    "She didn't have breakfast yesterday."
+   ],
+   "rule": "Inkor gap: didn't + have (fe'lning birinchi shakli)."
+  },
+  {
+   "part": 0,
+   "uz": "Biz kecha muzeyga bormadik.",
+   "en": [
+    "We didn't go to the museum yesterday."
+   ],
+   "rule": "O'tgan zamon inkor shakli: didn't + go."
+  },
+  {
+   "part": 0,
+   "uz": "Sen kecha kechki ovqat yemading.",
+   "en": [
+    "You didn't eat dinner yesterday."
+   ],
+   "rule": "Inkor gapda didn't dan keyin fe'l o'zgarmaydi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular kecha dam olishmadi.",
+   "en": [
+    "They didn't relax yesterday."
+   ],
+   "rule": "Past Simple inkor shakli: didn't + relax."
+  },
+  {
+   "part": 0,
+   "uz": "Men kecha xat yozmadim.",
+   "en": [
+    "I didn't write a letter yesterday."
+   ],
+   "rule": "didn't dan so'ng fe'lning asil holati ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Aziz kecha futbol o'ynamadi.",
+   "en": [
+    "Aziz didn't play football yesterday."
+   ],
+   "rule": "O'tgan zamon inkor: didn't + play."
+  },
+  {
+   "part": 0,
+   "uz": "Malika kecha xaridga bormadi.",
+   "en": [
+    "Malika didn't go shopping yesterday."
+   ],
+   "rule": "Inkor gap: didn't + go."
+  },
+  {
+   "part": 0,
+   "uz": "Biz kecha film ko'rmadik.",
+   "en": [
+    "We didn't watch a film yesterday."
+   ],
+   "rule": "Past Simple inkor: didn't + watch."
+  },
+  {
+   "part": 0,
+   "uz": "Ular kecha ingliz tili darsiga kelishmadi.",
+   "en": [
+    "They didn't come to the English lesson yesterday."
+   ],
+   "rule": "Inkor gap: didn't + come."
+  },
+  {
+   "part": 0,
+   "uz": "Tom kecha do'konga bormadi.",
+   "en": [
+    "Tom didn't go to the shop yesterday."
+   ],
+   "rule": "didn't + fe'lning birinchi shakli."
+  },
+  {
+   "part": 0,
+   "uz": "Men kecha choy ichmadim.",
+   "en": [
+    "I didn't drink tea yesterday."
+   ],
+   "rule": "Past Simple inkor: didn't + drink."
+  },
+  {
+   "part": 0,
+   "uz": "Sen kecha uy vazifasini qilmading.",
+   "en": [
+    "You didn't do homework yesterday."
+   ],
+   "rule": "Inkor gapda didn't + do ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U kecha ishga bormadi.",
+   "en": [
+    "He didn't go to work yesterday.",
+    "She didn't go to work yesterday."
+   ],
+   "rule": "O'tgan zamon inkor: didn't + go."
+  },
+  {
+   "part": 0,
+   "uz": "Biz kecha muzqaymoq yemadik.",
+   "en": [
+    "We didn't eat ice cream yesterday."
+   ],
+   "rule": "didn't + eat (fe'lning birinchi shakli)."
+  },
+  {
+   "part": 0,
+   "uz": "Ular kecha shaharda bo'lishmadi.",
+   "en": [
+    "They weren't in the town yesterday."
+   ],
+   "rule": "To be o'tgan zamon inkor shakli: weren't."
+  },
+  {
+   "part": 0,
+   "uz": "Men kecha band emas edim.",
+   "en": [
+    "I wasn't busy yesterday."
+   ],
+   "rule": "To be o'tgan zamon inkor: wasn't."
+  },
+  {
+   "part": 0,
+   "uz": "Sen kecha uyda emassan emasding.",
+   "en": [
+    "You weren't at home yesterday."
+   ],
+   "rule": "To be o'tgan zamon inkor: weren't at home."
+  },
+  {
+   "part": 0,
+   "uz": "U kecha xursand emas edi.",
+   "en": [
+    "He wasn't happy yesterday.",
+    "She wasn't happy yesterday."
+   ],
+   "rule": "To be o'tgan zamon inkor: wasn't happy."
+  },
+  {
+   "part": 0,
+   "uz": "Biz kecha charchamagan edik.",
+   "en": [
+    "We weren't tired yesterday."
+   ],
+   "rule": "To be o'tgan zamon inkor: weren't tired."
+  },
+  {
+   "part": 0,
+   "uz": "Kecha ob-havo yaxshi emas edi.",
+   "en": [
+    "The weather wasn't good yesterday."
+   ],
+   "rule": "To be o'tgan zamon inkor: wasn't good."
+  },
+  {
+   "part": 0,
+   "uz": "Ular kecha kechikishmadi.",
+   "en": [
+    "They didn't arrive late yesterday."
+   ],
+   "rule": "Inkor gap: didn't + fe'l."
+  },
+  {
+   "part": 0,
+   "uz": "Men kecha kitob o'qimadim.",
+   "en": [
+    "I didn't read a book yesterday."
+   ],
+   "rule": "Past Simple inkor: didn't + read."
+  },
+  {
+   "part": 0,
+   "uz": "Sen kecha rasm chizmading.",
+   "en": [
+    "You didn't paint yesterday."
+   ],
+   "rule": "Inkor gap: didn't + paint."
+  },
+  {
+   "part": 0,
+   "uz": "U kecha musiqa tinglamadi.",
+   "en": [
+    "He didn't listen to music yesterday.",
+    "She didn't listen to music yesterday."
+   ],
+   "rule": "Inkor gap: didn't + listen."
+  },
+  {
+   "part": 0,
+   "uz": "Biz kecha taksida bormadik.",
+   "en": [
+    "We didn't go by taxi yesterday."
+   ],
+   "rule": "Inkor gap: didn't + go."
+  },
+  {
+   "part": 0,
+   "uz": "Ular kecha kechki ovqatni pishirishmadi.",
+   "en": [
+    "They didn't cook dinner yesterday."
+   ],
+   "rule": "Past Simple inkor: didn't + cook."
+  },
+  {
+   "part": 0,
+   "uz": "Men kecha qahva ichmadim.",
+   "en": [
+    "I didn't drink coffee yesterday."
+   ],
+   "rule": "Inkor gap: didn't + drink."
+  },
+  {
+   "part": 0,
+   "uz": "Sen kecha menga telefon qilmading.",
+   "en": [
+    "You didn't phone me yesterday."
+   ],
+   "rule": "Inkor gap: didn't + phone."
+  },
+  {
+   "part": 0,
+   "uz": "Anna kecha universitetga bormadi.",
+   "en": [
+    "Anna didn't go to the university yesterday."
+   ],
+   "rule": "Inkor gap: didn't + go."
+  },
+  {
+   "part": 0,
+   "uz": "Biz kecha mehmonga bormadik.",
+   "en": [
+    "We didn't visit friends yesterday."
+   ],
+   "rule": "Past Simple inkor: didn't + visit."
+  },
+  {
+   "part": 0,
+   "uz": "Ular kecha futbol ko'rishmadi.",
+   "en": [
+    "They didn't watch football yesterday."
+   ],
+   "rule": "Inkor gap: didn't + watch."
+  },
+  {
+   "part": 0,
+   "uz": "Men kecha xat yubormadim.",
+   "en": [
+    "I didn't send a letter yesterday."
+   ],
+   "rule": "didn't + send."
+  },
+  {
+   "part": 0,
+   "uz": "Sen kecha o'sha yerda bo'lmading.",
+   "en": [
+    "You weren't there yesterday."
+   ],
+   "rule": "To be o'tgan zamon inkor: weren't."
+  },
+  {
+   "part": 0,
+   "uz": "U kecha ovqat yemadi.",
+   "en": [
+    "He didn't eat food yesterday.",
+    "She didn't eat food yesterday."
+   ],
+   "rule": "Inkor gap: didn't + eat."
+  },
+  {
+   "part": 0,
+   "uz": "Biz kecha kech uxlab qolmadik.",
+   "en": [
+    "We didn't go to bed late yesterday."
+   ],
+   "rule": "Inkor gap: didn't + go."
+  },
+  {
+   "part": 0,
+   "uz": "Ular kecha mashina haydashmadi.",
+   "en": [
+    "They didn't drive a car yesterday."
+   ],
+   "rule": "Past Simple inkor: didn't + drive."
+  },
+  {
+   "part": 0,
+   "uz": "Men kecha tushlik qilmadim.",
+   "en": [
+    "I didn't have lunch yesterday."
+   ],
+   "rule": "Inkor gap: didn't + have."
+  },
+  {
+   "part": 0,
+   "uz": "Sen kecha pul to'lamading.",
+   "en": [
+    "You didn't pay money yesterday."
+   ],
+   "rule": "Inkor gap: didn't + pay."
+  },
+  {
+   "part": 0,
+   "uz": "Aziz kecha uyini tozalamadi.",
+   "en": [
+    "Aziz didn't tidy his house yesterday."
+   ],
+   "rule": "Inkor gap: didn't + tidy."
+  },
+  {
+   "part": 1,
+   "uz": "Kecha kinoga bordingizmi? - Ha, bordim.",
+   "en": [
+    "Did you go to the cinema yesterday? - Yes, I did."
+   ],
+   "rule": "So'roq gap: Did + ega + fe'l? Qisqa javob: Yes, I did."
+  },
+  {
+   "part": 1,
+   "uz": "Kecha nonushta qildingizmi? - Yo'q, qilmadim.",
+   "en": [
+    "Did you have breakfast yesterday? - No, I didn't."
+   ],
+   "rule": "So'roq: Did ... have? Qisqa javob: No, I didn't."
+  },
+  {
+   "part": 1,
+   "uz": "U kecha ishga bordimi? - Ha, bordi.",
+   "en": [
+    "Did he go to work yesterday? - Yes, he did.",
+    "Did she go to work yesterday? - Yes, she did."
+   ],
+   "rule": "O'tgan zamon so'roq va qisqa javob."
+  },
+  {
+   "part": 1,
+   "uz": "Ular kecha kelishdimi? - Yo'q, kelishmadi.",
+   "en": [
+    "Did they come yesterday? - No, they didn't."
+   ],
+   "rule": "So'roq gap: Did they come? Qisqa javob: No, they didn't."
+  },
+  {
+   "part": 1,
+   "uz": "Sen kecha ingliz tili darsiga bordingmi? - Ha, bordim.",
+   "en": [
+    "Did you go to the English lesson yesterday? - Yes, I did."
+   ],
+   "rule": "So'roq gap boshida Did keladi."
+  },
+  {
+   "part": 1,
+   "uz": "Tom kecha futbol o'ynadimi? - Yo'q, o'ynamadi.",
+   "en": [
+    "Did Tom play football yesterday? - No, he didn't."
+   ],
+   "rule": "Did + egasi + fe'lning 1-shakli."
+  },
+  {
+   "part": 1,
+   "uz": "Kecha choy ichdingizmi? - Ha, ichdim.",
+   "en": [
+    "Did you drink tea yesterday? - Yes, I did."
+   ],
+   "rule": "So'roq gap: Did you drink ...?"
+  },
+  {
+   "part": 1,
+   "uz": "Malika kecha xaridga bordimi? - Ha, bordi.",
+   "en": [
+    "Did Malika go shopping yesterday? - Yes, she did."
+   ],
+   "rule": "O'tgan zamon so'roqi: Did Malika go ...?"
+  },
+  {
+   "part": 1,
+   "uz": "Biz kecha film ko'rdikmi? - Yo'q, ko'rmadik.",
+   "en": [
+    "Did we watch a film yesterday? - No, we didn't."
+   ],
+   "rule": "So'roq va inkor qisqa javob."
+  },
+  {
+   "part": 1,
+   "uz": "Kecha ob-havo yaxshi edimi? - Ha, yaxshi edi.",
+   "en": [
+    "Was the weather good yesterday? - Yes, it was."
+   ],
+   "rule": "To be fe'lining o'tgan zamon so'rog'i: Was ...?"
+  }
+ ],
+ "tr51": [
+  {
+   "part": 1,
+   "uz": "Kecha sen muzeyga bordingmi?",
+   "en": [
+    "Did you go to the museum yesterday?"
+   ],
+   "rule": "So'roq gap: Did + ega + fe'lning birinchi shakli."
+  },
+  {
+   "part": 1,
+   "uz": "Ular kecha tushlik qilishdimi?",
+   "en": [
+    "Did they have lunch yesterday?"
+   ],
+   "rule": "So'roq gap: Did yordamchi fe'li gap boshida keladi."
+  },
+  {
+   "part": 1,
+   "uz": "Aziz kecha kitob sotib oldimi?",
+   "en": [
+    "Did Aziz buy a book yesterday?"
+   ],
+   "rule": "So'roq gapda asosiy fe'l o'zgarmasdan keladi."
+  },
+  {
+   "part": 1,
+   "uz": "Sen kecha kechqurun televizor ko'rdingmi?",
+   "en": [
+    "Did you watch TV last night?"
+   ],
+   "rule": "O'tgan zamon so'roq gapida did ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ha, ko'rdim.",
+   "en": [
+    "Yes, I did."
+   ],
+   "rule": "Qisqa tasdiq javob: Yes, + ega + did."
+  },
+  {
+   "part": 1,
+   "uz": "Yo'q, ko'rmadim.",
+   "en": [
+    "No, I didn't."
+   ],
+   "rule": "Qisqa inkor javob: No, + ega + didn't."
+  },
+  {
+   "part": 1,
+   "uz": "Ular kecha futbol o'ynashdimi?",
+   "en": [
+    "Did they play football yesterday?"
+   ],
+   "rule": "So'roq shakli: Did + ega + play + ...?"
+  },
+  {
+   "part": 1,
+   "uz": "Ha, o'ynashdi.",
+   "en": [
+    "Yes, they did."
+   ],
+   "rule": "Qisqa javob: Yes, they did."
+  },
+  {
+   "part": 1,
+   "uz": "Anna kecha Toshkentga keldimi?",
+   "en": [
+    "Did Anna come to Tashkent yesterday?"
+   ],
+   "rule": "So'roq gapda come fe'li o'zgarmaydi."
+  },
+  {
+   "part": 1,
+   "uz": "Yo'q, kelmadi.",
+   "en": [
+    "No, she didn't."
+   ],
+   "rule": "Qisqa inkor: No, she didn't."
+  },
+  {
+   "part": 1,
+   "uz": "Sen kecha ertalab choy ichdingmi?",
+   "en": [
+    "Did you drink tea yesterday morning?"
+   ],
+   "rule": "So'roq gap: Did + you + drink...?"
+  },
+  {
+   "part": 1,
+   "uz": "Ha, ichdim.",
+   "en": [
+    "Yes, I did."
+   ],
+   "rule": "Qisqa javob: Yes, I did."
+  },
+  {
+   "part": 1,
+   "uz": "Ular kecha restoranda ovqatlanishdimi?",
+   "en": [
+    "Did they eat at the restaurant yesterday?"
+   ],
+   "rule": "O'tgan zamon so'roqi: Did + they + eat...?"
+  },
+  {
+   "part": 1,
+   "uz": "Yo'q, ovqatlanishmadi.",
+   "en": [
+    "No, they didn't."
+   ],
+   "rule": "Qisqa inkor javob: No, they didn't."
+  },
+  {
+   "part": 1,
+   "uz": "Tom kecha mashina haydadiymi?",
+   "en": [
+    "Did Tom drive a car yesterday?"
+   ],
+   "rule": "So'roq gap: Did + Tom + drive...?"
+  },
+  {
+   "part": 1,
+   "uz": "Ha, haydadi.",
+   "en": [
+    "Yes, he did."
+   ],
+   "rule": "Qisqa javob: Yes, he did."
+  },
+  {
+   "part": 1,
+   "uz": "Sen kecha do'konga bordingmi?",
+   "en": [
+    "Did you go to the shop yesterday?"
+   ],
+   "rule": "So'roq shakli: Did + you + go...?"
+  },
+  {
+   "part": 1,
+   "uz": "Yo'q, bormadim.",
+   "en": [
+    "No, I didn't."
+   ],
+   "rule": "Qisqa inkor: No, I didn't."
+  },
+  {
+   "part": 1,
+   "uz": "Bolalar kecha parkda o'ynashdimi?",
+   "en": [
+    "Did the children play in the park yesterday?"
+   ],
+   "rule": "So'roq gapda did yordamchi fe'li ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ha, o'ynashdi.",
+   "en": [
+    "Yes, they did."
+   ],
+   "rule": "Qisqa tasdiq javob: Yes, they did."
+  },
+  {
+   "part": 2,
+   "uz": "Sen kecha qayerga bording?",
+   "en": [
+    "Where did you go yesterday?"
+   ],
+   "rule": "Savol so'zi: Where + did + ega + fe'l."
+  },
+  {
+   "part": 2,
+   "uz": "U kecha nima sotib oldi?",
+   "en": [
+    "What did he buy yesterday?",
+    "What did she buy yesterday?"
+   ],
+   "rule": "Savol so'zi: What + did + ega + buy?"
+  },
+  {
+   "part": 2,
+   "uz": "Ular kecha qayerda yashashdi?",
+   "en": [
+    "Where did they live yesterday?"
+   ],
+   "rule": "Where so'roq so'zi bilan Past Simple tuzilishi."
+  },
+  {
+   "part": 2,
+   "uz": "Sen kecha qaysi film ko'rding?",
+   "en": [
+    "What film did you watch yesterday?"
+   ],
+   "rule": "What film + did + ega + watch?"
+  },
+  {
+   "part": 2,
+   "uz": "Malika kecha qachon keldi?",
+   "en": [
+    "When did Malika come yesterday?"
+   ],
+   "rule": "When + did + ega + come?"
+  },
+  {
+   "part": 2,
+   "uz": "Sen kecha nonushtaga nima yeding?",
+   "en": [
+    "What did you eat for breakfast yesterday?"
+   ],
+   "rule": "What + did + you + eat + for breakfast?"
+  },
+  {
+   "part": 2,
+   "uz": "Ular kecha qayerda o'ynashdi?",
+   "en": [
+    "Where did they play yesterday?"
+   ],
+   "rule": "Where + did + they + play?"
+  },
+  {
+   "part": 2,
+   "uz": "Sen kecha kimni ko'rding?",
+   "en": [
+    "Who did you see yesterday?"
+   ],
+   "rule": "Who + did + you + see?"
+  },
+  {
+   "part": 2,
+   "uz": "Aziz kecha qaysi kitobni o'qidi?",
+   "en": [
+    "What book did Aziz read yesterday?"
+   ],
+   "rule": "What book + did + Aziz + read?"
+  },
+  {
+   "part": 2,
+   "uz": "Sen kecha soat nechada turding?",
+   "en": [
+    "What time did you get up yesterday?"
+   ],
+   "rule": "What time + did + you + get up?"
+  },
+  {
+   "part": 2,
+   "uz": "Ular kecha kechqurun qayerga borishdi?",
+   "en": [
+    "Where did they go last night?"
+   ],
+   "rule": "Where + did + they + go + last night?"
+  },
+  {
+   "part": 2,
+   "uz": "Anna kecha qanday ko'ylak sotib oldi?",
+   "en": [
+    "What dress did Anna buy yesterday?"
+   ],
+   "rule": "What dress + did + Anna + buy?"
+  },
+  {
+   "part": 2,
+   "uz": "Sen kecha kechki ovqatga nima pishirding?",
+   "en": [
+    "What did you cook for dinner yesterday?"
+   ],
+   "rule": "What + did + you + cook for dinner?"
+  },
+  {
+   "part": 2,
+   "uz": "Tom kecha qayerda ishlay boshladi?",
+   "en": [
+    "Where did Tom start work yesterday?"
+   ],
+   "rule": "Where + did + Tom + start work?"
+  },
+  {
+   "part": 2,
+   "uz": "Sen kecha nima haqida o'ylading?",
+   "en": [
+    "What did you think about yesterday?"
+   ],
+   "rule": "What + did + you + think about?"
+  },
+  {
+   "part": 2,
+   "uz": "Ular kecha qaysi shaharga borishdi?",
+   "en": [
+    "What city did they go to yesterday?"
+   ],
+   "rule": "What city + did + they + go to?"
+  },
+  {
+   "part": 2,
+   "uz": "Sen kecha qaysi musiqani tinglading?",
+   "en": [
+    "What music did you listen to yesterday?"
+   ],
+   "rule": "What music + did + you + listen to?"
+  },
+  {
+   "part": 2,
+   "uz": "Ali kecha nima ichdi?",
+   "en": [
+    "What did Ali drink yesterday?"
+   ],
+   "rule": "What + did + Ali + drink?"
+  },
+  {
+   "part": 2,
+   "uz": "Sen kecha kim bilan gaplashding?",
+   "en": [
+    "Who did you talk to yesterday?"
+   ],
+   "rule": "Who + did + you + talk to?"
+  },
+  {
+   "part": 2,
+   "uz": "Ular kecha qayerda uchrashishdi?",
+   "en": [
+    "Where did they meet yesterday?"
+   ],
+   "rule": "Where + did + they + meet?"
+  },
+  {
+   "part": 2,
+   "uz": "Sen kecha do'kondan nima olding?",
+   "en": [
+    "What did you get from the shop yesterday?"
+   ],
+   "rule": "What + did + you + get from the shop?"
+  },
+  {
+   "part": 2,
+   "uz": "O'qituvchi kecha nima dedi?",
+   "en": [
+    "What did the teacher say yesterday?"
+   ],
+   "rule": "What + did + the teacher + say?"
+  },
+  {
+   "part": 2,
+   "uz": "Sen kecha qaysi tilni o'rganding?",
+   "en": [
+    "What language did you learn yesterday?"
+   ],
+   "rule": "What language + did + you + learn?"
+  },
+  {
+   "part": 2,
+   "uz": "Ular kecha uyga qachon qaytishdi?",
+   "en": [
+    "When did they get home yesterday?"
+   ],
+   "rule": "When + did + they + get home?"
+  },
+  {
+   "part": 2,
+   "uz": "Sen kecha kechqurun nima qilding?",
+   "en": [
+    "What did you do last night?"
+   ],
+   "rule": "What + did + you + do + last night?"
+  },
+  {
+   "part": 2,
+   "uz": "Aziz kecha qaysi do'konga kirdi?",
+   "en": [
+    "What shop did Aziz go into yesterday?"
+   ],
+   "rule": "What shop + did + Aziz + go into?"
+  },
+  {
+   "part": 2,
+   "uz": "Sen kecha qancha pul sarflading?",
+   "en": [
+    "How much money did you spend yesterday?"
+   ],
+   "rule": "How much money + did + you + spend?"
+  },
+  {
+   "part": 2,
+   "uz": "Ular kecha qayerda dam olishdi?",
+   "en": [
+    "Where did they relax yesterday?"
+   ],
+   "rule": "Where + did + they + relax?"
+  },
+  {
+   "part": 2,
+   "uz": "Sen kecha darsda nima yozding?",
+   "en": [
+    "What did you write in the lesson yesterday?"
+   ],
+   "rule": "What + did + you + write in the lesson?"
+  },
+  {
+   "part": 2,
+   "uz": "Biz kecha muzeyda nimani ko'rdik?",
+   "en": [
+    "What did we see in the museum yesterday?"
+   ],
+   "rule": "What + did + we + see in the museum?"
+  }
+ ]
+}

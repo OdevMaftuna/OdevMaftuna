@@ -1,0 +1,39 @@
+﻿67`t16`t78`tPort 4
+65`t16`t737`t263
+120`t21`t108`tMasalan, savolda "Kitob qimmat." deyilgan. Matnda botlsa, *Kitob ham-
+149`t22`t80`tyonbop.i yoki "Kitobning narxi baland emas.' deyilgan bo'lSd. savcldagi
+177`t23`t80`tma'lumot noto'g'ri - False ekan degan xulosaga kelarnizu
+222`t21`t108`tNot given Agar savoldagi gapning matndagi gap bilan taqqoslaganimiz-
+249`t21`t81`tda. urjingto'g'ri yoki notorg'ri ekanligini bila olmasak, u holda bu ma'lumot
+278`t22`t81`tmatnda berilmagan degan xulosaga kelamiz.
+306`t21`t110`tMasalan. savolda ' Kitab qimmat.' deyilgan. Matnda esa, * Kitob juda
+336`t21`t81`tsifatli.' deyiEgan. Biz kitobning Sifatli ekanligidan uning narxi qimmat yoki
+363`t21`t81`tarzonligini bila olmaymiz. Ya'ni, ma'lumot to'g'ri yo noto'g'ri ekanligini bilib
+392`t22`t83`tbo'lmaydl. Bunday holatda biz bu matlurnot matnda berilmagan degan xu-
+423`t21`t83`tlosaga kelamiz.
+449`t21`t110`tKeling endi rasmiy manbada berilgan savollarni ko'rib chiqamiz,
+494`t21`t110`tMy parents called me Penelope and, as often happens With first names
+522`t20`t84`tin the UK, it was shortened to Penny. When first went to school teach-
+551`t20`t83`ters teased me about my name, They started to call me penny Black. I had
+579`t21`t84`tno idea why it was so funny or why they changed my name from White to
+608`t21`t84`tBlack* Later I discovered that this was the name Of the very first stamp.
+636`t21`t86`tI was so absorbed I had to find out more; I started collecting when was
+665`t21`t84`teight. Stamps are one of those everyday items that people, especially chil•
+693`t23`t84`tdren, take for granted. In our world of email and text messaging itis almost
+722`t21`t86`timpossible to imagine a time When you couldn't communicate to anyone in
+750`t21`t85`twriting at all. Before 1635 there was only one person who could send and
+779`t21`t86`treceive letters in Britain and that was the monarch - letters were only car-
+807`t21`t86`tried to and from the Royal Court. It was King Charles I who allowed the use
+836`t22`t86`tOf the Royal Mail to members of the public and that's when the Post Office
+867`t21`t86`tsystem was founded.
+893`t21`t114`tBut the whole process Of sending a letter was both complicated and ex•
+921`t21`t87`tpensive. Because the fee was calculated on how many sheets were written
+950`t21`t86`tand the distance travelled, So, as G result it was only businesses and the
+978`t21`t87`twealthy who could afford to sead letters. Ail this changed on 6 May 1840
+1007`t21`t87`twhen the world's earliest adhesive postage stamp went on sale. Not only
+1037`t21`t86`tvgas the process Of sending a letter made easier but, at only one penny a
+1064`t21`t87`tstamp, it was also affordable for everyone. The impact of the Penny Black
+1092`t22`t87`twas incredible. First of all literacy standards improved dramatically. Then
+1121`t23`t86`teconomic growth increased as people started to use stamps to invest their
+1149`t21`t89`thard-earned money. No more saving your pennies in a sock under the bed!
+1193`t18`t626`tuc/7un; mytests.uz

@@ -1,0 +1,34 @@
+﻿90`t24`t123`tport 4
+157`t28`t154`tExercise 14
+99`t20`t947`t91
+218`t29`t154`tYou will hear someone giving a talk. Label the places (1-5) on the map
+254`t29`t152`t(A-H). There are THREE extra options which you do not need to use.
+304`t23`t476`tBranley Castle
+390`t13`t555`t- Rive
+462`t13`t503`tGreat
+479`t11`t508`tHall
+470`t12`t634`tTower I
+530`t13`t553`tSouth
+535`t27`t559`tgate //
+735`t27`t630`t2. bow and arrow displays
+736`t26`t153`t1. starting point for walking the walls
+772`t27`t153`t3. hunting birds display 4. traditional dancing
+772`t26`t796`t5. shop
+856`t26`t155`tExercise 15
+914`t27`t155`tYou will hear someone giving a talk. Label the places (1-5) on the map
+950`t27`t153`t(A-H). There are THREE extra options which you do not need to use.
+990`t17`t486`tMinster Park
+1040`t15`t525`tRiver
+1183`t13`t735`tEast
+1203`t15`t734`tgate
+1209`t13`t329`tWest
+1228`t15`t330`tgate
+1213`t16`t523`tLily
+1378`t13`t530`tSouth
+1397`t15`t530`tgate
+1427`t26`t153`t1. statue of Diane Gosforth2. wooden sculptures
+1462`t21`t548`t4. tennis courts
+1474`t29`t153`t3. playground
+1458`t21`t801`t5. fitness area
+1532`t26`t564`tDarojangizni aniqlash uchun: mytests.uz
+1653`t9`t1022`tScanned With

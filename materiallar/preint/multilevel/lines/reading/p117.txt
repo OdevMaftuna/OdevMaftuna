@@ -1,0 +1,30 @@
+﻿69`t17`t119`t116
+125`t19`t146`tExercise 27
+74`t19`t593`tMultilevel Master reading
+171`t18`t146`tRead the texts and the statements A-G. Decide which text matches
+200`t18`t144`twith the situation described in the statements.
+228`t21`t144`tEach statement can be used ONCE only. There are TWO extra
+258`t18`t144`tstatements which you do not need to use.
+305`t21`t173`tSYDNEY CONSERVATORIUM OF MUSIC CONCERTS
+336`t20`t350`tFOR JANUARY 2001
+375`t21`t144`tA) You want to see a television character during the concert.
+404`t21`t144`tB) You can go there with a partner to listen to the most romantic songs.
+432`t22`t144`tC) You want to listen to Indian music with some japanese songs during
+462`t17`t170`tthe concert.
+489`t22`t144`tD) This concert is held twice during January and the ticket price is less
+519`t18`t170`tthan $11.
+548`t21`t144`tE) You can go there if you're a rock music lover to listen to the best rock
+576`t17`t170`tmusic of last decade.
+605`t21`t144`tF) You can visit to this concert if you want to listen to the music played
+633`t21`t170`twith a guitar.
+660`t21`t143`tG) You can meet American film Stars during the concert.
+746`t22`t339`tSydney Youth Orchestra
+780`t19`t167`tConservatorium High School students play a section of Mozart concertos.
+812`t20`t254`tDate: Sat. 4th and 11th January. 8.00 pm. $10 and $5
+872`t18`t114`t2
+887`t24`t366`tLet's Sing Together
+923`t20`t149`tAn afternoon for the young and the young-at-heart. Led by the Giggles Band.
+954`t20`t182`tsing children's songs from your childhood and from all over the world.
+987`t20`t254`tThere will be A special appearance by Willy Wallaby
+1019`t20`t276`tfrom the popular Children'S programme, Hoppy!
+1052`t19`t374`tSum 5th January. 3.00 prn. $5

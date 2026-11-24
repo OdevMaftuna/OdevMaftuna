@@ -1,0 +1,33 @@
+﻿63`t15`t113`t160
+62`t20`t585`tMul t ilevel Moster reading
+116`t22`t144`t4, The Tiny Tea Room serves a selection Of tea, coffee and good home-
+146`t21`t113`tmade cakes and pastries.
+173`t21`t140`tPerfect for a refreshing rest and there is a games room for children. Gets
+203`t18`t113`tvery crowded at lunchtime.
+231`t21`t140`topen 09.00-16.30.
+285`t22`t140`tS. King's Restaurant is II good choice for quick, inexpensive meals. This
+314`t21`t114`trestaurant serves a wide range of English food. There iS also an interesting
+342`t21`t114`tvegetarian menu which includes a variety of hot dishes, and salads.
+374`t22`t141`topen 11.00-22.00.
+428`t23`t141`t6, Bernini's is a high-quality Italian restaurant. It is internationally
+456`t21`t114`trecognized for its first-class food and service. Bernini's is close to the city
+486`t22`t115`tcenter and parking is available.
+515`t21`t143`tOpen evenings only 18.00-23.00,
+570`t22`t141`t7. The Tower Coffee Bar serves light snacks, soft drinks and excellent
+600`t21`t117`tItalian coffee. Its friendly atmosphere is popular with students and young
+627`t23`t116`tpeople, and it is a good meeting place for friends. Can be rather noisy!
+659`t21`t144`tOpen midday to midnight.
+713`t21`t143`t8. Gordon's is a restaurant in an attractive part of town and has tables
+742`t22`t117`tin the garden for sunny days. known for pizza, fried chicken and ham-
+771`t21`t117`tburgers. Gordon's has special prices for children's meals. Excellent food but
+803`t18`t117`tservice can be slow.
+830`t19`t144`topen 12.00-20.00.
+897`t20`t146`tExercise 55
+941`t21`t147`tYou are on holiday in Sydney, Australia. There are descriptions of
+969`t21`t144`teight places to visit. Decide which place would be the most suitable
+1002`t18`t146`tfor you.
+1032`t19`t145`tA) You want to look at modern inventions and scientific discoveries. Your
+1064`t22`t173`t12-year-old daughter go with you.
+1089`t21`t147`tB) You want to see some of the animals that Australia is famouS for.
+1118`t21`t146`tC) You are interested in modern buildings, and like to know as much as
+1149`t22`t174`tpossible about them.

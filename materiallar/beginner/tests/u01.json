@@ -1,0 +1,72 @@
+{
+  "code": "U1", "kind": "unit", "unit": 1, "price": 20000,
+  "title": "Unit 1 Test",
+  "subtitle": "Hello! · am / is / are · this is · numbers 1–10",
+  "sections": [
+    {
+      "title": "A. Complete the conversations. Choose the correct answer.",
+      "items": [
+        { "t": "mc", "q": "A: Hi! ______ name’s Dilnoza. What’s your name?  B: Kamol.", "o": ["I", "My", "Your", "You"], "a": 1 },
+        { "t": "mc", "q": "A: Good morning, Sam. How ______ you?  B: Fine, thanks.", "o": ["is", "am", "are", "be"], "a": 2 },
+        { "t": "mc", "q": "A: How are you?  B: I’m OK, thank you. And ______?", "o": ["you", "your", "I", "me"], "a": 0 },
+        { "t": "mc", "q": "A: What’s this in English?  B: ______ a pen.", "o": ["This", "Is", "It’s", "A"], "a": 2 },
+        { "t": "mc", "q": "A: Lola, ______ is Timur.  B: Hello, Timur!", "o": ["this", "it", "is", "my"], "a": 0 },
+        { "t": "mc", "q": "A: ______ your name?  B: My name’s Aziz.", "o": ["How’s", "What’s", "Who", "Is"], "a": 1 }
+      ]
+    },
+    {
+      "title": "B. Put the words in the correct order. Write the sentence.",
+      "items": [
+        { "t": "text", "q": "name’s / Nodira / my", "a": ["My name’s Nodira", "My name is Nodira"] },
+        { "t": "text", "q": "is / this / Bekzod", "a": ["This is Bekzod"] },
+        { "t": "text", "q": "your / what’s / name / ?", "a": ["What’s your name", "What is your name"] },
+        { "t": "text", "q": "fine / I’m / thanks", "a": ["I’m fine thanks", "I am fine thanks", "I’m fine, thanks"] },
+        { "t": "text", "q": "English / what’s / in / this / ?", "a": ["What’s this in English", "What is this in English"] }
+      ]
+    },
+    {
+      "title": "C. Complete the sentences. Write am, is, or are.",
+      "items": [
+        { "t": "text", "q": "Hello. I ______ Malika.", "a": ["am"] },
+        { "t": "text", "q": "This ______ my friend Ulug‘bek.", "a": ["is"] },
+        { "t": "text", "q": "How ______ you today?", "a": ["are"] },
+        { "t": "text", "q": "It ______ a camera.", "a": ["is"] },
+        { "t": "text", "q": "What ______ your name?", "a": ["is"] },
+        { "t": "text", "q": "I ______ very well, thank you.", "a": ["am"] }
+      ]
+    },
+    {
+      "title": "D. Write the English word.",
+      "items": [
+        { "t": "text", "q": "kitob", "a": ["a book", "book"] },
+        { "t": "text", "q": "sumka", "a": ["a bag", "bag"] },
+        { "t": "text", "q": "kompyuter", "a": ["a computer", "computer"] },
+        { "t": "text", "q": "soat (qo‘l soati)", "a": ["a watch", "watch"] },
+        { "t": "text", "q": "telefon", "a": ["a phone", "phone", "a telephone", "telephone"] },
+        { "t": "text", "q": "chipta", "a": ["a ticket", "ticket"] }
+      ]
+    },
+    {
+      "title": "E. Write the numbers in words.",
+      "items": [
+        { "t": "text", "q": "4", "a": ["four"] },
+        { "t": "text", "q": "6", "a": ["six"] },
+        { "t": "text", "q": "2", "a": ["two"] },
+        { "t": "text", "q": "10", "a": ["ten"] },
+        { "t": "text", "q": "5", "a": ["five"] },
+        { "t": "text", "q": "8", "a": ["eight"] }
+      ]
+    },
+    {
+      "title": "F. Write the plural. Use the number in words.",
+      "items": [
+        { "t": "text", "q": "3 + bag", "a": ["three bags"] },
+        { "t": "text", "q": "7 + car", "a": ["seven cars"] },
+        { "t": "text", "q": "2 + apple", "a": ["two apples"] },
+        { "t": "text", "q": "9 + house", "a": ["nine houses"] },
+        { "t": "text", "q": "4 + student", "a": ["four students"] },
+        { "t": "text", "q": "6 + photo", "a": ["six photos"] }
+      ]
+    }
+  ]
+}

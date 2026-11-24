@@ -1,0 +1,958 @@
+{
+ "a": [
+  {
+   "q": "I wanted to buy the new smartphone, but I did not have enough money for it.",
+   "options": [
+    "afford",
+    "waste",
+    "cost",
+    "spend"
+   ],
+   "answer": "afford",
+   "explain": "afford — puli yetish: yangi telefon sotib olishga puli yetmadi"
+  },
+  {
+   "q": "I need to give my friend some money back because he helped me buy lunch yesterday.",
+   "options": [
+    "owe",
+    "lend",
+    "borrow",
+    "save"
+   ],
+   "answer": "owe",
+   "explain": "owe — qarzdor bo'lmoq: kechki ovqat uchun do'stiga pul berishi kerak"
+  },
+  {
+   "q": "She did not want to tell the truth about breaking her mother's vase yesterday afternoon.",
+   "options": [
+    "admit",
+    "pretend",
+    "avoid",
+    "refuse"
+   ],
+   "answer": "admit",
+   "explain": "admit — tan olmoq: vazani sindirganini onasiga oxiri tan oldi"
+  },
+  {
+   "q": "Aziz did not want to speak with his angry teacher after class because he was scared.",
+   "options": [
+    "avoid",
+    "admit",
+    "agree",
+    "refuse"
+   ],
+   "answer": "avoid",
+   "explain": "avoid — chetlab o'tmoq: darsdan keyin o'qituvchidan qochib yurdi"
+  },
+  {
+   "q": "My parents said yes when I asked them to go camping with my friends this weekend.",
+   "options": [
+    "agree",
+    "refuse",
+    "decide",
+    "choose"
+   ],
+   "answer": "agree",
+   "explain": "agree — rozi bo'lmoq: ota-onasi dam olish kuniga rozi bo'lishdi"
+  },
+  {
+   "q": "Malika did not want to eat her vegetables at dinner because she really dislikes carrots.",
+   "options": [
+    "refuse",
+    "agree",
+    "decide",
+    "enjoy"
+   ],
+   "answer": "refuse",
+   "explain": "rad etmoq: sabzavotlarni yeyishni qat'iy rad etdi"
+  },
+  {
+   "q": "My older brother wants to start his own mobile app company and become a businessman.",
+   "options": [
+    "entrepreneur",
+    "investor",
+    "CEO",
+    "income"
+   ],
+   "answer": "entrepreneur",
+   "explain": "tadbirkor: o'zining yangi kompaniyasini ochmoqchi bo'lgan tadbirkor"
+  },
+  {
+   "q": "The leader of our big technology company gave a speech about new computers yesterday morning.",
+   "options": [
+    "CEO",
+    "entrepreneur",
+    "investor",
+    "salary"
+   ],
+   "answer": "CEO",
+   "explain": "bosh direktor: kompaniyaning bosh direktori yangi rejani e'lon qildi"
+  },
+  {
+   "q": "That rich man put a lot of money into our school project to help us build a laboratory.",
+   "options": [
+    "investor",
+    "entrepreneur",
+    "CEO",
+    "salary"
+   ],
+   "answer": "investor",
+   "explain": "investor: maktab loyihasiga katta mablag' kiritgan boy investor"
+  },
+  {
+   "q": "I have a small paper ticket that gives me twenty percent off my next book purchase.",
+   "options": [
+    "coupon",
+    "discount",
+    "sale",
+    "price tag"
+   ],
+   "answer": "coupon",
+   "explain": "kupon: kitob xaridi uchun maxsus chegirma kuponini berdi"
+  },
+  {
+   "q": "This winter jacket is very cheap because the store is selling it for half the normal price.",
+   "options": [
+    "bargain",
+    "discount",
+    "coupon",
+    "sale"
+   ],
+   "answer": "bargain",
+   "explain": "arqon baho topilma: juda arzon narxda sotib olingan zo'r tovar"
+  },
+  {
+   "q": "Our little shop made five million sums of extra money after selling all the winter boots.",
+   "options": [
+    "profits",
+    "salary",
+    "income",
+    "funding"
+   ],
+   "answer": "profits",
+   "explain": "foyda: do'kon bu oyda juda yaxshi foyda ko'rdi"
+  },
+  {
+   "q": "My mother bought some fresh beef and chicken from the man who cuts meat in the market.",
+   "options": [
+    "butcher's",
+    "baker's",
+    "greengrocer's",
+    "newsagent's"
+   ],
+   "answer": "butcher's",
+   "explain": "qassobxona: yangi go'sht sotib olish uchun qassobxonaga bordi"
+  },
+  {
+   "q": "We need to buy some ripe red tomatoes, fresh cucumbers, and green apples for the salad.",
+   "options": [
+    "greengrocer's",
+    "baker's",
+    "butcher's",
+    "florist's"
+   ],
+   "answer": "greengrocer's",
+   "explain": "sabzavot do'koni: yangi sabzavotlar olib kelingan sabzavot do'koni"
+  },
+  {
+   "q": "My aunt bought some beautiful red roses and yellow tulips for her friend's birthday party.",
+   "options": [
+    "florist's",
+    "garden centre",
+    "stationer's",
+    "chemist's"
+   ],
+   "answer": "florist's",
+   "explain": "gul do'koni: bayram uchun gul do'konidan atirgullar oldi"
+  },
+  {
+   "q": "I need to buy some blue pens, exercise books, and colored pencils for my art lessons.",
+   "options": [
+    "stationer's",
+    "newsagent's",
+    "chemist's",
+    "baker's"
+   ],
+   "answer": "stationer's",
+   "explain": "kanselyariya mollari do'koni: daftar va qalamlar sotib oladigan do'kon"
+  },
+  {
+   "q": "My grandfather bought a daily newspaper and a funny crossword magazine from the small shop near the bus stop.",
+   "options": [
+    "newsagent's",
+    "stationer's",
+    "chemist's",
+    "baker's"
+   ],
+   "answer": "newsagent's",
+   "explain": "matbuot do'koni: gazeta va jurnallar sotiladigan kichik do'kon"
+  },
+  {
+   "q": "I have a terrible headache, so I need to go and buy some medicine from the local store.",
+   "options": [
+    "chemist's",
+    "optician's",
+    "hairdresser's",
+    "launderette"
+   ],
+   "answer": "chemist's",
+   "explain": "dorixona: bosh og'rig'i uchun dorixonadan dori oldi"
+  },
+  {
+   "q": "My little sister needs to get her eyes tested because she sits too close to the television.",
+   "options": [
+    "optician's",
+    "chemist's",
+    "hairdresser's",
+    "jeweller's"
+   ],
+   "answer": "optician's",
+   "explain": "ko'z shifokori do'koni: ko'zoynak tanlash uchun optikaga bordi"
+  },
+  {
+   "q": "My brother wants to cut his long hair short before school starts next Monday morning.",
+   "options": [
+    "hairdresser's",
+    "optician's",
+    "chemist's",
+    "launderette"
+   ],
+   "answer": "hairdresser's",
+   "explain": "sartaroshxona: sochini oldirish uchun sartaroshxonaga bordi"
+  },
+  {
+   "q": "I went to the place where they keep lots of money and put some cash into my saving account.",
+   "options": [
+    "bank",
+    "post-office",
+    "charity shop",
+    "estate agent's"
+   ],
+   "answer": "bank",
+   "explain": "bank: pul saqlash va chiqarish uchun mo'ljallangan bank binosi"
+  },
+  {
+   "q": "My grandmother sent a heavy box filled with delicious dried fruits to her relatives in another city.",
+   "options": [
+    "post-office",
+    "bank",
+    "stationer's",
+    "newsagent's"
+   ],
+   "answer": "post-office",
+   "explain": "pochta bo'limi: boshqa shaharga posilka yuborish uchun pochtaga bordi"
+  },
+  {
+   "q": "My mother bought a silver ring with a small blue stone for her birthday present yesterday.",
+   "options": [
+    "jeweller's",
+    "chemist's",
+    "florist's",
+    "stationer's"
+   ],
+   "answer": "jeweller's",
+   "explain": "zargarlik do'koni: kumush uzuk sotib olingan zargarlik do'koni"
+  },
+  {
+   "q": "My father bought five small apple trees and green grass seeds to plant in our countryside yard.",
+   "options": [
+    "garden centre",
+    "DIY store",
+    "florist's",
+    "greengrocer's"
+   ],
+   "answer": "garden centre",
+   "explain": "bog'dorchilik markazi: daraxt ko'chatlari sotib olinadigan bog' markazi"
+  },
+  {
+   "q": "I bought a warm woolen sweater from the shopping mall because the weather is getting cold.",
+   "options": [
+    "clothes shop",
+    "shoe shop",
+    "cosmetics store",
+    "jeweller's"
+   ],
+   "answer": "clothes shop",
+   "explain": "kiyim-kechak do'koni: issiq sviter olgan kiyim do'koni"
+  },
+  {
+   "q": "My brother bought a pair of white running shoes for his football practice sessions on Saturdays.",
+   "options": [
+    "shoe shop",
+    "clothes shop",
+    "newsagent's",
+    "baker's"
+   ],
+   "answer": "shoe shop",
+   "explain": "poyabzal do'koni: sport krossovkalari sotib olingan poyabzal do'koni"
+  },
+  {
+   "q": "My father wanted to buy a new car, but he could not pay the money because prices were too high.",
+   "options": [
+    "afford",
+    "spend",
+    "save",
+    "cost"
+   ],
+   "answer": "afford",
+   "explain": "afford — sotib olishga qurbi yetmoq: u yangi mashina olishga qurbi yetmadi."
+  },
+  {
+   "q": "Yesterday I walked into the local shop to purchase some fresh bread and hot rolls for breakfast.",
+   "options": [
+    "baker's",
+    "butcher's",
+    "greengrocer's",
+    "chemist's"
+   ],
+   "answer": "baker's",
+   "explain": "baker's — nonvoyxona: non sotib olish uchun nonvoyxonaga kirdim."
+  },
+  {
+   "q": "Zara needed some fresh beef for her grandmother's traditional soup, so she visited the meat market.",
+   "options": [
+    "baker's",
+    "butcher's",
+    "greengrocer's",
+    "florist's"
+   ],
+   "answer": "butcher's",
+   "explain": "butcher's — qassobxona: go'sht sotib olish uchun qassobxonaga bordi."
+  },
+  {
+   "q": "Jasur went to the pharmacy to buy some cold medicine and vitamins because he felt sick.",
+   "options": [
+    "chemist's",
+    "baker's",
+    "newsagent's",
+    "stationer's"
+   ],
+   "answer": "chemist's",
+   "explain": "chemist's — dorixona: dori-darmon sotib oladigan joy."
+  },
+  {
+   "q": "We bought a lovely bouquet of red roses for our English teacher on the last school day.",
+   "options": [
+    "florist's",
+    "jeweller's",
+    "garden centre",
+    "cosmetics store"
+   ],
+   "answer": "florist's",
+   "explain": "florist's — gul do'koni: o'qituvchimiz uchun chiroyli gullar sotib oldik."
+  },
+  {
+   "q": "Aziza wanted to read the latest weekly magazine about science, so she visited the small street kiosk.",
+   "options": [
+    "newsagent's",
+    "stationer's",
+    "chemist's",
+    "baker's"
+   ],
+   "answer": "newsagent's",
+   "explain": "newsagent's — gazeta va jurnal do'koni: u yerdan qiziqarli jurnallar topish mumkin."
+  },
+  {
+   "q": "I bought some new notebooks and colourful pens for my upcoming lessons at school.",
+   "options": [
+    "stationer's",
+    "newsagent's",
+    "chemist's",
+    "baker's"
+   ],
+   "answer": "stationer's",
+   "explain": "stationer's — qog'oz-daftar do'koni: maktab uchun daftarlar xarid qildim."
+  },
+  {
+   "q": "My sister bought a shiny silver ring for her birthday party from the downtown shop.",
+   "options": [
+    "jeweller's",
+    "florist's",
+    "clothes shop",
+    "cosmetics store"
+   ],
+   "answer": "jeweller's",
+   "explain": "jeweller's — zargarlik do'koni: u yerdan kumush uzuk sotib oldi."
+  },
+  {
+   "q": "Timur used his monthly pocket money to buy a new video game without thinking about tomorrow.",
+   "options": [
+    "spend",
+    "save",
+    "borrow",
+    "lend"
+   ],
+   "answer": "spend",
+   "explain": "spend — pul sarflamoq: cho'ntak pulini yangi o'yinga sarfladi."
+  },
+  {
+   "q": "Can you give me fifty thousand sums until next Monday when I get my monthly allowance?",
+   "options": [
+    "borrow",
+    "lend",
+    "save",
+    "spend"
+   ],
+   "answer": "borrow",
+   "explain": "borrow — qarzga olmoq: dushanbagacha pulni do'stimdan qarzga oldim."
+  },
+  {
+   "q": "I gave my friend some money to buy lunch because she left her purse in the classroom.",
+   "options": [
+    "lend",
+    "borrow",
+    "save",
+    "spend"
+   ],
+   "answer": "lend",
+   "explain": "lend: do'stimga tushlik uchun pul berib turdim."
+  },
+  {
+   "q": "This pair of jeans is on sale with a twenty percent reduction in the usual price.",
+   "options": [
+    "discount",
+    "refund",
+    "coupon",
+    "price tag"
+   ],
+   "answer": "discount",
+   "explain": "discount — chegirma: mahsulotga yigirma foiz chegirma berildi."
+  },
+  {
+   "q": "The small paper ticket shows that the blue shirt costs exactly one hundred thousand sums.",
+   "options": [
+    "price tag",
+    "receipt",
+    "coupon",
+    "discount"
+   ],
+   "answer": "price tag",
+   "explain": "price tag — narx yorlig'i: ko'ylakda uning narxi yozilgan."
+  },
+  {
+   "q": "After buying the shoes, the cashier gave me a small paper slip to prove the purchase.",
+   "options": [
+    "receipt",
+    "price tag",
+    "coupon",
+    "refund"
+   ],
+   "answer": "receipt",
+   "explain": "receipt — chek: xaridni tasdiqlovchi qog'oz oldim."
+  }
+ ],
+ "b": [
+  {
+   "q": "We need to buy some fresh flowers for our teacher at the nearby ______ before school starts.",
+   "options": [
+    "florist's",
+    "baker's",
+    "butcher's",
+    "newsagent's"
+   ],
+   "answer": "florist's",
+   "explain": "florist's — gul dokoni: o'qituvchimiz uchun gul sotib olishimiz kerak"
+  },
+  {
+   "q": "My older brother wants to ______ a new smartphone by saving his pocket money every month.",
+   "options": [
+    "afford",
+    "waste",
+    "cost",
+    "spend"
+   ],
+   "answer": "afford",
+   "explain": "afford — qurbi yetmoq: u cho'ntak pulini yig'ib yangi telefon sotib olmoqchi"
+  },
+  {
+   "q": "My mother asked me to go to the ______ to buy some fresh beef and chicken for dinner.",
+   "options": [
+    "butcher's",
+    "baker's",
+    "greengrocer's",
+    "chemist's"
+   ],
+   "answer": "butcher's",
+   "explain": "butcher's — qassobxona: kechki ovqat uchun mol go'shti sotib olishim kerak"
+  },
+  {
+   "q": "My grandfather always checks the ______ on clothes to make sure things are not too expensive.",
+   "options": [
+    "price tag",
+    "receipt",
+    "coupon",
+    "discount"
+   ],
+   "answer": "price tag",
+   "explain": "price tag — narx yorlig'i: bobom kiyimlar qimmat emasligini bilish uchun narxini ko'radi"
+  },
+  {
+   "q": "Please keep this paper ______ safely inside your bag in case we need to bring back the jacket.",
+   "options": [
+    "receipt",
+    "coupon",
+    "discount",
+    "price tag"
+   ],
+   "answer": "receipt",
+   "explain": "receipt — chek: jaketni qaytarishimiz kerak bo'lsa, xarid chekini saqlab qo'ying"
+  },
+  {
+   "q": "My little sister likes to ______ that she is a famous queen while playing in her bedroom.",
+   "options": [
+    "pretend",
+    "decide",
+    "expect",
+    "refuse"
+   ],
+   "answer": "pretend",
+   "explain": "pretend — o'zini ko'rsatmoq: u o'zini mashhur malika sifatida ko'rsatishni yaxshi ko'radi"
+  },
+  {
+   "q": "We decided to ______ our old wooden bicycle to our neighbor boy for a very small price.",
+   "options": [
+    "sell",
+    "buy",
+    "borrow",
+    "lend"
+   ],
+   "answer": "sell",
+   "explain": "sell — sotmoq: eski velosipedimizni qo'shni bolaga arzon narxda sotishga qaror qildik"
+  },
+  {
+   "q": "I need to go to the ______ to post this birthday letter to my cousin in Tashkent.",
+   "options": [
+    "post-office",
+    "bank",
+    "chemist's",
+    "launderette"
+   ],
+   "answer": "post-office",
+   "explain": "post-office — pochta: bu tug'ilgan kun xatini Toshkentdagi amakivachchamga yuborishim kerak"
+  },
+  {
+   "q": "The local ______ sells very delicious warm bread and sweet biscuits every morning before classes.",
+   "options": [
+    "baker's",
+    "butcher's",
+    "greengrocer's",
+    "newsagent's"
+   ],
+   "answer": "baker's",
+   "explain": "baker's — nonvoyxona: mahalliy nonvoyxona har kuni ertalab mazali issiq non sotadi"
+  },
+  {
+   "q": "My sister wants to ______ a nice blue dress for her graduation party next month.",
+   "options": [
+    "choose",
+    "refuse",
+    "pretend",
+    "admit"
+   ],
+   "answer": "choose",
+   "explain": "choose — tanlamoq: singlim bitiruv oqshomi uchun chiroyli ko'ylak tanlamoqchi"
+  },
+  {
+   "q": "We should ______ eating too much fast food because it is very unhealthy for teenagers.",
+   "options": [
+    "avoid",
+    "enjoy",
+    "mind",
+    "fancy"
+   ],
+   "answer": "avoid",
+   "explain": "avoid — chetlab o'tmoq: o'smirlar uchun zararli bo'lgani sababli fast-fuddan qochishimiz kerak"
+  },
+  {
+   "q": "My uncle works hard as a successful ______ and manages a large furniture factory in Samarkand.",
+   "options": [
+    "entrepreneur",
+    "investor",
+    "CEO",
+    "estate agent's"
+   ],
+   "answer": "entrepreneur",
+   "explain": "entrepreneur — tadbirkor: amakim Samarqandda muvaffaqiyatli tadbirkor bo'lib ishlaydi"
+  },
+  {
+   "q": "The young ______ decided to put fifty thousand dollars into my friend's new mobile app project.",
+   "options": [
+    "investor",
+    "entrepreneur",
+    "CEO",
+    "bargain"
+   ],
+   "answer": "investor",
+   "explain": "investor — investor: investor do'stimizning mobil ilova loyihasiga pul tikdi"
+  },
+  {
+   "q": "We found a wonderful ______ on these winter boots because they were half price today.",
+   "options": [
+    "bargain",
+    "coupon",
+    "refund",
+    "discount"
+   ],
+   "answer": "bargain",
+   "explain": "bargain — arzon xarid: qishki etiklar yarmiga arzonlashgani uchun juda foydali xarid bo'ldi"
+  },
+  {
+   "q": "My brother got a great ______ on his new laptop because he used a special online code.",
+   "options": [
+    "discount",
+    "receipt",
+    "price tag",
+    "refund"
+   ],
+   "answer": "discount",
+   "explain": "discount: chegirma — maxsus kod yordamida noutbukni chegirma bilan sotib oldi"
+  },
+  {
+   "q": "You can use this ______ to get twenty percent off your next purchase at the bookstore.",
+   "options": [
+    "coupon",
+    "receipt",
+    "price tag",
+    "bargain"
+   ],
+   "answer": "coupon",
+   "explain": "coupon — kupon: bu kupon orqali kitob do'konidan chegirma olishingiz mumkin"
+  },
+  {
+   "q": "My mother always buys fresh apples and carrots at the local ______ near our apartment building.",
+   "options": [
+    "greengrocer's",
+    "baker's",
+    "butcher's",
+    "florist's"
+   ],
+   "answer": "greengrocer's",
+   "explain": "greengrocer's — sabzavot dokoni: onam har doim yaqin atrofdagi sabzavot do'konidan meva oladi"
+  },
+  {
+   "q": "My father goes to the ______ every Saturday morning to read newspapers and buy a weekly magazine.",
+   "options": [
+    "newsagent's",
+    "stationer's",
+    "baker's",
+    "greengrocer's"
+   ],
+   "answer": "newsagent's",
+   "explain": "newsagent's — gazeta-jurnal dokoni: dadam har shanba kuni gazeta sotib olgani boradi"
+  },
+  {
+   "q": "I need to get some headache medicine from the ______ because my head has been hurting all day.",
+   "options": [
+    "chemist's",
+    "baker's",
+    "greengrocer's",
+    "newsagent's"
+   ],
+   "answer": "chemist's",
+   "explain": "chemist's — dorixona: boshim og'rigani uchun dorixonadan dori olishim kerak"
+  },
+  {
+   "q": "We can buy some delicious hot pizza from the new Italian ______ down the street tonight.",
+   "options": [
+    "takeaway",
+    "baker's",
+    "butcher's",
+    "greengrocer's"
+   ],
+   "answer": "takeaway",
+   "explain": "takeaway — olib ketish uchun ovqat: kechqurun ko'chadagi yangi joydan pitssa olib kelishimiz mumkin"
+  },
+  {
+   "q": "My aunt likes to drink green tea and eat chocolate cake at her favorite ______ on Sundays.",
+   "options": [
+    "coffee shop",
+    "chemist's",
+    "stationer's",
+    "newsagent's"
+   ],
+   "answer": "coffee shop",
+   "explain": "coffee shop — qahvaxona: xolam yakshanba kunlari sevimli qahvaxonasida choy ichishni yoqtiradi"
+  },
+  {
+   "q": "My mother went to the ______ to buy some fresh beef and chicken for dinner.",
+   "options": [
+    "baker's",
+    "butcher's",
+    "greengrocer's",
+    "chemist's"
+   ],
+   "answer": "butcher's",
+   "explain": "butcher's — qassobxona: onam kechki ovqatga go'sht sotib olish uchun qassobxonaga bordi."
+  },
+  {
+   "q": "My sister loves fashion, so she visits the local ______ every weekend to buy new dresses.",
+   "options": [
+    "clothes shop",
+    "newsagent's",
+    "stationer's",
+    "baker's"
+   ],
+   "answer": "clothes shop",
+   "explain": "clothes shop — kiyim do'koni: opam har dam olish kuni yangi ko'ylaklar sotib oladi."
+  },
+  {
+   "q": "If you buy two T-shirts today, you will get a great ______ on the second one.",
+   "options": [
+    "price tag",
+    "receipt",
+    "discount",
+    "contract"
+   ],
+   "answer": "discount",
+   "explain": "discount — chegirma: agar bugun ikkita futbolka olsangiz, ikkinchisiga chegirma olasiz."
+  },
+  {
+   "q": "I cannot ______ to buy that expensive smartphone because my pocket money is very low.",
+   "options": [
+    "afford",
+    "spend",
+    "offer",
+    "charge"
+   ],
+   "answer": "afford",
+   "explain": "afford — qurbi yetmoq: cho'ntak pulim kamligi uchun qimmat smartfon sotib olishga qurbim yetmaydi."
+  },
+  {
+   "q": "Please check the ______ on this jacket to see how much money it costs.",
+   "options": [
+    "discount",
+    "price tag",
+    "coupon",
+    "refund"
+   ],
+   "answer": "price tag",
+   "explain": "price tag — narx yorlig'i: jaket qancha turishini bilish uchun narx yorlig'ini tekshiring."
+  },
+  {
+   "q": "Zarina bought a beautiful gold ring at the ______ in the centre of Tashkent.",
+   "options": [
+    "jeweller's",
+    "florist's",
+    "launderette",
+    "hairdresser's"
+   ],
+   "answer": "jeweller's",
+   "explain": "jeweller's — zargarlik do'koni: Zarina Toshkent markazidagi zargarlik do'konidan uzuk sotib oldi."
+  },
+  {
+   "q": "My grandfather always reads the morning newspaper that he buys from the local ______.",
+   "options": [
+    "newsagent's",
+    "coffee shop",
+    "post-office",
+    "baker's"
+   ],
+   "answer": "newsagent's",
+   "explain": "newsagent's — gazeta do'koni: bobom har doim gazeta sotib oladigan do'kon."
+  },
+  {
+   "q": "Do not forget to keep your ______ in case you need to return the shoes tomorrow.",
+   "options": [
+    "receipt",
+    "coupon",
+    "bargain",
+    "salary"
+   ],
+   "answer": "receipt",
+   "explain": "receipt — chek: ertaga poyabzalni qaytarish kerak bo'lsa, chekingizni saqlang."
+  },
+  {
+   "q": "She wants to ______ her old bicycle because she needs a larger one for school.",
+   "options": [
+    "buy",
+    "sell",
+    "borrow",
+    "lend"
+   ],
+   "answer": "sell",
+   "explain": "sell — sotmoq: maktab uchun kattaroq velosiped kerakligi sababli eskisini sotmoqchi."
+  }
+ ],
+ "c": [
+  {
+   "q": "We need to ______ some money from our friendly neighbor to fix the broken bicycle.",
+   "answer": "borrow",
+   "base": "borrow",
+   "explain": "borrow — qarzga olmoq: vaqtincha foydalanish uchun olmoq."
+  },
+  {
+   "q": "Dad cannot ______ a brand new sports car because it is extremely expensive for us.",
+   "answer": "afford",
+   "base": "afford",
+   "explain": "afford — qurbi yetmoq: xarid qilish uchun yetarli pulga ega bo'lmoq."
+  },
+  {
+   "q": "Do you want to ______ your old winter coat to someone who really needs it?",
+   "answer": "sell",
+   "base": "sell",
+   "explain": "sell — sotmoq: pul evaziga narsa bermoq."
+  },
+  {
+   "q": "Aziz needs to ______ for his new English textbook at the school bookshop this morning.",
+   "answer": "pay",
+   "base": "pay (for sth)",
+   "explain": "pay — to'lamoq: xarid uchun pul bermoq."
+  },
+  {
+   "q": "Please keep your paper ______ safely in your bag in case you need to return the shoes.",
+   "answer": "receipt",
+   "base": "receipt",
+   "explain": "receipt — chek: xaridni tasdiqlovchi qog'oz."
+  },
+  {
+   "q": "My older brother wants to be a successful ______ and start his own technology company soon.",
+   "answer": "entrepreneur",
+   "base": "entrepreneur",
+   "explain": "entrepreneur — tadbirkor: o'z biznesini boshlovchi shaxs."
+  },
+  {
+   "q": "The local supermarket gave us a special ______ because we bought three large bottles of juice.",
+   "answer": "discount",
+   "base": "discount",
+   "explain": "discount — chegirma: narxning arzonlashishi."
+  },
+  {
+   "q": "I always ______ a lot of time playing computer games when I should finish my homework first.",
+   "answer": "waste",
+   "base": "waste",
+   "explain": "waste — behuda sarflamoq: vaqtni yoki pulni to'g'ri ishlatmaslik."
+  },
+  {
+   "q": "Tim had to ______ that he broke the window because everyone saw him playing football outside.",
+   "answer": "admit",
+   "base": "admit",
+   "explain": "admit — tan olmoq: xatoni yashirmasdan aytmoq."
+  },
+  {
+   "q": "We should ______ some money every week if we want to travel to Samarkand next summer.",
+   "answer": "save",
+   "base": "save",
+   "explain": "save — tejamoq: pulni kelajak uchun yig'ib bormoq."
+  },
+  {
+   "q": "Zara wants to ______ a wonderful blue dress for her sister's upcoming birthday party.",
+   "answer": "buy",
+   "base": "buy",
+   "explain": "buy — sotib olmoq: pul evaziga narsa qo'lga kiritmoq."
+  },
+  {
+   "q": "My aunt works as a manager and earns a very good monthly ______ from her office job.",
+   "answer": "salary",
+   "base": "salary",
+   "explain": "salary — oylik maosh: bajarilgan ish uchun beriladigan pul."
+  },
+  {
+   "q": "Do you want to ______ to the cinema with me or stay at home and watch television?",
+   "answer": "choose",
+   "base": "choose",
+   "explain": "choose — tanlamoq: biror narsani afzal ko'rib olmoq."
+  },
+  {
+   "q": "The clever businessman signed a very important ______ with a big international company yesterday.",
+   "answer": "contract",
+   "base": "contract",
+   "explain": "contract — shartnoma: ikki tomonlama imzolangan kelishuv hujjati."
+  },
+  {
+   "q": "My little brother tried to ______ that he was sleeping when mum came into his bedroom.",
+   "answer": "pretend",
+   "base": "pretend",
+   "explain": "pretend — o'zini ko'rsatmoq: yolg'ondan shunday qilmoq."
+  },
+  {
+   "q": "We can get a small ______ on our coffee if we use this paper paper during the morning.",
+   "answer": "coupon",
+   "base": "coupon",
+   "explain": "coupon — kupon: chegirma beruvchi maxsus talon."
+  },
+  {
+   "q": "The new restaurant in our neighborhood had a big ______ on all traditional Uzbek dishes today.",
+   "answer": "sale",
+   "base": "sale",
+   "explain": "sale — savdo yoki arzonchilik: mahsulotlar arzon sotiladigan kun."
+  },
+  {
+   "q": "My mother decided to ______ some money to her younger sister for university books.",
+   "answer": "lend",
+   "base": "lend",
+   "explain": "lend — qarzga bermoq: u opasiga o'qish uchun pul qarzga berdi."
+  },
+  {
+   "q": "Can I ______ this interesting book about science from you until next Monday?",
+   "answer": "borrow",
+   "base": "borrow",
+   "explain": "borrow — qarzga olmoq: dushanbagacha bu qiziqarli kitobni sizdan olib tursam bo'ladimi?"
+  },
+  {
+   "q": "She wants to ______ a nice red dress for her best friend's wedding party.",
+   "answer": "buy",
+   "base": "buy",
+   "explain": "buy — sotib olmoq: u yaqin do'stining to'y bazmi uchun chiroyli qizil ko'ylak sotib olmoqchi."
+  },
+  {
+   "q": "My older brother works hard as a successful ______ in Tashkent city center.",
+   "answer": "entrepreneur",
+   "base": "entrepreneur",
+   "explain": "entrepreneur — tadbirkor: akam Toshkent markazida muvaffaqiyatli tadbirkor bo'lib qattiq ishlaydi."
+  },
+  {
+   "q": "We bought these winter boots on ______ because they were fifty percent cheaper today.",
+   "answer": "sale",
+   "base": "sale",
+   "explain": "sale — chegirma savdosi: bugun qishki etiklar ellik foiz arzon bo'lgani uchun sotib oldik."
+  },
+  {
+   "q": "You should always keep your paper ______ if you want to change the shirt.",
+   "answer": "receipt",
+   "base": "receipt",
+   "explain": "receipt — chek: ko'ylakni almashtirmoqchi bo'lsangiz, doim qog'oz chekni saqlashingiz kerak."
+  },
+  {
+   "q": "I found a great ______ in the local newspaper for free pizza delivery tonight.",
+   "answer": "coupon",
+   "base": "coupon",
+   "explain": "coupon — kupon: mahalliy gazetadan kechki bepul pitsa yetkazib berish kuponini topdim."
+  },
+  {
+   "q": "We bought a delicious hot mutton ______ from the restaurant for dinner tonight.",
+   "answer": "takeaway",
+   "base": "takeaway",
+   "explain": "takeaway — olib ketish uchun taom: kechki ovqatga restorandan mazali go'shtli taom oldik."
+  },
+  {
+   "q": "She took her dirty winter coats to the local ______ because of heavy rain.",
+   "answer": "launderette",
+   "base": "launderette",
+   "explain": "launderette — kir yuvish shoxobchasi: qishki kiyimlarini yuvish uchun mahalliy lauderette ga olib bordi."
+  },
+  {
+   "q": "We need to visit the local ______ to deposit some savings into my account.",
+   "answer": "bank",
+   "base": "bank",
+   "explain": "bank — bank: hisob raqamimga mablag' qo'yish uchun mahalliy bankka borishimiz kerak."
+  },
+  {
+   "q": "We need to ______ money every month if we want to buy a new laptop.",
+   "answer": "save",
+   "base": "save",
+   "explain": "save — tejash, yig'ish: kelajak uchun pul to'plash."
+  },
+  {
+   "q": "You should always keep your ______ in case you need to return the faulty shirt.",
+   "answer": "receipt",
+   "base": "receipt",
+   "explain": "receipt — chek: xarid uchun beriladigan to'lov qog'ozi."
+  },
+  {
+   "q": "Can you ______ me five thousand som until tomorrow when I see you?",
+   "answer": "lend",
+   "base": "lend",
+   "explain": "lend — qarzga berish: boshqaga vaqtincha pul berish."
+  }
+ ]
+}

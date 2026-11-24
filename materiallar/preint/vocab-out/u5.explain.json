@@ -1,0 +1,682 @@
+[
+ {
+  "why": "«dentist» — tish shifokori. Gapda «fixing broken teeth» bor: bolalarning tishini davolaydigan inson tish shifokori bo'ladi.",
+  "wrong": {
+   "architect": "«architect» — me'mor; bu yerda binolar haqida emas, tishlar haqida ketmoqda.",
+   "engineer": "«engineer» — muhandis; u tish davolamaydi.",
+   "builder": "«builder» — quruvchi; tish tuzatish bilan shug'ullanmaydi."
+  }
+ },
+ {
+  "why": "«architect» — me'mor. Gapda «designs beautiful modern houses» bor: uylarni loyihalashtiradigan kasb egasi me'mor hisoblanadi.",
+  "wrong": {
+   "builder": "«builder» — quruvchi; uylarni loyihalashtirmaydi, balki quradi.",
+   "cleaner": "«cleaner» — farrosh; uy loyihasini chizmaydi.",
+   "gardener": "«gardener» — bog'bon; uy loyihasi bilan shug'ullanmaydi."
+  }
+ },
+ {
+  "why": "«gardener» — bog'bon. Gapda «cut the grass and plant colorful flowers» bor: o't o'rib, gul ekadigan odam bog'bon bo'ladi.",
+  "wrong": {
+   "builder": "«builder» — quruvchi; bog'dagi gullar bilan ishlamaydi.",
+   "cleaner": "«cleaner» — farrosh; o't o'rmaydi.",
+   "engineer": "«engineer» — muhandis; bog'bonlik qilmaydi."
+  }
+ },
+ {
+  "why": "«builder» — quruvchi. Gapda «builds strong stone walls» bor: tosh devorlar quradigan kishi quruvchi deyiladi.",
+  "wrong": {
+   "architect": "«architect» — me'mor; u faqat loyiha qiladi, devor qurmaydi.",
+   "engineer": "«engineer» — muhandis; devor ko'tarmaydi.",
+   "gardener": "«gardener» — bog'bon; u devorlar bilan ishlamaydi."
+  }
+ },
+ {
+  "why": "«cleaner» — farrosh. Gapda «cleans all the hotel rooms» bor: xonalarni tozalaydigan xodim farrosh hisoblanadi.",
+  "wrong": {
+   "gardener": "«gardener» — bog'bon; mehmonxona xonalarini tozalamaydi.",
+   "builder": "«builder» — quruvchi; tozalash ishlari bilan shug'ullanmaydi.",
+   "architect": "«architect» — me'mor; xona tozalamaydi."
+  }
+ },
+ {
+  "why": "«engineer» — muhandis. Gapda «designs complex computer systems» bor: murakkab tizimlar va ko'priklar xavfsizligini ta'minlovchi mutaxassis muhandisdir.",
+  "wrong": {
+   "architect": "«architect» — me'mor; kompyuter tizimlari bilan shug'ullanmaydi.",
+   "builder": "«builder» — quruvchi; tizim loyihalamaydi.",
+   "programmer": "«programmer» — dasturchi; ko'priklar xavfsizligiga javob bermaydi."
+  }
+ },
+ {
+  "why": "«journalist» — jurnalist. Gapda «writes interesting articles» va «for newspapers» bor: gazetalar uchun maqola yozuvchi inson jurnalistdir.",
+  "wrong": {
+   "photographer": "«photographer» — fotokashfiyotchi/suratkash; maqola yozmaydi.",
+   "receptionist": "«receptionist» — qabulxona xodimi; matbuot uchun yozmaydi.",
+   "travel agent": "«travel agent» — turizm agenti; maqola yozish bilan shug'ullanmaydi."
+  }
+ },
+ {
+  "why": "«photographer» — suratkash. Gapda «takes amazing pictures» va «professional camera» bor: professional kamera yordamida rasmga oluvchi shaxs suratkashdir.",
+  "wrong": {
+   "journalist": "«journalist» — jurnalist; rasmga olmaydi, maqola yozadi.",
+   "receptionist": "«receptionist» — qabulxona xodimi; suratga olish bilan shug'ullanmaydi.",
+   "estate agent": "«estate agent» — ko'chmas mulk agenti; professional suratkash emas."
+  }
+ },
+ {
+  "why": "«receptionist» — qabulxona xodimi. Gapda «sits at the front desk» va «welcomes every new visitor» bor: mehmonlarni kutib oluvchi xodim qabulxonada o'tiradi.",
+  "wrong": {
+   "waiter": "«waiter» — ofitsiant; mehmonxonada qabulxona deskida o'tirmaydi.",
+   "sales assistant": "«sales assistant» — sotuvchi; mehmonlarni kutib olmaydi.",
+   "travel agent": "«travel agent» — turizm agenti; mehmonxona qabulxonasida ishlamaydi."
+  }
+ },
+ {
+  "why": "«travel agent» — turizm agenti. Gapda «find the right holiday packages» va «airplane tickets» bor: sayohat va chiptalar bilan ishlovchi shaxs turizm agentidir.",
+  "wrong": {
+   "receptionist": "«receptionist» — qabulxona xodimi; aviachipta sotmaydi.",
+   "sales assistant": "«sales assistant» — sotuvchi; turistik paketlar taklif qilmaydi.",
+   "journalist": "«journalist» — jurnalist; sayohat chiptalarini band qilmaydi."
+  }
+ },
+ {
+  "why": "«pizza delivery man/woman» — pitsa yetkazib beruvchi. Gapda «brings hot cheese pizzas right to customers' front doors» bor: pitsa olib keluvchi shaxs shunday ataladi.",
+  "wrong": {
+   "waiter": "«waiter» — ofitsiant; u taomlarni eshikka emas, restoran stoliga olib keladi.",
+   "sales assistant": "«sales assistant» — sotuvchi; pitsa yetkazib bermaydi.",
+   "receptionist": "«receptionist» — qabulxona xodimi; pitsa tashimaydi."
+  }
+ },
+ {
+  "why": "«waiter» — ofitsiant. Gapda «serves delicious traditional food» va «restaurant tables» bor: restoran stolida xizmat ko'rsatuvchi ofitsiantdir.",
+  "wrong": {
+   "sales assistant": "«sales assistant» — sotuvchi; restoranda ovqat tortiq qilmaydi.",
+   "receptionist": "«receptionist» — qabulxona xodimi; ofitsiant emas.",
+   "travel agent": "«travel agent» — turizm agenti; restoran stollariga xizmat ko'rsatmaydi."
+  }
+ },
+ {
+  "why": "«sales assistant» — sotuvchi. Gapda «helps shoppers choose warm winter jackets» bor: xaridorlarga kiyim tanlashda yordamlashuvchi shaxs sotuvchidir.",
+  "wrong": {
+   "waiter": "«waiter» — ofitsiant; do'konda kiyim sotmaydi.",
+   "receptionist": "«receptionist» — qabulxona xodimi; qishki kurtkalar sotish bilan shug'ullanmaydi.",
+   "travel agent": "«travel agent» — turizm agenti; do'konda ishlamaydi."
+  }
+ },
+ {
+  "why": "«estate agent» — ko'chmas mulk agenti. Gapda «helps people buy and sell big houses» bor: uy sotib olish va sotishga ko'maklashuvchi kishi shu kasb egasidir.",
+  "wrong": {
+   "travel agent": "«travel agent» — turizm agenti; uy oldi-sotdisi bilan shug'ullanmaydi.",
+   "journalist": "«journalist» — jurnalist; uy sotmaydi.",
+   "photographer": "«photographer» — suratkash; ko'chmas mulk agenti emas."
+  }
+ },
+ {
+  "why": "«farm worker» — fermer xo'jaligi ishchisi. Gapda «picking fresh cotton and vegetables on his family farm» bor: fermada ishlaydigan inson shunday ataladi.",
+  "wrong": {
+   "gardener": "«gardener» — bog'bon; u fermada paxta terish bilan shug'ullanmaydi.",
+   "builder": "«builder» — quruvchi; sabzavot ekmaydi va termaydi.",
+   "groundskeeper": "«groundskeeper» — maydon boni/farroshi; fermada ishlamaydi."
+  }
+ },
+ {
+  "why": "«hairdresser» — sartarosh. Gapda «cuts and styles teenagers' hair» bor: soch kesib, unga shakl beruvchi mutaxassis sartaroshdir.",
+  "wrong": {
+   "cleaner": "«cleaner» — farrosh; soch kesmaydi.",
+   "dentist": "«dentist» — tish shifokori; soch turmaklash bilan shug'ullanmaydi.",
+   "photographer": "«photographer» — suratkash; soch kesishga aloqasi yo'q."
+  }
+ },
+ {
+  "why": "«stunt performer» — kaskadyor. Gapda «jumps from tall burning buildings in Hollywood action films» bor: xavfli sahnalarda harakat qiluvchi kishi kaskadyordir.",
+  "wrong": {
+   "pilot": "«pilot» — uchuvchi; kinolarda yoniq binolardan sakramaydi.",
+   "police officer": "«police officer» — politsiyachi; u kino uchun xavfli fokuslar qilmaydi.",
+   "paramedic": "«paramedic» — tez yordam xodimi; kaskadyor emas."
+  }
+ },
+ {
+  "why": "«pilot» — uchuvchi. Gapda «flies big passenger airplanes across continents» bor: samolyot boshqaradigan inson uchuvchi hisoblanadi.",
+  "wrong": {
+   "stunt performer": "«stunt performer» — kaskadyor; samolyot boshqarmaydi.",
+   "paramedic": "«paramedic» — tez yordam xodimi; samolyot uchirmaydi.",
+   "police officer": "«police officer» — politsiyachi; samolyot haydamaydi."
+  }
+ },
+ {
+  "why": "«paramedic» — tez yordam xodimi. Gapda «drives an ambulance» bor: tez yordam mashinasini haydab, bemorlarga yordam beruvchi shaxs paramedikdir.",
+  "wrong": {
+   "police officer": "«police officer» — politsiyachi; tez yordam mashinasida ishlamaydi.",
+   "pilot": "«pilot» — uchuvchi; tez yordam haydamaydi.",
+   "stunt performer": "«stunt performer» — kaskadyor; tez yordam mashinasini boshqarmaydi."
+  }
+ },
+ {
+  "why": "«police officer» — politsiyachi. Gapda «catches dangerous criminals and protects local citizens» bor: jinoyatchilarni ushlab, fuqarolarni himoya qiluvchi xodim politsiyachidir.",
+  "wrong": {
+   "paramedic": "«paramedic» — tez yordam xodimi; jinoyatchilarni qo'lga olmaydi.",
+   "pilot": "«pilot» — uchuvchi; jinoyatchilar bilan kurashmaydi.",
+   "stunt performer": "«stunt performer» — kaskadyor; politsiyachi vazifasini bajarmaydi."
+  }
+ },
+ {
+  "why": "«solicitor» — huquqshunos va maslahatchi. Gapda «represents them in court» bor: sudda himoya qilish va yuridik maslahat berish ushbu kasbga tegishli.",
+  "wrong": {
+   "architect": "«architect» — me'mor; bu yerda gap sud va yuridik maslahat haqida, bino loyihasi emas.",
+   "engineer": "«engineer» — muhandis; bu huquqiy ishlar va sud bilan bog'liq emas.",
+   "journalist": "«journalist» — jurnalist; ular maqola yozadi, sudga vakillik qilmaydi."
+  }
+ },
+ {
+  "why": "«sports coach» — sport murabbiyi. Gapda «trains the school football team» bor: futbol jamoasini mashq qildirish murabbiyning vazifasidir.",
+  "wrong": {
+   "surfing instructor": "«surfing instructor» — sörfing o'qituvchisi; bu yerda maktab futbol jamoasi haqida gap ketmoqda.",
+   "paramedic": "«paramedic» — tez yordam xodimi; ular sport jamoasini shug'ullantirmaydi.",
+   "police officer": "«police officer» — politsiyachi; bu jamoa mashg'ulotlariga aloqasi yo'q."
+  }
+ },
+ {
+  "why": "«locksmith» — chilangar yoki qulfchi. Gapda «opens locked doors» bor: qulflangan eshiklarni ochish shu kasb egasining ishidir.",
+  "wrong": {
+   "builder": "«builder» — quruvchi; ular binolar quradi, qulflangan eshiklarni ochish bilan shug'ullanmaydi.",
+   "engineer": "«engineer» — muhandis; bu qulflangan eshiklarni ochuvchi mutaxassis emas.",
+   "architect": "«architect» — me'mor; u eshik ochmaydi, binolarni loyihalashtiradi."
+  }
+ },
+ {
+  "why": "«badly-paid» — kam maosh oladigan ish. Gapda «pays very little money» bor: juda oz pul to'lanishi bu kasbning kam maoshli ekanini ko'rsatadi.",
+  "wrong": {
+   "well-paid": "«well-paid» — yaxshi maosh oladigan; bu yerda pul juda kam deyilgan.",
+   "stressful": "«stressful» — stressli; gap pul miqdori va kiyim sotib ololmaslik haqida.",
+   "challenging": "«challenging» — qiyin va sinovli; bu yerda maoshning ozligi muhim."
+  }
+ },
+ {
+  "why": "«well-paid» — yaxshi maosh to'lanadigan ish. Gapda «earns a huge salary» bor: katta maosh olish yaxshi haq to'lanadigan ishni anglatadi.",
+  "wrong": {
+   "badly-paid": "«badly-paid» — kam maoshli; bu yerda katta maosh haqida gap ketmoqda.",
+   "repetitive": "«repetitive» — bir xil takrorlanadigan; bu yuqori maoshga taalluqli emas.",
+   "challenging": "«challenging» — qiyin; gap pul topish va qimmat mashina sotib olish haqida."
+  }
+ },
+ {
+  "why": "«repetitive» — zerikarli va takrorlanib turadigan ish. Gapda «repeats the exact same boring tasks» bor: bir xil vazifalarni har kuni takrorlash shuni anglatadi.",
+  "wrong": {
+   "varied": "«varied» — turfa xil; bu yerda bir xil vazifalar takrorlanishi aytilgan.",
+   "creative": "«creative» — ijodiy; zerikarli va bir xil ishlar ijodiy bo'la olmaydi.",
+   "flexible": "«flexible» — moslashuvchan; bu doimiy bir xil vazifalarga mos kelmaydi."
+  }
+ },
+ {
+  "why": "«varied» — turfa xil va qiziqarli vazifalarga boy ish. Gapda «writing stories, meeting new people, and traveling abroad» bor: turli xil yumushlar bajarilishi shuni bildiradi.",
+  "wrong": {
+   "repetitive": "«repetitive» — bir xil takrorlanadigan; bu yerda turli xil qiziqarli ishlar bor.",
+   "stressful": "«stressful» — stressli; bu o'rinli emas, chunki ish turfa xil va qiziqarli.",
+   "badly-paid": "«badly-paid» — kam maoshli; gap ishning mazmuni va xilma-xilligi haqida."
+  }
+ },
+ {
+  "why": "«creative» — ijodiy ish. Gapda «invents fantastic new painting ideas and beautiful art pieces» bor: yangi g'oyalar o'ylab topish va san'at asarlarini yaratish ijodkorlikdir.",
+  "wrong": {
+   "repetitive": "«repetitive» — zerikarli va takroriy; yangi san'at asarlarini yaratish bunday emas.",
+   "stressful": "«stressful» — stressli; bu yerda ijodiy go'zallik va yangi g'oyalar haqida gap bormoqda.",
+   "challenging": "«challenging» — qiyin; yangi painting g'oyalarini yaratish ko'proq ijodiy ishdir."
+  }
+ },
+ {
+  "why": "«challenging» — qiyin, lekin qiziqarli va sinovli. Gapda «extremely difficult» va «solved all the hard questions» bor: qiyin imtihon va savollar shuni ko'rsatadi.",
+  "wrong": {
+   "repetitive": "«repetitive» — bir xil takrorlanadigan; qiyin imtihon savollari boshqa narsa.",
+   "varied": "«varied» — turfa xil; bu yerda imtihonning qiyinligi ta'kidlangan.",
+   "flexible": "«flexible» — moslashuvchan; imtihon qiyinligiga bu so'z mos kelmaydi."
+  }
+ },
+ {
+  "why": "«stressful» — stressli va ko'p xavotirli ish. Gapda «gets very worried and tired» va «too much pressure» bor: charchoq va bosim stressni bildiradi.",
+  "wrong": {
+   "rewarding": "«rewarding» — foydali va quvonch keltiradigan; ko'p bosim quvonch emas, stress olib keladi.",
+   "flexible": "«flexible» — moslashuvchan; bosim va xavotir haqida gap ketganda bu xato.",
+   "well-paid": "«well-paid» — yaxshi maoshli; bu yerda ishning og'ir bosimi va charchog'i muhim."
+  }
+ },
+ {
+  "why": "«rewarding» — ma'naviy qoniqish va baxt keltiradigan ish. Gapda «brings her amazing happiness and deep personal satisfaction» bor: bu hissiyotlar ishning qadrli ekanini ko'rsatadi.",
+  "wrong": {
+   "stressful": "«stressful» — stressli; baxt va qoniqish keltiradigan ish stressli bo'lmaydi.",
+   "repetitive": "«repetitive» — zerikarli takroriy ish; bu chuqur shaxsiy qoniqish keltirmaydi.",
+   "badly-paid": "«badly-paid» — kam maoshli; gap pul haqida emas, quvonch va qoniqish haqida."
+  }
+ },
+ {
+  "why": "«flexible» — moslashuvchan (vaqtni o'zi belgilaydigan) ish. Gapda «start work anytime she wants and work from home» bor: istalgan vaqtda ishlash shuni bildiradi.",
+  "wrong": {
+   "stressful": "«stressful» — stressli; xohlagan vaqtda ishlash stress keltirmaydi.",
+   "repetitive": "«repetitive» — takroriy; uyda va istalgan vaqtda ishlash erkinlikni bildiradi.",
+   "challenging": "«challenging» — qiyin; bu yerda shartlar qulay va erkin."
+  }
+ },
+ {
+  "why": "«reliable» — ishonganli va va'dasida turuvchi inson. Gapda «never breaks his important promises» va «on time» bor: va'dani buzmaslik ishonchlilikdir.",
+  "wrong": {
+   "hard-working": "«hard-working» — mehnatkash; bu yerda va'dalarni bajarish va o'z vaqtida kelish haqida.",
+   "friendly": "«friendly» — do'stona; va'dada turish xususiyati ishonchlilikka tegishli.",
+   "enthusiastic": "«enthusiastic» — g'ayratli; bu va'dalarni bajarishga emas, zavqqa aloqador."
+  }
+ },
+ {
+  "why": "«friendly» — do'stona va ochiqko'ngil inson. Gapda «smiles at everyone and makes new students feel welcome» bor: tabassum qilish va iliq kutib olish shuni anglatadi.",
+  "wrong": {
+   "reliable": "«reliable» — ishonchli; tabassum qilish va iliq kutib olish do'stonalikdir.",
+   "hard-working": "«hard-working» — mehnatkash; bu o'quvchilarni iliq kutib olishga aloqador emas.",
+   "physically fit": "«physically fit» — jismoniy baquvvat; bu do'stona muomalaga to'g'ri kelmaydi."
+  }
+ },
+ {
+  "why": "«hard-working» — mehnatkash va tirishqoq. Gapda «studies for ten hours every day and never stops trying» bor: ko'p o'qish mehnatkashlikni bildiradi.",
+  "wrong": {
+   "reliable": "«reliable» — ishonchli; o'n soat o'qish va tinimsiz harakat qilish mehnatkashlikdir.",
+   "friendly": "«friendly» — do'stona; bu tinimsiz o'qish bilan bog'liq emas.",
+   "flexible": "«flexible» — moslashuvchan; bu yerda o'qishga sarflangan ko'p vaqt muhim."
+  }
+ },
+ {
+  "why": "«physically fit» — jismoniy baquvvat va sog'lom. Gapda «runs ten kilometers every morning and lifts heavy weights» bor: shug'ullanish jismoniy holatni ko'rsatadi.",
+  "wrong": {
+   "hard-working": "«hard-working» — mehnatkash; jismoniy mashqlar va yugurish jismoniy baquvvatlikka oid.",
+   "reliable": "«reliable» — ishonchli; og'ir vazn ko'tarish va yugurish bunga aloqador emas.",
+   "friendly": "«friendly» — do'stona; bu sport mashg'ulotlariga to'g'ri kelmaydi."
+  }
+ },
+ {
+  "why": "«architect» — me'mor. Gapda «designs beautiful new houses and tall modern buildings» bor: uy va binolarni loyihalashtirish me'morning kasbidir.",
+  "wrong": {
+   "builder": "«builder» — quruvchi; ular binolarni loyihalashtirmaydi, balki quradi.",
+   "engineer": "«engineer» — muhandis; uy dizayni va me'morchilik loyihasini odatda me'mor bajaradi.",
+   "cleaner": "«cleaner» — farrosh; u binolarni loyiha qilmaydi va tozalashtiradi."
+  }
+ },
+ {
+  "why": "«dentist» — tish shifokori. Gapda «cleaning teeth and helping patients in a busy dental clinic» bor: tishlarni tozalash va stomatologiya klinikasi ishi shuni bildiradi.",
+  "wrong": {
+   "paramedic": "«paramedic» — tez yordam xodimi; ular tish klinikasida ishlamaydi.",
+   "police officer": "«police officer» — politsiyachi; bu tish davolash bilan bog'liq emas.",
+   "solicitor": "«solicitor» — huquqshunos; ular klinikada tish davolamaydi."
+  }
+ },
+ {
+  "why": "«engineer» — muhandis. Gapda «plans and builds big bridges and roads» bor: ko'prik va yo'llarni rejalashtirib qurish muhandislik ishidir.",
+  "wrong": {
+   "architect": "«architect» — me'mor; ular asosan binolar va uylar loyihasi bilan shug'ullanadi.",
+   "builder": "«builder» — quruvchi; ko'prik va yo'llarni ilmiy va matematik rejalar asosida muhandis loyihalaydi.",
+   "programmer": "«programmer» — dasturchi; bu yo'l va ko'prik qurishga aloqador emas."
+  }
+ },
+ {
+  "why": "«journalist» — jurnalist. Gapda «writes interesting articles about local sports and cultural events for the local newspaper» bor: maqola yozish jurnalistning vazifasidir.",
+  "wrong": {
+   "photographer": "«photographer» — fotosuratchi; ular maqola yozmaydi, rasmga oladi.",
+   "travel agent": "«travel agent» — sayohat agenti; bu gazeta maqolalariga aloqasi yo'q.",
+   "estate agent": "«estate agent» — uy-joy sotuvchi agent; ular gazeta uchun maqola yozmaydi."
+  }
+ },
+ {
+  "why": "«gardener» — bog‘bon. Gapda «to plant flowers and look after the big green football field» bor: gullar ekish va maydonga qarash bog‘bonning ishi.",
+  "wrong": {
+   "architect": "«architect» — me'mor; bu yerda binolar loyihasi haqida gap ketmayapti.",
+   "dentist": "«dentist» — tish shifokori; bu yerda tabiat bilan bog‘liq ish so‘ralgan.",
+   "journalist": "«journalist» — jurnalist; u gul ekmaydi va maydonga qaramaydi."
+  }
+ },
+ {
+  "why": "«journalist» — jurnalist. Gapda «writes articles for the city newspaper» bor: gazetaga maqola yozadigan odam jurnalist bo‘ladi.",
+  "wrong": {
+   "photographer": "«photographer» — fotosuratchi; u maqola yozmaydi, rasmga oladi.",
+   "pilot": "«pilot» — uchuvchi; u shaharga maqola yozib bermaydi.",
+   "programmer": "«programmer» — dasturchi; u gazeta uchun maqolalar yozmaydi."
+  }
+ },
+ {
+  "why": "«paramedic» — tez tibbiy yordam xodimi. Gapda «drive the ambulance very quickly to save people» bor: tez yordam mashinasida odamlarni qutqarish paramedicning vazifasidir.",
+  "wrong": {
+   "dentist": "«dentist» — tish shifokori; u tez yordam mashinasini haydamaydi.",
+   "waiter": "«waiter» — ofitsiant; bu kasb odamlarni tibbiy qutqarish bilan bog‘liq emas.",
+   "solicitor": "«solicitor» — huquqshunos; u tez yordam mashinasini boshqarmaydi."
+  }
+ },
+ {
+  "why": "«photographer» — fotosuratchi. Gapda «taking pictures of nature and weddings» bor: tabiat va to‘ylarni rasmga oluvchi professional fotosuratchi ataladi.",
+  "wrong": {
+   "hairdresser": "«hairdresser» — sartarosh; bu yerda rasmga olish haqida gap ketmoqda.",
+   "sales assistant": "«sales assistant» — sotuvchi; u tabiatni rasmga olmaydi.",
+   "travel agent": "«travel agent» — sayohat agenti; uning ishi rasmga tushirish emas."
+  }
+ },
+ {
+  "why": "«pizza delivery man/woman» — pitsa yetkazib beruvchi. Gapda «brings pizza to your door» bor: uyingizga pitsa olib keladigan kishi shunday ataladi.",
+  "wrong": {
+   "waiter": "«waiter» — ofitsiant; u restoran ichida xizmat qiladi, uyga pitsa keltirmaydi.",
+   "sales assistant": "«sales assistant» — sotuvchi; bu yerda ovqat yetkazish haqida so‘ralgan.",
+   "farm worker": "«farm worker» — ferma ishchisi; u pitsa yetkazib bermaydi."
+  }
+ },
+ {
+  "why": "«receptionist» — qabulxona xodimi. Gapda «welcomes them at the front desk» bor: mehmonlarni qabul deskida kutib oluvchi shaxs receptionist hisoblanadi.",
+  "wrong": {
+   "waiter": "«waiter» — ofitsiant; u mehmonxonada qabulxonada turmaydi.",
+   "sales assistant": "«sales assistant» — do‘kon sotuvchisi; u mehmonlarni kutib olmaydi.",
+   "dentist": "«dentist» — tish shifokori; uning vazifasi boshqa."
+  }
+ },
+ {
+  "why": "«sales assistant» — savdo yordamchisi (sotuvchi). Gapda «helps customers find clothes in the clothing shop» bor: kiyim do‘konida mijozlarga yordam beruvchi shaxs.",
+  "wrong": {
+   "waiter": "«waiter» — ofitsiant; u do‘konda kiyim sotish bilan shug‘ullanmaydi.",
+   "travel agent": "«travel agent» — sayohat agenti; u kiyim do‘konida ishlamaydi.",
+   "hairdresser": "«hairdresser» — sartarosh; bu yerda kiyim sotish haqida gap bormoqda."
+  }
+ },
+ {
+  "why": "«sports coach» — sport murabbiyi. Gapda «Teaching children how to swim safely in the deep pool» bor: bolalarga suzishni o‘rgatuvchi mutaxassis.",
+  "wrong": {
+   "surfing instructor": "«surfing instructor» — syorfing bo‘yicha yo‘riqchi; u basseyn emas, okean to‘lqinlari bilan ishlaydi.",
+   "groundskeeper": "«groundskeeper» — maydon boni; u suzishni o‘rgatmaydi.",
+   "gardener": "«gardener» — bog‘bon; u bolalarga sport darsini bermaydi."
+  }
+ },
+ {
+  "why": "«stunt performer» — kaskadyor. Gapda «Jumping off tall buildings into safety nets for action movies» bor: kino uchun baland binolardan sakrovchi jasur inson.",
+  "wrong": {
+   "pilot": "«pilot» — uchuvchi; u kino uchun binolardan sakramaydi.",
+   "paramedic": "«paramedic» — tez yordam xodimi; uning ishi boshqacha.",
+   "locksmith": "«locksmith» — qulfchi; u kaskadyorlik qilmaydi."
+  }
+ },
+ {
+  "why": "«surfing instructor» — syorfing yo‘riqchisi. Gapda «Riding waves in the ocean and teaching tourists» bor: okeanda to‘lqinlarda suzishni o‘rgatuvchi kishi.",
+  "wrong": {
+   "sports coach": "«sports coach» — sport murabbiyi; u okean to‘lqinlari bilan ishlamaydi.",
+   "groundskeeper": "«groundskeeper» — maydon xodimi; u syorfing o‘rgatmaydi.",
+   "farm worker": "«farm worker» — ferma ishchisi; bu yerda suv sporti haqida gap ketmoqda."
+  }
+ },
+ {
+  "why": "«travel agent» — sayohat agenti. Gapda «Booking holidays and cheap flights for happy families» bor: ta'til va aviachiptalarni buyurtma qiluvchi mutaxassis.",
+  "wrong": {
+   "estate agent": "«estate agent» — ko‘chmas mulk agenti; u faqat uy sotadi, chipta band qilmaydi.",
+   "journalist": "«journalist» — jurnalist; u turistik xizmatlar ko‘rsatmaydi.",
+   "sales assistant": "«sales assistant» — sotuvchi; u sayohatlarni rejalashtirmaydi."
+  }
+ },
+ {
+  "why": "«waiter» — ofitsiant. Gapda «Serving delicious food to hungry customers in the busy restaurant» bor: restoranda mijozlarga taom ulashuvchi shaxs.",
+  "wrong": {
+   "receptionist": "«receptionist» — qabulxona xodimi; u restoranda ovqat tortiq qilmaydi.",
+   "sales assistant": "«sales assistant» — sotuvchi; bu yerda umumiy ovqatlanish haqida so‘ralgan.",
+   "farm worker": "«farm worker» — ferma ishchisi; u restoranda ishlamaydi."
+  }
+ },
+ {
+  "why": "«stressful» — stressli (og‘ir, xavfli). Gapda «there is constant danger around» bor: doimiy xavf bor joydagi ish juda stressli bo‘ladi.",
+  "wrong": {
+   "creative": "«creative» — ijodiy; kon ostida ishlash xavfli, lekin ijodiy emas.",
+   "varied": "«varied» — xilma-xil; bu yerda xavf haqida gap ketyapti.",
+   "flexible": "«flexible» — moslashuvchan; bu xavfli ishga mos kelmaydi."
+  }
+ },
+ {
+  "why": "«creative» — ijodiy. Gapda «Painting beautiful pictures and designing new clothes» bor: rasm chizish va dizayn qilish ijodkorlikni talab qiladi.",
+  "wrong": {
+   "challenging": "«challenging» — qiyin; bu yerda san'at va dizayn haqida so‘ralmoqda.",
+   "hard-working": "«hard-working» — mehnatsevar; rasm chizishga ko‘proq ijodkorlik kerak.",
+   "reliable": "«reliable» — ishonchli; bu chizmachilik va dizaynga aloqador emas."
+  }
+ },
+ {
+  "why": "«rewarding» — foydali (ruhiy qoniqish beradigan). Gapda «helping sick people get better» bor: bemorlarga yordam berish insonga quvonch va qoniqish olib keladi.",
+  "wrong": {
+   "repetitive": "«repetitive» — bir xil takrorlanadigan; shifokorlik har doim ham bir xil emas.",
+   "stressful": "«stressful» — stressli; bu yerda onasi ishni yaxshi ko‘rishi aytilgan.",
+   "badly-paid": "«badly-paid» — kam maoshli; bu ijobiy ma'nodagi fikrga mos kelmaydi."
+  }
+ },
+ {
+  "why": "«repetitive» — zerikarli (bir xil takrorlanadigan). Gapda «Doing the exact same factory assembly task every single minute» bor: har daqiqada bir xil ishni qilish repetitive hisoblanadi.",
+  "wrong": {
+   "varied": "«varied» — xilma-xil; bir xil ishni qilish xilma-xil bo‘lmaydi.",
+   "challenging": "«challenging» — sinovli, qiyin; bu yerda asosiysi bir xillik haqida.",
+   "creative": "«creative» — ijodiy; zavod vazifasi ijodiy emas."
+  }
+ },
+ {
+  "why": "«reliable» — ishonchli. Gapda «she always finishes all her important tasks on time» bor: o‘z ishini o‘z vaqtida tugatadigan inson ishonchli bo‘ladi.",
+  "wrong": {
+   "flexible": "«flexible» — moslashuvchan; bu yerda vaqtida bajarish mas'uliyati haqida.",
+   "friendly": "«friendly» — do‘stona; ishni o‘z vaqtida qilish ishonchlilikka kiradi.",
+   "enthusiastic": "«enthusiastic» — g‘ayratli; bu ishonchli xususiyatni yaxshiroq ochadi."
+  }
+ },
+ {
+  "why": "«estate agent» — ko‘chmas mulk agenti. Gapda «sell houses and apartments to new families» bor: uylar va kvartiralarni sotuvchi shaxs shunday ataladi.",
+  "wrong": {
+   "travel agent": "«travel agent» — sayohat agenti; u uy sotmaydi, sayohat uyushtiradi.",
+   "sales assistant": "«sales assistant» — oddiy do‘kon sotuvchisi; u uy-joy sotish bilan shug‘ullanmaydi.",
+   "journalist": "«journalist» — jurnalist; uning ishi uy sotish emas."
+  }
+ },
+ {
+  "why": "«farm worker» — ferma ishchisi. Gapda «Working on a tractor in the large green wheat fields» bor: dalada traktor bilan ishlovchi shaxs ferma ishchisidir.",
+  "wrong": {
+   "groundskeeper": "«groundskeeper» — maydon boni; u fermada traktor haydamaydi.",
+   "gardener": "«gardener» — bog‘bon; u katta bug‘doy dalalarida ishlamaydi.",
+   "builder": "«builder» — quruvchi; bu yerda qishloq xo‘jaligi ishi haqida gap ketmoqda."
+  }
+ },
+ {
+  "why": "«locksmith» — qulfchi. Gapda «Opening locked doors when people lose their house keys» bor: kalitini yo‘qotganlarga eshikni ochib beruvchi mutaxassis.",
+  "wrong": {
+   "builder": "«builder» — quruvchi; u qulflarni ochish bilan shug‘ullanmaydi.",
+   "engineer": "«engineer» — muhandis; qulf ochish uning vazifasi emas.",
+   "architect": "«architect» — me'mor; u binolar loyihasini tuzadi, qulf ochmaydi."
+  }
+ },
+ {
+  "why": "«physically fit» — jismoniy baquvvat va sog‘lom demoqdir. Gapda «healthy» so‘zi bor, bu esa derazalarni tozalash uchun jismoniy kuch kerakligini bildiradi.",
+  "wrong": {
+   "badly-paid": "«badly-paid» — kam maosh oladigan; bu yerda odamning jismoniy holati haqida gap ketmoqda.",
+   "creative": "«creative» — ijodkor; deraza tozalash uchun jismoniy kuch muhim, ijodkorlik emas.",
+   "stressful": "«stressful» — stressli; bu sifat odamning jismoniy holatiga mos kelmaydi."
+  }
+ },
+ {
+  "why": "«hairdresser» — sartarosh. Gapda «Cutting and styling hair» bor: bu ishni faqat sartarosh bajaradi.",
+  "wrong": {
+   "gardener": "«gardener» — bog‘bon; u o‘simliklar bilan ishlaydi, soch bilan emas.",
+   "receptionist": "«receptionist» — qabulxona xodimi; u telefonlarga javob beradi, soch kesmaydi.",
+   "sales assistant": "«sales assistant» — sotuvchi; bu kasb soch turmaklashga aloqador emas."
+  }
+ },
+ {
+  "why": "«well-paid» — yaxshi maosh oladigan. Gapda «supports our family» bor: oilani boqish uchun yaxshi maosh kerak.",
+  "wrong": {
+   "badly-paid": "«badly-paid» — kam maosh oladigan; kam pul bilan oilani to‘liq ta'minlab bo‘lmaydi.",
+   "repetitive": "«repetitive» — zerikarli va takrorlanib turadigan; bu so‘z maoshga nisbatan ishlatilmaydi.",
+   "stressful": "«stressful» — stressli; maoshga nisbatan «yaxshi» yoki «yomon» so‘zlari ishlatiladi."
+  }
+ },
+ {
+  "why": "«enthusiastic» — ishtiyoqli va qiziqqan. Gapda «makes every lesson really fun» bor: qiziqarli dars o‘tish uchun o‘qituvchi ishtiyoqli bo‘lishi kerak.",
+  "wrong": {
+   "stressful": "«stressful» — stressli; darsni qiziqarli qiladigan o‘qituvchi stressli bo‘lmaydi.",
+   "repetitive": "«repetitive» — zerikarli takrorlanuvchi; bu ijobiy dars muhitiga mos kelmaydi.",
+   "badly-paid": "«badly-paid» — kam maoshli; bu o‘qituvchining darsdagi xarakteriga aloqador emas."
+  }
+ },
+ {
+  "why": "«architect» — me'mor. Gapda «design modern bridges and big buildings» bor: binolarni me'mor loyihalashtiradi.",
+  "wrong": {
+   "builder": "«builder» — quruvchi; u binoni loyihalashtirmaydi, balki quradi.",
+   "cleaner": "«cleaner» — farrosh; u binolarni tozalaydi, loyiha qilmaydi.",
+   "gardener": "«gardener» — bog‘bon; bu kasb ko‘priklar dizayniga aloqador emas."
+  }
+ },
+ {
+  "why": "«paramedic» — tez tibbiy yordam xodimi. Gapda «local hospital» va «stressful during weekends» bor: shifoxonadagi eng og‘ir ish vaqtida tez yordamchilar ishlaydi.",
+  "wrong": {
+   "solicitor": "«solicitor» — huquqshunos; u shifoxonada emas, idorada ishlaydi.",
+   "programmer": "«programmer» — dasturchi; u kompyuter bilan ishlaydi, bemorlar bilan emas.",
+   "journalist": "«journalist» — jurnalist; u maqolalar yozadi, tibbiyotga aloqasi yo‘q."
+  }
+ },
+ {
+  "why": "«hard-working» — mehnatsevar. Gapda «finishes her homework on time» bor: vazifani o‘z vaqtida bajarish mehnatsevarlik belgisidir.",
+  "wrong": {
+   "creative": "«creative» — ijodkor; vazifani o‘z vaqtida bajarish ijodga emas, tirishqoqlikka bog‘liq.",
+   "badly-paid": "«badly-paid» — kam maoshli; uy vazifasini bajaruvchi o‘quvchiga ish haqiga oid sifat mos kelmaydi.",
+   "repetitive": "«repetitive» — bir xil takrorlanuvchi; bu shaxs xarakterini tushuntirmaydi."
+  }
+ },
+ {
+  "why": "«hairdresser» — sartarosh. Gapda «cut and style people's hair» bor: bu ishni faqat sartarosh qiladi.",
+  "wrong": {
+   "dentist": "«dentist» — tish shifokori; u soch bilan emas, tish bilan ishlaydi.",
+   "waiter": "«waiter» — aftsiyant; u mijozlarga ovqat keltiradi.",
+   "receptionist": "«receptionist» — qabulxona xodimi; u soch kesish bilan shug‘ullanmaydi."
+  }
+ },
+ {
+  "why": "«locksmith» — chilangar (qulflarni tuzatuvchi). Gapda «fixing broken locks» bor: qulflarni chilangar tuzatadi.",
+  "wrong": {
+   "engineer": "«engineer» — muhandis; u murakkab texnika va binolarni loyihalaydi.",
+   "architect": "«architect» — me'mor; u qulflarni emas, imoratlarni loyihalashtiradi.",
+   "builder": "«builder» — quruvchi; u uy quradi, kichik qulflarni tuzatmaydi."
+  }
+ },
+ {
+  "why": "«pizza delivery man/woman» — pitsa yetkazib beruvchi. Gapda «bringing food to houses» bor: uylarga ovqat olib boruvchi shunday ataladi.",
+  "wrong": {
+   "sales assistant": "«sales assistant» — sotuvchi; u do‘konda ishlaydi, uylarga ovqat tashimaydi.",
+   "farm worker": "«farm worker» — ferma ishchisi; u qishloq xo‘jaligi bilan shug‘ullanadi.",
+   "travel agent": "«travel agent» — turizm agenti; u sayohat chiptalarini sotadi."
+  }
+ },
+ {
+  "why": "«architect» — me'mor. Gapda «designing modern office buildings» bor: binolarni loyihalashtiruvchi mutaxassis me'mor deb ataladi va «an» artikli uchun so‘z «a» harfidan boshlanishi kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«stressful» — stressli va og‘ir. Gapda «busy restaurant kitchen» bor: gavjum oshxonada ishlash ko‘pincha juda stressli bo‘ladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«pilot» — uchuvchi. Gapda «flying airplanes» bor: samolyot boshqaradigan inson pilot bo‘ladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«dentist» — tish shifokori. Gapda «people need healthy teeth» bor: sog‘lom tishlar bilan shug‘ullanadigan mutaxassis dentistdir.",
+  "wrong": {}
+ },
+ {
+  "why": "«builder» — quruvchi. Gapda «building a new brick house» bor: g‘ishtdan uy quruvchi shaxs quruvchi deyiladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«engineer» — muhandis. Gapda «designs complex bridges and roads» bor: ko‘prik va yo‘llarni loyihalashtiradigan mutaxassis muhandisdir.",
+  "wrong": {}
+ },
+ {
+  "why": "«creative» — ijodkor. Gapda «paint wonderful pictures» bor: rasm chizish ijodiy ish bo‘lgani uchun bu sifat ishlatiladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«receptionist» — qabulxona xodimi. Gapda «answers phone calls at the hotel desk» bor: mehmonxona stolida telefonlarga javob beruvchi xodim shunday ataladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«gardener» — bog‘bon. Gapda «takes care of green trees in the park» bor: daraxtlarga qaraydigan odam bog‘bondir.",
+  "wrong": {}
+ },
+ {
+  "why": "«journalist» — jurnalist. Gapda «wrote a very interesting article... for newspapers» bor: gazetaga maqola yozuvchi shaxs jurnalistdir.",
+  "wrong": {}
+ },
+ {
+  "why": "«programmer» — dasturchi. Gapda «computer software codes» bor: kompyuter dasturlarini yozadigan mutaxassis dasturchi bo'ladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«reliable» — ishonchli. Gapda «always fixes problems quickly» bor: muammolarni tez va doim hal qiladigan mexanik ishonchli bo'ladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«challenging» — qiyin, sinovli. Gapda «took me two hours to solve completely» bor: yechish uchun ikki soat vaqt olgan masala qiyin bo'ladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«paramedic» — tez yordam xodimi. Gapda «injured in the car accident» bor: avtohalokatda jarohatlanganlarga yordam beradigan mutaxassis paramedikdir.",
+  "wrong": {}
+ },
+ {
+  "why": "«friendly» — do'stona. Gapda «smiles at everyone» bor: hamma bilan jilmayib ko'rishadigan odam do'stona bo'ladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«photographer» — fotograf. Gapda «took beautiful wedding pictures» bor: to'y rasmlarini oladigan kishi fotografdir.",
+  "wrong": {}
+ },
+ {
+  "why": "«waiter» — ofitsiant. Gapda «serving hot shashlik» bor: restoranlarda taom tarqatadigan shaxs ofitsiantdir.",
+  "wrong": {}
+ },
+ {
+  "why": "«solicitor» — huquqshunos, advokat. Gapda «helps clients with legal problems» bor: qonuniy muammolarda yordam beradigan kishi yuristdir.",
+  "wrong": {}
+ },
+ {
+  "why": "«varied» — xilma-xil. Gapda «meet different people from abroad» bor: har kuni turli chet elliklar bilan uchrashish ishni xilma-xil qiladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«cleaner» — farrosh, tozalovchi. Gapda «cleans the office windows and floors» bor: deraza va polni tozlaydigan odam tozalovchidir.",
+  "wrong": {}
+ },
+ {
+  "why": "«enthusiastic» — g'ayratli, havasmand. Gapda «studies very hard» bor: yangi darslarni qattiq o'qiydigan o'quvchi bu fanlarga ishtiyoqli bo'ladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«repetitive» — bir xil takrorlanadigan. Gapda «repeat the same action» bor: bitta harakatni qayta-qayta qilish zerikarli va takroriy ishdir.",
+  "wrong": {}
+ },
+ {
+  "why": "«rewarding» — quvonchli, foydali. Gapda «Teaching little children to read» bor: bolalarga o'qishni o'rgatish o'qituvchiga quvonch olib keladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«architect» — me'mor. Gapda «designing modern houses» bor: zamonaviy uylarni loyihalashtiradigan mutaxassis me'mordir.",
+  "wrong": {}
+ },
+ {
+  "why": "«builder» — quruvchi. Gapda «building new brick walls» bor: yangi g'isht devorlarni quradigan inson quruvchi bo'ladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«challenging» — qiyin, murakkab. Gapda «Solving difficult math puzzles» bor: qiyin matematika boshqotirmalarini yechish o'quvchilar uchun sinovli vazifadir.",
+  "wrong": {}
+ },
+ {
+  "why": "«cleaner» — farrosh, tozalovchi. Gapda «clean all the classrooms» bor: sinf xonalarini tozalaydigan yordamchi tozalovchi deb ataladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«creative» — ijodkor. Gapda «paints beautiful portraits» bor: go'zal portretlarni chizadigan odam ijodkor bo'ladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«dentist» — tish shifokori. Gapda «if your tooth hurts» bor: tishingiz og'risa, dentist huzuriga borishingiz kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«engineer» — muhandis. Gapda «fixes big machines» bor: katta mashina va uskunalarni tuzatadigan mutaxassis muhandisdir.",
+  "wrong": {}
+ }
+]

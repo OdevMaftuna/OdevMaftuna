@@ -1,0 +1,600 @@
+{
+ "code": "P1",
+ "course": "Pre-Intermediate",
+ "kind": "unit",
+ "unit": 1,
+ "price": 35000,
+ "title": "Unit 1 Test",
+ "subtitle": "Feelings · past simple · injuries",
+ "sections": [
+  {
+   "title": "A. Complete the dialogue. Use the past simple form of the verbs in brackets.",
+   "items": [
+    {
+     "t": "text",
+     "q": "Nodir: ______ (you / go) to the concert on Saturday?",
+     "a": [
+      "Did you go"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Lola: No, I ______ (stay) at home with my little brother.",
+     "a": [
+      "stayed"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Nodir: Oh, I ______ (buy) two tickets, but my friend was ill.",
+     "a": [
+      "bought"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Lola: What a shame! I ______ (not know) about it.",
+     "a": [
+      "didn't know",
+      "did not know"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Nodir: The band ______ (be) brilliant — they played for three hours!",
+     "a": [
+      "was",
+      "were"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Lola: Lucky you! I ______ (watch) a boring film instead.",
+     "a": [
+      "watched"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "B. Look at Aziz’s week and complete the sentences. Use the past simple.",
+   "passage": "Monday: ride my bike / fall off · Tuesday: can’t go to school / sleep all morning · Wednesday: feel lonely / call my cousin · Thursday: play chess with my cousin / not finish my project",
+   "items": [
+    {
+     "t": "text",
+     "q": "On Monday, Aziz ______ his bike and fell off. (ride)",
+     "a": [
+      "rode"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "On Monday, Aziz rode his bike and ______ off. (fall)",
+     "a": [
+      "fell"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "On Tuesday, he ______ go to school. (can’t)",
+     "a": [
+      "couldn't",
+      "could not"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "On Tuesday, he couldn’t go to school and ______ all morning. (sleep)",
+     "a": [
+      "slept"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "On Wednesday, he ______ lonely. (feel)",
+     "a": [
+      "felt"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "On Wednesday, he felt lonely so he ______ his cousin. (call)",
+     "a": [
+      "called"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "On Thursday, he ______ chess with his cousin. (play)",
+     "a": [
+      "played"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "On Thursday, he played chess but he ______ his project. (not finish)",
+     "a": [
+      "didn't finish",
+      "did not finish"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "C. Complete the questions. Use the past simple of the verbs in the box. There is one extra verb.",
+   "box": [
+    "be",
+    "buy",
+    "cook",
+    "go",
+    "meet",
+    "pay",
+    "write"
+   ],
+   "items": [
+    {
+     "t": "text",
+     "q": "‘Where ______ you last night?’ — ‘At my grandma’s house.’",
+     "a": [
+      "were"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "‘When ______ (you) your best friend?’ — ‘In 2019, at school.’",
+     "a": [
+      "did you meet"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "‘Who ______ (you) the letter to?’ — ‘To my aunt in Bukhara.’",
+     "a": [
+      "did you write"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "‘How much ______ (you) for those trainers?’ — ‘300,000 so‘m.’",
+     "a": [
+      "did you pay"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "‘What ______ (your dad) for dinner?’ — ‘Plov, of course!’",
+     "a": [
+      "did your dad cook"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "‘Where ______ (they) on holiday?’ — ‘To Samarkand.’",
+     "a": [
+      "did they go"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "D. How did the person feel? Write an adjective from the box.",
+   "box": [
+    "ashamed",
+    "bored",
+    "confused",
+    "cross",
+    "embarrassed",
+    "envious",
+    "excited",
+    "frightened",
+    "relieved",
+    "upset"
+   ],
+   "items": [
+    {
+     "t": "text",
+     "q": "I broke my sister’s phone and didn’t tell her. Then she blamed our little brother. I felt ______.",
+     "a": [
+      "ashamed"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "My best friend moved to another city and I cried all evening. I was ______.",
+     "a": [
+      "upset"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "My cousin got a new laptop for her birthday. I want one too! I’m ______.",
+     "a": [
+      "envious"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The lesson was two hours long and the teacher just read from the book. I was ______.",
+     "a": [
+      "bored"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The teacher explained the task three times, but I still didn’t understand it. I was ______.",
+     "a": [
+      "confused"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Tomorrow we’re flying to Istanbul for the first time! I’m so ______.",
+     "a": [
+      "excited"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I fell over in front of the whole class and everybody laughed. I was really ______.",
+     "a": [
+      "embarrassed"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I thought I had lost my passport, but it was in my bag. I felt ______.",
+     "a": [
+      "relieved"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I heard a strange noise in the dark kitchen at 3 a.m. I was ______.",
+     "a": [
+      "frightened"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "My brother ate the cake that I made for my friend. I was very ______ with him.",
+     "a": [
+      "cross"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "E. Complete the sentences with the adverbs in the box, from the MOST happy (1) to the LEAST happy (5).",
+   "box": [
+    "a bit",
+    "a little bit",
+    "extremely",
+    "rather",
+    "very"
+   ],
+   "items": [
+    {
+     "t": "text",
+     "q": "1. I won the national maths competition, so I’m ______ happy!",
+     "a": [
+      "extremely"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "2. My parents bought me a new bike, so I’m ______ happy.",
+     "a": [
+      "very"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "3. We have no homework this weekend, so I’m ______ happy.",
+     "a": [
+      "rather"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "4. The rain stopped, so I’m ______ happy.",
+     "a": [
+      "a bit"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "5. I found 1,000 so‘m in my pocket, so I’m ______ happy.",
+     "a": [
+      "a little bit"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "F. Complete the sentences. The first letter of each word is given.",
+   "items": [
+    {
+     "t": "text",
+     "q": "Don’t play with that knife — you’ll c___ your finger.",
+     "a": [
+      "cut"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "She fell off her horse and b_____ her arm. It’s in plaster now.",
+     "a": [
+      "broke"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I’ve got a big b_____ on my leg. It’s purple and blue.",
+     "a": [
+      "bruise"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "After the long run I had a terrible p___ in my knee.",
+     "a": [
+      "pain"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Be careful on the wet floor — you might s___ and fall.",
+     "a": [
+      "slip"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "G. Complete the dialogue with the words in the box.",
+   "box": [
+    "awful",
+    "envious",
+    "how",
+    "joking",
+    "nightmare",
+    "relief",
+    "shame",
+    "sounds",
+    "thing",
+    "what"
+   ],
+   "items": [
+    {
+     "t": "text",
+     "q": "Dilnoza: I’m going to London with my school next month! — Sevara: Really? ______ exciting!",
+     "a": [
+      "How"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Sevara: I’m so ______! I’ve never been abroad.",
+     "a": [
+      "envious"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Dilnoza: And we’re going to sleep in a tent! — Sevara: You’re ______! In a tent?",
+     "a": [
+      "joking"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Sevara: That sounds like a ______!",
+     "a": [
+      "nightmare"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Dilnoza: No, it’s a festival! It ______ great, doesn’t it?",
+     "a": [
+      "sounds"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Sevara: OK, what a cool ______ to do!",
+     "a": [
+      "thing"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Sevara: I failed my driving test yesterday. — Dilnoza: Oh no! What a ______!",
+     "a": [
+      "shame"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Sevara: But I can take it again next week. — Dilnoza: Really? What a ______!",
+     "a": [
+      "relief"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Sevara: The examiner shouted at me all the time. — Dilnoza: How ______!",
+     "a": [
+      "awful"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Sevara: And he didn’t even say goodbye. — Dilnoza: ______ a horrible man!",
+     "a": [
+      "What"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Listening. Listen to four people talking about events in the past. Which speaker …?",
+   "audio": "preint/P1.mp3",
+   "script": "Speaker one.\nLast month I had my first driving lesson. I was so nervous that I forgot which pedal was the brake! The instructor was very patient, but I felt really embarrassed when we nearly hit a rubbish bin. Now I can laugh about it.\nSpeaker two.\nIn the football final I hurt my ankle in the first half. It was painful, but I didn't tell the coach because I didn't want to leave the team. I played until the end, and we won. The next day I couldn't walk at all!\nSpeaker three.\nMy best friend got the part I wanted in the school play. I was a bit envious at first, to be honest. But on the night of the show she was brilliant, and I was really proud of her. Now I'm helping her learn her lines.\nSpeaker four.\nI broke my brother's new headphones and I told him the cat did it. He believed me, but I felt terrible all week. In the end I told him the truth and bought him new ones with my own money. What a relief!",
+   "items": [
+    {
+     "t": "mc",
+     "q": "Which speaker kept doing something with an injury?",
+     "o": [
+      "Speaker 1",
+      "Speaker 2",
+      "Speaker 3",
+      "Speaker 4"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "Which speaker didn't tell the truth at first?",
+     "o": [
+      "Speaker 1",
+      "Speaker 2",
+      "Speaker 3",
+      "Speaker 4"
+     ],
+     "a": 3
+    },
+    {
+     "t": "mc",
+     "q": "Which speaker was jealous of a friend?",
+     "o": [
+      "Speaker 1",
+      "Speaker 2",
+      "Speaker 3",
+      "Speaker 4"
+     ],
+     "a": 2
+    },
+    {
+     "t": "mc",
+     "q": "Which speaker made a mistake while learning something new?",
+     "o": [
+      "Speaker 1",
+      "Speaker 2",
+      "Speaker 3",
+      "Speaker 4"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Which speaker spent their own money to fix a problem?",
+     "o": [
+      "Speaker 1",
+      "Speaker 2",
+      "Speaker 3",
+      "Speaker 4"
+     ],
+     "a": 3
+    }
+   ]
+  },
+  {
+   "title": "H. Read the text. Match paragraphs A–E with questions 1–7. There are two extra questions.",
+   "passage": "A  Some people love flying. Others hold the seat in front of them and close their eyes. Until last summer I was in the second group. Then my uncle, a pilot, invited me to fly with him in a tiny plane over the Aral Sea region.\n\nB  The plane had only two seats and it was smaller than my dad’s car. The engine was very loud, so we spoke through headphones. But from the window, the views of the old sea bed and the desert were unforgettable.\n\nC  I didn’t know that small planes move a lot in the wind. I thought it would feel like a big passenger jet. I was calm and even took selfies before we took off.\n\nD  After twenty minutes, a strong wind started. The plane jumped up and down and my stomach jumped with it. Sand from the desert made the sky yellow, and for a few minutes we couldn’t see the ground at all.\n\nE  When we landed, my legs were shaking, but I felt proud. My uncle laughed and said I was a better passenger than most adults. Now I’m not frightened of flying any more — well, only a little bit.",
+   "items": [
+    {
+     "t": "mc",
+     "q": "In which paragraph does the writer say something positive about the flight?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "— (no paragraph)"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "…describe bad weather during the flight?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "— (no paragraph)"
+     ],
+     "a": 3
+    },
+    {
+     "t": "mc",
+     "q": "…say that she didn’t expect the plane to move a lot?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "— (no paragraph)"
+     ],
+     "a": 2
+    },
+    {
+     "t": "mc",
+     "q": "…explain how different people feel about flying?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "— (no paragraph)"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "…say how she feels about flying now?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "— (no paragraph)"
+     ],
+     "a": 4
+    },
+    {
+     "t": "mc",
+     "q": "…say how much the flight cost?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "— (no paragraph)"
+     ],
+     "a": 5
+    },
+    {
+     "t": "mc",
+     "q": "…describe the food on the plane?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "— (no paragraph)"
+     ],
+     "a": 5
+    }
+   ]
+  }
+ ]
+}

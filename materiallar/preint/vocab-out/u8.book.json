@@ -1,0 +1,342 @@
+[
+ {
+  "kind": "gap",
+  "q": "The police caught the ______ who stole expensive clothes from the downtown boutique.",
+  "options": [
+   "burglar",
+   "shoplifter",
+   "smuggler",
+   "vandal"
+  ],
+  "answer": "shoplifter",
+  "why": "«boutique» va kiyim o'g'irlash do'kon o'g'risini bildiradi.",
+  "wrong": {
+   "burglar": "Uyga bostirib kiruvchi.",
+   "smuggler": "Kontrabandachi.",
+   "vandal": "Mulkni qasddan buzuvchi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Someone intentionally poured petrol on the old abandoned school and burned it down.",
+  "options": [
+   "arson",
+   "murder",
+   "vandalism",
+   "robbery"
+  ],
+  "answer": "arson",
+  "why": "«burned it down» qasddan o't qo'yish jinoyatini anglatadi.",
+  "wrong": {
+   "murder": "Odam o'ldirish.",
+   "vandalism": "Mulkka zarar yetkazish, yoqib yuborish emas.",
+   "robbery": "Bosqinchilik."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "An unknown ______ attacked an elderly woman in the dark park and stole her bag.",
+  "options": [
+   "mugger",
+   "shoplifter",
+   "vandal",
+   "burglar"
+  ],
+  "answer": "mugger",
+  "why": "«attacked an elderly woman in the dark park» ko'chada hujum qiluvchi bosqinchini bildiradi.",
+  "wrong": {
+   "shoplifter": "Do'kon o'g'risi.",
+   "vandal": "Mulkka zarar yetkazuvchi.",
+   "burglar": "Uy o'g'risi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "The criminal was found guilty of taking a human life during the bank raid.",
+  "options": [
+   "murder",
+   "theft",
+   "smuggling",
+   "looting"
+  ],
+  "answer": "murder",
+  "why": "«taking a human life» bu qotillik jinoyatidir.",
+  "wrong": {
+   "theft": "O'g'rilik.",
+   "smuggling": "Kontrabanda.",
+   "looting": "Talonchilik."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "The police arrested a notorious ______ who was selling illegal substances near the school.",
+  "options": [
+   "drug dealer",
+   "vandal",
+   "burglar",
+   "smuggler"
+  ],
+  "answer": "drug dealer",
+  "why": "«selling illegal substances» giyohvand moddalar sotuvchisini bildiradi.",
+  "wrong": {
+   "vandal": "Vandal.",
+   "burglar": "Uy o'g'risi.",
+   "smuggler": "Kontrabandachi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "During the riot, people broke shop windows and stole televisions and electronics from the stores.",
+  "options": [
+   "looting",
+   "smuggling",
+   "arson",
+   "murder"
+  ],
+  "answer": "looting",
+  "why": "«during the riot» va do'konlardan mol talash tartibsizlik vaqtidagi talonchilikdir.",
+  "wrong": {
+   "smuggling": "Yashirin tovar olib o'tish.",
+   "arson": "O't qo'yish.",
+   "murder": "Qotillik."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Teenagers painted ugly graffiti on the historic monument and broke the glass of the bus stop.",
+  "options": [
+   "vandalism",
+   "arson",
+   "mugging",
+   "smuggling"
+  ],
+  "answer": "vandalism",
+  "why": "«painted ugly graffiti» va avtobus bekatini sindirish mulkka zarar yetkazishdir.",
+  "wrong": {
+   "arson": "O't qo'yish.",
+   "mugging": "Ko'cha qaroqchiligi.",
+   "smuggling": "Kontrabanda."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "Border guards found hidden gold inside the car seats of the clever ______.",
+  "options": [
+   "smuggler",
+   "burglar",
+   "vandal",
+   "shoplifter"
+  ],
+  "answer": "smuggler",
+  "why": "«hidden gold inside the car seats» chegaradan yashirin tovar olib o'tuvchini anglatadi.",
+  "wrong": {
+   "burglar": "Uy o'g'risi.",
+   "vandal": "Vandal.",
+   "shoplifter": "Do'kon o'g'risi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "The person who committed the arson attack on the warehouse was finally caught by police.",
+  "options": [
+   "arsonist",
+   "murderer",
+   "robber",
+   "smuggler"
+  ],
+  "answer": "arsonist",
+  "why": "«committed the arson attack» o't qo'yuvchi jinoyatchini bildiradi.",
+  "wrong": {
+   "murderer": "Qotil.",
+   "robber": "Bosqinchi.",
+   "smuggler": "Kontrabandachi."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "A dangerous ______ escaped from prison after killing two security guards.",
+  "options": [
+   "murderer",
+   "shoplifter",
+   "vandal",
+   "burglar"
+  ],
+  "answer": "murderer",
+  "why": "«killing two security guards» odam o'ldirgan qotilni bildiradi.",
+  "wrong": {
+   "shoplifter": "Do'kon o'g'risi.",
+   "vandal": "Vandal.",
+   "burglar": "Uy o'g'risi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "The armed men who stole money from the jewelry store were arrested within an hour.",
+  "options": [
+   "robber",
+   "arsonist",
+   "vandal",
+   "smuggler"
+  ],
+  "answer": "robber",
+  "why": "Zargarlik do'konidan qurol ishlatib pul olganlar bosqinchilar («robbers»).",
+  "wrong": {
+   "arsonist": "O't qo'yuvchi.",
+   "vandal": "Vandal.",
+   "smuggler": "Kontrabandachi."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "The local council wants to ______ the old walls with colourful modern art.",
+  "options": [
+   "vandalise",
+   "steal",
+   "kill",
+   "rob"
+  ],
+  "answer": "vandalise",
+  "why": "Devorlarga zamonaviy san'at asarlarini chizish yoki buzish ma'nosida ishlatiladi.",
+  "wrong": {
+   "steal": "O'g'rilik qilmoq.",
+   "kill": "O'ldirmoq.",
+   "rob": "Talamoq."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Someone took my bicycle from the school yard while I was having my math lesson.",
+  "options": [
+   "theft",
+   "arson",
+   "smuggling",
+   "vandalism"
+  ],
+  "answer": "theft",
+  "why": "Velosipedning yashirincha o'g'irlanishi bu oddiy o'g'rilik («theft»).",
+  "wrong": {
+   "arson": "O't qo'yish.",
+   "smuggling": "Kontrabanda.",
+   "vandalism": "Vandalizm."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "Be careful not to leave your car unlocked, or someone might ______ your radio.",
+  "options": [
+   "steal",
+   "kill",
+   "vandalise",
+   "arson"
+  ],
+  "answer": "steal",
+  "why": "«your radio» narsani o'g'irlash fe'lini talab qiladi.",
+  "wrong": {
+   "kill": "O'ldirmoq.",
+   "vandalise": "Buzib tashlamoq.",
+   "arson": "O't qo'yish (ot so'z turkumi)."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "The hooligans decided to put petrol under the wooden shed and start a huge fire.",
+  "options": [
+   "set fire to",
+   "break",
+   "sell",
+   "rob"
+  ],
+  "answer": "set fire to",
+  "why": "«start a huge fire» o't qo'yish ma'nosini bildiradi.",
+  "wrong": {
+   "break": "Sindirmoq.",
+   "sell": "Sotmoq.",
+   "rob": "Talamoq."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "The thieves tried to ______ the back door of the shop using a heavy metal tool.",
+  "options": [
+   "break",
+   "kill",
+   "sell",
+   "steal"
+  ],
+  "answer": "break",
+  "why": "«the back door» eshikni sindirib ochish ma'nosiga mos keladi.",
+  "wrong": {
+   "kill": "O'ldirmoq.",
+   "sell": "Sotmoq.",
+   "steal": "O'g'irlamoq."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "The illegal business of buying and selling forbidden drugs ruined many young lives.",
+  "options": [
+   "drug-dealing",
+   "shoplifting",
+   "vandalism",
+   "theft"
+  ],
+  "answer": "drug-dealing",
+  "why": "«buying and selling forbidden drugs» giyohvand moddalar savdosini bildiradi.",
+  "wrong": {
+   "shoplifting": "Do'kondan o'g'rilik.",
+   "vandalism": "Vandalizm.",
+   "theft": "O'g'rilik."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "Do not leave your bag on the bench, someone might ______ you in broad daylight.",
+  "options": [
+   "rob",
+   "kill",
+   "sell",
+   "break"
+  ],
+  "answer": "rob",
+  "why": "«you» shaxsga qaratilgan talonchilik fe'lini talab qiladi.",
+  "wrong": {
+   "kill": "O'ldirmoq.",
+   "sell": "Sotmoq.",
+   "break": "Sindirmoq."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "The merchant tried to offer illegal items to customers under the table.",
+  "options": [
+   "smuggling",
+   "arson",
+   "mugging",
+   "murder"
+  ],
+  "answer": "smuggling",
+  "why": "Taqiqlangan narsalarni yashirincha o'tkazish kontrabandadir.",
+  "wrong": {
+   "arson": "O't qo'yish.",
+   "mugging": "Qo'rqitib talon-toroj qilish.",
+   "murder": "Qotillik."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "He was sent to prison for trying to ______ stolen antiques to a rich collector.",
+  "options": [
+   "sell",
+   "kill",
+   "break",
+   "steal"
+  ],
+  "answer": "sell",
+  "why": "«stolen antiques to a rich collector» o'g'irlangan buyumlarni sotishni bildiradi.",
+  "wrong": {
+   "kill": "O'ldirmoq.",
+   "break": "Sindirmoq.",
+   "steal": "O'g'irlamoq (sotishga to'g'ri kelmaydi)."
+  }
+ }
+]

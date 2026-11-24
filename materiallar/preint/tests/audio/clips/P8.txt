@@ -1,0 +1,3 @@
+file 'C:/Users/user/OneDrive/Desktop/Odev/materiallar/preint/tests/audio/clips/silence.wav'
+file 'C:/Users/user/OneDrive/Desktop/Odev/materiallar/preint/tests/audio/clips/P8-0.wav'
+file 'C:/Users/user/OneDrive/Desktop/Odev/materiallar/preint/tests/audio/clips/silence.wav'

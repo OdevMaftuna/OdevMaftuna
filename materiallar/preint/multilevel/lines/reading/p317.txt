@@ -1,0 +1,40 @@
+﻿65`t16`t116`t316
+68`t20`t590`tMultilevel Master reading
+120`t21`t167`tYoung python feed on only mice and lizards.
+147`t21`t144`tA) True
+149`t19`t324`tB) False
+148`t20`t528`tC) NO inforrnation
+204`t21`t144`t9. Snakes don't eat other prey while digesting a recently eaten animal.
+233`t22`t144`tA) True
+234`t20`t324`tB) False
+299`t19`t144`tExercise 19
+234`t21`t528`tC) NO information
+345`t21`t144`tRead the following text for questions 1-9.
+374`t21`t144`tIn 2010J the planetary defence team at NASA had identified and logged
+402`t22`t116`t90 per cent ot the asteroids near Earth measuring Ikm wide, These •near.
+431`t21`t117`tEarth objects', or NEOS, are the size of mountains and include anything
+459`t18`t117`twithin 50 million kilometres of Earth's orbit. With an estimated 50 left to
+488`t23`t117`trecord$ NASA says none of the 887 it knows about are a significant danger
+517`t20`t116`tto the planet.
+545`t21`t144`tNOW NASA is working towards recording some Of the smaller aster-
+575`t21`t117`toids, those measuring 140 metres wide or more, Of the 25,000 estimated
+602`t23`t117`tasteroids Of this Size, SO far about 8,000 have been registered, leaving
+632`t21`t117`t17tOOO unaccounted for. Considering that a 19-metre asteroid that
+660`t21`t117`tploded above the city of Chelyabinsk in Russia in 2013 injured 1,200 peo-
+689`t21`t117`tple, these middle-sized asteroids would be a serious danger if they enter
+717`t17`t117`tEarth's orbit.
+746`t21`t144`tWhether NASA can find the remaining middle-sized NEOS depends on
+774`t21`t117`tgetting the money to build NEOCamy a 0.5-metre space telescope which
+804`t20`t117`twould use infrared light to locate asteroids. If it did get the moneyj it could
+831`t21`t119`tprobably achieve its goal in ten years. Once logged, the planetary defence
+860`t22`t117`tteam would still need to work out how to defend the planet against being
+890`t21`t119`thit by the truly worrying asteroids — the PHAs.
+918`t21`t145`t'Potentially Hazardous Asteroids" are rocks close enough to pass Within
+945`t20`t117`t7.5 million kilometres of Earth's orbit. NASA has created a map ot 1,400
+974`t21`t119`tPHAs, none of which are expected to be a threat in the next one hundred
+1002`t21`t117`tyears. With technology already available, NASA can track these objects and
+1032`t22`t119`tmake predictions about possible impact. at which point two defence solu-
+1061`t16`t117`ttions could be launched.
+1088`t18`t144`tThe first is DART - the Double Asteroid Redirection Test. Plans are sched-
+1116`t21`t119`tuled to test DART on the moon Of an asteroid called Didymos. 'Didymooni is
+1145`t22`t117`t150 metres wide, orbiting its 800-metre mother, end hopefully the impact

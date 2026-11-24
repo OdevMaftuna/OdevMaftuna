@@ -1,0 +1,342 @@
+[
+ {
+  "kind": "situation",
+  "q": "You want to buy some fresh bread and rolls for breakfast in Tashkent.",
+  "options": [
+   "baker's",
+   "butcher's",
+   "chemist's",
+   "florist's"
+  ],
+  "answer": "baker's",
+  "why": "«fresh bread and rolls» yangi pishirilgan non va bulochkalar sotib oladigan joyni yani «baker's»ni bildiradi.",
+  "wrong": {
+   "butcher's": "«butcher's» - go'sht do'koni. Matnda non haqida gap ketmoqda.",
+   "chemist's": "«chemist's» - dorixona. Bu yerda non sotilmaydi.",
+   "florist's": "«florist's» - gul do'koni. Non mahsulotlari bu yerda bo'lmaydi."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "I need to go to the ______ to put some money into my savings account.",
+  "options": [
+   "bank",
+   "launderette",
+   "post office",
+   "newsagent's"
+  ],
+  "answer": "bank",
+  "why": "«put some money into my savings account» pulni jamg'arma hisob raqamiga qo'yish uchun «bank»ga borish kerakligini ko'rsatadi.",
+  "wrong": {
+   "launderette": "«launderette» - kir yuvish shoxobchasi. Pul qo'yib bo'lmaydi.",
+   "post office": "«post office» - pochta bo'limi. Hisob raqamlar bilan ishlamaydi.",
+   "newsagent's": "«newsagent's» - gazeta va jurnal do'koni."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Your mother is cooking plov and needs to buy fresh beef from the market.",
+  "options": [
+   "baker's",
+   "butcher's",
+   "greengrocer's",
+   "stationer's"
+  ],
+  "answer": "butcher's",
+  "why": "«fresh beef» yangi mol go'shti «butcher's» (qassobxona) do'konidan sotib olinadi.",
+  "wrong": {
+   "baker's": "«baker's» - nonvoyxona. Faqat non mahsulotlari sotiladi.",
+   "greengrocer's": "«greengrocer's» - sabzi va meva do'koni. Go'sht sotilmaydi.",
+   "stationer's": "«stationer's» - qog'oz va kanselyariya mollari do'koni."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "You have a terrible headache and need to buy some aspirin urgently.",
+  "options": [
+   "chemist's",
+   "coffee shop",
+   "florist's",
+   "takeaway"
+  ],
+  "answer": "chemist's",
+  "why": "«terrible headache» va «aspirin» dori-darmon sotib olish uchun «chemist's»ga borish kerakligini ko'rsatadi.",
+  "wrong": {
+   "coffee shop": "«coffee shop» - qahvaxona. Dori sotilmaydi.",
+   "florist's": "«florist's» - gullar do'koni.",
+   "takeaway": "«takeaway» - tayyor ovqat olib ketish joyi."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "Let's meet at the ______ in the shopping mall to drink hot cappuccino and chat.",
+  "options": [
+   "coffee shop",
+   "launderette",
+   "bank",
+   "DIY store"
+  ],
+  "answer": "coffee shop",
+  "why": "«drink hot cappuccino» issiq kapuchino ichish uchun «coffee shop»ga boriladi.",
+  "wrong": {
+   "launderette": "«launderette»da kiyim yuviladi, qahva ichilmaydi.",
+   "bank": "«bank» - moliyaviy muassasa.",
+   "DIY store": "«DIY store» - ta'mirlash mollari do'koni."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Aziza wants to buy a modern winter coat for the cold Tashkent winter.",
+  "options": [
+   "clothes shop",
+   "shoe shop",
+   "jeweller's",
+   "stationer's"
+  ],
+  "answer": "clothes shop",
+  "why": "«winter coat» qishki palto «clothes shop» (kiyim-kechak do'koni)dan sotib olinadi.",
+  "wrong": {
+   "shoe shop": "«shoe shop» - faqat poyabzal sotadi.",
+   "jeweller's": "«jeweller's» - zargarlik buyumlari do'koni.",
+   "stationer's": "«stationer's» - o'quv qurollari do'koni."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "She bought organic face cream and lipstick at the new ______ downtown.",
+  "options": [
+   "cosmetics store",
+   "greengrocer's",
+   "baker's",
+   "butcher's"
+  ],
+  "answer": "cosmetics store",
+  "why": "«organic face cream and lipstick» yuz kremi va lab bo'yog'i «cosmetics store»da sotiladi.",
+  "wrong": {
+   "greengrocer's": "«greengrocer's» - sabzavot va meva do'koni.",
+   "baker's": "«baker's» - nonvoyxona.",
+   "butcher's": "«butcher's» - qassobxona."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Your father needs to buy new hammers, screws, and paint to fix the fence.",
+  "options": [
+   "DIY store",
+   "estate agent's",
+   "garden centre",
+   "optician's"
+  ],
+  "answer": "DIY store",
+  "why": "«hammers, screws, and paint» bolg'a, burama miq va bo'yoqlar «DIY store» (xo'jalik mollari do'koni)da bo'ladi.",
+  "wrong": {
+   "estate agent's": "«estate agent's» - uy-joy oldi-sotdisi agentligi.",
+   "garden centre": "«garden centre» - bog'dorchilik markazi, uy ta'mirlash uchun emas.",
+   "optician's": "«optician's» - ko'zoynak do'koni."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "We went to the ______ to find a comfortable three-room apartment to rent.",
+  "options": [
+   "estate agent's",
+   "charity shop",
+   "chemist's",
+   "post office"
+  ],
+  "answer": "estate agent's",
+  "why": "«find a comfortable three-room apartment to rent» kvartira topish uchun «estate agent's»ga murojaat qilinadi.",
+  "wrong": {
+   "charity shop": "«charity shop» - arzon kiyimlar sotiladigan xayriya joyi.",
+   "chemist's": "«chemist's» - dorixona.",
+   "post office": "«post office» - pochta bo'limi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "You want to buy a beautiful bouquet of red roses for your teacher's birthday.",
+  "options": [
+   "florist's",
+   "garden centre",
+   "greengrocer's",
+   "newsagent's"
+  ],
+  "answer": "florist's",
+  "why": "«bouquet of red roses» qizil gullar dastasini «florist's» (gul do'koni)dan sotib olasiz.",
+  "wrong": {
+   "garden centre": "«garden centre» - ko'chat va ulkan o'simliklar markazi.",
+   "greengrocer's": "«greengrocer's» - sabzavot do'koni.",
+   "newsagent's": "«newsagent's» - gazeta do'koni."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "My grandparents bought new apple tree saplings and flower pots at the ______.",
+  "options": [
+   "garden centre",
+   "baker's",
+   "butcher's",
+   "launderette"
+  ],
+  "answer": "garden centre",
+  "why": "«apple tree saplings and flower pots» olma ko'chatlari va tuvaklar «garden centre»da sotiladi.",
+  "wrong": {
+   "baker's": "«baker's» - nonvoyxona.",
+   "butcher's": "«butcher's» - go'sht do'koni.",
+   "launderette": "«launderette» - kir yuvish joyi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "You need to buy fresh juicy tomatoes, cucumbers, and watermelons for the family dinner.",
+  "options": [
+   "greengrocer's",
+   "coffee shop",
+   "clothes shop",
+   "stationer's"
+  ],
+  "answer": "greengrocer's",
+  "why": "«tomatoes, cucumbers, and watermelons» pomidor, bodring va tarvuzlar «greengrocer's»da bo'ladi.",
+  "wrong": {
+   "coffee shop": "«coffee shop» - qahvaxona.",
+   "clothes shop": "«clothes shop» - kiyim do'koni.",
+   "stationer's": "«stationer's» - kanselyariya mollari do'koni."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "Timur went to the ______ to get a trendy new haircut and style his hair.",
+  "options": [
+   "hairdresser's",
+   "optician's",
+   "jeweller's",
+   "bank"
+  ],
+  "answer": "hairdresser's",
+  "why": "«trendy new haircut» yangi zamonaviy soch turmagi uchun «hairdresser's»ga boriladi.",
+  "wrong": {
+   "optician's": "«optician's» - ko'zoynak taqish va tekshirish joyi.",
+   "jeweller's": "«jeweller's» - zargarlik buyumlari do'koni.",
+   "bank": "«bank» - moliyaviy muassasa."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Your sister is getting married and wants to buy a sparkling gold ring.",
+  "options": [
+   "jeweller's",
+   "cosmetics store",
+   "shoe shop",
+   "DIY store"
+  ],
+  "answer": "jeweller's",
+  "why": "«sparkling gold ring» tillo uzuk «jeweller's» (zargarlik do'koni)da sotiladi.",
+  "wrong": {
+   "cosmetics store": "«cosmetics store»da tilla uzuklar sotilmaydi.",
+   "shoe shop": "«shoe shop» - faqat poyabzal do'koni.",
+   "DIY store": "«DIY store» - qurilish mollari do'koni."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "Our washing machine broke down, so we took our heavy winter duvets to the ______.",
+  "options": [
+   "launderette",
+   "post office",
+   "estate agent's",
+   "florist's"
+  ],
+  "answer": "launderette",
+  "why": "«washing machine broke down» va «duvets» kir yuvish mashinasi buzilgani uchun «launderette»ga borilganini bildiradi.",
+  "wrong": {
+   "post office": "«post office»da kir yuvilmaydi.",
+   "estate agent's": "«estate agent's» - uy-joy agentligi.",
+   "florist's": "«florist's» - gul do'koni."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "You want to buy today's local newspaper and a weekly TV guide magazine.",
+  "options": [
+   "newsagent's",
+   "stationer's",
+   "baker's",
+   "coffee shop"
+  ],
+  "answer": "newsagent's",
+  "why": "«local newspaper and a weekly TV guide magazine» gazeta va jurnallar «newsagent's»da sotiladi.",
+  "wrong": {
+   "stationer's": "«stationer's» - daftar va qalamlar do'koni.",
+   "baker's": "«baker's» - nonvoyxona.",
+   "coffee shop": "«coffee shop» - qahvaxona."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "My vision is getting worse, so I need to visit the ______ to get my eyes tested.",
+  "options": [
+   "optician's",
+   "hairdresser's",
+   "chemist's",
+   "butcher's"
+  ],
+  "answer": "optician's",
+  "why": "«vision is getting worse» va «get my eyes tested» ko'zni tekshirish uchun «optician's»ga borishni anglatadi.",
+  "wrong": {
+   "hairdresser's": "«hairdresser's» - soch turmaklash saloni.",
+   "chemist's": "«chemist's» - dori-darmon sotadigan dorixona.",
+   "butcher's": "«butcher's» - qassobxona."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "You need to send an urgent parcel and buy some stamps for your letters to London.",
+  "options": [
+   "post office",
+   "bank",
+   "newsagent's",
+   "charity shop"
+  ],
+  "answer": "post office",
+  "why": "«send an urgent parcel and buy some stamps» posilka yuborish va marka sotib olish «post office»da bajariladi.",
+  "wrong": {
+   "bank": "«bank» - faqat pul operatsiyalari uchun.",
+   "newsagent's": "«newsagent's» - gazeta do'koni.",
+   "charity shop": "«charity shop» - xayriya do'koni."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "We are too tired to cook tonight, so let's order a hot ______ with spicy chicken.",
+  "options": [
+   "takeaway",
+   "coffee shop",
+   "baker's",
+   "garden centre"
+  ],
+  "answer": "takeaway",
+  "why": "«too tired to cook» va «order a hot... with spicy chicken» uyda ovqat pishirmasdan «takeaway» buyurtma qilishni ko'rsatadi.",
+  "wrong": {
+   "coffee shop": "«coffee shop» - qahva va shirinliklar joyi.",
+   "baker's": "«baker's» - non do'koni.",
+   "garden centre": "«garden centre» - o'simliklar markazi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "You are travelling to the USA and need to exchange your Uzbek sums for American paper currency.",
+  "options": [
+   "dollar",
+   "euro",
+   "rupee",
+   "yen"
+  ],
+  "answer": "dollar",
+  "why": "«USA» va «American paper currency» AQSh pul birligi «dollar» ekanini bildiradi.",
+  "wrong": {
+   "euro": "«euro» - Yevropa Ittifoqi pul birligi.",
+   "rupee": "«rupee» - Hindiston valyutasi.",
+   "yen": "«yen» - Yaponiya pul birligi."
+  }
+ }
+]

@@ -1,0 +1,1206 @@
+{
+ "code": "3.2",
+ "model": "gemini-3.5-flash-lite",
+ "tr1": [
+  {
+   "part": 0,
+   "uz": "U shifokormi?",
+   "en": [
+    "Is he a doctor?",
+    "Is she a doctor?"
+   ],
+   "rule": "Birlikda is fe'li ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Bu mashinami?",
+   "en": [
+    "Is it a car?"
+   ],
+   "rule": "Narsalar uchun It ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "U Toshkentdami?",
+   "en": [
+    "Is he in Tashkent?",
+    "Is she in Tashkent?"
+   ],
+   "rule": "Joylar bilan is fe'li"
+  },
+  {
+   "part": 0,
+   "uz": "Tom kasalxonadami?",
+   "en": [
+    "Is Tom in the hospital?"
+   ],
+   "rule": "Ism bilan is ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "U quruvchimi?",
+   "en": [
+    "Is he a builder?"
+   ],
+   "rule": "Kasblar uchun is fe'li"
+  },
+  {
+   "part": 0,
+   "uz": "Bu uy kattami?",
+   "en": [
+    "Is it a big house?"
+   ],
+   "rule": "Sifat va is fe'li"
+  },
+  {
+   "part": 0,
+   "uz": "U o'qituvchimi?",
+   "en": [
+    "Is he a teacher?",
+    "Is she a teacher?"
+   ],
+   "rule": "Savol tuzish uchun is oldinga chiqadi"
+  },
+  {
+   "part": 0,
+   "uz": "Bu sumka kichikmi?",
+   "en": [
+    "Is it a small bag?"
+   ],
+   "rule": "Birlikdagi narsa uchun is"
+  },
+  {
+   "part": 0,
+   "uz": "Aziz xonadami?",
+   "en": [
+    "Is Aziz in the room?"
+   ],
+   "rule": "Erkak kishi uchun is he"
+  },
+  {
+   "part": 0,
+   "uz": "Malika shahardami?",
+   "en": [
+    "Is Malika in the town centre?"
+   ],
+   "rule": "Ayol kishi uchun is she"
+  },
+  {
+   "part": 0,
+   "uz": "U ofitsantmi?",
+   "en": [
+    "Is he a shop assistant?"
+   ],
+   "rule": "Kasb so'rashda is fe'li"
+  },
+  {
+   "part": 0,
+   "uz": "Bu kitob yaxshimi?",
+   "en": [
+    "Is it a good book?"
+   ],
+   "rule": "Birlikdagi ot va is"
+  },
+  {
+   "part": 0,
+   "uz": "U politsiyachimi?",
+   "en": [
+    "Is he a police officer?"
+   ],
+   "rule": "Is fe'li bilan so'roq gap"
+  },
+  {
+   "part": 0,
+   "uz": "U ingliz tilidan o'qituvchimi?",
+   "en": [
+    "Is she an English teacher?"
+   ],
+   "rule": "Unlidan oldin an ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Bu telefon yangimi?",
+   "en": [
+    "Is it a new phone?"
+   ],
+   "rule": "Narsa uchun is fe'li"
+  },
+  {
+   "part": 0,
+   "uz": "Ali Samarkanddami?",
+   "en": [
+    "Is Ali in Samarkand?"
+   ],
+   "rule": "Shahar nomlari bilan is"
+  },
+  {
+   "part": 0,
+   "uz": "U Amerikadami?",
+   "en": [
+    "Is he in America?",
+    "Is she in America?"
+   ],
+   "rule": "Davlatlar bilan is fe'li"
+  },
+  {
+   "part": 0,
+   "uz": "Bu stul kichikmi?",
+   "en": [
+    "Is it a small chair?"
+   ],
+   "rule": "Predmetlar uchun is"
+  },
+  {
+   "part": 0,
+   "uz": "U shifoxonadami?",
+   "en": [
+    "Is he in the hospital?",
+    "Is she in the hospital?"
+   ],
+   "rule": "Joy nomlari bilan is"
+  },
+  {
+   "part": 0,
+   "uz": "Bu suv sovuqmi?",
+   "en": [
+    "Is it cold water?"
+   ],
+   "rule": "Sifat va is fe'li"
+  },
+  {
+   "part": 0,
+   "uz": "U ishchimi?",
+   "en": [
+    "Is he a builder?"
+   ],
+   "rule": "Kasb so'rovi is bilan"
+  },
+  {
+   "part": 0,
+   "uz": "Anna uyda emasmi?",
+   "en": [
+    "Is Anna at home?"
+   ],
+   "rule": "Joylashuvni so'rashda is"
+  },
+  {
+   "part": 0,
+   "uz": "Bu mushuk kattami?",
+   "en": [
+    "Is it a big cat?"
+   ],
+   "rule": "Hayvonlar uchun is it"
+  },
+  {
+   "part": 0,
+   "uz": "U talabami?",
+   "en": [
+    "Is he a student?",
+    "Is she a student?"
+   ],
+   "rule": "Talaba so'zi bilan is"
+  },
+  {
+   "part": 0,
+   "uz": "Bu kamera qimmatmi?",
+   "en": [
+    "Is it a camera?"
+   ],
+   "rule": "Narsa haqida so'rashda is"
+  },
+  {
+   "part": 0,
+   "uz": "U o'sha yerdami?",
+   "en": [
+    "Is he over there?",
+    "Is she over there?"
+   ],
+   "rule": "Joyni ko'rsatishda is"
+  },
+  {
+   "part": 0,
+   "uz": "Bu stol kattami?",
+   "en": [
+    "Is it a big table?"
+   ],
+   "rule": "Predmet so'rog'i"
+  },
+  {
+   "part": 0,
+   "uz": "U haydovchimi?",
+   "en": [
+    "Is he a bus driver?"
+   ],
+   "rule": "Kasb so'rovi is bilan"
+  },
+  {
+   "part": 0,
+   "uz": "Bu xona issiqmi?",
+   "en": [
+    "Is it a room?"
+   ],
+   "rule": "Xona so'rog'i is bilan"
+  },
+  {
+   "part": 0,
+   "uz": "U ishbilarmonmi?",
+   "en": [
+    "Is he a businessman?"
+   ],
+   "rule": "Kasb so'rash"
+  },
+  {
+   "part": 0,
+   "uz": "Bu daftar qora mi?",
+   "en": [
+    "Is it a book?"
+   ],
+   "rule": "Buyum so'rovi"
+  },
+  {
+   "part": 0,
+   "uz": "U xonandami?",
+   "en": [
+    "Is he a singer?",
+    "Is she a singer?"
+   ],
+   "rule": "San'atkor kasbi is bilan"
+  },
+  {
+   "part": 0,
+   "uz": "Bu mashina qizilmi?",
+   "en": [
+    "Is it a red car?"
+   ],
+   "rule": "Ranglar va is fe'li"
+  },
+  {
+   "part": 0,
+   "uz": "U do'stimizmi?",
+   "en": [
+    "Is he a friend?",
+    "Is she a friend?"
+   ],
+   "rule": "Do'st so'zi bilan is"
+  },
+  {
+   "part": 0,
+   "uz": "Bu qahva yaxshimi?",
+   "en": [
+    "Is it good coffee?"
+   ],
+   "rule": "Ichimliklar bilan is"
+  },
+  {
+   "part": 0,
+   "uz": "U shifokormi yoki o'qituvchi?",
+   "en": [
+    "Is he a doctor?"
+   ],
+   "rule": "Bitta tanlovli is savoli"
+  },
+  {
+   "part": 0,
+   "uz": "Bu uy eski mi?",
+   "en": [
+    "Is it a house?"
+   ],
+   "rule": "Uy so'rog'i is bilan"
+  },
+  {
+   "part": 0,
+   "uz": "U o'quvchimi?",
+   "en": [
+    "Is he a student?",
+    "Is she a student?"
+   ],
+   "rule": "O'quvchi so'rog'i"
+  },
+  {
+   "part": 0,
+   "uz": "Bu darcha ochiqmi?",
+   "en": [
+    "Is it a window?"
+   ],
+   "rule": "Deraza so'rog'i is bilan"
+  },
+  {
+   "part": 0,
+   "uz": "U o'sha yerdagi odammi?",
+   "en": [
+    "Is he a man?"
+   ],
+   "rule": "Odam so'rog'i is bilan"
+  },
+  {
+   "part": 1,
+   "uz": "Siz xursandmisiz?",
+   "en": [
+    "Are you happy?"
+   ],
+   "rule": "You olmoshiga are ishlatiladi"
+  },
+  {
+   "part": 1,
+   "uz": "Siz charchaganmisiz?",
+   "en": [
+    "Are you tired?"
+   ],
+   "rule": "Holat so'rashda are you"
+  },
+  {
+   "part": 1,
+   "uz": "Ular Londondami?",
+   "en": [
+    "Are they in London?"
+   ],
+   "rule": "They uchun are ishlatiladi"
+  },
+  {
+   "part": 1,
+   "uz": "Siz talabamisiz?",
+   "en": [
+    "Are you a student?"
+   ],
+   "rule": "Kasb so'rashda are you"
+  },
+  {
+   "part": 1,
+   "uz": "Ular shifokorlarmi?",
+   "en": [
+    "Are they doctors?"
+   ],
+   "rule": "Ko'plik otlar bilan are they"
+  },
+  {
+   "part": 1,
+   "uz": "Siz uydamisiz?",
+   "en": [
+    "Are you at home?"
+   ],
+   "rule": "Joyni so'rashda are you"
+  },
+  {
+   "part": 1,
+   "uz": "Ular do'stlarmi?",
+   "en": [
+    "Are they friends?"
+   ],
+   "rule": "Ko'plikda are they"
+  },
+  {
+   "part": 1,
+   "uz": "Siz o'qituvchimisiz?",
+   "en": [
+    "Are you a teacher?"
+   ],
+   "rule": "Siz so'rog'i are bilan"
+  },
+  {
+   "part": 1,
+   "uz": "Ular o'sha yerdami?",
+   "en": [
+    "Are they over there?"
+   ],
+   "rule": "Joy ko'rsatishda are"
+  },
+  {
+   "part": 1,
+   "uz": "Siz bu yerdamisiz?",
+   "en": [
+    "Are you here?"
+   ],
+   "rule": "Here so'zi bilan are you"
+  }
+ ],
+ "tr51": [
+  {
+   "part": 1,
+   "uz": "Siz doktor, men esa o'qituvchimanmi?",
+   "en": [
+    "Are you a doctor and am I a teacher?"
+   ],
+   "rule": "You uchun 'are', I uchun 'am' ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Biz Toshkentdamizmi?",
+   "en": [
+    "Are we in Tashkent?"
+   ],
+   "rule": "We olmoshiga 'are' yordamchi fe'li to'g'ri keladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular shaharchadami?",
+   "en": [
+    "Are they in the town centre?"
+   ],
+   "rule": "They olmoshidan keyin 'are' qo'yiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Sizlar uydamisiz?",
+   "en": [
+    "Are you at home?"
+   ],
+   "rule": "You ko'plik yoki birlikda ham 'are' oladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular Amerikadanmi?",
+   "en": [
+    "Are they from America?"
+   ],
+   "rule": "Mamlakat nomlari bilan 'from' ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Biz inglizmimiz?",
+   "en": [
+    "Are we English?"
+   ],
+   "rule": "Millat bildirganda 'Are we ...?' yasaladi."
+  },
+  {
+   "part": 1,
+   "uz": "Sizlar xursandmisiz?",
+   "en": [
+    "Are you happy?"
+   ],
+   "rule": "Sifat bilan 'Are you ...?' tuziladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular ishchilarmi?",
+   "en": [
+    "Are they workers?"
+   ],
+   "rule": "Ko'plikdagi otlar 'Are they ...?' so'rog'ida qo'llanadi."
+  },
+  {
+   "part": 1,
+   "uz": "Biz do'stlarmi?",
+   "en": [
+    "Are we friends?"
+   ],
+   "rule": "Do'stlar so'zi ko'plikda 'friends' bo'ladi."
+  },
+  {
+   "part": 1,
+   "uz": "Siz o'quvchimisiz?",
+   "en": [
+    "Are you a student?"
+   ],
+   "rule": "You uchun 'Are' so'roq boshida turadi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular boylarmi?",
+   "en": [
+    "Are they rich?"
+   ],
+   "rule": "Sifatlar bilan 'Are they ...?' so'roq gap."
+  },
+  {
+   "part": 1,
+   "uz": "Biz shoirlarmiz?",
+   "en": [
+    "Are we poets?"
+   ],
+   "rule": "Biz so'rog'i uchun 'Are we' ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Siz xursandmisiz?",
+   "en": [
+    "Are you glad?"
+   ],
+   "rule": "Sifatni subyektdan oldinga chiqaramiz."
+  },
+  {
+   "part": 1,
+   "uz": "Ular bu yerda dam olayotganlarmi?",
+   "en": [
+    "Are they here on holiday?"
+   ],
+   "rule": "On holiday iborasi so'roq oxirida keladi."
+  },
+  {
+   "part": 1,
+   "uz": "Biz kasalxonadamizmiz?",
+   "en": [
+    "Are we in the hospital?"
+   ],
+   "rule": "Joy nomlari oldidan 'in' ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Sizning ismingiz Tommi va ular do'stlarmi?",
+   "en": [
+    "Is your name Tom and are they friends?"
+   ],
+   "rule": "Ism uchun 'Is', ular uchun 'are' qo'yiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular yaxshi odamlarmi?",
+   "en": [
+    "Are they good people?"
+   ],
+   "rule": "People so'zi ko'plikda 'Are they' oladi."
+  },
+  {
+   "part": 1,
+   "uz": "Siz charchaganmisiz?",
+   "en": [
+    "Are you tired?"
+   ],
+   "rule": "Tired - charchagan sifatidir."
+  },
+  {
+   "part": 1,
+   "uz": "Biz Shotlandiyadamizmiz?",
+   "en": [
+    "Are we in Scotland?"
+   ],
+   "rule": "Scotland joy nomi bilan 'in' ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular bu binodami?",
+   "en": [
+    "Are they in this building?"
+   ],
+   "rule": "This ko'rsatish olmoshi ot bilan keladi."
+  },
+  {
+   "part": 1,
+   "uz": "Siz tadbirkormisiz?",
+   "en": [
+    "Are you a businessman?"
+   ],
+   "rule": "Birlikdagi kasblar oldidan 'a' qo'yiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular xonandalarmi?",
+   "en": [
+    "Are they singers?"
+   ],
+   "rule": "Singer so'zi ko'plikda 'singers' bo'ladi."
+  },
+  {
+   "part": 1,
+   "uz": "Biz Irlandiyadamizmiz?",
+   "en": [
+    "Are we in Ireland?"
+   ],
+   "rule": "Ireland so'zi oldidan 'in' ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Siz xursandmisiz?",
+   "en": [
+    "Are you happy?"
+   ],
+   "rule": "Happy - xursand, baxtli."
+  },
+  {
+   "part": 1,
+   "uz": "Ular politsiyachilarmi?",
+   "en": [
+    "Are they police officers?"
+   ],
+   "rule": "Police officers ko'plik otidir."
+  },
+  {
+   "part": 1,
+   "uz": "Biz maktabdamizmiz?",
+   "en": [
+    "Are we at school?"
+   ],
+   "rule": "Maktabda so'zi uchun 'at school' ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Siz xonandamisiz?",
+   "en": [
+    "Are you a singer?"
+   ],
+   "rule": "Kasalik yoki kasbni so'rashda 'a' ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular Shvetsiyadanmi?",
+   "en": [
+    "Are they from Sweden?"
+   ],
+   "rule": "Sweden davlatidan kelib chiqishni bildiradi."
+  },
+  {
+   "part": 1,
+   "uz": "Biz biznesmenmizmiz?",
+   "en": [
+    "Are we businessmen?"
+   ],
+   "rule": "Businessman so'zining ko'pligi businessmen."
+  },
+  {
+   "part": 1,
+   "uz": "Sizning do'stlaringiz uydami?",
+   "en": [
+    "Are your friends at home?"
+   ],
+   "rule": "Friends ko'plikda bo'lgani uchun 'are' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Ha, men shvetsiyalikman.",
+   "en": [
+    "Yes, I am."
+   ],
+   "rule": "Ixtiyoriy qisqa ijobiy javob: Yes, I am."
+  },
+  {
+   "part": 2,
+   "uz": "Yo'q, u uchrashuvda emas.",
+   "en": [
+    "No, she isn't."
+   ],
+   "rule": "Qisqa salbiy javob: No, she isn't."
+  },
+  {
+   "part": 2,
+   "uz": "Ha, ular bu yerda.",
+   "en": [
+    "Yes, they are."
+   ],
+   "rule": "Ko'plik uchun qisqa ijobiy javob: Yes, they are."
+  },
+  {
+   "part": 2,
+   "uz": "Yo'q, men u yerda emasman.",
+   "en": [
+    "No, I'm not."
+   ],
+   "rule": "Men uchun qisqa salbiy javob: No, I'm not."
+  },
+  {
+   "part": 2,
+   "uz": "Ha, u o'qituvchi.",
+   "en": [
+    "Yes, he is."
+   ],
+   "rule": "Erkak kishi uchun qisqa ijobiy javob."
+  },
+  {
+   "part": 2,
+   "uz": "Yo'q, ular Amerikadan emas.",
+   "en": [
+    "No, they aren't."
+   ],
+   "rule": "They uchun qisqa salbiy javob: No, they aren't."
+  },
+  {
+   "part": 2,
+   "uz": "Ha, bu juda qiziqarli.",
+   "en": [
+    "Yes, it is."
+   ],
+   "rule": "Jonsiz narsalar uchun 'Yes, it is' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Yo'q, u shifokor emas.",
+   "en": [
+    "No, he isn't."
+   ],
+   "rule": "Erkak kishi uchun qisqa rad javobi."
+  },
+  {
+   "part": 2,
+   "uz": "Ha, siz haqsiz.",
+   "en": [
+    "Yes, you are."
+   ],
+   "rule": "Siz uchun qisqa ijobiy javob: Yes, you are."
+  },
+  {
+   "part": 2,
+   "uz": "Yo'q, bu unchalik yaxshi emas.",
+   "en": [
+    "No, it isn't."
+   ],
+   "rule": "It uchun qisqa rad javobi: No, it isn't."
+  },
+  {
+   "part": 2,
+   "uz": "Ha, ular kasalxonada.",
+   "en": [
+    "Yes, they are."
+   ],
+   "rule": "Ular so'zi uchun ijobiy javob."
+  },
+  {
+   "part": 2,
+   "uz": "Yo'q, u uydan emas.",
+   "en": [
+    "No, she isn't."
+   ],
+   "rule": "Ayol kishi uchun qisqa rad javobi."
+  },
+  {
+   "part": 2,
+   "uz": "Ha, bu juda ajoyib.",
+   "en": [
+    "Yes, it is."
+   ],
+   "rule": "It olmoshi bilan qisqa javob."
+  },
+  {
+   "part": 2,
+   "uz": "Yo'q, biz Britaniyadan emasmiz.",
+   "en": [
+    "No, we aren't."
+   ],
+   "rule": "Biz uchun qisqa rad javobi: No, we aren't."
+  },
+  {
+   "part": 2,
+   "uz": "Ha, ular bu yerda dam olishmoqda.",
+   "en": [
+    "Yes, they are."
+   ],
+   "rule": "Ular uchun qisqa tasdiq javobi."
+  },
+  {
+   "part": 2,
+   "uz": "Yo'q, men band emasman.",
+   "en": [
+    "No, I'm not."
+   ],
+   "rule": "Men uchun qisqa rad javobi."
+  },
+  {
+   "part": 2,
+   "uz": "Ha, u mening akam.",
+   "en": [
+    "Yes, he is."
+   ],
+   "rule": "Erkak qarindosh uchun ijobiy qisqa javob."
+  },
+  {
+   "part": 2,
+   "uz": "Yo'q, ular u yerda emas.",
+   "en": [
+    "No, they aren't."
+   ],
+   "rule": "They uchun qisqa rad shakli."
+  },
+  {
+   "part": 2,
+   "uz": "Ha, bu shahar markazida.",
+   "en": [
+    "Yes, it is."
+   ],
+   "rule": "It uchun qisqa ijobiy javob."
+  },
+  {
+   "part": 2,
+   "uz": "Yo'q, men o'qituvchi emasman.",
+   "en": [
+    "No, I'm not."
+   ],
+   "rule": "I olmoshi uchun salbiy qisqa javob."
+  }
+ ],
+ "intro": {
+  "what": "Verb to be (am, is, are) yordamida savol tuzish va qisqa javob berish shaxsning ismi, kasbi, yoshi va joyini so'rash va ularga javob berish uchun ishlatiladi.",
+  "when": [
+   "Ism va familiyani so'rashda",
+   "Yosh va kasbni so'rashda",
+   "Qayerdan ekanligini yoki manzilni so'rashda",
+   "Ahvol va turmush holatini so'rashda"
+  ],
+  "structures": [
+   {
+    "label": "(?) Yes/No question",
+    "formula": "TOBE + S + OB?",
+    "example_en": "Are you a student?",
+    "example_uz": "Siz talamisiz?"
+   },
+   {
+    "label": "(?) Short answer Yes",
+    "formula": "YES + S + TOBE",
+    "example_en": "Yes, I am.",
+    "example_uz": "Ha, men talabaman."
+   },
+   {
+    "label": "(?) Short answer No",
+    "formula": "NO + S + TOBE + NOT",
+    "example_en": "No, I'm not.",
+    "example_uz": "Yo'q, men talaba emasman."
+   },
+   {
+    "label": "(?) Wh- question",
+    "formula": "WH + TOBE + S + OB?",
+    "example_en": "What is your name?",
+    "example_uz": "Ismingiz nima?"
+   }
+  ],
+  "rules": [
+   {
+    "title": "So'roq gapda joylashuv",
+    "text": "So'roq gap tuzishda to be (am, is, are) fe'li egadan oldinga chiqadi.",
+    "examples": [
+     {
+      "en": "Are you from Tashkent?",
+      "uz": "Siz Toshkentdanmisiz?"
+     },
+     {
+      "en": "Is she a doctor?",
+      "uz": "U shifokormi?"
+     }
+    ]
+   },
+   {
+    "title": "Qisqa javoblar qoidasi",
+    "text": "Ingliz tilida Yes yoki No deb qisqa javob berganda fe'l qisqartirilmaydi (masalan: Yes, I am. lekin Yes, I'm emas).",
+    "examples": [
+     {
+      "en": "Yes, he is.",
+      "uz": "Ha, u."
+     },
+     {
+      "en": "No, they aren't.",
+      "uz": "Yo'q, ular emas."
+     }
+    ]
+   },
+   {
+    "title": "So'roq so'zlar (Wh-)",
+    "text": "What, where, how old kabi so'roq so'zlari doim gapning boshida keladi.",
+    "examples": [
+     {
+      "en": "How old are you?",
+      "uz": "Yoshingiz nechada?"
+     },
+     {
+      "en": "What is your address?",
+      "uz": "Manzilingiz qayerda?"
+     }
+    ]
+   }
+  ],
+  "signal_words": [
+   {
+    "en": "What?",
+    "uz": "Nima?"
+   },
+   {
+    "en": "Where?",
+    "uz": "Qayerda?"
+   },
+   {
+    "en": "How old?",
+    "uz": "Necha yoshda?"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "Are you student?",
+    "right": "Are you a student?",
+    "why": "Birlikdagi sanaladigan otlar oldidan doimo a/an artikli ishlatilishi kerak."
+   },
+   {
+    "wrong": "Yes, I'm.",
+    "right": "Yes, I am.",
+    "why": "Tasdiq qisqa javoblarida to be fe'li qisqartirilmaydi."
+   },
+   {
+    "wrong": "How you are?",
+    "right": "How are you?",
+    "why": "So'roq gapda to be fe'li egadan oldin kelishi shart."
+   }
+  ]
+ },
+ "test": [
+  {
+   "type": "fill",
+   "q": "______ you a student?",
+   "answer": "Are",
+   "explain": "You olmoshi uchun to be fe'lining 'are' shakli ishlatiladi.",
+   "accept": [],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "Yes, I ______.",
+   "answer": "am",
+   "explain": "I olmoshi bilan 'am' qisqa javobi ishlatiladi.",
+   "accept": [],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "No, I'm ______.",
+   "answer": "not",
+   "explain": "Inkor qisqa javobda 'not' qo'shiladi.",
+   "accept": [],
+   "hint": "not"
+  },
+  {
+   "type": "fill",
+   "q": "______ she a doctor?",
+   "answer": "Is",
+   "explain": "She olmoshi uchun 'is' fe'li so'roq gap boshiga chiqadi.",
+   "accept": [],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "Yes, she ______.",
+   "answer": "is",
+   "explain": "She olmoshi bilan tasdiq qisqa javobida 'is' ishlatiladi.",
+   "accept": [],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "No, she ______.",
+   "answer": "isn't",
+   "explain": "She olmoshi uchun inkor qisqa javob 'isn't' bo'ladi.",
+   "accept": [
+    "is not"
+   ],
+   "hint": "not + be"
+  },
+  {
+   "type": "fill",
+   "q": "______ they from Uzbekistan?",
+   "answer": "Are",
+   "explain": "They ko'plik olmoshi uchun 'are' fe'li ishlatiladi.",
+   "accept": [],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "Yes, they ______.",
+   "answer": "are",
+   "explain": "They olmoshi bilan tasdiq qisqa javobida 'are' ishlatiladi.",
+   "accept": [],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "No, they ______.",
+   "answer": "aren't",
+   "explain": "They olmoshi uchun inkor qisqa javob 'aren't' bo'ladi.",
+   "accept": [
+    "are not"
+   ],
+   "hint": "not + be"
+  },
+  {
+   "type": "fill",
+   "q": "______ is your name?",
+   "answer": "What",
+   "explain": "Ismni so'rash uchun 'What' so'roq so'zi ishlatiladi.",
+   "accept": [],
+   "hint": "what / where"
+  },
+  {
+   "type": "fill",
+   "q": "______ old are you?",
+   "answer": "How",
+   "explain": "Yoshni so'rashda 'How old' birikmasi ishlatiladi.",
+   "accept": [],
+   "hint": "what / how"
+  },
+  {
+   "type": "fill",
+   "q": "______ are you from?",
+   "answer": "Where",
+   "explain": "Joyni so'rash uchun 'Where' so'roq so'zi ishlatiladi.",
+   "accept": [],
+   "hint": "what / where"
+  },
+  {
+   "type": "fill",
+   "q": "______ is your address?",
+   "answer": "What",
+   "explain": "Manzilni so'rashda 'What' so'roq so'zi ishlatiladi.",
+   "accept": [],
+   "hint": "what / how"
+  },
+  {
+   "type": "fill",
+   "q": "______ is his job?",
+   "answer": "What",
+   "explain": "Kasbni so'rash uchun 'What' ishlatiladi.",
+   "accept": [],
+   "hint": "what / where"
+  },
+  {
+   "type": "fill",
+   "q": "Are you married? No, I ______.",
+   "answer": "am not",
+   "explain": "I olmoshi uchun to be fe'lining inkor shakli 'am not' bo'ladi.",
+   "accept": [
+    "'m not"
+   ],
+   "hint": "not + be"
+  },
+  {
+   "type": "fill",
+   "q": "Is he a builder? Yes, he ______.",
+   "answer": "is",
+   "explain": "He olmoshi uchun tasdiq qisqa javobda 'is' ishlatiladi.",
+   "accept": [],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "Are they on holiday? Yes, they ______.",
+   "answer": "are",
+   "explain": "They olmoshi uchun tasdiq qisqa javobda 'are' ishlatiladi.",
+   "accept": [],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "______ is her surname?",
+   "answer": "What",
+   "explain": "Familiyani so'rash uchun 'What' so'roq so'zi kerak.",
+   "accept": [],
+   "hint": "what / where"
+  },
+  {
+   "type": "fill",
+   "q": "How old ______ they?",
+   "answer": "are",
+   "explain": "They olmoshi bilan 'are' to be fe'li ishlatiladi.",
+   "accept": [],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "______ is your phone number?",
+   "answer": "What",
+   "explain": "Telefon raqamini so'rashda 'What' ishlatiladi.",
+   "accept": [],
+   "hint": "what / how"
+  },
+  {
+   "type": "mc",
+   "q": "______ you fine today?",
+   "answer": "Are",
+   "explain": "You olmoshi bilan 'Are' so'roq fe'li ishlatiladi.",
+   "options": [
+    "Is",
+    "Am",
+    "Are"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Is she a singer? Yes, she ______.",
+   "answer": "is",
+   "explain": "She olmoshi bilan tasdiq qisqa javobda 'is' ishlatiladi.",
+   "options": [
+    "are",
+    "is",
+    "am"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ is your first name?",
+   "answer": "What",
+   "explain": "Ismni so'rash uchun 'What' so'roq so'zi ishlatiladi.",
+   "options": [
+    "Where",
+    "What",
+    "How"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Are they doctors? No, they ______.",
+   "answer": "aren't",
+   "explain": "They uchun inkor qisqa javob 'aren't' bo'ladi.",
+   "options": [
+    "isn't",
+    "aren't",
+    "am not"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ are you from, Tashkent or Samarkand?",
+   "answer": "Where",
+   "explain": "Joyni so'rash uchun 'Where' so'roq so'zi ishlatiladi.",
+   "options": [
+    "What",
+    "Where",
+    "How"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Is he a businessman? No, he ______.",
+   "answer": "isn't",
+   "explain": "He olmoshi uchun inkor qisqa javob 'isn't' bo'ladi.",
+   "options": [
+    "aren't",
+    "isn't",
+    "am not"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ old is your brother?",
+   "answer": "How",
+   "explain": "Yoshni so'rashda 'How old' qolipidan foydalaniladi.",
+   "options": [
+    "What",
+    "Where",
+    "How"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Are you tired? Yes, I ______.",
+   "answer": "am",
+   "explain": "I olmoshi bilan tasdiq qisqa javobida 'am' ishlatiladi.",
+   "options": [
+    "is",
+    "are",
+    "am"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ are you? I'm fine, thanks.",
+   "answer": "How",
+   "explain": "Ahvolni so'rash uchun 'How are you?' ishlatiladi.",
+   "options": [
+    "What",
+    "How",
+    "Where"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Is this a computer? Yes, it ______.",
+   "answer": "is",
+   "explain": "It olmoshi uchun tasdiq qisqa javobda 'is' ishlatiladi.",
+   "options": [
+    "is",
+    "are",
+    "am"
+   ]
+  }
+ ]
+}

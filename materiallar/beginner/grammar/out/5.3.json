@@ -1,0 +1,1176 @@
+{
+ "code": "5.3",
+ "intro": {
+  "what": "Ingliz tilida sifat otning oldida keladi va ko'plik qo'shimchasini olmaydi. Masalan: a big house (katta uy).",
+  "when": [
+   "Predmetning xususiyatini ko'rsatishda",
+   "Obyektning rangini aytishda",
+   "Odamlar va narsalarning holatini tasvirlashda"
+  ],
+  "structures": [
+   {
+    "label": "(+)",
+    "formula": "[ S + TOBE + ADJECTIVE + NOUN ]",
+    "example_en": "This is a big house.",
+    "example_uz": "Bu katta uy."
+   },
+   {
+    "label": "(-)",
+    "formula": "[ S + TOBE + NOT + ADJECTIVE + NOUN ]",
+    "example_en": "This is not a big house.",
+    "example_uz": "Bu katta uy emas."
+   },
+   {
+    "label": "(?)",
+    "formula": "[ TOBE + S + ADJECTIVE + NOUN? ]",
+    "example_en": "Is this a big house?",
+    "example_uz": "Bu katta uymi?"
+   }
+  ],
+  "rules": [
+   {
+    "title": "Sifat joylashuvi",
+    "text": "Ingliz tilida sifat doimo otdan oldin keladi va hech qachon -s qo'shimchasini olmaydi.",
+    "examples": [
+     {
+      "en": "a fast car",
+      "uz": "tez mashina"
+     },
+     {
+      "en": "two red cars",
+      "uz": "ikkita qizil mashina"
+     }
+    ]
+   },
+   {
+    "title": "Fe'l bilan kelishi",
+    "text": "Agar gapda 'to be' fe'li ishlatsak, sifat otdan keyin kelishi mumkin.",
+    "examples": [
+     {
+      "en": "The house is big.",
+      "uz": "Uy katta."
+     },
+     {
+      "en": "The car is red.",
+      "uz": "Mashina qizil."
+     }
+    ]
+   }
+  ],
+  "signal_words": [],
+  "mistakes": [
+   {
+    "wrong": "a bigs house",
+    "right": "a big house",
+    "why": "Ingliz tilida sifatlar ko'plikda ham -s qo'shimchasini olmaydi."
+   },
+   {
+    "wrong": "a house big",
+    "right": "a big house",
+    "why": "Sifat doimo otdan oldin kelishi kerak."
+   }
+  ]
+ },
+ "test": [
+  {
+   "type": "fill",
+   "q": "This is ______ house. [big]",
+   "answer": "a big",
+   "explain": "Sifat otning oldida keladi va 'house' birlikda bo'lgani uchun 'a' ishlatiladi.",
+   "accept": [],
+   "hint": "a / an"
+  },
+  {
+   "type": "fill",
+   "q": "That is ______ car. [fast]",
+   "answer": "a fast",
+   "explain": "Sifat otning oldida turadi.",
+   "accept": [],
+   "hint": "a / an"
+  },
+  {
+   "type": "fill",
+   "q": "This is ______ apple. [red]",
+   "answer": "a red",
+   "explain": "'Apple' unli harf bilan boshlansa ham, sifat 'red' undosh harf bilan boshlanadi, shuning uchun 'a' ishlatiladi.",
+   "accept": [],
+   "hint": "a / an"
+  },
+  {
+   "type": "fill",
+   "q": "She is ______ student. [good]",
+   "answer": "a good",
+   "explain": "Sifat otning oldida keladi: a good student.",
+   "accept": [],
+   "hint": "a / an"
+  },
+  {
+   "type": "fill",
+   "q": "He is ______ doctor. [new]",
+   "answer": "a new",
+   "explain": "Sifat doimo otdan oldin joylashadi.",
+   "accept": [],
+   "hint": "a / an"
+  },
+  {
+   "type": "fill",
+   "q": "These are ______ cars. [red]",
+   "answer": "red",
+   "explain": "Ko'plik shaklda sifatga -s qo'shilmaydi.",
+   "accept": [],
+   "hint": "color"
+  },
+  {
+   "type": "fill",
+   "q": "Those are ______ houses. [big]",
+   "answer": "big",
+   "explain": "Sifat ko'plik otlar oldida o'zgarmaydi.",
+   "accept": [],
+   "hint": "size"
+  },
+  {
+   "type": "fill",
+   "q": "They are ______ students. [good]",
+   "answer": "good",
+   "explain": "Sifat hech qachon -s olmaydi.",
+   "accept": [],
+   "hint": "quality"
+  },
+  {
+   "type": "fill",
+   "q": "The house ______ big. [be]",
+   "answer": "is",
+   "explain": "Birlikdagi 'house' uchun 'is' fe'li ishlatiladi.",
+   "accept": [],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "The cars ______ red. [be]",
+   "answer": "are",
+   "explain": "Ko'plikdagi 'cars' uchun 'are' fe'li ishlatiladi.",
+   "accept": [],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "The apple ______ red. [be]",
+   "answer": "is",
+   "explain": "Birlikdagi 'apple' uchun 'is' keladi.",
+   "accept": [],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "The students ______ good. [be]",
+   "answer": "are",
+   "explain": "Ko'plik ega uchun 'are' ishlatiladi.",
+   "accept": [],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "My bag ______ small. [be]",
+   "answer": "is",
+   "explain": "'My bag' bitta narsa bo'lgani uchun 'is' ishlatamiz.",
+   "accept": [],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "Your shoes ______ new. [be]",
+   "answer": "are",
+   "explain": "'Shoes' so'zi ko'plikda.",
+   "accept": [],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "Ali has ______ car. [fast]",
+   "answer": "a fast",
+   "explain": "Sifat otdan oldin keladi.",
+   "accept": [],
+   "hint": "a / an"
+  },
+  {
+   "type": "fill",
+   "q": "Malika has ______ book. [new]",
+   "answer": "a new",
+   "explain": "Sifat otning oldida turadi.",
+   "accept": [],
+   "hint": "a / an"
+  },
+  {
+   "type": "fill",
+   "q": "We have ______ dog. [small]",
+   "answer": "a small",
+   "explain": "Birlikdagi ot oldidan sifat ishlatiladi.",
+   "accept": [],
+   "hint": "a / an"
+  },
+  {
+   "type": "fill",
+   "q": "They have ______ house. [big]",
+   "answer": "a big",
+   "explain": "Sifat ot oldida o'zgarmaydi.",
+   "accept": [],
+   "hint": "a / an"
+  },
+  {
+   "type": "fill",
+   "q": "This is ______ man. [old]",
+   "answer": "an old",
+   "explain": "'Old' unli harf bilan boshlangani uchun 'an' ishlatiladi.",
+   "accept": [],
+   "hint": "a / an"
+  },
+  {
+   "type": "fill",
+   "q": "That is ______ building. [tall]",
+   "answer": "a tall",
+   "explain": "Sifat otdan oldin keladi.",
+   "accept": [],
+   "hint": "a / an"
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct sentence.",
+   "answer": "This is a big house.",
+   "explain": "Sifat otning oldida keladi va -s olmaydi.",
+   "options": [
+    "This is a bigs house.",
+    "This is a big house.",
+    "This is house big."
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct sentence.",
+   "answer": "The car is red.",
+   "explain": "'To be' fe'lidan keyin sifat kelishi mumkin.",
+   "options": [
+    "The car red is.",
+    "The car is red.",
+    "The car is reds."
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct plural form.",
+   "answer": "They are red cars.",
+   "explain": "Sifatlar ko'plikda -s qo'shimchasini olmaydi.",
+   "options": [
+    "They are reds cars.",
+    "They are red car.",
+    "They are red cars."
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Which is correct?",
+   "answer": "She is an old woman.",
+   "explain": "'Old' unli bilan boshlangani uchun 'an' ishlatiladi va sifat otdan oldin turadi.",
+   "options": [
+    "She is an old woman.",
+    "She is a old woman.",
+    "She is an olds woman."
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct option.",
+   "answer": "This is a fast car.",
+   "explain": "Sifat otning oldida joylashadi.",
+   "options": [
+    "This is fast a car.",
+    "This is a fast car.",
+    "This is a fasts car."
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Which sentence is correct?",
+   "answer": "The houses are big.",
+   "explain": "'To be' fe'lidan keyin sifat keladi va ot ko'plikda bo'ladi.",
+   "options": [
+    "The houses are big.",
+    "The houses big are.",
+    "The house are bigs."
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct sentence.",
+   "answer": "I have a small dog.",
+   "explain": "Sifat otdan oldin keladi.",
+   "options": [
+    "I have small a dog.",
+    "I have a small dog.",
+    "I have a smalls dog."
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Which sentence is correct?",
+   "answer": "These are new books.",
+   "explain": "Sifatlar ko'plik otlar oldida o'zgarmaydi.",
+   "options": [
+    "These are news books.",
+    "These are book news.",
+    "These are new books."
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct option.",
+   "answer": "He is a good teacher.",
+   "explain": "Sifat otning oldida keladi.",
+   "options": [
+    "He is a good teacher.",
+    "He is good a teacher.",
+    "He is a goods teacher."
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Which sentence is correct?",
+   "answer": "The room is small.",
+   "explain": "'To be' fe'lidan keyin sifat kelishi to'g'ri.",
+   "options": [
+    "The small is room.",
+    "The room is small.",
+    "The room small is."
+   ]
+  }
+ ],
+ "model": "gemini-3.5-flash-lite",
+ "tr1": [
+  {
+   "part": 0,
+   "uz": "Bu katta uy.",
+   "en": [
+    "This is a big house."
+   ],
+   "rule": "Sifat otdan oldin keladi va -s olmaydi."
+  },
+  {
+   "part": 0,
+   "uz": "U kichik mashina.",
+   "en": [
+    "It is a small car.",
+    "This is a small car."
+   ],
+   "rule": "Birlikda noaniq artikl ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu yangi telefon.",
+   "en": [
+    "This is a new phone."
+   ],
+   "rule": "Sifat har doim otdan oldin turadi."
+  },
+  {
+   "part": 0,
+   "uz": "U eski kitob.",
+   "en": [
+    "It is an old book.",
+    "This is an old book."
+   ],
+   "rule": "Unli bilan boshlansa 'an' ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu yaxshi kamera.",
+   "en": [
+    "This is a good camera."
+   ],
+   "rule": "Sifat -s qo'shimchasini olmaydi."
+  },
+  {
+   "part": 0,
+   "uz": "U katta shahar.",
+   "en": [
+    "It is a big city."
+   ],
+   "rule": "Ingliz tilida sifat otni oldindan aniqlaydi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu tez mashina.",
+   "en": [
+    "This is a fast car."
+   ],
+   "rule": "Sifat va ot tartibi: sifat + ot."
+  },
+  {
+   "part": 0,
+   "uz": "U chiroyli xona.",
+   "en": [
+    "It is a beautiful room."
+   ],
+   "rule": "O'zbekchada 'chiroyli xona', inglizchada 'a beautiful room'."
+  },
+  {
+   "part": 0,
+   "uz": "Bu qiziqarli jurnal.",
+   "en": [
+    "This is an interesting magazine."
+   ],
+   "rule": "Unli tovush oldidan 'an' ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U kichik do'kon.",
+   "en": [
+    "It is a small shop."
+   ],
+   "rule": "Sifat hech qachon o'zgarmaydi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu issiq choy.",
+   "en": [
+    "This is hot tea.",
+    "It is hot tea."
+   ],
+   "rule": "Sanoqsiz otlar oldidan artikl kelmaydi."
+  },
+  {
+   "part": 0,
+   "uz": "U sovuq suv.",
+   "en": [
+    "It is cold water."
+   ],
+   "rule": "Sanoqsiz ot 'water' uchun artikl yo'q."
+  },
+  {
+   "part": 0,
+   "uz": "Bu yaxshi kun.",
+   "en": [
+    "This is a good day."
+   ],
+   "rule": "Birlikdagi ot uchun 'a' shart."
+  },
+  {
+   "part": 0,
+   "uz": "U uzun ko'cha.",
+   "en": [
+    "It is a long street."
+   ],
+   "rule": "Sifat otning oldida turadi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu baland bino.",
+   "en": [
+    "This is a tall building.",
+    "This is a high building."
+   ],
+   "rule": "Bino uchun 'tall' yoki 'high' ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U qora sumka.",
+   "en": [
+    "It is a black bag."
+   ],
+   "rule": "Ranglar ham sifat hisoblanadi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu oq uy.",
+   "en": [
+    "This is a white house."
+   ],
+   "rule": "Sifat otga bog'lanib keladi."
+  },
+  {
+   "part": 0,
+   "uz": "U qizil rangli mashina.",
+   "en": [
+    "It is a red car."
+   ],
+   "rule": "Rang sifat sifatida otdan oldin keladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu ko'k ko'ylak.",
+   "en": [
+    "This is a blue shirt."
+   ],
+   "rule": "Sifat hech qachon ko'plik shaklini olmaydi."
+  },
+  {
+   "part": 0,
+   "uz": "U katta oila.",
+   "en": [
+    "It is a big family."
+   ],
+   "rule": "Inglizcha sifat tuzilishi o'zgarmasdir."
+  },
+  {
+   "part": 0,
+   "uz": "Bu aqlli talaba.",
+   "en": [
+    "This is a clever student."
+   ],
+   "rule": "Sifat+ot birikmasi."
+  },
+  {
+   "part": 0,
+   "uz": "U yosh bola.",
+   "en": [
+    "It is a young boy.",
+    "It is a young child."
+   ],
+   "rule": "Sifat doimiy ravishda otdan oldinda."
+  },
+  {
+   "part": 0,
+   "uz": "Bu qari odam.",
+   "en": [
+    "This is an old man."
+   ],
+   "rule": "'Old' so'zi 'an' bilan keladi."
+  },
+  {
+   "part": 0,
+   "uz": "U yaxshi o'qituvchi.",
+   "en": [
+    "It is a good teacher."
+   ],
+   "rule": "Birlikdagi ot va sifat birikishi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu shirin olma.",
+   "en": [
+    "This is a sweet apple."
+   ],
+   "rule": "'Apple' so'zi unli bilan boshlanadi, shuning uchun 'a sweet' (sifat 'sweet' undosh bilan boshlanadi)."
+  },
+  {
+   "part": 0,
+   "uz": "U mazali non.",
+   "en": [
+    "It is delicious bread."
+   ],
+   "rule": "Sanoqsiz ot 'bread' artiklsiz keladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu qiyin savol.",
+   "en": [
+    "This is a difficult question."
+   ],
+   "rule": "Sifat otdan oldin turadi."
+  },
+  {
+   "part": 0,
+   "uz": "U oson til.",
+   "en": [
+    "It is an easy language."
+   ],
+   "rule": "'Easy' unli bilan boshlangani uchun 'an' qo'yiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu toza xona.",
+   "en": [
+    "This is a clean room."
+   ],
+   "rule": "Sifat qo'shimcha olmaydi."
+  },
+  {
+   "part": 0,
+   "uz": "U kir stol.",
+   "en": [
+    "It is a dirty table.",
+    "It is a dirty desk."
+   ],
+   "rule": "Stol uchun 'table' yoki 'desk' ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu yangi komputer.",
+   "en": [
+    "This is a new computer."
+   ],
+   "rule": "Sifat+ot tartibi buzilmaydi."
+  },
+  {
+   "part": 0,
+   "uz": "U eski televizor.",
+   "en": [
+    "It is an old television."
+   ],
+   "rule": "Unli oldidan 'an' ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu qiziqarli kitob.",
+   "en": [
+    "This is an interesting book."
+   ],
+   "rule": "'Interesting' so'zi 'an' talab qiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U sovuq havo.",
+   "en": [
+    "It is cold weather."
+   ],
+   "rule": "'Weather' sanoqsiz ot, artikl yo'q."
+  },
+  {
+   "part": 0,
+   "uz": "Bu issiq kun.",
+   "en": [
+    "This is a hot day."
+   ],
+   "rule": "Sifat otdan oldin keladi."
+  },
+  {
+   "part": 0,
+   "uz": "U kichkina mushuk.",
+   "en": [
+    "It is a small cat."
+   ],
+   "rule": "Birlikdagi ot oldidan 'a' keladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu katta it.",
+   "en": [
+    "This is a big dog."
+   ],
+   "rule": "Sifat hech qachon o'zgarmaydi."
+  },
+  {
+   "part": 0,
+   "uz": "U chiroyli rasm.",
+   "en": [
+    "It is a beautiful photograph."
+   ],
+   "rule": "Rasm uchun 'photograph' ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu muhim dars.",
+   "en": [
+    "This is an important lesson."
+   ],
+   "rule": "'Important' unli bilan boshlanadi."
+  },
+  {
+   "part": 0,
+   "uz": "U past bino.",
+   "en": [
+    "It is a low building."
+   ],
+   "rule": "Sifat doimo otdan oldinda turadi."
+  },
+  {
+   "part": 1,
+   "uz": "Bular katta uylar.",
+   "en": [
+    "These are big houses."
+   ],
+   "rule": "Ko'plikda sifatga -s qo'shilmaydi, otga qo'shiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular kichik mashinalar.",
+   "en": [
+    "They are small cars.",
+    "These are small cars."
+   ],
+   "rule": "Ko'plik shaklida 'a' ishlatilmaydi."
+  },
+  {
+   "part": 1,
+   "uz": "Bular yangi kitoblar.",
+   "en": [
+    "These are new books."
+   ],
+   "rule": "Sifat ('new') o'zgarmaydi, ot ('books') ko'plikda."
+  },
+  {
+   "part": 1,
+   "uz": "Ular qizil mashinalar.",
+   "en": [
+    "They are red cars.",
+    "These are red cars."
+   ],
+   "rule": "Sifat hech qachon -s olmaydi."
+  },
+  {
+   "part": 1,
+   "uz": "Bular eski stullar.",
+   "en": [
+    "These are old chairs."
+   ],
+   "rule": "Ko'plik otlar bilan sifatlar o'zgarmas qoladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular yaxshi do'stlar.",
+   "en": [
+    "They are good friends.",
+    "These are good friends."
+   ],
+   "rule": "Do'stlar so'zi ko'plikda, sifat o'zgarmaydi."
+  },
+  {
+   "part": 1,
+   "uz": "Bular uzun ko'chalar.",
+   "en": [
+    "These are long streets."
+   ],
+   "rule": "Sifat otning oldida va o'zgarmas."
+  },
+  {
+   "part": 1,
+   "uz": "Ular qora sumkalar.",
+   "en": [
+    "They are black bags.",
+    "These are black bags."
+   ],
+   "rule": "Faqat ot ko'plik qo'shimchasini oladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bular kichik do'konlar.",
+   "en": [
+    "These are small shops."
+   ],
+   "rule": "Ko'plik sonda sifat o'zgarmaydi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular shirin olmalar.",
+   "en": [
+    "They are sweet apples.",
+    "These are sweet apples."
+   ],
+   "rule": "Olma ko'plikda, sifat o'zgarmaydi."
+  }
+ ],
+ "tr51": [
+  {
+   "part": 1,
+   "uz": "Bu ikkita katta mashina.",
+   "en": [
+    "These are two big cars."
+   ],
+   "rule": "Ko'plikdagi sifat o'zgarmaydi."
+  },
+  {
+   "part": 1,
+   "uz": "U yerda uchta kichik uy bor.",
+   "en": [
+    "There are three small houses."
+   ],
+   "rule": "Sifatga -s qo'shilmaydi."
+  },
+  {
+   "part": 1,
+   "uz": "Mening to'rtta yangi kitobim bor.",
+   "en": [
+    "I have four new books."
+   ],
+   "rule": "Ko'plikda otga -s, sifatga yo'q."
+  },
+  {
+   "part": 1,
+   "uz": "Uning ikkita qizil sumkasi bor.",
+   "en": [
+    "She has two red bags."
+   ],
+   "rule": "Sifat har doim o'zgarmas qoladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bizda beshta katta stul bor.",
+   "en": [
+    "We have five big chairs."
+   ],
+   "rule": "Otlarga -s, sifatga hech qachon yo'q."
+  },
+  {
+   "part": 1,
+   "uz": "Ular oltita qora mushuk.",
+   "en": [
+    "They are six black cats."
+   ],
+   "rule": "Sifat ot oldida keladi va -s olmaydi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu yerda ikkita chiroyli rasm bor.",
+   "en": [
+    "There are two beautiful photographs."
+   ],
+   "rule": "Sifat ko'plikda ham o'zgarmaydi."
+  },
+  {
+   "part": 1,
+   "uz": "Sizning uchta tez mashinangiz bor.",
+   "en": [
+    "You have three fast cars."
+   ],
+   "rule": "Fast so'zi sifat, -s olmaydi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular ikkita kichkina xona.",
+   "en": [
+    "They are two small rooms."
+   ],
+   "rule": "Small sifat bo'lib, o'zgarmaydi."
+  },
+  {
+   "part": 1,
+   "uz": "Mening ikkita eski do'stim bor.",
+   "en": [
+    "I have two old friends."
+   ],
+   "rule": "Old - sifat, friends - ot."
+  },
+  {
+   "part": 1,
+   "uz": "U yerda to'rtta katta bino bor.",
+   "en": [
+    "There are four big buildings."
+   ],
+   "rule": "Big sifatiga -s qo'shilmaydi."
+  },
+  {
+   "part": 1,
+   "uz": "Ularda uchta yaxshi telefon bor.",
+   "en": [
+    "They have three good phones."
+   ],
+   "rule": "Good - sifat, phones - ot."
+  },
+  {
+   "part": 1,
+   "uz": "Bular ikkita qiziqarli kitob.",
+   "en": [
+    "These are two interesting books."
+   ],
+   "rule": "Interesting sifat bo'lib qoladi."
+  },
+  {
+   "part": 1,
+   "uz": "Mening beshta yangi ruchkam bor.",
+   "en": [
+    "I have five new pens."
+   ],
+   "rule": "New sifatiga -s qo'shilmaydi."
+  },
+  {
+   "part": 1,
+   "uz": "U yerda ikkita katta stol bor.",
+   "en": [
+    "There are two big tables."
+   ],
+   "rule": "Tables - ko'plik, big - o'zgarmas."
+  },
+  {
+   "part": 1,
+   "uz": "Bizda uchta kichik xalta bor.",
+   "en": [
+    "We have three small bags."
+   ],
+   "rule": "Sifat hech qachon ko'plikda bo'lmaydi."
+  },
+  {
+   "part": 1,
+   "uz": "Uning ikkita qora ko'zoynagi bor.",
+   "en": [
+    "He has two black cameras."
+   ],
+   "rule": "Black sifat, cameras ot."
+  },
+  {
+   "part": 1,
+   "uz": "Ular to'rtta yaxshi o'quvchi.",
+   "en": [
+    "They are four good students."
+   ],
+   "rule": "Good sifatiga -s qo'shilmaydi."
+  },
+  {
+   "part": 1,
+   "uz": "Mening ikkita oq mushugim bor.",
+   "en": [
+    "I have two white cats."
+   ],
+   "rule": "White - sifat, cats - ot."
+  },
+  {
+   "part": 1,
+   "uz": "Bu yerda uchta katta shahar bor.",
+   "en": [
+    "There are three big cities."
+   ],
+   "rule": "Cities ot, big sifat."
+  },
+  {
+   "part": 1,
+   "uz": "Sizda ikkita yangi kompyuter bor.",
+   "en": [
+    "You have two new computers."
+   ],
+   "rule": "New sifat, computers ko'plik."
+  },
+  {
+   "part": 1,
+   "uz": "Ular uchta kichik qiz.",
+   "en": [
+    "They are three small girls."
+   ],
+   "rule": "Small sifat, girls ot."
+  },
+  {
+   "part": 1,
+   "uz": "Mening to'rtta yaxshi do'stim bor.",
+   "en": [
+    "I have four good friends."
+   ],
+   "rule": "Good o'zgarmaydi."
+  },
+  {
+   "part": 1,
+   "uz": "U yerda ikkita eski eshik bor.",
+   "en": [
+    "There are two old doors."
+   ],
+   "rule": "Old sifat, doors ko'plik."
+  },
+  {
+   "part": 1,
+   "uz": "Bizda beshta katta deraza bor.",
+   "en": [
+    "We have five big windows."
+   ],
+   "rule": "Big sifat bo'lib qoladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular ikkita qizil gul.",
+   "en": [
+    "They are two red flowers."
+   ],
+   "rule": "Red sifat, flowers ot."
+  },
+  {
+   "part": 1,
+   "uz": "Uning uchta tez mashinasi bor.",
+   "en": [
+    "He has three fast cars."
+   ],
+   "rule": "Fast sifatiga -s qo'shilmaydi."
+  },
+  {
+   "part": 1,
+   "uz": "Mening ikkita kichik xonam bor.",
+   "en": [
+    "I have two small rooms."
+   ],
+   "rule": "Small - sifat."
+  },
+  {
+   "part": 1,
+   "uz": "Bu yerda to'rtta yangi ofis bor.",
+   "en": [
+    "There are four new offices."
+   ],
+   "rule": "New sifat, offices ot."
+  },
+  {
+   "part": 1,
+   "uz": "Ular ikkita baland bino.",
+   "en": [
+    "They are two big buildings."
+   ],
+   "rule": "Big sifatiga -s qo'shilmaydi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu uy katta.",
+   "en": [
+    "This house is big.",
+    "The house is big."
+   ],
+   "rule": "Be fe'li sifatdan keyin keladi."
+  },
+  {
+   "part": 2,
+   "uz": "Mening mashinam qizil.",
+   "en": [
+    "My car is red."
+   ],
+   "rule": "Sifat to'g'ridan-to'g'ri be fe'lidan keyin."
+  },
+  {
+   "part": 2,
+   "uz": "Ushbu xona kichik.",
+   "en": [
+    "This room is small.",
+    "The room is small."
+   ],
+   "rule": "Small sifat."
+  },
+  {
+   "part": 2,
+   "uz": "Uning sumkasi qora.",
+   "en": [
+    "His bag is black.",
+    "Her bag is black."
+   ],
+   "rule": "Sifat -s olmaydi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu kitob yangi.",
+   "en": [
+    "This book is new.",
+    "The book is new."
+   ],
+   "rule": "New - sifat."
+  },
+  {
+   "part": 2,
+   "uz": "Mening do'stim yaxshi.",
+   "en": [
+    "My friend is good."
+   ],
+   "rule": "Good - sifat."
+  },
+  {
+   "part": 2,
+   "uz": "Ushbu shahar katta.",
+   "en": [
+    "This city is big.",
+    "The city is big."
+   ],
+   "rule": "Be fe'li is ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Uning mushugi oq.",
+   "en": [
+    "His cat is white.",
+    "Her cat is white."
+   ],
+   "rule": "White sifat."
+  },
+  {
+   "part": 2,
+   "uz": "Bu stul eski.",
+   "en": [
+    "This chair is old.",
+    "The chair is old."
+   ],
+   "rule": "Old sifat."
+  },
+  {
+   "part": 2,
+   "uz": "Ob-havo yaxshi.",
+   "en": [
+    "The weather is good."
+   ],
+   "rule": "Sifat otning ortidan keldi."
+  },
+  {
+   "part": 2,
+   "uz": "Mening kompyuterim yangi.",
+   "en": [
+    "My computer is new."
+   ],
+   "rule": "New sifat."
+  },
+  {
+   "part": 2,
+   "uz": "Ushbu mashina tez.",
+   "en": [
+    "This car is fast.",
+    "The car is fast."
+   ],
+   "rule": "Fast sifat."
+  },
+  {
+   "part": 2,
+   "uz": "Uning ismi yaxshi.",
+   "en": [
+    "His name is good.",
+    "Her name is good."
+   ],
+   "rule": "Good sifat."
+  },
+  {
+   "part": 2,
+   "uz": "Bu bino katta.",
+   "en": [
+    "This building is big.",
+    "The building is big."
+   ],
+   "rule": "Big sifat."
+  },
+  {
+   "part": 2,
+   "uz": "Mening xonam kichik.",
+   "en": [
+    "My room is small."
+   ],
+   "rule": "Small sifat."
+  },
+  {
+   "part": 2,
+   "uz": "Ushbu rasm chiroyli.",
+   "en": [
+    "This photograph is beautiful.",
+    "The photograph is beautiful."
+   ],
+   "rule": "Beautiful sifat."
+  },
+  {
+   "part": 2,
+   "uz": "Bu taom mazali.",
+   "en": [
+    "This food is delicious.",
+    "The food is delicious."
+   ],
+   "rule": "Delicious sifat."
+  },
+  {
+   "part": 2,
+   "uz": "Mening telefonim qora.",
+   "en": [
+    "My phone is black."
+   ],
+   "rule": "Black sifat."
+  },
+  {
+   "part": 2,
+   "uz": "Ushbu dars qiziqarli.",
+   "en": [
+    "This lesson is interesting.",
+    "The lesson is interesting."
+   ],
+   "rule": "Interesting sifat."
+  },
+  {
+   "part": 2,
+   "uz": "Ushbu stul qulay.",
+   "en": [
+    "This chair is good.",
+    "The chair is good."
+   ],
+   "rule": "Good sifat."
+  }
+ ]
+}

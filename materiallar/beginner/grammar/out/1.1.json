@@ -1,0 +1,1185 @@
+{
+ "code": "1.1",
+ "model": "gemini-3.5-flash-lite",
+ "tr1": [
+  {
+   "part": 0,
+   "uz": "Men Tomman.",
+   "en": [
+    "I am Tom."
+   ],
+   "rule": "Men so'zi uchun am fe'li ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Men Azizman.",
+   "en": [
+    "I am Aziz."
+   ],
+   "rule": "Ism bilan I am ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Siz Ben siz.",
+   "en": [
+    "You are Ben."
+   ],
+   "rule": "Siz so'zi uchun are fe'li ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Siz talabasiz.",
+   "en": [
+    "You are a student."
+   ],
+   "rule": "You are birikmasi qo'llaniladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu sumka.",
+   "en": [
+    "It is a bag."
+   ],
+   "rule": "Jonsiz narsalar uchun it is ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu kitob.",
+   "en": [
+    "It is a book."
+   ],
+   "rule": "Birlikdagi otlar oldidan a keladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu kamera.",
+   "en": [
+    "It is a camera."
+   ],
+   "rule": "Bu so'zi uchun it ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mashina.",
+   "en": [
+    "It is a car."
+   ],
+   "rule": "It is birikmasi to'g'ri keladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu kompyuter.",
+   "en": [
+    "It is a computer."
+   ],
+   "rule": "Predmetlar uchun is fe'li ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu stul.",
+   "en": [
+    "It is a chair."
+   ],
+   "rule": "It is yordamchi fe'li ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu uy.",
+   "en": [
+    "It is a house."
+   ],
+   "rule": "Bitta uy uchun it is."
+  },
+  {
+   "part": 0,
+   "uz": "Bu telefon.",
+   "en": [
+    "It is a phone."
+   ],
+   "rule": "Telefon jonsiz ot, is oladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu choy.",
+   "en": [
+    "It is tea."
+   ],
+   "rule": "Sanalmaydigan otlarga a qo'yilmaydi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu kofe.",
+   "en": [
+    "It is coffee."
+   ],
+   "rule": "Kofe sanalmaydi, it is keladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu suv.",
+   "en": [
+    "It is water."
+   ],
+   "rule": "Suv so'zi bilan is ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu deraza.",
+   "en": [
+    "It is a window."
+   ],
+   "rule": "Deraza bitta bo'lsa a ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu eshik.",
+   "en": [
+    "It is a door."
+   ],
+   "rule": "Eshik so'zi jonsiz, is oladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu stol.",
+   "en": [
+    "It is a table."
+   ],
+   "rule": "Stol uchun it is qo'llaniladi."
+  },
+  {
+   "part": 0,
+   "uz": "Men o'qituvchiman.",
+   "en": [
+    "I am a teacher."
+   ],
+   "rule": "Kasblar oldidan a artikli keladi."
+  },
+  {
+   "part": 0,
+   "uz": "Siz do'stsiz.",
+   "en": [
+    "You are a friend."
+   ],
+   "rule": "You olmoshiga are fe'li mos keladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mushuk.",
+   "en": [
+    "It is a cat."
+   ],
+   "rule": "Hayvonlar uchun it is ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu kuchuk.",
+   "en": [
+    "It is a dog."
+   ],
+   "rule": "Kuchuk bitta bo'lsa it is a dog."
+  },
+  {
+   "part": 0,
+   "uz": "Bu olma.",
+   "en": [
+    "It is an apple."
+   ],
+   "rule": "Unli tovush bilan boshlansa an ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Men Toshkentdaman.",
+   "en": [
+    "I am in Tashkent."
+   ],
+   "rule": "Joylar bilan I am in keladi."
+  },
+  {
+   "part": 0,
+   "uz": "Siz O'zbekistondasiz.",
+   "en": [
+    "You are in Uzbekistan."
+   ],
+   "rule": "Mamlakat nomidan oldin in keladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu kichik uy.",
+   "en": [
+    "It is a small house."
+   ],
+   "rule": "Sifat ot oldidan keladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu katta mashina.",
+   "en": [
+    "It is a big car."
+   ],
+   "rule": "Katta so'zi big tarzida tarjima qilinadi."
+  },
+  {
+   "part": 0,
+   "uz": "Men yaxshiman.",
+   "en": [
+    "I am fine.",
+    "I am very well."
+   ],
+   "rule": "Holatni bildirish uchun I am ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu qahva yaxshi.",
+   "en": [
+    "It is good coffee."
+   ],
+   "rule": "Sifat ot oldidan qo'yiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu sandwich.",
+   "en": [
+    "It is a sandwich."
+   ],
+   "rule": "Taomlar uchun it is ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu gamburger.",
+   "en": [
+    "It is a hamburger."
+   ],
+   "rule": "Birlikdagi otga a qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu non.",
+   "en": [
+    "It is bread."
+   ],
+   "rule": "Non sanalmaydigan ot."
+  },
+  {
+   "part": 0,
+   "uz": "Mening ismim Malika.",
+   "en": [
+    "My name is Malika."
+   ],
+   "rule": "Ismni aytishda is fe'li ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Mening ismim Tom.",
+   "en": [
+    "My name is Tom."
+   ],
+   "rule": "My name birlikda bo'lgani uchun is oladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu surat.",
+   "en": [
+    "It is a photograph."
+   ],
+   "rule": "Photograph so'zi is oladi."
+  },
+  {
+   "part": 0,
+   "uz": "Siz yaxshi do'stsiz.",
+   "en": [
+    "You are a good friend."
+   ],
+   "rule": "Sifat ot oldida keladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu televizor.",
+   "en": [
+    "It is a television."
+   ],
+   "rule": "Televizor jonsiz buyum, is oladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu avtobus.",
+   "en": [
+    "It is a bus."
+   ],
+   "rule": "Avtobus uchun it is ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu xona.",
+   "en": [
+    "It is a room."
+   ],
+   "rule": "Xona bitta bo'lsa it is a room."
+  },
+  {
+   "part": 0,
+   "uz": "Men qizman.",
+   "en": [
+    "I am a girl."
+   ],
+   "rule": "Qiz so'zi uchun a girl keladi."
+  },
+  {
+   "part": 1,
+   "uz": "Men Benman.",
+   "en": [
+    "I'm Ben."
+   ],
+   "rule": "I am qisqartmasi I'm bo'ladi."
+  },
+  {
+   "part": 1,
+   "uz": "Men Azizmiz.",
+   "en": [
+    "I'm Aziz."
+   ],
+   "rule": "Ismlar bilan I'm ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Siz Mikasiz.",
+   "en": [
+    "You're Mika."
+   ],
+   "rule": "You are qisqartmasi You're bo'ladi."
+  },
+  {
+   "part": 1,
+   "uz": "Siz talabasiz.",
+   "en": [
+    "You're a student."
+   ],
+   "rule": "Qisqa shakl: You're."
+  },
+  {
+   "part": 1,
+   "uz": "Bu sumka.",
+   "en": [
+    "It's a bag."
+   ],
+   "rule": "It is qisqartmasi It's bo'ladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu kitob.",
+   "en": [
+    "It's a book."
+   ],
+   "rule": "Buyumlar uchun It's ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu mashina.",
+   "en": [
+    "It's a car."
+   ],
+   "rule": "It is o'rniga It's ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu uy.",
+   "en": [
+    "It's a house."
+   ],
+   "rule": "Uy uchun It's a house."
+  },
+  {
+   "part": 1,
+   "uz": "Bu telefon.",
+   "en": [
+    "It's a phone."
+   ],
+   "rule": "Telefon so'zi qisqa shaklda It's."
+  },
+  {
+   "part": 1,
+   "uz": "Mening ismim Ben.",
+   "en": [
+    "My name's Ben."
+   ],
+   "rule": "Name is qisqartmasi name's bo'ladi."
+  }
+ ],
+ "tr51": [
+  {
+   "part": 1,
+   "uz": "Men Benman.",
+   "en": [
+    "I am Ben."
+   ],
+   "rule": "Men so'zi uchun am fe'li ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Siz Mikasiz.",
+   "en": [
+    "You are Mika."
+   ],
+   "rule": "Siz olmoshi uchun are fe'li ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu kitob.",
+   "en": [
+    "It is a book."
+   ],
+   "rule": "Bu predmetlar uchun is fe'li ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Men Tomman.",
+   "en": [
+    "I am Tom."
+   ],
+   "rule": "Ism bilan I am fe'li ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Siz Alisiz.",
+   "en": [
+    "You are Ali."
+   ],
+   "rule": "Siz olmoshi bilan are fe'li keladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu sumka.",
+   "en": [
+    "It is a bag."
+   ],
+   "rule": "Birlikdagi buyum uchun is fe'li ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Men Azizmiz.",
+   "en": [
+    "I am Aziz."
+   ],
+   "rule": "Ismni aytishda I am qo'llaniladi."
+  },
+  {
+   "part": 1,
+   "uz": "Siz Malikasiz.",
+   "en": [
+    "You are Malika."
+   ],
+   "rule": "Siz so'zi bilan are qo'shiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu kamera.",
+   "en": [
+    "It is a camera."
+   ],
+   "rule": "Predmetni ko'rsatishda is ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Men o'qituvchiman.",
+   "en": [
+    "I am a teacher."
+   ],
+   "rule": "Kasb-hunar bildirishda am fe'li ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Siz talabasiz.",
+   "en": [
+    "You are a student."
+   ],
+   "rule": "Siz olmoshi bilan are keladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu mashina.",
+   "en": [
+    "It is a car."
+   ],
+   "rule": "Buyum uchun it is birikmasi ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Men yaxshiman.",
+   "en": [
+    "I am fine."
+   ],
+   "rule": "Holatni bildirishda I am ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Siz bu yerdasiz.",
+   "en": [
+    "You are here."
+   ],
+   "rule": "Siz olmoshi bilan are ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu uy.",
+   "en": [
+    "It is a house."
+   ],
+   "rule": "Narsalar uchun it is qo'llaniladi."
+  },
+  {
+   "part": 1,
+   "uz": "Men Toshkentdaman.",
+   "en": [
+    "I am in Tashkent."
+   ],
+   "rule": "Joyni bildirishda am fe'li kerak."
+  },
+  {
+   "part": 1,
+   "uz": "Siz O'zbekistondasiz.",
+   "en": [
+    "You are in Uzbekistan."
+   ],
+   "rule": "Siz so'zi bilan are fe'li ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu kompyuter.",
+   "en": [
+    "It is a computer."
+   ],
+   "rule": "Texnika buyumlari uchun is ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Men do'stman.",
+   "en": [
+    "I am a friend."
+   ],
+   "rule": "O'zini tanishtirishda am ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Siz yaxshi do'stsiz.",
+   "en": [
+    "You are a good friend."
+   ],
+   "rule": "Siz olmoshi uchun are qo'llanadi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu telefon.",
+   "en": [
+    "It is a phone."
+   ],
+   "rule": "Telefon buyumi uchun is ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Men qizman.",
+   "en": [
+    "I am a girl."
+   ],
+   "rule": "O'zini ta'riflashda am fe'li ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Siz bola emassiz.",
+   "en": [
+    "You are a boy."
+   ],
+   "rule": "Siz olmoshi bilan are fe'li ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu chashka.",
+   "en": [
+    "It is a cup."
+   ],
+   "rule": "Idishlar uchun it is ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Men kattaman.",
+   "en": [
+    "I am big."
+   ],
+   "rule": "Sifatlar bilan am fe'li ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Siz kichkinasiz.",
+   "en": [
+    "You are small."
+   ],
+   "rule": "Siz olmoshi uchun are qo'shiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu rasm.",
+   "en": [
+    "It is a photograph."
+   ],
+   "rule": "Surat uchun is fe'li ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Men bu yerdaman.",
+   "en": [
+    "I am here."
+   ],
+   "rule": "O'rin-joy uchun am qo'llanadi."
+  },
+  {
+   "part": 1,
+   "uz": "Siz u yerdasiz.",
+   "en": [
+    "You are there."
+   ],
+   "rule": "Siz olmoshi bilan are ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu televizor.",
+   "en": [
+    "It is a television."
+   ],
+   "rule": "Jihozlar uchun is fe'li qo'llaniladi."
+  },
+  {
+   "part": 2,
+   "uz": "Ismingiz nima?",
+   "en": [
+    "What is your name?",
+    "What's your name?"
+   ],
+   "rule": "Ism so'rashda What is / What's ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Siz kimsiz?",
+   "en": [
+    "Who are you?"
+   ],
+   "rule": "Kim deb so'rashda are you ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Holatingiz qanday?",
+   "en": [
+    "How are you?"
+   ],
+   "rule": "Ahvol so'rashda How are you ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu nima?",
+   "en": [
+    "What is this?",
+    "What's this?"
+   ],
+   "rule": "Buyumni so'rashda What is this ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Ismim Annaman.",
+   "en": [
+    "My name is Anna."
+   ],
+   "rule": "Ismni aytishda My name is ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Men yaxshiman, rahmat.",
+   "en": [
+    "I am fine, thank you."
+   ],
+   "rule": "Ahvolga javob berishda am ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Siz yaxshimisiz?",
+   "en": [
+    "Are you fine?"
+   ],
+   "rule": "So'roq gapda are oldinga chiqadi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu kitobmi?",
+   "en": [
+    "Is it a book?"
+   ],
+   "rule": "Predmetni so'rashda Is it ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu sumkami?",
+   "en": [
+    "Is it a bag?"
+   ],
+   "rule": "Tasdiqni so'roqqa aylantirishda is oldinga o'tadi."
+  },
+  {
+   "part": 2,
+   "uz": "Familiyangiz nima?",
+   "en": [
+    "What is your surname?",
+    "What's your surname?"
+   ],
+   "rule": "Familiya so'rashda What is ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Ismingiz nima, iltimos?",
+   "en": [
+    "What is your first name, please?",
+    "What's your first name, please?"
+   ],
+   "rule": "Ism so'rashda please qo'shish mumkin."
+  },
+  {
+   "part": 2,
+   "uz": "Siz talabamisiz?",
+   "en": [
+    "Are you a student?"
+   ],
+   "rule": "Kasb so'rashda Are you ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu mashinami?",
+   "en": [
+    "Is it a car?"
+   ],
+   "rule": "Mashina ekanini so'rashda Is it ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Siz o'qituvchimisiz?",
+   "en": [
+    "Are you a teacher?"
+   ],
+   "rule": "So'roq gapda are olmoshdan oldin keladi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu uymi?",
+   "en": [
+    "Is it a house?"
+   ],
+   "rule": "Joyni so'rashda Is it ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu chashkami?",
+   "en": [
+    "Is it a cup?"
+   ],
+   "rule": "Predmetni aniqlashda Is it ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu telefonmi?",
+   "en": [
+    "Is it a phone?"
+   ],
+   "rule": "Telefonni so'rashda Is it ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Siz Toshkentdasizmi?",
+   "en": [
+    "Are you in Tashkent?"
+   ],
+   "rule": "Joyni so'rashda Are you ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Siz O'zbekistondasizmi?",
+   "en": [
+    "Are you in Uzbekistan?"
+   ],
+   "rule": "Mamlakatni so'rashda Are you ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu kompyutermi?",
+   "en": [
+    "Is it a computer?"
+   ],
+   "rule": "Kompyuterni so'rashda Is it ishlatiladi."
+  }
+ ],
+ "intro": {
+  "what": "Am / are / is (to be fe'li) — bu ingliz tilida 'bo'lmoq' ma'nosini bildiruvchi fe'l bo'lib, gapda asosiy fe'l bo'lmaganda ism, kasb, joy va holatlarni bildirish uchun ishlatiladi.",
+  "when": [
+   "Ism va tanishuvni aytishda",
+   "Ahvol va holatni bildirishda",
+   "Shaxs va narsalarni ko'rsatishda"
+  ],
+  "structures": [
+   {
+    "label": "(+)",
+    "formula": "S + TOBE + OB",
+    "example_en": "I am Ben.",
+    "example_uz": "Men Benman."
+   },
+   {
+    "label": "(-)",
+    "formula": "S + TOBE + NOT + OB",
+    "example_en": "You are not Ben.",
+    "example_uz": "Sen Ben emassan."
+   },
+   {
+    "label": "(?)",
+    "formula": "TOBE + S + OB",
+    "example_en": "Are you Mika?",
+    "example_uz": "Sen Mikaeatsanmi?"
+   },
+   {
+    "label": "Wh-",
+    "formula": "WH + TOBE + S",
+    "example_en": "What is your name?",
+    "example_uz": "Ismingiz nima?"
+   }
+  ],
+  "rules": [
+   {
+    "title": "To be shakllari",
+    "text": "Egalarga qarab to be fe'li o'zgaradi: I uchun am, you uchun are, it uchun is ishlatiladi.",
+    "examples": [
+     {
+      "en": "I am a student.",
+      "uz": "Men talabaman."
+     },
+     {
+      "en": "It is a red book.",
+      "uz": "Bu qizil kitob."
+     }
+    ]
+   },
+   {
+    "title": "Qisqartmalar (Contractions)",
+    "text": "Kundalik nutqda to be fe'li egalar bilan qo'shilib qisqartiriladi: I am -> I'm, you are -> you're, it is -> it's, what is -> what's.",
+    "examples": [
+     {
+      "en": "I'm Ali.",
+      "uz": "Men Aliman."
+     },
+     {
+      "en": "It's a bag.",
+      "uz": "Bu sumka."
+     }
+    ]
+   }
+  ],
+  "signal_words": [],
+  "mistakes": [
+   {
+    "wrong": "I is a student.",
+    "right": "I am a student.",
+    "why": "I olmoshi faqat am yordamchi fe'li bilan ishlatiladi."
+   },
+   {
+    "wrong": "You am fine.",
+    "right": "You are fine.",
+    "why": "You olmoshi har doim are yordamchi fe'lini oladi."
+   },
+   {
+    "wrong": "What your name?",
+    "right": "What is your name?",
+    "why": "Savol tuzishda to be fe'li (is) tushib qolmasligi kerak."
+   }
+  ]
+ },
+ "test": [
+  {
+   "type": "fill",
+   "q": "I ______ Ben.",
+   "answer": "am",
+   "explain": "I olmoshi bilan doimo 'am' fe'li ishlatiladi.",
+   "accept": [
+    "'m"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "You ______ Mika.",
+   "answer": "are",
+   "explain": "You olmoshi bilan doimo 'are' fe'li ishlatiladi.",
+   "accept": [
+    "'re"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "It ______ a bag.",
+   "answer": "is",
+   "explain": "It olmoshi birlikda bo'lgani uchun 'is' fe'lini oladi.",
+   "accept": [
+    "'s"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "______ are you?",
+   "answer": "How",
+   "explain": "Ahvol so'rashda 'How are you?' qolipi ishlatiladi.",
+   "accept": [],
+   "hint": "what / how / where"
+  },
+  {
+   "type": "fill",
+   "q": "I ______ fine, thank you.",
+   "answer": "am",
+   "explain": "I olmoshi uchun 'am' fe'li to'g'ri keladi.",
+   "accept": [
+    "'m"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "______ is your name?",
+   "answer": "What",
+   "explain": "Ismni so'rashda 'What is your name?' ishlatiladi.",
+   "accept": [],
+   "hint": "what / how / who"
+  },
+  {
+   "type": "fill",
+   "q": "My name ______ Ali.",
+   "answer": "is",
+   "explain": "My name birlikdagi ot bo'lgani uchun 'is' ishlatiladi.",
+   "accept": [
+    "'s"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "This ______ a red book.",
+   "answer": "is",
+   "explain": "This yaqindagi birlikni bildirgani uchun 'is' oladi.",
+   "accept": [
+    "'s"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "______ are you today?",
+   "answer": "How",
+   "explain": "Bugungi holatni so'rashda 'How' so'roq so'zi ishlatiladi.",
+   "accept": [],
+   "hint": "what / how / why"
+  },
+  {
+   "type": "fill",
+   "q": "You ______ a student.",
+   "answer": "are",
+   "explain": "You olmoshidan keyin 'are' fe'li keladi.",
+   "accept": [
+    "'re"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "It ______ a big car.",
+   "answer": "is",
+   "explain": "It olmoshi 'is' fe'lini talab qiladi.",
+   "accept": [
+    "'s"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "______ name is Malika.",
+   "answer": "My",
+   "explain": "'My' egalik olmoshi ism oldidan kelib, 'mening' ma'nosini beradi.",
+   "accept": [],
+   "hint": "I"
+  },
+  {
+   "type": "fill",
+   "q": "______ is a nice day.",
+   "answer": "It",
+   "explain": "Ob-havo yoki kunni bildirishda 'It' olmoshi ishlatiladi.",
+   "accept": [],
+   "hint": "it"
+  },
+  {
+   "type": "fill",
+   "q": "______ name's Tom.",
+   "answer": "His",
+   "explain": "O'g'il bola uchun egalikni bildirishda 'His' ishlatiladi.",
+   "accept": [],
+   "hint": "he"
+  },
+  {
+   "type": "fill",
+   "q": "______ you fine?",
+   "answer": "Are",
+   "explain": "You olmoshi bilan so'roq gapda 'Are' gap boshiga o'tadi.",
+   "accept": [],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "I ______ not a teacher.",
+   "answer": "am",
+   "explain": "Inkor shaklida I dan keyin 'am not' ishlatiladi.",
+   "accept": [],
+   "hint": "not + be"
+  },
+  {
+   "type": "fill",
+   "q": "You ______ not late.",
+   "answer": "are",
+   "explain": "Inkor shaklida You dan keyin 'are not' ishlatiladi.",
+   "accept": [],
+   "hint": "not + be"
+  },
+  {
+   "type": "fill",
+   "q": "It ______ not a small house.",
+   "answer": "is",
+   "explain": "Inkor shaklida It dan keyin 'is not' ishlatiladi.",
+   "accept": [],
+   "hint": "not + be"
+  },
+  {
+   "type": "fill",
+   "q": "What ______ your surname?",
+   "answer": "is",
+   "explain": "Surname birlikda bo'lgani uchun 'is' yordamchi fe'li ishlatiladi.",
+   "accept": [
+    "'s"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "______ afternoon, teacher.",
+   "answer": "Good",
+   "explain": "Salomlashish uchun 'Good afternoon' qolipi ishlatiladi.",
+   "accept": [],
+   "hint": "good / bad / fine"
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct form: I ______ Ben.",
+   "answer": "am",
+   "explain": "I olmoshi doimo 'am' fe'li bilan keladi.",
+   "options": [
+    "is",
+    "am",
+    "are"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct form: You ______ a student.",
+   "answer": "are",
+   "explain": "You olmoshi bilan 'are' fe'li ishlatiladi.",
+   "options": [
+    "are",
+    "am",
+    "is"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct form: It ______ a book.",
+   "answer": "is",
+   "explain": "It olmoshi birlik bo'lib, 'is' fe'lini oladi.",
+   "options": [
+    "are",
+    "am",
+    "is"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Select the correct question:",
+   "answer": "What is your name?",
+   "explain": "Ismni so'rash uchun 'What is your name?' to'g'ri tuzilgan.",
+   "options": [
+    "What you are name?",
+    "What is your name?",
+    "What am your name?"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct contraction for 'I am':",
+   "answer": "I'm",
+   "explain": "I am birikmasining qisqartmasi 'I'm' hisoblanadi.",
+   "options": [
+    "I're",
+    "I'm",
+    "I's"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct contraction for 'It is':",
+   "answer": "It's",
+   "explain": "It is birikmasining qisqartmasi 'It's' bo'ladi.",
+   "options": [
+    "It'm",
+    "It're",
+    "It's"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct answer: How are you?",
+   "answer": "I am fine.",
+   "explain": "Ahvol so'ralganda 'I am fine' deb javob beriladi.",
+   "options": [
+    "I am fine.",
+    "I am a book.",
+    "I am a car."
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct sentence:",
+   "answer": "This is a camera.",
+   "explain": "This yaqindagi birlikdagi buyumni ko'rsatishda 'is' bilan keladi.",
+   "options": [
+    "This are a camera.",
+    "This is a camera.",
+    "This am a camera."
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct negative sentence:",
+   "answer": "I am not a teacher.",
+   "explain": "Inkor gapda 'am not' ishlatiladi.",
+   "options": [
+    "I am not a teacher.",
+    "I not am a teacher.",
+    "I am a not teacher."
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct question form:",
+   "answer": "Are you OK?",
+   "explain": "So'roq gapda to be fe'li ('Are') egadan oldinga chiqadi.",
+   "options": [
+    "You are OK?",
+    "Are you OK?",
+    "Is you OK?"
+   ]
+  }
+ ]
+}

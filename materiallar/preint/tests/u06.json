@@ -1,0 +1,565 @@
+{
+ "code": "P6",
+ "course": "Pre-Intermediate",
+ "kind": "unit",
+ "unit": 6,
+ "price": 35000,
+ "title": "Unit 6 Test",
+ "subtitle": "Tourism · present perfect · places",
+ "sections": [
+  {
+   "title": "A. Complete the sentences. Use the past simple or present perfect.",
+   "items": [
+    {
+     "t": "text",
+     "q": "I ______ (visit) Khiva three times.",
+     "a": [
+      "have visited",
+      "'ve visited"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "We ______ (not see) our cousins since 2020.",
+     "a": [
+      "haven't seen",
+      "have not seen"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "She ______ (go) to Istanbul last summer.",
+     "a": [
+      "went"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "______ (you / ever / try) Indian food?",
+     "a": [
+      "Have you ever tried"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Timur ______ (never fly) in a plane, but he wants to.",
+     "a": [
+      "has never flown"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "When ______ (you / arrive) in Bukhara?",
+     "a": [
+      "did you arrive"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "They ______ (live) here for ten years. They still live here.",
+     "a": [
+      "have lived",
+      "'ve lived"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Dad ______ (buy) me a camera for my birthday last week.",
+     "a": [
+      "bought"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "B. Complete the postcard with the past simple or present perfect of the verbs in the box. There is one extra verb.",
+   "box": [
+    "be",
+    "climb",
+    "eat",
+    "meet",
+    "see",
+    "swim",
+    "take"
+   ],
+   "items": [
+    {
+     "t": "text",
+     "q": "Hi Aziza! We’re in Antalya. We ______ here since Monday.",
+     "a": [
+      "have been",
+      "'ve been"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Yesterday we ______ in the sea all day.",
+     "a": [
+      "swam"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I ______ lots of new friends this week.",
+     "a": [
+      "have met",
+      "'ve met"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "On Tuesday we ______ a boat trip to an island.",
+     "a": [
+      "took"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I ______ (never / eat) such delicious fish!",
+     "a": [
+      "have never eaten",
+      "'ve never eaten"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "This morning we ______ up a hill to the old castle.",
+     "a": [
+      "climbed"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "C. Choose the correct words.",
+   "items": [
+    {
+     "t": "mc",
+     "q": "Where’s Dad? — He’s ___ to the bank. He’ll be back soon.",
+     "o": [
+      "been",
+      "gone"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "Have you ___ been to Paris?",
+     "o": [
+      "ever",
+      "never"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "___ have you had your bike?",
+     "o": [
+      "When",
+      "How long"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "I’ve known her ___ five years.",
+     "o": [
+      "for",
+      "since"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "We ___ to the museum last Sunday.",
+     "o": [
+      "have gone",
+      "went"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "They’ve lived here ___ 2015.",
+     "o": [
+      "for",
+      "since"
+     ],
+     "a": 1
+    }
+   ]
+  },
+  {
+   "title": "D. Match the places with the definitions. There is one extra place.",
+   "box": [
+    "aquarium",
+    "castle",
+    "harbour",
+    "market",
+    "monument",
+    "mosque",
+    "museum",
+    "palace",
+    "square",
+    "statue",
+    "tower"
+   ],
+   "items": [
+    {
+     "t": "text",
+     "q": "Boats stay here, safe from the sea. → ______",
+     "a": [
+      "harbour"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "A religious building for Muslims. → ______",
+     "a": [
+      "mosque"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "A king or queen lives here. → ______",
+     "a": [
+      "palace"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "You can see fish and sea animals here. → ______",
+     "a": [
+      "aquarium"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "A tall, narrow building. → ______",
+     "a": [
+      "tower"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "A figure of a person, made of stone or metal. → ______",
+     "a": [
+      "statue"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "You can learn about history or science here. → ______",
+     "a": [
+      "museum"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "You can buy fruit, clothes and souvenirs here. → ______",
+     "a": [
+      "market"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "It helps people remember an important event or person. → ______",
+     "a": [
+      "monument"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "An open area in the centre of a town, with four sides. → ______",
+     "a": [
+      "square"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "E. Choose the correct words.",
+   "items": [
+    {
+     "t": "mc",
+     "q": "The museum was small and not very ___.",
+     "o": [
+      "crowded",
+      "spectacular",
+      "impressive"
+     ],
+     "a": 2
+    },
+    {
+     "t": "mc",
+     "q": "We couldn’t see anything because it was so ___.",
+     "o": [
+      "empty",
+      "crowded",
+      "quiet"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "The café was ___, so there were no free tables.",
+     "o": [
+      "busy",
+      "peaceful",
+      "boring"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "The old castle in the fog looked ___.",
+     "o": [
+      "modern",
+      "touristy",
+      "atmospheric"
+     ],
+     "a": 2
+    },
+    {
+     "t": "mc",
+     "q": "Everyone said the waterfall was amazing, but I thought it was ___.",
+     "o": [
+      "stunning",
+      "disappointing",
+      "breathtaking"
+     ],
+     "a": 1
+    }
+   ]
+  },
+  {
+   "title": "F. Complete the email with the words in the box. There are two extra words.",
+   "box": [
+    "accommodation",
+    "brochure",
+    "guided",
+    "luggage",
+    "sightseeing",
+    "souvenirs",
+    "trip"
+   ],
+   "items": [
+    {
+     "t": "text",
+     "q": "We went on a ______ tour of the old city with a local guide.",
+     "a": [
+      "guided"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Our ______ was a small family hotel near the centre.",
+     "a": [
+      "accommodation"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "On the second day we went ______ and saw all the famous places.",
+     "a": [
+      "sightseeing"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I bought some ______ for my friends at the market.",
+     "a": [
+      "souvenirs"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "At the airport, they lost my ______! All my clothes were in it.",
+     "a": [
+      "luggage"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "G. Complete the dialogue with the words in the box.",
+   "box": [
+    "Either",
+    "fancy",
+    "keen",
+    "Let's",
+    "not",
+    "plan",
+    "Shall",
+    "sure",
+    "What",
+    "Why"
+   ],
+   "items": [
+    {
+     "t": "text",
+     "q": "Ali: ______ we visit the Registan first?",
+     "a": [
+      "Shall"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Lola: I’m not ______ about that. It’s very hot at midday.",
+     "a": [
+      "sure"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Lola: ______ about going to the museum first?",
+     "a": [
+      "What"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Ali: ______ suggestion is fine by me.",
+     "a": [
+      "Either"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Lola: ______ don’t we have lunch after the museum?",
+     "a": [
+      "Why"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Ali: Good idea. Do you ______ trying the local plov?",
+     "a": [
+      "fancy"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Lola: I’m not very ______ on plov. I’d prefer soup.",
+     "a": [
+      "keen"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Ali: OK. Then a walk in the old town? — Lola: That’s a really good ______.",
+     "a": [
+      "plan"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Ali: Shall we take a taxi back? — Lola: I’d rather ______. Let’s walk.",
+     "a": [
+      "not"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Ali: OK. ______ do that.",
+     "a": [
+      "Let's"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Listening. Listen to Aziz talking about a holiday. Are the sentences true or false?",
+   "audio": "preint/P6.mp3",
+   "script": "Lola: Aziz, you've just come back from Turkey, haven't you?\nAziz: Yes! We went by train and bus because my dad doesn't like flying. It took two days, but we saw so many places on the way.\nLola: Two days! Weren't you bored?\nAziz: Not really. We stopped in three cities and did some sightseeing. But I didn't prepare well — I forgot to take a power bank, so my phone was always dead.\nLola: Where did you stay?\nAziz: In a small hotel near the sea. The staff were really friendly. The receptionist even taught me some Turkish words.\nLola: Have you ever been abroad before?\nAziz: No, this was my first time. The most useful thing I took was my sister's phrase book — I used it every day!",
+   "items": [
+    {
+     "t": "tf",
+     "q": "Aziz's family travelled by plane.",
+     "a": false
+    },
+    {
+     "t": "tf",
+     "q": "They visited other cities on the way.",
+     "a": true
+    },
+    {
+     "t": "tf",
+     "q": "Aziz was well prepared for the journey.",
+     "a": false
+    },
+    {
+     "t": "tf",
+     "q": "Aziz enjoyed talking to the hotel staff.",
+     "a": true
+    },
+    {
+     "t": "tf",
+     "q": "Aziz thinks the phrase book was the most useful thing.",
+     "a": true
+    }
+   ]
+  },
+  {
+   "title": "H. Read the posts. Who says each sentence? Choose the person.",
+   "passage": "Kamola: I’ve visited twelve countries, but my favourite trip was to the mountains near my home. We stayed with a family and helped them with their animals.\n\nRustam: I love big cities. Last year I went to Istanbul and spent every day in museums. I didn’t go to the beach once!\n\nNigora: I’ve never been abroad. This summer I travelled around Uzbekistan by train with my sister. It was cheap and we met lots of friendly people.\n\nJasur: I went on a cruise with my parents. The ship was fantastic, but I got seasick and stayed in my cabin for two days.",
+   "items": [
+    {
+     "t": "mc",
+     "q": "Who was ill during the holiday?",
+     "o": [
+      "Kamola",
+      "Rustam",
+      "Nigora",
+      "Jasur"
+     ],
+     "a": 3
+    },
+    {
+     "t": "mc",
+     "q": "Who has never left their country?",
+     "o": [
+      "Kamola",
+      "Rustam",
+      "Nigora",
+      "Jasur"
+     ],
+     "a": 2
+    },
+    {
+     "t": "mc",
+     "q": "Who enjoyed culture more than the sea?",
+     "o": [
+      "Kamola",
+      "Rustam",
+      "Nigora",
+      "Jasur"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "Who did some work during the holiday?",
+     "o": [
+      "Kamola",
+      "Rustam",
+      "Nigora",
+      "Jasur"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Who says the trip didn’t cost much?",
+     "o": [
+      "Kamola",
+      "Rustam",
+      "Nigora",
+      "Jasur"
+     ],
+     "a": 2
+    }
+   ]
+  }
+ ]
+}

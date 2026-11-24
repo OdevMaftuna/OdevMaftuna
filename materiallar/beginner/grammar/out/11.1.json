@@ -1,0 +1,1197 @@
+{
+ "code": "11.1",
+ "intro": {
+  "what": "Can modal fe'li ingliz tilida biror ish-harakatni qila olish yoki qobiliyatni bildiradi. U barcha shaxslar uchun bir xil ishlatiladi va fe'lga -s qo'shimchasi qo'shilmaydi.",
+  "when": [
+   "Jismoniy qobiliyatni bildirish uchun (masalan, suza olish)",
+   "Imkoniyatni bildirish uchun",
+   "Iltimos qilish uchun (masalan, yordam so'rash)"
+  ],
+  "structures": [
+   {
+    "label": "(+)",
+    "formula": "S + can + V1 + OB",
+    "example_en": "I can swim.",
+    "example_uz": "Men suza olaman."
+   },
+   {
+    "label": "(-)",
+    "formula": "S + can't (cannot) + V1 + OB",
+    "example_en": "She can't drive a car.",
+    "example_uz": "U mashina hayday olmaydi."
+   },
+   {
+    "label": "(?)",
+    "formula": "Can + S + V1 + OB?",
+    "example_en": "Can you speak English?",
+    "example_uz": "Siz ingliz tilida gapira olasizmi?"
+   },
+   {
+    "label": "Qisqa javob (+)",
+    "formula": "Yes, S + can",
+    "example_en": "Yes, I can.",
+    "example_uz": "Ha, ola olaman."
+   },
+   {
+    "label": "Qisqa javob (-)",
+    "formula": "No, S + can't",
+    "example_en": "No, I can't.",
+    "example_uz": "Yo'q, ola olmayman."
+   },
+   {
+    "label": "Wh-",
+    "formula": "Wh- + can + S + V1 + OB?",
+    "example_en": "What can you do?",
+    "example_uz": "Siz nima qila olasiz?"
+   }
+  ],
+  "rules": [
+   {
+    "title": "Barcha shaxslar uchun bir xil",
+    "text": "Can modal fe'li I, you, he, she, it, we, they olmoshlarining barchasi bilan bir xil ishlatiladi. He/she/it uchun fe'lga hech qanday -s qo'shilmaydi.",
+    "examples": [
+     {
+      "en": "He can play football.",
+      "uz": "U futbol o'ynay oladi."
+     },
+     {
+      "en": "They can swim.",
+      "uz": "Ular suza oladilar."
+     }
+    ]
+   },
+   {
+    "title": "Asosiy fe'l bilan ishlatilishi",
+    "text": "Can so'zidan keyin har doim fe'lning birinchi shakli (V1) to yuklamasiz ishlatiladi.",
+    "examples": [
+     {
+      "en": "I can speak.",
+      "uz": "Men gapira olaman."
+     },
+     {
+      "en": "She can cook.",
+      "uz": "U ovqat pishira oladi."
+     }
+    ]
+   }
+  ],
+  "signal_words": [],
+  "mistakes": [
+   {
+    "wrong": "He cans swim.",
+    "right": "He can swim.",
+    "why": "Can modal fe'liga he, she, it olmoshlari bilan ham -s qo'shilmaydi."
+   },
+   {
+    "wrong": "I can to speak English.",
+    "right": "I can speak English.",
+    "why": "Can so'zidan keyin to yuklamasi ishlatilmaydi."
+   },
+   {
+    "wrong": "She can speaks Arabic.",
+    "right": "She can speak Arabic.",
+    "why": "Can dan keyingi fe'l o'zining boshlang'ich (V1) shaklida kelishi kerak."
+   }
+  ]
+ },
+ "test": [
+  {
+   "type": "fill",
+   "q": "I ______ swim in the swimming pool.",
+   "answer": "can",
+   "explain": "Qobiliyatni bildirish uchun 'can' ishlatiladi.",
+   "accept": [],
+   "hint": "can / can't"
+  },
+  {
+   "type": "fill",
+   "q": "She ______ drive a car.",
+   "answer": "can't",
+   "explain": "Inkor shaklda 'can not' yoki 'can't' ishlatiladi.",
+   "accept": [
+    "cannot"
+   ],
+   "hint": "can / can't"
+  },
+  {
+   "type": "fill",
+   "q": "______ you speak English?",
+   "answer": "Can",
+   "explain": "So'roq gapda 'Can' gap boshiga chiqadi.",
+   "accept": [],
+   "hint": "can / can't"
+  },
+  {
+   "type": "fill",
+   "q": "Yes, I ______.",
+   "answer": "can",
+   "explain": "Qisqa ijobiy javobda 'can' ishlatiladi.",
+   "accept": [],
+   "hint": "can / can't"
+  },
+  {
+   "type": "fill",
+   "q": "No, I ______.",
+   "answer": "can't",
+   "explain": "Qisqa inkor javobda 'can't' ishlatiladi.",
+   "accept": [
+    "cannot"
+   ],
+   "hint": "can / can't"
+  },
+  {
+   "type": "fill",
+   "q": "He ______ play football really well.",
+   "answer": "can",
+   "explain": "Barcha shaxslar uchun 'can' o'zgarmasdan ishlatiladi.",
+   "accept": [],
+   "hint": "can / can't"
+  },
+  {
+   "type": "fill",
+   "q": "What ______ you do?",
+   "answer": "can",
+   "explain": "Maxsus so'roq gapda wh- so'zidan keyin 'can' keladi.",
+   "accept": [],
+   "hint": "can / can't"
+  },
+  {
+   "type": "fill",
+   "q": "______ I help you?",
+   "answer": "Can",
+   "explain": "Iltimos yoki yordam taklif qilishda 'Can I ...?' ishlatiladi.",
+   "accept": [],
+   "hint": "can / can't"
+  },
+  {
+   "type": "fill",
+   "q": "They ______ speak French.",
+   "answer": "can",
+   "explain": "Imkoniyatni bildirish uchun 'can' ishlatiladi.",
+   "accept": [],
+   "hint": "can / can't"
+  },
+  {
+   "type": "fill",
+   "q": "We ______ come to the party.",
+   "answer": "can't",
+   "explain": "Inkor ma'noda 'can't' ishlatiladi.",
+   "accept": [
+    "cannot"
+   ],
+   "hint": "can / can't"
+  },
+  {
+   "type": "fill",
+   "q": "______ she play the piano?",
+   "answer": "Can",
+   "explain": "So'roq gap 'Can' bilan boshlanadi.",
+   "accept": [],
+   "hint": "can / can't"
+  },
+  {
+   "type": "fill",
+   "q": "Where ______ we buy a ticket?",
+   "answer": "can",
+   "explain": "Wh- so'zidan keyin 'can' ishlatiladi.",
+   "accept": [],
+   "hint": "can / can't"
+  },
+  {
+   "type": "fill",
+   "q": "Ali ______ swim very fast.",
+   "answer": "can",
+   "explain": "Qobiliyatni bildirish uchun 'can' ishlatiladi.",
+   "accept": [],
+   "hint": "can / can't"
+  },
+  {
+   "type": "fill",
+   "q": "Aziz ______ drive a bus.",
+   "answer": "can't",
+   "explain": "Inkor qobiliyat uchun 'can't' ishlatiladi.",
+   "accept": [
+    "cannot"
+   ],
+   "hint": "can / can't"
+  },
+  {
+   "type": "fill",
+   "q": "______ you help me?",
+   "answer": "Can",
+   "explain": "Iltimos qilishda 'Can you ...?' qolipidan foydalaniladi.",
+   "accept": [],
+   "hint": "can / can't"
+  },
+  {
+   "type": "fill",
+   "q": "Yes, she ______.",
+   "answer": "can",
+   "explain": "Qisqa ijobiy javobda 'can' ishlatiladi.",
+   "accept": [],
+   "hint": "can / can't"
+  },
+  {
+   "type": "fill",
+   "q": "No, they ______.",
+   "answer": "can't",
+   "explain": "Qisqa inkor javobda 'can't' ishlatiladi.",
+   "accept": [
+    "cannot"
+   ],
+   "hint": "can / can't"
+  },
+  {
+   "type": "fill",
+   "q": "Children ______ play computer games.",
+   "answer": "can",
+   "explain": "Imkoniyat yoki qobiliyat uchun 'can' ishlatiladi.",
+   "accept": [],
+   "hint": "can / can't"
+  },
+  {
+   "type": "fill",
+   "q": "I ______ understand this lesson.",
+   "answer": "can't",
+   "explain": "Tushunmaslikni bildirish uchun 'can't' ishlatiladi.",
+   "accept": [
+    "cannot"
+   ],
+   "hint": "can / can't"
+  },
+  {
+   "type": "fill",
+   "q": "When ______ we meet?",
+   "answer": "can",
+   "explain": "Vaxtni so'rashda wh- so'zidan keyin 'can' keladi.",
+   "accept": [],
+   "hint": "can / can't"
+  },
+  {
+   "type": "mc",
+   "q": "She ______ swim in the sea.",
+   "answer": "can",
+   "explain": "Qobiliyatni bildirish uchun 'can' ishlatiladi.",
+   "options": [
+    "can",
+    "cans",
+    "to can"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "He ______ speak Arabic.",
+   "answer": "can't",
+   "explain": "Inkor ma'noda 'can't' ishlatiladi.",
+   "options": [
+    "cans not",
+    "can't",
+    "doesn't can"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ you play tennis?",
+   "answer": "Can",
+   "explain": "So'roq gapda 'Can' so'zi gap boshida keladi.",
+   "options": [
+    "Do",
+    "Are",
+    "Can"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "What ______ you do?",
+   "answer": "can",
+   "explain": "Wh- so'zidan keyin 'can' modal fe'li ishlatiladi.",
+   "options": [
+    "do",
+    "can",
+    "are"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "They ______ come to the party tomorrow.",
+   "answer": "can",
+   "explain": "Barcha shaxslar uchun 'can' o'zgarmasdan ishlatiladi.",
+   "options": [
+    "cans",
+    "can",
+    "to can"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ I use your phone?",
+   "answer": "Can",
+   "explain": "Ruxsat so'rash uchun 'Can I ...?' ishlatiladi.",
+   "options": [
+    "Am",
+    "Do",
+    "Can"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "We ______ speak French fluently.",
+   "answer": "can",
+   "explain": "Qobiliyatni bildirishda 'can' ishlatiladi.",
+   "options": [
+    "can",
+    "cans",
+    "are can"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "She ______ drive a car.",
+   "answer": "can",
+   "explain": "He, she, it uchun ham 'can' so'zi o'zgarmaydi va -s olmaydi.",
+   "options": [
+    "cans",
+    "can",
+    "to can"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Where ______ I buy a ticket?",
+   "answer": "can",
+   "explain": "Joyni so'rashda wh- so'zidan keyin 'can' ishlatiladi.",
+   "options": [
+    "do",
+    "can",
+    "is"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "I ______ find my bag.",
+   "answer": "can't",
+   "explain": "Topa olmaslikni bildirish uchun 'can't' ishlatiladi.",
+   "options": [
+    "can't",
+    "don't can",
+    "am not can"
+   ]
+  }
+ ],
+ "model": "gemini-3.5-flash-lite",
+ "tr1": [
+  {
+   "part": 0,
+   "uz": "Men suza olaman.",
+   "en": [
+    "I can swim."
+   ],
+   "rule": "Qobiliyat bildirish uchun can + fe'l ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Siz tennis o'ynay olasiz.",
+   "en": [
+    "You can play tennis."
+   ],
+   "rule": "Barcha shaxslar uchun can o'zgarmaydi."
+  },
+  {
+   "part": 0,
+   "uz": "U mashina hayday oladi.",
+   "en": [
+    "He can drive a car.",
+    "She can drive a car."
+   ],
+   "rule": "Fe'lga -s qo'shimchasi qo'shilmaydi."
+  },
+  {
+   "part": 0,
+   "uz": "Biz ingliz tilida gaplasha olamiz.",
+   "en": [
+    "We can speak English."
+   ],
+   "rule": "Can so'zidan keyin asosiy fe'l keladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular pianino chalishi mumkin.",
+   "en": [
+    "They can play the piano."
+   ],
+   "rule": "Can yordamchi fe'li qobiliyatni bildiradi."
+  },
+  {
+   "part": 0,
+   "uz": "Tom gitara chala oladi.",
+   "en": [
+    "Tom can play the guitar."
+   ],
+   "rule": "Ismdan keyin to'g'ridan-to'g'ri can keladi."
+  },
+  {
+   "part": 0,
+   "uz": "Men frantsuz tilida gaplasha olaman.",
+   "en": [
+    "I can speak French."
+   ],
+   "rule": "Can barcha shaxslar uchun bir xil."
+  },
+  {
+   "part": 0,
+   "uz": "Aziz futbol o'ynay oladi.",
+   "en": [
+    "Aziz can play football."
+   ],
+   "rule": "Can so'zidan keyin -s qo'shilmaydi."
+  },
+  {
+   "part": 0,
+   "uz": "Sen velosiped hayday olasan.",
+   "en": [
+    "You can ride a bike."
+   ],
+   "rule": "Qobiliyatni ifodalash uchun can ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular juda yaxshi suza oladi.",
+   "en": [
+    "They can swim really well."
+   ],
+   "rule": "Can fe'lidan keyin asosiy fe'l keladi."
+  },
+  {
+   "part": 0,
+   "uz": "Men yaxshi qo'shiq ayta olaman.",
+   "en": [
+    "I can sing well."
+   ],
+   "rule": "Can fe'li shaxsga qarab o'zgarmaydi."
+  },
+  {
+   "part": 0,
+   "uz": "Anna bu kitobni o'qiy oladi.",
+   "en": [
+    "Anna can read this book."
+   ],
+   "rule": "Can dan keyin fe'l qo'shimchasiz keladi."
+  },
+  {
+   "part": 0,
+   "uz": "Biz ertaga kelishimiz mumkin.",
+   "en": [
+    "We can come tomorrow."
+   ],
+   "rule": "Can imkoniyatni ham bildiradi."
+  },
+  {
+   "part": 0,
+   "uz": "U o'z mashinasini shu yerga qo'ya oladi.",
+   "en": [
+    "He can park his car here.",
+    "She can park her car here."
+   ],
+   "rule": "Can so'zidan keyin fe'l o'zak shaklda bo'ladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bolalar bog'da o'ynay oladi.",
+   "en": [
+    "The children can play in the park."
+   ],
+   "rule": "Ko'plik otlardan keyin ham can ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Siz bu xatni o'qiy olasiz.",
+   "en": [
+    "You can read this letter."
+   ],
+   "rule": "Can barcha egalarga mos keladi."
+  },
+  {
+   "part": 0,
+   "uz": "Men kompyuterdan foydalana olaman.",
+   "en": [
+    "I can use a computer."
+   ],
+   "rule": "Qobiliyat uchun can + fe'l qo'llaniladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular tez yugura oladi.",
+   "en": [
+    "They can run fast."
+   ],
+   "rule": "Fe'lga hech qanday qo'shimcha qo'shilmaydi."
+  },
+  {
+   "part": 0,
+   "uz": "Malika mazali taom tayyorlay oladi.",
+   "en": [
+    "Malika can cook delicious food."
+   ],
+   "rule": "Uchinchi shaxs birlikda ham can o'zgarmaydi."
+  },
+  {
+   "part": 0,
+   "uz": "Sen menga yordam bera olasan.",
+   "en": [
+    "You can help me."
+   ],
+   "rule": "Can yordam berishda ham ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Men ot minishni bilaman.",
+   "en": [
+    "I can ride a horse."
+   ],
+   "rule": "Ko'nikma bildirish uchun can ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular ingliz tilida erkin gaplasha oladi.",
+   "en": [
+    "They can speak English fluently."
+   ],
+   "rule": "Can fe'lidan so'zlar o'zgarishsiz keladi."
+  },
+  {
+   "part": 0,
+   "uz": "Biz bu xatni tarjima qila olamiz.",
+   "en": [
+    "We can translate this letter."
+   ],
+   "rule": "Can fe'lidan keyin to'g'ridan-to'g'ri fe'l keladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ali tez yugura oladi.",
+   "en": [
+    "Ali can run fast."
+   ],
+   "rule": "Can barcha ismlar bilan bir xil ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular yaxshi rasm chiza oladi.",
+   "en": [
+    "They can draw well."
+   ],
+   "rule": "Can qobiliyatni ko'rsatadi."
+  },
+  {
+   "part": 0,
+   "uz": "Men bu savolga javob bera olaman.",
+   "en": [
+    "I can answer this question."
+   ],
+   "rule": "Can dan keyin fe'l o'zak shaklda turadi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular shaharni topa oladi.",
+   "en": [
+    "They can find the town."
+   ],
+   "rule": "Fe'lga -s qo'shilmaydi."
+  },
+  {
+   "part": 0,
+   "uz": "Sen bu xatni o'qiy olasan.",
+   "en": [
+    "You can read this message."
+   ],
+   "rule": "Can yordamchi fe'li o'zgarmasdir."
+  },
+  {
+   "part": 0,
+   "uz": "Biz muzeyga bora olamiz.",
+   "en": [
+    "We can go to the museum."
+   ],
+   "rule": "Imkoniyatni bildirish uchun can ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular televizor ko'ra oladi.",
+   "en": [
+    "They can watch TV."
+   ],
+   "rule": "Can fe'lidan keyin to'g'ridan-to'g'ri fe'l qo'yiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Men bugun kechqurun dam ola olaman.",
+   "en": [
+    "I can relax this evening."
+   ],
+   "rule": "Can so'zidan keyin to'liq fe'l keladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular yangi uy sotib ola oladi.",
+   "en": [
+    "They can buy a new house."
+   ],
+   "rule": "Can barcha shaxslar uchun bir xil."
+  },
+  {
+   "part": 0,
+   "uz": "Sen darsni tezda o'rgana olasan.",
+   "en": [
+    "You can learn the lesson quickly."
+   ],
+   "rule": "Can qobiliyatni bildiradi."
+  },
+  {
+   "part": 0,
+   "uz": "Biz xonani yig'ishtira olamiz.",
+   "en": [
+    "We can tidy the room."
+   ],
+   "rule": "Can so'zidan keyin -s ishlatilmaydi."
+  },
+  {
+   "part": 0,
+   "uz": "Aziz muzqaymoq yeyishi mumkin.",
+   "en": [
+    "Aziz can eat ice cream."
+   ],
+   "rule": "Ismdan keyin can ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular internetdan foydalana oladi.",
+   "en": [
+    "They can use the Internet."
+   ],
+   "rule": "Can fe'lidan keyin asosiy fe'l keladi."
+  },
+  {
+   "part": 0,
+   "uz": "Men xat yubora olaman.",
+   "en": [
+    "I can send a letter."
+   ],
+   "rule": "Can qobiliyat ma'nosini beradi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular yaxshi musiqa tinglay oladi.",
+   "en": [
+    "They can listen to good music."
+   ],
+   "rule": "Fe'l o'zgarishsiz qoladi."
+  },
+  {
+   "part": 0,
+   "uz": "Sen shu yerda kuta olasan.",
+   "en": [
+    "You can wait here."
+   ],
+   "rule": "Can ruxsat yoki imkoniyatni bildiradi."
+  },
+  {
+   "part": 0,
+   "uz": "Biz bu o'yinni o'ynay olamiz.",
+   "en": [
+    "We can play this game."
+   ],
+   "rule": "Can barcha shaxslarga bir xil qo'llaniladi."
+  },
+  {
+   "part": 1,
+   "uz": "Men suza olmayman.",
+   "en": [
+    "I can't swim."
+   ],
+   "rule": "Inkor shakli can't (cannot) yordamida yasaladi."
+  },
+  {
+   "part": 1,
+   "uz": "Siz tennis o'ynay olmaysiz.",
+   "en": [
+    "You can't play tennis."
+   ],
+   "rule": "Inkor ma'nosi uchun can't ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "U mashina hayday olmaydi.",
+   "en": [
+    "He can't drive a car.",
+    "She can't drive a car."
+   ],
+   "rule": "Uchinchi shaxslarda ham can't o'zgarmaydi."
+  },
+  {
+   "part": 1,
+   "uz": "Biz frantsuz tilida gaplasha olmaymiz.",
+   "en": [
+    "We can't speak French."
+   ],
+   "rule": "Can't so'zidan keyin fe'l qo'shimchasiz keladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular gitara chala olmaydi.",
+   "en": [
+    "They can't play the guitar."
+   ],
+   "rule": "Inkor fe'li barcha shaxslar uchun bir xil."
+  },
+  {
+   "part": 1,
+   "uz": "Tom kelisha olmaydi.",
+   "en": [
+    "Tom can't come."
+   ],
+   "rule": "Ismdan keyin can't ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Men bu kitobni o'qiy olmayman.",
+   "en": [
+    "I can't read this book."
+   ],
+   "rule": "Can't qobiliyat yo'qligini bildiradi."
+  },
+  {
+   "part": 1,
+   "uz": "Sen ertaga keta olmaysan.",
+   "en": [
+    "You can't go tomorrow."
+   ],
+   "rule": "Can't dan keyin fe'l o'zakda keladi."
+  },
+  {
+   "part": 1,
+   "uz": "Aziz ingliz tilida gaplasha olmaydi.",
+   "en": [
+    "Aziz can't speak English."
+   ],
+   "rule": "Inkor shaklida fe'lga -s qo'shilmaydi."
+  },
+  {
+   "part": 1,
+   "uz": "Biz hozir keta olmaymiz.",
+   "en": [
+    "We can't leave now."
+   ],
+   "rule": "Can't yordamchi fe'lining inkor shaklidir."
+  }
+ ],
+ "tr51": [
+  {
+   "part": 1,
+   "uz": "U mashinada tez hayday olmaydi.",
+   "en": [
+    "He can't drive fast.",
+    "She can't drive fast."
+   ],
+   "rule": "Inkor: can't + fe'l asosiy shakli (shaxslar bo'yicha o'zgarmaydi)."
+  },
+  {
+   "part": 1,
+   "uz": "Men frantsuz tilida gaplasha olmayman.",
+   "en": [
+    "I can't speak French."
+   ],
+   "rule": "Inkor: can't qobiliyat yo'qligini bildiradi."
+  },
+  {
+   "part": 1,
+   "uz": "Biz kechqurun futbol o'ynay olmaymiz.",
+   "en": [
+    "We can't play football in the evening."
+   ],
+   "rule": "Inkor: can't barcha shaxslar uchun bir xil."
+  },
+  {
+   "part": 1,
+   "uz": "Ular suzishni bilishmaydi va suvga tusha olmaydilar.",
+   "en": [
+    "They can't swim."
+   ],
+   "rule": "Inkor: can't dan keyin -s qo'shilmaydi."
+  },
+  {
+   "part": 1,
+   "uz": "Tom bu og'ir summani ko'tara olmaydi.",
+   "en": [
+    "Tom can't lift this heavy bag."
+   ],
+   "rule": "Inkor: can't + fe'l."
+  },
+  {
+   "part": 1,
+   "uz": "Sen bu kichkina kitobni o'qiy olmaysan.",
+   "en": [
+    "You can't read this small book."
+   ],
+   "rule": "Inkor: can't fe'ldan oldin keladi."
+  },
+  {
+   "part": 1,
+   "uz": "Men ingliz tilida erkin gaplasha olmayman.",
+   "en": [
+    "I can't speak English fluently."
+   ],
+   "rule": "Inkor: can't bilan fe'l asosiy shaklda ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "U qora mashinani hayday olmaydi.",
+   "en": [
+    "He can't drive the black car.",
+    "She can't drive the black car."
+   ],
+   "rule": "Inkor: can't fe'li barcha shaxslar uchun o'zgarmaydi."
+  },
+  {
+   "part": 1,
+   "uz": "Biz bu qiyin savolga javob bera olmaymiz.",
+   "en": [
+    "We can't answer this difficult question."
+   ],
+   "rule": "Inkor: can't + fe'l."
+  },
+  {
+   "part": 1,
+   "uz": "Ular otda uchib yura olmaydilar.",
+   "en": [
+    "They can't ride a horse."
+   ],
+   "rule": "Inkor: can't qobiliyat yo'qligini bildiradi."
+  },
+  {
+   "part": 1,
+   "uz": "Men pianino chala olmayman.",
+   "en": [
+    "I can't play the piano."
+   ],
+   "rule": "Inkor: can't + asosiy fe'l."
+  },
+  {
+   "part": 1,
+   "uz": "U bu murakkab xatni yoza olmaydi.",
+   "en": [
+    "He can't write this complex letter.",
+    "She can't write this complex letter."
+   ],
+   "rule": "Inkor: can't dan keyin -s qo'shimchasi yo'q."
+  },
+  {
+   "part": 1,
+   "uz": "Sen kechasi uyquga keta olmaysan.",
+   "en": [
+    "You can't go to bed at night."
+   ],
+   "rule": "Inkor: can't."
+  },
+  {
+   "part": 1,
+   "uz": "Anna bu eski kompyuterni ishlata olmaydi.",
+   "en": [
+    "Anna can't use this old computer."
+   ],
+   "rule": "Inkor: can't + fe'l."
+  },
+  {
+   "part": 1,
+   "uz": "Biz daryoda suza olmaymiz.",
+   "en": [
+    "We can't swim in the river."
+   ],
+   "rule": "Inkor: can't."
+  },
+  {
+   "part": 1,
+   "uz": "Ular bu kichkina xonada o'tira olmaydilar.",
+   "en": [
+    "They can't sit in this small room."
+   ],
+   "rule": "Inkor: can't qobiliyat yoki imkoniyat yo'qligi."
+  },
+  {
+   "part": 1,
+   "uz": "Men bu og'ir stolni ko'tara olmayman.",
+   "en": [
+    "I can't lift this heavy table.",
+    "I can't lift this heavy desk."
+   ],
+   "rule": "Inkor: can't + fe'l."
+  },
+  {
+   "part": 1,
+   "uz": "U bu sovuq suvni icha olmaydi.",
+   "en": [
+    "He can't drink this cold water.",
+    "She can't drink this cold water."
+   ],
+   "rule": "Inkor: can't fe'li o'zgarmaydi."
+  },
+  {
+   "part": 1,
+   "uz": "Sen bu chiroyli qo'shiqni kuylay olmaysan.",
+   "en": [
+    "You can't sing this beautiful song."
+   ],
+   "rule": "Inkor: can't."
+  },
+  {
+   "part": 1,
+   "uz": "Aziz bu qizil mashinani sotib ola olmaydi.",
+   "en": [
+    "Aziz can't buy this red car."
+   ],
+   "rule": "Inkor: can't + fe'l."
+  },
+  {
+   "part": 2,
+   "uz": "Sen ingliz tilida gaplasha olasanmi? - Ha, olaman.",
+   "en": [
+    "Can you speak English? Yes, I can."
+   ],
+   "rule": "So'rov va qisqa javob: Can oldinga chiqadi."
+  },
+  {
+   "part": 2,
+   "uz": "U suza oladimi? - Yo'q, ola olmaydi.",
+   "en": [
+    "Can he swim? No, he can't.",
+    "Can she swim? No, she can't."
+   ],
+   "rule": "So'rov: Can + ega + fe'l."
+  },
+  {
+   "part": 2,
+   "uz": "Siz mashina hayday olasizmi? - Ha, olaman.",
+   "en": [
+    "Can you drive a car? Yes, I can."
+   ],
+   "rule": "Qisqa javob: Yes, ... can."
+  },
+  {
+   "part": 2,
+   "uz": "Ular futbol o'ynay olishadimi? - Yo'q, olishmaydi.",
+   "en": [
+    "Can they play football? No, they can't."
+   ],
+   "rule": "So'rov: Can they ...?"
+  },
+  {
+   "part": 2,
+   "uz": "Tom bu og'ir summani ko'tara oladimi? - Ha, oladi.",
+   "en": [
+    "Can Tom lift this heavy bag? Yes, he can."
+   ],
+   "rule": "So'rov va qisqa javob."
+  },
+  {
+   "part": 2,
+   "uz": "Menga yordam bera olasizmi?",
+   "en": [
+    "Can you help me?"
+   ],
+   "rule": "So'rov: Can you + fe'l (iltimos ma'nosida)."
+  },
+  {
+   "part": 2,
+   "uz": "Men bu xatni o'qiy olamanmi?",
+   "en": [
+    "Can I read this letter?"
+   ],
+   "rule": "So'rov: Can I ...? (ruxsat so'rash)."
+  },
+  {
+   "part": 2,
+   "uz": "Sen pianino chala olasanmi? - Ha, olaman.",
+   "en": [
+    "Can you play the piano? Yes, I can."
+   ],
+   "rule": "So'rov: Can you ...?"
+  },
+  {
+   "part": 2,
+   "uz": "Ular bu uyda yashay olishadimi? - Yo'q, olishmaydi.",
+   "en": [
+    "Can they live in this house? No, they can't."
+   ],
+   "rule": "So'rov va inkor qisqa javob."
+  },
+  {
+   "part": 2,
+   "uz": "Men bu muzqaymoqni yeysam bo'ladimi?",
+   "en": [
+    "Can I eat this ice cream?"
+   ],
+   "rule": "So'rov: Can I ...?"
+  },
+  {
+   "part": 2,
+   "uz": "Ushbu telfonda gaplasha olasanmi? - Ha, olaman.",
+   "en": [
+    "Can you use this phone? Yes, I can."
+   ],
+   "rule": "So'rov: Can you ...?"
+  },
+  {
+   "part": 2,
+   "uz": "Anna bu murakkab matnni tarjima qila oladimi?",
+   "en": [
+    "Can Anna translate this difficult text?"
+   ],
+   "rule": "So'rov: Can + ega + fe'l."
+  },
+  {
+   "part": 2,
+   "uz": "Biz ertaga kechqurun bora olamizmi? - Ha, olasiz.",
+   "en": [
+    "Can we go tomorrow evening? Yes, you can."
+   ],
+   "rule": "So'rov va qisqa javob."
+  },
+  {
+   "part": 2,
+   "uz": "U otda uchib yura oladimi? - Yo'q, ola olmaydi.",
+   "en": [
+    "Can he ride a horse? No, he can't.",
+    "Can she ride a horse? No, she can't."
+   ],
+   "rule": "So'rov va qisqa inkor javob."
+  },
+  {
+   "part": 2,
+   "uz": "Menga bir stakan suv bera olasizmi?",
+   "en": [
+    "Can you give me a glass of water?"
+   ],
+   "rule": "Iltimos: Can you + fe'l."
+  },
+  {
+   "part": 2,
+   "uz": "Ular bu qo'shiqni kuylay olishadimi? - Ha, olishadi.",
+   "en": [
+    "Can they sing this song? Yes, they can."
+   ],
+   "rule": "So'rov va qisqa tasdiq javob."
+  },
+  {
+   "part": 2,
+   "uz": "Men bu eshikni ochsam bo'ladimi?",
+   "en": [
+    "Can I open this door?"
+   ],
+   "rule": "Ruxsat so'rash: Can I ...?"
+  },
+  {
+   "part": 2,
+   "uz": "Sen frantsuz tilida yozaza olasanmi? - Yo'q, ololmayman.",
+   "en": [
+    "Can you write in French? No, I can't."
+   ],
+   "rule": "So'rov va inkor qisqa javob."
+  },
+  {
+   "part": 2,
+   "uz": "Aziz bu komputer ishlata oladimi? - Ha, oladi.",
+   "en": [
+    "Can Aziz use this computer? Yes, he can."
+   ],
+   "rule": "So'rov va qisqa javob."
+  },
+  {
+   "part": 2,
+   "uz": "Biz bu kichkina daryoda suza olamizmi? - Yo'q, ololmaysiz.",
+   "en": [
+    "Can we swim in this small river? No, you can't."
+   ],
+   "rule": "So'rov va qisqa javob."
+  },
+  {
+   "part": 2,
+   "uz": "Siz mening savolimga javob bera olasizmi?",
+   "en": [
+    "Can you answer my question?"
+   ],
+   "rule": "So'rov: Can you + fe'l."
+  },
+  {
+   "part": 2,
+   "uz": "Ular ertaga ertalab kela olishadimi? - Ha, olishadi.",
+   "en": [
+    "Can they come tomorrow morning? Yes, they can."
+   ],
+   "rule": "So'rov va qisqa javob."
+  },
+  {
+   "part": 2,
+   "uz": "Men bu qizil ko'ylakni kiysam bo'ladimi?",
+   "en": [
+    "Can I wear this red coat?"
+   ],
+   "rule": "Ruxsat so'rash: Can I ...?"
+  },
+  {
+   "part": 2,
+   "uz": "Sen bu xatni ingliz tilida o'qiy olasanmi? - Ha, olaman.",
+   "en": [
+    "Can you read this letter in English? Yes, I can."
+   ],
+   "rule": "So'rov va tasdiq javob."
+  },
+  {
+   "part": 2,
+   "uz": "Tom bu og'ir stolni ko'tara oladimi? - Yo'q, ola olmaydi.",
+   "en": [
+    "Can Tom lift this heavy table? No, he can't.",
+    "Can Tom lift this heavy desk? No, he can't."
+   ],
+   "rule": "So'rov va inkor qisqa javob."
+  },
+  {
+   "part": 2,
+   "uz": "Menga yordam bera olasizmi, iltimos?",
+   "en": [
+    "Can you help me, please?"
+   ],
+   "rule": "Iltimos: Can you ... please?"
+  },
+  {
+   "part": 2,
+   "uz": "Biz bu kino ko'ra olamizmi? - Ha, olasiz.",
+   "en": [
+    "Can we watch this film? Yes, you can."
+   ],
+   "rule": "So'rov va qisqa javob."
+  },
+  {
+   "part": 2,
+   "uz": "Ular bu yerda o'tira olishadimi? - Yo'q, olishmaydi.",
+   "en": [
+    "Can they sit here? No, they can't."
+   ],
+   "rule": "So'rov va inkor javob."
+  },
+  {
+   "part": 2,
+   "uz": "Men bu issiq choyni icha olamanmi?",
+   "en": [
+    "Can I drink this hot tea?"
+   ],
+   "rule": "So'rov: Can I ...?"
+  },
+  {
+   "part": 2,
+   "uz": "Sen bu og'ir summani uyga olib kela olasanmi? - Ha, olaman.",
+   "en": [
+    "Can you bring this heavy bag home? Yes, I can."
+   ],
+   "rule": "So'rov va qisqa javob."
+  }
+ ]
+}

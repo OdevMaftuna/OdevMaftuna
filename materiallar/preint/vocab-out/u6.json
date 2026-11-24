@@ -1,0 +1,958 @@
+{
+ "a": [
+  {
+   "q": "We saw hundreds of ancient stones and broken old walls left from a very ancient civilization.",
+   "options": [
+    "ruins",
+    "castle",
+    "monument",
+    "temple"
+   ],
+   "answer": "ruins",
+   "explain": "ruins — vayronalar: qadimgi sivilizatsiyadan qolgan buzilgan devorlar."
+  },
+  {
+   "q": "My father loves looking at old paintings and modern sculptures inside the big cultural building downtown.",
+   "options": [
+    "art gallery",
+    "museum",
+    "theatre",
+    "opera house"
+   ],
+   "answer": "art gallery",
+   "explain": "art gallery — badiiy galereya: rasmlar va haykallar namoyish etiladigan joy."
+  },
+  {
+   "q": "We walked through the trees and green plants of the enormous glass greenhouse in the city center.",
+   "options": [
+    "botanical gardens",
+    "national park",
+    "park",
+    "safari park"
+   ],
+   "answer": "botanical gardens",
+   "explain": "botanical gardens — botanika bog'i: turli xil o'simliklar o'stiriladigan katta bog'."
+  },
+  {
+   "q": "I put all my clothes and heavy books inside the large fabric bag carried on my back.",
+   "options": [
+    "backpack",
+    "hand luggage",
+    "bag drop",
+    "boarding pass"
+   ],
+   "answer": "backpack",
+   "explain": "backpack — ryukzak: yelkada ko'tarib yuriladigan sumka."
+  },
+  {
+   "q": "Everyone waited near the moving rubber belt inside the arrivals hall to collect their suitcases.",
+   "options": [
+    "baggage carousel",
+    "departure lounge",
+    "boarding pass",
+    "flight number"
+   ],
+   "answer": "baggage carousel",
+   "explain": "baggage carousel — yuk lentalari: aeroportda bagajlar kelib tushadigan aylanma lenta."
+  },
+  {
+   "q": "The ticket agent handed me the small piece of paper that allowed me to enter the airplane.",
+   "options": [
+    "boarding pass",
+    "passport control",
+    "seat belt",
+    "flight number"
+   ],
+   "answer": "boarding pass",
+   "explain": "boarding pass — samolyotga chiqish taloni: reysga kirish uchun beriladigan qog'oz."
+  },
+  {
+   "q": "We spent two relaxing hours on a small vessel moving slowly across the blue lake water.",
+   "options": [
+    "boat trip",
+    "kayaking",
+    "mountain biking",
+    "abseilling"
+   ],
+   "answer": "boat trip",
+   "explain": "boat trip — qayiqda sayohat: suvda qayiqda sayr qilish."
+  },
+  {
+   "q": "The friendly people wearing uniforms brought us delicious meals and drinks while flying to London.",
+   "options": [
+    "cabin crew",
+    "flight attendant",
+    "travel guide",
+    "penpal"
+   ],
+   "answer": "cabin crew",
+   "explain": "cabin crew — ekipaj a'zolari: samolyotdagi xizmat ko'rsatuvchi xodimlar."
+  },
+  {
+   "q": "The old royal stone fortress on the hilltop had thick defensive walls and tall round towers.",
+   "options": [
+    "castle",
+    "palace",
+    "tower",
+    "cathedral"
+   ],
+   "answer": "castle",
+   "explain": "castle — qasr: o'rta asrlarda qurilgan mustahkam qal'a."
+  },
+  {
+   "q": "We visited the huge Christian church in the city with high stained-glass windows and ancient bells.",
+   "options": [
+    "cathedral",
+    "mosque",
+    "temple",
+    "monument"
+   ],
+   "answer": "cathedral",
+   "explain": "cathedral — sobor: katta va asosiy xristian ibodatxonasi."
+  },
+  {
+   "q": "The large room inside the airport terminal was full of comfortable seats where passengers waited to board.",
+   "options": [
+    "departure lounge",
+    "baggage carousel",
+    "security check",
+    "passport control"
+   ],
+   "answer": "departure lounge",
+   "explain": "departure lounge — uchib ketish zali: samolyotni kutish xonasi."
+  },
+  {
+   "q": "The hotel room was very dark, smelled of old carpet, and had a terrible view of the bins.",
+   "options": [
+    "disappointing",
+    "beautiful",
+    "romantic",
+    "historic"
+   ],
+   "answer": "disappointing",
+   "explain": "disappointing — ko'ngilsiz: kutgandek chiqmagan yoki yomon taassurot qoldirgan."
+  },
+  {
+   "q": "My parents booked a nice bedroom with a large bed for two adults at the seaside hotel.",
+   "options": [
+    "double room",
+    "single room",
+    "full board",
+    "half board"
+   ],
+   "answer": "double room",
+   "explain": "double room — ikki kishilik xona: ikkita o'rinli mehmonxona xonasi."
+  },
+  {
+   "q": "We sat in the standard rows near the back of the aircraft where the seats were smaller.",
+   "options": [
+    "economy class",
+    "window seat",
+    "hand luggage",
+    "boarding pass"
+   ],
+   "answer": "economy class",
+   "explain": "economy class — ekonom klass: samolyotdagi oddiy va arzon o'rinlar."
+  },
+  {
+   "q": "The hotel price was extremely high because it was located right next to the main sandy beach.",
+   "options": [
+    "expensive",
+    "cheap",
+    "busy",
+    "historic"
+   ],
+   "answer": "expensive",
+   "explain": "expensive — qimmat: narxi baland bo'lgan narsa."
+  },
+  {
+   "q": "The man who helped us find our seats and served drinks during the long flight was extremely polite.",
+   "options": [
+    "flight attendant",
+    "cabin crew",
+    "travel guide",
+    "penpal"
+   ],
+   "answer": "flight attendant",
+   "explain": "flight attendant — styuard: samolyotda yo'lovchilarga xizmat ko'rsatuvchi xodim."
+  },
+  {
+   "q": "Our tickets printed a special code of letters and digits that identified our specific airplane journey.",
+   "options": [
+    "flight number",
+    "boarding pass",
+    "seat belt",
+    "passport control"
+   ],
+   "answer": "flight number",
+   "explain": "flight number — reys raqami: uchish raqami ko'rsatilgan kod."
+  },
+  {
+   "q": "Water sprayed high up into the air from the artistic stone sculpture in the middle of the square.",
+   "options": [
+    "fountain",
+    "statue",
+    "monument",
+    "tower"
+   ],
+   "answer": "fountain",
+   "explain": "fountain — favvora: suv otilib turadigan bezakli inshoot."
+  },
+  {
+   "q": "Our hotel booking included breakfast, lunch, and dinner every single day without any extra charges.",
+   "options": [
+    "full board",
+    "half board",
+    "double room",
+    "single room"
+   ],
+   "answer": "full board",
+   "explain": "full board — to'liq ta'minot: uch mahal ovqat kiritilgan mehmonxona xizmati."
+  },
+  {
+   "q": "My older brother works forty hours every week at the local electronics manufacturing factory downtown.",
+   "options": [
+    "full-time",
+    "part-time",
+    "historic",
+    "busy"
+   ],
+   "answer": "full-time",
+   "explain": "full-time — to'liq stavka: kun bo'yi yoki to'liq ish vaqti."
+  },
+  {
+   "q": "We only paid for breakfast and dinner at the hotel, so we could buy lunch outside.",
+   "options": [
+    "half board",
+    "full board",
+    "double room",
+    "single room"
+   ],
+   "answer": "half board",
+   "explain": "half board — yarim ta'minot: ikki mahal ovqat kiritilgan xizmat."
+  },
+  {
+   "q": "I carried my small backpack inside the airplane cabin instead of putting it with the large suitcases.",
+   "options": [
+    "hand luggage",
+    "backpack",
+    "bag drop",
+    "boarding pass"
+   ],
+   "answer": "hand luggage",
+   "explain": "hand luggage — qo'l yuki: salon olib kiriladigan kichik сумка."
+  },
+  {
+   "q": "Many fishing boats and large white yachts were safely tied up in the calm coastal water area.",
+   "options": [
+    "harbour",
+    "square",
+    "market",
+    "old town"
+   ],
+   "answer": "harbour",
+   "explain": "harbour — bandargoh: kema va qayiqlar to'xtaydigan suv qirg'og'i."
+  },
+  {
+   "q": "Prices for flights and holiday hotels are much higher in July because everybody travels then.",
+   "options": [
+    "high season",
+    "low season",
+    "expensive",
+    "crowded"
+   ],
+   "answer": "high season",
+   "explain": "high season — yuqori mavsum: sayyohlar eng ko'p bo'ladigan vaqt."
+  },
+  {
+   "q": "We rented two mountain bicycles from the local shop to explore the forest tracks.",
+   "options": [
+    "hire (a bike)",
+    "boat trip",
+    "kayaking",
+    "mountain biking"
+   ],
+   "answer": "hire (a bike)",
+   "explain": "hire (a bike) — velosiped ijaraga olmoq: ma'lum haq evaziga velosiped olish."
+  },
+  {
+   "q": "The medieval stone bridge across the river was built more than six hundred years ago.",
+   "options": [
+    "historic",
+    "atmospheric",
+    "romantic",
+    "beautiful"
+   ],
+   "answer": "historic",
+   "explain": "historic — tarixiy: o'tmish bilan bog'liq bo'lgan muhim joy."
+  },
+  {
+   "q": "We paddled our small narrow boats down the fast rushing river wearing yellow life jackets.",
+   "options": [
+    "kayaking",
+    "boat trip",
+    "mountain biking",
+    "abseilling"
+   ],
+   "answer": "kayaking",
+   "explain": "kayaking — kayakda suzish: maxsus kichik qayiqda daryo bo'ylab harakatlanish."
+  },
+  {
+   "q": "Traveling in November is very cheap because hotels want guests during the quiet months.",
+   "options": [
+    "low season",
+    "high season",
+    "cheap",
+    "crowded"
+   ],
+   "answer": "low season",
+   "explain": "low season — past mavsum: sayyohlar kam keladigan sokin vaqt."
+  },
+  {
+   "q": "We bought fresh fruit, spices, and handmade carpets from the noisy outdoor trading tables.",
+   "options": [
+    "market",
+    "shopping district",
+    "square",
+    "art gallery"
+   ],
+   "answer": "market",
+   "explain": "market — bozor: savdo qilinadigan ochiq yoki yopiq joy."
+  },
+  {
+   "q": "The city built a tall stone structure with an engraved plaque to honor the brave soldiers.",
+   "options": [
+    "monument",
+    "statue",
+    "tower",
+    "fountain"
+   ],
+   "answer": "monument",
+   "explain": "monument — yodgorlik: muhim voqea yoki shaxs sharafiga o'rnatilgan obida."
+  },
+  {
+   "q": "Muslims gathered inside the magnificent building with blue domes and tall minarets to pray.",
+   "options": [
+    "mosque",
+    "cathedral",
+    "temple",
+    "castle"
+   ],
+   "answer": "mosque",
+   "explain": "mosque — masjid: musulmonlarning ibodat qiladigan joyi."
+  },
+  {
+   "q": "We rode our strong off-road bicycles up the steep dirt trails through the rocky hills.",
+   "options": [
+    "mountain biking",
+    "kayaking",
+    "boat trip",
+    "abseilling"
+   ],
+   "answer": "mountain biking",
+   "explain": "mountain biking — tog' velosipedida yurish: tog'da velosiped haydash."
+  },
+  {
+   "q": "We spent hours looking at old dinosaur bones and ancient gold coins inside the glass display cases.",
+   "options": [
+    "museum",
+    "art gallery",
+    "theatre",
+    "opera house"
+   ],
+   "answer": "museum",
+   "explain": "museum — muzey: tarixiy va madaniy buyumlar saqlanadigan joy."
+  },
+  {
+   "q": "Wild bears and wolves are strictly protected within the huge government-protected natural forest area.",
+   "options": [
+    "national park",
+    "botanical gardens",
+    "safari park",
+    "park"
+   ],
+   "answer": "national park",
+   "explain": "national park — milliy bog': tabiat muhofaza qilinadigan katta hudud."
+  },
+  {
+   "q": "We walked around the ancient fortress walls and learned about medieval history in our city.",
+   "options": [
+    "castle",
+    "cathedral",
+    "monument",
+    "tower"
+   ],
+   "answer": "castle",
+   "explain": "castle — qasr: tarixiy qasr devorlari bo'ylab sayr qildik."
+  },
+  {
+   "q": "My father booked a room with one large bed for himself and my mother during their holiday.",
+   "options": [
+    "double room",
+    "single room",
+    "campsite",
+    "cabin crew"
+   ],
+   "answer": "double room",
+   "explain": "double room — ikki kishilik xona: ota-onam ta'til uchun shunday xona band qilishdi."
+  },
+  {
+   "q": "We watched colorful fish swimming in huge glass tanks during our afternoon school trip.",
+   "options": [
+    "aquarium",
+    "museum",
+    "art gallery",
+    "theme park"
+   ],
+   "answer": "aquarium",
+   "explain": "aquarium — akvarium: maktab sayohatida rang-barang baliqlarni tomosha qildik."
+  },
+  {
+   "q": "The narrow medieval streets were full of loud souvenir sellers and far too many visitors.",
+   "options": [
+    "touristy",
+    "peaceful",
+    "atmospheric",
+    "historic"
+   ],
+   "answer": "touristy",
+   "explain": "touristy — sayyohlar ko'p bo'lgan: bu tor ko'chalar sayyohlar bilan to'la edi."
+  },
+  {
+   "q": "I bought a small traditional ceramic plate in Samarkand to remind me of this wonderful journey.",
+   "options": [
+    "souvenirs",
+    "backpack",
+    "hand luggage",
+    "travel guide"
+   ],
+   "answer": "souvenirs",
+   "explain": "souvenirs — esdalik sovg'alari: Samarqanddan o'zimga esdalik uchun sovg'a sotib oldim."
+  },
+  {
+   "q": "The hotel price was extremely high because we visited the coastal resort during July and August.",
+   "options": [
+    "high season",
+    "low season",
+    "half board",
+    "full board"
+   ],
+   "answer": "high season",
+   "explain": "high season — eng gavjum mavsum: iyul oyida dam olish maskanida narxlar juda baland."
+  }
+ ],
+ "b": [
+  {
+   "q": "My father bought a large ______ to carry our clothes during our summer vacation in Samarkand.",
+   "options": [
+    "backpack",
+    "boarding pass",
+    "seat belt",
+    "hand luggage"
+   ],
+   "answer": "backpack",
+   "explain": "backpack — ryukzak: sayohat payida kiyim tashish uchun ishlatiladigan katta xalta."
+  },
+  {
+   "q": "We showed our tickets at the ______ before walking through the metal detector at the airport.",
+   "options": [
+    "security check",
+    "baggage carousel",
+    "check-in desk",
+    "passport control"
+   ],
+   "answer": "security check",
+   "explain": "security check — xavfsizlik tekshiruvi: aeroportda xavfsizlikni ta'minlash uchun qilinadigan tekshiruv."
+  },
+  {
+   "q": "The ancient stone ______ in the centre of Bukhara was built many centuries ago by local rulers.",
+   "options": [
+    "castle",
+    "aquarium",
+    "theme park",
+    "opera house"
+   ],
+   "answer": "castle",
+   "explain": "castle — qasr: o'tmishda hukmdorlar yashagan mustahkam tarixiy bino."
+  },
+  {
+   "q": "We stayed at a quiet hotel where the price included breakfast and dinner because we booked ______.",
+   "options": [
+    "half board",
+    "full board",
+    "double room",
+    "economy class"
+   ],
+   "answer": "half board",
+   "explain": "half board — yarim ta'minot: mehmonxonada faqat nonushta va kechki ovqat kiritilgan xizmat."
+  },
+  {
+   "q": "We walked through the beautiful ______ to see hundreds of exotic plants and tall green trees.",
+   "options": [
+    "botanical gardens",
+    "shopping district",
+    "national park",
+    "safari park"
+   ],
+   "answer": "botanical gardens",
+   "explain": "botanical gardens — botanika bog'i: turli xil o'simliklar o'stiriladigan ilmiy bog'."
+  },
+  {
+   "q": "The friendly ______ served us hot drinks and helped us find our seats on the airplane.",
+   "options": [
+    "flight attendant",
+    "travel guide",
+    "penpal",
+    "cabin crew"
+   ],
+   "answer": "flight attendant",
+   "explain": "flight attendant — styuardessa: samolyotda yo'lovchilarga xizmat ko'rsatuvchi xodim."
+  },
+  {
+   "q": "We walked around the busy local ______ to buy fresh fruit and traditional handmade Uzbek ceramics.",
+   "options": [
+    "market",
+    "cathedral",
+    "monument",
+    "temple"
+   ],
+   "answer": "market",
+   "explain": "market — bozor: oziq-ovqat va turli buyumlar sotiladigan gavjum savdo joyi."
+  },
+  {
+   "q": "During our holiday in Turkey, we took a relaxing ______ down the river to see the old town.",
+   "options": [
+    "boat trip",
+    "mountain biking",
+    "kayaking",
+    "abseilling"
+   ],
+   "answer": "boat trip",
+   "explain": "boat trip — qayiqda sayohat: daryo yoki ko'lda qayiqda dam olish uchun sayr qilish."
+  },
+  {
+   "q": "Please fasten your ______ tightly before the pilot starts the engine of the aircraft.",
+   "options": [
+    "seat belt",
+    "passport control",
+    "boarding pass",
+    "hand luggage"
+   ],
+   "answer": "seat belt",
+   "explain": "seat belt — xavfsizlik kamari: transportda xavfsizlik uchun taqiladigan kamar."
+  },
+  {
+   "q": "We watched colorful fish and a giant shark swimming behind the thick glass at the large ______.",
+   "options": [
+    "aquarium",
+    "art gallery",
+    "museum",
+    "theatre"
+   ],
+   "answer": "aquarium",
+   "explain": "aquarium — akvarium: dengiz hayvonlari saqlanadigan katta suv havzasi."
+  },
+  {
+   "q": "The narrow streets in the old part of Khiva are very ______ because of ancient brick buildings.",
+   "options": [
+    "atmospheric",
+    "touristy",
+    "disappointing",
+    "cheap"
+   ],
+   "answer": "atmospheric",
+   "explain": "atmospheric — muhitga boy: o'ziga xoz tarixiy va jozibali muhitga ega joy."
+  },
+  {
+   "q": "My brother prefers ______ because he loves riding his bicycle down steep and rocky hills.",
+   "options": [
+    "mountain biking",
+    "kayaking",
+    "abseilling",
+    "boat trip"
+   ],
+   "answer": "mountain biking",
+   "explain": "mountain biking — tog' velosporti: tog'li yo'llarda velosipedda yurish sporti."
+  },
+  {
+   "q": "The famous blue-domed ______ in Samarkand looks stunning when the sun shines on the tiles.",
+   "options": [
+    "mosque",
+    "cathedral",
+    "temple",
+    "tower"
+   ],
+   "answer": "mosque",
+   "explain": "mosque — masjid: musulmonlar ibodat qiladigan muqaddas binolar."
+  },
+  {
+   "q": "We printed our ______ at home before going to the airport to save time at the terminal.",
+   "options": [
+    "boarding pass",
+    "bag drop",
+    "flight number",
+    "passport control"
+   ],
+   "answer": "boarding pass",
+   "explain": "boarding pass — uchish talonlari: samolyotga chiqish uchun beriladigan ruxsatnoma qog'ozi."
+  },
+  {
+   "q": "We spent hours looking at famous paintings and modern sculptures inside the national ______.",
+   "options": [
+    "art gallery",
+    "aquarium",
+    "shopping district",
+    "castle"
+   ],
+   "answer": "art gallery",
+   "explain": "art gallery — badiiy galereya: rassomchilik asarlari namoyish etiladigan ko'rgazma zali."
+  },
+  {
+   "q": "The city center was very ______ during the national holiday because thousands of people came out.",
+   "options": [
+    "crowded",
+    "peaceful",
+    "cheap",
+    "historic"
+   ],
+   "answer": "crowded",
+   "explain": "crowded — gavjum: odamlar juda ko'p bo'lgan va tiqilinch joy."
+  },
+  {
+   "q": "We went ______ down the fast-flowing river in a small plastic boat with an instructor.",
+   "options": [
+    "kayaking",
+    "mountain biking",
+    "abseilling",
+    "boat trip"
+   ],
+   "answer": "kayaking",
+   "explain": "kayaking — kayakda suzish: maxsus kichik qayiqda daryoda suzish sport turi."
+  },
+  {
+   "q": "My parents booked a ______ for themselves because they wanted a large bed in a private room.",
+   "options": [
+    "double room",
+    "single room",
+    "economy class",
+    "half board"
+   ],
+   "answer": "double room",
+   "explain": "double room — ikki kishilik xona: mehmonxonada er-xotinlar uchun mo'ljallangan xona."
+  },
+  {
+   "q": "We sat in the comfortable ______ and drank cold juice while waiting for our flight to be called.",
+   "options": [
+    "departure lounge",
+    "bag drop",
+    "check-in desk",
+    "passport control"
+   ],
+   "answer": "departure lounge",
+   "explain": "departure lounge — kutish zali: aeroportda uchishni kutib o'tirish joyi."
+  },
+  {
+   "q": "Prices for hotels and flights are much lower during the ______ when fewer people go on holiday.",
+   "options": [
+    "low season",
+    "high season",
+    "full board",
+    "part-time"
+   ],
+   "answer": "low season",
+   "explain": "low season — mavsumiy pasayish vaqti: sayyohlar kam keladigan va narxlar arzon davr."
+  },
+  {
+   "q": "The local government built a tall clock ______ in the center of the park to tell the time.",
+   "options": [
+    "tower",
+    "statue",
+    "mosque",
+    "palace"
+   ],
+   "answer": "tower",
+   "explain": "tower — minora: baland va tik qurilgan me'moriy inshoot."
+  },
+  {
+   "q": "You should put on strong ______ before walking in the desert to protect your skin from the sun.",
+   "options": [
+    "suncream",
+    "sunglasses",
+    "backpack",
+    "sunburn"
+   ],
+   "answer": "suncream",
+   "explain": "suncream — quyosh kremi: terini quyosh nurlaridan himoya qiluvchi vosita."
+  },
+  {
+   "q": "We forgot to take our ______ off before entering the bright sunny street, and everything was too dark.",
+   "options": [
+    "sunglasses",
+    "suncream",
+    "seat belt",
+    "backpack"
+   ],
+   "answer": "sunglasses",
+   "explain": "sunglasses — quyosh ko'zoynagi: ko'zni quyosh nuridan saqlash uchun taqiladigan ko'zoynak."
+  },
+  {
+   "q": "We watched a wonderful traditional ballet performance at the magnificent Tashkent ______.",
+   "options": [
+    "opera house",
+    "art gallery",
+    "museum",
+    "cathedral"
+   ],
+   "answer": "opera house",
+   "explain": "opera house — opera teatri: opera va balet namoyish etiladigan madaniyat saroyi."
+  },
+  {
+   "q": "The police checked the footage from the ______ to see who dropped the bag in the street.",
+   "options": [
+    "security camera",
+    "passport control",
+    "boarding pass",
+    "flight number"
+   ],
+   "answer": "security camera",
+   "explain": "security camera — kuzatuv kamerasi: xavfsizlikni ta'minlash uchun o'rnatilgan videokamera."
+  },
+  {
+   "q": "Many foreign tourists love visiting the old ______ of Tashkent to taste traditional bread and pilaf.",
+   "options": [
+    "market",
+    "opera house",
+    "aquarium",
+    "safari park"
+   ],
+   "answer": "market",
+   "explain": "market — bozor: turli mahsulotlar sotiladigan gavjum gavjum savdo markazi."
+  },
+  {
+   "q": "We need to go to the ______ to drop off our big suitcases before security.",
+   "options": [
+    "check-in desk",
+    "boarding pass",
+    "hand luggage",
+    "flight number"
+   ],
+   "answer": "check-in desk",
+   "explain": "check-in desk — ro'yxatdan o'tish stoli: samolyotga chiqishdan oldin sumkalarni topshirish uchun boramiz."
+  },
+  {
+   "q": "Please fasten your ______ tightly before the plane takes off from Tashkent airport.",
+   "options": [
+    "seat belt",
+    "baggage carousel",
+    "passport control",
+    "window seat"
+   ],
+   "answer": "seat belt",
+   "explain": "seat belt — xavfsizlik kamari: samolyot uchishidan oldin uni mahkam bog'lash kerak."
+  },
+  {
+   "q": "My little brother loves watching fish swim around inside the huge glass tanks at the local ______.",
+   "options": [
+    "aquarium",
+    "botanical gardens",
+    "safari park",
+    "theme park"
+   ],
+   "answer": "aquarium",
+   "explain": "aquarium — akvarium: baliqlar yashaydigan katta shisha idishlar joylashgan joy."
+  },
+  {
+   "q": "We walked through the ancient streets of the ______ to see traditional houses and old buildings.",
+   "options": [
+    "old town",
+    "shopping district",
+    "national park",
+    "art gallery"
+   ],
+   "answer": "old town",
+   "explain": "old town — eski shahar: tarixiy binolar va an'anaviy uylar joylashgan hudud."
+  }
+ ],
+ "c": [
+  {
+   "q": "We bought traditional handmade gifts and local ceramics at the busy Tashkent ______ yesterday.",
+   "answer": "market",
+   "base": "market",
+   "explain": "market — bozor: sabzavot va buyumlar sotiladigan gavjum joy."
+  },
+  {
+   "q": "We visited the majestic Registan ______ in Samarkand to admire ancient Islamic architecture.",
+   "answer": "square",
+   "base": "square",
+   "explain": "square — maydon: shaharning markaziy ochiq va keng qismi."
+  },
+  {
+   "q": "The children loved watching the giant sharks swimming inside the huge public ______.",
+   "answer": "aquarium",
+   "base": "aquarium",
+   "explain": "aquarium — akvarium: dengiz hayvonlari saqlanadigan katta suv havzasi."
+  },
+  {
+   "q": "During our summer holiday in Turkey, we stayed at a lovely ______ near the beach.",
+   "answer": "campsite",
+   "base": "campsite",
+   "explain": "campsite — lager maydoni: chohir qurib dam oladigan maxsus joy."
+  },
+  {
+   "q": "Going on a fast ______ down the rushing mountain river was extremely exciting.",
+   "answer": "kayaking",
+   "base": "kayaking",
+   "explain": "kayaking — kayakda suzish: maxsimal tezlikda daryodan qayiqda o'tish sporti."
+  },
+  {
+   "q": "Falling off the rocky cliff during an extreme ______ adventure was my biggest fear.",
+   "answer": "abseilling",
+   "base": "abseilling",
+   "explain": "abseilling — arqonda pastga tushish: tog'dan arqon yordamida tushish ekstremal sporti."
+  },
+  {
+   "q": "Protecting your face and shoulders from the hot sun requires applying thick ______ regularly.",
+   "answer": "suncream",
+   "base": "suncream",
+   "explain": "suncream — quyosh kremi: terini kuyishdan saqlaydigan maxsus malham."
+  },
+  {
+   "q": "Sleeping under the bright tropical sun without a hat caused a painful red ______.",
+   "answer": "sunburn",
+   "base": "sunburn",
+   "explain": "sunburn — quyoshdan kuyish: quyosh nurlaridan terining qizarib og'rishi."
+  },
+  {
+   "q": "Wearing dark ______ helps you see clearly when walking on very sunny streets.",
+   "answer": "sunglasses",
+   "base": "sunglasses",
+   "explain": "sunglasses — quyosh ko'zoynagi: ko'zni quyosh nurlaridan himoya qiluvchi oynalar."
+  },
+  {
+   "q": "Packing extra socks and warm jackets inside my heavy leather ______ took twenty minutes.",
+   "answer": "backpack",
+   "base": "backpack",
+   "explain": "backpack — ryukzak: yelka orqasiga taqiladigan sayohat sumkasi."
+  },
+  {
+   "q": "Renting a fast scooter from the local ______ shop made travelling around the city easy.",
+   "answer": "hire",
+   "base": "hire (a bike)",
+   "explain": "hire — ijaraga olish: pul evaziga vaqtincha foydalanish uchun buyum olish."
+  },
+  {
+   "q": "Buying small local crafts as ______ reminds us of our wonderful journey to Khiva.",
+   "answer": "souvenirs",
+   "base": "souvenirs",
+   "explain": "souvenirs — esdalik sovg'alari: sayohatdan xotira uchun olib kelinadigan buyumlar."
+  },
+  {
+   "q": "We bought lovely handmade ______ in Bukhara to remember our amazing family holiday.",
+   "answer": "souvenirs",
+   "base": "souvenirs",
+   "explain": "souvenirs — esdalik sovg'alari: sayohatdan olib kelinadigan kichik esdalik buyumlari"
+  },
+  {
+   "q": "She got a terrible ______ because she forgot to put on suncream at the beach.",
+   "answer": "sunburn",
+   "base": "sunburn",
+   "explain": "sunburn — quyosh urishi yoki kuyishi: quyosh nurlaridan terining qizarishi"
+  },
+  {
+   "q": "We stayed at a quiet ______ near Samarkand and slept in small green tents.",
+   "answer": "campsite",
+   "base": "campsite",
+   "explain": "campsite — lager maydoni: chohlar qurib dam oladigan maxsus joy"
+  },
+  {
+   "q": "They stood by the large marble ______ in the center of Tashkent on a sunny afternoon.",
+   "answer": "monument",
+   "base": "monument",
+   "explain": "monument — yodgorlik haykali: tarixiy shaxs sharafiga o'rnatilgan ulkan haykal"
+  },
+  {
+   "q": "We watched a wonderful classical ballet performance inside the grand Tashkent ______.",
+   "answer": "theatre",
+   "base": "theatre",
+   "explain": "theatre — teatr: sahna ko'rinishlari va spektakllar qo'yiladigan madaniyat maskani"
+  },
+  {
+   "q": "Thousands of excited people gathered in the main ______ to watch Independence Day fireworks.",
+   "answer": "square",
+   "base": "square",
+   "explain": "square — maydon: shahardagi ochiq katta va keng maydon"
+  },
+  {
+   "q": "My little brother loves watching colourful sharks swimming around the huge public ______.",
+   "answer": "aquarium",
+   "base": "aquarium",
+   "explain": "aquarium — akvarium: baliqlar saqlanadigan katta suv havzasi"
+  },
+  {
+   "q": "The medieval ______ on the hill protected the city from foreign invaders long ago.",
+   "answer": "castle",
+   "base": "castle",
+   "explain": "castle — qasr yoki qal'a: o'rta asrlarda qurilgan mustahkam bino"
+  },
+  {
+   "q": "She carried all her clothes in a heavy blue ______ during the mountain hiking trip.",
+   "answer": "backpack",
+   "base": "backpack",
+   "explain": "backpack — ryukzak yoki sayyohlik sumkasi: yelkaga osib yuriladigan yukxalta"
+  },
+  {
+   "q": "The majestic blue ______ in Samarkand attracts thousands of foreign tourists every single year.",
+   "answer": "mosque",
+   "base": "mosque",
+   "explain": "mosque — masjid: musulmonlar ibodat qiladigan muqaddas joy"
+  },
+  {
+   "q": "The beautiful ancient ______ in Bukhara was filled with amazing handmade silk carpets.",
+   "answer": "market",
+   "base": "market",
+   "explain": "market — bozor: savdo-sotiq qilinadigan gavjum joy"
+  },
+  {
+   "q": "She put on her dark ______ because the morning sunlight was extremely bright outside.",
+   "answer": "sunglasses",
+   "base": "sunglasses",
+   "explain": "sunglasses — quyoshdan saqlaydigan ko'zoynak: ko'zni quyosh nuridan himoya qiluvchi buyum"
+  },
+  {
+   "q": "The historic old ______ has stood proudly in the center of the town for centuries.",
+   "answer": "tower",
+   "base": "tower",
+   "explain": "tower — minora: baland va tik qurilgan inshoot"
+  },
+  {
+   "q": "The old stone bridge across the wide river looks wonderfully ______ in the moonlight.",
+   "answer": "historic",
+   "base": "historic",
+   "explain": "historic — tarixiy: o'tmishda muhim voqealarga boy bo'lgan joy yoki narsa"
+  },
+  {
+   "q": "Put on your ______ to protect your eyes from the bright summer sunlight today.",
+   "answer": "sunglasses",
+   "base": "sunglasses",
+   "explain": "sunglasses — quyosh ko'zoynagi: ko'zni yorqin nurdan himoya qiladi."
+  },
+  {
+   "q": "They stayed at a luxurious hotel near the blue ______ where many fishing boats are parked.",
+   "answer": "harbour",
+   "base": "harbour",
+   "explain": "harbour — port, qo'ltiq: kemalar to'xtab turadigan suv sohili."
+  },
+  {
+   "q": "The children loved watching the dolphins and colorful fish swim inside the giant public ______.",
+   "answer": "aquarium",
+   "base": "aquarium",
+   "explain": "aquarium — akvarium: suv osti hayvonlari saqlanadigan joy."
+  },
+  {
+   "q": "We went ______ on the fast-flowing river during our adventurous holiday in the mountains.",
+   "answer": "kayaking",
+   "base": "kayaking",
+   "explain": "kayaking — kayakda suzish: daryoda kichik qayiqda harakatlanish sporti."
+  }
+ ]
+}

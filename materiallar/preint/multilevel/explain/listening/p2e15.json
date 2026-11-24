@@ -1,0 +1,35 @@
+{
+ "script": "Speaker: Hello everybody and welcome to the class. I'm pleased to see so many of you here today. But don't worry, there won't be any more of you. There's always a maximum of 15 in the class, and a minimum of eight. Before we start, I'd like to tell you about the course. Some of the information you'll probably know already, but some of it has changed. Your class will still be on Tuesday evenings, but it won't start at 7 o'clock. It will start at the later time of 7:30, and will end at 9:30, not 9 o'clock. I hope that change is okay for everyone. Unfortunately, I can't be here any earlier than that. Another change is the room. Next week, we need to move to the second floor, to the room opposite the art room. That's room 26. Today is the only time we'll be here in room 12. The coursebook will be the same as before, that is Starting French. I see some of you have already bought it, that's good. However, if you want to buy it from us, it costs £8. You can order it today, but it takes two weeks, so you won't have it until the 1st of October. One more thing. During the last week of term, there is an international evening at the college. There will be traditional dancing from different countries, and every class is asked to provide some food. I thought we could take some French cheese, but any other suggestions are welcome. And finally, let me remind you that most of your lessons will be completely in French, so let's begin now, shall we?",
+ "items": [
+  {
+   "n": 1,
+   "quote": "maximum of 15 in the class",
+   "uz": "Guruhdagi talabalarning maksimal soni 15 ta ekanligi aytiladi (maximum of 15). 8 soni esa minimal talabalar sonidir."
+  },
+  {
+   "n": 2,
+   "quote": "start at the later time of 7:30, and will end at 9:30",
+   "uz": "Dars 7:30 da boshlanib, 9:30 da tugashi aytiladi. Avvalgi 9 o'clock vaqti bilan chalkashmaslik kerak."
+  },
+  {
+   "n": 3,
+   "quote": "opposite the art room",
+   "uz": "Xona 26 ikkinchi qavatda, san'at xonasi (art room) ro'parasida joylashgan."
+  },
+  {
+   "n": 4,
+   "quote": "that is Starting French",
+   "uz": "Darslik kitobining nomi Starting French deb aytiladi. French so'zi shablonda berilgani uchun faqat Starting yoziladi."
+  },
+  {
+   "n": 5,
+   "quote": "1st of October",
+   "uz": "Kitobni buyurtma qilsa, u ikki haftada, ya'ni 1-oktyabrda (1st of October) yetib keladi."
+  },
+  {
+   "n": 6,
+   "quote": "asked to provide some food",
+   "uz": "Xalqaro kechada har bir sinf biroz taom/yemak (food) olib kelishi so'ralgan. Cheese esa pishloq bo'lib, unga misol sifatida keltirilgan."
+  }
+ ]
+}

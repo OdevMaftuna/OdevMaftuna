@@ -1,0 +1,35 @@
+{
+ "script": "Speaker 1: You will hear a radio presenter called Ellen talking about local activities taking place over the summer. Ellen: If you're looking for things to do over the summer, there's lots going on in the area. I'll give you an idea of what you can do now, but for a full programme of events, text 1576 and we'll send you a link to all the information you need. To give you a taste of what's on offer, the Activity Centre is running a wide range of activities for all the family. There's climbing for beginners. This is indoors and will be led by experienced teachers. The centre has also organised a walk along the coast path for a look at some of the creatures you can find there. The centre is open seven days a week, with a special open day on the 13th of June to give you an idea of what else is on offer. As you know, our town has a very long history, and those with an interest in the past can sign up for one of the guided walks the History Group has organised. Find out where a very well-known celebrity was born and learn about local industry in the past. You can find out more at the History Centre, which is located in the Central Library. For film lovers, the Arts Centre has a full programme of films running throughout the summer months. And the Book Festival, which starts on the 14th of August, has several speakers on its programme and book readings by some well-known authors. This year, they'll be organising a question and answer session for anyone interested in writing poetry. The Arts Centre expects this to be quite popular, so you should call them first to book a place.",
+ "items": [
+  {
+   "n": 1,
+   "quote": "text 1576",
+   "uz": "To'liq dasturni olish uchun aynan 1576 raqamiga xabar (text) yuborish kerakligi aytiladi."
+  },
+  {
+   "n": 2,
+   "quote": "There's climbing for beginners. This is indoors",
+   "uz": "Yangi boshlovchilar uchun bino ichida (indoor) o'tkaziladigan mashg'ulot sifatida 'climbing' (qoyaga chiqish) tilga olinadi."
+  },
+  {
+   "n": 3,
+   "quote": "walk along the coast path",
+   "uz": "Sohil bo'ylab sayr qilish uchun aynan 'path' (yo'lak/yo'l) so'zi ishlatiladi."
+  },
+  {
+   "n": 4,
+   "quote": "open day on the 13th of June",
+   "uz": "Ochiq eshiklar kuni iyun oyining 13-sanasida bo'lishi aytiladi. 14-avgust bilan adashtirmang, u kitob festivali sanasi."
+  },
+  {
+   "n": 5,
+   "quote": "where a very well-known celebrity was born",
+   "uz": "Tarixiy sayrda shu hududda tug'ilgan mashhur inson (celebrity) haqida ma'lumot beriladi."
+  },
+  {
+   "n": 6,
+   "quote": "interested in writing poetry",
+   "uz": "San'at markazida she'riyat (poetry) yozishga qiziquvchilar uchun savol-javob sessiyasi tashkil etiladi."
+  }
+ ]
+}

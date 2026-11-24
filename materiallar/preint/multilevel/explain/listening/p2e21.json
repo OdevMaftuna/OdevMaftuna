@@ -1,0 +1,35 @@
+{
+ "script": "Man: Exercise 21. You will hear a student called Andreana giving a presentation to her class about her father's job.\n\nAndreana: Hi everyone. I have chosen to tell you about my father's job for the project we had for today. I chose the first project, which focuses on jobs. I found the other topic on the environment a bit difficult. My father is a pilot for an international airline company. He's been flying people around the world for the last 16 years and he loves his job. After he graduated from university, he became a teacher. He taught in a primary school and he really enjoyed it. However, he'd always had a dream that one day he would fly, so he decided to go for an important career change and train as a pilot. He will never forget the first flight when he was responsible for a plane with 80 happy holidaymakers on their way to Italy. Six more people were working on the plane. He was very nervous. Everything went well though, and he was so pleased when his first flight was behind him. He often gets nervous, people asking him questions about how dangerous flying really is. He tells them that it is the safest way to travel. However, sometimes unexpected things happen during a flight, such as bad weather or difficult passengers. But he says that the most important thing a pilot can do is to always stay calm. My father believes that what nervous passengers have in common is that they need to be in control of their life, and when they get on a plane, they have to give up that control. He always does his best to make passengers feel relaxed on the flight. Once he has taken off, and he is cruising in the sky, he always has a coffee to make him feel extra awake and ready for anything.\n\nMan: Now listen again.",
+ "items": [
+  {
+   "n": 1,
+   "quote": "focuses on jobs",
+   "uz": "Andreana birinchi loyihani tanlagan bo'lib, u kasblar (\"jobs\") haqida. \"environment\" (atrof-muhit) mavzusi esa unga biroz qiyinlik qilgan."
+  },
+  {
+   "n": 2,
+   "quote": "taught in a primary school",
+   "uz": "Uning otasi universitetni tugatgach, boshlang'ich (\"primary\") maktabda o'qituvchi bo'lib ishlagan."
+  },
+  {
+   "n": 3,
+   "quote": "plane with 80 happy holidaymakers",
+   "uz": "Italiyaga uchayotgan samolyotda 80 nafar yo'lovchi (holidaymakers) bo'lgan. Matndagi 6 soni samolyotda ishlayotgan xodimlar sonidir."
+  },
+  {
+   "n": 4,
+   "quote": "bad weather or difficult passengers",
+   "uz": "Uchuvchi duch keladigan muammolar sifatida injiq yo'lovchilar hamda yomon ob-havo (\"weather\") aytib o'tilgan."
+  },
+  {
+   "n": 5,
+   "quote": "in control of their life",
+   "uz": "Yo'lovchilar samolyotga chiqqanlarida o'z hayotlari ustidan nazoratni (\"control\") yo'qotganday his qilishadi."
+  },
+  {
+   "n": 6,
+   "quote": "always has a coffee",
+   "uz": "Samolyot havoga ko'tarilishi bilanoq (taken off), u o'zini tetik his qilish uchun bir finjon kofe (\"coffee\") ichadi."
+  }
+ ]
+}

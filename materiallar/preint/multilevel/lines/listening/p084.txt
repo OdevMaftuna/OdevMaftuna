@@ -1,0 +1,41 @@
+﻿94`t22`t97`tPort 4
+162`t29`t130`tExercise 2
+96`t19`t954`t85
+224`t29`t131`tYou will hear someone giving a talk. Label the places (1-5) on the map
+261`t29`t130`t(A-G). There are TWO extra options which you do not need to use.
+363`t16`t334`tMain
+384`t15`t334`tHall
+448`t15`t469`tCar
+468`t16`t470`tPark
+617`t18`t353`tc
+692`t25`t368`t2. reception area
+729`t21`t369`t5. fitness room
+498`t14`t623`t19
+511`t14`t603`t19
+540`t14`t643`t19
+552`t15`t622`t19
+579`t14`t662`t19
+592`t14`t641`t19
+690`t21`t719`t3. dance studio
+692`t22`t134`t1. football
+729`t27`t135`t4. squash courts
+813`t25`t138`tExercise 3
+868`t26`t139`tYou will hear someone giving a talk. Label the places (1-5) on the map
+904`t26`t138`t(A-F). There is ONE extra options which you do not need to use.
+1004`t12`t534`tEngine
+1018`t11`t537`tRoom
+1055`t10`t466`tGrind'
+1069`t11`t478`tShop
+1158`t17`t569`tYard
+1250`t11`t458`tfor the
+1264`t10`t453`tworkers
+1300`t11`t571`tCar Park
+1071`t16`t696`tc
+1176`t10`t687`tStables
+1260`t10`t693`tomc.
+1454`t23`t145`t1. woodside road
+1489`t25`t145`t4. the main workshop
+1438`t27`t465`t2. the ticket office 3. the gift shop
+1480`t22`t464`t5. the showroom
+1538`t25`t569`tDarajangizni aniqlash uchun: mytests.uz
+1653`t9`t1022`tScanned With

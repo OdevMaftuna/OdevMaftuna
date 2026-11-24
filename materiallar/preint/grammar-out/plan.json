@@ -1,0 +1,252 @@
+[
+ {
+  "unit": 1,
+  "code": "1",
+  "title": "Past simple; should",
+  "uz": "O‘tgan oddiy zamon; should (maslahat)",
+  "topics": [
+   "Past simple (affirmative, negative, questions, irregular verbs)",
+   "should / shouldn't for advice"
+  ],
+  "parts": [
+   [
+    "verb",
+    40,
+    "Past simple: affirmative, negative and questions (\"(you / go)\")"
+   ],
+   [
+    "choose",
+    30,
+    "should / shouldn't for advice, and past simple vs base form"
+   ],
+   [
+    "verb",
+    30,
+    "Past simple questions with question words: ONE gap for the auxiliary + subject + verb, e.g. q \"Where ______ on holiday last summer?\" hint \"you / go\" answer \"did you go\""
+   ]
+  ]
+ },
+ {
+  "unit": 2,
+  "code": "2",
+  "title": "Past continuous",
+  "uz": "O‘tgan davomiy zamon",
+  "topics": [
+   "Past continuous",
+   "Past simple vs past continuous; when / while"
+  ],
+  "parts": [
+   [
+    "verb",
+    40,
+    "Past simple or past continuous (two-gap ideas split into one gap each; hint = verb)"
+   ],
+   [
+    "correct",
+    30,
+    "Mistakes with past continuous / past simple / when-while"
+   ],
+   [
+    "choose",
+    30,
+    "when / while; was/were + -ing vs past simple"
+   ]
+  ]
+ },
+ {
+  "unit": 3,
+  "code": "3",
+  "title": "must, mustn't, needn't, don't have to",
+  "uz": "must, mustn't, needn't, don't have to",
+  "topics": [
+   "must / mustn't (obligation, prohibition)",
+   "needn't / don't have to (no obligation)",
+   "have to"
+  ],
+  "parts": [
+   [
+    "choose",
+    40,
+    "must / mustn't / needn't / don't have to / have to"
+   ],
+   [
+    "rewrite",
+    30,
+    "Rewrite rules/advice using must, mustn't, needn't or don't have to (e.g. 'You are not allowed to talk.' → You ______)"
+   ],
+   [
+    "correct",
+    30,
+    "Mistakes with modal verbs of obligation (to after must, has to, etc.)"
+   ]
+  ]
+ },
+ {
+  "unit": 4,
+  "code": "4",
+  "title": "Comparatives, superlatives; too & enough",
+  "uz": "Qiyosiy va orttirma daraja; too va enough",
+  "topics": [
+   "Comparative adjectives (+ than, much)",
+   "Superlative adjectives (the ... -est / most)",
+   "too + adjective; adjective + enough; enough + noun"
+  ],
+  "parts": [
+   [
+    "verb",
+    40,
+    "Comparative or superlative form of the adjective in brackets (include 'than' / 'the' when needed inside the answer)"
+   ],
+   [
+    "choose",
+    30,
+    "too / enough / too much / too many / not ... enough, comparative vs superlative"
+   ],
+   [
+    "rewrite",
+    30,
+    "Answer/rewrite using too or enough and the word in brackets (hint = the adjective)"
+   ]
+  ]
+ },
+ {
+  "unit": 5,
+  "code": "5",
+  "title": "will & going to; first conditional",
+  "uz": "will va going to; birinchi shart gap",
+  "topics": [
+   "will (predictions, promises, instant decisions)",
+   "be going to (plans, evidence)",
+   "First conditional (If + present, will)"
+  ],
+  "parts": [
+   [
+    "choose",
+    40,
+    "will / going to (plans, promises, predictions with evidence)"
+   ],
+   [
+    "verb",
+    30,
+    "First conditional: correct form of the verb in brackets (present simple or will/won't)"
+   ],
+   [
+    "correct",
+    30,
+    "Mistakes with will / going to / first conditional (e.g. 'If it will rain')"
+   ]
+  ]
+ },
+ {
+  "unit": 6,
+  "code": "6",
+  "title": "Present perfect",
+  "uz": "Hozirgi tugallangan zamon",
+  "topics": [
+   "Present perfect (experience, ever/never, just/already/yet)",
+   "for / since, How long",
+   "Present perfect vs past simple; been vs gone"
+  ],
+  "parts": [
+   [
+    "verb",
+    40,
+    "Past simple or present perfect form of the verb in brackets"
+   ],
+   [
+    "choose",
+    30,
+    "been/gone, ever/never, for/since, How long/When, just/already/yet"
+   ],
+   [
+    "correct",
+    30,
+    "Mistakes with present perfect vs past simple"
+   ]
+  ]
+ },
+ {
+  "unit": 7,
+  "code": "7",
+  "title": "Second conditional; past perfect",
+  "uz": "Ikkinchi shart gap; o‘tgan tugallangan zamon",
+  "topics": [
+   "Second conditional (If + past, would)",
+   "Past perfect (had + V3)",
+   "after / before / because with past perfect"
+  ],
+  "parts": [
+   [
+    "verb",
+    40,
+    "Second conditional: correct form of the verb in brackets (past simple or would/wouldn't)"
+   ],
+   [
+    "rewrite",
+    30,
+    "Join two sentences into one using the word in brackets (after/because/but/when) and the past perfect"
+   ],
+   [
+    "choose",
+    30,
+    "Second conditional vs first conditional; past perfect vs past simple"
+   ]
+  ]
+ },
+ {
+  "unit": 8,
+  "code": "8",
+  "title": "Reported speech",
+  "uz": "O‘zlashtirma gap",
+  "topics": [
+   "Reported statements (tense backshift)",
+   "say / tell",
+   "pronoun and time-word changes"
+  ],
+  "parts": [
+   [
+    "rewrite",
+    40,
+    "Rewrite direct speech as reported speech (‘I am tired,’ she said. → She said that ______)"
+   ],
+   [
+    "verb",
+    30,
+    "Correct reported form of the verb in brackets (She said she ______ (can) swim.)"
+   ],
+   [
+    "choose",
+    30,
+    "said / told, tense backshift, pronouns, here→there, now→then, tomorrow→the next day"
+   ]
+  ]
+ },
+ {
+  "unit": 9,
+  "code": "9",
+  "title": "The passive (present & past simple)",
+  "uz": "Majhul nisbat (hozirgi va o‘tgan oddiy zamon)",
+  "topics": [
+   "Present simple passive (am/is/are + V3)",
+   "Past simple passive (was/were + V3)",
+   "by + agent; passive questions"
+  ],
+  "parts": [
+   [
+    "rewrite",
+    40,
+    "Rewrite in the passive without the agent (People speak English here. → English ______)"
+   ],
+   [
+    "verb",
+    30,
+    "Correct passive form of the verb in brackets (present or past simple)"
+   ],
+   [
+    "choose",
+    30,
+    "active vs passive, is/are/was/were, V3 forms"
+   ]
+  ]
+ }
+]

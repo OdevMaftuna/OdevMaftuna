@@ -1,0 +1,35 @@
+﻿95`t21`t184`t82
+87`t30`t774`tMultilevel Master listening
+246`t53`t511`tPART 4
+391`t28`t223`tMultilevel imtihoni "Listening" bo'limining 4-qismida o'quvchilardan
+429`t29`t190`t"Map" ya'ni xaritada ko'rsatilgan bino yoki hududning joylashuvini topish-
+467`t28`t191`tlari so'raladi. Ushbu savol turida yuqori natijaga erishish uchun o'quvchi-
+505`t28`t193`tlardan joylashuvga oid bo'lgan so'zlarning ingliz tilidagi tarjimalarini yaxshi
+543`t28`t193`tbilishlari talab qilinadi. Bu savol turida o'quvchilardan asosan ikkita jihatni
+581`t26`t195`tchuqur aniqlashtirib olishlari talab qilinadi:
+618`t27`t229`tLocation (Joylashuv) - bunda biror narsa yoki binoning boshqa joy bilan
+655`t27`t198`tqanday bog'langanligi nazarda tutiladi.
+692`t27`t232`tDirection (Yo'nalish) - Bunda ma'lum bir joyga yetib borish uchun qaysi
+728`t27`t201`tyo'nalish bo'yicha harakatlanishi lozim ekanligi ta'kidlanadi.
+765`t27`t235`t"Location" ya'ni joylashuvni aniqlash uchun ishlatiladigan eng mashhur
+800`t26`t207`tso'zlar: near, in front of, next to, beside, across from, between va hokazo.
+836`t28`t240`t"Direction" ya'ni yo'nalishni aniqlash uchun ishlatiladigan eng mashhur
+871`t27`t213`tso'zlar: turn right, turn left, go straight on, travel northwest, go past.
+906`t28`t246`tShuningdek, eng asosiy e'tiborga Olish lozim bo'lgan jihati, biror joy yoki
+942`t27`t219`tmanzilni aytayotganda ular 4 tarafdan birida joylashgan bo'ladi ya'ni: shi-
+976`t28`t221`tmol, janub, g'arb yoki sharq. Shimolga qarab yurasiz deyilganida har doim
+1011`t29`t222`tqogozda ko'rsatilgan xarita bo'yicha tepaga harakatlaniladi, g'arbga de-
+1045`t29`t222`tyilganda chapga, sharqqa deyilganda o'ngga, janubga deyilganda esa
+1081`t25`t222`tpastga qarab harakatlanish lozim.
+1114`t30`t252`tHar bir xaritada boshlang'ich joy ko'rsatilgan bo'lib, bu o'quvchining Shu
+1149`t27`t218`tyerda turganligini va keying aytiladigan yo'nalishlar aynan shu joydan bosh-
+1184`t30`t217`tlab aytilishini nazarda tutadi. Bunday joylar asosan "Reception", "Main
+1219`t30`t214`tHall" yoki "Entrance" bo'lishi mumkin. Shuningdek qog'ozda ko'pincha
+1255`t29`t212`t"You are here" ya'ni "Siz bu yerdasiz" deb ko'rsatib qo'yilgan bo'ladi. Ki-
+1291`t30`t209`ttobimizda berilgan mashqlarni ishlash jarayonida siz "facing" yoki "bend"
+1326`t30`t205`tdegan so'zlarni eshitishingiz mumkin. Bunda "facing" degani "ro'parangiz-
+1362`t30`t202`tda bo'ladi" degan ma'noni bildirsa, "bend" degani "aylangan yoki egilgan
+1399`t27`t196`tjoyida" degan ma'noni bildiradi..
+1435`t28`t230`tXaritada berilgan har bir harf ostida ma'lum bir joy yashiringan bo'lib,
+1472`t28`t192`to'quvchilardan shundan faqatgina 5 tasini topishlari so'raladi. Ya'ni o'quvchi-
+1662`t9`t1005`tScanned With

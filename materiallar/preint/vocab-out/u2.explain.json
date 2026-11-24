@@ -1,0 +1,682 @@
+[
+ {
+  "why": "«starving» — qattiq och qolgan. Gapda «not eaten anything since early morning» va «stomach is making loud noises» bor: butun kun ovqat yemagan odam qattiq och bo'ladi.",
+  "wrong": {
+   "filthy": "«filthy» — juda kir; bu yerda gap ochlik haqida, kirish haqida emas.",
+   "awful": "«awful» — juda yomon; bu yerda qorin g'ovillashi ochlikni bildiradi.",
+   "icy": "«icy» — muzdek; bu yerda ob-havo emas, qorin ochishi haqida gap ketyapti."
+  }
+ },
+ {
+  "why": "«forest» — o'rmon. Gapda «thick trees where wild animals live» bor: qalin daraxtlar va yovvoyi hayvonlar faqat o'rmonda bo'ladi.",
+  "wrong": {
+   "desert": "«desert» — sahro; u yerda qalin daraxtlar bo'lmaydi.",
+   "cave": "«cave» — g'or; bu qalin daraxtlar hududi emas.",
+   "ocean": "«ocean» — okean; bu suv muhiti, daraxtlar o'sadigan joy emas."
+  }
+ },
+ {
+  "why": "«rucksack» — ryukzak, katta sumka. Gapda «heavy books and lunch boxes into their big bags» bor: o'quvchilar og'ir kitoblarni katta ryukzakka solishadi.",
+  "wrong": {
+   "helmet": "«helmet» — dubulg'a; uning ichiga kitob solib bo'lmaydi.",
+   "boots": "«boots» — etiklar; ular oyoqqa kiyiladi, narsa solinmaydi.",
+   "dinghy": "«dinghy» — kichik qayiq; u sumka vazifasini bajarmaydi."
+  }
+ },
+ {
+  "why": "«mountain» — tog'. Gapda «much higher than a normal hill» bor: oddiy tepalikdan ham baland bo'lgan yer tog' deb ataladi.",
+  "wrong": {
+   "stream": "«stream» — jilg'a; u tuproq va toshdan iborat baland tepalik emas.",
+   "lake": "«lake» — ko'l; bu suv havzasi.",
+   "shore": "«shore» — qirg'oq; bu suv bo'yidagi qism."
+  }
+ },
+ {
+  "why": "«ocean» — okean. Gapda «large body of salty water» va «big waves» bor: sho'r suvli ulkan suv havzasi va to'lqinlar okeanga tegishli.",
+  "wrong": {
+   "forest": "«forest» — o'rmon; u yerda sho'r suv va to'lqinlar bo'lmaydi.",
+   "desert": "«desert» — sahro; bu quruqlik va qumli hudud.",
+   "cave": "«cave» — g'or; bu tosh ostidagi yopiq joy."
+  }
+ },
+ {
+  "why": "«athletic» — jismoniy baquvvat yoki sportga oid. Gapda «running a very difficult marathon» bor: marafon yugurgan sportchining muskullari og'riydi.",
+  "wrong": {
+   "brave": "«brave» — jasur; u xarakterni bildiradi, muskullar og'rishiga sabab emas.",
+   "terrifying": "«terrifying» — qo'rqinchli; bu odamning muskullarini og'ritmaydi.",
+   "remote": "«remote» — olis, chekka; bu joy nomiga ishlatiladi."
+  }
+ },
+ {
+  "why": "«shore» — qirg'oq. Gapda «soft sand where the dry land meets the blue water» bor: quruqlik dengiz suvi bilan tutashgan qumli joy qirg'oq deyiladi.",
+  "wrong": {
+   "stream": "«stream» — kichik daryo; bu dengiz qirg'og'i emas.",
+   "cave": "«cave» — g'or; u qumli ochiq qirg'oq bo'la olmaydi.",
+   "forest": "«forest» — o'rmon; bu suv bo'yidagi qumli qirg'oq emas."
+  }
+ },
+ {
+  "why": "«shallow» — sayoz. Gapda «not deep at all, so we walked across it easily» bor: chuqur bo'lmagan suv sayoz bo'ladi.",
+  "wrong": {
+   "deep": "«deep» — chuqur; gapda suvning chuqur emasligi aytilgan.",
+   "icy": "«icy» — muzdek; bu suvning chuqurligiga aloqador emas.",
+   "steep": "«steep» — tik; bu tog' yoki qiyaliklarga nisbatan ishlatiladi."
+  }
+ },
+ {
+  "why": "«icy» — muzdek, muzlagan. Gapda «turned completely into hard ice» bor: suv qattiq muzga aylangan bo'lsa, u muzdek bo'ladi.",
+  "wrong": {
+   "deep": "«deep» — chuqur; bu muzlash jarayonini bildirmaydi.",
+   "steep": "«steep» — tik; bu suvning muzlashiga aloqador emas.",
+   "shallow": "«shallow» — sayoz; bu suvning sayozligini bildiradi, muzlaganini emas."
+  }
+ },
+ {
+  "why": "«down» — pastga. Gapda «direction of the bottom» bor: vodiy tubi yoki pastki tomoniga qarab yurish «down» so'zi bilan bildiriladi.",
+  "wrong": {
+   "along": "«along» — bo'ylab; bu pastga qarab yo'nalishni ko'rsatmaydi.",
+   "across": "«across» — ko'ndalangiga kesib o'tish; bu pastga harakat emas.",
+   "beside": "«beside» — yonida; bu harakat yo'nalishini bildirmaydi."
+  }
+ },
+ {
+  "why": "«rocks» — qoyalar yoki yirik toshlar. Gapda «grey stone» va «frog jumped» bor: qurbaqa kichik toshlar yoki qoyalar ustidan sakraydi. Ko'plik shakli «stone» so'ziga mos keladi.",
+  "wrong": {
+   "poles": "«poles» — ustunlar; qurbaqa ustunlar emas, toshlar ustidan sakraydi.",
+   "paddles": "«paddles» — eshkaklar; bu yerda suv yoki qayiq haqida gap ketmayapti.",
+   "boots": "«boots» — etiklar; bu jonsiz narsa emas, qurbaqa sakraydigan joy kerak."
+  }
+ },
+ {
+  "why": "«boots» — etiklar, tog' botinkalari. Gapda «heavy leather shoes designed for walking in the mountains» bor: tog'da yurish uchun mo'ljallangan og'ir poyabzal bu botinka.",
+  "wrong": {
+   "helmet": "«helmet» — dubulg'a; u oyoqqa emas, boshga kiyiladi.",
+   "rucksack": "«rucksack» — ryukzak; bu poyabzal emas.",
+   "dinghy": "«dinghy» — qayiq; bu oyoqqa kiyilmaydi."
+  }
+ },
+ {
+  "why": "«helmet» — dubulg'a. Gapda «hard plastic hat on her head» va «bicycle ride» bor: velosiped haydashda boshni himoya qiladigan qattiq bosh kiyim bu dubulg'a.",
+  "wrong": {
+   "boots": "«boots» — etiklar; ular boshga emas, oyoqqa kiyiladi.",
+   "rucksack": "«rucksack» — ryukzak; bu bosh kiyim emas.",
+   "life jacket": "«life jacket» — qutqaruv jileti; u boshga kiyilmaydi."
+  }
+ },
+ {
+  "why": "«poles» — chang'i tayoqlari. Gapda «wooden sticks to push ourselves forward while skiing» bor: chang'i uchishda oldinga surilish uchun uzun tayoqlar ishlatiladi.",
+  "wrong": {
+   "rocks": "«rocks» — toshlar; ular chang'i uchishda tayoq o'rnida ishlatilmaydi.",
+   "paddles": "«paddles» — eshkaklar; ular qorda emas, suvda ishlatiladi.",
+   "boots": "«boots» — etiklar; ular qo'lda ushlab surilish uchun emas."
+  }
+ },
+ {
+  "why": "«dinghy» — kichik qayiq. Gapda «small plastic boat and used oars» bor: eshkaklar yordamida harakatlanadigan kichik plastik qayiq bu dingi.",
+  "wrong": {
+   "rucksack": "«rucksack» — ryukzak; uning ichiga o'tirib ko'lda suzib bo'lmaydi.",
+   "helmet": "«helmet» — dubulg'a; bu qayiq vazifasini bajarmaydi.",
+   "boots": "«boots» — etiklar; bu suvda suzish uchun kichik qayiq emas."
+  }
+ },
+ {
+  "why": "«paddles» — eshkaklar. Gapda «flat wooden oars in their hands to push the water» bor: suvni surish uchun qo'lda ushlab turiladigan yassi yog'ochlar eshkaklardir.",
+  "wrong": {
+   "poles": "«poles» — tayoqlar; ular suvda qayiqni harakatlantirish uchun ishlatilmaydi.",
+   "rocks": "«rocks» — toshlar; ularni qo'lda ushlab suvni surib bo'lmaydi.",
+   "boots": "«boots» — etiklar; bu suv surish moslamasi emas."
+  }
+ },
+ {
+  "why": "«life jacket» — qutqaruv jileti. Gapda «helps you float» va «dangerous water» bor: suvdagi xavfdan saqlaydigan va suvda qalqib turishga yordam beradigan kiyim bu qutqaruv jileti.",
+  "wrong": {
+   "helmet": "«helmet» — dubulg'a; u suvda cho'kib ketmaslikka yordam bermaydi.",
+   "rucksack": "«rucksack» — ryukzak; bu qutqaruv vositasi emas.",
+   "boots": "«boots» — etiklar; ular tanani suv yuzida saqlamaydi."
+  }
+ },
+ {
+  "why": "«safety harness» — xavfsizlik kamari. Gapda «attached a strong nylon belt around their waists so they would not fall down» bor: yiqilib tushmaslik uchun belga taqiladigan kamar bu safety harness.",
+  "wrong": {
+   "helmet": "«helmet» — dubulg'a; u belga taqiladigan kamar emas.",
+   "rucksack": "«rucksack» — ryukzak; u yiqilishdan saqlaydigan kamar vazifasini bajarmaydi.",
+   "boots": "«boots» — etiklar; ular belga taqilmaydi."
+  }
+ },
+ {
+  "why": "«examination» — imtihon. Gapda «study hard» va «big test at the end of the term» bor: o'quv mavsumi oxiridagi katta sinov bu imtihon.",
+  "wrong": {
+   "preparation": "«preparation» — tayyorgarlik; gapda aynan ertangi katta sinov haqida gap bormoqda.",
+   "development": "«development» — rivojlanish; bu o'quv testiga mos kelmaydi.",
+   "entertainment": "«entertainment» — ko'ngil ochish; imtihonga tayyorgarlik ko'rish bu emas."
+  }
+ },
+ {
+  "why": "«examine» — tekshirmoq. Gapda «check my throat and listen to my heart with her special medical tool» bor: shifokorning tomoqni tekshirishi va yurakni eshitishi «examine» fe'li bilan ifodalanadi.",
+  "wrong": {
+   "explore": "«explore» — tadqiq qilmoq, o'rganmoq; bu tibbiy ko'rikka nisbatan ishlatilmaydi.",
+   "develop": "«develop» — rivojlantirmoq; bu shifokorning bemorni tekshirishiga mos kelmaydi.",
+   "entertain": "«entertain» — ko'ngil ochmoq; shifokor bemorni davolaydi, ko'ngil ochmaydi."
+  }
+ },
+ {
+  "why": "«complete» — to'liq, mukammal. Gapda «every single plate and spoon was shining» bor: hamma narsa toza va mukammal qilindi.",
+  "wrong": {
+   "achieve": "«achieve» — erishmoq; bu yerda maqsadga erishish haqida emas, tozalash ishi haqida.",
+   "accomplish": "«accomplish» — bajarib tugatmoq; bu so'z uy ishlariga emas, yirik vazifalarga mos keladi.",
+   "attempt": "«attempt» — urinib ko'rmoq; bu yerda urinish emas, natija haqida gap ketmoqda."
+  }
+ },
+ {
+  "why": "«completion» — yakunlanish, tugatilish. Gapda «reached the finish» bor: maktab binosi qurilishi oxiriga yetdi.",
+  "wrong": {
+   "achievement": "«achievement» — yutuq; bu yerda bino qurilishining tugashi haqida.",
+   "accomplishment": "«accomplishment» — muvaffaqiyat; bu qurilish binosining tugallanishiga to'g'ri kelmaydi.",
+   "exploration": "«exploration» — o'rganish, tadqiq qilish; bino qurilishiga aloqasi yo'q."
+  }
+ },
+ {
+  "why": "«explore» — tadqiq qilmoq, o'rganmoq. Gapda «unknown parts of the Amazon jungle» bor: noma'lum joylarni o'rganish kerak.",
+  "wrong": {
+   "examine": "«examine» — tekshirib chiqmoq; o'rmonni o'rganishga ishlatilmaydi.",
+   "develop": "«develop» — rivojlantirmoq; bu yerda o'rmonni kashf qilish nazarda tutilgan.",
+   "entertain": "«entertain» — ko'ngil ochmoq; o'rmonni o'rganishga aloqasi yo'q."
+  }
+ },
+ {
+  "why": "«exploration» — tadqiqot, o'rganish. Gapda «long journey through the unknown desert» bor: noma'lum cho'ldagi sayohat tadqiqot hisoblanadi.",
+  "wrong": {
+   "achievement": "«achievement» — yutuq; cho'ldagi sayohatga uncha mos kelmaydi.",
+   "accomplishment": "«accomplishment» — ishni bajarish; bu yerda joyni o'rganish ma'nosi bor.",
+   "completion": "«completion» — tamomlash; sayohatning o'zi haqida gap ketmoqda."
+  }
+ },
+ {
+  "why": "«erupt» — otilib chiqmoq. Gapda «threw hot red lava» bor: vulqon lava otib chiqdi.",
+  "wrong": {
+   "develop": "«develop» — rivojlanmoq; vulqonga nisbatan ishlatilmaydi.",
+   "motivate": "«motivate» — ilhomlantirmoq; vulqon harakatiga mos kelmaydi.",
+   "entertain": "«entertain» — ko'ngil ochmoq; bu yerda xavfli tabiat hodisasi haqida."
+  }
+ },
+ {
+  "why": "«eruption» — otilish. Gapda «coming out of the volcano» bor: vulqonning otilishi qishloq odatlarini qo'rqitdi.",
+  "wrong": {
+   "development": "«development» — rivojlanish; vulqon otilishiga aloqasi yo'q.",
+   "preparation": "«preparation» — tayyorgarlik; tabiiy ofatga ishlatilmaydi.",
+   "entertainment": "«entertainment» — ko'ngil ochish; qo'rqinchli hodisaga to'g'ri kelmaydi."
+  }
+ },
+ {
+  "why": "«stunning» — juda go'zal, lol qoldiradigan. Gapda «looked very peaceful in the morning light» bor: vodiyning go'zalligi tasvirlangan.",
+  "wrong": {
+   "awful": "«awful» — dahshatli, yomon; go'zal manzaraga mos kelmaydi.",
+   "filthy": "«filthy» — juda kir; tabiatga nisbatan ishlatilmaydi.",
+   "icy": "«icy» — muzdek; tonggi yorug'likdagi vodiyga mos emas."
+  }
+ },
+ {
+  "why": "«remote» — olis, chekka. Gapda «far away from any towns» bor: shaharlardan uzoqda joylashgan.",
+  "wrong": {
+   "steep": "«steep» — tik (tog' haqida); uylar uchun ishlatilmaydi.",
+   "shallow": "«shallow» — sayoz (suv haqida); uyga nisbatan noto'g'ri.",
+   "narrow": "«narrow» — tor; bu yerda olisdagi joy haqida so'z bormoqda."
+  }
+ },
+ {
+  "why": "«steep» — tik, qiya. Gapda «had to climb very slowly» bor: yo'l juda tik bo'lgani uchun sekin chiqdilar.",
+  "wrong": {
+   "shallow": "«shallow» — sayoz; tog' yo'liga ishlatilmaydi.",
+   "icy": "«icy» — muzli; matnda yo'lning tikligi haqida aytilgan.",
+   "narrow": "«narrow» — tor; bu yerda tog'ning tikligini ko'rsatuvchi so'z kerak."
+  }
+ },
+ {
+  "why": "«rescue» — qutqarmoq. Gapda «saved the lost hikers» bor: odamlar qutqarib qolindi.",
+  "wrong": {
+   "attempt": "«attempt» — urinish; bu yerda aniq qutqarish harakati bajarilgan.",
+   "risk": "«risk» — tavakkal qilmoq; ma'nosi to'g'ri kelmaydi.",
+   "need": "«need» — ehtiyoj sezmoq; qutqarish ma'nosini bermaydi."
+  }
+ },
+ {
+  "why": "«terrifying» — juda qo'rqinchli. Gapda «attacking people» bor: akulalar odamlarga hujum qilishi qo'rqinchli.",
+  "wrong": {
+   "athletic": "«athletic» — badantarbiyali, sportchiga xos; filmga mos emas.",
+   "brave": "«brave» — jasur; filmga nisbatan ishlatilmaydi.",
+   "remote": "«remote» — olis; qo'rqinchli filmga to'g'ri kelmaydi."
+  }
+ },
+ {
+  "why": "«thrilling» — hayajonli, maroqli. Gapda «exciting and fun» bor: attraksion juda maroqli edi.",
+  "wrong": {
+   "awful": "«awful» — yomon; bu yerda ijobiy va qiziqarli narsa haqida.",
+   "filthy": "«filthy» — kir; ko'ngilochar park attraksioniga ishlatilmaydi.",
+   "icy": "«icy» — muzdek; hayajonli his-tuyg'uni bildirmaydi."
+  }
+ },
+ {
+  "why": "«spectacular» — juda chiroyli, ko'zni quvontiradigan. Gapda «like something from a magical fairy tale» bor: qasr ertakdagidek ajoyib ko'ringan.",
+  "wrong": {
+   "filthy": "«filthy» — kir; go'zal qasrga nisbatan ishlatilmaydi.",
+   "awful": "«awful» — dahshatli; ijobiy ma'nodagi gapga mos kelmaydi.",
+   "icy": "«icy» — muzli; qasrning ko'rinishiga mos emas."
+  }
+ },
+ {
+  "why": "«delicious» — mazali. Gapda «tasted exceptionally good» bor: buvim pishirgan ovqat juda mazali edi.",
+  "wrong": {
+   "filthy": "«filthy» — kir; ovqatning ta'miga nisbatan ishlatilmaydi.",
+   "awful": "«awful» — yomon; bu yerda ovqat juda yaxshi chiqqan.",
+   "icy": "«icy» — muzdek; ovqat ta'mini bildirmaydi."
+  }
+ },
+ {
+  "why": "«relax» — dam olmoq. Gapda «lying on the sofa and watching films» bor: imtihondan so'ng dam olishdi.",
+  "wrong": {
+   "develop": "«develop» — rivojlantirmoq; dam olish ma'nosini bermaydi.",
+   "motivate": "«motivate» — ilhomlantirmoq; divanda yotishga aloqasi yo'q.",
+   "entertain": "«entertain» — ko'ngil ochmoq; bu yerda oddiy dam olish haqida."
+  }
+ },
+ {
+  "why": "«relaxation» — orom, dam olish. Gapda «deep feeling of peace» bor: musiqa tinchlik va orom beradi.",
+  "wrong": {
+   "preparation": "«preparation» — tayyorgarlik; musiqaning tinchlantiruvchi ta'siriga mos emas.",
+   "development": "«development» — rivojlanish; bu yerda xotirjamlik haqida.",
+   "entertainment": "«entertainment» — ko'ngil ochish; bu yerda chuqur tinchlik hissi nazarda tutilgan."
+  }
+ },
+ {
+  "why": "«motivate» — ruhlantirmoq, rag'batlantirmoq. Gapda «want to work harder» bor: o'qituvchi ularni ko'proq ishlashga ilhomlantirdi.",
+  "wrong": {
+   "explore": "«explore» — tadqiq qilmoq; o'quvchilarga nisbatan ishlatilmaydi.",
+   "examine": "«examine» — tekshirmoq; motivatsiya berish ma'nosini bermaydi.",
+   "entertain": "«entertain» — ko'ngil ochmoq; bu yerda o'qishga undash haqida."
+  }
+ },
+ {
+  "why": "«icy» — muzdek, muzlagan. Gapda «completely frozen and numb» bor: oyoqlar sovuqdan muzlab qolgan.",
+  "wrong": {
+   "filthy": "«filthy» — kir; sovuq suvga ishlatilmaydi.",
+   "awful": "«awful» — yomon; bu yerda suvning harorati haqida aytilmoqda.",
+   "dark": "«dark» — qorong'i; suvning muzdek ekanini bildirmaydi."
+  }
+ },
+ {
+  "why": "«filthy» — juda kir, loy. Gapda «covered in thick mud and dirt» bor: kiyimlar loyga botgan.",
+  "wrong": {
+   "icy": "«icy» — muzdek; bog'dagi ishdan keyin kiyimga loy tegadi, muz emas.",
+   "awful": "«awful» — yomon; loyga botgan kiyimni aniq tasvirlamaydi.",
+   "dark": "«dark» — qorong'i; kiyimlarning holatiga mos emas."
+  }
+ },
+ {
+  "why": "«erupt» — otilib chiqmoq. Gapda «throw red fire and hot ash» bor: vulqon olov va kul otib chiqdi.",
+  "wrong": {
+   "develop": "«develop» — rivojlanmoq; vulqon harakatiga mos kelmaydi.",
+   "explore": "«explore» — o'rganmoq; vulqon otilishiga nisbatan ishlatilmaydi.",
+   "employ": "«employ» — ishga olmoq; tabiat hodisasiga umuman aloqasi yo'q."
+  }
+ },
+ {
+  "why": "«shore» — qirg'oq. Gapda «blue lake» bor, shuning uchun ko'lning qumli qirg'og'iga yetib keldik deyilmoqda.",
+  "wrong": {
+   "cave": "«cave» — g'or; bu yerda ko'l haqida gap ketmoqda.",
+   "cliff": "«cliff» — qoya; qumli bo'lmaydi.",
+   "desert": "«desert» — cho'l; bu yerda ko'l bor."
+  }
+ },
+ {
+  "why": "«helmet» — dubulg'a. Gapda «mountain bike» bor, velosiped haydashda boshga dubulg'a kiyiladi.",
+  "wrong": {
+   "boots": "«boots» — etik; boshga kiyilmaydi.",
+   "rucksack": "«rucksack» — ryukzak; boshga kiyilmaydi.",
+   "paddles": "«paddles» — eshkak; boshga taqilmaydi."
+  }
+ },
+ {
+  "why": "«steep» — tik. Gapda «top of the mountain» bor, alpinistlar tik tog' cho'qqisiga chiqishdi.",
+  "wrong": {
+   "shallow": "«shallow» — sayoz; tog'larga nisbatan ishlatilmaydi.",
+   "low": "«low» — past; jasur alpinistlar past tog'ga chiqib maqtanishmaydi.",
+   "narrow": "«narrow» — tor; tog' balandligiga nisbatan «steep» to'g'ri keladi."
+  }
+ },
+ {
+  "why": "«along» — bo'ylab. Gapda «the quiet river» bor, daryo bo'ylab yurildi.",
+  "wrong": {
+   "across": "«across» — ko'ndalangiga, narigi tarafga; daryo bo'ylab yurishga nisbatan «along» ishlatiladi.",
+   "inside": "«inside» — ichida; daryoning ichida yurib bo'lmaydi.",
+   "behind": "«behind» — orqasida; ma'noga mos kelmaydi."
+  }
+ },
+ {
+  "why": "«brilliant» — juda zo'r, ajoyib. Gapda «everyone loved it» bor, hamma yaxshi ko'rgan kino ajoyib bo'ladi.",
+  "wrong": {
+   "awful": "«awful» — dahshatli, yomon; hamma buni yoqtirmas edi.",
+   "filthy": "«filthy» — kir, iflos; kinoga nisbatan ishlatilmaydi.",
+   "icy": "«icy» — muzdek; tarixiy kinoga mos kelmaydi."
+  }
+ },
+ {
+  "why": "«starving» — qorni juda ochgan. Gapda «ate three plates of plov» bor, ko'p ovqat yegan odamning qorni o'ta ochgan bo'ladi.",
+  "wrong": {
+   "athletic": "«athletic» — badantarbiya bilan shug'ullanadigan; uch likopcha osh yeyishga sabab emas.",
+   "brave": "«brave» — jasur; ochlikka aloqasi yo'q.",
+   "dark": "«dark» — qorong'i; insonga nisbatan ishlatilmaydi."
+  }
+ },
+ {
+  "why": "«rucksack» — katta ryukzak. Gapda «warm clothes and heavy sleeping bags» bor, ularni ryukzakka solishadi.",
+  "wrong": {
+   "dinghy": "«dinghy» — rezina qayiq; kiyim solish uchun emas.",
+   "swimming trunks": "«swimming trunks» — cho'milish kiyimi; kiyim-kechak sig'maydi.",
+   "life jacket": "«life jacket» — qutqaruv nimchasi; bagaj solinmaydi."
+  }
+ },
+ {
+  "why": "«cave» — g'or. Gapda «dark underground» bor, bu yerda yer ostidagi qorong'i g'or nazarda tutilgan.",
+  "wrong": {
+   "hill": "«hill» — tepalik; yer ostida bo'lmaydi.",
+   "cliff": "«cliff» — qoya; yer ostida bo'lmaydi.",
+   "shore": "«shore» — qirg'oq; qorong'i bo'lmaydi."
+  }
+ },
+ {
+  "why": "«develop» — yaratmoq, ishlab chiqmoq. Gapda «new computer software» bor, dasturiy ta'minot ishlab chiqiladi.",
+  "wrong": {
+   "erupt": "«erupt» — otilib chiqmoq (vulqon); dasturga ishlatilmaydi.",
+   "rescue": "«rescue» — qutqarmoq; kompyuter dasturiga mos kelmaydi.",
+   "motivate": "«motivate» — ilhomlantirmoq; dastur yaratishga nisbatan ishlatilmaydi."
+  }
+ },
+ {
+  "why": "«boots» — etiklar. Gapda «mountain paths are very muddy» bor, loy yo'llardan yurish uchun suv o'tkazmaydigan etiklar kerak.",
+  "wrong": {
+   "paddles": "«paddles» — eshkak; yo'lda yurish uchun emas.",
+   "poles": "«poles» — tayoqlar; oyoqqa kiyilmaydi.",
+   "helmet": "«helmet» — dubulg'a; oyog'imizga kiymaymiz."
+  }
+ },
+ {
+  "why": "«delicious» — mazali. Gapda «fresh vegetables from our family garden» bor, bog'dagi sabzavotlardan mazali kechki ovqat tayyorlanadi.",
+  "wrong": {
+   "filthy": "«filthy» — iflos; ota-ona tayyorlagan ovqatga nisbatan ishlatilmaydi.",
+   "awful": "«awful» — yomon; yangi sabzavotdan yomon ovqat chiqmaydi.",
+   "icy": "«icy» — muzdek; kechki ovqatga ishlatilmaydi."
+  }
+ },
+ {
+  "why": "«awful» — juda yomon. Gapda «had to stay indoors» bor, ob-havo yomon bo'lgani uchun uyda qolishgan.",
+  "wrong": {
+   "brilliant": "«brilliant» — ajoyib; ajoyib ob-havoda uyda o'tirilmaydi.",
+   "stunning": "«stunning» — hayratlanarli, go'zal; uyda o'tirishga majbur qilmaydi.",
+   "fantastic": "«fantastic» — fantastik, yaxshi; tashqariga chiqishardi."
+  }
+ },
+ {
+  "why": "«life jacket» — qutqaruv nimchasi. Gapda «fast-flowing river» bor, tez oqadigan daryoga tushishda qutqaruv nimchasi kiyiladi.",
+  "wrong": {
+   "rucksack": "«rucksack» — ryukzak; daryoda cho'kishdan saqlamaydi.",
+   "swimming trunks": "«swimming trunks» — cho'milish ishtoni; xavfsizlikni ta'minlamaydi.",
+   "helmet": "«helmet» — dubulg'a; suvda kiyilmaydi."
+  }
+ },
+ {
+  "why": "«desert» — cho'l. Gapda «strong winds» va «camping tent» bor, cho'lda kuchli shamol bo'ladi.",
+  "wrong": {
+   "cave": "«cave» — g'or; g'orda patatka tikib bo'lmaydi.",
+   "ocean": "«ocean» — okean; suv ustiga patatka tikib bo'lmaydi.",
+   "stream": "«stream» — jilg'a; chodir qurishga kichiklik qiladi."
+  }
+ },
+ {
+  "why": "«terrifying» — qo'rqinchli. Gapda «exciting adventures in the high mountains» bor, tog'dagi sarguzashtlar ba'zan qo'rqinchli hikoya bo'ladi.",
+  "wrong": {
+   "filthy": "«filthy» — kir; hikoyaga nisbatan ishlatilmaydi.",
+   "icy": "«icy» — muzdek; hikoya uchun mos kelmaydi.",
+   "low": "«low» — past; hikoyaga nisbatan ishlatilmaydi."
+  }
+ },
+ {
+  "why": "«across» — ko'ndalangiga, narigi tarafga. Gapda «old wooden bridge» bor, ko'prik orqali narigi tarafga o'tiladi.",
+  "wrong": {
+   "along": "«along» — bo'ylab; ko'prikdan o'tishda «across» to'g'ri keladi.",
+   "inside": "«inside» — ichida; ko'prikning ichidan yurilmaydi.",
+   "behind": "«behind» — orqasida; ma'noga to'g'ri kelmaydi."
+  }
+ },
+ {
+  "why": "«fantastic» — fantastik, ajoyib. Gapda «magic kingdoms and flying horses» bor, sehrli qirolliklar haqidagi hikoyalar fantastik bo'ladi.",
+  "wrong": {
+   "awful": "«awful» — yomon, dahshatli; bolalar bunday hikoyalarni yoqtirmaydi.",
+   "filthy": "«filthy» — iflos; hikoyaga nisbatan ishlatilmaydi.",
+   "icy": "«icy» — muzdek; sehrli ertaklarga mos emas."
+  }
+ },
+ {
+  "why": "«achieve» — erishmoq. Gapda «championship trophy» bor, chempionat kubogiga erishiladi.",
+  "wrong": {
+   "attempt": "«attempt» — harakat qilib ko'rmoq; kubokni yutishga nisbatan «achieve» ishlatiladi.",
+   "employ": "«employ» — ishga olmoq; kubokka aloqasi yo'q.",
+   "explore": "«explore» — o'rganmoq, tadqiq qilmoq; kubokni yutishga ishlatilmaydi."
+  }
+ },
+ {
+  "why": "«motivate» — rag'batlantirmoq, ilhomlantirmoq. Gapda «all her students to read more books» bor, o'qituvchi o'quvchilarni ko'proq kitob o'qishga ilhomlantiradi.",
+  "wrong": {
+   "develop": "«develop» — rivojlantirmoq; kitob o'qishga undashga nisbatan «motivate» to'g'ri keladi.",
+   "erupt": "«erupt» — otilib chiqmoq; o'quvchilarga nisbatan ishlatilmaydi.",
+   "employ": "«employ» — ish bilan ta'minlamoq; o'quvchilarga mos kelmaydi."
+  }
+ },
+ {
+  "why": "«safety harness» — xavfsizlik kamari. Gapda «rock climbing» bor, qoyaga chiqishda xavfsizlik kamari taqiladi.",
+  "wrong": {
+   "life jacket": "«life jacket» — qutqaruv nimchasi; suv uchun mo'ljallangan.",
+   "swimming trunks": "«swimming trunks» — cho'milish ishtoni; qoyaga chiqishda kiyilmaydi.",
+   "rucksack": "«rucksack» — ryukzak; xavfsizlikni ta'minlamaydi."
+  }
+ },
+ {
+  "why": "«filthy» — juda kir. Gapda «muddy garden path» bor: loyli yo'ldan yurgan poyabzal butunlay kir bo'ladi.",
+  "wrong": {
+   "delicious": "«delicious» — mazali; bu yerda poyabzal haqida ketmoqda, yegulik emas.",
+   "brilliant": "«brilliant» — ajoyib yoki yorqin; poyabzalning loydan kir bo'lganiga to'g'ri kelmaydi.",
+   "stunning": "«stunning» — juda chiroyli; loy bosgan poyabzalga nisbatan ishlatilmaydi."
+  }
+ },
+ {
+  "why": "«relax» — dam olmoq. Gapda «with a good book on warm summer Sunday afternoons» bor: kitob o'qib dam olishadi.",
+  "wrong": {
+   "attempt": "«attempt» — harakat qilmoq; dam olish ma'nosini bermaydi.",
+   "explore": "«explore» — o'rganmoq yoki kezmoq; bog'da kitob o'qib o'tirishga mos kelmaydi.",
+   "achieve": "«achieve» — erishmoq; bog'da kitob bilan bajariladigan ish emas."
+  }
+ },
+ {
+  "why": "«explore» — o'rganmoq, kezib chiqmoq. Gapda «deep jungles of South America» bor: junglilarni kezishadi.",
+  "wrong": {
+   "achieve": "«achieve» — erishmoq; o'rmonni o'rganish ma'nosini bermaydi.",
+   "employ": "«employ» — ishga olmoq; sayohatchining rejasiga to'g'ri kelmaydi.",
+   "motivate": "«motivate» — rag'batlantirmoq; junglilar bilan bog'liq emas."
+  }
+ },
+ {
+  "why": "«athletic» — badantarbiya bilan shug'ullanadigan, epchil. Gapda «plays football and runs every single morning» bor: tinimsiz yuguradigan va futbol o'ynaydigan odam atletik bo'ladi.",
+  "wrong": {
+   "awful": "«awful» — yomon; sport bilan shug'ullanadigan ukaga nisbatan ishlatilmaydi.",
+   "filthy": "«filthy» — kir; sportchiga nisbatan ma'nosi to'g'ri kelmaydi.",
+   "icy": "«icy» — muzdek; inson xarakteriga yoki holatiga mos kelmaydi."
+  }
+ },
+ {
+  "why": "«along» — bo'ylab. Gapda «cave» bor: g'or ichi bo'ylab asta yurishdi.",
+  "wrong": {
+   "across": "«across» — ko'ndalangiga, narigi yuziga; g'or ichida yurishga to'g'ri kelmaydi.",
+   "behind": "«behind» — orqasida; g'or ichkarisida yurishni bildirmaydi.",
+   "beside": "«beside» — yonida; bu yerda g'or bo'ylab harakatlanish nazarda tutilgan."
+  }
+ },
+ {
+  "why": "«spectacular» — juda chiroyli, diqqatga sazovor. Gapda «breathtaking» bor: nafasni oladigan darajada go'zal manzara.",
+  "wrong": {
+   "awful": "«awful» — dahshatli, yomon; go'zal manzaraga ishlatilmaydi.",
+   "filthy": "«filthy» — kir; tog' tepasidagi manzaraga nisbatan ishlatib bo'lmaydi.",
+   "low": "«low» — past; tog' cho'qqisidagi go'zal ko'rinishga mos kelmaydi."
+  }
+ },
+ {
+  "why": "«starving» — qattiq och qolgan. Gapda «thirsty» bor: cho'lda besh soat yurgan odam chanqaydi va och qoladi.",
+  "wrong": {
+   "athletic": "«athletic» — epchil; cho'ldagi charchoq holatini bildirmaydi.",
+   "brave": "«brave» — jasur; bu yerdagi jismoniy holatga mos kelmaydi.",
+   "tall": "«tall» — baland; odamning ochlik holatiga aloqasi yo'q."
+  }
+ },
+ {
+  "why": "«helmet» — dubulg'a. Gapda «head» va «bicycle» bor: velosiped haydashda boshga dubulg'a kiyiladi.",
+  "wrong": {
+   "dinghy": "«dinghy» — kichik qayiq; buni boshga kiyib bo'lmaydi.",
+   "rucksack": "«rucksack» — ryukzak, hamyon; boshga kiyiladigan narsa emas.",
+   "paddles": "«paddles» — eshkaklar; velosiped uchun kerak emas."
+  }
+ },
+ {
+  "why": "«cliff» — qoya. Gapda «climb down» va «steep» bor: tik qoyadan arqon bilan tushishadi.",
+  "wrong": {
+   "stream": "«stream» — kichik daryo, jilg'a; undan arqon bilan tushib bo'lmaydi.",
+   "lake": "«lake» — ko'l; tik qoya vazifasini bajarmaydi.",
+   "forest": "«forest» — o'rmon; tik qoya kabi arqon bilan tushish talab qilinmaydigan joy."
+  }
+ },
+ {
+  "why": "«rucksack» — ryukzak, sayyohlik sumkasi. Gapda «warm clothes and books inside» bor: kitob va kiyimlar ryukzakka solinadi.",
+  "wrong": {
+   "helmet": "«helmet» — dubulg'a; uning ichiga kiyim va kitob solib bo'lmaydi.",
+   "dinghy": "«dinghy» — qayiq; maktab safariga kitob solib olib ketilmaydi.",
+   "life jacket": "«life jacket» — qutqaruv nimchasi; kiyim va kitoblar uchun sumka emas."
+  }
+ },
+ {
+  "why": "«across» — ko'ndalangiga, narigi tarafga. Gapda «walked across the busy street» bor: gavjum ko'chani kesib o'tdi.",
+  "wrong": {}
+ },
+ {
+  "why": "«along» — bo'ylab. Gapda «river bank» bor: daryo qirg'og'i bo'ylab yurishdi.",
+  "wrong": {}
+ },
+ {
+  "why": "«astonishing» — hayratlanarli. Gapda «left everyone in the room completely amazed» bor: hamma hayratda qoldi.",
+  "wrong": {}
+ },
+ {
+  "why": "«athletic» — sportsevar, epchil. Gapda «wins many running medals» bor: yugurishdan medallar oladigan odam atletik bo'ladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«attempt» — harakat, urinish. Gapda «made a brave attempt» bor: cho'qqiga chiqish uchun jasoratli urinish qildilar.",
+  "wrong": {}
+ },
+ {
+  "why": "«awful» — yomon, dahshatli. Gapda «heavy rain and strong cold wind» bor: bunday ob-havo juda yomon.",
+  "wrong": {}
+ },
+ {
+  "why": "«behind» — orqasida. Gapda «located just behind the large city central park» bor: maktab parkning orqasida joylashgan.",
+  "wrong": {}
+ },
+ {
+  "why": "«beside» — yonida. Gapda «sat beside her best friend on the bus» bor: do'stining yonida o'tirdi.",
+  "wrong": {}
+ },
+ {
+  "why": "«boots» — etiklar. Gapda «muddy forest» bor: loy o'rmonda yurish uchun mustahkam charm etiklar kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«brave» — jasur. Gapda «saved the little cat from the high burning tree» bor: yonayotgan daraxtdan mushukni qutqargan o't o'chiruvchi jasur bo'ladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«brilliant» — zo'r, ajoyib degani. Gapda «presentation project» so'zlari bor: yaxshi loyiha uchun zo'r fikr kerak bo'ladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«cave» — g'or degani. Gapda «underground» va «stone formations» so'zlari bor: tosh shakllari yer ostidagi g'orda bo'ladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«cliff» — jarlik, qoya degani. Gapda «edge» va «overlooking the blue sea» bor: dengizga qarab turgan baland joy bu jarlik.",
+  "wrong": {}
+ },
+ {
+  "why": "«complete» — bajarib tugatmoq degani. Gapda «homework before Friday» bor: uy vazifasini muddatidan oldin tugatish kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«completion» — tugatish degani. Gapda «The successful... of the bridge project» bor: ko'prik loyihasining muvaffaqiyatli yakunlanishi haqida gap bormoqda.",
+  "wrong": {}
+ },
+ {
+  "why": "«dark» — qorong'i degani. Gapda «turn on the bedroom light» bor: chiroqni yoqish uchun xona qorong'i bo'lishi kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«deep» — chuqur degani. Gapda «swimming pool» va «two meters» bor: basseynning chuqurligi metrda o'lchanadi.",
+  "wrong": {}
+ },
+ {
+  "why": "«delicious» — mazali degani. Gapda «cooked a... traditional plov» bor: buvimiz tayyorlagan palov mazali bo'ladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«desert» — cho'l degani. Gapda «Kyzylkum» va «sandy dunes» bor: Qizilqum qumli barxanlari bor cho'ldir.",
+  "wrong": {}
+ },
+ {
+  "why": "«develop» — rivojlantirmoq degani. Gapda «vocabulary and reading skills» bor: qiziqarli kitoblar lug'at boyligini rivojlantirishga yordam beradi.",
+  "wrong": {}
+ },
+ {
+  "why": "«development» — rivojlanish degani. Gapda «rapid economic...» bor: mamlakatning iqtisodiy rivojlanishi ish o'rinlarini yaratadi.",
+  "wrong": {}
+ },
+ {
+  "why": "«dinghy» — kichik qayiq degani. Gapda «crossed the fast mountain river» bor: daryoni kichik qayiqda kesib o'tishadi.",
+  "wrong": {}
+ },
+ {
+  "why": "«down» — pastga degani. Gapda «steep hill and landed in the bushes» bor: to'p tepalikdan pastga yumalab tushgan.",
+  "wrong": {}
+ },
+ {
+  "why": "«dream» — orzu degani. Gapda «travel around the world» bor: dunyo bo'ylab sayohat qilish bu katta orzu.",
+  "wrong": {}
+ },
+ {
+  "why": "«employ» — ishga olmoq degani. Gapda «fifty new workers» bor: zavod yangi ishchilarni ishga qabul qiladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«employment» — ish bilan ta'minlanish degani. Gapda «young university graduates» bor: bitiruvchilar uchun yaxshi ish topish muhim.",
+  "wrong": {}
+ },
+ {
+  "why": "«entertain» — ko'ngil ochmoq degani. Gapda «people walking in the park» va «great music» bor: musiqachilar parkdagi odamlarning ko'nglini ochadi.",
+  "wrong": {}
+ },
+ {
+  "why": "«entertainment» — ko'ngilochar narsa degani. Gapda «watching cartoons for fun» va «television» bor: bu yerda televizordagi ko'ngilochar ko'rsatuvlar nazarda tutilgan.",
+  "wrong": {}
+ },
+ {
+  "why": "«erupt» — otilib chiqmoq degani. Gapda «active volcano» bor: faol vulqon har qanday vaqtda otilib chiqishi mumkin.",
+  "wrong": {}
+ },
+ {
+  "why": "«eruption» — otilish degani. Gapda «The sudden volcanic...» bor: kutilmagan vulqon otilishi shaharni kul bilan qopladi.",
+  "wrong": {}
+ }
+]

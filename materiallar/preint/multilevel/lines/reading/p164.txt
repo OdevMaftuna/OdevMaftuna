@@ -1,0 +1,38 @@
+﻿71`t18`t87`tPorta
+191`t40`t350`tPART 3
+74`t16`t747`t163
+269`t23`t116`tMultilevel testining "Reading" boilimining 3-qismida berilgan matnga
+299`t21`t87`tsarlavha tanlash topshir[g'i beriladi. Testda berilgan matnda 6 ta paragraf
+327`t21`t87`tva 8 ta sarlavha berilgan bo'lib$ har bir paragrafga qaysi sarlavha torri
+354`t22`t89`tkelishini topishimiz kerak. Sarlavhalar ichidan ikkitasi hech bir paragrafga
+384`t23`t87`ttorri kelmaydi.
+413`t21`t116`tBu bollimdagi savollarni to'g'ri yechish uchun avvalo berilgan sar-
+440`t22`t89`tIavhalami o$qib chiqib, kalit sdzlarning tagiga chizib chiqamiz.
+470`t21`t116`tKeyin esa har bir paragrafni Olqib, undagi asosiy mavzuni aniqlaymiz.
+498`t23`t89`tBunda biz paragrafdagi birinchi, ikkinchi va oxirgi gaplarga ko'proq e*tibor
+527`t21`t89`tberamiz„ Chunki ko'pincha matndagi asosiy mavzu Shu gaplarda joylashtiri-
+555`t22`t89`tJadi. Lekin bu ba'zan paragrafning ogrtasidagi gaplarda ham kelishi mum-
+584`t22`t89`tkin. Shuning uchun paragrafni to'liq Oiqib chiqish tavsiya qilinadi.
+612`t21`t116`tMatndagi asosiy mazmunni aniqlashning bir samarali yo*li bu - matnda-
+641`t22`t89`tgi asosiy mazmunni beradigan kalit so'zlarning tagiga chizib chiqish+
+669`t23`t117`tKeyin o'qib chiqqan paragratga matn tanlab ko'ramiz. Ba'zan berilgan
+698`t22`t89`tmatn parchasiga ikkita sarlavha toig'ri keladigandek tuyulishi mumkin. Bu
+726`t23`t89`thclatda har ikkalasini ham eftiborimizda tutib, keyingi paragraflarni o'q[sh-
+756`t21`t89`tda davom qitdiramiz. Keyinchalik ikkita variantdan bittasi boshqa paragraf-
+785`t22`t89`tga tolg'ri kelishi aaiqlashadi va biz dastlabki paragrafga torri sarlavhani
+813`t23`t89`ttanlay olamiz.
+870`t23`t117`tList of headings:
+924`t21`t89`tA) to protect nature
+923`t21`t436`tE) Impact of global warming
+951`t21`t89`tB) To change the outlook on nature F) Eco-friendly solutions
+980`t21`t90`tC) For the lovers of quiet
+1009`t21`t89`tD) Necessary steps to take
+1059`t21`t116`tI. Paragraph
+1088`t21`t116`t3, Paragraph Ill
+1116`t23`t116`t5. Paragraph V
+980`t21`t435`tG) Building Of the future
+1008`t21`t435`tH) Combination of nice and ugly
+1058`t22`t365`t2. Paragraph II
+1086`t21`t365`t4. Paragraph IV
+1115`t22`t365`teparagraph VI
+1202`t19`t446`tDoralc.tngiE'T oniqicsh my test$_uz

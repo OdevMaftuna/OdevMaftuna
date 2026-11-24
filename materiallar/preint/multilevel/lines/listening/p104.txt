@@ -1,0 +1,35 @@
+﻿77`t24`t93`tport 4
+144`t31`t125`tExercise 42
+91`t20`t944`t105
+199`t29`t125`tYou will hear someone giving a talk. Label the places (1-5) on the map
+237`t31`t123`t(A-H). There are THREE extra options which you do not need to use
+555`t16`t340`tRiver
+292`t26`t493`tCALTON
+559`t15`t574`tIver
+482`t16`t700`tBoat
+504`t16`t701`tHouse
+717`t27`t125`t1. bus stop 2. car park 3. museum 4. mill 5. café
+796`t25`t159`tercise43
+849`t27`t127`tYou will hear someone giving a talk. Label the places (1-5) on the map
+886`t26`t125`t(A-H). There are THREE extra options which you do not need to use
+1055`t20`t145`tPottery display cabinet
+1222`t19`t237`tBook shop
+1327`t22`t233`tGallery 2
+1453`t27`t128`t1. sign-in office
+1491`t24`t128`t4. kitchen area
+1015`t16`t608`tStatue
+1119`t30`t447`tMUSEUM PLAN
+1015`t21`t804`tGallery 3
+1194`t23`t819`tPlayarea
+1234`t12`t475`tO
+1286`t11`t475`t0
+1168`t18`t608`tCentral
+1192`t21`t596`tcourtyard
+1220`t14`t623`tarea
+1278`t18`t595`tDonations
+1377`t18`t512`tEntrance
+1438`t26`t721`t3. key box
+1444`t29`t453`t2. gallery 1
+1478`t26`t453`t5. staff noticeboard
+1542`t27`t560`tDarajongizni aniqlosh uchun: mytests.uz
+1653`t9`t1022`tScanned With

@@ -1,0 +1,37 @@
+﻿59`t16`t74`tPort 2
+125`t18`t74`t7
+135`t18`t120`t8 Videogame Museum
+171`t17`t120`tHistory of famous video games
+189`t17`t120`tA place that is FUN end on any given day
+207`t17`t120`tWe can play the Of yesterday. today
+224`t14`t120`tAND tomorrow. Itis HAPPENING in
+242`t13`t120`tTexas!
+276`t15`t120`tCost for one adult: S 12
+294`t17`t120`tAges 3 and under
+353`t18`t77`t8
+368`t15`t119`tNational Museum
+387`t14`t119`tOf cs
+425`t15`t119`tAre you interested in mathematics,
+443`t17`t119`tbrainteasers puzzles interactive
+462`t15`t119`texhibits a pretty cool museum
+480`t18`t119`tWha knew maths could actually
+500`t15`t120`tbe fun?
+537`t18`t120`tCust for one adult: SIS (if purchased online)
+650`t19`t107`tExercise 17
+696`t18`t105`tRead the texts and the statements A-J. Decide which text matches
+726`t17`t107`twith the situation described in the statements.
+753`t21`t106`tEach statement can be used ONCE only. There are TWO extra
+60`t17`t744`t99
+783`t17`t105`tstatements which you do not need to use.
+816`t23`t107`tA) You would like to go to a show on the 22Nd July.
+846`t21`t107`tB) You would like to see the water gardens,
+873`t21`t107`tC) You decide to take your friend to this show - they will be given a
+905`t19`t134`tpresent.
+932`t21`t108`tD) You want to visit an Air Show.
+960`t21`t108`tE) A concert ina park.
+988`t21`t108`tF) You would like to the display of royal clothing.
+1019`t21`t108`tG) You decide to book a romantic opera.
+1046`t21`t108`tH) You would like to see a famous comedy.
+1074`t21`t108`tI) The main stars are foreign children.
+1103`t21`t108`tJ) You book to see the playfeaturirtg a flying car.
+1190`t18`t438`tDamjangizni uchun• mytestsuz

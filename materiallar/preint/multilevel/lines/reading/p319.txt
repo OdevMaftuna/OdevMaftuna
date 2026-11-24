@@ -1,0 +1,42 @@
+﻿56`t18`t114`t318
+63`t20`t588`tMultilevel M aster reading
+111`t18`t141`t6. We don't need to worry about small asteroids under 20 meters wide.
+140`t22`t141`tA) True
+141`t21`t321`tB) False
+144`t20`t525`tC) No information
+198`t21`t140`t7. A special telescope will provide a complete defense against asteroids
+225`t23`t114`thitting Earth,
+255`t20`t141`tA) True
+255`t21`t320`tB) False
+258`t21`t525`tC) No information
+312`t21`t140`t8. PHAs are the biggest concern, but they're still not an immediate
+341`t16`t113`tthreat.
+369`t21`t140`tA) True
+369`t23`t320`tB) False
+426`t21`t140`t9. Didymoon's orbit is not stable.
+371`t21`t524`tC) No information
+458`t19`t524`tC) No information
+455`t21`t140`tA) True
+521`t19`t140`tExercise 20
+456`t20`t320`tB) False
+567`t21`t140`tRead the following text for questions 1-9.
+602`t21`t138`tAlthough he died almost half a century ago, Elvis Presley, the "King of
+630`t21`t113`tRock in' Roll", is still a hero Ior millions all over the world and Graceland,
+659`t21`t111`this home in Memphis, is a major tourist attraction.
+687`t21`t140`tit's hot and sticky in the summer in Memphis, Tennessee. The sea is hun-
+716`t21`t111`tdreds Of miles away from this city on the Mississippi river, yet that doesn't
+746`t20`t111`tstop the tourists from coming. Some come just once, Others make the trip
+774`t21`t111`tregularly. These are the real fans, those for whom rock 'n' roll has only one
+803`t21`t110`tvoice, that of uthe King" himself: Elvis Presley.
+831`t21`t138`tMemphis is the city where Elvis lived for most of his professional life; and
+859`t22`t110`tthough he died in 1977, Memphis has not forgotten him. On the contrary,
+888`t21`t110`tAmerica's most famous rocker (the only one to have had his picture on a
+917`t21`t110`tset of U.S. postage stamps!) has become the city's most famous son — and
+947`t21`t110`tseems to get more and more important as the years go by.
+974`t21`t138`tBeside Highway 51, just south of the city is Graceland; this is the house
+1004`t21`t110`tWhich Elvis bought after he became a star, and which he kept till the day
+1032`t21`t110`the died, Today it belongs to his daughter Lisa Marie, but is run as an Elvis
+1059`t23`t110`tPresley museum: it is the second most visited hOuse in the I.J- S.A.s after the
+1088`t18`t110`tWhite House.
+1118`t21`t135`tThe people who work at Graceland seem to be some Of Elvis*s biggest
+1146`t21`t108`tfans. They live and breathe Elvis! In the cafe, there is day-long ElviS on the

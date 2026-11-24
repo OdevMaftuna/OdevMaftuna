@@ -1,0 +1,3884 @@
+[
+ {
+  "unit": 1,
+  "words": [
+   {
+    "en": "Beard",
+    "pos": "n",
+    "uz": "soqol"
+   },
+   {
+    "en": "black",
+    "pos": "adj",
+    "uz": "qora"
+   },
+   {
+    "en": "board games",
+    "pos": "n",
+    "uz": "stol o'yinlari"
+   },
+   {
+    "en": "bowling",
+    "pos": "n",
+    "uz": "bouling"
+   },
+   {
+    "en": "brown",
+    "pos": "adj",
+    "uz": "jigarrang"
+   },
+   {
+    "en": "canteen",
+    "pos": "n",
+    "uz": "oshxona (maktab/ishxonada)"
+   },
+   {
+    "en": "chemistry",
+    "pos": "n",
+    "uz": "kimyo"
+   },
+   {
+    "en": "chess",
+    "pos": "n",
+    "uz": "shaxmat"
+   },
+   {
+    "en": "classroom",
+    "pos": "n",
+    "uz": "sinfxona"
+   },
+   {
+    "en": "coat",
+    "pos": "n",
+    "uz": "palto / kurtka"
+   },
+   {
+    "en": "corridor",
+    "pos": "n",
+    "uz": "koridor"
+   },
+   {
+    "en": "curly",
+    "pos": "adj",
+    "uz": "jingalak"
+   },
+   {
+    "en": "dance",
+    "pos": "n",
+    "uz": "raqs"
+   },
+   {
+    "en": "dark",
+    "pos": "adj",
+    "uz": "qora / to'q rangli"
+   },
+   {
+    "en": "desk",
+    "pos": "n",
+    "uz": "parta / yozuv stoli"
+   },
+   {
+    "en": "drama",
+    "pos": "n",
+    "uz": "drama / teatr san'ati"
+   },
+   {
+    "en": "drawing",
+    "pos": "n",
+    "uz": "rasm chizish"
+   },
+   {
+    "en": "fair",
+    "pos": "adj",
+    "uz": "malla / ochiq rangli (soch)"
+   },
+   {
+    "en": "geography",
+    "pos": "n",
+    "uz": "geografiya"
+   },
+   {
+    "en": "gym",
+    "pos": "n",
+    "uz": "sport zal"
+   },
+   {
+    "en": "hair",
+    "pos": "n",
+    "uz": "soch"
+   },
+   {
+    "en": "hall",
+    "pos": "n",
+    "uz": "zal / dahliz"
+   },
+   {
+    "en": "hat",
+    "pos": "n",
+    "uz": "shapka / shlyapa"
+   },
+   {
+    "en": "homework",
+    "pos": "n",
+    "uz": "uy vazifasi"
+   },
+   {
+    "en": "ice skating",
+    "pos": "n",
+    "uz": "konki uchish"
+   },
+   {
+    "en": "interactive whiteboard",
+    "pos": "n",
+    "uz": "elektron doska"
+   },
+   {
+    "en": "IT [information technology]",
+    "pos": "n",
+    "uz": "informatika"
+   },
+   {
+    "en": "jacket",
+    "pos": "n",
+    "uz": "kurtka / pidjak"
+   },
+   {
+    "en": "jumper",
+    "pos": "n",
+    "uz": "sviter / jemper"
+   },
+   {
+    "en": "laptop",
+    "pos": "n",
+    "uz": "noutbuk"
+   },
+   {
+    "en": "leggings",
+    "pos": "n",
+    "uz": "leginsi (shim)"
+   },
+   {
+    "en": "long",
+    "pos": "adj",
+    "uz": "uzun"
+   },
+   {
+    "en": "moustache",
+    "pos": "n",
+    "uz": "mo'ylov"
+   },
+   {
+    "en": "music",
+    "pos": "n",
+    "uz": "muzika"
+   },
+   {
+    "en": "noticeboard",
+    "pos": "n",
+    "uz": "e'lonlar taxtasi"
+   },
+   {
+    "en": "PE [physical education]",
+    "pos": "n",
+    "uz": "jismoniy tarbiya"
+   },
+   {
+    "en": "picnic",
+    "pos": "n",
+    "uz": "piknik"
+   },
+   {
+    "en": "playing field",
+    "pos": "n",
+    "uz": "o'yin maydoni"
+   },
+   {
+    "en": "reception",
+    "pos": "n",
+    "uz": "qabulxona"
+   },
+   {
+    "en": "red",
+    "pos": "adj",
+    "uz": "qizil"
+   },
+   {
+    "en": "shirt",
+    "pos": "n",
+    "uz": "ko'ylak (erkaklar)"
+   },
+   {
+    "en": "short",
+    "pos": "adj",
+    "uz": "kalta / past bo'yli"
+   },
+   {
+    "en": "skateboarding",
+    "pos": "n",
+    "uz": "skeytbord uchish"
+   },
+   {
+    "en": "staff room",
+    "pos": "n",
+    "uz": "o'qituvchilar xonasi"
+   },
+   {
+    "en": "straight",
+    "pos": "adj",
+    "uz": "tekis (soch)"
+   },
+   {
+    "en": "sweatshirt",
+    "pos": "n",
+    "uz": "svitshot / qalin kofta"
+   },
+   {
+    "en": "textbook",
+    "pos": "n",
+    "uz": "darslik"
+   },
+   {
+    "en": "tie",
+    "pos": "n",
+    "uz": "galstuk"
+   },
+   {
+    "en": "trousers",
+    "pos": "n",
+    "uz": "shim"
+   },
+   {
+    "en": "video games",
+    "pos": "n",
+    "uz": "video o'yinlar"
+   },
+   {
+    "en": "walk",
+    "pos": "n",
+    "uz": "sayr / piyoda yurish"
+   },
+   {
+    "en": "wavy",
+    "pos": "adj",
+    "uz": "to'lqinli (soch)"
+   },
+   {
+    "en": "whiteboard",
+    "pos": "n",
+    "uz": "oq doska"
+   },
+   {
+    "en": "a bit",
+    "pos": "adv",
+    "uz": "biroz"
+   },
+   {
+    "en": "a little bit",
+    "pos": "adv",
+    "uz": "bir ozgina"
+   },
+   {
+    "en": "annoyed",
+    "pos": "adj",
+    "uz": "jig'ibiyron bo'lgan"
+   },
+   {
+    "en": "annoying",
+    "pos": "adj",
+    "uz": "jonga tegadigan"
+   },
+   {
+    "en": "anxious",
+    "pos": "adj",
+    "uz": "xavotirli / tashvishli"
+   },
+   {
+    "en": "ashamed",
+    "pos": "adj",
+    "uz": "uyalgan"
+   },
+   {
+    "en": "ask for",
+    "pos": "phr v",
+    "uz": "so'ramoq"
+   },
+   {
+    "en": "bleed",
+    "pos": "v",
+    "uz": "qonamoq"
+   },
+   {
+    "en": "blood",
+    "pos": "n",
+    "uz": "qon"
+   },
+   {
+    "en": "bored",
+    "pos": "adj",
+    "uz": "zerikkan"
+   },
+   {
+    "en": "boring",
+    "pos": "adj",
+    "uz": "zerikarli"
+   },
+   {
+    "en": "break (your arm)",
+    "pos": "v",
+    "uz": "(qo'lni) sindirmoq"
+   },
+   {
+    "en": "broken (arm)",
+    "pos": "adj",
+    "uz": "singan (qo'l)"
+   },
+   {
+    "en": "bruise",
+    "pos": "n, v",
+    "uz": "ko'karish (lat yeyish)"
+   },
+   {
+    "en": "burn",
+    "pos": "v",
+    "uz": "kuydirmoq / yonmoq"
+   },
+   {
+    "en": "confused",
+    "pos": "adj",
+    "uz": "chalg'igan / tushunmagan"
+   },
+   {
+    "en": "confusing",
+    "pos": "adj",
+    "uz": "chalg'ituvchi"
+   },
+   {
+    "en": "cross",
+    "pos": "adj",
+    "uz": "jahli chiqqan"
+   },
+   {
+    "en": "cut",
+    "pos": "n, v",
+    "uz": "kesish / kesmoq"
+   },
+   {
+    "en": "delighted",
+    "pos": "adj",
+    "uz": "juda xursand"
+   },
+   {
+    "en": "disappointed",
+    "pos": "adj",
+    "uz": "umidsizlangan"
+   },
+   {
+    "en": "disgusted",
+    "pos": "adj",
+    "uz": "nafratlangan / ko'ngli aynigan"
+   },
+   {
+    "en": "disgusting",
+    "pos": "adj",
+    "uz": "jirkanch"
+   },
+   {
+    "en": "embarrassed",
+    "pos": "adj",
+    "uz": "xijolat bo'lgan"
+   },
+   {
+    "en": "embarrassing",
+    "pos": "adj",
+    "uz": "uyatli / noqulay"
+   },
+   {
+    "en": "envious",
+    "pos": "adj",
+    "uz": "hasadgo'y"
+   },
+   {
+    "en": "excited",
+    "pos": "adj",
+    "uz": "hayajonlangan (xursandchilikdan)"
+   },
+   {
+    "en": "exhausted",
+    "pos": "adj",
+    "uz": "juda charchagan"
+   },
+   {
+    "en": "exhausting",
+    "pos": "adj",
+    "uz": "juda charchatadigan"
+   },
+   {
+    "en": "extremely",
+    "pos": "adv",
+    "uz": "juda ham / haddan tashqari"
+   },
+   {
+    "en": "fall (over)",
+    "pos": "v",
+    "uz": "yiqilmoq"
+   },
+   {
+    "en": "find out",
+    "pos": "phr v",
+    "uz": "bilib olmoq / aniqlamoq"
+   },
+   {
+    "en": "frightened",
+    "pos": "adj",
+    "uz": "qo'rqqan"
+   },
+   {
+    "en": "frightening",
+    "pos": "adj",
+    "uz": "qo'rqinchli"
+   },
+   {
+    "en": "get over",
+    "pos": "phr v",
+    "uz": "tuzalib ketmoq / o'ziga kelmoq"
+   },
+   {
+    "en": "hurt",
+    "pos": "v",
+    "uz": "og'rimoq / jarohatlamoq"
+   },
+   {
+    "en": "injure (yourself)",
+    "pos": "v",
+    "uz": "jarohat olmoq"
+   },
+   {
+    "en": "injury",
+    "pos": "n",
+    "uz": "jarohat"
+   },
+   {
+    "en": "interested",
+    "pos": "adj",
+    "uz": "qiziqqan"
+   },
+   {
+    "en": "interesting",
+    "pos": "adj",
+    "uz": "qiziqarli"
+   },
+   {
+    "en": "look at",
+    "pos": "phr v",
+    "uz": "qaramoq"
+   },
+   {
+    "en": "own up",
+    "pos": "phr v",
+    "uz": "aybini tan olmoq"
+   },
+   {
+    "en": "pain",
+    "pos": "n",
+    "uz": "og'riq"
+   },
+   {
+    "en": "proud",
+    "pos": "adj",
+    "uz": "mag'rur / faxrlanadigan"
+   },
+   {
+    "en": "put back",
+    "pos": "phr v",
+    "uz": "joyiga qo'ymoq"
+   },
+   {
+    "en": "rather",
+    "pos": "adv",
+    "uz": "ancha / bir muncha"
+   },
+   {
+    "en": "relieved",
+    "pos": "adj",
+    "uz": "yengil tortgan"
+   },
+   {
+    "en": "satisfied",
+    "pos": "adj",
+    "uz": "qoniqqan / mamnun"
+   },
+   {
+    "en": "satisfying",
+    "pos": "adj",
+    "uz": "qoniqarli"
+   },
+   {
+    "en": "shocked",
+    "pos": "adj",
+    "uz": "hayratda qolgan (salbiy)"
+   },
+   {
+    "en": "shocking",
+    "pos": "adj",
+    "uz": "hayratlanarli / daxshatli"
+   },
+   {
+    "en": "slip (over)",
+    "pos": "v",
+    "uz": "toyib ketmoq"
+   },
+   {
+    "en": "sprain",
+    "pos": "n, v",
+    "uz": "pay cho'zilishi"
+   },
+   {
+    "en": "surprised",
+    "pos": "adj",
+    "uz": "hayron qolgan"
+   },
+   {
+    "en": "surprising",
+    "pos": "adj",
+    "uz": "hayratlanarli"
+   },
+   {
+    "en": "suspicious",
+    "pos": "adj",
+    "uz": "shubhali"
+   },
+   {
+    "en": "talk about",
+    "pos": "phr v",
+    "uz": "haqida gaplashmoq"
+   },
+   {
+    "en": "tired",
+    "pos": "adj",
+    "uz": "charchagan"
+   },
+   {
+    "en": "tiring",
+    "pos": "adj",
+    "uz": "charchatadigan"
+   },
+   {
+    "en": "trip (over)",
+    "pos": "v",
+    "uz": "chalishib yiqilmoq"
+   },
+   {
+    "en": "upset",
+    "pos": "adj",
+    "uz": "xafa bo'lgan"
+   },
+   {
+    "en": "very",
+    "pos": "adv",
+    "uz": "juda"
+   },
+   {
+    "en": "worried",
+    "pos": "adj",
+    "uz": "xavotirlangan"
+   },
+   {
+    "en": "worrying",
+    "pos": "adj",
+    "uz": "xavotirli"
+   },
+   {
+    "en": "watch",
+    "pos": "v",
+    "uz": "tomosha qilmoq",
+    "book": true
+   },
+   {
+    "en": "match",
+    "pos": "n",
+    "uz": "o‘yin, musobaqa (sport)",
+    "book": true
+   },
+   {
+    "en": "team",
+    "pos": "n",
+    "uz": "jamoa",
+    "book": true
+   },
+   {
+    "en": "lose",
+    "pos": "v",
+    "uz": "yutqazmoq",
+    "book": true
+   },
+   {
+    "en": "exam results",
+    "pos": "n",
+    "uz": "imtihon natijalari",
+    "book": true
+   },
+   {
+    "en": "pass",
+    "pos": "v",
+    "uz": "(imtihondan) o‘tmoq",
+    "book": true
+   },
+   {
+    "en": "marks",
+    "pos": "n",
+    "uz": "baholar, ballar",
+    "book": true
+   },
+   {
+    "en": "plane",
+    "pos": "n",
+    "uz": "samolyot",
+    "book": true
+   },
+   {
+    "en": "late",
+    "pos": "adj",
+    "uz": "kech, kechikkan",
+    "book": true
+   },
+   {
+    "en": "luggage",
+    "pos": "n",
+    "uz": "yuk, bagaj",
+    "book": true
+   },
+   {
+    "en": "school work",
+    "pos": "n",
+    "uz": "maktab ishlari, darslar",
+    "book": true
+   },
+   {
+    "en": "difficult",
+    "pos": "adj",
+    "uz": "qiyin",
+    "book": true
+   }
+  ]
+ },
+ {
+  "unit": 2,
+  "words": [
+   {
+    "en": "accomplish",
+    "pos": "v",
+    "uz": "bajarmoq / erishmoq"
+   },
+   {
+    "en": "accomplishment",
+    "pos": "n",
+    "uz": "muvaffaqiyat"
+   },
+   {
+    "en": "achieve",
+    "pos": "v",
+    "uz": "erishmoq"
+   },
+   {
+    "en": "achievement",
+    "pos": "n",
+    "uz": "yutuq"
+   },
+   {
+    "en": "across",
+    "pos": "prep",
+    "uz": "orqali / kesib o'tib"
+   },
+   {
+    "en": "along",
+    "pos": "prep",
+    "uz": "bo'ylab"
+   },
+   {
+    "en": "astonishing",
+    "pos": "adj",
+    "uz": "hayratlanarli"
+   },
+   {
+    "en": "athletic",
+    "pos": "adj",
+    "uz": "sportga moyil"
+   },
+   {
+    "en": "attempt",
+    "pos": "n, v",
+    "uz": "urinish / urinmoq"
+   },
+   {
+    "en": "awful",
+    "pos": "adj",
+    "uz": "juda yomon / daxshatli"
+   },
+   {
+    "en": "behind",
+    "pos": "prep",
+    "uz": "orqasida"
+   },
+   {
+    "en": "beside",
+    "pos": "prep",
+    "uz": "yonida"
+   },
+   {
+    "en": "boots",
+    "pos": "n",
+    "uz": "etik / botinka"
+   },
+   {
+    "en": "brave",
+    "pos": "adj",
+    "uz": "jasur"
+   },
+   {
+    "en": "brilliant",
+    "pos": "adj",
+    "uz": "ajoyib"
+   },
+   {
+    "en": "cave",
+    "pos": "n",
+    "uz": "g'or"
+   },
+   {
+    "en": "cliff",
+    "pos": "n",
+    "uz": "qoyatosh"
+   },
+   {
+    "en": "complete",
+    "pos": "v",
+    "uz": "tugatmoq"
+   },
+   {
+    "en": "completion",
+    "pos": "n",
+    "uz": "yakunlash"
+   },
+   {
+    "en": "dark",
+    "pos": "adj",
+    "uz": "qorong'u"
+   },
+   {
+    "en": "deep",
+    "pos": "adj",
+    "uz": "chuqur"
+   },
+   {
+    "en": "delicious",
+    "pos": "adj",
+    "uz": "shirin / lazzatli"
+   },
+   {
+    "en": "desert",
+    "pos": "n",
+    "uz": "sahro"
+   },
+   {
+    "en": "develop",
+    "pos": "v",
+    "uz": "rivojlantirmoq"
+   },
+   {
+    "en": "development",
+    "pos": "n",
+    "uz": "rivojlanish"
+   },
+   {
+    "en": "dinghy",
+    "pos": "n",
+    "uz": "rezina qayiq"
+   },
+   {
+    "en": "down",
+    "pos": "prep",
+    "uz": "pastga"
+   },
+   {
+    "en": "dream",
+    "pos": "n, v",
+    "uz": "tush / orzu / tush ko'rmoq"
+   },
+   {
+    "en": "employ",
+    "pos": "v",
+    "uz": "ishga olmoq"
+   },
+   {
+    "en": "employment",
+    "pos": "n",
+    "uz": "bandlik / ish"
+   },
+   {
+    "en": "entertain",
+    "pos": "v",
+    "uz": "ko'ngil ochmoq"
+   },
+   {
+    "en": "entertainment",
+    "pos": "n",
+    "uz": "o'yin-kulgi"
+   },
+   {
+    "en": "erupt",
+    "pos": "v",
+    "uz": "otilmoq (vulqon)"
+   },
+   {
+    "en": "eruption",
+    "pos": "n",
+    "uz": "otilish"
+   },
+   {
+    "en": "examination",
+    "pos": "n",
+    "uz": "imtihon / tekshiruv"
+   },
+   {
+    "en": "examine",
+    "pos": "v",
+    "uz": "tekshirmoq"
+   },
+   {
+    "en": "experience",
+    "pos": "n, v",
+    "uz": "tajriba / boshdan kechirmoq"
+   },
+   {
+    "en": "exploration",
+    "pos": "n",
+    "uz": "tadqiqot"
+   },
+   {
+    "en": "explore",
+    "pos": "v",
+    "uz": "tadqiq qilmoq"
+   },
+   {
+    "en": "fantastic",
+    "pos": "adj",
+    "uz": "fantastik / ajoyib"
+   },
+   {
+    "en": "filthy",
+    "pos": "adj",
+    "uz": "juda iflos"
+   },
+   {
+    "en": "forest",
+    "pos": "n",
+    "uz": "o'rmon"
+   },
+   {
+    "en": "helmet",
+    "pos": "n",
+    "uz": "kaska / shlem"
+   },
+   {
+    "en": "hill",
+    "pos": "n",
+    "uz": "tepalik"
+   },
+   {
+    "en": "huge",
+    "pos": "adj",
+    "uz": "ulkan"
+   },
+   {
+    "en": "icy",
+    "pos": "adj",
+    "uz": "muzli"
+   },
+   {
+    "en": "imagination",
+    "pos": "n",
+    "uz": "tasavvur"
+   },
+   {
+    "en": "imagine",
+    "pos": "v",
+    "uz": "tasavvur qilmoq"
+   },
+   {
+    "en": "impressive",
+    "pos": "adj",
+    "uz": "taassurot qoldiradigan"
+   },
+   {
+    "en": "inside",
+    "pos": "prep",
+    "uz": "ichkarida"
+   },
+   {
+    "en": "lake",
+    "pos": "n",
+    "uz": "ko'l"
+   },
+   {
+    "en": "life jacket",
+    "pos": "n",
+    "uz": "qutqaruv nimchasi"
+   },
+   {
+    "en": "low",
+    "pos": "adj",
+    "uz": "past"
+   },
+   {
+    "en": "motivate",
+    "pos": "v",
+    "uz": "ruhlantirmoq"
+   },
+   {
+    "en": "motivation",
+    "pos": "n",
+    "uz": "motivatsiya"
+   },
+   {
+    "en": "mountain",
+    "pos": "n",
+    "uz": "tog'"
+   },
+   {
+    "en": "narrow",
+    "pos": "adj",
+    "uz": "tor"
+   },
+   {
+    "en": "near",
+    "pos": "prep",
+    "uz": "yaqinida"
+   },
+   {
+    "en": "need",
+    "pos": "n, v",
+    "uz": "ehtiyoj / muhtoj bo'lmoq"
+   },
+   {
+    "en": "ocean",
+    "pos": "n",
+    "uz": "okean"
+   },
+   {
+    "en": "paddles",
+    "pos": "n",
+    "uz": "eshkaklar"
+   },
+   {
+    "en": "poles",
+    "pos": "n",
+    "uz": "ustunlar / tayoqlar (chang'i uchun)"
+   },
+   {
+    "en": "preparation",
+    "pos": "n",
+    "uz": "tayyorgarlik"
+   },
+   {
+    "en": "prepare",
+    "pos": "v",
+    "uz": "tayyorlamoq"
+   },
+   {
+    "en": "relax",
+    "pos": "v",
+    "uz": "dam olmoq"
+   },
+   {
+    "en": "relaxation",
+    "pos": "n",
+    "uz": "dam olish"
+   },
+   {
+    "en": "remote",
+    "pos": "adj",
+    "uz": "olis / chekka"
+   },
+   {
+    "en": "rescue",
+    "pos": "n, v",
+    "uz": "qutqarish / qutqarmoq"
+   },
+   {
+    "en": "risk",
+    "pos": "n, v",
+    "uz": "xavf / tavakkal qilmoq"
+   },
+   {
+    "en": "risky",
+    "pos": "adj",
+    "uz": "xavfli"
+   },
+   {
+    "en": "river",
+    "pos": "n",
+    "uz": "daryo"
+   },
+   {
+    "en": "rocks",
+    "pos": "n",
+    "uz": "qoyalar / toshlar"
+   },
+   {
+    "en": "rocky",
+    "pos": "adj",
+    "uz": "toshloq"
+   },
+   {
+    "en": "rope",
+    "pos": "n",
+    "uz": "arqon"
+   },
+   {
+    "en": "rucksack",
+    "pos": "n",
+    "uz": "ryukzak"
+   },
+   {
+    "en": "safety harness",
+    "pos": "n",
+    "uz": "xavfsizlik kamari (alpinizm uchun)"
+   },
+   {
+    "en": "shallow",
+    "pos": "adj",
+    "uz": "sayoz"
+   },
+   {
+    "en": "shore",
+    "pos": "n",
+    "uz": "qirg'oq"
+   },
+   {
+    "en": "spectacular",
+    "pos": "adj",
+    "uz": "hayratlanarli darajada go'zal"
+   },
+   {
+    "en": "starving",
+    "pos": "adj",
+    "uz": "juda och qolgan"
+   },
+   {
+    "en": "steep",
+    "pos": "adj",
+    "uz": "tik (qiyalik)"
+   },
+   {
+    "en": "stream",
+    "pos": "n",
+    "uz": "soy / jilg'a"
+   },
+   {
+    "en": "strong",
+    "pos": "adj",
+    "uz": "kuchli"
+   },
+   {
+    "en": "stunning",
+    "pos": "adj",
+    "uz": "hayratda qoldiradigan go'zal"
+   },
+   {
+    "en": "swimming trunks",
+    "pos": "n",
+    "uz": "suzish kiyimi (erkaklar uchun)"
+   },
+   {
+    "en": "tall",
+    "pos": "adj",
+    "uz": "baland (bo'y)"
+   },
+   {
+    "en": "terrifying",
+    "pos": "adj",
+    "uz": "juda qo'rqinchli"
+   },
+   {
+    "en": "thrilling",
+    "pos": "adj",
+    "uz": "hayajonli"
+   },
+   {
+    "en": "valley",
+    "pos": "n",
+    "uz": "vodiy",
+    "book": true
+   },
+   {
+    "en": "volcano",
+    "pos": "n",
+    "uz": "vulqon",
+    "book": true
+   },
+   {
+    "en": "waterfall",
+    "pos": "n",
+    "uz": "sharshara",
+    "book": true
+   },
+   {
+    "en": "wide",
+    "pos": "adj",
+    "uz": "keng",
+    "book": true
+   }
+  ]
+ },
+ {
+  "unit": 3,
+  "words": [
+   {
+    "en": "acceptable",
+    "pos": "adj",
+    "uz": "maqbul"
+   },
+   {
+    "en": "acting",
+    "pos": "n",
+    "uz": "aktyorlik o'yini"
+   },
+   {
+    "en": "action film",
+    "pos": "n",
+    "uz": "jangari film"
+   },
+   {
+    "en": "animation",
+    "pos": "n",
+    "uz": "animatsiya"
+   },
+   {
+    "en": "appropriate",
+    "pos": "adj",
+    "uz": "mos / muvofiq"
+   },
+   {
+    "en": "assume",
+    "pos": "v",
+    "uz": "taxmin qilmoq"
+   },
+   {
+    "en": "certain",
+    "pos": "adj",
+    "uz": "aniq / ishonchi komil"
+   },
+   {
+    "en": "characters",
+    "pos": "n",
+    "uz": "qahramonlar"
+   },
+   {
+    "en": "chat show",
+    "pos": "n",
+    "uz": "tok-shou"
+   },
+   {
+    "en": "comedy",
+    "pos": "n",
+    "uz": "komediya"
+   },
+   {
+    "en": "convincing",
+    "pos": "adj",
+    "uz": "ishontirarli"
+   },
+   {
+    "en": "co-operate",
+    "pos": "v",
+    "uz": "hamkorlik qilmoq"
+   },
+   {
+    "en": "deny",
+    "pos": "v",
+    "uz": "inkor etmoq"
+   },
+   {
+    "en": "dependent",
+    "pos": "adj",
+    "uz": "qaram / bog'liq"
+   },
+   {
+    "en": "dishonest",
+    "pos": "adj",
+    "uz": "vijdonsiz / naxshiratsiz"
+   },
+   {
+    "en": "documentary",
+    "pos": "n",
+    "uz": "hujjatli film"
+   },
+   {
+    "en": "emphasise",
+    "pos": "v",
+    "uz": "urg'u bermoq"
+   },
+   {
+    "en": "ending",
+    "pos": "n",
+    "uz": "yakun (filmda)"
+   },
+   {
+    "en": "fair",
+    "pos": "adj",
+    "uz": "adolatli"
+   },
+   {
+    "en": "fantasy film",
+    "pos": "n",
+    "uz": "fantaziya film"
+   },
+   {
+    "en": "funny",
+    "pos": "adj",
+    "uz": "kulgili"
+   },
+   {
+    "en": "game show",
+    "pos": "n",
+    "uz": "o'yin shousi"
+   },
+   {
+    "en": "go for sth",
+    "pos": "phr v",
+    "uz": "tanlamoq / harakat qilmoq"
+   },
+   {
+    "en": "gripping",
+    "pos": "adj",
+    "uz": "o'ziga tortadigan"
+   },
+   {
+    "en": "honest",
+    "pos": "adj",
+    "uz": "halol"
+   },
+   {
+    "en": "horror film",
+    "pos": "n",
+    "uz": "qo'rqinchli film"
+   },
+   {
+    "en": "illegal",
+    "pos": "adj",
+    "uz": "noqonuniy"
+   },
+   {
+    "en": "imaginative",
+    "pos": "adj",
+    "uz": "boy tasavvurga ega"
+   },
+   {
+    "en": "impatient",
+    "pos": "adj",
+    "uz": "sabrsiz"
+   },
+   {
+    "en": "improve",
+    "pos": "v",
+    "uz": "yaxshilamoq"
+   },
+   {
+    "en": "inappropriate",
+    "pos": "adj",
+    "uz": "nomunosib"
+   },
+   {
+    "en": "increase",
+    "pos": "v",
+    "uz": "ko'paymoq / oshmoq"
+   },
+   {
+    "en": "independent",
+    "pos": "adj",
+    "uz": "mustaqil"
+   },
+   {
+    "en": "invisible",
+    "pos": "adj",
+    "uz": "ko'rinmas"
+   },
+   {
+    "en": "irresponsible",
+    "pos": "adj",
+    "uz": "mas'uliyatsiz"
+   },
+   {
+    "en": "keen on something",
+    "pos": "adj",
+    "uz": "biror narsaga qiziqqan"
+   },
+   {
+    "en": "lead",
+    "pos": "v",
+    "uz": "yetaklamoq / boshlamoq"
+   },
+   {
+    "en": "legal",
+    "pos": "adj",
+    "uz": "qonuniy"
+   },
+   {
+    "en": "likely",
+    "pos": "adj",
+    "uz": "ehtimol / kutilayotgan"
+   },
+   {
+    "en": "moving",
+    "pos": "adj",
+    "uz": "ta'sirli (ko'ngilni bo'shatadigan)"
+   },
+   {
+    "en": "musical",
+    "pos": "n",
+    "uz": "myuzikl"
+   },
+   {
+    "en": "news bulletin",
+    "pos": "n",
+    "uz": "yangiliklar xabari"
+   },
+   {
+    "en": "participate",
+    "pos": "v",
+    "uz": "qatnashmoq"
+   },
+   {
+    "en": "patient",
+    "pos": "adj",
+    "uz": "sabrli"
+   },
+   {
+    "en": "period drama",
+    "pos": "n",
+    "uz": "tarixiy drama"
+   },
+   {
+    "en": "plot",
+    "pos": "n",
+    "uz": "syujet"
+   },
+   {
+    "en": "prevent",
+    "pos": "v",
+    "uz": "oldini olmoq"
+   },
+   {
+    "en": "provide",
+    "pos": "v",
+    "uz": "ta'minlamoq"
+   },
+   {
+    "en": "reality show",
+    "pos": "n",
+    "uz": "realiti-shou"
+   },
+   {
+    "en": "responsible",
+    "pos": "adj",
+    "uz": "mas'uliyatli"
+   },
+   {
+    "en": "reveal",
+    "pos": "v",
+    "uz": "fosh qilmoq / ko'rsatmoq"
+   },
+   {
+    "en": "romantic comedy",
+    "pos": "n",
+    "uz": "romantik komediya"
+   },
+   {
+    "en": "scary",
+    "pos": "adj",
+    "uz": "qo'rqinchli"
+   },
+   {
+    "en": "scenes",
+    "pos": "n",
+    "uz": "sahnalar"
+   },
+   {
+    "en": "science fiction film",
+    "pos": "n",
+    "uz": "ilmiy-fantastik film"
+   },
+   {
+    "en": "script",
+    "pos": "n",
+    "uz": "ssenariy"
+   },
+   {
+    "en": "sitcom",
+    "pos": "n",
+    "uz": "komedik serial"
+   },
+   {
+    "en": "soap",
+    "pos": "n",
+    "uz": "\"sovunli\" opera (serial)"
+   },
+   {
+    "en": "soundtrack",
+    "pos": "n",
+    "uz": "saundtrek"
+   },
+   {
+    "en": "special effects",
+    "pos": "n",
+    "uz": "maxsus effektlar"
+   },
+   {
+    "en": "talent show",
+    "pos": "n",
+    "uz": "iqtidorlar shousi"
+   },
+   {
+    "en": "thriller",
+    "pos": "n",
+    "uz": "triller"
+   },
+   {
+    "en": "unacceptable",
+    "pos": "adj",
+    "uz": "qabul qilib bo'lmaydigan"
+   },
+   {
+    "en": "uncertain",
+    "pos": "adj",
+    "uz": "noaniq"
+   },
+   {
+    "en": "unfair",
+    "pos": "adj",
+    "uz": "adolatsiz"
+   },
+   {
+    "en": "unlikely",
+    "pos": "adj",
+    "uz": "dargumon"
+   },
+   {
+    "en": "unrealistic",
+    "pos": "adj",
+    "uz": "g'ayritabiiy / haqiqatga to'g'ri kelmaydigan"
+   },
+   {
+    "en": "unsurprising",
+    "pos": "adj",
+    "uz": "hayratlanarli emas"
+   },
+   {
+    "en": "violent",
+    "pos": "adj",
+    "uz": "zo'ravonlikka boy"
+   },
+   {
+    "en": "visible",
+    "pos": "adj",
+    "uz": "ko'rinadigan"
+   },
+   {
+    "en": "war film",
+    "pos": "n",
+    "uz": "urush haqidagi film"
+   },
+   {
+    "en": "weather forecast",
+    "pos": "n",
+    "uz": "ob-havo ma'lumoti"
+   },
+   {
+    "en": "western",
+    "pos": "n",
+    "uz": "vestern (kovboylar haqida)"
+   },
+   {
+    "en": "soap opera",
+    "pos": "n",
+    "uz": "uzun teleserial",
+    "book": true
+   },
+   {
+    "en": "boring",
+    "pos": "adj",
+    "uz": "zerikarli",
+    "book": true
+   },
+   {
+    "en": "confusing",
+    "pos": "adj",
+    "uz": "chalkash, tushunarsiz",
+    "book": true
+   },
+   {
+    "en": "embarrassing",
+    "pos": "adj",
+    "uz": "uyaltiradigan",
+    "book": true
+   },
+   {
+    "en": "exciting",
+    "pos": "adj",
+    "uz": "hayajonli",
+    "book": true
+   },
+   {
+    "en": "interesting",
+    "pos": "adj",
+    "uz": "qiziqarli",
+    "book": true
+   },
+   {
+    "en": "spectacular",
+    "pos": "adj",
+    "uz": "ajoyib, hayratlanarli",
+    "book": true
+   }
+  ]
+ },
+ {
+  "unit": 4,
+  "words": [
+   {
+    "en": "approach",
+    "pos": "v",
+    "uz": "yaqinlashmoq"
+   },
+   {
+    "en": "avalanche",
+    "pos": "n",
+    "uz": "qor ko'chkisi"
+   },
+   {
+    "en": "billboard",
+    "pos": "n",
+    "uz": "reklama taxtasi"
+   },
+   {
+    "en": "blow",
+    "pos": "v",
+    "uz": "esmoq (shamol)"
+   },
+   {
+    "en": "bus stop",
+    "pos": "n",
+    "uz": "avtobus bekati"
+   },
+   {
+    "en": "climate change",
+    "pos": "n",
+    "uz": "iqlim o'zgarishi"
+   },
+   {
+    "en": "close down",
+    "pos": "phr v",
+    "uz": "yopilmoq (butunlay)"
+   },
+   {
+    "en": "clouds",
+    "pos": "n",
+    "uz": "bulutlar"
+   },
+   {
+    "en": "cloudy",
+    "pos": "adj",
+    "uz": "bulutli"
+   },
+   {
+    "en": "come up with",
+    "pos": "phr v",
+    "uz": "(fikr) o'ylab topmoq"
+   },
+   {
+    "en": "cut down",
+    "pos": "phr v",
+    "uz": "kesmoq (daraxtni)"
+   },
+   {
+    "en": "die out",
+    "pos": "phr v",
+    "uz": "yo'q bo'lib ketmoq (tur)"
+   },
+   {
+    "en": "drought",
+    "pos": "n",
+    "uz": "qurg'oqchilik"
+   },
+   {
+    "en": "earthquake",
+    "pos": "n",
+    "uz": "zilzila"
+   },
+   {
+    "en": "epidemic",
+    "pos": "n",
+    "uz": "epidemiya"
+   },
+   {
+    "en": "famine",
+    "pos": "n",
+    "uz": "ocharchilik"
+   },
+   {
+    "en": "fire hydrant",
+    "pos": "n",
+    "uz": "o't o'chirish krani"
+   },
+   {
+    "en": "flood",
+    "pos": "n",
+    "uz": "suv toshqini"
+   },
+   {
+    "en": "foggy",
+    "pos": "adj",
+    "uz": "tumanli"
+   },
+   {
+    "en": "forest fire",
+    "pos": "n",
+    "uz": "o'rmon yong'ini"
+   },
+   {
+    "en": "fossil fuels",
+    "pos": "n",
+    "uz": "qazilma yoqilg'ilar"
+   },
+   {
+    "en": "frost",
+    "pos": "n",
+    "uz": "qirov / ayoz"
+   },
+   {
+    "en": "frostbite",
+    "pos": "n",
+    "uz": "sovuq urishi"
+   },
+   {
+    "en": "frosty",
+    "pos": "adj",
+    "uz": "sovuq / qirovli"
+   },
+   {
+    "en": "give off",
+    "pos": "phr v",
+    "uz": "taratmoq (hid/gaz)"
+   },
+   {
+    "en": "give up",
+    "pos": "phr v",
+    "uz": "voz kechmoq / tashlamoq"
+   },
+   {
+    "en": "global warming",
+    "pos": "n",
+    "uz": "global isish"
+   },
+   {
+    "en": "go up",
+    "pos": "phr v",
+    "uz": "ko'tarilmoq"
+   },
+   {
+    "en": "greenhouse gases",
+    "pos": "n",
+    "uz": "parnik gazlari"
+   },
+   {
+    "en": "hail",
+    "pos": "n, v",
+    "uz": "do'l / do'l yog'ishi"
+   },
+   {
+    "en": "hail storm",
+    "pos": "n",
+    "uz": "do'l bo'roni"
+   },
+   {
+    "en": "head",
+    "pos": "v",
+    "uz": "yo'nalmoq"
+   },
+   {
+    "en": "heat up",
+    "pos": "phr v",
+    "uz": "isitmoq"
+   },
+   {
+    "en": "ice",
+    "pos": "n",
+    "uz": "muz"
+   },
+   {
+    "en": "ice caps",
+    "pos": "n",
+    "uz": "muzlik qatlamlari"
+   },
+   {
+    "en": "lamp post",
+    "pos": "n",
+    "uz": "ko'cha chirog'i ustuni"
+   },
+   {
+    "en": "land",
+    "pos": "v",
+    "uz": "qo'nmoq (samolyot)"
+   },
+   {
+    "en": "lightning",
+    "pos": "n",
+    "uz": "yashin / chaqmoq"
+   },
+   {
+    "en": "live with",
+    "pos": "phr v",
+    "uz": "birga yashamoq / ko'nikmoq"
+   },
+   {
+    "en": "look after",
+    "pos": "phr v",
+    "uz": "g'amxo'rlik qilmoq"
+   },
+   {
+    "en": "mist",
+    "pos": "n",
+    "uz": "yengil tuman"
+   },
+   {
+    "en": "misty",
+    "pos": "adj",
+    "uz": "xira tumanli"
+   },
+   {
+    "en": "mudslide",
+    "pos": "n",
+    "uz": "loy ko'chkisi"
+   },
+   {
+    "en": "pavement",
+    "pos": "n",
+    "uz": "piyodalar yo'lagi"
+   },
+   {
+    "en": "pedestrian crossing",
+    "pos": "n",
+    "uz": "piyodalar o'tish joyi"
+   },
+   {
+    "en": "put something off",
+    "pos": "phr v",
+    "uz": "keyinga qoldirmoq"
+   },
+   {
+    "en": "rain",
+    "pos": "n, v",
+    "uz": "yomg'ir / yog'moq"
+   },
+   {
+    "en": "rain shower",
+    "pos": "n",
+    "uz": "qisqa muddatli yomg'ir"
+   },
+   {
+    "en": "raindrop",
+    "pos": "n",
+    "uz": "yomg'ir tomchisi"
+   },
+   {
+    "en": "rainforests",
+    "pos": "n",
+    "uz": "tropik o'rmonlar"
+   },
+   {
+    "en": "rainy",
+    "pos": "adj",
+    "uz": "yomg'irli"
+   },
+   {
+    "en": "reach",
+    "pos": "v",
+    "uz": "yetib bormoq"
+   },
+   {
+    "en": "rely on",
+    "pos": "phr v",
+    "uz": "tayanmoq / ishonmoq"
+   },
+   {
+    "en": "renewable energy",
+    "pos": "n",
+    "uz": "qayta tiklanadigan energiya"
+   },
+   {
+    "en": "road sign",
+    "pos": "n",
+    "uz": "yo'l belgisi"
+   },
+   {
+    "en": "road works",
+    "pos": "n",
+    "uz": "yo'l ta'mirlash ishlari"
+   },
+   {
+    "en": "run out",
+    "pos": "phr v",
+    "uz": "tugab qolmoq"
+   },
+   {
+    "en": "sea levels",
+    "pos": "n",
+    "uz": "dengiz sathlari"
+   },
+   {
+    "en": "shine",
+    "pos": "v",
+    "uz": "porlamoq"
+   },
+   {
+    "en": "shop sign",
+    "pos": "n",
+    "uz": "do'kon peshlavhasi"
+   },
+   {
+    "en": "shower",
+    "pos": "n",
+    "uz": "dush / qisqa yomg'ir"
+   },
+   {
+    "en": "showery",
+    "pos": "adj",
+    "uz": "yomg'ir yog'ib turadigan"
+   },
+   {
+    "en": "snow",
+    "pos": "n, v",
+    "uz": "qor / qor yog'ishi"
+   },
+   {
+    "en": "snowflake",
+    "pos": "n",
+    "uz": "qor parchasi"
+   },
+   {
+    "en": "snowy",
+    "pos": "adj",
+    "uz": "qorli"
+   },
+   {
+    "en": "spin",
+    "pos": "v",
+    "uz": "aylanmoq"
+   },
+   {
+    "en": "storm",
+    "pos": "n",
+    "uz": "bo'ron"
+   },
+   {
+    "en": "stormy",
+    "pos": "adj",
+    "uz": "bo'ronli"
+   },
+   {
+    "en": "street corner",
+    "pos": "n",
+    "uz": "ko'cha burchagi"
+   },
+   {
+    "en": "sunny",
+    "pos": "adj",
+    "uz": "quyoshli"
+   },
+   {
+    "en": "sunshine",
+    "pos": "n",
+    "uz": "quyosh nuri"
+   },
+   {
+    "en": "surface temperature",
+    "pos": "n",
+    "uz": "sirt harorati"
+   },
+   {
+    "en": "take off",
+    "pos": "phr v",
+    "uz": "uchib ketmoq (samolyot)"
+   },
+   {
+    "en": "thunder",
+    "pos": "n, v",
+    "uz": "momaqaldiroq"
+   },
+   {
+    "en": "thunderstorm",
+    "pos": "n",
+    "uz": "momaqaldiroqli bo'ron"
+   },
+   {
+    "en": "thundery",
+    "pos": "adj",
+    "uz": "momaqaldiroqli"
+   },
+   {
+    "en": "traffic light",
+    "pos": "n",
+    "uz": "svetofor"
+   },
+   {
+    "en": "tsunami",
+    "pos": "n",
+    "uz": "sunami"
+   },
+   {
+    "en": "use up",
+    "pos": "phr v",
+    "uz": "ishlatib tugatmoq"
+   },
+   {
+    "en": "volcanic eruption",
+    "pos": "n",
+    "uz": "vulqon otilishi"
+   },
+   {
+    "en": "wake up",
+    "pos": "phr v",
+    "uz": "uyg'onmoq"
+   },
+   {
+    "en": "windy",
+    "pos": "adj",
+    "uz": "shamolli"
+   },
+   {
+    "en": "storm clouds",
+    "pos": "n",
+    "uz": "bo‘ron bulutlari",
+    "book": true
+   },
+   {
+    "en": "wind",
+    "pos": "n",
+    "uz": "shamol",
+    "book": true
+   },
+   {
+    "en": "sun",
+    "pos": "n",
+    "uz": "quyosh",
+    "book": true
+   },
+   {
+    "en": "rainbow",
+    "pos": "n",
+    "uz": "kamalak",
+    "book": true
+   }
+  ]
+ },
+ {
+  "unit": 5,
+  "words": [
+   {
+    "en": "architect",
+    "pos": "n",
+    "uz": "arxitektor"
+   },
+   {
+    "en": "badly-paid",
+    "pos": "adj",
+    "uz": "kam maosh to'lanadigan"
+   },
+   {
+    "en": "builder",
+    "pos": "n",
+    "uz": "quruvchi"
+   },
+   {
+    "en": "challenging",
+    "pos": "adj",
+    "uz": "qiyin lekin qiziqarli"
+   },
+   {
+    "en": "cleaner",
+    "pos": "n",
+    "uz": "farrosh"
+   },
+   {
+    "en": "creative",
+    "pos": "adj",
+    "uz": "ijodkor"
+   },
+   {
+    "en": "dentist",
+    "pos": "n",
+    "uz": "tish shifokori"
+   },
+   {
+    "en": "engineer",
+    "pos": "n",
+    "uz": "muhandis"
+   },
+   {
+    "en": "enthusiastic",
+    "pos": "adj",
+    "uz": "g'ayratli / ishtiyoqli"
+   },
+   {
+    "en": "estate agent",
+    "pos": "n",
+    "uz": "ko'chmas mulk agenti"
+   },
+   {
+    "en": "farm worker",
+    "pos": "n",
+    "uz": "ferma ishchisi"
+   },
+   {
+    "en": "flexible",
+    "pos": "adj",
+    "uz": "moslanuvchan (ish grafigi)"
+   },
+   {
+    "en": "friendly",
+    "pos": "adj",
+    "uz": "do'stona"
+   },
+   {
+    "en": "gardener",
+    "pos": "n",
+    "uz": "bog'bon"
+   },
+   {
+    "en": "good at communicating",
+    "pos": "adj",
+    "uz": "muloqotga usta"
+   },
+   {
+    "en": "groundskeeper",
+    "pos": "n",
+    "uz": "maydon nazoratchisi"
+   },
+   {
+    "en": "hairdresser",
+    "pos": "n",
+    "uz": "sartarosh"
+   },
+   {
+    "en": "hard-working",
+    "pos": "adj",
+    "uz": "mehnatsevar"
+   },
+   {
+    "en": "journalist",
+    "pos": "n",
+    "uz": "jurnalist"
+   },
+   {
+    "en": "locksmith",
+    "pos": "n",
+    "uz": "chilangar (qulfsoz)"
+   },
+   {
+    "en": "paramedic",
+    "pos": "n",
+    "uz": "tez yordam xodimi"
+   },
+   {
+    "en": "photographer",
+    "pos": "n",
+    "uz": "fotograf"
+   },
+   {
+    "en": "physically fit",
+    "pos": "adj",
+    "uz": "jismonan baquvvat"
+   },
+   {
+    "en": "pilot",
+    "pos": "n",
+    "uz": "uchuvchi"
+   },
+   {
+    "en": "pizza delivery man/woman",
+    "pos": "n",
+    "uz": "pitsa yetkazib beruvchi"
+   },
+   {
+    "en": "police officer",
+    "pos": "n",
+    "uz": "politsiya xodimi"
+   },
+   {
+    "en": "programmer",
+    "pos": "n",
+    "uz": "dasturchi"
+   },
+   {
+    "en": "receptionist",
+    "pos": "n",
+    "uz": "qabulxona xodimi"
+   },
+   {
+    "en": "reliable",
+    "pos": "adj",
+    "uz": "ishonchli"
+   },
+   {
+    "en": "repetitive",
+    "pos": "adj",
+    "uz": "bir xil / takrorlanuvchi"
+   },
+   {
+    "en": "rewarding",
+    "pos": "adj",
+    "uz": "qoniqish beradigan"
+   },
+   {
+    "en": "sales assistant",
+    "pos": "n",
+    "uz": "sotuvchi yordamchisi"
+   },
+   {
+    "en": "solicitor",
+    "pos": "n",
+    "uz": "huquqshunos / advokat"
+   },
+   {
+    "en": "sports coach",
+    "pos": "n",
+    "uz": "sport murabbiyi"
+   },
+   {
+    "en": "stressful",
+    "pos": "adj",
+    "uz": "stressli / asabiy"
+   },
+   {
+    "en": "stunt performer",
+    "pos": "n",
+    "uz": "kaskadyor"
+   },
+   {
+    "en": "surfing instructor",
+    "pos": "n",
+    "uz": "syorfing o'rgatuvchisi"
+   },
+   {
+    "en": "travel agent",
+    "pos": "n",
+    "uz": "sayohat agenti"
+   },
+   {
+    "en": "varied",
+    "pos": "adj",
+    "uz": "rang-barang"
+   },
+   {
+    "en": "video game developer",
+    "pos": "n",
+    "uz": "video o'yin yaratuvchisi"
+   },
+   {
+    "en": "waiter",
+    "pos": "n",
+    "uz": "ofitsiant"
+   },
+   {
+    "en": "well-paid",
+    "pos": "adj",
+    "uz": "yaxshi maosh to'lanadigan"
+   },
+   {
+    "en": "tiring",
+    "pos": "adj",
+    "uz": "charchatadigan",
+    "book": true
+   }
+  ]
+ },
+ {
+  "unit": 6,
+  "words": [
+   {
+    "en": "abseilling",
+    "pos": "n",
+    "uz": "arqon bilan pastga tushish"
+   },
+   {
+    "en": "aquarium",
+    "pos": "n",
+    "uz": "akvarium"
+   },
+   {
+    "en": "art gallery",
+    "pos": "n",
+    "uz": "san'at galereyasi"
+   },
+   {
+    "en": "atmospheric",
+    "pos": "adj",
+    "uz": "ajoyib muhitli"
+   },
+   {
+    "en": "backpack",
+    "pos": "n",
+    "uz": "ryukzak"
+   },
+   {
+    "en": "bag drop",
+    "pos": "n",
+    "uz": "yuk topshirish joyi"
+   },
+   {
+    "en": "baggage carousel",
+    "pos": "n",
+    "uz": "yuk lentalari (aeroportda)"
+   },
+   {
+    "en": "beautiful",
+    "pos": "adj",
+    "uz": "chiroyli"
+   },
+   {
+    "en": "boarding pass",
+    "pos": "n",
+    "uz": "samolyotga chiqish varaqasi"
+   },
+   {
+    "en": "boat trip",
+    "pos": "n",
+    "uz": "kemada sayohat"
+   },
+   {
+    "en": "botanical gardens",
+    "pos": "n",
+    "uz": "botanika bog'i"
+   },
+   {
+    "en": "busy",
+    "pos": "adj",
+    "uz": "band / gavjum"
+   },
+   {
+    "en": "cabin crew",
+    "pos": "n",
+    "uz": "bort kuzatuvchilari"
+   },
+   {
+    "en": "campsite",
+    "pos": "n",
+    "uz": "lager joyi"
+   },
+   {
+    "en": "carnival",
+    "pos": "n",
+    "uz": "karnaval"
+   },
+   {
+    "en": "castle",
+    "pos": "n",
+    "uz": "qasr"
+   },
+   {
+    "en": "cathedral",
+    "pos": "n",
+    "uz": "ibodatxona (katta)"
+   },
+   {
+    "en": "cheap",
+    "pos": "adj",
+    "uz": "arzon"
+   },
+   {
+    "en": "check-in desk",
+    "pos": "n",
+    "uz": "ro'yxatdan o'tish joyi"
+   },
+   {
+    "en": "concert",
+    "pos": "n",
+    "uz": "konsert"
+   },
+   {
+    "en": "crowded",
+    "pos": "adj",
+    "uz": "gavjum"
+   },
+   {
+    "en": "departure lounge",
+    "pos": "n",
+    "uz": "jo'nash zali"
+   },
+   {
+    "en": "disappointing",
+    "pos": "adj",
+    "uz": "ko'ngilni qoldiradigan"
+   },
+   {
+    "en": "double room",
+    "pos": "n",
+    "uz": "ikki kishilik xona"
+   },
+   {
+    "en": "economy class",
+    "pos": "n",
+    "uz": "ekonom klass"
+   },
+   {
+    "en": "expensive",
+    "pos": "adj",
+    "uz": "qimmat"
+   },
+   {
+    "en": "festival",
+    "pos": "n",
+    "uz": "festival"
+   },
+   {
+    "en": "flight attendant",
+    "pos": "n",
+    "uz": "styuardessa"
+   },
+   {
+    "en": "flight number",
+    "pos": "n",
+    "uz": "reys raqami"
+   },
+   {
+    "en": "fountain",
+    "pos": "n",
+    "uz": "favvora"
+   },
+   {
+    "en": "full board",
+    "pos": "n",
+    "uz": "to'liq pansion (3 mahal ovqat)"
+   },
+   {
+    "en": "full-time",
+    "pos": "adj",
+    "uz": "to'liq ish kuni"
+   },
+   {
+    "en": "half board",
+    "pos": "n",
+    "uz": "yarim pansion (2 mahal ovqat)"
+   },
+   {
+    "en": "hand luggage",
+    "pos": "n",
+    "uz": "qo'l yuki"
+   },
+   {
+    "en": "harbour",
+    "pos": "n",
+    "uz": "port / bandargoh"
+   },
+   {
+    "en": "high season",
+    "pos": "n",
+    "uz": "sayyohlar ko'p mavsum"
+   },
+   {
+    "en": "hire (a bike)",
+    "pos": "v",
+    "uz": "ijaraga olmoq"
+   },
+   {
+    "en": "historic",
+    "pos": "adj",
+    "uz": "tarixiy"
+   },
+   {
+    "en": "kayaking",
+    "pos": "n",
+    "uz": "baydarkada uchish"
+   },
+   {
+    "en": "low season",
+    "pos": "n",
+    "uz": "sayyohlar kam mavsum"
+   },
+   {
+    "en": "market",
+    "pos": "n",
+    "uz": "bozor"
+   },
+   {
+    "en": "monument",
+    "pos": "n",
+    "uz": "yodgorlik"
+   },
+   {
+    "en": "mosque",
+    "pos": "n",
+    "uz": "masjid"
+   },
+   {
+    "en": "mountain biking",
+    "pos": "n",
+    "uz": "tog' velosipedida uchish"
+   },
+   {
+    "en": "museum",
+    "pos": "n",
+    "uz": "muzey"
+   },
+   {
+    "en": "national park",
+    "pos": "n",
+    "uz": "milliy bog'"
+   },
+   {
+    "en": "old town",
+    "pos": "n",
+    "uz": "eski shahar"
+   },
+   {
+    "en": "online check-in",
+    "pos": "n",
+    "uz": "onlayn ro'yxatdan o'tish"
+   },
+   {
+    "en": "opera house",
+    "pos": "n",
+    "uz": "opera teatri"
+   },
+   {
+    "en": "palace",
+    "pos": "n",
+    "uz": "saroy"
+   },
+   {
+    "en": "park",
+    "pos": "n",
+    "uz": "bog'"
+   },
+   {
+    "en": "part-time",
+    "pos": "adj",
+    "uz": "to'liq bo'lmagan ish vaqti"
+   },
+   {
+    "en": "passport control",
+    "pos": "n",
+    "uz": "pasport nazorati"
+   },
+   {
+    "en": "peaceful",
+    "pos": "adj",
+    "uz": "tinch"
+   },
+   {
+    "en": "penpal",
+    "pos": "n",
+    "uz": "yozishib turadigan do'st"
+   },
+   {
+    "en": "restaurant",
+    "pos": "n",
+    "uz": "restoran"
+   },
+   {
+    "en": "romantic",
+    "pos": "adj",
+    "uz": "romantik"
+   },
+   {
+    "en": "ruins",
+    "pos": "n",
+    "uz": "xarobalar"
+   },
+   {
+    "en": "safari park",
+    "pos": "n",
+    "uz": "safari bog'i"
+   },
+   {
+    "en": "seat belt",
+    "pos": "n",
+    "uz": "xavfsizlik kamari"
+   },
+   {
+    "en": "security camera",
+    "pos": "n",
+    "uz": "kuzatuv kamerasi"
+   },
+   {
+    "en": "security check",
+    "pos": "n",
+    "uz": "xavfsizlik tekshiruvi"
+   },
+   {
+    "en": "shopping district",
+    "pos": "n",
+    "uz": "savdo hududi"
+   },
+   {
+    "en": "single room",
+    "pos": "n",
+    "uz": "bir kishilik xona"
+   },
+   {
+    "en": "souvenirs",
+    "pos": "n",
+    "uz": "esdalik sovg'alari"
+   },
+   {
+    "en": "square",
+    "pos": "n",
+    "uz": "maydon"
+   },
+   {
+    "en": "statue",
+    "pos": "n",
+    "uz": "haykal"
+   },
+   {
+    "en": "sunburn",
+    "pos": "n",
+    "uz": "quyoshda kuyish"
+   },
+   {
+    "en": "suncream",
+    "pos": "n",
+    "uz": "quyoshdan saqlovchi krem"
+   },
+   {
+    "en": "sunglasses",
+    "pos": "n",
+    "uz": "quyosh ko'zoynagi"
+   },
+   {
+    "en": "temple",
+    "pos": "n",
+    "uz": "ibodatxona"
+   },
+   {
+    "en": "theatre",
+    "pos": "n",
+    "uz": "teatr"
+   },
+   {
+    "en": "theme park",
+    "pos": "n",
+    "uz": "ko'ngilochar bog'"
+   },
+   {
+    "en": "touristy",
+    "pos": "adj",
+    "uz": "sayyohlar bilan to'la"
+   },
+   {
+    "en": "tower",
+    "pos": "n",
+    "uz": "minora"
+   },
+   {
+    "en": "travel guide",
+    "pos": "n",
+    "uz": "sayohat yo'riqnomasi / gid"
+   },
+   {
+    "en": "travel programme",
+    "pos": "n",
+    "uz": "sayohat haqida ko'rsatuv"
+   },
+   {
+    "en": "window seat",
+    "pos": "n",
+    "uz": "deraza yonidagi joy"
+   },
+   {
+    "en": "water park",
+    "pos": "n",
+    "uz": "akvapark",
+    "book": true
+   },
+   {
+    "en": "boring",
+    "pos": "adj",
+    "uz": "zerikarli",
+    "book": true
+   },
+   {
+    "en": "impressive",
+    "pos": "adj",
+    "uz": "ta’sirli, hayratlanarli",
+    "book": true
+   },
+   {
+    "en": "remote",
+    "pos": "adj",
+    "uz": "olis, chekka",
+    "book": true
+   },
+   {
+    "en": "spectacular",
+    "pos": "adj",
+    "uz": "ajoyib, ko‘zni qamashtiradigan",
+    "book": true
+   }
+  ]
+ },
+ {
+  "unit": 7,
+  "words": [
+   {
+    "en": "admit",
+    "pos": "v",
+    "uz": "tan olmoq"
+   },
+   {
+    "en": "afford",
+    "pos": "v",
+    "uz": "qurbi yetmoq (sotib olishga)"
+   },
+   {
+    "en": "agree",
+    "pos": "v",
+    "uz": "rozi bo'lmoq"
+   },
+   {
+    "en": "avoid",
+    "pos": "v",
+    "uz": "chetlab o'tmoq"
+   },
+   {
+    "en": "baker's",
+    "pos": "n",
+    "uz": "novvoyxona"
+   },
+   {
+    "en": "bank",
+    "pos": "n",
+    "uz": "bank"
+   },
+   {
+    "en": "bargain",
+    "pos": "n",
+    "uz": "arzon xarid"
+   },
+   {
+    "en": "be short of",
+    "pos": "v",
+    "uz": "yetishmovchilik bo'lmoq"
+   },
+   {
+    "en": "borrow",
+    "pos": "v",
+    "uz": "qarz olmoq"
+   },
+   {
+    "en": "butcher's",
+    "pos": "n",
+    "uz": "qassobxona"
+   },
+   {
+    "en": "buy",
+    "pos": "v",
+    "uz": "sotib olmoq"
+   },
+   {
+    "en": "CEO",
+    "pos": "n",
+    "uz": "bosh direktor"
+   },
+   {
+    "en": "charge",
+    "pos": "v",
+    "uz": "haq olmoq (xizmat uchun)"
+   },
+   {
+    "en": "charity shop",
+    "pos": "n",
+    "uz": "xayriya do'koni"
+   },
+   {
+    "en": "chemist's",
+    "pos": "n",
+    "uz": "dorixona"
+   },
+   {
+    "en": "choose",
+    "pos": "v",
+    "uz": "tanlamoq"
+   },
+   {
+    "en": "clothes shop",
+    "pos": "n",
+    "uz": "kiyim do'koni"
+   },
+   {
+    "en": "coffee shop",
+    "pos": "n",
+    "uz": "qahvaxona"
+   },
+   {
+    "en": "contract",
+    "pos": "n",
+    "uz": "shartnoma"
+   },
+   {
+    "en": "cosmetics store",
+    "pos": "n",
+    "uz": "kosmetika do'koni"
+   },
+   {
+    "en": "cost",
+    "pos": "v",
+    "uz": "narxi ... turmoq"
+   },
+   {
+    "en": "coupon",
+    "pos": "n",
+    "uz": "kupon"
+   },
+   {
+    "en": "decide",
+    "pos": "v",
+    "uz": "qaror qilmoq"
+   },
+   {
+    "en": "deli [delicatessen]",
+    "pos": "n",
+    "uz": "tayyor ovqatlar do'koni"
+   },
+   {
+    "en": "discount",
+    "pos": "n",
+    "uz": "chegirma"
+   },
+   {
+    "en": "DIY store",
+    "pos": "n",
+    "uz": "qurilish mollari do'koni"
+   },
+   {
+    "en": "end up",
+    "pos": "v",
+    "uz": "yakun topmoq / oxiri (biror holatga) tushmoq"
+   },
+   {
+    "en": "enjoy",
+    "pos": "v",
+    "uz": "zavqlanmoq"
+   },
+   {
+    "en": "entrepreneur",
+    "pos": "n",
+    "uz": "tadbirkor"
+   },
+   {
+    "en": "estate agent's",
+    "pos": "n",
+    "uz": "ko'chmas mulk agentligi"
+   },
+   {
+    "en": "expect",
+    "pos": "v",
+    "uz": "kutmoq / umid qilmoq"
+   },
+   {
+    "en": "fail",
+    "pos": "v",
+    "uz": "muvaffaqiyatsizlikka uchramoq / yiqilmoq"
+   },
+   {
+    "en": "fancy",
+    "pos": "v",
+    "uz": "xohlamoq / yoqtirmoq"
+   },
+   {
+    "en": "florist's",
+    "pos": "n",
+    "uz": "gul do'koni"
+   },
+   {
+    "en": "funding",
+    "pos": "n",
+    "uz": "moliyalashtirish"
+   },
+   {
+    "en": "garden centre",
+    "pos": "n",
+    "uz": "bog'dorchilik markazi"
+   },
+   {
+    "en": "get a refund (for sth)",
+    "pos": "v",
+    "uz": "(biror narsa uchun) pulni qaytarib olmoq"
+   },
+   {
+    "en": "give a refund (for sth)",
+    "pos": "v",
+    "uz": "pulni qaytarib bermoq"
+   },
+   {
+    "en": "greengrocer's",
+    "pos": "n",
+    "uz": "meva-sabzavot do'koni"
+   },
+   {
+    "en": "hairdresser's",
+    "pos": "n",
+    "uz": "sartaroshxona"
+   },
+   {
+    "en": "income",
+    "pos": "n",
+    "uz": "daromad"
+   },
+   {
+    "en": "investor",
+    "pos": "n",
+    "uz": "investor (sarmoyador)"
+   },
+   {
+    "en": "jeweller's",
+    "pos": "n",
+    "uz": "zargarlik do'koni"
+   },
+   {
+    "en": "keep",
+    "pos": "v",
+    "uz": "saqlamoq / davom ettirmoq"
+   },
+   {
+    "en": "launderette",
+    "pos": "n",
+    "uz": "kir yuvish xonasi (o'z-o'ziga xizmat)"
+   },
+   {
+    "en": "lend",
+    "pos": "v",
+    "uz": "qarz bermoq"
+   },
+   {
+    "en": "lose",
+    "pos": "v",
+    "uz": "yo'qotmoq"
+   },
+   {
+    "en": "mind",
+    "pos": "v",
+    "uz": "qarshilik qilmoq / e'tiroz bildirmoq"
+   },
+   {
+    "en": "newsagent's",
+    "pos": "n",
+    "uz": "gazeta do'koni"
+   },
+   {
+    "en": "offer",
+    "pos": "v",
+    "uz": "taklif qilmoq"
+   },
+   {
+    "en": "optician's",
+    "pos": "n",
+    "uz": "ko'zoynak do'koni"
+   },
+   {
+    "en": "owe",
+    "pos": "v",
+    "uz": "qarz bo'lmoq"
+   },
+   {
+    "en": "pay (for sth)",
+    "pos": "v",
+    "uz": "to'lamoq"
+   },
+   {
+    "en": "post-office",
+    "pos": "n",
+    "uz": "pochta"
+   },
+   {
+    "en": "prefer",
+    "pos": "v",
+    "uz": "afzal ko'rmoq"
+   },
+   {
+    "en": "pretend",
+    "pos": "v",
+    "uz": "o'zini ko'rsatmoq / shundaydek tutmoq"
+   },
+   {
+    "en": "price tag",
+    "pos": "n",
+    "uz": "narx yorlig'i"
+   },
+   {
+    "en": "profits",
+    "pos": "n",
+    "uz": "foyda"
+   },
+   {
+    "en": "promise",
+    "pos": "v",
+    "uz": "va'da bermoq"
+   },
+   {
+    "en": "receipt",
+    "pos": "n",
+    "uz": "kvitansiya / chek"
+   },
+   {
+    "en": "refund",
+    "pos": "n",
+    "uz": "pulni qaytarish"
+   },
+   {
+    "en": "refuse",
+    "pos": "v",
+    "uz": "rad etmoq"
+   },
+   {
+    "en": "run out (of sth)",
+    "pos": "v",
+    "uz": "tugab qolmoq"
+   },
+   {
+    "en": "salary",
+    "pos": "n",
+    "uz": "oylik maosh"
+   },
+   {
+    "en": "sale",
+    "pos": "n",
+    "uz": "sotuv / arzonlashtirilgan savdo"
+   },
+   {
+    "en": "save",
+    "pos": "v",
+    "uz": "tejamoq / saqlamoq"
+   },
+   {
+    "en": "save up (for sth)",
+    "pos": "v",
+    "uz": "pul yig'moq"
+   },
+   {
+    "en": "sell",
+    "pos": "v",
+    "uz": "sotmoq"
+   },
+   {
+    "en": "shoe shop",
+    "pos": "n",
+    "uz": "poyabzal do'koni"
+   },
+   {
+    "en": "special offer",
+    "pos": "n",
+    "uz": "maxsus taklif"
+   },
+   {
+    "en": "spend",
+    "pos": "v",
+    "uz": "sarflamoq"
+   },
+   {
+    "en": "stationer's",
+    "pos": "n",
+    "uz": "kanselyariya do'koni"
+   },
+   {
+    "en": "takeaway",
+    "pos": "n",
+    "uz": "olib ketiladigan taom"
+   },
+   {
+    "en": "waste",
+    "pos": "v",
+    "uz": "isrof qilmoq"
+   },
+   {
+    "en": "dollar",
+    "pos": "n",
+    "uz": "dollar",
+    "book": true
+   },
+   {
+    "en": "euro",
+    "pos": "n",
+    "uz": "yevro",
+    "book": true
+   },
+   {
+    "en": "rupee",
+    "pos": "n",
+    "uz": "rupiya (Hindiston puli)",
+    "book": true
+   },
+   {
+    "en": "pound",
+    "pos": "n",
+    "uz": "funt sterling",
+    "book": true
+   },
+   {
+    "en": "yen",
+    "pos": "n",
+    "uz": "iyena (Yaponiya puli)",
+    "book": true
+   },
+   {
+    "en": "million",
+    "pos": "n",
+    "uz": "million",
+    "book": true
+   },
+   {
+    "en": "billion",
+    "pos": "n",
+    "uz": "milliard",
+    "book": true
+   },
+   {
+    "en": "post office",
+    "pos": "n",
+    "uz": "pochta bo‘limi",
+    "book": true
+   }
+  ]
+ },
+ {
+  "unit": 8,
+  "words": [
+   {
+    "en": "affordable",
+    "pos": "adj",
+    "uz": "hamyonbop / sotib olsa bo'ladigan"
+   },
+   {
+    "en": "appeal",
+    "pos": "v",
+    "uz": "murojaat qilmoq / apellyatsiya bermoq"
+   },
+   {
+    "en": "arson",
+    "pos": "n",
+    "uz": "qasddan o't qo'yish"
+   },
+   {
+    "en": "arsonist",
+    "pos": "n",
+    "uz": "o't qo'yuvchi jinoyatchi"
+   },
+   {
+    "en": "balaclava",
+    "pos": "n",
+    "uz": "yuzni yopib turuvchi niqob (shapka)"
+   },
+   {
+    "en": "board game",
+    "pos": "n",
+    "uz": "stol o'yini"
+   },
+   {
+    "en": "break into something",
+    "pos": "phr v",
+    "uz": "(uyga) bostirib/o'g'irlikka kirmoq"
+   },
+   {
+    "en": "burglar",
+    "pos": "n",
+    "uz": "uy o'g'risi"
+   },
+   {
+    "en": "burglary",
+    "pos": "n",
+    "uz": "uydagi o'g'rilik"
+   },
+   {
+    "en": "burgle",
+    "pos": "v",
+    "uz": "uyni o'marmoq"
+   },
+   {
+    "en": "cards",
+    "pos": "n",
+    "uz": "qarta o'yini"
+   },
+   {
+    "en": "careless",
+    "pos": "adj",
+    "uz": "e'tiborsiz"
+   },
+   {
+    "en": "chewing gum",
+    "pos": "n",
+    "uz": "saqich"
+   },
+   {
+    "en": "childish",
+    "pos": "adj",
+    "uz": "yosh bolalarcha"
+   },
+   {
+    "en": "cowardly",
+    "pos": "adj",
+    "uz": "qo'rqoqlarcha"
+   },
+   {
+    "en": "damage",
+    "pos": "v",
+    "uz": "zarar yetkazmoq"
+   },
+   {
+    "en": "dangerous",
+    "pos": "adj",
+    "uz": "xavfli"
+   },
+   {
+    "en": "deal drugs",
+    "pos": "v",
+    "uz": "narkotik sotmoq"
+   },
+   {
+    "en": "dental records",
+    "pos": "n",
+    "uz": "tish davolash tarixi"
+   },
+   {
+    "en": "drinkable",
+    "pos": "adj",
+    "uz": "ichishga yaroqli"
+   },
+   {
+    "en": "drug dealer",
+    "pos": "n",
+    "uz": "narkofurush"
+   },
+   {
+    "en": "drug dealing",
+    "pos": "n",
+    "uz": "narkotik savdosi"
+   },
+   {
+    "en": "economical",
+    "pos": "adj",
+    "uz": "tejamkor"
+   },
+   {
+    "en": "enjoyable",
+    "pos": "adj",
+    "uz": "zavqli"
+   },
+   {
+    "en": "fingerprints",
+    "pos": "n",
+    "uz": "barmoq izlari"
+   },
+   {
+    "en": "foolish",
+    "pos": "adj",
+    "uz": "ahmoqona"
+   },
+   {
+    "en": "furious",
+    "pos": "adj",
+    "uz": "juda g'azablangan"
+   },
+   {
+    "en": "grab",
+    "pos": "v",
+    "uz": "yulqib olmoq / ushlab olmoq"
+   },
+   {
+    "en": "greenish",
+    "pos": "adj",
+    "uz": "yashilroq / yashilga moyil"
+   },
+   {
+    "en": "handbag",
+    "pos": "n",
+    "uz": "ayollar sumkasi"
+   },
+   {
+    "en": "helpful",
+    "pos": "adj",
+    "uz": "yordami tegadigan"
+   },
+   {
+    "en": "hold on",
+    "pos": "phr v",
+    "uz": "kutib turmoq"
+   },
+   {
+    "en": "hopeful",
+    "pos": "adj",
+    "uz": "umidvor"
+   },
+   {
+    "en": "identify",
+    "pos": "v",
+    "uz": "shaxsini aniqlamoq"
+   },
+   {
+    "en": "interview",
+    "pos": "v",
+    "uz": "suhbatlashmoq / so'roq qilmoq"
+   },
+   {
+    "en": "kill",
+    "pos": "v",
+    "uz": "o'ldirmoq"
+   },
+   {
+    "en": "launch",
+    "pos": "v",
+    "uz": "ishga tushirmoq / yo'llamoq"
+   },
+   {
+    "en": "lean",
+    "pos": "v",
+    "uz": "suyanmoq"
+   },
+   {
+    "en": "loot",
+    "pos": "v",
+    "uz": "talon-toroj qilmoq"
+   },
+   {
+    "en": "looter",
+    "pos": "n",
+    "uz": "talonchi"
+   },
+   {
+    "en": "looting",
+    "pos": "n",
+    "uz": "talonchilik (tartibsizlik paytida)"
+   },
+   {
+    "en": "lucky",
+    "pos": "adj",
+    "uz": "omadli"
+   },
+   {
+    "en": "magical",
+    "pos": "adj",
+    "uz": "sehrli"
+   },
+   {
+    "en": "mug",
+    "pos": "v",
+    "uz": "ko'chada to'nab ketmoq"
+   },
+   {
+    "en": "mugger",
+    "pos": "n",
+    "uz": "ko'cha bosqinchisi"
+   },
+   {
+    "en": "mugging",
+    "pos": "n",
+    "uz": "ko'chadagi bosqinchilik"
+   },
+   {
+    "en": "murder",
+    "pos": "n, v",
+    "uz": "qotillik / o'ldirmoq"
+   },
+   {
+    "en": "murder investigation",
+    "pos": "n",
+    "uz": "qotillik tergovi"
+   },
+   {
+    "en": "murderer",
+    "pos": "n",
+    "uz": "qotil"
+   },
+   {
+    "en": "mysterious",
+    "pos": "adj",
+    "uz": "sirli"
+   },
+   {
+    "en": "national",
+    "pos": "adj",
+    "uz": "milliy"
+   },
+   {
+    "en": "open-top car",
+    "pos": "n",
+    "uz": "usti ochiq mashina"
+   },
+   {
+    "en": "painful",
+    "pos": "adj",
+    "uz": "og'riqli"
+   },
+   {
+    "en": "painless",
+    "pos": "adj",
+    "uz": "og'riqsiz"
+   },
+   {
+    "en": "patrol",
+    "pos": "v",
+    "uz": "patrullik qilmoq"
+   },
+   {
+    "en": "pull",
+    "pos": "v",
+    "uz": "tortmoq"
+   },
+   {
+    "en": "rob",
+    "pos": "v",
+    "uz": "tunamoq (bank, do'kon)"
+   },
+   {
+    "en": "robber",
+    "pos": "n",
+    "uz": "bosqinchi / o'g'ri"
+   },
+   {
+    "en": "robbery",
+    "pos": "n",
+    "uz": "bosqinchilik"
+   },
+   {
+    "en": "run away",
+    "pos": "phr v",
+    "uz": "qochib ketmoq"
+   },
+   {
+    "en": "search",
+    "pos": "v",
+    "uz": "qidirmoq / tintuv qilmoq"
+   },
+   {
+    "en": "secret code",
+    "pos": "n",
+    "uz": "maxfiy kod"
+   },
+   {
+    "en": "selfish",
+    "pos": "adj",
+    "uz": "xudbin"
+   },
+   {
+    "en": "selfless",
+    "pos": "adj",
+    "uz": "fidoyi"
+   },
+   {
+    "en": "set fire to something",
+    "pos": "phr v",
+    "uz": "biror narsaga o't qo'ymoq"
+   },
+   {
+    "en": "shoplift",
+    "pos": "v",
+    "uz": "do'kondan o'g'irlik qilmoq"
+   },
+   {
+    "en": "shoplifter",
+    "pos": "n",
+    "uz": "do'kon o'g'risi"
+   },
+   {
+    "en": "shoplifting",
+    "pos": "n",
+    "uz": "do'kondagi o'g'rilik"
+   },
+   {
+    "en": "smuggle",
+    "pos": "v",
+    "uz": "kontrabanda qilmoq"
+   },
+   {
+    "en": "smuggler",
+    "pos": "n",
+    "uz": "kontrabandachi"
+   },
+   {
+    "en": "smuggling",
+    "pos": "n",
+    "uz": "kontrabanda"
+   },
+   {
+    "en": "snatch",
+    "pos": "v",
+    "uz": "yulqib olmoq"
+   },
+   {
+    "en": "steal",
+    "pos": "v",
+    "uz": "o'g'irlamoq"
+   },
+   {
+    "en": "strap",
+    "pos": "n",
+    "uz": "tasmacha / qayish"
+   },
+   {
+    "en": "study",
+    "pos": "v",
+    "uz": "o'rganmoq / tadqiq qilmoq"
+   },
+   {
+    "en": "subway",
+    "pos": "n",
+    "uz": "yer osti yo'li (metro)"
+   },
+   {
+    "en": "table tennis",
+    "pos": "n",
+    "uz": "stol tennisi"
+   },
+   {
+    "en": "tasteless",
+    "pos": "adj",
+    "uz": "mazasiz / didsiz"
+   },
+   {
+    "en": "telephone number",
+    "pos": "n",
+    "uz": "telefon raqami"
+   },
+   {
+    "en": "theft",
+    "pos": "n",
+    "uz": "o'g'rilik"
+   },
+   {
+    "en": "thief [pl thieves]",
+    "pos": "n",
+    "uz": "o'g'ri (o'g'rilar)"
+   },
+   {
+    "en": "train ticket",
+    "pos": "n",
+    "uz": "poyezd chiptasi"
+   },
+   {
+    "en": "vandal",
+    "pos": "n",
+    "uz": "mulkka zarar yetkazuvchi shaxs"
+   },
+   {
+    "en": "vandalise",
+    "pos": "v",
+    "uz": "mulkka zarar yetkazmoq"
+   },
+   {
+    "en": "vandalism",
+    "pos": "n",
+    "uz": "vandalizm"
+   },
+   {
+    "en": "water park",
+    "pos": "n",
+    "uz": "akvapark"
+   },
+   {
+    "en": "weekly",
+    "pos": "adj",
+    "uz": "har haftalik"
+   },
+   {
+    "en": "break",
+    "pos": "v",
+    "uz": "sindirmoq; (qonunni) buzmoq",
+    "book": true
+   },
+   {
+    "en": "sell",
+    "pos": "v",
+    "uz": "sotmoq",
+    "book": true
+   },
+   {
+    "en": "drug-dealing",
+    "pos": "n",
+    "uz": "giyohvand moddalar savdosi",
+    "book": true
+   },
+   {
+    "en": "set fire to",
+    "pos": "v",
+    "uz": "o‘t qo‘ymoq",
+    "book": true
+   }
+  ]
+ },
+ {
+  "unit": 9,
+  "words": [
+   {
+    "en": "aluminium",
+    "pos": "n",
+    "uz": "alyuminiy"
+   },
+   {
+    "en": "apologise",
+    "pos": "v",
+    "uz": "uzr so'ramoq"
+   },
+   {
+    "en": "arrange",
+    "pos": "v",
+    "uz": "tartibga solmoq / rejalashtirmoq"
+   },
+   {
+    "en": "arrangement",
+    "pos": "n",
+    "uz": "kelishuv / tartib"
+   },
+   {
+    "en": "bald",
+    "pos": "adj",
+    "uz": "kal (sochsiz)"
+   },
+   {
+    "en": "baldness",
+    "pos": "n",
+    "uz": "kallik"
+   },
+   {
+    "en": "base",
+    "pos": "n",
+    "uz": "asos / baza"
+   },
+   {
+    "en": "battery",
+    "pos": "n",
+    "uz": "batareya"
+   },
+   {
+    "en": "broken",
+    "pos": "adj",
+    "uz": "singan / buzuq"
+   },
+   {
+    "en": "cardboard",
+    "pos": "n",
+    "uz": "karton"
+   },
+   {
+    "en": "cement",
+    "pos": "n",
+    "uz": "sement"
+   },
+   {
+    "en": "ceramic",
+    "pos": "n",
+    "uz": "keramika / chinni"
+   },
+   {
+    "en": "challenge",
+    "pos": "v",
+    "uz": "chaqiriq tashlamoq / sinamoq"
+   },
+   {
+    "en": "circular",
+    "pos": "adj",
+    "uz": "doira shaklidagi"
+   },
+   {
+    "en": "comfort",
+    "pos": "v",
+    "uz": "yupatmoq / taskin bermoq"
+   },
+   {
+    "en": "complain",
+    "pos": "v",
+    "uz": "shikoyat qilmoq"
+   },
+   {
+    "en": "copper",
+    "pos": "n",
+    "uz": "mis"
+   },
+   {
+    "en": "cordless",
+    "pos": "adj",
+    "uz": "simsiz"
+   },
+   {
+    "en": "credit note",
+    "pos": "n",
+    "uz": "kredit hujjati (pul qaytarish o'rniga beriladigan chek)"
+   },
+   {
+    "en": "curved",
+    "pos": "adj",
+    "uz": "egilgan / egri"
+   },
+   {
+    "en": "deaf",
+    "pos": "adj",
+    "uz": "kar (qulog'i og'ir)"
+   },
+   {
+    "en": "deafness",
+    "pos": "n",
+    "uz": "karlik"
+   },
+   {
+    "en": "demonstrate",
+    "pos": "v",
+    "uz": "namoyish qilmoq"
+   },
+   {
+    "en": "demonstration",
+    "pos": "n",
+    "uz": "namoyish"
+   },
+   {
+    "en": "describe",
+    "pos": "v",
+    "uz": "tasvirlamoq"
+   },
+   {
+    "en": "encourage",
+    "pos": "v",
+    "uz": "ruhlantirmoq"
+   },
+   {
+    "en": "enquire",
+    "pos": "v",
+    "uz": "so'ramoq / surishtirmoq"
+   },
+   {
+    "en": "glass",
+    "pos": "n",
+    "uz": "shisha / oyna"
+   },
+   {
+    "en": "gold",
+    "pos": "n",
+    "uz": "oltin"
+   },
+   {
+    "en": "handle",
+    "pos": "n",
+    "uz": "dasta / tutqich"
+   },
+   {
+    "en": "inform",
+    "pos": "v",
+    "uz": "xabar bermoq"
+   },
+   {
+    "en": "invent",
+    "pos": "v",
+    "uz": "ixtiro qilmoq"
+   },
+   {
+    "en": "invention",
+    "pos": "n",
+    "uz": "ixtiro"
+   },
+   {
+    "en": "inventor",
+    "pos": "n",
+    "uz": "ixtirochi"
+   },
+   {
+    "en": "iron",
+    "pos": "n",
+    "uz": "temir"
+   },
+   {
+    "en": "leather",
+    "pos": "n",
+    "uz": "charm (ko'n)"
+   },
+   {
+    "en": "lid",
+    "pos": "n",
+    "uz": "qopqoq"
+   },
+   {
+    "en": "mains",
+    "pos": "n",
+    "uz": "asosiy elektr tarmog'i"
+   },
+   {
+    "en": "move",
+    "pos": "v",
+    "uz": "qimirlatmoq / ko'chmoq"
+   },
+   {
+    "en": "movement",
+    "pos": "n",
+    "uz": "harakat"
+   },
+   {
+    "en": "nylon",
+    "pos": "n",
+    "uz": "neylon"
+   },
+   {
+    "en": "paper",
+    "pos": "n",
+    "uz": "qog'oz"
+   },
+   {
+    "en": "persuade",
+    "pos": "v",
+    "uz": "ko'ndirmoq"
+   },
+   {
+    "en": "plastic",
+    "pos": "n",
+    "uz": "plastik"
+   },
+   {
+    "en": "problem",
+    "pos": "n",
+    "uz": "muammo"
+   },
+   {
+    "en": "rechargeable",
+    "pos": "adj",
+    "uz": "qayta quvvatlanadigan"
+   },
+   {
+    "en": "recommend",
+    "pos": "v",
+    "uz": "tavsiya qilmoq"
+   },
+   {
+    "en": "reconstruct",
+    "pos": "v",
+    "uz": "qayta qurmoq"
+   },
+   {
+    "en": "reconstruction",
+    "pos": "n",
+    "uz": "qayta qurish"
+   },
+   {
+    "en": "record",
+    "pos": "v",
+    "uz": "yozib olmoq (ovoz/video)"
+   },
+   {
+    "en": "recording",
+    "pos": "n",
+    "uz": "yozuv"
+   },
+   {
+    "en": "rectangular",
+    "pos": "adj",
+    "uz": "to'rtburchak (to'g'ri burchakli)"
+   },
+   {
+    "en": "rediscover",
+    "pos": "v",
+    "uz": "qaytadan kashf qilmoq"
+   },
+   {
+    "en": "rediscovery",
+    "pos": "n",
+    "uz": "qayta kashf etish"
+   },
+   {
+    "en": "repair",
+    "pos": "n, v",
+    "uz": "ta'mirlash / tuzatmoq"
+   },
+   {
+    "en": "rubber",
+    "pos": "n",
+    "uz": "rezina / o'chirg'ich"
+   },
+   {
+    "en": "solar-powered",
+    "pos": "adj",
+    "uz": "quyosh energiyasida ishlaydigan"
+   },
+   {
+    "en": "spherical",
+    "pos": "adj",
+    "uz": "shar shaklidagi"
+   },
+   {
+    "en": "square",
+    "pos": "adj",
+    "uz": "kvadrat shaklidagi"
+   },
+   {
+    "en": "steel",
+    "pos": "n",
+    "uz": "po'lat"
+   },
+   {
+    "en": "stone",
+    "pos": "n",
+    "uz": "tosh"
+   },
+   {
+    "en": "tell a story",
+    "pos": "v",
+    "uz": "hikoya aytib bermoq"
+   },
+   {
+    "en": "thank",
+    "pos": "v",
+    "uz": "rahmat aytmoq"
+   },
+   {
+    "en": "treat",
+    "pos": "v",
+    "uz": "munosabatda bo'lmoq / davolamoq"
+   },
+   {
+    "en": "treatment",
+    "pos": "n",
+    "uz": "muolaja / munosabat"
+   },
+   {
+    "en": "triangular",
+    "pos": "adj",
+    "uz": "uchburchak shaklidagi"
+   },
+   {
+    "en": "warn",
+    "pos": "v",
+    "uz": "ogohlantirmoq"
+   },
+   {
+    "en": "welcome",
+    "pos": "v",
+    "uz": "kutib olmoq"
+   },
+   {
+    "en": "wheels",
+    "pos": "n",
+    "uz": "g'ildiraklar"
+   },
+   {
+    "en": "wood",
+    "pos": "n",
+    "uz": "yog'och"
+   },
+   {
+    "en": "concrete",
+    "pos": "n",
+    "uz": "beton",
+    "book": true
+   },
+   {
+    "en": "gadget",
+    "pos": "n",
+    "uz": "gadjet, kichik qurilma",
+    "book": true
+   }
+  ]
+ }
+]

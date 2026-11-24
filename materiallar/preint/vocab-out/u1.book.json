@@ -1,0 +1,342 @@
+[
+ {
+  "kind": "situation",
+  "q": "The group of eleven players from Tashkent won the football tournament today.",
+  "options": [
+   "team",
+   "match",
+   "watch",
+   "lose"
+  ],
+  "answer": "team",
+  "why": "«Group of eleven players» jamoani bildiradi.",
+  "wrong": {
+   "match": "«Match» — o'yin ma'nosini bildiradi, lekin bu yerda o'yinchilar guruhi nazarda tutilgan.",
+   "watch": "«Watch» — soat yoki tomosha qilish, bu kontekstga mos emas.",
+   "lose": "«Lose» — yutqazmoq, bu guruh g'alaba qozondi."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "We have a big football ______ against Samarkand tomorrow.",
+  "options": [
+   "match",
+   "team",
+   "watch",
+   "lose"
+  ],
+  "answer": "match",
+  "why": "«Football ______» sport musobaqasini, yani match so'zini talab qiladi.",
+  "wrong": {
+   "team": "«Team» — jamoa, gapda jamoaga qarshi o'yin haqida boryapti.",
+   "watch": "«Watch» — qo'l soati yoki ko'rmoq ma'nosida.",
+   "lose": "«Lose» — yutqazmoq fe'li bu yerga grammatik jihatdan mos tushmaydi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Aziz looks at the time on his wrist before running to his English lesson.",
+  "options": [
+   "watch",
+   "match",
+   "team",
+   "lose"
+  ],
+  "answer": "watch",
+  "why": "«Wrist» bilak va vaqtni ko'rish «watch» (qo'l soati) bilan bog'liq.",
+  "wrong": {
+   "match": "«Match» — o'yin, bilakka taqilmaydi.",
+   "team": "«Team» — jamoa ma'nosini beradi.",
+   "lose": "«Lose» — yo'qotmoq fe'li."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "Do not play carelessly, otherwise we will ______ the game.",
+  "options": [
+   "lose",
+   "watch",
+   "match",
+   "team"
+  ],
+  "answer": "lose",
+  "why": "«Play carelessly» va o'yinda mag'lub bo'lish «lose» so'zini talab qiladi.",
+  "wrong": {
+   "watch": "«Watch» — kuzatmoq, bu yerda o'yinni boy bermaslik haqida gap ketmoqda.",
+   "match": "«Match» — ot, fe'l o'rniga mos kelmaydi.",
+   "team": "«Team» — jamoa oti."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "If you study hard, you will certainly ______ the math test.",
+  "options": [
+   "pass",
+   "exam results",
+   "marks",
+   "school work"
+  ],
+  "answer": "pass",
+  "why": "«Study hard» va testdan muvaffaqiyatli o'tish «pass» so'zini talab qiladi.",
+  "wrong": {
+   "exam results": "«Exam results» — imtihon natijalari otidir.",
+   "marks": "«Marks» — baholar, fe'l o'rnida ishlatilmaydi.",
+   "school work": "«School work» — maktab ishi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "The teacher wrote numbers five and four in my notebook for my good answers.",
+  "options": [
+   "marks",
+   "pass",
+   "exam results",
+   "school work"
+  ],
+  "answer": "marks",
+  "why": "«Numbers five and four in my notebook» baholarni («marks») bildiradi.",
+  "wrong": {
+   "pass": "«Pass» — imtihondan o'tish.",
+   "exam results": "«Exam results» — yakuniy imtihon natijalari.",
+   "school work": "«School work» — maktab ishlari."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "We must carry our heavy ______ to the check-in desk at Tashkent Airport.",
+  "options": [
+   "luggage",
+   "plane",
+   "late",
+   "difficult"
+  ],
+  "answer": "luggage",
+  "why": "«Check-in desk» va aeroportda og'ir yuklarni ko'tarish «luggage» (bagaj) so'ziga mos keladi.",
+  "wrong": {
+   "plane": "«Plane» — samolyot, uni check-in deskda ko'tarib bo'lmaydi.",
+   "late": "«Late» — kechikkan.",
+   "difficult": "«Difficult» — qiyin."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "The big flying machine with wings took off into the blue sky towards Dubai.",
+  "options": [
+   "plane",
+   "luggage",
+   "late",
+   "difficult"
+  ],
+  "answer": "plane",
+  "why": "«Big flying machine with wings» samolyotni («plane») tavsiflaydi.",
+  "wrong": {
+   "luggage": "«Luggage» — bagaj, u uchmaydi.",
+   "late": "«Late» — kechikish.",
+   "difficult": "«Difficult» — qiyin."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "Hurry up! The bus is leaving and we will be ______ for school.",
+  "options": [
+   "late",
+   "plane",
+   "luggage",
+   "difficult"
+  ],
+  "answer": "late",
+  "why": "«Hurry up» va avtobusdan qolish ehtimoli «late» (kechikish) so'zini talab qiladi.",
+  "wrong": {
+   "plane": "«Plane» — samolyot.",
+   "luggage": "«Luggage» — yuk.",
+   "difficult": "«Difficult» — qiyin."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Jasur spent all evening doing his history and physics exercises at home.",
+  "options": [
+   "school work",
+   "difficult",
+   "boring",
+   "plane"
+  ],
+  "answer": "school work",
+  "why": "«History and physics exercises at home» bu uy vazifasi va maktab ishidir («school work»).",
+  "wrong": {
+   "difficult": "«Difficult» — qiyin sifat.",
+   "boring": "«Boring» — zerikarli sifat.",
+   "plane": "«Plane» — samolyot oti."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "This physics problem is too ______; I cannot solve it.",
+  "options": [
+   "difficult",
+   "school work",
+   "boring",
+   "late"
+  ],
+  "answer": "difficult",
+  "why": "«Cannot solve it» so'zi masala juda qiyin («difficult») ekanini bildiradi.",
+  "wrong": {
+   "school work": "«School work» — maktab ishi, sifat o'rniga mos kelmaydi.",
+   "boring": "«Boring» — zerikarli, lekin uni yechib bo'lmasligi qiyinligidandir.",
+   "late": "«Late» — kech."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "The documentary had no interesting facts and made everyone fall asleep.",
+  "options": [
+   "boring",
+   "difficult",
+   "anxious",
+   "ashamed"
+  ],
+  "answer": "boring",
+  "why": "«Made everyone fall asleep» kino zerikarli («boring») bo'lganini ko'rsatadi.",
+  "wrong": {
+   "difficult": "«Difficult» — qiyin.",
+   "anxious": "«Anxious» — xavotirli.",
+   "ashamed": "«Ashamed» — uyalgan."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "Dilshod felt very ______ before giving his presentation in front of the whole class.",
+  "options": [
+   "anxious",
+   "boring",
+   "ashamed",
+   "bored"
+  ],
+  "answer": "anxious",
+  "why": "«Before giving his presentation» paytida odam xavotir va tashvishga tushadi («anxious»).",
+  "wrong": {
+   "boring": "«Boring» — zerikarli narsalarga nisbatan ishlatiladi.",
+   "ashamed": "«Ashamed» — xatodan keyingi uyalish, taqdimot oldidan asabiylashish «anxious» bo'ladi.",
+   "bored": "«Bored» — zerikkan."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Malika felt terrible after she dropped the birthday cake on the floor in front of guests.",
+  "options": [
+   "ashamed",
+   "anxious",
+   "bored",
+   "confused"
+  ],
+  "answer": "ashamed",
+  "why": "Mehmonlar oldida uyatli ish qilish «ashamed» (uyalgan) his qilishga olib keladi.",
+  "wrong": {
+   "anxious": "«Anxious» — kelajakdan xavotirlanish.",
+   "bored": "«Bored» — zerikkan.",
+   "confused": "«Confused» — esankiragan."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "There was nothing to do on the long train ride, so the children were ______.",
+  "options": [
+   "bored",
+   "ashamed",
+   "anxious",
+   "confused"
+  ],
+  "answer": "bored",
+  "why": "«Nothing to do» sababli bolalar zerikkan («bored») edilar.",
+  "wrong": {
+   "ashamed": "«Ashamed» — uyalgan.",
+   "anxious": "«Anxious» — xavotirli.",
+   "confused": "«Confused» — dovdirab qolgan."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Temur did not understand the map and went completely the wrong way.",
+  "options": [
+   "confused",
+   "boring",
+   "cross",
+   "delighted"
+  ],
+  "answer": "confused",
+  "why": "«Did not understand the map» odamning boshi qotganini («confused») bildiradi.",
+  "wrong": {
+   "boring": "«Boring» — zerikarli.",
+   "cross": "«Cross» — jahli chiqqan.",
+   "delighted": "«Delighted» — mamnun."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "Mother was ______ because I broke her favorite tea cup.",
+  "options": [
+   "cross",
+   "confused",
+   "delighted",
+   "disappointed"
+  ],
+  "answer": "cross",
+  "why": "«Broke her favorite tea cup» onaning jahlini chiqaradi («cross»).",
+  "wrong": {
+   "confused": "«Confused» — boshi qotgan.",
+   "delighted": "«Delighted» — xursand, piyola sindirilsa xursand bo'lmaydi.",
+   "disappointed": "«Disappointed» — hafsalasi pir bo'lgan, lekin «cross» jahli chiqqan ma'nosiga yaqinroq."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Zarina smiled broadly when she received a brand new smartphone for her birthday.",
+  "options": [
+   "delighted",
+   "cross",
+   "disappointed",
+   "embarrassed"
+  ],
+  "answer": "delighted",
+  "why": "«Smiled broadly» va yangi telefon olish juda xursand («delighted») qiladi.",
+  "wrong": {
+   "cross": "«Cross» — jahli chiqqan.",
+   "disappointed": "«Disappointed» — hafsalasi pir bo'lgan.",
+   "embarrassed": "«Embarrassed» — xijolat bo'lgan."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "We were ______ with the movie because it was completely different from the book.",
+  "options": [
+   "disappointed",
+   "delighted",
+   "embarrassed",
+   "envious"
+  ],
+  "answer": "disappointed",
+  "why": "Kitobdan farq qilgan kino hafsalani pir qiladi («disappointed»).",
+  "wrong": {
+   "delighted": "«Delighted» — mamnun.",
+   "embarrassed": "«Embarrassed» — xijolat.",
+   "envious": "«Envious» — havas qilgan yoki ichi qora."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Sardor's face turned red when he called his teacher «Mum» by mistake.",
+  "options": [
+   "embarrassed",
+   "disappointed",
+   "excited",
+   "frightened"
+  ],
+  "answer": "embarrassed",
+  "why": "O'qituvchiga «Oyi» deb yuborish odamni xijolatga («embarrassed») qo'yadi.",
+  "wrong": {
+   "disappointed": "«Disappointed» — hafsalasi pir bo'lgan.",
+   "excited": "«Excited» — hayajonlangan.",
+   "frightened": "«Frightened» — qo'rqqan."
+  }
+ }
+]

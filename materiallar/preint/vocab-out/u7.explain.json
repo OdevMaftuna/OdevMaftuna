@@ -1,0 +1,682 @@
+[
+ {
+  "why": "«afford» — sotib olishga kuchi yetmoq. Gapda «did not have enough money» bor: yetarli puli yo'qligi uchun nimadir sotib ola olmasligini bildiradi.",
+  "wrong": {
+   "waste": "«waste» — pulni behuda sovurmoq; bu yerda gap pul yetmasligi haqida.",
+   "cost": "«cost» — turmoq, narxi bo'lmoq; gapda egasi puli yo'qligini aytayapti.",
+   "spend": "«spend» — pul sarflamoq; bu yerda pul yo'qligi sababli sotib olish haqida."
+  }
+ },
+ {
+  "why": "«owe» — qarzdor bo'lmoq. Gapda «give my friend some money back» bor: do'stiga pulni qaytarishi kerakligi qarz ekanini bildiradi.",
+  "wrong": {
+   "lend": "«lend» — qarzga bermoq; bu yerda pulni qaytarish kerakligi aytilyapti.",
+   "borrow": "«borrow» — qarzga olmoq; do'stiga pulni qaytarish haqida gap ketmoqda.",
+   "save": "«save» — pul yig'moq; bu yerda boshqaga berilgan pulni qaytarish kerak."
+  }
+ },
+ {
+  "why": "«admit» — tan olmoq. Gapda «tell the truth» bor: haqiqatni aytish vaza sindirganini tan olishni anglatadi.",
+  "wrong": {
+   "pretend": "«pretend» — o'zini shunday ko'rsatmoq; bu yerda haqiqatni aytish haqida.",
+   "avoid": "«avoid» — chetlab o'tmoq; haqiqatni aytishdan qochish emas, tan olish kerak.",
+   "refuse": "«refuse» — rad etmoq; bu yerda haqiqatni aytishni tan olmaslik ma'nosi bor."
+  }
+ },
+ {
+  "why": "«avoid» — chetlab o'tmoq, qochmoq. Gapda «he was scared» bor: qo'rqqani uchun o'qituvchi bilan gaplashishdan qochgan.",
+  "wrong": {
+   "admit": "«admit» — tan olmoq; qo'rqqani uchun o'qituvchidan qochish ma'nosi mos keladi.",
+   "agree": "«agree» — rozi bo'lmoq; qo'rqqan odam gaplashishni xohlamaydi.",
+   "refuse": "«refuse» — rad etmoq; bu yerda darsdan keyin uchrashishdan qochish kerak."
+  }
+ },
+ {
+  "why": "«agree» — rozi bo'lmoq. Gapda «said yes» bor: ota-onasi «ha» degani ularning roziligini bildiradi.",
+  "wrong": {
+   "refuse": "«refuse» — rad etmoq; ota-onasi «yes» degani rad etmaganini ko'rsatadi.",
+   "decide": "«decide» — qaror qilmoq; ota-ona so'rovga ijobiy javob bergani muhim.",
+   "choose": "«choose» — tanlamoq; bu yerda ruxsat berish ma'nosi bor."
+  }
+ },
+ {
+  "why": "«refuse» — rad etmoq. Gapda «really dislikes carrots» bor: sabzi yoqmagani uchun uni yeyishni rad etgan.",
+  "wrong": {
+   "agree": "«agree» — rozi bo'lmoq; yoqtirmagan narsasini yeyishga rozi bo'lmaydi.",
+   "decide": "«decide» — qaror qilmoq; sabzi yoqmagani uchun yemaslikni tanlagan.",
+   "enjoy": "«enjoy» — zavqlanmoq; yoqtirmagan sabzavotdan zavqlanib bo'lmaydi."
+  }
+ },
+ {
+  "why": "«entrepreneur» — tadbirkor. Gapda «start his own mobile app company» bor: o'z kompaniyasini ochmoqchi bo'lgan odam tadbirkor bo'ladi.",
+  "wrong": {
+   "investor": "«investor» — investor; u kompaniyaga pul tikadi, uni o'zi ochmaydi.",
+   "CEO": "«CEO» — bosh direktor; bu yerda yangi kompaniya ochish haqida gapiryapmiz.",
+   "income": "«income» — daromad; bu shaxsni emas, pulni bildiradi."
+  }
+ },
+ {
+  "why": "«CEO» — bosh direktor. Gapda «leader of our big technology company» bor: kompaniya rahbari bu CEO.",
+  "wrong": {
+   "entrepreneur": "«entrepreneur» — tadbirkor; kompaniya rahbarining rasmiy lavozimi bu CEO.",
+   "investor": "«investor» — investor; u nutq so'zlaydigan rahbar emas.",
+   "salary": "«salary» — oylik maosh; bu odamni anglatmaydi."
+  }
+ },
+ {
+  "why": "«investor» — investor. Gapda «put a lot of money into our school project» bor: loyihaga pul tikadigan odam investor deyiladi.",
+  "wrong": {
+   "entrepreneur": "«entrepreneur» — tadbirkor; bu yerda maktab loyihasiga pul beruvchi haqida.",
+   "CEO": "«CEO» — bosh direktor; pul tikuvchi shaxs investor bo'ladi.",
+   "salary": "«salary» — maosh; bu pul tikuvchi insonga nisbatan ishlatilmaydi."
+  }
+ },
+ {
+  "why": "«coupon» — kupon. Gapda «small paper ticket» bor: chegirma beradigan qog'ozcha bu kupon.",
+  "wrong": {
+   "discount": "«discount» — chegirma; bu qog'oz chipta emas, narxning arzonlashishi.",
+   "sale": "«sale» — savdo; bu kichik qog'oz emas.",
+   "price tag": "«price tag» — narx yorlig'i; u chegirma bermaydi."
+  }
+ },
+ {
+  "why": "«bargain» — qulay narxli buyum. Gapda «half the normal price» bor: o'rtacha narxidan arzon olingan narsa bargain bo'ladi.",
+  "wrong": {
+   "discount": "«discount» — chegirma; bu yerda arzon sotib olingan buyumning o'zi nazarda tutilgan.",
+   "coupon": "«coupon» — kupon; bu qog'oz emas, kurtkaning o'zi.",
+   "sale": "«sale» — chegirma va savdo vaqti; bu buyumning nomi."
+  }
+ },
+ {
+  "why": "«profits» — foyda. Gapda «extra money after selling» bor: sotuvdan keyin tushgan ortiqcha pul foyda deyiladi.",
+  "wrong": {
+   "salary": "«salary» — oylik maosh; do'konning savdodan topgan puli foyda bo'ladi.",
+   "income": "«income» — umumiy daromad; bu yerda sof foyda haqida gap bormoqda.",
+   "funding": "«funding» — moliyalashtirish; bu tashqaridan beriladigan mablag'."
+  }
+ },
+ {
+  "why": "«butcher's» — qassobxona. Gapda «fresh beef and chicken» bor: mol va tovuq go'shti qassobda sotiladi.",
+  "wrong": {
+   "baker's": "«baker's» — nonvoyxona; u yerda faqat non mahsulotlari bo'ladi.",
+   "greengrocer's": "«greengrocer's» — sabzi-mevaxona; u yerda go'sht sotilmaydi.",
+   "newsagent's": "«newsagent's» — gazeta do'koni; go'sht u yerda bo'lmaydi."
+  }
+ },
+ {
+  "why": "«greengrocer's» — sabzi-mevaxona. Gapda «ripe red tomatoes, fresh cucumbers» bor: pomidor va bodring sabzi-mevaxona do'konida bo'ladi.",
+  "wrong": {
+   "baker's": "«baker's» — nonvoyxona; u yerda sabzavotlar sotilmaydi.",
+   "butcher's": "«butcher's» — qassobxona; u yerda faqat go'sht bo'ladi.",
+   "florist's": "«florist's» — gul do'koni; sabzavot u yerda sotilmaydi."
+  }
+ },
+ {
+  "why": "«florist's» — gul do'koni. Gapda «red roses and yellow tulips» bor: atirgul va lolalar gul do'konida sotiladi.",
+  "wrong": {
+   "garden centre": "«garden centre» — bog'dorchilik markazi; bu yerda kichik sovg'a gullari haqida.",
+   "stationer's": "«stationer's» — o'quv qurollari do'koni; gullar u yerda bo'lmaydi.",
+   "chemist's": "«chemist's» — dorixona; gul sotib olinmaydi."
+  }
+ },
+ {
+  "why": "«stationer's» — kantselyariya do'koni. Gapda «blue pens, exercise books» bor: ruchka va daftarlar kantselyariya do'konida sotiladi.",
+  "wrong": {
+   "newsagent's": "«newsagent's» — gazeta do'koni; daftarlar asosan kantselyariyada bo'ladi.",
+   "chemist's": "«chemist's» — dorixona; bu yerda o'quv qurollari sotilmaydi.",
+   "baker's": "«baker's» — nonvoyxona; ruchka va qog'ozlar u yerda yo'q."
+  }
+ },
+ {
+  "why": "«newsagent's» — gazeta va jurnal do'koni. Gapda «daily newspaper and a funny crossword magazine» bor: gazeta va jurnallar shu do'konda sotiladi.",
+  "wrong": {
+   "stationer's": "«stationer's» — kantselyariya; gazeta va jurnallar asosan newsagent's da bo'ladi.",
+   "chemist's": "«chemist's» — dorixona; gazeta sotilmaydi.",
+   "baker's": "«baker's» — nonvoyxona; matbuot mahsulotlari bo'lmaydi."
+  }
+ },
+ {
+  "why": "«chemist's» — dorixona. Gapda «buy some medicine» bor: dori-darmon faqat dorixonadan sotib olinadi.",
+  "wrong": {
+   "optician's": "«optician's» — ko'zoynak do'koni; dori sotilmaydi.",
+   "hairdresser's": "«hairdresser's» — sartaroshxona; bu yerda dori olib bo'lmaydi.",
+   "launderette": "«launderette» — kir yuvish shoxobchasi; dori sotilmaydi."
+  }
+ },
+ {
+  "why": "«optician's» — ko'z mutaxassisi/optika. Gapda «get her eyes tested» bor: ko'zni tekshirtirish optikada qilinadi.",
+  "wrong": {
+   "chemist's": "«chemist's» — dorixona; ko'zni bu yerda tekshirishmaydi.",
+   "hairdresser's": "«hairdresser's» — sartaroshxona; ko'z tekshirilmaydi.",
+   "jeweller's": "«jeweller's» — zargarlik do'koni; ko'zga aloqasi yo'q."
+  }
+ },
+ {
+  "why": "«hairdresser's» — sartaroshxona. Gapda «cut his long hair short» bor: soch oldirish uchun sartaroshxonaga boriladi.",
+  "wrong": {
+   "optician's": "«optician's» — ko'z do'koni; soch oldirilmaydi.",
+   "chemist's": "«chemist's» — dorixona; bu yerda soch kesilmaydi.",
+   "launderette": "«launderette» — kir yuvish joyi; sochga aloqasi yo'q."
+  }
+ },
+ {
+  "why": "«bank» — pul saqlanadigan va qo'yiladigan joy. Gapda «keep lots of money and put some cash» bor: naqd pulni bankka qo'yamiz.",
+  "wrong": {
+   "post-office": "«post-office» — pochta bo'limi; bu yerda pulni saqlash va hisob raqamiga qo'yish haqida gap ketmoqda.",
+   "charity shop": "«charity shop» — xayriya do'koni; bu yerda shaxsiy jamg'arma hisobiga pul qo'yish joyi nazarda tutilgan.",
+   "estate agent's": "«estate agent's» — ko'chmas mulk agentligi; bu yerda bank xizmati haqida so'z bormoqda."
+  }
+ },
+ {
+  "why": "«post-office» — pochta bo'limi. Gapda «sent a heavy box... to her relatives in another city» bor: qutini boshqa shaharga pochta orqali jo'natamiz.",
+  "wrong": {
+   "bank": "«bank» — pul bilan ishlaydigan joy; bu yerda quti jo'natish haqida gapiryapmiz.",
+   "stationer's": "«stationer's» — qog'oz va kanselyariya mollarini sotadigan do'kon; quti jo'natish uchun pochta kerak.",
+   "newsagent's": "«newsagent's» — gazeta va jurnal do'koni; bu yerda og'ir quti yuborish ko'zda tutilgan."
+  }
+ },
+ {
+  "why": "«jeweller's» — zargarlik do'koni. Gapda «silver ring with a small blue stone» bor: kumush uzuk zargarlik do'konida sotiladi.",
+  "wrong": {
+   "chemist's": "«chemist's» — dorixona; uzukni dorixonadan emas, zargardan sotib olamiz.",
+   "florist's": "«florist's» — gul do'koni; zargarlik buyumlari u yerda sotilmaydi.",
+   "stationer's": "«stationer's» — o'quv qurollari do'koni; uzuk zargarlik do'koniga tegishli."
+  }
+ },
+ {
+  "why": "«garden centre» — bog'dorchilik markazi. Gapda «apple trees and green grass seeds to plant» bor: daraxt ko'chatlari va urug'lar bog' markazida bo'ladi.",
+  "wrong": {
+   "DIY store": "«DIY store» — uy-ro'zg'or va ta'mirlash mollari do'koni; tirik daraxt ko'chatlari bog'dorchilik markazidan olinadi.",
+   "florist's": "«florist's» — gul do'koni; bu yerda daraxt ko'chatlari va maysa urug'lari ko'p miqdorda sotilmaydi.",
+   "greengrocer's": "«greengrocer's» — sabzavot va meva do'koni (oziq-ovqat uchun), ekish uchun daraxt ko'chati emas."
+  }
+ },
+ {
+  "why": "«clothes shop» — kiyim do'koni. Gapda «warm woolen sweater» bor: issiq jun sviter kiyim do'konidan sotib olinadi.",
+  "wrong": {
+   "shoe shop": "«shoe shop» — poyabzal do'koni; sviter kiyimga kiradi, poyabzalga emas.",
+   "cosmetics store": "«cosmetics store» — kosmetika do'koni; bu yerda kiyim sotilmaydi.",
+   "jeweller's": "«jeweller's» — zargarlik do'koni; sviter zargarlik buyumi emas."
+  }
+ },
+ {
+  "why": "«shoe shop» — poyabzal do'koni. Gapda «pair of white running shoes» bor: yugurish poyabzali poyabzal do'konidan olinadi.",
+  "wrong": {
+   "clothes shop": "«clothes shop» — kiyim do'koni; oyoq kiyimlar alohida poyabzal do'konida sotiladi.",
+   "newsagent's": "«newsagent's» — matbuot mahsulotlari do'koni; krossovka u yerda bo'lmaydi.",
+   "baker's": "«baker's» — nonvoyxona; oyoq kiyimga aloqasi yo'q."
+  }
+ },
+ {
+  "why": "«afford» — puli yetmoq, xarid qilishga kuchi yetmoq. Gapda «could not pay... because prices were too high» bor: narxlar balandligi sababli xaridga qurbi yetmadi.",
+  "wrong": {
+   "spend": "«spend» — pul sarflamoq; bu yerda puli yetmaslik holati haqida gap ketmoqda.",
+   "save": "«save» — pul yig'moq; gap sotib olish imkoniyati (qurbi yetish) haqida.",
+   "cost": "«cost» — turmoq (narxda bo'lmoq); egasi «he» bo'lgani uchun «he could not cost» ma'no jihatdan to'g'ri kelmaydi."
+  }
+ },
+ {
+  "why": "«baker's» — nonvoyxona. Gapda «fresh bread and hot rolls» bor: yangi non va bulochkalar nonvoyxonadan xarid qilinadi.",
+  "wrong": {
+   "butcher's": "«butcher's» — qassobxona; bu yerda faqat go'sht mahsulotlari bo'ladi.",
+   "greengrocer's": "«greengrocer's» — sabzavot va meva do'koni; non nonvoyxonada sotiladi.",
+   "chemist's": "«chemist's» — dorixona; non sotib olinadigan joy emas."
+  }
+ },
+ {
+  "why": "«butcher's» — qassobxona. Gapda «fresh beef... visited the meat market» bor: yangi mol go'shti qassobxonadan olinadi.",
+  "wrong": {
+   "baker's": "«baker's» — nonvoyxona; u yerda go'sht emas, non sotiladi.",
+   "greengrocer's": "«greengrocer's» — sabzavot va meva do'koni; go'sht qassobxonada bo'ladi.",
+   "florist's": "«florist's» — gul do'koni; go'shtga aloqasi yo'q."
+  }
+ },
+ {
+  "why": "«chemist's» — dorixona. Gapda «cold medicine and vitamins» bor: shamollash dorilari va vitaminlar dorixonadan olinadi.",
+  "wrong": {
+   "baker's": "«baker's» — nonvoyxona; dorilar u yerda sotilmaydi.",
+   "newsagent's": "«newsagent's» — gazeta do'koni; davolanish uchun dori dorixonadan olinadi.",
+   "stationer's": "«stationer's» — daftarlar do'koni; dori-darmonga mos kelmaydi."
+  }
+ },
+ {
+  "why": "«florist's» — gul do'koni. Gapda «bouquet of red roses» bor: qizil atirgullar dastasini gul do'konidan sotib olamiz.",
+  "wrong": {
+   "jeweller's": "«jeweller's» — zargarlik do'koni; gullar zargarlik buyumi emas.",
+   "garden centre": "«garden centre» — ko'chat va bog'dorchilik markazi; tayyor gul dastasini maxsus gul do'konidan olamiz.",
+   "cosmetics store": "«cosmetics store» — kosmetika do'koni; gullar u yerda sotilmaydi."
+  }
+ },
+ {
+  "why": "«newsagent's» — matbuot/gazeta do'koni. Gapda «latest weekly magazine» bor: haftalik jurnal matbuot do'konida yoki kioska sotiladi.",
+  "wrong": {
+   "stationer's": "«stationer's» — qog'oz-qalam do'koni; jurnallar asosan newsagent'da bo'ladi.",
+   "chemist's": "«chemist's» — dorixona; jurnal sotib olish uchun boshqa joy kerak.",
+   "baker's": "«baker's» — nonvoyxona; jurnal sotilmaydi."
+  }
+ },
+ {
+  "why": "«stationer's» — o'quv qurollari do'koni. Gapda «new notebooks and colourful pens» bor: daftar va ruchkalar kanselyariya do'konidan olinadi.",
+  "wrong": {
+   "newsagent's": "«newsagent's» — asosan gazeta-jurnal sotadi; o'quv qurollari stationer's do'konida bo'ladi.",
+   "chemist's": "«chemist's» — dorixona; daftarga aloqasi yo'q.",
+   "baker's": "«baker's» — nonvoyxona; daftar sotilmaydi."
+  }
+ },
+ {
+  "why": "«jeweller's» — zargarlik do'koni. Gapda «shiny silver ring» bor: yaltiroq kumush uzuk zargarlik do'konida sotiladi.",
+  "wrong": {
+   "florist's": "«florist's» — gul do'koni; uzuk gullar do'konida bo'lmaydi.",
+   "clothes shop": "«clothes shop» — kiyim do'koni; uzuk zargarlik buyumiga kiradi.",
+   "cosmetics store": "«cosmetics store» — kosmetika do'koni; taqinchoqlar zargarlik do'konidan olinadi."
+  }
+ },
+ {
+  "why": "«spend» — pul sarflamoq. Gapda «buy a new video game using pocket money» bor: o'yinchoq sotib olish uchun pul sarflaymiz.",
+  "wrong": {
+   "save": "«save» — pul yig'moq; bola o'yin sotib olish uchun pulni sarflagan.",
+   "borrow": "«borrow» — qarzga olmoq; matnda o'zining «pocket money» puli ishlatilgani aytilgan.",
+   "lend": "«lend» — qarzga bermoq; bola o'z puliga sotib olgan."
+  }
+ },
+ {
+  "why": "«borrow» — qarzga olmoq. Gapda «give me... until next Monday when I get my monthly allowance» bor: kelasi dushanbagacha pulni vaqtincha so'rab olyapsiz.",
+  "wrong": {
+   "lend": "«lend» — qarzga bermoq; bu yerda siz boshqadan pul so'rayapsiz, demak borrow bo'ladi.",
+   "save": "«save» — pul yig'moq; birovdan vaqtincha so'rashga to'g'ri kelmaydi.",
+   "spend": "«spend» — sarflamoq; bu yerda qarzga olish harakati so'ralyapti."
+  }
+ },
+ {
+  "why": "«lend» — qarzga bermoq. Gapda «I gave my friend some money» bor: do'stingizga tushlik qilish uchun o'z pulingizni qarzga berdingiz.",
+  "wrong": {
+   "borrow": "«borrow» — qarzga olmoq; siz do'stingizga beryapsiz, shuning uchun lend to'g'ri keladi.",
+   "save": "«save» — pul jamg'armoq; do'stga pul berish harakati lend deyiladi.",
+   "spend": "«spend» — pul sarflamoq; boshqaga vaqtincha berish lend bo'ladi."
+  }
+ },
+ {
+  "why": "«discount» — chegirma. Gapda «twenty percent reduction in the usual price» bor: narxning 20 foizga kamaytirilishi chegirma deyiladi.",
+  "wrong": {
+   "refund": "«refund» — pulni qaytarib berish; bu yerda oddiy narxdan arzonlashish haqida gapiryapmiz.",
+   "coupon": "«coupon» — kupon; bu narxning pasaytirilgan holatini (chegirma) bildiradi.",
+   "price tag": "«price tag» — narxnoma; u chegirma foizini ko'rsatmaydi."
+  }
+ },
+ {
+  "why": "«price tag» — narx yorlig'i. Gapda «small paper ticket shows that... costs...» bor: kiyim qancha turishini ko'rsatadigan qog'ozcha narxnoma hisoblanadi.",
+  "wrong": {
+   "receipt": "«receipt» — chek; xarid qilib bo'lgandan keyin beriladi, bu esa kiyimdagi narx yorlig'i.",
+   "coupon": "«coupon» — chegirma kuponi; narx ko'rsatilgan qog'ozcha price tag deyiladi.",
+   "discount": "«discount» — chegirma; u qog'oz turlariga kirmaydi."
+  }
+ },
+ {
+  "why": "«receipt» — xarid cheki. Gapda «after buying... cashier gave me a small paper slip to prove the purchase» bor: xaridni tasdiqlash uchun kassir beradigan qog'oz chekdir.",
+  "wrong": {
+   "price tag": "«price tag» — narx yorlig'i; u kiyimda osig'liq turadi, xariddan keyin berilmaydi.",
+   "coupon": "«coupon» — kupon; xaridni isbotlovchi qog'oz slip chek (receipt) bo'ladi.",
+   "refund": "«refund» — pulni qaytarib olish; bu xarid cheki emas."
+  }
+ },
+ {
+  "why": "«florist's» — gul dokoni. Gapda «fresh flowers» bor: yangi gullarni gul dokondan sotib olamiz.",
+  "wrong": {
+   "baker's": "«baker's» — nonvoyxona; u yerda gullar emas, non sotiladi.",
+   "butcher's": "«butcher's» — qassobxona; u yerda faqat go'sht sotiladi.",
+   "newsagent's": "«newsagent's» — gazeta va jurnal do'koni; bu yerda gul sotilmaydi."
+  }
+ },
+ {
+  "why": "«afford» — sotib olishga qurbi yetmoq. Gapda «saving his pocket money» bor: pul yig'ib smartfon sotib olishga qurbi yetmoqchi.",
+  "wrong": {
+   "waste": "«waste» — sovurmoq yoki behuda sarflamoq; pulni tejab uni sovurib bo'lmaydi.",
+   "cost": "«cost» — narxlanmoq; bu yerda egasi smartfon sotib olmoqchi, narxlanmoq ma'nosi to'g'ri kelmaydi.",
+   "spend": "«spend» — sarflamoq; lekin «want to spend a smartphone» iborasi bu yerda mantiqqa to'g'ri kelmaydi."
+  }
+ },
+ {
+  "why": "«butcher's» — qassobxona. Gapda «fresh beef and chicken» bor: yangi mol va tovuq go'shtini qassobxonadan xarid qilamiz.",
+  "wrong": {
+   "baker's": "«baker's» — nonvoyxona; u yerda go'sht emas, non mahsulotlari bo'ladi.",
+   "greengrocer's": "«greengrocer's» — sabzavot do'koni; bu yerda faqat sabzavot va mevalar sotiladi.",
+   "chemist's": "«chemist's» — dorixona; bu yerda go'sht sotib olinmaydi."
+  }
+ },
+ {
+  "why": "«price tag» — narx yorlig'i. Gapda «not too expensive» bor: narxlar qimmat emasligini bilish uchun narx yorlig'iga qaraymiz.",
+  "wrong": {
+   "receipt": "«receipt» — chek; u buyum sotib olingandan keyin beriladi, narxni tekshirish uchun unga qarab bo'lmaydi.",
+   "coupon": "«coupon» — kupon; u chegirma olish uchun kerak bo'ladi.",
+   "discount": "«discount» — chegirma; kiyimga osilgan narsa chegirma emas, narx yorlig'idir."
+  }
+ },
+ {
+  "why": "«receipt» — xarid cheki. Gapda «bring back the jacket» bor: kurtkani qaytarish uchun xarid chekini saqlash kerak.",
+  "wrong": {
+   "coupon": "«coupon» — chegirma kuponi; uni emas, chekni saqlash talab etiladi.",
+   "discount": "«discount» — chegirma; qog'oz ko'rinishidagi chekni chegirma deb bo'lmaydi.",
+   "price tag": "«price tag» — narx yorlig'i; uni sumkada saqlab qo'yish kerak emas."
+  }
+ },
+ {
+  "why": "«pretend» — o'zini... qilib ko'rsatmoq. Gapda «that she is a famous queen» bor: u mashhur qirolicha bo'lib o'ynashni yaxshi ko'radi.",
+  "wrong": {
+   "decide": "«decide» — qaror qilmoq; qirolicha bo'lishga qaror qilmoq bu yerda mos kelmaydi.",
+   "expect": "«expect» — kutmoq; o'yin paytida qirolicha bo'lishni kutish ma'nosi noto'g'ri.",
+   "refuse": "«refuse» — rad etmoq; bu yerda rad etish haqida gap ketmayapti."
+  }
+ },
+ {
+  "why": "«sell» — sotmoq. Gapda «for a very small price» bor: eski velosipedni qo'shni bolaga kichik narxda sotishga qaror qildik.",
+  "wrong": {
+   "buy": "«buy» — sotib olmoq; o'z velosipedimizni boshqaga sotamiz, sotib olmaymiz.",
+   "borrow": "«borrow» — vaqtincha olib turmoq; kichik narx evaziga boshqaga berish «sell» bo'ladi.",
+   "lend": "«lend» — qarzga bermoq; narx evaziga berish sotishni bildiradi."
+  }
+ },
+ {
+  "why": "«post-office» — pochta bo'limi. Gapda «post this birthday letter» bor: tug'ilgan kun maktubini jo'natish uchun pochtaga borish kerak.",
+  "wrong": {
+   "bank": "«bank» — bank; maktub yoki xat jo'natish uchun bankka borilmaydi.",
+   "chemist's": "«chemist's» — dorixona; bu yerda xat jo'natib bo'lmaydi.",
+   "launderette": "«launderette» — kir yuvish shoxobchasi; maktubga bu yerning aloqasi yo'q."
+  }
+ },
+ {
+  "why": "«baker's» — nonvoyxona. Gapda «very delicious warm bread» bor: iliq non va shirin pechenyelarni nonvoyxonadan topamiz.",
+  "wrong": {
+   "butcher's": "«butcher's» — qassobxona; bu yerda non sotilmaydi.",
+   "greengrocer's": "«greengrocer's» — sabzavot do'koni; nonvoyxona mahsulotlari u yerda bo'lmaydi.",
+   "newsagent's": "«newsagent's» — gazeta do'koni; mazali nonlar bu yerda sotilmaydi."
+  }
+ },
+ {
+  "why": "«choose» — tanlamoq. Gapda «a nice blue dress» bor: bitiruv kechasi uchun chiroyli ko'ylak tanlamoqchi.",
+  "wrong": {
+   "refuse": "«refuse» — rad etmoq; chiroyli ko'ylakni rad etish mantiqqa to'g'ri kelmaydi.",
+   "pretend": "«pretend» — o'zini ko'rsatmoq; ko'ylakni o'zini ko'rsatib bo'lmaydi.",
+   "admit": "«admit» — tan olmoq; ko'ylak tanlash jarayoniga bu so'z mos emas."
+  }
+ },
+ {
+  "why": "«avoid» — o'zini tortmoq yoki yiroq tutmoq. Gapda «very unhealthy» bor: fast-fud zararli bo'lgani uchun uni ko'p yeyishdan saqlanishimiz kerak.",
+  "wrong": {
+   "enjoy": "«enjoy» — zavqlanmoq; zararli ovqatdan zavqlanish kerak emas.",
+   "mind": "«mind» — e'tirof etmoq yoki qarshi bo'lmoq; ma'nosi bu yerga mos tushmaydi.",
+   "fancy": "«fancy» — xohlamoq; zararli ovqatni ko'p yeyishni xohlamaslik kerak."
+  }
+ },
+ {
+  "why": "«entrepreneur» — tadbirkor. Gapda «manages a large furniture factory» bor: mebel fabrikasini boshqaradigan kishi muvaffaqiyatli tadbirkordir.",
+  "wrong": {
+   "investor": "«investor» — investor; u pul tikadi, lekin fabrikani bevosita boshqaruvchi shaxs tadbirkordir.",
+   "CEO": "«CEO» — bosh direktor; bu so'z oxirida 's' harfi yo'qligi va qolipga ko'ra bu yerga mos kelmaydi.",
+   "estate agent's": "«estate agent's» — ko'chmas mulk agentligi; bu odamni bildirmaydi."
+  }
+ },
+ {
+  "why": "«investor» — investor. Gapda «put fifty thousand dollars into... project» bor: loyihaga pul tikkan yosh kishi investor hisoblanadi.",
+  "wrong": {
+   "entrepreneur": "«entrepreneur» — tadbirkor; pul tikuvchi shaxs investor deyiladi.",
+   "CEO": "«CEO» — bosh direktor; bu yerda pul tikish haqida gap ketmoqda.",
+   "bargain": "«bargain» — kelishilgan arzon narx; bu odamni bildirmaydi."
+  }
+ },
+ {
+  "why": "«bargain» — foydali xarid yoki arzon narx. Gapda «half price today» bor: etiklarning narxi yarmiga tushgani uchun bu juda zo'r bargain bo'ldi.",
+  "wrong": {
+   "coupon": "«coupon» — chegirma kuponi; bu yerda topilgan narsa kupon emas, foydali xarid.",
+   "refund": "«refund» — pulni qaytarib berish; bu yerda xarid qilish haqida gap bormoqda.",
+   "discount": "«discount» — chegirma; 'found a wonderful discount' emas, balki 'bargain' so'zi ishlatiladi."
+  }
+ },
+ {
+  "why": "«discount» — chegirma. Gapda «used a special online code» bor: maxsus kod yordamida noutbukka yaxshi chegirma oldi.",
+  "wrong": {
+   "receipt": "«receipt» — chek; kod orqali chek emas, chegirma olinadi.",
+   "price tag": "«price tag» — narx yorlig'i; uni maxsus kod yordamida olib bo'lmaydi.",
+   "refund": "«refund» — pulni qaytarish; bu yerda chegirma haqida gap ketmoqda."
+  }
+ },
+ {
+  "why": "«coupon» — chegirma kuponi. Gapda «get twenty percent off» bor: kitob do'konidan arzonroq olish uchun ushbu kuponni ishlatasiz.",
+  "wrong": {
+   "receipt": "«receipt» — xarid cheki; u chegirma berish uchun ishlatilmaydi.",
+   "price tag": "«price tag» — narx yorlig'i; u chegirma olishga yordam bermaydi.",
+   "bargain": "«bargain» — foydali xarid; bu yerda esa qog'oz kupon haqida gapiryapmiz."
+  }
+ },
+ {
+  "why": "«greengrocer's» — sabzavot va meva do'koni. Gapda «fresh apples and carrots» bor: olma va sabzavotlar shu do'konda sotiladi.",
+  "wrong": {
+   "baker's": "«baker's» — nonvoyxona; sabzavotlar u yerda bo'lmaydi.",
+   "butcher's": "«butcher's» — qassobxona; bu yerda faqat go'sht mahsulotlari sotiladi.",
+   "florist's": "«florist's» — gul dokoni; sabzavotlar bu yerda sotilmaydi."
+  }
+ },
+ {
+  "why": "«newsagent's» — gazeta va jurnal do'koni. Gapda «read newspapers and buy a weekly magazine» bor: gazeta o'qish uchun newsagent's ga boriladi.",
+  "wrong": {
+   "stationer's": "«stationer's» — qog'oz-dftarlar do'koni; gazeta sotib olish uchun newsagent's ishlatiladi.",
+   "baker's": "«baker's» — nonvoyxona; u yerda gazeta sotilmaydi.",
+   "greengrocer's": "«greengrocer's» — sabzavot do'koni; bu yerda matbuot nashrlari bo'lmaydi."
+  }
+ },
+ {
+  "why": "«chemist's» — dorixona. Gapda «headache medicine» bor: bosh og'rig'i dorisini dorixondan olamiz.",
+  "wrong": {
+   "baker's": "«baker's» — nonvoyxona; dori vositalarini u yerdan topib bo'lmaydi.",
+   "greengrocer's": "«greengrocer's» — sabzavot do'koni; bu yerda dori sotilmaydi.",
+   "newsagent's": "«newsagent's» — gazeta do'koni; dori olish uchun dorixonaga borish kerak."
+  }
+ },
+ {
+  "why": "«takeaway» — tayyor ovqat olib ketish joyi. Gapda «delicious hot pizza» bor: issiq pitsani tayyor ovqat do'konidan sotib olamiz.",
+  "wrong": {
+   "baker's": "«baker's» — nonvoyxona; u yerda pitsa pishirilmaydi.",
+   "butcher's": "«butcher's» — qassobxona; tayyor pitsa bu yerda sotilmaydi.",
+   "greengrocer's": "«greengrocer's» — sabzavot do'koni; pitsaga bu yerning aloqasi yo'q."
+  }
+ },
+ {
+  "why": "«coffee shop» — kofe do‘koni yoki kafe. Gapda «green tea and eat chocolate cake» bor, bularni kafe yoki qahvaxonada iste’mol qilishadi.",
+  "wrong": {
+   "chemist's": "«chemist's» — dorixona; bu yerda choy ichib, tort yeb bo‘lmaydi.",
+   "stationer's": "«stationer's» — kanselyariya mollari do‘koni; bu yerda yegulik sotilmaydi.",
+   "newsagent's": "«newsagent's» — gazeta va jurnal do‘koni; bu yerda tort yeb o‘tirilmaydi."
+  }
+ },
+ {
+  "why": "«butcher's» — qassobxona, go‘sht do‘koni. Gapda «fresh beef and chicken» bor, ularni aynan qassobdan sotib olamiz.",
+  "wrong": {
+   "baker's": "«baker's» — nonvoyxona; u yerda faqat non va pishiriqlar sotiladi.",
+   "greengrocer's": "«greengrocer's» — sabzi va meva do‘koni; u yerda go‘sht sotilmaydi.",
+   "chemist's": "«chemist's» — dorixona; bu yerda oziq-ovqat mahsulotlari bo‘lmaydi."
+  }
+ },
+ {
+  "why": "«clothes shop» — kiyim do‘koni. Gapda «fashion» va «buy new dresses» bor, yangi ko‘ylaklarni kiyim do‘konidan xarid qilamiz.",
+  "wrong": {
+   "newsagent's": "«newsagent's» — gazeta do‘koni; bu yerda ko‘ylak sotilmaydi.",
+   "stationer's": "«stationer's» — o‘quv qurollari do‘koni; u yerda faqat daftar-qalam bo‘ladi.",
+   "baker's": "«baker's» — nonvoyxona; bu yerda kiyim topolmaysiz."
+  }
+ },
+ {
+  "why": "«discount» — chegirma. Gapda «buy two T-shirts today» bor, ikkita narsa olganda odatda narxidan chegirma berishadi.",
+  "wrong": {
+   "price tag": "«price tag» — narx yorlig‘i; uni sovg‘a sifatida olmaysiz.",
+   "receipt": "«receipt» — chek; bu chegirma ma’nosini bildirmaydi.",
+   "contract": "«contract» — shartnoma; do‘konda T-shirt olganda shartnoma tuzilmaydi."
+  }
+ },
+ {
+  "why": "«afford» — imkoniyati bo‘lmoq (pul yetmoq). Gapda «expensive smartphone» va «pocket money is very low» bor, demak puli yetmayapti.",
+  "wrong": {
+   "spend": "«spend» — sarflamoq; bu yerda «cannot spend to buy» deb ishlatib bo‘lmaydi.",
+   "offer": "«offer» — taklif qilmoq; ma’nosi bu yerga mos kelmaydi.",
+   "charge": "«charge» — haq olmoq; grammatik jihatdan ham to‘g‘ri kelmaydi."
+  }
+ },
+ {
+  "why": "«price tag» — narx yorlig‘i. Gapda «see how much money it costs» bor, narxini bilish uchun narx yorlig‘iga qaraymiz.",
+  "wrong": {
+   "discount": "«discount» — chegirma; uni ko‘rib qancha turishini aniqlab bo‘lmaydi.",
+   "coupon": "«coupon» — kupon; bu narxni ko‘rsatuvchi qog‘oz emas.",
+   "refund": "«refund» — pulni qaytarib berish; u jaketga osib qo‘yilmaydi."
+  }
+ },
+ {
+  "why": "«jeweller's» — zargarlik do‘koni. Gapda «beautiful gold ring» bor, oltin uzukni faqat zargardan sotib olamiz.",
+  "wrong": {
+   "florist's": "«florist's» — gul do‘koni; bu yerda gul sotiladi, uzuk emas.",
+   "launderette": "«launderette» — kir yuvish shoxobchasi; u yerda buyum sotib olinmaydi.",
+   "hairdresser's": "«hairdresser's» — sartaroshxona; bu yerda soch kesishadi, uzuk sotishmaydi."
+  }
+ },
+ {
+  "why": "«newsagent's» — gazeta va jurnal do‘koni. Gapda «morning newspaper» bor, gazetani «newsagent's»dan sotib olamiz.",
+  "wrong": {
+   "coffee shop": "«coffee shop» — qahvaxona; u yerda gazeta o‘qish mumkin, lekin sotib olinmaydi.",
+   "post-office": "«post-office» — pochta; gazetalar asosan «newsagent's»da sotiladi.",
+   "baker's": "«baker's» — nonvoyxona; u yerda faqat non mahsulotlari bo‘ladi."
+  }
+ },
+ {
+  "why": "«receipt» — xarid cheki. Gapda «return the shoes tomorrow» bor, poyabzalni almashtirish yoki qaytarish uchun chek kerak bo‘ladi.",
+  "wrong": {
+   "coupon": "«coupon» — kupon; mahsulotni qaytarish uchun chek talab qilinadi, kupon emas.",
+   "bargain": "«bargain» — foydali xarid; uni qo‘lda saqlab yurib bo‘lmaydi.",
+   "salary": "«salary» — oylik maosh; poyabzalga aloqasi yo‘q."
+  }
+ },
+ {
+  "why": "«sell» — sotmoq. Gapda «needs a larger one» bor, demak u eskisini sotib, kattasini olmoqchi.",
+  "wrong": {
+   "buy": "«buy» — sotib olmoq; o‘zining eski velosipedini sotib ololmaydi.",
+   "borrow": "«borrow» — qarzga olmoq; bu yerda ma’nosi to‘g‘ri kelmaydi.",
+   "lend": "«lend» — qarzga bermoq; gapda o‘z velosipedi haqida ketyapti."
+  }
+ },
+ {
+  "why": "«borrow» — qarzga olmoq. Gapda «money from our friendly neighbor» bor, qo‘shnidan pulni qarzga olamiz. «borrow» fe’li kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«afford» — puli yetmoq. Gapda «extremely expensive» bor, moshinaning narxi juda qimmat bo‘lgani uchun sotib olishga qurbi yetmaydi. «afford» fe’li kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«sell» — sotmoq. Gapda «someone who really needs it» bor, eski kiyimni boshqasiga sotish yoki berish mumkin. «sell» fe’li kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«pay» — pul to‘lamoq. Gapda «for his new English textbook at the school bookshop» bor, kitob uchun pul to‘lash kerak. «pay» fe’li kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«receipt» — chek, kvitansiya. Gapda «paper» va «return the shoes» bor, tovar qaytarilganda qog‘oz chek talab qilinadi. «receipt» so‘zi kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«entrepreneur» — tadbirkor. Gapda «start his own technology company» bor, o‘z kompaniyasini ochuvchi shaxs tadbirkor deyiladi. «entrepreneur» so‘zi kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«discount» — chegirma. Gapda «bought three large bottles of juice» bor, ko‘p narsa olgani uchun do‘kon chegirma bergan. «discount» so‘zi kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«waste» — vaqtni behuda sarflamoq. Gapda «playing computer games when I should finish my homework» bor, dars qilinmasa vaqt behuda ketadi. «waste» fe’li kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«admit» — tan olmoq. Gapda «everyone saw him playing football outside» bor, hamma ko‘rganidan keyin aybni tan olishga majbur bo‘lgan. «admit» fe’li kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«save» — pul yig‘moq, tejab qolmoq. Gapda «travel to Samarkand next summer» bor, sayohat qilish uchun oldindan pul yig‘ish kerak. «save» fe’li kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«buy» — sotib olmoq. Gapda «blue dress for her sister's upcoming birthday party» bor: tug'ilgan kunga ko'ylak sotib olinadi.",
+  "wrong": {}
+ },
+ {
+  "why": "«salary» — oylik maosh. Gapda «monthly» va «office job» so'zlari bor: idora xodimi har oy maosh oladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«choose» — tanlamoq. Gapda «to the cinema... or stay at home» bor: ikkita variantdan birini tanlash kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«contract» — shartnoma. Gapda «businessman signed» va «international company» bor: tadbirkor kompaniya bilan shartnoma imzolaydi.",
+  "wrong": {}
+ },
+ {
+  "why": "«pretend» — o'zini shunday ko'rsatmoq. Gapda «that he was sleeping» bor: uuxlamasdan uxlab yotgandek ko'rsatmoqchi bo'lgan.",
+  "wrong": {}
+ },
+ {
+  "why": "«coupon» — kupon, chegirma qog'ozi. Gapda «small ... on our coffee» va «use this paper» bor.",
+  "wrong": {}
+ },
+ {
+  "why": "«sale» — chegirma savdosi. Gapda «traditional Uzbek dishes» va «big ...» bor.",
+  "wrong": {}
+ },
+ {
+  "why": "«lend» — qarzga bermoq. Gapda «some money to her younger sister» bor: opasi singlisiga pul beradi.",
+  "wrong": {}
+ },
+ {
+  "why": "«borrow» — qarzga olmoq. Gapda «from you» va «interesting book» bor: kitobni sizdan vaqtincha olib turmoqchi.",
+  "wrong": {}
+ },
+ {
+  "why": "«buy» — sotib olmoq. Gapda «nice red dress for her best friend's wedding» bor: to'y uchun ko'ylak sotib olinadi.",
+  "wrong": {}
+ },
+ {
+  "why": "«entrepreneur» — tadbirkor. Gapda «works hard as a successful» va «Tashkent city center» bor.",
+  "wrong": {}
+ },
+ {
+  "why": "«sale» — chegirma. Gapda «fifty percent cheaper» bor: arzon narxda sotuvdan olingan.",
+  "wrong": {}
+ },
+ {
+  "why": "«receipt» — chek. Gapda «change the shirt» va «paper» bor: ko'ylakni almashtirish uchun chek kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«coupon» — kupon. Gapda «free pizza delivery» va «local newspaper» bor.",
+  "wrong": {}
+ },
+ {
+  "why": "«takeaway» — olib ketiladigan ovqat. Gapda «mutton ... from the restaurant for dinner» bor.",
+  "wrong": {}
+ },
+ {
+  "why": "«launderette» — kir yuvish shoxobchasi. Gapda «dirty winter coats» va «heavy rain» bor.",
+  "wrong": {}
+ },
+ {
+  "why": "«bank» — bank. Gapda «deposit some savings into my account» bor: pulni bankka qo'yiladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«save» — pul yig'moq. Gapda «money every month» va «buy a new laptop» bor.",
+  "wrong": {}
+ },
+ {
+  "why": "«receipt» — chek. Gapda «return the faulty shirt» bor: buzilgan kiyimni qaytarish uchun chek saqlanadi.",
+  "wrong": {}
+ },
+ {
+  "why": "«lend» — qarz bermoq. Gapda «me five thousand som until tomorrow» bor.",
+  "wrong": {}
+ }
+]

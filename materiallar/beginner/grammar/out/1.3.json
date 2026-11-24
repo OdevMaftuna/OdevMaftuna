@@ -1,0 +1,1172 @@
+{
+ "code": "1.3",
+ "model": "gemini-3.5-flash-lite",
+ "tr1": [
+  {
+   "part": 0,
+   "uz": "Bu kitoblar.",
+   "en": [
+    "These are books."
+   ],
+   "rule": "Ko'plik: book so'ziga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular sumkalar.",
+   "en": [
+    "They are bags."
+   ],
+   "rule": "Ko'plik: bag so'ziga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu kameralar.",
+   "en": [
+    "These are cameras."
+   ],
+   "rule": "Ko'plik: camera so'ziga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular mashinalar.",
+   "en": [
+    "They are cars."
+   ],
+   "rule": "Ko'plik: car so'ziga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu kompyuterlar.",
+   "en": [
+    "These are computers."
+   ],
+   "rule": "Ko'plik: computer so'ziga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular stakanlar.",
+   "en": [
+    "They are cups."
+   ],
+   "rule": "Ko'plik: cup so'ziga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu uylar.",
+   "en": [
+    "These are houses."
+   ],
+   "rule": "Ko'plik: house so'ziga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular telefonlar.",
+   "en": [
+    "They are phones."
+   ],
+   "rule": "Ko'plik: phone so'ziga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu suratlar.",
+   "en": [
+    "These are photographs."
+   ],
+   "rule": "Ko'plik: photograph so'ziga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular televizorlar.",
+   "en": [
+    "They are televisions."
+   ],
+   "rule": "Ko'plik: television so'ziga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mushuklar.",
+   "en": [
+    "These are cats."
+   ],
+   "rule": "Ko'plik: cat so'ziga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular itlar.",
+   "en": [
+    "They are dogs."
+   ],
+   "rule": "Ko'plik: dog so'ziga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu stollar.",
+   "en": [
+    "These are tables."
+   ],
+   "rule": "Ko'plik: table so'ziga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular stullar.",
+   "en": [
+    "They are chairs."
+   ],
+   "rule": "Ko'plik: chair so'ziga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu eshiklar.",
+   "en": [
+    "These are doors."
+   ],
+   "rule": "Ko'plik: door so'ziga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular derazalar.",
+   "en": [
+    "These are windows."
+   ],
+   "rule": "Ko'plik: window so'ziga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu qizlar.",
+   "en": [
+    "These are girls."
+   ],
+   "rule": "Ko'plik: girl so'ziga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular bolalar.",
+   "en": [
+    "They are boys."
+   ],
+   "rule": "Ko'plik: boy so'ziga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu o'qituvchilar.",
+   "en": [
+    "These are teachers."
+   ],
+   "rule": "Ko'plik: teacher so'ziga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular talabalar.",
+   "en": [
+    "They are students."
+   ],
+   "rule": "Ko'plik: student so'ziga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu do'stlar.",
+   "en": [
+    "These are friends."
+   ],
+   "rule": "Ko'plik: friend so'ziga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular xonalar.",
+   "en": [
+    "They are rooms."
+   ],
+   "rule": "Ko'plik: room so'ziga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu olmalar.",
+   "en": [
+    "These are apples."
+   ],
+   "rule": "Ko'plik: apple so'ziga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Mening kitoblarim.",
+   "en": [
+    "These are my books."
+   ],
+   "rule": "Egalik va ko'plik: my books."
+  },
+  {
+   "part": 0,
+   "uz": "Sizning sumkalaringiz.",
+   "en": [
+    "These are your bags."
+   ],
+   "rule": "Egalik va ko'plik: your bags."
+  },
+  {
+   "part": 0,
+   "uz": "Mening mashinalarim.",
+   "en": [
+    "These are my cars."
+   ],
+   "rule": "Egalik va ko'plik: my cars."
+  },
+  {
+   "part": 0,
+   "uz": "Sizning uylaringiz.",
+   "en": [
+    "These are your houses."
+   ],
+   "rule": "Egalik va ko'plik: your houses."
+  },
+  {
+   "part": 0,
+   "uz": "Mening telefonlarim.",
+   "en": [
+    "These are my phones."
+   ],
+   "rule": "Egalik va ko'plik: my phones."
+  },
+  {
+   "part": 0,
+   "uz": "Sizning do'stlaringiz.",
+   "en": [
+    "These are your friends."
+   ],
+   "rule": "Egalik va ko'plik: your friends."
+  },
+  {
+   "part": 0,
+   "uz": "Bu katta uylar.",
+   "en": [
+    "These are big houses."
+   ],
+   "rule": "Sifat o'zgarmaydi, faqat otga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular kichik mashinalar.",
+   "en": [
+    "They are small cars."
+   ],
+   "rule": "Sifat o'zgarmaydi, faqat otga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu yaxshi kitoblar.",
+   "en": [
+    "These are good books."
+   ],
+   "rule": "Sifat o'zgarmaydi, otga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular kichik xonalar.",
+   "en": [
+    "They are small rooms."
+   ],
+   "rule": "Sifat o'zgarmaydi, otga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu katta stollar.",
+   "en": [
+    "These are big tables."
+   ],
+   "rule": "Sifat o'zgarmaydi, otga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular kichik mushuklar.",
+   "en": [
+    "They are small cats."
+   ],
+   "rule": "Sifat o'zgarmaydi, otga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu yaxshi olmalar.",
+   "en": [
+    "These are good apples."
+   ],
+   "rule": "Sifat o'zgarmaydi, otga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular katta itlar.",
+   "en": [
+    "They are big dogs."
+   ],
+   "rule": "Sifat o'zgarmaydi, otga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mening kompyuterlarim.",
+   "en": [
+    "These are my computers."
+   ],
+   "rule": "Egalik va ko'plik: my computers."
+  },
+  {
+   "part": 0,
+   "uz": "Ular sizning suratlarigiz.",
+   "en": [
+    "They are your photographs."
+   ],
+   "rule": "Egalik va ko'plik: your photographs."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mening stakanlarim.",
+   "en": [
+    "These are my cups."
+   ],
+   "rule": "Egalik va ko'plik: my cups."
+  },
+  {
+   "part": 1,
+   "uz": "Bu avtobuslar.",
+   "en": [
+    "These are buses."
+   ],
+   "rule": "-s bilan tugagani uchun -es qo'shiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular sendvichlar.",
+   "en": [
+    "They are sandwiches."
+   ],
+   "rule": "-ch bilan tugagani uchun -es qo'shiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu qo'l soatlari.",
+   "en": [
+    "These are watches."
+   ],
+   "rule": "-tch bilan tugagani uchun -es qo'shiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular gamburgerlar.",
+   "en": [
+    "They are hamburgers."
+   ],
+   "rule": "Bu yerda oddiy -s qo'shiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu katta avtobuslar.",
+   "en": [
+    "These are big buses."
+   ],
+   "rule": "Bus so'ziga -es qo'shiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular mazali sendvichlar.",
+   "en": [
+    "They are good sandwiches."
+   ],
+   "rule": "Sandwich so'ziga -es qo'shiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu mening soatlarim.",
+   "en": [
+    "These are my watches."
+   ],
+   "rule": "Watch so'ziga -es qo'shiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular sizning avtobuslaringiz.",
+   "en": [
+    "They are your buses."
+   ],
+   "rule": "Bus so'ziga -es qo'shiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu kichik sendvichlar.",
+   "en": [
+    "These are small sandwiches."
+   ],
+   "rule": "Sandwich so'ziga -es qo'shiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular yaxshi soatlar.",
+   "en": [
+    "They are good watches."
+   ],
+   "rule": "Watch so'ziga -es qo'shiladi."
+  }
+ ],
+ "tr51": [
+  {
+   "part": 1,
+   "uz": "Bular avtobuslar.",
+   "en": [
+    "These are buses."
+   ],
+   "rule": "Oxiri s bilan tugasa, -es qo'shiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular sэндvichlar.",
+   "en": [
+    "These are sandwiches."
+   ],
+   "rule": "Oxiri ch bilan tugasa, -es qo'shiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bular qo'l soatlari.",
+   "en": [
+    "These are watches."
+   ],
+   "rule": "Oxiri ch bilan tugasa, -es qo'shiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular avtobuslar.",
+   "en": [
+    "Those are buses."
+   ],
+   "rule": "Oxiri s bilan tugasa, -es qo'shiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bular shishalar.",
+   "en": [
+    "These are glasses."
+   ],
+   "rule": "Oxiri ss bilan tugasa, -es qo'shiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular sэндvichlar.",
+   "en": [
+    "Those are sandwiches."
+   ],
+   "rule": "Oxiri ch bilan tugasa, -es qo'shiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bular qutilar.",
+   "en": [
+    "These are boxes."
+   ],
+   "rule": "Oxiri x bilan tugasa, -es qo'shiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular qo'l soatlari.",
+   "en": [
+    "Those are watches."
+   ],
+   "rule": "Oxiri ch bilan tugasa, -es qo'shiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bular avtobuslar.",
+   "en": [
+    "They are buses."
+   ],
+   "rule": "Avtobus so'zi -es olib ko'p bo'ladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular sэндvichlar.",
+   "en": [
+    "They are sandwiches."
+   ],
+   "rule": "Sэндvich so'zi -es olib ko'p bo'ladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bular qutilar.",
+   "en": [
+    "They are boxes."
+   ],
+   "rule": "Quti so'zi -es olib ko'p bo'ladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular shishalar.",
+   "en": [
+    "They are glasses."
+   ],
+   "rule": "Shisha so'zi -es olib ko'p bo'ladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bular qo'l soatlari.",
+   "en": [
+    "They are watches."
+   ],
+   "rule": "Soat so'zi -es olib ko'p bo'ladi."
+  },
+  {
+   "part": 1,
+   "uz": "Sening avtobuslaring.",
+   "en": [
+    "Your buses."
+   ],
+   "rule": "Sening va -es qo'shimchasi."
+  },
+  {
+   "part": 1,
+   "uz": "Mening sэндvichlarim.",
+   "en": [
+    "My sandwiches."
+   ],
+   "rule": "Mening va -es qo'shimchasi."
+  },
+  {
+   "part": 1,
+   "uz": "Sening qutilaring.",
+   "en": [
+    "Your boxes."
+   ],
+   "rule": "Sening va -es qo'shimchasi."
+  },
+  {
+   "part": 1,
+   "uz": "Mening qo'l soatlarim.",
+   "en": [
+    "My watches."
+   ],
+   "rule": "Mening va -es qo'shimchasi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu avtobuslar.",
+   "en": [
+    "These buses."
+   ],
+   "rule": "Ko'rsatish olmoshlari va -es ot."
+  },
+  {
+   "part": 1,
+   "uz": "Bu sэндvichlar.",
+   "en": [
+    "These sandwiches."
+   ],
+   "rule": "Ko'rsatish olmoshlari va -es ot."
+  },
+  {
+   "part": 1,
+   "uz": "Bu qutilar.",
+   "en": [
+    "These boxes."
+   ],
+   "rule": "Ko'rsatish olmoshlari va -es ot."
+  },
+  {
+   "part": 2,
+   "uz": "Ikkita kitob.",
+   "en": [
+    "Two books."
+   ],
+   "rule": "Son va oddiy -s ot."
+  },
+  {
+   "part": 2,
+   "uz": "Uchta sumka.",
+   "en": [
+    "Three bags."
+   ],
+   "rule": "Son va oddiy -s ot."
+  },
+  {
+   "part": 2,
+   "uz": "To'rtta kamera.",
+   "en": [
+    "Four cameras."
+   ],
+   "rule": "Son va oddiy -s ot."
+  },
+  {
+   "part": 2,
+   "uz": "Beshnta mashina.",
+   "en": [
+    "Five cars."
+   ],
+   "rule": "Son va oddiy -s ot."
+  },
+  {
+   "part": 2,
+   "uz": "Oltita kompyuter.",
+   "en": [
+    "Six computers."
+   ],
+   "rule": "Son va oddiy -s ot."
+  },
+  {
+   "part": 2,
+   "uz": "Yettita chashka.",
+   "en": [
+    "Seven cups."
+   ],
+   "rule": "Son va oddiy -s ot."
+  },
+  {
+   "part": 2,
+   "uz": "Sakkizta uy.",
+   "en": [
+    "Eight houses."
+   ],
+   "rule": "Son va oddiy -s ot."
+  },
+  {
+   "part": 2,
+   "uz": "To'qqizta telefon.",
+   "en": [
+    "Nine phones."
+   ],
+   "rule": "Son va oddiy -s ot."
+  },
+  {
+   "part": 2,
+   "uz": "O'nta surat.",
+   "en": [
+    "Ten photographs.",
+    "Ten photos."
+   ],
+   "rule": "Son va oddiy -s ot."
+  },
+  {
+   "part": 2,
+   "uz": "Ikkita avtobus.",
+   "en": [
+    "Two buses."
+   ],
+   "rule": "Son va -es qo'shimchali ot."
+  },
+  {
+   "part": 2,
+   "uz": "Uchta sэндvich.",
+   "en": [
+    "Three sandwiches."
+   ],
+   "rule": "Son va -es qo'shimchali ot."
+  },
+  {
+   "part": 2,
+   "uz": "To'rtta qo'l soati.",
+   "en": [
+    "Four watches."
+   ],
+   "rule": "Son va -es qo'shimchali ot."
+  },
+  {
+   "part": 2,
+   "uz": "Beshnta quti.",
+   "en": [
+    "Five boxes."
+   ],
+   "rule": "Son va -es qo'shimchali ot."
+  },
+  {
+   "part": 2,
+   "uz": "Bular ikkita kitob.",
+   "en": [
+    "These are two books."
+   ],
+   "rule": "Bular + son + -s ot."
+  },
+  {
+   "part": 2,
+   "uz": "Ular uchta sumka.",
+   "en": [
+    "Those are three bags."
+   ],
+   "rule": "Ular + son + -s ot."
+  },
+  {
+   "part": 2,
+   "uz": "Bular to'rtta kamera.",
+   "en": [
+    "These are four cameras."
+   ],
+   "rule": "Bular + son + -s ot."
+  },
+  {
+   "part": 2,
+   "uz": "Ular beshta mashina.",
+   "en": [
+    "Those are five cars."
+   ],
+   "rule": "Ular + son + -s ot."
+  },
+  {
+   "part": 2,
+   "uz": "Bular oltita kompyuter.",
+   "en": [
+    "These are six computers."
+   ],
+   "rule": "Bular + son + -s ot."
+  },
+  {
+   "part": 2,
+   "uz": "Ular yettita chashka.",
+   "en": [
+    "Those are seven cups."
+   ],
+   "rule": "Ular + son + -s ot."
+  },
+  {
+   "part": 2,
+   "uz": "Bular sakkizta uy.",
+   "en": [
+    "These are eight houses."
+   ],
+   "rule": "Bular + son + -s ot."
+  },
+  {
+   "part": 2,
+   "uz": "Ular to'qqizta telefon.",
+   "en": [
+    "Those are nine phones."
+   ],
+   "rule": "Ular + son + -s ot."
+  },
+  {
+   "part": 2,
+   "uz": "Bular o'nta surat.",
+   "en": [
+    "These are ten photographs.",
+    "These are ten photos."
+   ],
+   "rule": "Bular + son + -s ot."
+  },
+  {
+   "part": 2,
+   "uz": "Bular ikkita avtobus.",
+   "en": [
+    "These are two buses."
+   ],
+   "rule": "Bular + son + -es ot."
+  },
+  {
+   "part": 2,
+   "uz": "Ular uchta sэндvich.",
+   "en": [
+    "Those are three sandwiches."
+   ],
+   "rule": "Ular + son + -es ot."
+  },
+  {
+   "part": 2,
+   "uz": "Bular to'rtta qo'l soati.",
+   "en": [
+    "These are four watches."
+   ],
+   "rule": "Bular + son + -es ot."
+  },
+  {
+   "part": 2,
+   "uz": "Ular beshta quti.",
+   "en": [
+    "Those are five boxes."
+   ],
+   "rule": "Ular + son + -es ot."
+  },
+  {
+   "part": 2,
+   "uz": "Mening ikkita kitobim.",
+   "en": [
+    "My two books."
+   ],
+   "rule": "Mening + son + -s ot."
+  },
+  {
+   "part": 2,
+   "uz": "Sening uchta sumkang.",
+   "en": [
+    "Your three bags."
+   ],
+   "rule": "Sening + son + -s ot."
+  },
+  {
+   "part": 2,
+   "uz": "Mening to'rtta kameram.",
+   "en": [
+    "My four cameras."
+   ],
+   "rule": "Mening + son + -s ot."
+  },
+  {
+   "part": 2,
+   "uz": "Sening ikkita avtobusing.",
+   "en": [
+    "Your two buses."
+   ],
+   "rule": "Sening + son + -es ot."
+  }
+ ],
+ "intro": {
+  "what": "Otning ko'plik shakli (Plural nouns) ingliz tilida bir nechta narsa yoki shaxslarni bildirish uchun ishlatiladi. Ko'pgina otlarga -s yoki -es qo'shimchasi qo'shiladi.",
+  "when": [
+   "Bitta narsani ko'p qilishda (-s qo'shiladi)",
+   "Oxiri s, ss, sh, ch, x bilan tugagan so'zlarda (-es qo'shiladi)",
+   "Sonlar bilan birga ishlatilganda (two books)"
+  ],
+  "structures": [
+   {
+    "label": "(+)",
+    "formula": "[ S + PLURAL NOUN ]",
+    "example_en": "I have two books.",
+    "example_uz": "Menda ikkita kitob bor."
+   },
+   {
+    "label": "(-)",
+    "formula": "[ THERE ARE + NOT + PLURAL NOUN ]",
+    "example_en": "There are not two books.",
+    "example_uz": "Bu yerda ikkita kitob yo'q."
+   },
+   {
+    "label": "(?)",
+    "formula": "[ ARE + THERE + PLURAL NOUN ? ]",
+    "example_en": "Are there two books?",
+    "example_uz": "Bu yerda ikkita kitob bormi?"
+   }
+  ],
+  "rules": [
+   {
+    "title": "Oddiy ko'plik (-s)",
+    "text": "Ko'pgina otlarning oxiriga shunchaki -s qo'shiladi.",
+    "examples": [
+     {
+      "en": "book - books",
+      "uz": "kitob - kitoblar"
+     },
+     {
+      "en": "camera - cameras",
+      "uz": "kamera - kameralar"
+     }
+    ]
+   },
+   {
+    "title": "-es qo'shimchasi",
+    "text": "Agar ot s, ss, sh, ch, x bilan tugasa, oxiriga -es qo'shiladi.",
+    "examples": [
+     {
+      "en": "bus - buses",
+      "uz": "avtobus - avtobuslar"
+     },
+     {
+      "en": "watch - watches",
+      "uz": "soat - soatlar"
+     }
+    ]
+   },
+   {
+    "title": "Sonlar bilan ishlatish",
+    "text": "Sonlardan keyin keladigan otlar har doim ko'plik shaklida bo'ladi.",
+    "examples": [
+     {
+      "en": "two books",
+      "uz": "ikkita kitob"
+     },
+     {
+      "en": "three cars",
+      "uz": "uchta mashina"
+     }
+    ]
+   }
+  ],
+  "signal_words": [],
+  "mistakes": [
+   {
+    "wrong": "two book",
+    "right": "two books",
+    "why": "Sonlardan keyin ot doim ko'plikda -s olishi kerak."
+   },
+   {
+    "wrong": "one books",
+    "right": "one book",
+    "why": "Birlikdagi otga -s qo'shilmaydi."
+   },
+   {
+    "wrong": "two watchs",
+    "right": "two watches",
+    "why": "ch bilan tugagan so'zlarga -es qo'shiladi."
+   }
+  ]
+ },
+ "test": [
+  {
+   "type": "fill",
+   "q": "I have two ______.",
+   "answer": "books",
+   "explain": "book so'ziga ko'plik uchun -s qo'shiladi.",
+   "accept": [],
+   "hint": "book"
+  },
+  {
+   "type": "fill",
+   "q": "This is a ______.",
+   "answer": "book",
+   "explain": "a so'zidan keyin birlikdagi ot ishlatiladi.",
+   "accept": [],
+   "hint": "book"
+  },
+  {
+   "type": "fill",
+   "q": "My bag has two ______.",
+   "answer": "cameras",
+   "explain": "camera so'zi ko'plikda -s oladi.",
+   "accept": [],
+   "hint": "camera"
+  },
+  {
+   "type": "fill",
+   "q": "There are three ______.",
+   "answer": "buses",
+   "explain": "bus so'zi s bilan tugagani uchun -es qo'shiladi.",
+   "accept": [],
+   "hint": "bus"
+  },
+  {
+   "type": "fill",
+   "q": "I have four ______.",
+   "answer": "sandwiches",
+   "explain": "sandwich so'zi ch bilan tugagani uchun -es oladi.",
+   "accept": [],
+   "hint": "sandwich"
+  },
+  {
+   "type": "fill",
+   "q": "Look at my two ______.",
+   "answer": "watches",
+   "explain": "watch so'zi ch bilan tugagani uchun ko'plikda watches bo'ladi.",
+   "accept": [],
+   "hint": "watch"
+  },
+  {
+   "type": "fill",
+   "q": "Ali has three ______.",
+   "answer": "cars",
+   "explain": "car so'ziga ko'plik uchun -s qo'shiladi.",
+   "accept": [],
+   "hint": "car"
+  },
+  {
+   "type": "fill",
+   "q": "Malika has five ______.",
+   "answer": "cups",
+   "explain": "cup so'zi ko'plikda -s oladi.",
+   "accept": [],
+   "hint": "cup"
+  },
+  {
+   "type": "fill",
+   "q": "There are two ______.",
+   "answer": "houses",
+   "explain": "house so'zi ko'plikda -s oladi.",
+   "accept": [],
+   "hint": "house"
+  },
+  {
+   "type": "fill",
+   "q": "I have six ______.",
+   "answer": "phones",
+   "explain": "phone so'zi ko'plikda -s oladi.",
+   "accept": [],
+   "hint": "phone"
+  },
+  {
+   "type": "fill",
+   "q": "Show me your two ______.",
+   "answer": "photographs",
+   "explain": "photograph so'ziga ko'plikda -s qo'shiladi.",
+   "accept": [],
+   "hint": "photograph"
+  },
+  {
+   "type": "fill",
+   "q": "Tom has two ______.",
+   "answer": "computers",
+   "explain": "computer so'zi ko'plikda -s oladi.",
+   "accept": [],
+   "hint": "computer"
+  },
+  {
+   "type": "fill",
+   "q": "Aziz has two ______.",
+   "answer": "hamburgers",
+   "explain": "hamburger so'zi ko'plikda -s oladi.",
+   "accept": [],
+   "hint": "hamburger"
+  },
+  {
+   "type": "fill",
+   "q": "There are two ______.",
+   "answer": "televisions",
+   "explain": "television so'ziga ko'plik uchun -s qo'shiladi.",
+   "accept": [],
+   "hint": "television"
+  },
+  {
+   "type": "fill",
+   "q": "Anna has three ______.",
+   "answer": "bags",
+   "explain": "bag so'zi ko'plikda -s oladi.",
+   "accept": [],
+   "hint": "bag"
+  },
+  {
+   "type": "fill",
+   "q": "I see two ______.",
+   "answer": "cats",
+   "explain": "cat so'ziga ko'plik uchun -s qo'shiladi.",
+   "accept": [],
+   "hint": "cat"
+  },
+  {
+   "type": "fill",
+   "q": "There are four ______.",
+   "answer": "dogs",
+   "explain": "dog so'zi ko'plikda -s oladi.",
+   "accept": [],
+   "hint": "dog"
+  },
+  {
+   "type": "fill",
+   "q": "I have two ______.",
+   "answer": "apples",
+   "explain": "apple so'ziga ko'plik uchun -s qo'shiladi.",
+   "accept": [],
+   "hint": "apple"
+  },
+  {
+   "type": "fill",
+   "q": "The room has two ______.",
+   "answer": "doors",
+   "explain": "door so'zi ko'plikda -s oladi.",
+   "accept": [],
+   "hint": "door"
+  },
+  {
+   "type": "fill",
+   "q": "There are three ______.",
+   "answer": "windows",
+   "explain": "window so'ziga ko'plik uchun -s qo'shiladi.",
+   "accept": [],
+   "hint": "window"
+  },
+  {
+   "type": "mc",
+   "q": "I have two ______.",
+   "answer": "books",
+   "explain": "Sonlardan keyin ot ko'plikda -s oladi.",
+   "options": [
+    "book",
+    "books",
+    "bookes"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Look at the ______.",
+   "answer": "buses",
+   "explain": "s bilan tugagan so'zlarga -es qo'shiladi.",
+   "options": [
+    "buses",
+    "bus",
+    "buss"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "This is one ______.",
+   "answer": "sandwich",
+   "explain": "Birlikdagi ot one so'zidan keyin -siz ishlatiladi.",
+   "options": [
+    "sandwiches",
+    "sandwich",
+    "sandwichs"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "I have three ______.",
+   "answer": "watches",
+   "explain": "ch bilan tugagan so'zlarga -es qo'shiladi.",
+   "options": [
+    "watchs",
+    "watch",
+    "watches"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "My bag has two ______.",
+   "answer": "cameras",
+   "explain": "camera so'ziga ko'plik uchun -s qo'shiladi.",
+   "options": [
+    "camera",
+    "cameras",
+    "cameraes"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Ali has five ______.",
+   "answer": "cars",
+   "explain": "car so'ziga ko'plik uchun -s qo'shiladi.",
+   "options": [
+    "car",
+    "caresses",
+    "cars"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "There are two ______.",
+   "answer": "houses",
+   "explain": "house so'zi ko'plikda -s oladi.",
+   "options": [
+    "house",
+    "houses",
+    "housees"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Anna has four ______.",
+   "answer": "cups",
+   "explain": "cup so'ziga ko'plik uchun -s qo'shiladi.",
+   "options": [
+    "cups",
+    "cup",
+    "cupes"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "I see two ______.",
+   "answer": "computers",
+   "explain": "computer so'zi ko'plikda -s oladi.",
+   "options": [
+    "computer",
+    "computeres",
+    "computers"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Malika has three ______.",
+   "answer": "bags",
+   "explain": "bag so'ziga ko'plik uchun -s qo'shiladi.",
+   "options": [
+    "bag",
+    "bags",
+    "bages"
+   ]
+  }
+ ]
+}

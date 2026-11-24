@@ -1,0 +1,36 @@
+﻿56`t16`t114`t252
+65`t20`t588`tMultilevef Moster reading
+111`t21`t141`tQ4
+150`t21`t140`tThe wind farm is connected to the power station by a 33-kilovolt power-
+179`t21`t113`tline, and a radio link between the two allows operators to monitor and con-
+209`t18`t111`ttrol each Wind turbine. The nine 225-kilowatt Vestas wind turbines produce
+237`t21`t111`ta total generating capacity of two 35 megawatts and provide around 12 per
+266`t21`t111`tcent of the energy requirements of Esperance and its surrounding districts,
+357`t21`t141`tThe power produced by a wind turbine depends on the size and efficien-
+387`t19`t110`tcy Of the machine and, of course, on the energy in the windy The energy in
+414`t21`t110`tthe wind available to the wind turbines is proportional to wind speed cubed.
+443`t21`t108`tThus, the greater the Wind speed, the greater the output of the turbine.
+471`t21`t110`tIn order to achieve optimum wind speeds, the right location is imperative.
+500`t20`t108`t'You have to accept the nature Of the beast,' Mr Rosser, Western Power's
+528`t22`t108`tphysicist, said. 'As surface dwellers our perceptions of wind speeds are bad.
+557`t22`t108`tAs you go higher, wind speed increases significantly.'
+650`t22`t132`tThe mcst favourable wind sites are on gently sloping hills, away from ob-
+680`t23`t105`tstructions like trees and buildings and where the prevailing winds are not
+708`t22`t105`tblocked. Computer modelling was used to select the optimum site for Esper-
+737`t22`t105`tance's wind farm. Scientists were concerned not orgy With efficiency. but also
+765`t21`t105`twith protecting the coastal health environment which is rich in plant life and
+794`t21`t105`thome to tiny pygmy and honey-possums, and a host Of bird species. In ad-
+822`t21`t105`tditlon, the wind farm is adjacent to Esperance's popular scenic tourist drive.
+882`t21`t132`tExercise 46
+930`t21`t131`tRead the text and choose the correct heading for each paragraph
+959`t21`t129`tfrom the list of headings below.
+987`t21`t131`tThere are more headings than paragraphs, so you will not use all of
+1017`t21`t129`tthem. You cannot use any heading more than once.
+1062`t20`t128`tA) Town facilities
+1091`t19`t128`tB) Colonisation
+1119`t20`t128`tC) tfrban divisions
+1148`t21`t128`tD) Architectural home styles
+1064`t22`t474`tE) Types of settlements
+1094`t19`t474`tF) Historicaf foundations
+1122`t20`t474`tG) Domestic arrangements
+1151`t19`t473`tH) The residences ot the rulers

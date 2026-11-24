@@ -1,0 +1,37 @@
+﻿64`t16`t72`tpart 2
+120`t18`t101`tExercise 53
+62`t16`t732`t159
+165`t21`t101`tYou want to choose a place to eat ordrink. There are eight restaurants
+194`t18`t101`tand cafes. Decide which restaurant is the most suitable for you.
+227`t22`t101`tA) You and your daughter 'are going shopping at ten o'clock. You Will
+255`t21`t129`thave coffee before starting shopping.
+284`t19`t102`tB) You want to have a meal at a restaurant suitable for Children. You'd
+314`t18`t129`tlike to Sit outside.
+341`t21`t102`tC) You and your friend want to have a snack. Your friend is keen to try
+369`t21`t131`tEnglish food and you don't eat meat.
+398`t21`t104`tD) You would like to have dinner with your family in an excellent restau-
+428`t21`t131`trant in the countryside.
+456`t21`t104`tE) You would like to have fish food,
+483`t21`t104`tF) You and your friends want to go for a late-night meal, but you don't
+512`t21`t131`thave much money and don't like English meals.
+540`t19`t105`tG) You want to go out with your classmate to talk with. The café must
+572`t18`t132`thave snacks and Italian coffee.
+597`t21`t105`tH) You want to eat vegetarian food prepared at home.
+626`t21`t105`tl) You have invited a Russian businessman to dinner, You want a restau-
+655`t21`t134`trant in the city center and the food must be excellent.
+683`t21`t104`tJ) You and your friends would like to watch a football match and have a
+716`t16`t134`tbeer.
+756`t20`t105`t1, The White Horse Inn has top-class restaurant. It is in an attractive
+785`t21`t80`tvillage seven kilometers from town. Head chef Paul Grant has won priz-
+812`t22`t80`tes for his traditional English food which is served in a comfortable setting.
+845`t23`t81`tLarge garden with children's play area.
+873`t21`t108`topen 10.00-14.00, 19.00-23.00.
+915`t21`t108`t2. The Silver Palace Chinese Restaurant serves food from many parts
+944`t21`t81`tof China at Iow prices, The atmosphere is warm and friendly, but it can get
+972`t21`t81`tnoisye Reasonable service. Near the city centre, with a car park.
+1004`t21`t108`topen 12.00-14.00.17.30-02.00.
+1046`t21`t108`t3. Dandelions is a small self-service vegetarian cafe. Serves home-
+1074`t21`t81`tcooked food including soup, pizzas, salads, and wonderful dessertsr Popu-
+1104`t19`t83`ttar with office workers at lunchtime. Good value for money.
+1136`t21`t110`topen 11.30-14.30 only.
+1190`t19`t438`tDorgangæni uchun. mytests_uz

@@ -1,0 +1,43 @@
+﻿66`t20`t594`tMultilevel Moster reading
+116`t21`t146`tS. There was a fixed price for the delivery of letters before 1840.
+144`t21`t147`tA) True
+146`t21`t326`tB) False
+147`t20`t531`tC) No Information
+189`t21`t146`t6. In the past, it was not possible to send letters to all parts of the
+219`t20`t119`tcountry.
+246`t21`t146`tA) True
+247`t20`t326`tB) False
+248`t21`t531`tC) No Information
+291`t21`t146`t7. Rowland Hill proposed to reduce the cost of envelopes to encourage
+320`t16`t119`ttrade and business.
+348`t21`t146`tA) True
+348`t20`t324`tB) False
+350`t19`t530`tC) No Information
+392`t21`t144`t8. Lord Lichfield and au other people were against Hi II's proposal about
+422`t19`t117`tthe new postal system.
+449`t21`t144`tA) True
+450`t21`t324`tB) False
+452`t19`t530`tC) NO Information
+494`t21`t144`t9. The main purpose of designing a new stamp was to make it difficult
+522`t18`t117`tto counterfeit.
+552`t20`t144`tA) True
+617`t19`t144`tExercise 2
+552`t21`t324`tB) False
+554`t22`t530`tC) NO Information
+665`t22`t144`tRead the following text for questions 1-9.
+708`t24`t343`tInternet safety issues
+749`t20`t143`tThe fact is that 93 percent of kids are online. Even if parents lit-nit or ban
+777`t21`t116`tinternet access, kids have access at school, through a friend's smart phone,
+806`t21`t116`tlibraries, and schools. The internet is a tool that our children need to use
+836`t22`t116`tand master with wisdom dispensed by parentsw We need tech-savvy youth
+864`t22`t116`twho will grow up to be leaders of the communityw Many schools use web-
+893`t18`t116`tsites such as EdModo to connect students and teachers.
+921`t21`t143`tMy friend Reem is the Vice principal Of an Islamic School, She says that
+950`t21`t116`tmany teachers assign work from school that children need to research on-
+978`t21`t116`tline. Some of the best homeschooling resources are online. Far toc many
+1008`t20`t116`tparents do not allow their children monitored access to the internet, lead-
+1037`t22`t116`ting to two scenarios. Their children end up lying and using it behind their
+1064`t21`t116`tback; or are so sheltered that they do not know how to conduct themselves
+1093`t21`t113`tonline when they finally do get access. On the Other hand, more often than
+1122`t21`t114`tnot, there are parents who freely give unmonitored access. But caretakers
+1152`t21`t116`traising children in today's world need to think about several issues:

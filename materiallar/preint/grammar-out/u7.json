@@ -1,0 +1,1447 @@
+{
+ "unit": 7,
+ "parts": [
+  [
+   {
+    "kind": "verb",
+    "q": "If I ______ more time, I would learn to play the guitar.",
+    "hint": "have",
+    "options": [],
+    "answer": "had",
+    "accept": [],
+    "explain": "Ikkinchi shart gap qoidasiga ko'ra «If» qismida Past Simple ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If she lived in Tashkent, she ______ visit her cousins every weekend.",
+    "hint": "would",
+    "options": [],
+    "answer": "would",
+    "accept": [],
+    "explain": "Ikkinchi shart gapning natija qismida «would + V1» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "We would buy a new car if we ______ enough money.",
+    "hint": "save",
+    "options": [],
+    "answer": "saved",
+    "accept": [],
+    "explain": "Ikkinchi qismda «would buy» kelgani uchun «If» bandida Past Simple (saved) kerak.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If you ______ harder, you would pass the English exam.",
+    "hint": "study",
+    "options": [],
+    "answer": "studied",
+    "accept": [],
+    "explain": "Shart ergash gapida o'tgan zamon (Past Simple) qo'llanilishi shart.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "I ______ travel around the world if I won the lottery.",
+    "hint": "would",
+    "options": [],
+    "answer": "would",
+    "accept": [],
+    "explain": "Natija qismida «would» yordamchi fe'li ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If he ______ early, he wouldn't miss the bus.",
+    "hint": "get up",
+    "options": [],
+    "answer": "got up",
+    "accept": [],
+    "explain": "Shart qismida Past Simple zamoni (got up) ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "They would help us if they ______ how to fix the computer.",
+    "hint": "know",
+    "options": [],
+    "answer": "knew",
+    "accept": [],
+    "explain": "Ikkinchi shart gapda «If» dan keyin fe'lning ikkinchi shakli keladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If the weather ______ nice, we would go for a picnic in the mountains.",
+    "hint": "be",
+    "options": [],
+    "answer": "were",
+    "accept": [
+     "was"
+    ],
+    "explain": "Ikkinchi shart gapda shaxsning birligidan qat'i nazar «were» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "She would be very happy if she ______ a new smartphone.",
+    "hint": "find",
+    "options": [],
+    "answer": "found",
+    "accept": [],
+    "explain": "Ikkinchi shart gapda xayoliy vaziyat uchun «found» qo'llaniladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If I ______ you, I wouldn't eat so much fast food.",
+    "hint": "be",
+    "options": [],
+    "answer": "were",
+    "accept": [
+     "was"
+    ],
+    "explain": "Maslahat berishda «If I were you» qolipi doim ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "What ______ you do if you saw a bear in the forest?",
+    "hint": "would",
+    "options": [],
+    "answer": "would",
+    "accept": [],
+    "explain": "Savol shaklidagi natija qismida «would you do» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If Aziza ______ free tonight, she would join our party.",
+    "hint": "be",
+    "options": [],
+    "answer": "were",
+    "accept": [
+     "was"
+    ],
+    "explain": "Faraz qilingan holat uchun «If» qismida «were» yoziladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If my brother ______ a bike, he would ride it to the park.",
+    "hint": "have",
+    "options": [],
+    "answer": "had",
+    "accept": [],
+    "explain": "Egalikni bildirish uchun «have» fe'lining Past Simple shakli «had» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "They would buy this house if it ______ so expensive.",
+    "hint": "not be",
+    "options": [],
+    "answer": "weren't",
+    "accept": [
+     "wasn't",
+     "were not",
+     "was not"
+    ],
+    "explain": "Ikkinchi shart gapda inkor ma'no uchun «weren't» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If I ______ the answer, I would tell you immediately.",
+    "hint": "know",
+    "options": [],
+    "answer": "knew",
+    "accept": [],
+    "explain": "Hozirgi paytdagi xayoliy holat uchun «knew» qo'llaniladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "You would feel better if you ______ to bed earlier.",
+    "hint": "go",
+    "options": [],
+    "answer": "went",
+    "accept": [],
+    "explain": "Shart qismida fe'lning o'tgan zamon shakli «went» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If Jasur ______ a car, he would drive to Samarkand.",
+    "hint": "have",
+    "options": [],
+    "answer": "had",
+    "accept": [],
+    "explain": "Past Simple zamonidagi «had» fe'li shartni bildiradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "I ______ buy a big house if I had a lot of money.",
+    "hint": "would",
+    "options": [],
+    "answer": "would",
+    "accept": [],
+    "explain": "Ikkinchi shart gap natijasida «would» yordamchi fe'li ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If we ______ closer to school, we would walk every day.",
+    "hint": "live",
+    "options": [],
+    "answer": "lived",
+    "accept": [],
+    "explain": "Hozirgi real bo'lmagan holat uchun «lived» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "She would cook dinner if she ______ time.",
+    "hint": "have",
+    "options": [],
+    "answer": "had",
+    "accept": [],
+    "explain": "Ikkinchi shart gap qoidasiga ko'ra «had» yoziladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If it ______ snow in summer, children would be very surprised.",
+    "hint": "do",
+    "options": [],
+    "answer": "did",
+    "accept": [],
+    "explain": "O'tgan zamon yoki farazni bildirish uchun «did» kerak.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "He ______ speak English fluently if he lived in London.",
+    "hint": "would",
+    "options": [],
+    "answer": "would",
+    "accept": [],
+    "explain": "Ikkinchi shart gap natija qismi «would» bilan yasaladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If they ______ hard, they would pass the test.",
+    "hint": "try",
+    "options": [],
+    "answer": "tried",
+    "accept": [],
+    "explain": "Shart ergash gapida Past Simple («tried») qo'llaniladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "I would help you with your homework if I ______ how to do it.",
+    "hint": "understand",
+    "options": [],
+    "answer": "understood",
+    "accept": [],
+    "explain": "Faraz qilingan holat uchun Past Simple («understood») kerak.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If Madina ______ a pet cat, she would play with it.",
+    "hint": "have",
+    "options": [],
+    "answer": "had",
+    "accept": [],
+    "explain": "Ikkinchi shart gapda «had» fe'li ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "We ______ win the match if we trained more often.",
+    "hint": "would",
+    "options": [],
+    "answer": "would",
+    "accept": [],
+    "explain": "Natija qismida «would» yordamchi fe'li ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If you ______ angry, you wouldn't say those things.",
+    "hint": "not be",
+    "options": [],
+    "answer": "weren't",
+    "accept": [
+     "wasn't",
+     "were not",
+     "was not"
+    ],
+    "explain": "Inkor ma'nodagi ikkinchi shart gapda «weren't» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "He would buy a new laptop if his old one ______ broken.",
+    "hint": "not be",
+    "options": [],
+    "answer": "weren't",
+    "accept": [
+     "wasn't",
+     "were not",
+     "was not"
+    ],
+    "explain": "Faraz qilingan holatni inkor qilish uchun «weren't» kerak.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If I ______ wings, I would fly above the clouds.",
+    "hint": "have",
+    "options": [],
+    "answer": "had",
+    "accept": [],
+    "explain": "Xayoliy vaziyat uchun «had» fe'li ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "They would visit us more often if they ______ so busy.",
+    "hint": "not be",
+    "options": [],
+    "answer": "weren't",
+    "accept": [
+     "were not"
+    ],
+    "explain": "Shart qismida inkor ma'no uchun «weren't» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If she ______ the truth, she would tell us.",
+    "hint": "know",
+    "options": [],
+    "answer": "knew",
+    "accept": [],
+    "explain": "Ikkinchi shart gapda Past Simple («knew») ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "I ______ wear a jacket if it were cold outside.",
+    "hint": "would",
+    "options": [],
+    "answer": "would",
+    "accept": [],
+    "explain": "Natija qismida «would» yordamchi fe'li qo'llaniladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If Rustam ______ a bike, he would ride to the mountains.",
+    "hint": "have",
+    "options": [],
+    "answer": "had",
+    "accept": [],
+    "explain": "Shart qismida «had» fe'li ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "You would understand the lesson if you ______ attention.",
+    "hint": "pay",
+    "options": [],
+    "answer": "paid",
+    "accept": [],
+    "explain": "Shart ergash gapida Past Simple («paid») qo'llaniladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If the sun ______, we would go to the beach.",
+    "hint": "shine",
+    "options": [],
+    "answer": "shone",
+    "accept": [
+     "shined"
+    ],
+    "explain": "Xayoliy holat uchun «shine» fe'lining o'tgan zamoni «shone» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "We ______ move to a bigger flat if we had more money.",
+    "hint": "would",
+    "options": [],
+    "answer": "would",
+    "accept": [],
+    "explain": "Ikkinchi shart gap natijasida «would» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If I ______ a famous singer, I would give free concerts.",
+    "hint": "be",
+    "options": [],
+    "answer": "were",
+    "accept": [
+     "was"
+    ],
+    "explain": "Ikkinchi shart gapda «If I were» qolipi ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "She would feel happier if she ______ more free time.",
+    "hint": "have",
+    "options": [],
+    "answer": "had",
+    "accept": [],
+    "explain": "Faraz qilingan holat uchun Past Simple («had») kerak.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If they ______ near the sea, they would swim every day.",
+    "hint": "live",
+    "options": [],
+    "answer": "lived",
+    "accept": [],
+    "explain": "Hozirgi paytdagi shart uchun «lived» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If Bobur ______ a faster runner, he would win the school race.",
+    "hint": "be",
+    "options": [],
+    "answer": "were",
+    "accept": [
+     "was"
+    ],
+    "explain": "Ikkinchi shart gapda «be» fe'li barcha shaxslar uchun «were» shaklini oladi.",
+    "wrong": {}
+   }
+  ],
+  [
+   {
+    "kind": "rewrite",
+    "q": "Aziz arrived at the cinema. But the movie had already started. → When Aziz arrived at the cinema, the movie ______",
+    "hint": "when",
+    "options": [],
+    "answer": "had already started.",
+    "accept": [],
+    "explain": "Clue: «When Aziz arrived» o'tgan zamon, kino esa undan oldin boshlangan, shuning uchun past perfect (had already started).",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Shoira woke up early. But her younger brother had already left the house. → When Shoira woke up early, her younger brother ______",
+    "hint": "when",
+    "options": [],
+    "answer": "had already left the house.",
+    "accept": [],
+    "explain": "Uyg'onishdan oldin ukasi ketib bo'lgan, shuning uchun past perfect (had already left) ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Jasur opened his locker. But someone had already taken his book. → When Jasur opened his locker, someone ______",
+    "hint": "when",
+    "options": [],
+    "answer": "had already taken his book.",
+    "accept": [],
+    "explain": "Kitobni olish voqeasi oldinroq bo'lgani uchun past perfect (had taken) ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Madina reached the bus stop. But the last bus had already gone. → When Madina reached the bus stop, the last bus ______",
+    "hint": "when",
+    "options": [],
+    "answer": "had already gone.",
+    "accept": [],
+    "explain": "Clue: avtobus oldinroq ketib qolgan. Past perfect (had gone) qo'llaniladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Otabek turned on the television. But the football match had already finished. → When Otabek turned on the television, the football match ______",
+    "hint": "when",
+    "options": [],
+    "answer": "had already finished.",
+    "accept": [],
+    "explain": "O'yin oldinroq tugagan, shuning uchun past perfect (had finished) ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Gulnora checked her pockets. But she had lost her house keys. → When Gulnora checked her pockets, she realized she ______",
+    "hint": "when",
+    "options": [],
+    "answer": "had lost her house keys.",
+    "accept": [],
+    "explain": "Kalitni yo'qotish harakati tekshirishdan oldin sodir bo'lgan, shuning uchun past perfect (had lost) ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Sherzod switched on his computer. But the internet connection had stopped working. → When Sherzod switched on his computer, the internet connection ______",
+    "hint": "when",
+    "options": [],
+    "answer": "had stopped working.",
+    "accept": [],
+    "explain": "Internetning o'chishi oldinroq sodir bo'lgan, shuning uchun past perfect (had stopped) ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Farhod looked at the plate. But his cat had already eaten the fish. → When Farhod looked at the plate, his cat ______",
+    "hint": "when",
+    "options": [],
+    "answer": "had already eaten the fish.",
+    "accept": [],
+    "explain": "Clue: mushak baliqni yeb qo'yishi oldinroq bo'lgan, shuning uchun past perfect (had eaten).",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Ziyoda opened the fridge. But her mother had already cooked dinner. → When Ziyoda opened the fridge, her mother ______",
+    "hint": "when",
+    "options": [],
+    "answer": "had already cooked dinner.",
+    "accept": [],
+    "explain": "Ovqat pishirish oldinroq bajarilgan, shuning uchun past perfect (had cooked) ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Anvar looked outside the window. But it had already started to rain heavily. → When Anvar looked outside the window, it ______",
+    "hint": "when",
+    "options": [],
+    "answer": "had already started to rain heavily.",
+    "accept": [
+     "had already begun to rain heavily"
+    ],
+    "explain": "Yomg'ir oldinroq boshlangan, shuning uchun past perfect (had started) ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Shahrizoda didn't eat any lunch. She had eaten a huge breakfast at home. → Shahrizoda didn't eat any lunch because she ______",
+    "hint": "because",
+    "options": [],
+    "answer": "had eaten a huge breakfast at home.",
+    "accept": [],
+    "explain": "Sababiy gapda (because) o'tgan zamondagi sabab uchun past perfect (had eaten) ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Bobur failed his history test. He hadn't studied the textbook carefully. → Bobur failed his history test because he ______",
+    "hint": "because",
+    "options": [],
+    "answer": "hadn't studied the textbook carefully.",
+    "accept": [
+     "had not studied the textbook carefully"
+    ],
+    "explain": "Clue: imtihondan yomon baho olish sababi dars o'qimagani. Past perfect (hadn't studied) ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Dilnoza was very tired on Monday morning. She hadn't slept well the night before. → Dilnoza was very tired on Monday morning because she ______",
+    "hint": "because",
+    "options": [],
+    "answer": "hadn't slept well the night before.",
+    "accept": [
+     "had not slept well the night before"
+    ],
+    "explain": "Charchash sababi oldingi kechada yaxshi uxlamagani, shuning uchun past perfect (hadn't slept) ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Jamshid couldn't enter his classroom. He had forgotten his keys in the locker. → Jamshid couldn't enter his classroom because he ______",
+    "hint": "because",
+    "options": [],
+    "answer": "had forgotten his keys in the locker.",
+    "accept": [],
+    "explain": "Kalitni unutib qo'yish oldinroq sodir bo'lgan, shuning uchun past perfect (had forgotten) ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Barno smiled happily at the party. She had passed her English exam with an A. → Barno smiled happily at the party because she ______",
+    "hint": "because",
+    "options": [],
+    "answer": "had passed her English exam with an A.",
+    "accept": [],
+    "explain": "Clue: xursand bo'lish sababi imtihondan o'tgani. Past perfect (had passed) ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Rustam didn't recognize his old classmate. His friend had grown a long beard. → Rustam didn't recognize his old classmate because his friend ______",
+    "hint": "because",
+    "options": [],
+    "answer": "had grown a long beard.",
+    "accept": [],
+    "explain": "Taniy olmaslik sababi do'stining soqol o'stirgani, shuning uchun past perfect (had grown) ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Nargiza missed her favorite TV show. She had arrived home very late. → Nargiza missed her favorite TV show because she ______",
+    "hint": "because",
+    "options": [],
+    "answer": "had arrived home very late.",
+    "accept": [],
+    "explain": "Ko'rsatuvni ko'ra olmagani kech kelgani bilan bog'liq, shuning uchun past perfect (had arrived) ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Sardor's hands were very dirty. He had repaired his bicycle chain. → Sardor's hands were very dirty because he ______",
+    "hint": "because",
+    "options": [],
+    "answer": "had repaired his bicycle chain.",
+    "accept": [],
+    "explain": "Clue: qo'llari kir bo'lishining sababi zanjirni tuzatgani. Past perfect (had repaired) ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Gulnora failed to catch the morning train. She had left her bag at home. → Gulnora failed to catch the morning train because she ______",
+    "hint": "because",
+    "options": [],
+    "answer": "had left her bag at home.",
+    "accept": [],
+    "explain": "Poyezdga ulgurmagani sumkasini uyda unutgani uchun, shuning uchun past perfect (had left) ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Ulugbek was very sad about the match. His favorite team had lost 3-0. → Ulugbek was very sad about the match because his favorite team ______",
+    "hint": "because",
+    "options": [],
+    "answer": "had lost 3-0.",
+    "accept": [],
+    "explain": "Xafa bo'lish sababi sevimli jamoasining yutqazgani, shuning uchun past perfect (had lost) ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The train departed from the station. Before that, Dilshod had bought a ticket. → Before Dilshod got on the train, he ______",
+    "hint": "before",
+    "options": [],
+    "answer": "had bought a ticket.",
+    "accept": [],
+    "explain": "«Before» bog'lovchisidan keyin past simple, asosiy qismda esa oldingi harakat uchun past perfect (had bought) ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The sun set behind the mountains. Before that, the children had finished playing football. → Before the sun set, the children ______",
+    "hint": "before",
+    "options": [],
+    "answer": "had finished playing football.",
+    "accept": [],
+    "explain": "Clue: quyosh botguncha futbol o'ynab bo'lingan edi. Past perfect (had finished) ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The teacher entered the classroom. Before that, the students had opened their notebooks. → Before the teacher entered the classroom, the students ______",
+    "hint": "before",
+    "options": [],
+    "answer": "had opened their notebooks.",
+    "accept": [],
+    "explain": "O'qituvchi kirishidan oldinft daftar ochilgan edi, shuning uchun past perfect (had opened) ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The heavy rain started to fall. Before that, we had reached our home. → Before the heavy rain started, we ______",
+    "hint": "before",
+    "options": [],
+    "answer": "had reached our home.",
+    "accept": [],
+    "explain": "Yomg'ir boshlanguncha uyga yetib borilgan edi, shuning uchun past perfect (had reached) ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The guests arrived at the house. Before that, mother had baked a delicious cake. → Before the guests arrived, mother ______",
+    "hint": "before",
+    "options": [],
+    "answer": "had baked a delicious cake.",
+    "accept": [],
+    "explain": "Clue: mehmonlar kelguniga qadar tort pishirib bo'lingan edi. Past perfect (had baked) ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The phone rang loudly. Before that, I had turned off the stove. → Before the phone rang, I ______",
+    "hint": "before",
+    "options": [],
+    "answer": "had turned off the stove.",
+    "accept": [],
+    "explain": "Telefon jiringlashidan oldin plita o'chirilgan edi, shuning uchun past perfect (had turned off) ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Madina finished her homework. After that, she played a computer game. → After Madina had finished her homework, she ______",
+    "hint": "after",
+    "options": [],
+    "answer": "played a computer game",
+    "accept": [],
+    "explain": "«After» so'zidan keyin Past Perfect keladi, ikkinchi qismda esa Past Simple ishlatiladi: played a computer game.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Timur ate all the apples. After that, he drank a glass of water. → After Timur had eaten all the apples, he ______",
+    "hint": "after",
+    "options": [],
+    "answer": "drank a glass of water",
+    "accept": [],
+    "explain": "Gapda «After» qoidasi qo'llaniladi. Birinchi harakat Past Perfect (had eaten), ikkinchisi Past Simple: drank a glass of water.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Malika cleaned her room. After that, her mother gave her some chocolate. → After Malika had cleaned her room, her mother ______",
+    "hint": "after",
+    "options": [],
+    "answer": "gave her some chocolate",
+    "accept": [],
+    "explain": "Xona tozalangach, onasi shokolad berdi. «After» dan keyin Past Perfect, keyingi qismda Past Simple: gave her some chocolate.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The lesson ended. After that, the students ran out of the classroom. → After the lesson had ended, the students ______",
+    "hint": "after",
+    "options": [],
+    "answer": "ran out of the classroom",
+    "accept": [
+     "left the classroom",
+     "exited the classroom"
+    ],
+    "explain": "Dars tugashi birinchi sodir bo'lgan (had ended), shuning uchun keyingi qism Past Simple zamonida keladi: ran out of the classroom.",
+    "wrong": {}
+   }
+  ],
+  [
+   {
+    "kind": "choose",
+    "q": "If Dilshod ______ free time today, he would play football with us.",
+    "hint": "",
+    "options": [
+     "have",
+     "had",
+     "has",
+     "will have"
+    ],
+    "answer": "had",
+    "accept": [],
+    "explain": "Gapda ikkinchi shart ergash gapi kelgan: «would play» bor, shuning uchun If qismida Past Simple ishlatiladi: had.",
+    "wrong": {
+     "have": "Ikkinchi shart gapida Present Simple ishlatilmaydi.",
+     "has": "Ikkinchi shart gapida 'has' noto'g'ri, chunki o'tgan zamon shakli kerak.",
+     "will have": "Ikkinchi shart gapida 'will' kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "If Zarina ______ French, she would travel to Paris next month.",
+    "hint": "",
+    "options": [
+     "speak",
+     "spokes",
+     "spoke",
+     "will speak"
+    ],
+    "answer": "spoke",
+    "accept": [],
+    "explain": "Ikkinchi shart gapining natija qismida «would travel» turgani uchun, If qismida Past Simple — «spoke» ishlatiladi.",
+    "wrong": {
+     "speak": "Present Simple ikkinchi shart gapiga mos kelmaydi.",
+     "spokes": "Bunday fe'l shakli mavjud emas.",
+     "will speak": "Ikkinchi shart gapida 'will' ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "If we ______ enough money, we would buy a new computer.",
+    "hint": "",
+    "options": [
+     "save",
+     "saved",
+     "saves",
+     "had saved"
+    ],
+    "answer": "saved",
+    "accept": [],
+    "explain": "Natija qismida «would buy» borligi sababli, shart qismida Past Simple — «saved» qo'yiladi.",
+    "wrong": {
+     "save": "Present Simple ikkinchi shart gapida qo'llanilmaydi.",
+     "saves": "Uchinchi shaxs birlik qo'shimchasi shart gapida ishlatilmaydi.",
+     "had saved": "Bu yerda Past Perfect emas, oddiy Past Simple kerak."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "If Sardor ______ harder, he would pass all his exams easily.",
+    "hint": "",
+    "options": [
+     "study",
+     "studies",
+     "studied",
+     "had studied"
+    ],
+    "answer": "studied",
+    "accept": [],
+    "explain": "Natija qismida «would pass» bor, shuning uchun shart qismida Past Simple — «studied» ishlatiladi.",
+    "wrong": {
+     "study": "Bu Present Simple, ikkinchi shart gapiga mos emas.",
+     "studies": "Present Simple uchinchi shaxs shakli bu yerga tushmaydi.",
+     "had studied": "O'tgan zamondagi oddiy shart uchun Past Simple ishlatiladi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "If it rains tomorrow, we ______ stay at home.",
+    "hint": "",
+    "options": [
+     "would",
+     "will",
+     "did",
+     "had"
+    ],
+    "answer": "will",
+    "accept": [],
+    "explain": "Bu birinchi shart gapidir («First conditional»): If + Present Simple, natija qismida esa «will» ishlatiladi.",
+    "wrong": {
+     "would": "Birinchi shart gapida 'would' ishlatilmaydi.",
+     "did": "O'tgan zamon yordamchi fe'li bu yerga mos kelmaydi.",
+     "had": "Past Perfect birinchi shart gapida ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "If you miss the bus, you ______ be late for school.",
+    "hint": "",
+    "options": [
+     "would",
+     "will",
+     "are",
+     "were"
+    ],
+    "answer": "will",
+    "accept": [],
+    "explain": "Hozirgi/kelajakdagi real vaziyat uchun birinchi shart: If + Present Simple, natijada «will» keladi.",
+    "wrong": {
+     "would": "Ikkinchi shart zamoni bu yerda noto'g'ri.",
+     "are": "Faqat 'are'ning o'zi kelajak oqibatini bildira olmaydi.",
+     "were": "Bu ikkinchi shart gapining elementi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "If Dilshod finishes his homework early, he ______ play computer games.",
+    "hint": "",
+    "options": [
+     "would",
+     "will",
+     "did",
+     "had"
+    ],
+    "answer": "will",
+    "accept": [],
+    "explain": "Birinchi shart gapida shart qismi Present Simple bo'lsa, natija qismida «will» ishlatiladi.",
+    "wrong": {
+     "would": "Haqiqiy ehtimolli shart uchun 'would' ishlatilmaydi.",
+     "did": "O'tgan zamon shakli bu yerga mos kelmaydi.",
+     "had": "Past Perfect birinchi shartda qo'llanilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "If you touch that hot pan, you ______ burn your hand.",
+    "hint": "",
+    "options": [
+     "would",
+     "will",
+     "did",
+     "were"
+    ],
+    "answer": "will",
+    "accept": [],
+    "explain": "Aniq natijali birinchi shart gapida «will» ishlatiladi.",
+    "wrong": {
+     "would": "Bu xayoliy shart emas, real xavf.",
+     "did": "O'tgan zamon bu yerga to'g'ri kelmaydi.",
+     "were": "Ikkinchi shart fe'li bu yerda xato."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "When Umid arrived at the station, the train ______ already left.",
+    "hint": "",
+    "options": [
+     "has",
+     "had",
+     "did",
+     "was"
+    ],
+    "answer": "had",
+    "accept": [],
+    "explain": "Gapda «already left» (V3) bor, shuning uchun o'tgan zamonda undan oldin sodir bo'lgan ish-harakatni ko'rsatish uchun Past Perfect «had» ishlatiladi.",
+    "wrong": {
+     "has": "Gap o'tgan zamonda («arrived»), shuning uchun Present Perfect ishlatilmaydi.",
+     "did": "Past Simple yordamchi fe'li bu yerda V3 bilan ishlatilmaydi.",
+     "was": "Majburiy o'timli fe'l oldidan 'was' emas, 'had' kerak."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "When Lola opened her bag, she realized she ______ lost her pen.",
+    "hint": "",
+    "options": [
+     "has",
+     "have",
+     "had",
+     "did"
+    ],
+    "answer": "had",
+    "accept": [],
+    "explain": "O'tgan zamondagi asosiy voqea («opened») dan oldin sodir bo'lgan ish uchun Past Perfect — «had» qo'yiladi.",
+    "wrong": {
+     "has": "Hozirgi zamon yordamchi fe'li o'tgan zamon matniga mos kelmaydi.",
+     "have": "Shaxs va zamon mos kelmaydi.",
+     "did": "'lost' fe'li oldidan 'did' ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "By the time the teacher came into the room, the students ______ opened their books.",
+    "hint": "",
+    "options": [
+     "have",
+     "had",
+     "were",
+     "did"
+    ],
+    "answer": "had",
+    "accept": [],
+    "explain": "O'qituvchi kelishidan oldin sodir bo'lgan harakatni ko'rsatish uchun Past Perfect («had») ishlatiladi.",
+    "wrong": {
+     "have": "O'tgan zamon hikoyasida 'have' ishlatilmaydi.",
+     "were": "'Opened' fe'li oldidan 'were' ortiqcha bo'lib qoladi.",
+     "did": "Past Simple yordamchi fe'li bu yerga mos emas."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "When Sanjar turned on the light, he saw that someone ______ eaten his cake.",
+    "hint": "",
+    "options": [
+     "has",
+     "had",
+     "was",
+     "did"
+    ],
+    "answer": "had",
+    "accept": [],
+    "explain": "O'tgan zamondagi «saw» harakatidan oldin sodir bo'lgan ish uchun Past Perfect «had» ishlatiladi.",
+    "wrong": {
+     "has": "O'tgan zamon matnida Present Perfect ishlatilmaydi.",
+     "was": "'eaten' fe'li oldidan 'was' turganda ma'no buziladi.",
+     "did": "V3 shakli bilan 'did' ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "When the lights went out, we ______ already finished our dinner.",
+    "hint": "",
+    "options": [
+     "have",
+     "had",
+     "were",
+     "did"
+    ],
+    "answer": "had",
+    "accept": [],
+    "explain": "Chiroq o'chgunga qadar ovqat yeb bo'lingan edi, shuning uchun Past Perfect («had») kerak.",
+    "wrong": {
+     "have": "O'tgan zamon kontekstiga 'have' mos kelmaydi.",
+     "were": "'finished' fe'li bilan 'were' ishlatilmaydi.",
+     "did": "O'tgan zamon savol/inkor fe'li bu yerda xato."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Aziza didn't eat dinner because she ______ eaten a big lunch.",
+    "hint": "",
+    "options": [
+     "has",
+     "had",
+     "did",
+     "was"
+    ],
+    "answer": "had",
+    "accept": [],
+    "explain": "Sababiy bog'lamadan keyin o'tgan zamondan oldingi ishni ko'rsatish uchun Past Perfect — «had» ishlatiladi.",
+    "wrong": {
+     "has": "Matn o'tgan zamonda («didn't eat»), shuning uchun 'has' ishlatilmaydi.",
+     "did": "V3 shaklidagi fe'l oldidan 'did' qo'yilmaydi.",
+     "was": "Fe'lning bu shakli bu yerga mos emas."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Rustam failed his test because he ______ studied the grammar rules.",
+    "hint": "",
+    "options": [
+     "hasn't",
+     "hadn't",
+     "didn't",
+     "wasn't"
+    ],
+    "answer": "hadn't",
+    "accept": [],
+    "explain": "Imtihondan yiqilishidan oldin dars qilmaganini bildirish uchun inkor shakldagi Past Perfect («hadn't») ishlatiladi.",
+    "wrong": {
+     "hasn't": "O'tgan zamon hikoyasida Present Perfect inkor shakli ishlatilmaydi.",
+     "didn't": "Past Simple inkoridan keyin fe'lning 1-shakli kelishi kerak edi.",
+     "wasn't": "'studied' fe'li oldidan 'wasn't' xato."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Madina was very sleepy in the morning because she ______ slept well.",
+    "hint": "",
+    "options": [
+     "haven't",
+     "hadn't",
+     "didn't",
+     "hasn't"
+    ],
+    "answer": "hadn't",
+    "accept": [],
+    "explain": "O'tgan zamondagi holatdan oldin uxlamaganini ko'rsatish uchun «hadn't» ishlatiladi.",
+    "wrong": {
+     "haven't": "Shaxs va zamon mos emas.",
+     "didn't": "'didn't' dan keyin 'slept' (V2/V3) emas, 'sleep' (V1) kelishi kerak edi.",
+     "hasn't": "O'tgan zamon matniga mos emas."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Temur couldn't open the door because he ______ forgotten his keys.",
+    "hint": "",
+    "options": [
+     "has",
+     "had",
+     "did",
+     "was"
+    ],
+    "answer": "had",
+    "accept": [],
+    "explain": "Eshikni ocha olmagan paytdan oldin kalitni unutib qo'ygani uchun Past Perfect — «had» ishlatiladi.",
+    "wrong": {
+     "has": "O'tgan zamon voqealari uchun 'has' mos kelmaydi.",
+     "did": "V3 shakli bilan 'did' ishlatilmaydi.",
+     "was": "'forgotten' fe'lidan oldin 'was' turganda majburiy nisbat ma'nosi chiqib qoladi va xato bo'ladi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Gulnora smiled happily because she ______ passed her exam.",
+    "hint": "",
+    "options": [
+     "has",
+     "had",
+     "did",
+     "were"
+    ],
+    "answer": "had",
+    "accept": [],
+    "explain": "Tabassum qilishidan oldin imtihondan o'tgani uchun Past Perfect «had» talab qilinadi.",
+    "wrong": {
+     "has": "Hozirgi zamon yordamchi fe'li o'tgan zamon hikoyasiga to'g'ri kelmaydi.",
+     "did": "Past Simple yordamchi fe'li V3 bilan kelmaydi.",
+     "were": "Shaxs va fe'l shakli mos emas."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Before Jasur got on the train, he ______ bought a ticket.",
+    "hint": "",
+    "options": [
+     "has",
+     "had",
+     "did",
+     "was"
+    ],
+    "answer": "had",
+    "accept": [],
+    "explain": "«Before» so'zidan keyin Past Simple kelganda, boshqa qismda o'tgan zamondan oldingi ish uchun Past Perfect — «had» ishlatiladi.",
+    "wrong": {
+     "has": "O'tgan zamondagi voqea uchun Present Perfect ishlatilmaydi.",
+     "did": "V3 shakli bilan 'did' ishlatilmaydi.",
+     "was": "Fe'l zamoni bu yerga to'g'ri kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Before the sun set, the children ______ finished playing football.",
+    "hint": "",
+    "options": [
+     "have",
+     "had",
+     "did",
+     "were"
+    ],
+    "answer": "had",
+    "accept": [],
+    "explain": "Quyosh botishidan oldin sodir bo'lib bo'lgan ish uchun Past Perfect — «had» ishlatiladi.",
+    "wrong": {
+     "have": "O'tgan zamon kontekstiga 'have' mos emas.",
+     "did": "Past Simple yordamchi fe'li bu yerda ishlatilmaydi.",
+     "were": "'finished' fe'li oldidan 'were' xato."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Before the teacher entered the room, the students ______ opened their notebooks.",
+    "hint": "",
+    "options": [
+     "has",
+     "had",
+     "did",
+     "was"
+    ],
+    "answer": "had",
+    "accept": [],
+    "explain": "O'qituvchi kirishidan oldin sodir bo'lgan harakat uchun Past Perfect — «had» qo'yiladi.",
+    "wrong": {
+     "has": "O'tgan zamon voqeasida 'has' ishlatilmaydi.",
+     "did": "V3 shaklidagi fe'l oldidan 'did' qo'yilmaydi.",
+     "was": "Ma'no va grammatika jihatdan noto'g'ri."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Before the heavy rain started, we ______ reached our home.",
+    "hint": "",
+    "options": [
+     "have",
+     "had",
+     "did",
+     "were"
+    ],
+    "answer": "had",
+    "accept": [],
+    "explain": "Yomg'ir boshlanishidan oldin uyga yetib kelingan edi, shuning uchun Past Perfect — «had» ishlatiladi.",
+    "wrong": {
+     "have": "Present Perfect o'tgan zamondagi ketma-ketlikka mos kelmaydi.",
+     "did": "Past Simple yordamchi fe'li bu yerga qo'yilmaydi.",
+     "were": "Bu yerda o'tgan davomiy zamon ma'nosi talab qilinmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Before the guests arrived, mother ______ baked a delicious cake.",
+    "hint": "",
+    "options": [
+     "has",
+     "had",
+     "did",
+     "was"
+    ],
+    "answer": "had",
+    "accept": [],
+    "explain": "Mehmonlar kelishidan oldin pirojniy pishirib bo'lingan edi, shuning uchun Past Perfect — «had» kerak.",
+    "wrong": {
+     "has": "O'tgan zamon hikoyasida 'has' ishlatilmaydi.",
+     "did": "V3 shaklidagi fe'l bilan 'did' kelmaydi.",
+     "was": "Majburiy nisbat hosil bo'lib qoladi va xato."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "After Madina ______ finished her homework, she played a computer game.",
+    "hint": "",
+    "options": [
+     "has",
+     "had",
+     "did",
+     "was"
+    ],
+    "answer": "had",
+    "accept": [],
+    "explain": "«After» bog'lamasidan keyin avval sodir bo'lgan ish uchun Past Perfect — «had» ishlatiladi.",
+    "wrong": {
+     "has": "O'tgan zamondagi ikkinchi qismga nisbatan 'has' xato.",
+     "did": "Past Simple yordamchi fe'li V3 bilan ishlatilmaydi.",
+     "was": "Fe'l shakli bu yerga mos kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "After Timur ______ eaten all the apples, he drank a glass of water.",
+    "hint": "",
+    "options": [
+     "has",
+     "had",
+     "did",
+     "was"
+    ],
+    "answer": "had",
+    "accept": [],
+    "explain": "«After» dan keyin o'tgan zamonda avval yuz bergan ish ko'rsatiladi: Past Perfect — «had».",
+    "wrong": {
+     "has": "Gapning ikkinchi qismi o'tgan zamonda («drank»), shuning uchun 'has' xato.",
+     "did": "'eaten' (V3) oldidan 'did' qo'yilmaydi.",
+     "was": "Majburiy nisbat yuzaga kelib xato bo'ladi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "After Malika ______ cleaned her room, her mother gave her some chocolate.",
+    "hint": "",
+    "options": [
+     "has",
+     "had",
+     "did",
+     "were"
+    ],
+    "answer": "had",
+    "accept": [],
+    "explain": "Avval xona tozalandi, keyin ona shokolad berdi. Oldingi harakat uchun Past Perfect — «had» ishlatiladi.",
+    "wrong": {
+     "has": "O'tgan zamon hikoyasida Present Perfect ishlatilmaydi.",
+     "did": "Past Simple yordamchi fe'li V3 bilan ishlatilmaydi.",
+     "were": "Shaxs va fe'l mos kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "After the lesson ______ ended, the students ran out of the classroom.",
+    "hint": "",
+    "options": [
+     "has",
+     "had",
+     "did",
+     "was"
+    ],
+    "answer": "had",
+    "accept": [],
+    "explain": "Dars tugagandan keyin o'quvchilar yugurib chiqdi. Oldingi harakat uchun Past Perfect — «had» ishlatiladi.",
+    "wrong": {
+     "has": "O'tgan zamon kontekstiga 'has' mos emas.",
+     "did": "V3 shakli bilan 'did' ishlatilmaydi.",
+     "was": "Fe'l shakli xato."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "After Bobur ______ read the book, he returned it to the library.",
+    "hint": "",
+    "options": [
+     "has",
+     "had",
+     "did",
+     "was"
+    ],
+    "answer": "had",
+    "accept": [],
+    "explain": "Kitobni o'qib bo'lgach kutubxonaga qaytardi. Avvalgi ish uchun Past Perfect — «had» ishlatiladi.",
+    "wrong": {
+     "has": "O'tgan zamon matnida 'has' qo'llanilmaydi.",
+     "did": "Past Simple yordamchi fe'li bu yerga mos emas.",
+     "was": "Majburiy nisbat ma'nosini berib qo'yadi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "If our team ______ better, we would win the championship.",
+    "hint": "",
+    "options": [
+     "play",
+     "played",
+     "plays",
+     "had played"
+    ],
+    "answer": "played",
+    "accept": [],
+    "explain": "Natija qismida «would win» bor, shuning uchun shart qismida Past Simple — «played» ishlatiladi.",
+    "wrong": {
+     "play": "Present Simple ikkinchi shart gapida ishlatilmaydi.",
+     "plays": "Uchinchi shaxs birlik shakli bu yerda xato.",
+     "had played": "Ikkinchi shart gapining shart qismida Past Simple ishlatiladi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "If you ask politely, she ______ help you with your homework.",
+    "hint": "",
+    "options": [
+     "would",
+     "will",
+     "did",
+     "had"
+    ],
+    "answer": "will",
+    "accept": [],
+    "explain": "Bu birinchi shart gapidir: If + Present Simple, natija qismida esa «will» ishlatiladi.",
+    "wrong": {
+     "would": "Birinchi shart gapida 'would' ishlatilmaydi.",
+     "did": "O'tgan zamon yordamchi fe'li bu yerga mos emas.",
+     "had": "Past Perfect birinchi shartda qo'llanilmaydi."
+    }
+   }
+  ]
+ ],
+ "intro": {
+  "what": "Ikkinchi shartli gaplar (Second Conditional) hozirgi yoki kelajakdagi xayoliy vaziyatlarni va ularning natijalarini bildiradi. O'tgan tugallangan zamon (Past Perfect) esa o'tgan zamonda boshqa bir harakatdan oldin sodir bo'lgan voqeani ko'rsatadi.",
+  "when": [
+   "Hozirgi paytda ro'y berishi qiyin bo'lgan xayoliy ishlarni aytish uchun",
+   "Maslahat berish uchun",
+   "O'tgan zamondagi ikkita ish-harakatning ketma-ketligini ko'rsatish uchun",
+   "Sabab-natija bog'liqligini tushuntirish uchun"
+  ],
+  "structures": [
+   {
+    "label": "Second Conditional (Affirmative)",
+    "formula": "If + Past Simple, would + V1",
+    "example_en": "If I had a bike, I would ride to school.",
+    "example_uz": "Agar menda velosiped bo'lganida, maktabga haydab borgan bo'lar edim."
+   },
+   {
+    "label": "Second Conditional (Question)",
+    "formula": "What would you do if + Past Simple?",
+    "example_en": "What would you do if you saw a lion?",
+    "example_uz": "Agar arslonni ko'rganingda nima qilgan bo'lar eding?"
+   },
+   {
+    "label": "Past Perfect (Affirmative)",
+    "formula": "Subject + had + V3/ed",
+    "example_en": "She had finished her homework before dinner.",
+    "example_uz": "U kechki ovqatdan oldin uy vazifasini tugatgan edi."
+   },
+   {
+    "label": "Past Perfect (Negative)",
+    "formula": "Subject + hadn't + V3/ed",
+    "example_en": "We hadn't visited Samarkand before last summer.",
+    "example_uz": "Biz o'tgan yozgacha Samarqandga bormagan edik."
+   }
+  ],
+  "rules": [
+   {
+    "title": "Xayoliy shartlar",
+    "text": "Second Conditional gaplarida 'if' qismida o'tgan zamon fe'li keladi, lekin ma'no hozirgi yoki kelajak zamonga tegishli bo'ladi.",
+    "examples": [
+     {
+      "en": "If I were rich, I would buy a nice house in Tashkent.",
+      "uz": "Agar boy bo'lganimda, Toshkentda chiroyli uy sotib olgan bo'lar edim."
+     },
+     {
+      "en": "If he studied harder, he would pass the exam.",
+      "uz": "Agar u qattiqroq o'qiganda, imtihondan o'tgan bo'lar edi."
+     }
+    ]
+   },
+   {
+    "title": "O'tdagi birinchi harakat",
+    "text": "Past Perfect o'tgan zamondagi boshqa bir harakatdan oldin tugallangan ishni ko'rsatadi.",
+    "examples": [
+     {
+      "en": "When I arrived at the station, the train had left.",
+      "uz": "Men vokzalga kelganimda, poyezd ketib bo'lgan edi."
+     },
+     {
+      "en": "Dad was angry because I had lost my keys.",
+      "uz": "Dadam jahl qildi, chunki men kalitlarimni yo'qotib qo'ygan edim."
+     }
+    ]
+   },
+   {
+    "title": "After va Before bog'lamalari",
+    "text": "Past Perfect ko'pincha 'after' yoki 'before' so'zlari bilan birga ishlatilib, voqealar ketma-ketligini aniq ko'rsatadi.",
+    "examples": [
+     {
+      "en": "After she had eaten lunch, she went out to play football.",
+      "uz": "U tushlikni yeb bo'lgach, futbol o'ynagani chiqib ketdi."
+     },
+     {
+      "en": "They had cleaned the room before guests arrived.",
+      "uz": "Mehmonlar kelishidan oldin ular xonani tozalab qo'yishgan edi."
+     }
+    ]
+   }
+  ],
+  "signal_words": [
+   {
+    "en": "if",
+    "uz": "agar"
+   },
+   {
+    "en": "would",
+    "uz": "-gan bo'lar edi"
+   },
+   {
+    "en": "had",
+    "uz": "-gan edi"
+   },
+   {
+    "en": "already",
+    "uz": "allaqachon"
+   },
+   {
+    "en": "just",
+    "uz": "hozirgina"
+   },
+   {
+    "en": "never",
+    "uz": "hech qachon"
+   },
+   {
+    "en": "by the time",
+    "uz": "-gacha"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "If I will have money, I will buy a car.",
+    "right": "If I had money, I would buy a car.",
+    "why": "Second conditional qoidasiga ko'ra, 'if' qismida 'will' emas, o'tgan zamon fe'li ishlatiladi."
+   },
+   {
+    "wrong": "She had went home before it started to rain.",
+    "right": "She had gone home before it started to rain.",
+    "why": "Past Perfect zamonida fe'lning uchinchi shakli (V3) ishlatilishi kerak, 'went' esa ikkinchi shakl."
+   },
+   {
+    "wrong": "If I was you, I would study English.",
+    "right": "If I were you, I would study English.",
+    "why": "Ikkinchi shartli gaplarda maslahat berganda 'I', 'he', 'she' olmoshlari bilan ham 'was' emas, 'were' ishlatiladi."
+   },
+   {
+    "wrong": "I lost my phone because I left it on the bus.",
+    "right": "I lost my phone because I had left it on the bus.",
+    "why": "Telefonni yo'qotishdan oldin avtobusda qoldirgani uchun Past Perfect ishlatilishi kerak."
+   }
+  ]
+ }
+}

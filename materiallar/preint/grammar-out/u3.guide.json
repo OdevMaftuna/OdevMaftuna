@@ -1,0 +1,245 @@
+[
+ {
+  "name": "must / mustn't",
+  "name_uz": "Majburiyat va taqiq",
+  "summary": "Must va mustn't modal fe'llari qoidalar, majburiyatlar va taqiqlarni ifodalash uchun ishlatiladi.",
+  "usage": [
+   {
+    "text": "Shaxsiy bo'lmagan qoidalar va qonun-qoidalarni aytish uchun must ishlatiladi.",
+    "example": {
+     "en": "You must wear a helmet when riding a bike.",
+     "uz": "Velosiped haydashda dubulg'a kiyishingiz shart."
+    }
+   },
+   {
+    "text": "Qat'iy majburiyatlarni bildirish uchun ham must ishlatiladi.",
+    "example": {
+     "en": "I must finish my homework tonight.",
+     "uz": "Men bugun kechqurun uy vazifamni tugatishim kerak."
+    }
+   },
+   {
+    "text": "Biror narsani qilish qat'iyan taqiqlanganligini bildirish uchun mustn't ishlatiladi.",
+    "example": {
+     "en": "You mustn't use your phone during the exam.",
+     "uz": "Imtihon paytida telefoningizdan foydalanish taqiqlanadi."
+    }
+   }
+  ],
+  "structure": [
+   {
+    "type": "+",
+    "formula": "Subject + must + V1",
+    "example": {
+     "en": "You must be quiet.",
+     "uz": "Siz jim bo'lishingiz kerak."
+    }
+   },
+   {
+    "type": "-",
+    "formula": "Subject + mustn't + V1",
+    "example": {
+     "en": "You mustn't touch that.",
+     "uz": "Siz unga tegmasligingiz kerak."
+    }
+   },
+   {
+    "type": "?",
+    "formula": "Must + subject + V1?",
+    "example": {
+     "en": "Must we stay here?",
+     "uz": "Biz bu yerda qolishimiz shartmi?"
+    }
+   },
+   {
+    "type": "short",
+    "formula": "Yes, subject + must / No, subject + mustn't",
+    "example": {
+     "en": "Yes, you must. / No, you mustn't.",
+     "uz": "Ha, shart. / Yo'q, taqiqlanadi."
+    }
+   }
+  ],
+  "signals": [
+   {
+    "en": "It's forbidden",
+    "uz": "Taqiqlangan"
+   },
+   {
+    "en": "Against the rules",
+    "uz": "Qoidalarga zid"
+   },
+   {
+    "en": "It's the law",
+    "uz": "Bu qonun"
+   },
+   {
+    "en": "Never do this",
+    "uz": "Buni aslo qilmang"
+   }
+  ],
+  "tip": "Eslatma: Mustn't - taqiqni bildiradi ('qilish mumkin emas'), 'majbur emasman' degani emas!"
+ },
+ {
+  "name": "needn't / don't have to",
+  "name_uz": "Majburiyatning yo'qligi",
+  "summary": "Needn't va don't have to biror harakatni bajarish majburiy emasligini, ya'ni xohishga ko'ra ekanligini bildiradi.",
+  "usage": [
+   {
+    "text": "Biror ishni qilish shart emasligini, lekin xohlasa qilish mumkinligini aytish uchun don't have to ishlatiladi.",
+    "example": {
+     "en": "You don't have to wear a tie to the party.",
+     "uz": "Kechaga galstuk taqishingiz shart emas."
+    }
+   },
+   {
+    "text": "Hozirda buni qilishga hojat yo'qligini bildirish uchun needn't ishlatiladi.",
+    "example": {
+     "en": "You needn't buy milk; we already have plenty.",
+     "uz": "Sotib olishingiz shart emas; bizda allaqachon sut ko'p."
+    }
+   },
+   {
+    "text": "Vaqtni behuda sarflamaslik kerakligini ko'rsatish uchun ishlatiladi.",
+    "example": {
+     "en": "We don't have to hurry, we have lots of time.",
+     "uz": "Shoshilishimiz shart emas, vaqtimiz ko'p."
+    }
+   }
+  ],
+  "structure": [
+   {
+    "type": "+",
+    "formula": "Subject + don't / doesn't have to + V1",
+    "example": {
+     "en": "He doesn't have to get up early today.",
+     "uz": "U bugun erta turishi shart emas."
+    }
+   },
+   {
+    "type": "+",
+    "formula": "Subject + needn't + V1",
+    "example": {
+     "en": "You needn't worry about it.",
+     "uz": "Bu haqda xavotirlanishingiz shart emas."
+    }
+   },
+   {
+    "type": "-",
+    "formula": "Subject + must / have to (doesn't apply as negative structure)",
+    "example": {
+     "en": "I don't have to go.",
+     "uz": "Men borishga majbur emasman."
+    }
+   },
+   {
+    "type": "short",
+    "formula": "Do/Does + subject + have to...? Yes, I do / No, I don't",
+    "example": {
+     "en": "Do I have to go? No, you don't.",
+     "uz": "Men borishim shartmi? Yo'q, shart emas."
+    }
+   }
+  ],
+  "signals": [
+   {
+    "en": "Not necessary",
+    "uz": "Kerak emas"
+   },
+   {
+    "en": "No need",
+    "uz": "Hojat yo'q"
+   },
+   {
+    "en": "Up to you",
+    "uz": "O'zingiz bilasiz"
+   },
+   {
+    "en": "Optional",
+    "uz": "Ixtiyoriy"
+   }
+  ],
+  "tip": "Eslatma: 'Don't have to' va 'needn't' ma'nosi bir xil, lekin 'don't have to' kundalik nutqda ko'proq ishlatiladi."
+ },
+ {
+  "name": "have to",
+  "name_uz": "Majburiyat va zaruriyat",
+  "summary": "Have to tashqi qoidalar yoki boshqalar tomonidan yuklatilgan majburiyatlarni bildirish uchun ishlatiladi.",
+  "usage": [
+   {
+    "text": "Maktab yoki ish joyi qoidalariga bo'ysunishni tushuntirish uchun ishlatiladi.",
+    "example": {
+     "en": "We have to wear a school uniform.",
+     "uz": "Biz maktab formasi kiyishimiz shart."
+    }
+   },
+   {
+    "text": "Boshqa birovning talabiga ko'ra bajariladigan ishlar uchun ishlatiladi.",
+    "example": {
+     "en": "My mom says I have to clean my room.",
+     "uz": "Onam xonamni tozalashim shartligini aytyaptilar."
+    }
+   },
+   {
+    "text": "O'tgan zamondagi majburiyatlarni ifodalash uchun had to ishlatiladi.",
+    "example": {
+     "en": "I had to stay at home yesterday.",
+     "uz": "Kecha uyda qolishimga to'g'ri keldi."
+    }
+   }
+  ],
+  "structure": [
+   {
+    "type": "+",
+    "formula": "Subject + have to / has to + V1",
+    "example": {
+     "en": "She has to study for the test.",
+     "uz": "U testga o'qishi kerak."
+    }
+   },
+   {
+    "type": "-",
+    "formula": "Subject + don't / doesn't have to + V1",
+    "example": {
+     "en": "We don't have to work on Sundays.",
+     "uz": "Biz yakshanba kunlari ishlashimiz shart emas."
+    }
+   },
+   {
+    "type": "?",
+    "formula": "Do / Does + subject + have to + V1?",
+    "example": {
+     "en": "Do you have to leave now?",
+     "uz": "Hozir ketishingiz shartmi?"
+    }
+   },
+   {
+    "type": "short",
+    "formula": "Yes, I do / No, I don't",
+    "example": {
+     "en": "Yes, I do. / No, I don't.",
+     "uz": "Ha, shart. / Yo'q, shart emas."
+    }
+   }
+  ],
+  "signals": [
+   {
+    "en": "Rules say",
+    "uz": "Qoidalar shuni talab qiladi"
+   },
+   {
+    "en": "It's obligatory",
+    "uz": "Bu majburiy"
+   },
+   {
+    "en": "No choice",
+    "uz": "Boshqa tanlov yo'q"
+   },
+   {
+    "en": "Teacher/Boss says",
+    "uz": "O'qituvchi/Boshliq shuni aytdi"
+   }
+  ],
+  "tip": "Eslatma: Uchinchi shaxs birlikda (he, she, it) 'has to' ishlatilishini unutmang!"
+ }
+]

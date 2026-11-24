@@ -1,0 +1,801 @@
+[
+ {
+  "unit": 1,
+  "sets": [
+   {
+    "lesson": "1A",
+    "title": "Talking about likes and dislikes",
+    "uz": "Yoqtirish va yoqtirmaslik haqida gapirish",
+    "phrases": [
+     [
+      "I can't stand ...",
+      "Men umuman chiday olmayman ..."
+     ],
+     [
+      "I don't mind ...",
+      "Men uchun farqi yo'q ..."
+     ],
+     [
+      "I hate ...",
+      "Men yomon ko'raman ..."
+     ],
+     [
+      "I love ...",
+      "Men juda yaxshi ko'raman ..."
+     ],
+     [
+      "I quite like ...",
+      "Menga ancha yoqadi ..."
+     ],
+     [
+      "I'm really keen on ...",
+      "Men ...ga juda qiziqaman"
+     ],
+     [
+      "... isn't bad.",
+      "... yomon emas."
+     ],
+     [
+      "... is great.",
+      "... zo'r."
+     ],
+     [
+      "... is terrible.",
+      "... juda yomon."
+     ]
+    ]
+   },
+   {
+    "lesson": "1C",
+    "title": "Asking for / Giving advice",
+    "uz": "Maslahat so'rash va maslahat berish",
+    "phrases": [
+     [
+      "What can I do?",
+      "Men nima qilsam bo'ladi?"
+     ],
+     [
+      "Can I ask your advice about something?",
+      "Sizdan bir masalada maslahat so'rasam bo'ladimi?"
+     ],
+     [
+      "I think / don't think you should ...",
+      "Menimcha, sen ... qilishing kerak / kerak emas."
+     ],
+     [
+      "Why don't you ...?",
+      "Nega ... qilmaysan?"
+     ],
+     [
+      "You need to ...",
+      "Sen ... qilishing kerak."
+     ],
+     [
+      "You have to ...",
+      "Sen ... qilishing shart."
+     ],
+     [
+      "That's my advice.",
+      "Mening maslahatim shu."
+     ],
+     [
+      "You're right. Thanks for your advice.",
+      "To'g'ri aytasiz. Maslahatingiz uchun rahmat."
+     ]
+    ]
+   },
+   {
+    "lesson": "1G",
+    "title": "Reacting and showing interest",
+    "uz": "Hayrat, qiziqish va hissiyot bildirish",
+    "phrases": [
+     [
+      "You're joking / kidding!",
+      "Hazillashyapsan!"
+     ],
+     [
+      "How boring / funny / frustrating / exciting / upsetting / awful!",
+      "Qanday zerikarli / kulgili / asabiylashtiruvchi / hayajonli / xafa qiladigan / dahshat!"
+     ],
+     [
+      "That's amazing / exciting / worrying / shocking!",
+      "Bu ajoyib / hayajonli / xavotirli / shokli ekan!"
+     ],
+     [
+      "That sounds great / terrible / annoying / terrifying!",
+      "Bu juda zo'r / yomon / asabiylashtiruvchi / qo'rqinchli tuyuladi!"
+     ],
+     [
+      "What a cool thing to do!",
+      "Qanday zo'r ish!"
+     ],
+     [
+      "Really? I'm so envious!",
+      "Rostdanmi? Men juda havas qildim."
+     ],
+     [
+      "Really? What a relief!",
+      "Rostdanmi? Voy, yengil tortdim."
+     ],
+     [
+      "That sounds like a nightmare!",
+      "Bu haqiqiy dahshatdek eshitilyapti!"
+     ],
+     [
+      "Oh no! What a disaster / shame!",
+      "Voy yo'q! Qanday falokat / afsus!"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 2,
+  "sets": [
+   {
+    "lesson": "2G",
+    "title": "Describing a photo",
+    "uz": "Rasmni tasvirlash",
+    "phrases": [
+     [
+      "The photo shows ...",
+      "Rasmda ... tasvirlangan."
+     ],
+     [
+      "In the foreground ...",
+      "Oldingi qismida ..."
+     ],
+     [
+      "In the background ...",
+      "Orqa fonda ..."
+     ],
+     [
+      "In the top left corner ...",
+      "Chap yuqori burchakda ..."
+     ],
+     [
+      "In the bottom right corner ...",
+      "O'ng pastki burchakda ..."
+     ],
+     [
+      "At the top ...",
+      "Yuqori qismida ..."
+     ],
+     [
+      "At the bottom ...",
+      "Pastki qismida ..."
+     ],
+     [
+      "On the left ...",
+      "Chap tomonda ..."
+     ],
+     [
+      "On the right ...",
+      "O'ng tomonda ..."
+     ],
+     [
+      "In the centre ...",
+      "O'rtada ..."
+     ],
+     [
+      "It looks like ...",
+      "... ga o'xshaydi."
+     ],
+     [
+      "It looks as if they're ...",
+      "Go'yo ular ... (qilayotganga) o'xshaydi."
+     ],
+     [
+      "She seems to be ...",
+      "U ... (qilayotgan)dek ko'rinadi."
+     ]
+    ]
+   },
+   {
+    "lesson": "2G",
+    "title": "Speculating about a photo",
+    "uz": "Rasm haqida taxmin qilish",
+    "phrases": [
+     [
+      "She's probably feeling ...",
+      "Ehtimol, u ... his qilayotgandir."
+     ],
+     [
+      "I expect they're feeling ..., but maybe ...",
+      "Menimcha ular ... his qilayotgandir, lekin balki ..."
+     ],
+     [
+      "Judging by ..., I'd say ...",
+      "...ga qaraganda, men aytardimki ..."
+     ],
+     [
+      "To me, they look as if ...",
+      "Menga ko'rinishicha ..."
+     ],
+     [
+      "It can't be ... because ...",
+      "Bu ... bo'lishi mumkin emas, chunki ..."
+     ],
+     [
+      "It must be ... because ...",
+      "Bu albatta ... bo'lsa kerak, chunki ..."
+     ]
+    ]
+   },
+   {
+    "lesson": "2H",
+    "title": "Making suggestions",
+    "uz": "Taklif berish",
+    "phrases": [
+     [
+      "Shall we ...?",
+      "... qilaylikmi?"
+     ],
+     [
+      "Let's ...",
+      "Keling, ... qilaylik."
+     ],
+     [
+      "Do you fancy ...?",
+      "...ni xohlaysanmi?"
+     ],
+     [
+      "How / What about ...?",
+      "...chi? (taklif)"
+     ],
+     [
+      "It would be nice to ...",
+      "... qilsak yaxshi bo'lardi."
+     ],
+     [
+      "We could always ...",
+      "Istasak, ... qilishimiz ham mumkin."
+     ],
+     [
+      "Why don't we ...?",
+      "Nega ... qilmaymiz?"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 3,
+  "sets": [
+   {
+    "lesson": "3G",
+    "title": "Expressing likes and dislikes",
+    "uz": "Yoqtirish va yoqtirmaslikni ifodalash",
+    "phrases": [
+     [
+      "I quite fancy ...",
+      "Menga ancha yoqadi / ... qilgim kelyapti."
+     ],
+     [
+      "I don't really fancy ...",
+      "Unchalik xohlamayman."
+     ],
+     [
+      "I'm a big fan of ...",
+      "Men ...ning katta muxlisiman."
+     ],
+     [
+      "I'm not a big fan of ...",
+      "Men ...ning unchalik muxlisi emasman."
+     ],
+     [
+      "I'm keen on ...",
+      "Men ...ni juda yaxshi ko'raman."
+     ],
+     [
+      "I'm not keen on ...",
+      "Men ...ni unchalik yoqtirmayman."
+     ],
+     [
+      "I adore ...",
+      "Men ...ni juda-juda yaxshi ko'raman."
+     ],
+     [
+      "I can't stand ...",
+      "Men ...ga umuman chiday olmayman."
+     ]
+    ]
+   },
+   {
+    "lesson": "3G",
+    "title": "Expressing a preference",
+    "uz": "Afzallik bildirish",
+    "phrases": [
+     [
+      "I'd rather ...",
+      "Men ...ni afzal ko'raman."
+     ],
+     [
+      "I'd prefer (to) ...",
+      "Men ...ni afzal bilaman."
+     ],
+     [
+      "I think ... will be better / more fun.",
+      "Menimcha ... yaxshiroq / qiziqarliroq bo'ladi."
+     ]
+    ]
+   },
+   {
+    "lesson": "3G",
+    "title": "Reaching an agreement",
+    "uz": "Kelishuvga erishish",
+    "phrases": [
+     [
+      "Shall we settle on ...?",
+      "...ga kelishib olamizmi?"
+     ],
+     [
+      "OK, I agree.",
+      "Mayli, roziman."
+     ],
+     [
+      "That's agreed, then.",
+      "Demak, kelishdik."
+     ],
+     [
+      "That's a great idea.",
+      "Bu juda yaxshi fikr."
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 4,
+  "sets": [
+   {
+    "lesson": "4E",
+    "title": "Expressing opinions",
+    "uz": "Fikr bildirish",
+    "phrases": [
+     [
+      "I think / don't think that ...",
+      "Menimcha ... / Menimcha ... emas."
+     ],
+     [
+      "In my opinion, ...",
+      "Mening fikrimcha, ..."
+     ],
+     [
+      "I believe / don't believe that ...",
+      "Men ...ga ishonaman / ishonmayman."
+     ],
+     [
+      "It seems to me that ...",
+      "Menga shunday tuyuladiki, ..."
+     ],
+     [
+      "To be honest, ...",
+      "Rostini aytsam, ..."
+     ],
+     [
+      "As I see it, ...",
+      "Men qanday ko'rsam, ..."
+     ],
+     [
+      "I imagine that ...",
+      "Tasavvur qilishimcha, ..."
+     ]
+    ]
+   },
+   {
+    "lesson": "4E",
+    "title": "Agreeing and disagreeing",
+    "uz": "Qo'shilish va qo'shilmaslik",
+    "phrases": [
+     [
+      "I agree / disagree with (Emma) that ...",
+      "Men (Emma)ning ... degan fikriga qo'shilaman / qo'shilmayman."
+     ],
+     [
+      "(Tom) is right / wrong to say that ... because ...",
+      "(Tom) ... deb to'g'ri / noto'g'ri aytyapti, chunki ..."
+     ],
+     [
+      "It's true that ...",
+      "To'g'ri, ..."
+     ]
+    ]
+   },
+   {
+    "lesson": "4G",
+    "title": "Comparing and contrasting: similarities",
+    "uz": "Rasmlarni taqqoslash: o'xshashliklar",
+    "phrases": [
+     [
+      "The common theme in the photos is ...",
+      "Rasmlardagi umumiy mavzu — ..."
+     ],
+     [
+      "You can see ... in both photos.",
+      "Ikkala rasmda ham ...ni ko'rish mumkin."
+     ],
+     [
+      "Both photos show ...",
+      "Ikkala rasm ham ...ni ko'rsatadi."
+     ],
+     [
+      "In both photos there are ...",
+      "Ikkala rasmda ham ... bor."
+     ]
+    ]
+   },
+   {
+    "lesson": "4G",
+    "title": "Comparing and contrasting: differences",
+    "uz": "Rasmlarni taqqoslash: farqlar",
+    "phrases": [
+     [
+      "The first photo shows ..., whereas the second photo shows ...",
+      "Birinchi rasmda ..., ikkinchi rasmda esa ..."
+     ],
+     [
+      "In the first photo ..., but in the second photo ...",
+      "Birinchi rasmda ..., ammo ikkinchisida ..."
+     ],
+     [
+      "One obvious difference is (that) ...",
+      "Eng aniq farqlardan biri — ..."
+     ],
+     [
+      "Unlike the first photo, the second photo shows ...",
+      "Birinchi rasmdan farqli ravishda ikkinchi rasmda ..."
+     ],
+     [
+      "In contrast to the first photo, the second photo ...",
+      "Birinchi rasmdan farqli o'laroq, ikkinchi rasm ..."
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 5,
+  "sets": [
+   {
+    "lesson": "5G",
+    "title": "Making contrasts",
+    "uz": "Qarama-qarshilikni ifodalash",
+    "phrases": [
+     [
+      "I'm sure I'll enjoy it even though ...",
+      "Garchi ... bo'lsa ham, menga yoqishiga ishonaman."
+     ],
+     [
+      "Although it's ..., it will be very ...",
+      "Garchi u ... bo'lsa ham, juda ... bo'ladi."
+     ],
+     [
+      "The job is quite ... . However, I really don't want to work in a ...",
+      "Ish ancha ... . Biroq men ... da ishlashni umuman xohlamayman."
+     ],
+     [
+      "The ... isn't very good. Nevertheless, I'm choosing this job because ...",
+      "... unchalik yaxshi emas. Shunga qaramay, men bu ishni tanlayapman, chunki ..."
+     ],
+     [
+      "I'm interested in ...",
+      "Men ...ga qiziqaman."
+     ]
+    ]
+   },
+   {
+    "lesson": "5",
+    "title": "Learn this! Related verbs and nouns",
+    "uz": "Bog'liq fe'l va otlar",
+    "phrases": [
+     [
+      "complete → completion",
+      "tugatmoq → tugatish, yakunlash"
+     ],
+     [
+      "achieve → achievement",
+      "erishmoq → yutuq"
+     ],
+     [
+      "fail → failure",
+      "muvaffaqiyatsizlikka uchramoq → muvaffaqiyatsizlik"
+     ],
+     [
+      "explore → exploration",
+      "tadqiq qilmoq → tadqiqot"
+     ],
+     [
+      "attempt → attempt",
+      "urinmoq → urinish"
+     ],
+     [
+      "dream → dream",
+      "orzu qilmoq → orzu"
+     ],
+     [
+      "thunder → thunder",
+      "momaqaldiramoq → momaqaldiroq"
+     ],
+     [
+      "fall → fall",
+      "yiqilmoq → yiqilish"
+     ],
+     [
+      "experience → experience",
+      "boshdan kechirmoq → tajriba"
+     ],
+     [
+      "need → need",
+      "kerak bo'lmoq → ehtiyoj"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 6,
+  "sets": [
+   {
+    "lesson": "6G",
+    "title": "Accepting a suggestion",
+    "uz": "Taklifni qabul qilish",
+    "phrases": [
+     [
+      "That sounds like a great idea.",
+      "Bu ajoyib fikrga o'xshaydi."
+     ],
+     [
+      "What a good idea!",
+      "Qanday yaxshi fikr!"
+     ],
+     [
+      "I like that idea.",
+      "Bu fikr menga yoqadi."
+     ],
+     [
+      "That's a really good plan.",
+      "Bu juda yaxshi reja."
+     ],
+     [
+      "Yes. Why not?",
+      "Ha. Nega endi yo'q?"
+     ],
+     [
+      "Let's do that.",
+      "Keling, shunday qilamiz."
+     ]
+    ]
+   },
+   {
+    "lesson": "6G",
+    "title": "Declining a suggestion",
+    "uz": "Taklifni rad etish",
+    "phrases": [
+     [
+      "I'm not sure about that.",
+      "Bunga ishonchim yo'q / Bilmadim."
+     ],
+     [
+      "I don't think that's a great idea.",
+      "Menimcha, bu unchalik yaxshi fikr emas."
+     ],
+     [
+      "I'm not very keen on that idea.",
+      "Bu fikr menga unchalik yoqmayapti."
+     ],
+     [
+      "I'd rather not.",
+      "Yaxshisi, yo'q."
+     ]
+    ]
+   },
+   {
+    "lesson": "6G",
+    "title": "Expressing no preference",
+    "uz": "Farqi yo'qligini bildirish",
+    "phrases": [
+     [
+      "I don't mind.",
+      "Men uchun farqi yo'q."
+     ],
+     [
+      "Either suggestion is fine by me.",
+      "Ikkala taklif ham menga ma'qul."
+     ],
+     [
+      "They're both good ideas.",
+      "Ikkalasi ham yaxshi fikr."
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 7,
+  "sets": [
+   {
+    "lesson": "7G",
+    "title": "Structuring your speech",
+    "uz": "Nutqni tartiblash",
+    "phrases": [
+     [
+      "I'd like to start by saying / looking at ...",
+      "...ni aytishdan / ko'rib chiqishdan boshlamoqchiman."
+     ],
+     [
+      "First of all, we need to decide / examine / look at / ask ourselves ...",
+      "Avvalo, biz ...ni hal qilishimiz / ko'rib chiqishimiz / o'zimizdan so'rashimiz kerak."
+     ],
+     [
+      "I'll begin with ...",
+      "...dan boshlayman."
+     ],
+     [
+      "Now I'd like to move on to ...",
+      "Endi ...ga o'tmoqchiman."
+     ],
+     [
+      "This leads to my next point.",
+      "Bu meni keyingi fikrimga olib keladi."
+     ],
+     [
+      "Now let's look at / move on to (the question of ...)",
+      "Endi (... masalasini) ko'rib chiqaylik / ...ga o'taylik."
+     ]
+    ]
+   },
+   {
+    "lesson": "7G",
+    "title": "Ordering points or opinions",
+    "uz": "Fikrlarni tartib bilan aytish",
+    "phrases": [
+     [
+      "First, ... Second, ... Finally, ...",
+      "Birinchidan, ... Ikkinchidan, ... Nihoyat, ..."
+     ]
+    ]
+   },
+   {
+    "lesson": "7G",
+    "title": "Justifying your opinions",
+    "uz": "Fikringizni asoslash",
+    "phrases": [
+     [
+      "There are a number of reasons why I believe this. First, ...",
+      "Bunga ishonishimning bir necha sababi bor. Birinchidan, ..."
+     ],
+     [
+      "I'll tell you why I think that.",
+      "Nega shunday deb o'ylashimni aytib beraman."
+     ],
+     [
+      "The reason I say that is ...",
+      "Buni aytishimning sababi — ..."
+     ],
+     [
+      "The main reason I feel this way is ...",
+      "Shunday fikrda bo'lishimning asosiy sababi — ..."
+     ]
+    ]
+   },
+   {
+    "lesson": "7G",
+    "title": "Summing up your opinion",
+    "uz": "Fikrni xulosalash",
+    "phrases": [
+     [
+      "To sum up, ... / In conclusion, ... / All in all, ...",
+      "Xulosa qilib aytganda, ... / Yakunida, ... / Umuman olganda, ..."
+     ],
+     [
+      "Just to summarise the main points ...",
+      "Asosiy fikrlarni qisqacha jamlasam ..."
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 8,
+  "sets": [
+   {
+    "lesson": "8G",
+    "title": "Giving a tentative opinion",
+    "uz": "Ehtiyotkorona fikr bildirish",
+    "phrases": [
+     [
+      "I'm not sure really.",
+      "Rostini aytsam, aniq bilmayman."
+     ],
+     [
+      "I agree to some extent.",
+      "Ma'lum darajada qo'shilaman."
+     ],
+     [
+      "I suppose it's true to say that ...",
+      "Menimcha, ... deyish to'g'ri bo'lsa kerak."
+     ]
+    ]
+   },
+   {
+    "lesson": "8G",
+    "title": "Making an additional point",
+    "uz": "Qo'shimcha fikr qo'shish",
+    "phrases": [
+     [
+      "Moreover, ...",
+      "Bundan tashqari, ..."
+     ],
+     [
+      "Furthermore, ...",
+      "Qolaversa, ..."
+     ],
+     [
+      "What is more, ...",
+      "Buning ustiga, ..."
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 9,
+  "sets": [
+   {
+    "lesson": "9D",
+    "title": "Agreeing and disagreeing",
+    "uz": "Qo'shilish va qo'shilmaslik",
+    "phrases": [
+     [
+      "I don't agree that ...",
+      "Men ... degan fikrga qo'shilmayman."
+     ],
+     [
+      "I agree that ...",
+      "Men ... degan fikrga qo'shilaman."
+     ],
+     [
+      "I'm not sure that ...",
+      "...ga ishonchim komil emas."
+     ],
+     [
+      "I wouldn't say that ...",
+      "Men ... demagan bo'lardim."
+     ]
+    ]
+   },
+   {
+    "lesson": "9G",
+    "title": "Making a complaint",
+    "uz": "Shikoyat qilish",
+    "phrases": [
+     [
+      "There's a problem / something wrong with ...",
+      "...da muammo / nosozlik bor."
+     ],
+     [
+      "It's broken.",
+      "U singan / buzilgan."
+     ],
+     [
+      "It doesn't work. / It has stopped working.",
+      "U ishlamayapti. / Ishlamay qoldi."
+     ],
+     [
+      "Can I have my money back, please?",
+      "Pulimni qaytarib bera olasizmi?"
+     ],
+     [
+      "Can you exchange / repair it?",
+      "Uni almashtirib / tuzatib bera olasizmi?"
+     ],
+     [
+      "Can I see / speak to the manager, please?",
+      "Menejerni ko'rsam / u bilan gaplashsam bo'ladimi?"
+     ]
+    ]
+   }
+  ]
+ }
+]

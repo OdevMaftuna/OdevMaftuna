@@ -1,0 +1,80 @@
+{
+  "code": "U5", "kind": "unit", "unit": 5, "price": 20000,
+  "title": "Unit 5 Test",
+  "subtitle": "Present Simple (I / you / we / they) · do / don’t · food & drink · nationalities",
+  "sections": [
+    {
+      "title": "A. Complete the sentences. Use these verbs.",
+      "box": ["live", "work", "speak", "eat", "drink", "like"],
+      "items": [
+        { "t": "text", "q": "We ______ in a small flat in Namangan.", "a": ["live"] },
+        { "t": "text", "q": "Doctors ______ in a hospital.", "a": ["work"] },
+        { "t": "text", "q": "Do you ______ Russian?", "a": ["speak"] },
+        { "t": "text", "q": "I ______ green tea every morning.", "a": ["drink"] },
+        { "t": "text", "q": "They ______ plov on Fridays.", "a": ["eat"] },
+        { "t": "text", "q": "I ______ music. It’s my hobby.", "a": ["like"] }
+      ]
+    },
+    {
+      "title": "B. Make the sentences negative.",
+      "items": [
+        { "t": "text", "q": "I like coffee.", "a": ["I don’t like coffee", "I do not like coffee"] },
+        { "t": "text", "q": "They work in an office.", "a": ["They don’t work in an office", "They do not work in an office"] },
+        { "t": "text", "q": "We speak French.", "a": ["We don’t speak French", "We do not speak French"] },
+        { "t": "text", "q": "You eat meat.", "a": ["You don’t eat meat", "You do not eat meat"] }
+      ]
+    },
+    {
+      "title": "C. Write questions with Do.",
+      "items": [
+        { "t": "text", "q": "you / like / ice cream", "a": ["Do you like ice cream"] },
+        { "t": "text", "q": "they / live / in London", "a": ["Do they live in London"] },
+        { "t": "text", "q": "you / drink / milk", "a": ["Do you drink milk"] },
+        { "t": "text", "q": "your parents / speak / English", "a": ["Do your parents speak English"] }
+      ]
+    },
+    {
+      "title": "D. Choose the correct short answer.",
+      "items": [
+        { "t": "mc", "q": "Do you like fish? (✓)", "o": ["Yes, I like.", "Yes, I do.", "Yes, I am.", "Yes, do I."], "a": 1 },
+        { "t": "mc", "q": "Do they play tennis? (✗)", "o": ["No, they don’t.", "No, they aren’t.", "No, they not.", "No, don’t they."], "a": 0 },
+        { "t": "mc", "q": "Do we have homework today? (✓)", "o": ["Yes, we have.", "Yes, we are.", "Yes, we do.", "Yes, do."], "a": 2 },
+        { "t": "mc", "q": "Do you live near here? (✗)", "o": ["No, I don’t.", "No, I’m not.", "No, I not live.", "No, I doesn’t."], "a": 0 }
+      ]
+    },
+    {
+      "title": "E. Complete the questions. Use these question words.",
+      "box": ["What", "Where", "How many", "What time", "Who"],
+      "items": [
+        { "t": "text", "q": "______ do you live? — In Khiva.", "a": ["Where"] },
+        { "t": "text", "q": "______ languages do you speak? — Three.", "a": ["How many"] },
+        { "t": "text", "q": "______ do you have for breakfast? — Eggs and bread.", "a": ["What"] },
+        { "t": "text", "q": "______ do you go to work? — At 8 o’clock.", "a": ["What time"] },
+        { "t": "text", "q": "______ do you live with? — My parents.", "a": ["Who"] }
+      ]
+    },
+    {
+      "title": "F. Write the nationality.",
+      "items": [
+        { "t": "text", "q": "Uzbekistan → ______", "a": ["Uzbek"] },
+        { "t": "text", "q": "Japan → ______", "a": ["Japanese"] },
+        { "t": "text", "q": "Italy → ______", "a": ["Italian"] },
+        { "t": "text", "q": "England → ______", "a": ["English"] },
+        { "t": "text", "q": "Spain → ______", "a": ["Spanish"] },
+        { "t": "text", "q": "Germany → ______", "a": ["German"] }
+      ]
+    },
+    {
+      "title": "G. Read the text. Are the sentences true or false?",
+      "passage": "Hello! We’re the Saidovs. We live in Samarkand. My wife and I work in a hotel. We speak Uzbek, Russian, and a little English. We like tourists — they’re very interesting! We don’t eat in restaurants. We eat at home with our children. Our favourite food is somsa, and we drink a lot of tea.",
+      "items": [
+        { "t": "tf", "q": "The Saidovs live in Samarkand.", "a": true },
+        { "t": "tf", "q": "They work in a school.", "a": false },
+        { "t": "tf", "q": "They speak three languages.", "a": true },
+        { "t": "tf", "q": "They don’t like tourists.", "a": false },
+        { "t": "tf", "q": "They eat in restaurants.", "a": false },
+        { "t": "tf", "q": "Their favourite food is somsa.", "a": true }
+      ]
+    }
+  ]
+}

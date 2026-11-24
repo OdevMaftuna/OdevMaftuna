@@ -1,0 +1,34 @@
+﻿71`t16`t113`t226
+126`t20`t141`tExercise 32
+72`t19`t587`tMultilevel Master reading
+173`t21`t141`tRead the text and choose the correct heading for each paragraph
+203`t21`t141`tfrom the list of headings below.
+230`t21`t141`tThere are more headings than paragraphs, so you will not use all Of
+258`t19`t141`tthem. You cannot use any heading more than once.
+288`t17`t141`tMark your answers on the answer sheet.
+346`t19`t140`tA) Disastrous Growth
+375`t20`t141`tB) Possible Solutions
+402`t19`t141`tC) Global Destruction
+432`t20`t141`tD) Hazardous Waste
+345`t21`t488`tE) Water Shortage
+374`t21`t488`tF) Primary Reason
+402`t21`t488`tG) Quick Change
+431`t19`t488`tH) Invisible Threat
+519`t21`t143`tAcid rain moves easily, affecting locations far beyond those that let out
+548`t22`t114`tthe pollutionw As a result, this global pollution issue causes great debates
+576`t21`t116`tbetween countries that fight over polluting each other's environments.
+605`t23`t115`tThe problem is that acid rain. one of the most important environmental
+633`t21`t116`tproblems of all, cannot be seen. Some scientists think that human
+662`t21`t116`tproduction is primarily responsible. While others Cite natural causes as
+692`t18`t116`twell.
+786`t21`t144`tAir pollution has many disastrous effects that need to be curbed. In
+816`t20`t116`torder to accomplish this, governments, scientists and environmentalists
+845`t21`t116`tare using or testing a variety of methods aimed at reducing pollution. There
+873`t21`t116`tare two main types of pollution control. Input controls are usually more
+902`t22`t117`teffective than output controls. Output controls are also more expensive,
+930`t23`t117`tmaking them less desirable to tax payers and polluting industries.
+1026`t21`t144`tGlobal warming is called the greenhouse effect because the gases
+1055`t21`t117`tthat are gathering above the earth make the planet comparable to a
+1083`t23`t117`tgreenhouse By trapping heat. the green-house effect is warming the
+1112`t21`t119`tplanet and threatening the environment. Current fears stem largely trom
+1140`t21`t116`tthe fact that global warming is occurring at such a rapid pace. Models are

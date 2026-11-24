@@ -1,0 +1,958 @@
+{
+ "a": [
+  {
+   "q": "The strong wind blew lots of snow down the steep mountain slope very quickly.",
+   "options": [
+    "avalanche",
+    "mudslide",
+    "volcanic eruption",
+    "tsunami"
+   ],
+   "answer": "avalanche",
+   "explain": "avalanche — qor koʻchkisi: togʻdan tez tushadigan qor uyumi."
+  },
+  {
+   "q": "There is a very large advertising board near the central station showing a new phone.",
+   "options": [
+    "billboard",
+    "shop sign",
+    "road sign",
+    "lamp post"
+   ],
+   "answer": "billboard",
+   "explain": "billboard — reklama taxtasi: koʻchada reklama uchun katta panel."
+  },
+  {
+   "q": "People are worried because the long summer without rain is destroying all their wheat crops.",
+   "options": [
+    "drought",
+    "flood",
+    "earthquake",
+    "famine"
+   ],
+   "answer": "drought",
+   "explain": "drought — qurgʻoqchilik: uzoq vaqt yomgʻir yogʻmasligi tufayli suv yetishmasligi."
+  },
+  {
+   "q": "The ground started shaking violently during the night and plates fell from our kitchen shelves.",
+   "options": [
+    "earthquake",
+    "volcanic eruption",
+    "avalanche",
+    "tsunami"
+   ],
+   "answer": "earthquake",
+   "explain": "earthquake — zilzila: yer qobigʻining toʻsatdan silkinishi."
+  },
+  {
+   "q": "Many houses near the river were destroyed after the heavy rains caused water to rise everywhere.",
+   "options": [
+    "flood",
+    "drought",
+    "mudslide",
+    "epidemic"
+   ],
+   "answer": "flood",
+   "explain": "flood — suv toshqini: daryo suvining qirgʻoqdan toshib chiqishi."
+  },
+  {
+   "q": "A dangerous wall of fire moved rapidly through the dry trees in our national park.",
+   "options": [
+    "forest fire",
+    "volcanic eruption",
+    "earthquake",
+    "avalanche"
+   ],
+   "answer": "forest fire",
+   "explain": "forest fire — oʻrmon yongʻini: oʻrmonda tez tarqaladigan xavfli olov."
+  },
+  {
+   "q": "Coal and oil are burned in factories every day, creating huge amounts of dirty black smoke.",
+   "options": [
+    "fossil fuels",
+    "greenhouse gases",
+    "renewable energy",
+    "sea levels"
+   ],
+   "answer": "fossil fuels",
+   "explain": "fossil fuels — qazilma yoqilgʻi: koʻmir, neft va gaz kabi tabiiy yoqilgʻilar."
+  },
+  {
+   "q": "My fingers became extremely cold and numb because I forgot to wear gloves outside today.",
+   "options": [
+    "frostbite",
+    "frost",
+    "drought",
+    "famine"
+   ],
+   "answer": "frostbite",
+   "explain": "frostbite — sovuq urishi: sovuqdan tananing muzlab qolishi."
+  },
+  {
+   "q": "Factories release harmful chemical vapors into the sky, trapping heat around our planet Earth.",
+   "options": [
+    "greenhouse gases",
+    "fossil fuels",
+    "renewable energy",
+    "climate change"
+   ],
+   "answer": "greenhouse gases",
+   "explain": "greenhouse gases — issiqxona gazlari: havo haroratini oshiruvchi zararli gazlar."
+  },
+  {
+   "q": "Hard little balls of ice fell from the dark sky and broke some garden flowers.",
+   "options": [
+    "hail",
+    "snow",
+    "rain",
+    "mist"
+   ],
+   "answer": "hail",
+   "explain": "hail — doʻl: muz parchasi shaklidagi yogʻingarchilik."
+  },
+  {
+   "q": "The bright yellow star in the sky made the school playground feel very warm today.",
+   "options": [
+    "sunshine",
+    "clouds",
+    "frost",
+    "mist"
+   ],
+   "answer": "sunshine",
+   "explain": "sunshine — quyosh nuri: quyoshdan tushadigan yorugʻlik va issiqlik."
+  },
+  {
+   "q": "Thick white fog touched the ground near the lake this morning, making driving difficult.",
+   "options": [
+    "mist",
+    "cloudy",
+    "stormy",
+    "rainy"
+   ],
+   "answer": "mist",
+   "explain": "mist — tuman: yerdan koʻtarilgan yengil tuman."
+  },
+  {
+   "q": "Heavy rain on the steep hill caused tons of wet earth to slide down the road.",
+   "options": [
+    "mudslide",
+    "avalanche",
+    "flood",
+    "drought"
+   ],
+   "answer": "mudslide",
+   "explain": "mudslide — sel yoki loy koʻchkisi: togʻdan oqib tushuvchi loy."
+  },
+  {
+   "q": "People walked safely on the concrete path next to the busy city street this afternoon.",
+   "options": [
+    "pavement",
+    "bus stop",
+    "road works",
+    "street corner"
+   ],
+   "answer": "pavement",
+   "explain": "pavement — piyodalar yoʻlagi: koʻcha chetidagi yurish uchun qism."
+  },
+  {
+   "q": "Children crossed the busy street safely using the white stripes painted on the road.",
+   "options": [
+    "pedestrian crossing",
+    "traffic light",
+    "road sign",
+    "bus stop"
+   ],
+   "answer": "pedestrian crossing",
+   "explain": "pedestrian crossing — piyodalar oʻtish joyi: zebrali yoʻl qismi."
+  },
+  {
+   "q": "Small drops of water fell from the gray clouds, making my jacket slightly wet outside.",
+   "options": [
+    "rain shower",
+    "hail storm",
+    "thunderstorm",
+    "snowy"
+   ],
+   "answer": "rain shower",
+   "explain": "rain shower — qisqa muddatli yomgʻir: tez oʻtib ketadigan yomgʻir."
+  },
+  {
+   "q": "Huge green forests near the equator receive heavy rainfall and have many unique animal species.",
+   "options": [
+    "rainforests",
+    "fossil fuels",
+    "sea levels",
+    "greenhouse gases"
+   ],
+   "answer": "rainforests",
+   "explain": "rainforests — tropik oʻrmonlar: seryogʻin va issiq iqlimli yirik oʻrmonlar."
+  },
+  {
+   "q": "Solar panels and wind turbines provide clean power without harming the natural environment.",
+   "options": [
+    "renewable energy",
+    "fossil fuels",
+    "greenhouse gases",
+    "surface temperature"
+   ],
+   "answer": "renewable energy",
+   "explain": "renewable energy — qayta tiklanadigan energiya: tabiatga zarar bermaydigan quvvat manbai."
+  },
+  {
+   "q": "Drivers slowed down when they saw the blue circular sign showing the speed limit.",
+   "options": [
+    "road sign",
+    "billboard",
+    "shop sign",
+    "lamp post"
+   ],
+   "answer": "road sign",
+   "explain": "road sign — yoʻl belgisi: haydovchilar uchun qoidani koʻrsatuvchi belgi."
+  },
+  {
+   "q": "Workers used heavy machines to repair the broken water pipes under the main street.",
+   "options": [
+    "road works",
+    "bus stop",
+    "street corner",
+    "pavement"
+   ],
+   "answer": "road works",
+   "explain": "road works — yoʻl taʼmirlash ishlari: koʻchadagi qurilish va taʼmirlash."
+  },
+  {
+   "q": "Water heights in the oceans are rising every year because polar ice is melting fast.",
+   "options": [
+    "sea levels",
+    "surface temperature",
+    "climate change",
+    "global warming"
+   ],
+   "answer": "sea levels",
+   "explain": "sea levels — dengiz sathi: okean suvining oʻrtacha balandligi."
+  },
+  {
+   "q": "The bright sun shone in the clear blue sky while we played football outside.",
+   "options": [
+    "shine",
+    "blow",
+    "spin",
+    "land"
+   ],
+   "answer": "shine",
+   "explain": "shine — porlamoq: yorugʻlik tarqatmoq, charaqlamoq."
+  },
+  {
+   "q": "We stood under the metal shelter waiting for the number 12 city bus to arrive.",
+   "options": [
+    "bus stop",
+    "street corner",
+    "pavement",
+    "pedestrian crossing"
+   ],
+   "answer": "bus stop",
+   "explain": "bus stop — avtobus bekati: jamoat transporti toʻxtash joyi."
+  },
+  {
+   "q": "Dark gray clouds covered the sky all morning and it started pouring rain quickly.",
+   "options": [
+    "storm",
+    "drought",
+    "earthquake",
+    "avalanche"
+   ],
+   "answer": "storm",
+   "explain": "storm — boʻron: kuchli shamol va yogʻingarchilik bilan keladigan ob-havo."
+  },
+  {
+   "q": "The intersection where two busy streets meet in our neighborhood has a small cafe.",
+   "options": [
+    "street corner",
+    "bus stop",
+    "lamp post",
+    "billboard"
+   ],
+   "answer": "street corner",
+   "explain": "street corner — koʻcha burchagi: ikki koʻchaning tutashgan joyi."
+  },
+  {
+   "q": "Global measurements show that the average heat of the planet is increasing every decade.",
+   "options": [
+    "surface temperature",
+    "sea levels",
+    "greenhouse gases",
+    "fossil fuels"
+   ],
+   "answer": "surface temperature",
+   "explain": "surface temperature — sirt harorati: yer yuzasining oʻrtacha issiqlik darajasi."
+  },
+  {
+   "q": "A bright flash of electricity lit up the dark night sky before a loud crash.",
+   "options": [
+    "lightning",
+    "thunder",
+    "hail",
+    "frost"
+   ],
+   "answer": "lightning",
+   "explain": "lightning — momaqaldiroq chaqishi: osmondagi yorugʻ elektr toki chaqnashi."
+  },
+  {
+   "q": "A very loud booming sound shook our windows during the terrible rainstorm last night.",
+   "options": [
+    "thunder",
+    "lightning",
+    "mist",
+    "cloudy"
+   ],
+   "answer": "thunder",
+   "explain": "thunder — momaqaldiroq gumburlashi: chaqmoqdan keyingi ovoz."
+  },
+  {
+   "q": "A huge wave caused by an underwater earthquake hit the coastal town without warning.",
+   "options": [
+    "tsunami",
+    "avalanche",
+    "flood",
+    "mudslide"
+   ],
+   "answer": "tsunami",
+   "explain": "tsunami — tsunami: okeandagi kuchli zilzila keltirib chiqaradigan ulkan toʻlqin."
+  },
+  {
+   "q": "Hot liquid rock and dangerous gas poured down the sides of the tall mountain.",
+   "options": [
+    "volcanic eruption",
+    "earthquake",
+    "avalanche",
+    "forest fire"
+   ],
+   "answer": "volcanic eruption",
+   "explain": "volcanic eruption — vulqon otilishi: vulqondan lava va gaz chiqishi."
+  },
+  {
+   "q": "Scientists need to think of a clever solution to solve the plastic waste problem.",
+   "options": [
+    "come up with",
+    "close down",
+    "cut down",
+    "run out"
+   ],
+   "answer": "come up with",
+   "explain": "come up with — oʻylab topmoq: yangi goya yoki yechim topmoq."
+  },
+  {
+   "q": "The old factory near the railway had to stop operating because it lost money.",
+   "options": [
+    "close down",
+    "cut down",
+    "run out",
+    "use up"
+   ],
+   "answer": "close down",
+   "explain": "close down — yopilmoq: korxona yoki doʻkon faoliyatini toʻxtatmoq."
+  },
+  {
+   "q": "Loggers use heavy axes to drop large trees in the forest for building materials.",
+   "options": [
+    "cut down",
+    "use up",
+    "give up",
+    "go up"
+   ],
+   "answer": "cut down",
+   "explain": "cut down — kesib tashlamoq: daraxt yoki boshqa narsani kesmoq."
+  },
+  {
+   "q": "Dinosaurs disappeared from the Earth millions of years ago after a massive space rock hit.",
+   "options": [
+    "die out",
+    "close down",
+    "run out",
+    "heat up"
+   ],
+   "answer": "die out",
+   "explain": "die out — qirilib ketmoq: tur sifatida butunlay yoʻq boʻlib ketmoq."
+  },
+  {
+   "q": "The kitchen stove began to warm the soup until it started boiling in the pan.",
+   "options": [
+    "heat up",
+    "go up",
+    "take off",
+    "approach"
+   ],
+   "answer": "heat up",
+   "explain": "heat up — qizitmoq: biror narsaning haroratini oshirmoq."
+  },
+  {
+   "q": "Prices for fresh fruit and vegetables in the local market increased rapidly this week.",
+   "options": [
+    "go up",
+    "run out",
+    "come up with",
+    "put something off"
+   ],
+   "answer": "go up",
+   "explain": "go up — koʻtarilmoq: narx yoki miqdorning oshishi."
+  },
+  {
+   "q": "We must protect endangered wild animals and help them survive in their natural habitats.",
+   "options": [
+    "look after",
+    "rely on",
+    "live with",
+    "give up"
+   ],
+   "answer": "look after",
+   "explain": "look after — gʻamxoʻrlik qilmoq: biror kishi yoki narsani asrab-avaylamoq."
+  },
+  {
+   "q": "Our kitchen milk supply finished completely, so I need to go to the shop now.",
+   "options": [
+    "run out",
+    "use up",
+    "cut down",
+    "close down"
+   ],
+   "answer": "run out",
+   "explain": "run out — tugab qolmoq: zaxiraning oxiriga yetib qolishi."
+  },
+  {
+   "q": "We decided to postpone our school camping trip until next weekend because of heavy rain.",
+   "options": [
+    "put something off",
+    "give up",
+    "come up with",
+    "take off"
+   ],
+   "answer": "put something off",
+   "explain": "put something off — kechiktirmoq: ishni keyingi vaqtga surmoq."
+  },
+  {
+   "q": "The dark grey sky above Tashkent started to produce heavy water drops falling steadily onto the ground.",
+   "options": [
+    "rain",
+    "snow",
+    "hail",
+    "mist"
+   ],
+   "answer": "rain",
+   "explain": "rain — yomg'ir: osmondan tushayotgan suv tomchilari"
+  }
+ ],
+ "b": [
+  {
+   "q": "Drivers must stop at the red ______ on the corner of Navoi Street today.",
+   "options": [
+    "traffic light",
+    "billboard",
+    "lamp post",
+    "pavement"
+   ],
+   "answer": "traffic light",
+   "explain": "traffic light — svetofor: u qizil chiroqda to'xtadi"
+  },
+  {
+   "q": "Many animals and plants might ______ if we do not protect nature.",
+   "options": [
+    "die out",
+    "come up with",
+    "close down",
+    "give up"
+   ],
+   "answer": "die out",
+   "explain": "die out — yo'qolib ketish: dinozavrlar millionlab yillar oldin yo'qolib ketgan"
+  },
+  {
+   "q": "The weather in Tashkent tomorrow will be very ______ with no sun.",
+   "options": [
+    "cloudy",
+    "sunny",
+    "rainy",
+    "windy"
+   ],
+   "answer": "cloudy",
+   "explain": "cloudy — bulutli: osmon qora bulutlar bilan qoplangan"
+  },
+  {
+   "q": "Children should walk on the ______ and never on the middle of the street.",
+   "options": [
+    "pavement",
+    "pedestrian crossing",
+    "road sign",
+    "billboard"
+   ],
+   "answer": "pavement",
+   "explain": "pavement — piyodalar yo'lagi: piyodalar shu yo'lakdan yurishadi"
+  },
+  {
+   "q": "Burning coal and oil creates many harmful ______ that trap heat in the air.",
+   "options": [
+    "greenhouse gases",
+    "fossil fuels",
+    "renewable energy",
+    "sea levels"
+   ],
+   "answer": "greenhouse gases",
+   "explain": "greenhouse gases — issiqxona gazlari: ular iqlim o'zgarishiga sabab bo'ladi"
+  },
+  {
+   "q": "Scientists need to ______ a brilliant solution to solve our plastic waste crisis.",
+   "options": [
+    "come up with",
+    "run out",
+    "look after",
+    "take off"
+   ],
+   "answer": "come up with",
+   "explain": "come up with — o'ylab topish: u yangi g'oyani o'ylab topdi"
+  },
+  {
+   "q": "A huge ______ of snow suddenly covered the mountain village during the cold night.",
+   "options": [
+    "avalanche",
+    "flood",
+    "drought",
+    "earthquake"
+   ],
+   "answer": "avalanche",
+   "explain": "avalanche — qor ko'chkisi: tog'dan ulkan qor uyumi tushdi"
+  },
+  {
+   "q": "We must stop factories from ______ toxic smoke into the clean blue sky.",
+   "options": [
+    "give off",
+    "put something off",
+    "use up",
+    "go up"
+   ],
+   "answer": "give off",
+   "explain": "give off — chiqarish: zavod qora tutun chiqarmoqda"
+  },
+  {
+   "q": "The strong wind will ______ my new baseball cap right off my head.",
+   "options": [
+    "blow",
+    "shine",
+    "spin",
+    "land"
+   ],
+   "answer": "blow",
+   "explain": "blow — esmoq yoki uchirib ketmoq: shamol uning shlyapasini uchirib yubordi"
+  },
+  {
+   "q": "People in Samarkand waited at the ______ for the number 15 trolleybus.",
+   "options": [
+    "bus stop",
+    "street corner",
+    "shop sign",
+    "road works"
+   ],
+   "answer": "bus stop",
+   "explain": "bus stop — avtobus bekati: u yerda odamlar transport kutishadi"
+  },
+  {
+   "q": "Heavy rain for three days caused a dangerous ______ in the mountain village.",
+   "options": [
+    "mudslide",
+    "drought",
+    "avalanche",
+    "frost"
+   ],
+   "answer": "mudslide",
+   "explain": "mudslide — loy ko'chkisi: kuchli yomg'ir loy ko'chishiga olib keldi"
+  },
+  {
+   "q": "My grandfather likes to ______ his beautiful garden every single morning after breakfast.",
+   "options": [
+    "look after",
+    "live with",
+    "rely on",
+    "run out"
+   ],
+   "answer": "look after",
+   "explain": "look after — g'amxo'rlik qilish: u gulzoriga yaxshi qaraydi"
+  },
+  {
+   "q": "We need to use ______ like solar power to protect our wonderful environment.",
+   "options": [
+    "renewable energy",
+    "fossil fuels",
+    "greenhouse gases",
+    "sea levels"
+   ],
+   "answer": "renewable energy",
+   "explain": "renewable energy — qayta tiklanadigan energiya: quyosh va shamol energiyasi shular jumlasidandir"
+  },
+  {
+   "q": "An unexpected ______ shook our school building and frightened all the young students.",
+   "options": [
+    "earthquake",
+    "tsunami",
+    "volcanic eruption",
+    "epidemic"
+   ],
+   "answer": "earthquake",
+   "explain": "earthquake — zilzila: yer qimirlaganda binalar silqiydi"
+  },
+  {
+   "q": "We should never ______ our homework until late Sunday night before school starts.",
+   "options": [
+    "put something off",
+    "give up",
+    "run out",
+    "use up"
+   ],
+   "answer": "put something off",
+   "explain": "put something off — kechiktirish: ishni ertaga qoldirma"
+  },
+  {
+   "q": "Drivers must slow down when thick ______ makes it hard to see the road ahead.",
+   "options": [
+    "foggy",
+    "cloudy",
+    "stormy",
+    "rainy"
+   ],
+   "answer": "foggy",
+   "explain": "foggy — tumanli: tuman tufayli hech narsa ko'rinmayapti"
+  },
+  {
+   "q": "Our city will ______ the old cinema because nobody goes there to watch films.",
+   "options": [
+    "close down",
+    "come up with",
+    "run out",
+    "take off"
+   ],
+   "answer": "close down",
+   "explain": "close down — yopib qo'yish: do'kon xaridor yo'qligi sababli yopildi"
+  },
+  {
+   "q": "Bright ______ lit up the dark night sky right before the loud thunder crashed.",
+   "options": [
+    "lightning",
+    "hail",
+    "frost",
+    "mist"
+   ],
+   "answer": "lightning",
+   "explain": "lightning — chaqmoq: momaqaldiroq vaqtida chaqmoq chaqdi"
+  },
+  {
+   "q": "My mother told me to wear a warm jacket because the morning air is ______.",
+   "options": [
+    "frosty",
+    "foggy",
+    "windy",
+    "sunny"
+   ],
+   "answer": "frosty",
+   "explain": "frosty — sovuq, ayozli: tashqari juda ayozli va sovuq edi"
+  },
+  {
+   "q": "We must not ______ all our clean drinking water before we reach the village.",
+   "options": [
+    "use up",
+    "run out",
+    "give up",
+    "take off"
+   ],
+   "answer": "use up",
+   "explain": "use up — tugatish: barcha resurslarni sarflab yubormaslik kerak"
+  },
+  {
+   "q": "Many animals will ______ if people continue destroying their natural habitats every single year.",
+   "options": [
+    "die out",
+    "cut down",
+    "go up",
+    "heat up"
+   ],
+   "answer": "die out",
+   "explain": "die out — yo'q bo'lib ketmoq: ko'pchilik hayvonlar tabiiy yashash joylari yo'qolsa yo'qoladi."
+  },
+  {
+   "q": "Drivers must stop immediately when the red ______ turns on at the busy junction.",
+   "options": [
+    "traffic light",
+    "road sign",
+    "billboard",
+    "lamp post"
+   ],
+   "answer": "traffic light",
+   "explain": "traffic light — svetofor: qizil chiroq yonganda haydovchilar darhol to'xtashlari kerak."
+  },
+  {
+   "q": "Scientists say that burning ______ is the main cause of the recent global temperature rise.",
+   "options": [
+    "fossil fuels",
+    "greenhouse gases",
+    "renewable energy",
+    "sea levels"
+   ],
+   "answer": "fossil fuels",
+   "explain": "fossil fuels — qazilma yoqilg'ilar: ularni yoqish global harorat ko'tarilishining asosiy sababidir."
+  },
+  {
+   "q": "Heavy rain caused a massive ______ that blocked the mountain road with thick wet soil.",
+   "options": [
+    "mudslide",
+    "avalanche",
+    "drought",
+    "earthquake"
+   ],
+   "answer": "mudslide",
+   "explain": "mudslide — sel: kuchli yomg'ir tog' yo'lini qalin loy bilan to'sib qo'yadigan sel keltirdi."
+  },
+  {
+   "q": "Please wait for me near the ______ because the next bus arrives in five minutes.",
+   "options": [
+    "bus stop",
+    "pavement",
+    "pedestrian crossing",
+    "street corner"
+   ],
+   "answer": "bus stop",
+   "explain": "bus stop — avtobus bekati: keyingi avtobus besh daqiqada kelishi sababli o'sha yerda kuting."
+  },
+  {
+   "q": "The strong wind began to ______ down the old wooden fence in our backyard yesterday.",
+   "options": [
+    "blow",
+    "spin",
+    "shine",
+    "head"
+   ],
+   "answer": "blow",
+   "explain": "blow — esmoq, yiqitmoq: kuchli shamol kecha hovlimizdagi eski yog'och panjarani yiqita boshladi."
+  },
+  {
+   "q": "We should use more ______ like solar and wind power to protect our planet.",
+   "options": [
+    "renewable energy",
+    "fossil fuels",
+    "greenhouse gases",
+    "surface temperature"
+   ],
+   "answer": "renewable energy",
+   "explain": "renewable energy — qayta tiklanadigan energiya: sayyoramizni himoya qilish uchun quyosh energiyasidan foydalanishimiz kerak."
+  },
+  {
+   "q": "You should ______ your little sister while our parents are busy shopping in the town.",
+   "options": [
+    "look after",
+    "live with",
+    "give up",
+    "run out"
+   ],
+   "answer": "look after",
+   "explain": "look after — qaramoq: ota-onamiz shaharda xarid qilayotganda singuringizga qarab turishingiz kerak."
+  },
+  {
+   "q": "The airplane will ______ on the runway in Tashkent in less than twenty minutes now.",
+   "options": [
+    "land",
+    "take off",
+    "approach",
+    "reach"
+   ],
+   "answer": "land",
+   "explain": "land — qo'nish: samolyot hozir Toshkentdagi uchish yo'lakchasiga yigirma daqiqadan kam vaqtda qo'nadi."
+  },
+  {
+   "q": "Huge blocks of ice fall into the ocean as polar ______ melt due to warmer weather.",
+   "options": [
+    "ice caps",
+    "sea levels",
+    "fossil fuels",
+    "rainforests"
+   ],
+   "answer": "ice caps",
+   "explain": "ice caps — muz qoplamlari: iliq ob-havo tufayli qutb muz qoplamlari erib, okeanga tushmoqda."
+  }
+ ],
+ "c": [
+  {
+   "q": "While walking home from school, Aziz slipped on the icy ______ because of the freezing morning temperature.",
+   "answer": "pavement",
+   "base": "pavement",
+   "explain": "pavement — piyodalar yo'lagi: muzlagan piyodalar yo'lagida sirg'anib ketdi."
+  },
+  {
+   "q": "The strong wind started to ______ down several old trees in our neighborhood yesterday afternoon.",
+   "answer": "blow",
+   "base": "blow",
+   "explain": "blow — esmoq: kuchli shamol kechqurun eski daraxtlarni yiqita boshladi."
+  },
+  {
+   "q": "Farmers in rural regions are very worried because a severe ______ has ruined their wheat harvest.",
+   "answer": "drought",
+   "base": "drought",
+   "explain": "drought — qurg'oqchilik: kuchli qurg'oqchilik bug'doy hosilini nobud qildi."
+  },
+  {
+   "q": "Dark gray ______ covered the sky completely just before the heavy afternoon storm began to fall.",
+   "answer": "clouds",
+   "base": "clouds",
+   "explain": "clouds — bulutlar: kuchli bo'rondan oldin qora bulutlar osmonni qopladi."
+  },
+  {
+   "q": "My little sister loves to watch every tiny ______ falling slowly from the winter sky.",
+   "answer": "snowflake",
+   "base": "snowflake",
+   "explain": "snowflake — qor parchasi: singlim osmondan tushayotgan qor parchalarini tomosha qiladi."
+  },
+  {
+   "q": "The airplane had to ______ safely on the runway despite the thick morning fog.",
+   "answer": "land",
+   "base": "land",
+   "explain": "land — qo'nmoq: qalin tumanga qaramay samolyot xavfsiz qo'ndi."
+  },
+  {
+   "q": "Bright flashes of ______ lit up the dark night sky during the sudden summer storm.",
+   "answer": "lightning",
+   "base": "lightning",
+   "explain": "lightning — chaqmoq: to'satdan chiqqan yozgi bo'ronda chaqmoq chaqdi."
+  },
+  {
+   "q": "Many rare animal species will ______ if we continue to destroy their natural jungle habitats.",
+   "answer": "die",
+   "base": "die out",
+   "explain": "die out — yo'q bo'lib ketmoq: tabiat buzilsa, ko'p hayvonlar yo'qolib ketadi."
+  },
+  {
+   "q": "The local government plans to ______ down the old factory to reduce air pollution in town.",
+   "answer": "close",
+   "base": "close down",
+   "explain": "close down — yopib qo'ymoq: shahar hokimiyati eski zavodni yopmoqchi."
+  },
+  {
+   "q": "Heavy rain caused a massive ______ that blocked the main mountain road to Tashkent.",
+   "answer": "mudslide",
+   "base": "mudslide",
+   "explain": "mudslide — sel, ko'chki: kuchli yomg'ir tog' yo'lida sel keltirib chiqardi."
+  },
+  {
+   "q": "We need to ______ up with a clever solution for our geography project about global weather.",
+   "answer": "come",
+   "base": "come up with",
+   "explain": "come up with — o'ylab topmoq: geografiya loyihasi uchun yaxshi fikr o'ylab topishimiz kerak."
+  },
+  {
+   "q": "A massive ______ struck the coastal region, causing huge waves and massive destruction.",
+   "answer": "tsunami",
+   "base": "tsunami",
+   "explain": "tsunami — tsunami: sohilda yuzaga kelgan tsunami katta vayronagarchilik keltirdi."
+  },
+  {
+   "q": "The bright neon ______ outside the restaurant flashed red and blue in the evening.",
+   "answer": "billboard",
+   "base": "billboard",
+   "explain": "billboard — reklama taxtasi: restoranning neon reklama taxtasi qizil-ko'k bo'lib yonardi."
+  },
+  {
+   "q": "During the winter months, farmers protect their animals from the freezing ______ in the fields.",
+   "answer": "frost",
+   "base": "frost",
+   "explain": "frost — qirov, sovuq: qishda fermerlar hayvonlarni qirovdan asrashadi."
+  },
+  {
+   "q": "Uzbekistan is taking important steps to increase the use of clean ______ energy sources.",
+   "answer": "renewable",
+   "base": "renewable energy",
+   "explain": "renewable energy — tiklanuvchi energiya: O'zbekiston toza tiklanuvchi energiya manbalarini ko'paytirmoqda."
+  },
+  {
+   "q": "An unexpected ______ caused severe damage to the apple trees in our family garden last night.",
+   "answer": "storm",
+   "base": "storm",
+   "explain": "storm — bo'ron: kechasi kutilmagan bo'ron bog'dagi olma daraxtlariga zarar yetkazdi."
+  },
+  {
+   "q": "You should always ______ your little brother when walking near busy city streets.",
+   "answer": "look",
+   "base": "look after",
+   "explain": "look after — g'amxo'rlik qilmoq: gavjum ko'chalarda ukangizga yaxshilab qarab yuring."
+  },
+  {
+   "q": "We could not see the top of the tall mountain because thick ______ surrounded the peak.",
+   "answer": "mist",
+   "base": "mist",
+   "explain": "mist — tuman: qalin tuman tog' cho'qqisini to'sib qo'ygani uchun ko'rinmadi."
+  },
+  {
+   "q": "A sudden ______ of ice cubes fell from the sky and dented my father's parked car.",
+   "answer": "hail",
+   "base": "hail",
+   "explain": "hail — do'l: osmondan to'satdan do'l yog'ib, dadamning mashinasiga zarar yetkazdi."
+  },
+  {
+   "q": "The school football match was postponed because of the heavy and continuous morning ______.",
+   "answer": "rain",
+   "base": "rain",
+   "explain": "rain — yomg'ir: to'xtovsiz yog'gan yomg'ir tufayli maktab futbol o'yini qoldirildi."
+  },
+  {
+   "q": "Modern cars ______ petrol quickly when drivers travel at very high speeds on highways.",
+   "answer": "use",
+   "base": "use up",
+   "explain": "use up — tugatmoq, sarflamoq: mashinalar yuqori tezlikda ko'p yoqilg'i sarflaydi."
+  },
+  {
+   "q": "Dark ______ clouds appeared over the horizon, warning everyone of an approaching thunderstorm.",
+   "answer": "stormy",
+   "base": "stormy",
+   "explain": "stormy — bo'ronli: bo'ronli qora bulutlar yaqinlashib kelayotgan ob-havoni bildirdi."
+  },
+  {
+   "q": "Many wild animals will d______ completely if people destroy their natural habitats everywhere.",
+   "answer": "die",
+   "base": "die out",
+   "explain": "die out — yo'q bo'lib ketmoq: turlar yo'q bo'lib ketmoqda"
+  },
+  {
+   "q": "The strong wind will b______ away all the autumn leaves from our garden.",
+   "answer": "blow",
+   "base": "blow",
+   "explain": "blow — esmoq, puflamoq: kuchli shamol barglarni uchirib yubormoqda"
+  },
+  {
+   "q": "Please wait for me near the old b______ stop by the main bazaar.",
+   "answer": "bus",
+   "base": "bus stop",
+   "explain": "bus stop — avtobus bekati: o'quvchilar avtobus bekatida turishibdi"
+  },
+  {
+   "q": "Scientists say that c______ change is making our summers much hotter than before.",
+   "answer": "climate",
+   "base": "climate change",
+   "explain": "climate change — iqlim o'zgarishi: tabiatda iqlim o'zgarishi kuzatilmoqda"
+  },
+  {
+   "q": "Local authorities decided to c______ down the old factory because it polluted the air.",
+   "answer": "close",
+   "base": "close down",
+   "explain": "close down — yopib qo'ymoq: zavod faoliyatini butunlay to'xtatdi"
+  },
+  {
+   "q": "Dark grey c______ appeared suddenly in the sky before the heavy rain started.",
+   "answer": "clouds",
+   "base": "clouds",
+   "explain": "clouds — bulutlar: osmonni qora bulutlar qoplab oldi"
+  },
+  {
+   "q": "It is very c______ today, so we probably will not see the sun at all.",
+   "answer": "cloudy",
+   "base": "cloudy",
+   "explain": "cloudy — bulutli: bugun havo juda bulutli bo'lib turibdi"
+  },
+  {
+   "q": "Akmal managed to c______ up with a brilliant idea for our school project.",
+   "answer": "come",
+   "base": "come up with",
+   "explain": "come up with — o'ylab topmoq: u yangi g'oyani o'ylab topdi"
+  }
+ ]
+}

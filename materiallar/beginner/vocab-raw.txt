@@ -1,0 +1,2148 @@
+
+    Unit-1
+And
+	 va
+	Bag
+	 sumka
+	Book
+	 kitob
+	Bus
+	 avtobus
+	Bye!
+	 Xayir
+	Camera
+	 kamera
+	Car
+	 mashina
+	Coffee
+	 kofe
+	Computer
+	 kompyuter
+	Cup
+	 chashka, piyola
+	Day
+	 kun
+	English
+	 ingliz
+	Everyday
+	 har kungi
+	Fine
+	 yaxshi
+	First name
+	 ism
+	Good afternoon!
+	 Hayrli kun
+	Good morning!
+	 Hayrli tong
+	Good night!
+	 Hayrli tun
+	Goodbye!
+	 hayr
+	Hamburger
+	 gamburger
+	Have a nice day!
+	 Kuningiz hayrli o'tsin
+	Hello
+	 salom
+	House
+	 uy
+	How are you?
+	 Qalaysiz?
+	Lovely
+	 yoqimli
+	My
+	 mening
+	Name
+	 ism
+	Nice to meet you
+	 tanishganimdan xursandman
+	OK
+	 yaxshi
+	Phone
+	 telefon
+	Photograph
+	 rasm, fotosurat
+	Please
+	 iltimos, marhamat
+	Sandwich
+	 sendvich
+	See you later!
+	 Keyinroq ko'rishguncha
+	Sleep well
+	 yaxshi uxlang
+	Surname
+	 famiya
+	Tea
+	choy
+	Television
+	 televizor
+	Thank you
+	 rahmat sizga
+	Thanks
+	 rahmat
+	This
+	 bu
+	Today
+	 bugun
+	Very well
+	 juda yaxshi
+	What?
+	 nima?
+	With
+	 bilan
+	Your
+	 sizning
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     Unit-2
+
+About- haqida
+	Awful- juda yomon
+	Beautiful- chiroyli
+	Building- bino
+	Centre-markaz
+	Cities- shaharlar
+	Countries- davlatlar
+	Doctor- shifokor
+	Fantastic- g'aroyib
+	Find- topmoq
+	From- dan
+	Hear- eshitmoq
+	Her- uning(qiz bola)
+	His- using(o'g' il bola)
+	Hospital- shifoxona
+	How old?- Nechi yosh
+	Look at(sth)-nimagadir qaramoq
+	Map- xarita
+	Married- turmushga chiqgan, uylangan
+	On holiday- dam olishda
+	People- odamlar
+	Really good- juda yaxshi
+	School- maktab
+	These- bular( yaqindagi narsalar)
+	Too- ... ham
+	Weather- ob- havo
+	Where? Qayer? Qayerdan?
+	World- dunyo
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unit-3
+Address
+	 manzil
+	All
+	 hamma
+	America
+	 Amerika
+	Another
+	 boshqa, yana bitta
+	Audition
+	 eshittirish
+	Band
+	 musiqiy guruh
+	Boy
+	 bola
+	Brother
+	 aka, uka
+	Builder
+	 quruvchi
+	Bus driver
+	 avtobus haydovchisi
+	Businessman
+	 tadbirkor
+	Excited
+	 ta'sirlangan, hayajonlangan
+	Excuse me
+	 kechirasiz
+	Forty
+	 qirq
+	Good luck
+	 omad
+	Great!
+	 zo'r
+	Happy
+	 baxtli
+	Here
+	 shu yerda
+	Hi!
+	 salom
+	I don't understand
+	 men tushunmayapman
+	I am sorry
+	 kechirasiz
+	Interesting
+	 qiziqarli
+	Interview
+	 suhbat
+	Ireland
+	 Irlandiya
+	Job
+	 kasb
+	Live
+	 yashamoq
+	Magazine
+	 nurnal
+	Now
+	 hozir
+	Nurse
+	 xamshira
+	On tour
+	 gastrolda
+	Other
+	 boshqa
+	Over there
+	 anavi yerda 
+	Personal information
+	 shaxsiy ma' lumot
+	Phone number
+	 telefon raqam
+	Police officer
+	 politsiya ofitseri
+	Same
+	 bir xil
+	Scotland
+	 Shotlandiya
+	Shop assistant
+	 sotuvchi
+	Singer
+	 go shiqchi
+	Sorry
+	 uzr, kechirasiz
+	Station
+	 vokzal
+	Sweden
+	 Shvetsiya
+	Thanks a lot
+	 katta rahmat
+	Tired
+	 charchagan
+	Town centre
+	 shahar markazi
+	Very 
+	 juda
+	Winner
+	 g' olib
+	Yet
+	 hali ham
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unit-4
+A lot of
+	 ko'p
+	Accountant
+	 hisobchi
+	Age
+	 yosh
+	Bank manager
+	 bank rahbari
+	Bank
+	 bank
+	Best friend
+	 yaqin do'st
+	Big
+	 katta
+	Both
+	 ikkovi ham
+	Boyfriend
+	 sevgan yor, oshiq
+	Business card
+	 vizitka
+	Certainly
+	 albatta
+	Children
+	 bolalar
+	Connecting
+	 ulanish
+	Dancing
+	 raqs mashg'uloti
+	Dictionary
+	 lug'at
+	Dog
+	 it
+	Evening
+	 kechqurun
+	Everybody
+	 har bir inson
+	Family tree
+	 shajara, (oila a'zolari ko'rsatiladi)
+	Fans
+	 muxlislar
+	Footbal
+	 1) futbol o'yini; 2) futbol koptogi
+	Friends
+	 do'stlar
+	Funny
+	 kulguli
+	Germany
+	 Germaniya
+	Girfriend
+	 dugona
+	Give
+	 bermoq
+	Goal
+	 maqsad
+	Good
+	 yaxshi
+	Have
+	 ega bo'lmoq, bor bo'lmoq
+	Home
+	 uy
+	Hotel
+	 mehmonxona
+	Like
+	 yoqtirmoq
+	Manager
+	 rahbar
+	Near
+	 yaqinida
+	New
+	 toza
+	Nice
+	 yaxshi
+	North
+	 shimol
+	Notice
+	 sezmoq
+	Of course
+	 albatta
+	Office
+	 ishxona
+	Our
+	 bizning
+	Part of something
+	 birnimaning qismi
+	Part
+	time job
+	 Kunning ma'lum qismida ishlanadigan ish
+	
+	Police
+	 militsiya
+	Really
+	 juda
+	Small
+	 kichik
+	Spell
+	 harfma harf talaffuz qilish
+	Sport
+	 sport
+	Sports centre
+	 sport markazi
+	Their
+	ularni
+	Together
+	 birga
+	University
+	 universitet
+	Us
+	 bizga
+	Village
+	 qishloq
+	Want
+	 xohlamoq
+	
+
+
+
+
+
+
+
+
+
+
+Unit-5
+Actor
+	 aktyor
+	Arabic
+	 arabcha
+	Beer
+	 pivo
+	Blue
+	 ko’k 
+	Cheese
+	 pishloq
+	Chocolate
+	 shokolad
+	Coke
+	 kola
+	Come here!
+	 Bu yoqqa kel
+	Count
+	sanamoq
+	Delicious
+	 mazali
+	Drink
+	 ichmoq
+	Eat
+	 yemoq
+	Exciting
+	 hayajonli, qiziqarli
+	Flat
+	 kvartira
+	Food
+	 ovqat
+	Guys
+	 bolalar/yigitlar
+	How much
+	 qancha(sanalmaydigan otlar bilan)
+	How many
+	 qancha (sanaladigan otlar bilan)
+	Ice
+	cream 
+	 muzqaymoq
+	
+	Identity
+	 shaxs
+	Language
+	 til
+	List
+	 ro’yhat
+	Love
+	 yaxshi ko’rmoq
+	Nationalitites
+	 millatlar
+	Orange
+	 apelsin
+	Order
+	 buyurtma qilmoq
+	Pair of 
+	 ning jufti
+	Party
+	 ziyofat
+	Pizza
+	pitsa
+	Play
+	 o’ynamoq
+	Portugal
+	 Portugaliya
+	Pounds
+	 funt(Angliya pul birligi)
+	Prices
+	 narxlari
+	Restaurants
+	restoranlar
+	Skiing
+	 konki uchmoq
+	Sometimes
+	 ba’zan
+	Speak
+	 gapirmoq
+	Swimming
+	 suzish
+	Switzerland
+	 Shveytsariya
+	Tennis
+	 tennis
+	Terrible
+	 daxshatli yomon 
+	The best
+	 zo’r
+	Twin
+	 egizak
+	Waiter
+	 ofitsiant
+	Wine
+	vino
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unit-6
+All day
+	 kuni bo'yi
+	Always
+	 har doim
+	Artist
+	 rassom
+	As usual
+	 odatdagiday
+	At the weekend
+	 dam olish kunlarida(shanba, yakshanba)
+	Beach
+	 пляж
+	Bed
+	 karavot
+	Between
+	 orasida
+	Breakfast
+	 nonushta
+	Businesswoman
+	 tadbirkor, ishbilarmon ayol
+	Busy
+	 band
+	Boy
+	 o'g'il bola
+	Come
+	 kelmoq
+	Dad
+	 dada
+	Dinner
+	 kechki ovqat
+	Director
+	 direktor, rejissyor
+	Drive
+	 haydamoq
+	Early
+	 erta
+	Egg
+	 tuxum
+	Fill
+	 to'ldirmoq
+	Get home
+	 uyga yetib olmoq
+	Get up
+	 o'rnidan turmoq( uyqudan keyin)
+	Go out
+	 chiqmoq, ko'chaga chiqmoq
+	Go shopping
+	 xarid qilgani bormoq
+	Go to bed
+	 uxlagani yotish
+	Good idea!
+	 Yaxshi fikr
+	Have a shower
+	 dush qabul qilmoq
+	In
+	 ichida
+	Invite
+	 taklif qilmoq
+	Leave
+	 ketmoq
+	Lesson
+	 dars
+	Life
+	 hayot
+	Lifestyle
+	 hayot tarzi
+	Lunch
+	 obed
+	Morning
+	 ertalab
+	Never
+	 hech qachon
+	Next
+	 keyingi
+	O'clock
+	 devor soati
+	Often
+	 tez tez
+	Paint
+	bo'yamoq
+	Piano
+	 pianino
+	Questionnaire
+	 anketa
+	Relax
+	 dam olmoq
+	Schooldays
+	 maktab kunlari
+	Sea
+	 dengiz
+	Seaside
+	 qirg'oq
+	Shopping
+	 xarid qilish
+	Shower
+	 dush
+	Website
+	 sayt
+	Soon
+	 tez orada
+	Stay
+	 qolmoq
+	Stop
+	 to'xtatmoq
+	Studio
+	 studiya( rassomning ish joyi)
+	Taxi
+	 taksi
+	Time
+	 vaqt
+	Toast
+	 toster non
+	Tomorrow
+	 ertaga
+	Tv
+	 televizor
+	Typical
+	 odatiy, standard
+	The US The United States
+	 AQSH
+	Usually
+	 odatda
+	Visit
+	 tashrif buyurmoq
+	Walk
+	 piyoda yurmoq
+	Watch
+	 ko'rmoq
+	Work
+	 ish
+	When?
+	 Qachon?
+	
+
+Unit-7
+Adore
+	 qattiq sevmoq
+	Amazing
+	 ajoyob
+	Anything
+	 biror narsa
+	Aspirin
+	 aspirin
+	Baby
+	 chaqaloq
+	Because
+	 chunki
+	Bedrooms
+	 yotoqxonalar
+	Best
+	 eng yaxshi
+	Black
+	 qora
+	Boss
+	 boshliq
+	Cafe
+	 kafe
+	Card
+	 karta
+	Carrots
+	 sabzilar
+	Catch
+	 tutib olmoq
+	Cat
+	 mushuk
+	Changing room
+	 yechinish kiyinish xonasi
+	Cheap
+	 arzon
+	Chemist's 
+	 dorixona
+	Child
+	bola
+	Clothes
+	 kiyim
+	 kechaklar
+	
+	Coat
+	 palto
+	Cold
+	 sovuq
+	Comfortable
+	 qulay
+	Credit card
+	 kredit kartochkasi
+	Czech Republic
+	 Chexiya Respiblikasi
+	Degree
+	 daraja
+	Designer
+	 dizayner
+	Divorced
+	 ajrashgan
+	Door
+	 eshik
+	Easy
+	 oson
+	Every
+	 har bir 
+	Expensive
+	 qimmat
+	Fashion house
+	moda uyi
+	Fast
+	 tez
+	Favourite
+	 sevimli
+	Film director
+	 rejissyor
+	Fog
+	 tuman
+	Free time
+	 bo’sh vaqt
+	Frenchman
+	 fransuz
+	Friendly
+	 do’stona
+	Hat
+	 shlyapa
+	Hate
+	nafratlanmoq
+	Homework
+	 uyga vazifa
+	Hot
+	 issiq
+	How many?
+	 Necha?
+	International
+	 xalqaro
+	Jacket
+	 kurtka
+	Jumper
+	 jemper,sviter
+	Kids
+	bolalar
+	Large
+	 katta
+	Learn
+	 o’rganmoq
+	Look
+	 qaramoq
+	Machine
+	 mashina
+	Meet
+	 uchrashmoq
+	Mobile phones
+	 mobil telefonlar
+	Models
+	 model
+	Money
+	 pul
+	Month
+	 oy
+	Mp3 player
+	 mp3 pleyer
+	Neighbours
+	 qo’shnilar
+	Newspaper
+	 gazeta
+	No problem
+	 muammosiz
+	October
+	 Oktabr
+	Old
+	 qari, eski
+	Over there
+	 anavi yerda
+	Packet
+	 pachka, cho’ntak
+	Parcel
+	 posilka, jo’natma
+	Pardon?
+	 kechirasiz
+	Photographer
+	 forograf
+	Pin
+	 pin kod
+	Place
+	 joy
+	Pop music
+	 pop musiqa
+	Post
+	 pochtadan yuborish
+	Post office
+	 pochta idorasi
+	Postcard
+	 post karta
+	Present
+	 sovg’a 
+	Programme
+	 dastur
+	Railway station
+	 vokzal
+	Rain
+	 yomg’ir
+	Red
+	 qizil
+	Return ticket
+	 qaytish chiptasi
+	Sad
+	 g’amgin
+	Salad
+	 salat
+	Scales
+	 tarozilar
+	Seafood
+	 dengiz mahsulotlari
+	Shampoo
+	 shampun
+	Shoes
+	 oyoq kiyim
+	Shops
+	 do’ konlar
+	Shows
+	 shoular
+	Singapore
+	 Singapur
+	Single ticket
+	 bittalik chipta
+	Song
+	 ashula
+	Stamp
+	 pochta markasi
+	Swedish
+	 shvetsiyalik
+	Take away
+	 olib ketmoq
+	Teach
+	 o’qitmoq, o’rgatmoq
+	That
+	 o’sha, ana u
+	Toothpaste
+	 tish pasta
+	Town
+	 shahar
+	Train
+	 poyezd
+	Try on
+	 kitib ko’rmoq
+	T-shirt
+	futbolka
+	Understand
+	 tushunmoq
+	Very much
+	 juda ko’p
+	Website
+	 vebsayt
+	Wet
+	 nam
+	White
+	 oq
+	Who? 
+	 Kim?
+	Why?
+	 Nimaga?
+	Wonderful
+	 ajoyib
+	Wrong
+	 notog’ri
+	Yellow
+	 sariq bun
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unit- 8
+1. Alarm-clock budilnik
+	2. Any-birorta,qandaydir.istalgan
+	3.Armchair-kreslo
+	4. Autumn-kuz fasli
+	5. Bathroom-yuvinish xonasi
+	6. Border-chegara
+	7. Bus station avtobus to’xtash joyi
+	8. Car keys mashina kalitlari
+	9. car park mashina to xtash joyi
+	10. church cherkov
+	11. cinema-kinoteatr
+	12. cooker gaz plitasi
+	13. cosmopolitan-kosmopolit
+	14. cycling-velosiped haydash
+	15. Desk-parta
+	16. dining room ovgatlanish xonasi(uydagi)
+	17. directions-yo'nalishlar,korsatkichlar
+	18. drawer-tortma
+	19. DVD player-DVD pleyer
+	20. excellent ajoyib
+	21. Ferry-parom(solsimon yassi kema)
+	20. excellent ajoyib
+	22.festivals-festivallar
+	23. fishing-baliqchilik
+	24. floor pol.etaj
+	25.fresh-yangi,eskirmagan,endigina uzilgan
+	26. fridge-muzlatkich
+	27. furniture-mebel
+	28. games-o' yinlar
+	29. golf-golf sport turi
+	30. home town-ona yurt
+	31. Indian-hind,hindcha
+	32. Internet cafe-Internet kafesi
+	33. kinds of- turdagi, turlari
+	34. kitchen-oshxona
+	35. lamp-lampa
+	36. left -chap
+	37.mean-ma’no anglatmoq
+	38. meeting uchrashuv
+	39. mile-mil
+	40. minute-minut
+	41. modern zamonaviy
+	42. more ko’proq
+	43. mountain-tog
+	44. need-kerak bo’lmoq
+	45. newsagent S-kiosk
+	46. next to-yonida 
+	47. night-tun
+	48. opera-opera
+	49. park-park
+	50. poster afisha,plakat
+	51. pub-pivaxona
+	52. quick-tez
+	54. room -xona
+	55. run-yugurmoq
+	56. sailing- dengiz sayohati suzish
+	57-sign- belgi
+	58. sky-osmon
+	59. slow-sekin
+	60. snowboarding snowboarding
+	61. sofa-divan
+	62. some-biroz
+	63. spectacular kuchli ta'sir goldiradigan,ajoyib
+	64 Sports-bag sport sumkasi
+	65. spring-bahor fasli
+	66. straight on to'g'ri,tekis
+	67. summer-yoz fasli
+	68. sunbathe-oftobda toblanmog/
+	69. sunny-quyoshli
+	70. supermarket-supermarket
+	71. Thai-Tailandlik
+	72. theatre-teatr
+	73. tidy-toza,yig'ishtirilgan
+	74. toilet-xojatxona
+	75. trainers-krossovka
+	76. travel-sayohat qilmoq
+	77. trolley bus-trolleybus
+	78. turn-aylanmoq.navbat
+	79. under-tagida
+	80. wall-devor
+	81. Warm-iliq
+	82. water sports-Suv sporti
+	83. winter-qish fasli
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unit-9
+Art
+	san'at
+	Austria
+	Avstriya
+	Back
+	orqa
+	Birthday
+	tug'ilgan kun
+	Born
+	tug'ilmoq
+	Canadian
+	Kanadalik
+	Charity shop
+	Xayriya do'koni
+	Colorful
+	rangli
+	dear
+	qadrli
+	Do
+	qilmoq, bajarmoq
+	Eldest
+	eng katta yoshli
+	Expert
+	mutahassis
+	Famous
+	mashhur
+	Film
+	film, kino
+	Film company
+	kino kompaniyasi
+	Fingerprint
+	barmoq izi
+	For sale
+	sotuvda
+	Gallery
+	galereya
+	Go
+	bormoq
+	Good time
+	yaxshi vaqt
+	Gym
+	trenajor zali
+	Happy birthday
+	Tug'ilgan kuning(iz) bilan
+	Horrible
+	yoqimsiz, noxush, yomon
+	Housework
+	uy ishlari
+	Irish
+	Irlandiyalik
+	Last year
+	O'tgan yili
+	Make
+	yaratmoq
+	Mess
+	tartibsizlik
+	Most
+	Eng
+	Musician
+	musiqachi
+	Next year
+	keyingi yil
+	Older
+	kattaroq(yosh bo'yicha) 
+	Pakistan
+	Pokiston
+	Pay
+	to'lamoq
+	Politician
+	siyosatchi
+	Princess
+	Malika
+	Racing driver
+	poyga haydovchisi
+	Real
+	haqiqiy
+	Rich
+	boy
+	Saudi Arabia
+	Saudi Arabistoni
+	Scientist
+	olim
+	See
+	ko'rmoq
+	Singer
+	qo'shiqchi
+	South
+	janub(iy) 
+	Still
+	 (
+	gacha) 
+	
+	Story
+	hikoya
+	Thousand
+	ming(son) 
+	TV company
+	televideniya
+	Uncle
+	tog'a, amaki
+	Writer
+	yozuvchi
+	Year
+	yil
+	Yesterday 
+	kecha
+	Months of the year
+	Oylar
+	January
+	Yanvar
+	February
+	Fevral
+	March
+	Mart
+	April
+	Aprel
+	May
+	May
+	June
+	Iyun. 
+	July
+	Iyul
+	August
+	Avgust
+	September
+	Sentabr
+	October
+	October. 
+	November
+	Noyabr
+	December
+	Dekabr
+	
+
+
+
+
+
+
+Unit-10
+Ago
+	oldin( vaqt bn ishlatiladi) (2 days ago) 
+	At
+	predlog (
+	da) 
+	
+	Bus tour
+	avtobus sayohati
+	Camping
+	ta'tilni oromgohda o'tkazmoq
+	Castle
+	saroy
+	Cathedral
+	bosh cherkov
+	Clean
+	tozalamoq
+	Coffee bar
+	qahvaxona
+	Dance
+	raqsga tushmoq
+	Date
+	uchrashuv
+	Dinner
+	kechki ovqat
+	Enjoy
+	zavqlanmoq
+	Free
+	bo'sh, bepul
+	Get
+	olmoq
+	Horse riding
+	ot minish
+	Ice
+	skating
+	muzda uchish
+	
+	India
+	Hindiston
+	Interested
+	qiziqqan
+	Lake
+	ko'l
+	Last
+	oxirgi
+	Late
+	kech
+	Leisure activity
+	bo'sh vaqtida qiladigan mashg'ulot
+	Listen
+	eshitmoq
+	Lot
+	ko'p
+	Lucky
+	Omadli
+	Market
+	bozor
+	Meal
+	ovqat
+	Milk
+	sut
+	Much
+	ko'p(sanalmaydigan otlar uchun) 
+	Museum
+	muzey
+	Once
+	bir marta
+	Orange juice
+	apelsin sharbati
+	Pasta
+	pasta. 
+	Playing cards
+	karta o'ynash
+	Really
+	Haqiqatan, rostdan
+	Relaxing
+	tinchlantiradigan
+	Roast beef
+	pishirilgan mol go'shti
+	Rugby
+	regbi(sport turi) 
+	Show
+	ko'rsatmoq
+	Sightseeing
+	diqqatga sazovor joylarni tomosha qilish
+	Sit
+	o'tirmoq
+	Skiing
+	chang'ida uchish
+	Special
+	maxsus
+	Square
+	Kvadrat
+	Start
+	boshlamoq
+	Sun
+	quyosh
+	Swimming pool
+	basseyn
+	Tour
+	sayohat
+	Tourist
+	Turist, sayohatchi
+	Villa
+	villa, dacha
+	Walk
+	yurmoq
+	Weekend
+	hafta oxiri, dam olish kunlari
+	Windsurfing
+	yelkanli solda uchish sporti
+	Zoo
+	zoopark
+	
+
+
+
+
+
+
+
+
+Unit-11
+A little bit
+	ozgina
+	Accident
+	falokat, tasodif
+	Act
+	o'zini tutmoq, ro'l o'ynamoq
+	Afraid
+	qo'rqmoq
+	Airport
+	aeroport
+	Also
+	yana
+	Anywhere
+	har yerda
+	Architect
+	arxitektor
+	Argentina
+	Argentina
+	Arm
+	bilak
+	Athlete
+	sportchi
+	Barbecue
+	barbekyu( qovurilib, dimlanib pishiriladigan go'sht, taom) 
+	Bill
+	hisob varag'i
+	Beef
+	mol go'shti
+	Better
+	yaxshiroq
+	Blog
+	vlog
+	Boring
+	zerikarli
+	Button
+	tugma
+	Cake
+	tort
+	Can
+	qila olmoq
+	Chat
+	suhbatlashmoq
+	Chess
+	shaxmat
+	Communicate
+	aloqaga kirishmoq
+	Computer games
+	komp o'yinlari
+	Continue
+	davom ettirmoq
+	Dangerous
+	xavfli
+	Defence
+	himoya
+	Department
+	bo'lim
+	Draw
+	chizmoq
+	Endless
+	nihoyasiz
+	Everything
+	hamma narsa
+	Farmer
+	fermer
+	Film star
+	kino yulduz
+	Fluently
+	ravon, tekis
+	Fly
+	uchmoq
+	Football player
+	futbol o'yinchi
+	Geography
+	geografiya
+	Glass
+	shisha
+	Green
+	yashil
+	Guitar
+	gitara
+	Help
+	yordam bermoq
+	History
+	tarix
+	Horse
+	ot
+	Hour
+	soat
+	Hurt
+	azob bermoq
+	Interpreter
+	tarjimon
+	Jumbo jet
+	juda katta reaktiv samolyot
+	Kind
+	mehribon
+	Lift
+	ko'tarmoq
+	Lost
+	yo'qolgan
+	Message
+	xabar
+	Metres
+	metrlar
+	Miss
+	sog'inmoq, o'tkazib yubormoq
+	Mostly
+	ko'pincha
+	Motor racing
+	poyga
+	Musical instrument
+	musiqa asbobi
+	Network
+	temiryo'l, radio va telekanallar guruhi
+	News
+	yangilik
+	Offer
+	taklif qilmoq
+	Passport
+	passport. 
+	Pilot
+	uchuvchi
+	Plane
+	samolyot. 
+	Pop group
+	pop guruhi
+	Possible
+	imkonli
+	Problem
+	muammo
+	Push
+	itarmoq
+	Radio
+	radio
+	Really well
+	haqiqatan yaxshi
+	Request
+	iltimos qilmoq. 
+	Ride
+	haydamoq
+	Safe
+	xavfsiz
+	Science
+	ilm
+	fan
+	
+	Scientist
+	olim
+	Send
+	jo'natmoq
+	Share
+	bo'lishmoq
+	Slowly
+	sekin
+	Something
+	biror narsa
+	Swim
+	suzmoq. 
+	Tall
+	baland
+	The Net
+	internet
+	Ticket
+	bilet, chipta
+	Ticket machine
+	chipta mashinasi
+	Tractor
+	traktor
+	Try
+	harakat qilmoq
+	Turn off
+	o'chiqmoq
+	Use
+	foydalanmoq
+	Water
+	suv
+	What's the matter
+	gap nimada, nima bo'ldi? 
+	Worldwide
+	dunyo bo'ylab
+	Young
+	yosh.
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unit-12
+Anyone
+	biror kim
+	Anything else
+	yena biror narsa
+	Apple pie
+	olmali pirog
+	Around
+	bo'ylab
+	Bar
+	bar
+	Beans
+	no'xat, loviya
+	Bike
+	velosiped
+	Bookshop
+	kitob do'kon
+	Bottle
+	baklajka
+	Bread
+	non
+	Cereal
+	boshoqli ekinlar
+	Chicken
+	tovuq
+	Chocolate cake
+	shokoladli tort
+	Coffee shop
+	qahva do'koni
+	Conditioner
+	yaxshi holatda saqlovchi modda
+	Customer
+	xaridor
+	Describe
+	tasvirlamoq
+	Dessert
+	desert
+	Diet
+	parhez qilmoq, taom
+	Dishes
+	idishlar
+	Dollars
+	dollar. 
+	Dry
+	quruq
+	Feel
+	his qilmoq
+	First class
+	birinchi sinf
+	Fish 
+	baliq
+	Floors
+	etajlar, pol
+	Follow
+	ergashmoq
+	Forget
+	unutmoq
+	Fruit
+	meva
+	Garden
+	bog'
+	Gate
+	darvoza
+	Glass of wine
+	bir shisha vino
+	Hair
+	soch. 
+	Ham
+	cho'chqa go'shti
+	Immediately
+	birdan, to'satdan
+	Jam
+	murabbo
+	Juice
+	sharbat
+	Just
+	shunchaki
+	Kilometers
+	kilometer
+	A little
+	ozgina
+	Lunch box
+	tushlik qutisi
+	Main
+	asosiy
+	Marathon
+	marafon
+	Maybe
+	bo'lishi mumkin
+	Mayonnaise
+	mayonez
+	Meat
+	go'sht
+	Menu
+	menyu
+	Mineral water
+	mineral suv
+	Mixed salad
+	aralashgan salat
+	Mobile phone
+	mobil telefon
+	Move into 
+	ko'chmoq
+	Nearly
+	deyarli
+	Normal
+	odatiy
+	On the side
+	tomonida. 
+	Onion
+	piyoz
+	Order
+	buyurtma bermoq
+	Perhaps
+	balki
+	Plate
+	tarelka
+	Polite
+	xushmuomala
+	Programs
+	dasturlar. 
+	Pull
+	tortmoq
+	Report 
+	hisobot bermoq.
+	Rice
+	guruch
+	Salmon
+	salmon balig'i
+	Service
+	xizmat
+	Side orders
+	 qo'shimcha yemish
+	Siesta
+	 ovqatdan keyin kichik uyqu
+	Silly
+	ahmoq
+	Slice
+	bo'lak
+	Smaller
+	kichkinaroq. 
+	Smallest
+	eng kichkina
+	Smile
+	jilmaymoq
+	Smoke
+	chekmoq
+	Snack
+	yaxna ovqat, yegulik
+	Soup
+	sho'rva. 
+	Sparkling
+	yashnayotgan, porlayotgan
+	Stand
+	turmoq. 
+	Sugar
+	shakar
+	Swap
+	almashmoq
+	Take photos
+	rasm olmoq
+	Tapas
+	 tapas( ispaniya taomi)
+	Thirsty
+	chanqagan
+	Till
+	gacha
+	Tomato
+	pomidor
+	Vegetable
+	sabzavot
+	Wait
+	kutmoq
+	Waiter
+	ofitsiant.
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unit-13
+Actions
+	harakatlar
+	Angry
+	jahli chiqqan
+	Apartments
+	kvartiralar
+	Arrive
+	yetib kelmoq
+	At the moment
+	hozir
+	Boots
+	etiklar
+	Bored
+	zerikkan
+	Bring
+	olib kelmoq
+	Build
+	qurmoq
+	Business
+	biznes
+	Call
+	qo'ng'iroq qilmoq, chaqirmoq
+	Carry
+	ko'tarmoq
+	Choose
+	tanlamoq
+	Close
+	yopmoq, yaqin
+	Cold
+	sovuq
+	Colors
+	ranglar
+	Do well
+	yaxshi bajarmoq
+	Dress
+	ko'ylak
+	End
+	oxiri, tugamoq
+	Especially
+	ayniqsa
+	Extra
+	qo'shimcha, 
+	Finish
+	tugamoq
+	Guess
+	taxmin qilmoq
+	Happen
+	sodir bo'lmoq
+	Have a cold
+	shamollashi bo'lmoq
+	Headache
+	bosh og'rig'i
+	Homeless
+	uysiz
+	Hostel
+	otel
+	Hungry
+	qorni och, 
+	Jeans
+	jinsi
+	Lose
+	yo'qotmoq
+	Open
+	ochmoq
+	Pleased
+	mamnun
+	Poor
+	kambag'al
+	Private plane
+	xususiy samolyot
+	Public transport
+	jamoa transporti
+	Put on 
+	kiyib olmoq
+	Remember
+	eslamoq
+	Road
+	yo'l
+	Scarf
+	sharf
+	Secret
+	sir
+	Sell
+	sotmoq
+	Shirt
+	rubashka
+	Shorts
+	shortik
+	Skirt
+	yubka
+	Sleep
+	uxlamoq
+	Socks
+	paypoq
+	Someone
+	birorkim
+	Spend money
+	pul sarflamoq
+	Spend time
+	vaqt sarflamoq
+	Strawberry
+	qulupnay
+	Successful
+	muvaffaqiyatli
+	Suit
+	kostyum
+	shim
+	
+	Take off 
+	yechmoq. 
+	Teenage
+	o'smir
+	Tie
+	galstuk
+	Trousers
+	shim. 
+	Turn on
+	yoqmoq
+	Turn off
+	o'chirmoq
+	Tv programme
+	tele
+	ko'rsatuv
+	
+	Video
+	video
+	Wear
+	kiymoq
+	Window
+	deraza
+	Win
+	g'olib bo'lmoq
+	Work
+	ishlamoq. 
+	Worried
+	xavotirlangan
+	Worth 
+	Arziydigan
+
+	Green
+	yashil
+	red
+	qizil
+	brown
+	jigarrang
+	black
+	qora
+	white
+	oq
+	grey
+	kulrang
+	orange
+	apelsin rang
+	blue
+	havorang
+	purple
+	binafsharang
+	pink
+	pushti
+	yellow
+	sariq
+	Gold
+	oltinrang
+	Silver
+	kumushrang
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unit-14
+Abroad
+	chet el
+	Across
+	bo'ylab
+	All year round
+	butun yil bo'yi
+	Along
+	bo'ylab. 
+	Assistant
+	yordamchi
+	Autoroute
+	avtomarshrut
+	Balcony
+	balkon
+	Banana
+	banan
+	Begin
+	boshlamoq
+	Belgium
+	Belgiya
+	Biology
+	biologiya.
+	Party
+	ziyofat
+	Bistro
+	kichkina bar yoki restoran
+	Boat
+	kema
+	Bridge
+	ko'prik
+	Campus
+	universitet hududi
+	Canals
+	kanallar
+	Carefully
+	ehtiyotkorona
+	Check in 
+	Ro'yhatdan o'tmoq
+	Connection
+	aloqa
+	Cost
+	narx
+	Cruise
+	dengiz sayohati
+	Developing countries
+	rivojlanayotgan davlatlar
+	Doctors
+	shifokorlar
+	East
+	sharq
+	Economics
+	iqtisodiyot
+	Europe
+	Yevropa
+	Events
+	voqea
+	hodisalar
+	
+	Exam
+	imtihon
+	Explain
+	tushuntirmoq
+	Expression
+	ifoda, ibora
+	Flight
+	uchish samolyotda
+	Future
+	kelajak
+	Grow up
+	ulg'aymoq
+	Gymnasium
+	gimnaziya
+	Hope
+	umid qilmoq
+	Housewife
+	uy bekasi
+	How llong
+	qancha muddatga? Qancha vaqt?
+	Imagine 
+	tasavvur qilmoq, 
+	Important
+	muhim
+	Jeep
+	jip(savdo belgisi) 
+	Journalist
+	jurnalist
+	Know
+	bilmoq
+	Local
+	mahalliy
+	Medicine
+	dori
+	darmon
+	
+	Modern languages
+	zamonaviy tillar
+	Motorbike
+	mototsikl
+	Move
+	ko'chmoq, harakatlanmoq
+	Nearby
+	yaqinida
+	Nervous
+	xavotirlangan, qo'rqqan, cho'chigan
+	Overnight
+	tuni bilan
+	Painter
+	bo'yoqchi
+	Physics
+	Fizika
+	Piece of Information
+	bir parcha ma'lumot
+	Plan
+	reja
+	Pleasure
+	mamnuniyat
+	Psychology
+	psixologiya
+	Quickly
+	tez 
+	Quite often
+	tez tez
+	Research company
+	tadqiqot kompaniyasi
+	Revision
+	takrorlash
+	Ride
+	haydamoq
+	Romantic
+	romantik
+	Rucksack
+	ryukzak
+	Safari
+	safari
+	Same to you
+	Senga  ham xuddi shu
+	Scottish
+	Shotland
+	See you again soon
+	Tez orada ko'rishguncha
+	South Africa
+	Janubiy Amerika
+	Souvenir
+	Suvenir
+	Steak
+	steyk, bifshteks
+	Sunshine
+	quyosh nuri
+	Tent
+	chodir
+	There
+	u yerda
+	Transport
+	transport
+	Trip
+	sayohat
+	Tunnel
+	tunel
+	Women
+	ayollar
+	Zambia
+	Zambiya
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

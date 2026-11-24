@@ -1,0 +1,1230 @@
+{
+ "code": "13.1",
+ "intro": {
+  "what": "Present Continuous (hozir bo'layotgan ish-harakat) – ayni damda sodir bo'layotgan ish-harakatlarni bildiradi. Buni yasash uchun am, is, are va fe'lga -ing qo'shimchasini qo'shamiz.",
+  "when": [
+   "Ayni damda bo'layotgan ish-harakatlar uchun (Actions happening now)",
+   "Vaqtinchalik holatlar uchun (Temporary situations)",
+   "Jarayondagi ishlar uchun (Process)",
+   "Kelajakdagi kelishilgan rejalar uchun (Future arrangements)"
+  ],
+  "structures": [
+   {
+    "label": "(+)",
+    "formula": "[ S + am/is/are + V-ing + OB ]",
+    "example_en": "I am reading a book.",
+    "example_uz": "Men kitob o'qiyapman."
+   },
+   {
+    "label": "(-)",
+    "formula": "[ S + am/is/are + not + V-ing + OB ]",
+    "example_en": "They aren't working.",
+    "example_uz": "Ular ishlamayapti."
+   },
+   {
+    "label": "(?)",
+    "formula": "[ Am/Is/Are + S + V-ing + OB? ]",
+    "example_en": "Is it raining?",
+    "example_uz": "Yomg'ir yog'yaptimi?"
+   },
+   {
+    "label": "Wh-",
+    "formula": "[ WH + am/is/are + S + V-ing + OB? ]",
+    "example_en": "What are you doing?",
+    "example_uz": "Siz nima qilyapsiz?"
+   }
+  ],
+  "rules": [
+   {
+    "title": "Imlo qoidasi (-e)",
+    "text": "Agar fe'l 'e' harfi bilan tugasa, -ing qo'shishdan oldin 'e' tushib qoladi.",
+    "examples": [
+     {
+      "en": "make -> making",
+      "uz": "yasamoq -> yasayapti"
+     },
+     {
+      "en": "write -> writing",
+      "uz": "yozmoq -> yozayapti"
+     }
+    ]
+   },
+   {
+    "title": "Undosh harfning ikkilanishi",
+    "text": "Bir bo'g'inli fe'llar oxirida qisqa unli + bitta undosh kelsa, oxirgi harf ikkilanadi.",
+    "examples": [
+     {
+      "en": "run -> running",
+      "uz": "yugurmoq -> yugurayapti"
+     },
+     {
+      "en": "sit -> sitting",
+      "uz": "o'tirmoq -> o'tiribdi"
+     }
+    ]
+   },
+   {
+    "title": "Tobe fe'lini tanlash",
+    "text": "Ega kishilik olmoshiga qarab am, is yoki are ishlatiladi: I am, He/She/It is, We/You/They are.",
+    "examples": [
+     {
+      "en": "She is wearing a red dress.",
+      "uz": "U qizil ko'ylak kiyib olgan."
+     },
+     {
+      "en": "We are listening to music.",
+      "uz": "Biz musiqa tinglayapmiz."
+     }
+    ]
+   }
+  ],
+  "signal_words": [
+   {
+    "en": "now",
+    "uz": "hozir"
+   },
+   {
+    "en": "at the moment",
+    "uz": "ayni damda"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "He playing football now.",
+    "right": "He is playing football now.",
+    "why": "He, she, it olmoshlari bilan is tobe fe'li tushib qolmasligi kerak."
+   },
+   {
+    "wrong": "I am makeing a cake.",
+    "right": "I am making a cake.",
+    "why": "-e bilan tugagan fe'llarda -ing qo'shishdan oldin 'e' harfi tushirib qoldiriladi."
+   },
+   {
+    "wrong": "They is reading a book.",
+    "right": "They are reading a book.",
+    "why": "They ko'plik olmoshi bo'lgani uchun are tobe fe'li ishlatiladi."
+   }
+  ]
+ },
+ "test": [
+  {
+   "type": "fill",
+   "q": "I ______ a book now.",
+   "answer": "am reading",
+   "explain": "I olmoshi bilan am tobe fe'li va -ing qo'shimchasi ishlatiladi.",
+   "accept": [
+    "am reading"
+   ],
+   "hint": "read"
+  },
+  {
+   "type": "fill",
+   "q": "She ______ a red dress.",
+   "answer": "is wearing",
+   "explain": "She olmoshi bilan is tobe fe'li ishlatiladi va wear fe'liga -ing qo'shiladi.",
+   "accept": [
+    "is wearing"
+   ],
+   "hint": "wear"
+  },
+  {
+   "type": "fill",
+   "q": "They ______ working today.",
+   "answer": "aren't",
+   "explain": "They olmoshi uchun inkor shaklda are not (aren't) ishlatiladi.",
+   "accept": [
+    "are not",
+    "aren't"
+   ],
+   "hint": "not + be"
+  },
+  {
+   "type": "fill",
+   "q": "What ______ you doing?",
+   "answer": "are",
+   "explain": "You olmoshi bilan are tobe fe'li ishlatiladi.",
+   "accept": [
+    "are"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "______ it raining?",
+   "answer": "Is",
+   "explain": "It olmoshi bilan so'roq gapda Is so'zi boshiga chiqadi.",
+   "accept": [
+    "Is"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "Ali is ______ football in the park.",
+   "answer": "playing",
+   "explain": "Present Continuous zamonida fe'lga -ing qo'shimchasi qo'shiladi.",
+   "accept": [
+    "playing"
+   ],
+   "hint": "play"
+  },
+  {
+   "type": "fill",
+   "q": "We ______ having lunch now.",
+   "answer": "are",
+   "explain": "We olmoshi uchun are tobe fe'li ishlatiladi.",
+   "accept": [
+    "are"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "Aziz isn't ______ TV.",
+   "answer": "watching",
+   "explain": "Inkor gapda is not dan keyin fe'lga -ing qo'shiladi.",
+   "accept": [
+    "watching"
+   ],
+   "hint": "watch"
+  },
+  {
+   "type": "fill",
+   "q": "______ they sleeping?",
+   "answer": "Are",
+   "explain": "They olmoshi bilan so'roq gap boshida Are ishlatiladi.",
+   "accept": [
+    "Are"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "Malika is ______ a nice cake.",
+   "answer": "making",
+   "explain": "-e bilan tugagan make fe'liga -ing qo'shilganda 'e' tushib qoladi.",
+   "accept": [
+    "making"
+   ],
+   "hint": "make"
+  },
+  {
+   "type": "fill",
+   "q": "The dog is ______ in the park.",
+   "answer": "running",
+   "explain": "Run fe'liga -ing qo'shilganda oxirgi undosh harf ikkilanadi (running).",
+   "accept": [
+    "running"
+   ],
+   "hint": "run"
+  },
+  {
+   "type": "fill",
+   "q": "I ______ not sleeping.",
+   "answer": "am",
+   "explain": "I olmoshi bilan am tobe fe'li ishlatiladi.",
+   "accept": [
+    "am"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "Where ______ you going?",
+   "answer": "are",
+   "explain": "You olmoshi bilan are tobe fe'li ishlatiladi.",
+   "accept": [
+    "are"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "He is ______ milk.",
+   "answer": "drinking",
+   "explain": "Drink fe'liga -ing qo'shilib drinking bo'ladi.",
+   "accept": [
+    "drinking"
+   ],
+   "hint": "drink"
+  },
+  {
+   "type": "fill",
+   "q": "Anna is ______ English.",
+   "answer": "learning",
+   "explain": "Learn fe'liga -ing qo'shilib learning bo'ladi.",
+   "accept": [
+    "learning"
+   ],
+   "hint": "learn"
+  },
+  {
+   "type": "fill",
+   "q": "Are you ______?",
+   "answer": "listening",
+   "explain": "Listen fe'liga -ing qo'shiladi.",
+   "accept": [
+    "listening"
+   ],
+   "hint": "listen"
+  },
+  {
+   "type": "fill",
+   "q": "She ______ not cooking.",
+   "answer": "is",
+   "explain": "She olmoshi bilan is tobe fe'li ishlatiladi.",
+   "accept": [
+    "is"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "They are ______ a car.",
+   "answer": "driving",
+   "explain": "Drive fe'lidan -e tushib -ing qo'shiladi.",
+   "accept": [
+    "driving"
+   ],
+   "hint": "drive"
+  },
+  {
+   "type": "fill",
+   "q": "Tom is ______ on the chair.",
+   "answer": "sitting",
+   "explain": "Sit fe'lida t harfi ikkilanib sitting bo'ladi.",
+   "accept": [
+    "sitting"
+   ],
+   "hint": "sit"
+  },
+  {
+   "type": "fill",
+   "q": "What ______ she doing?",
+   "answer": "is",
+   "explain": "She olmoshi uchun is tobe fe'li kerak.",
+   "accept": [
+    "is"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "mc",
+   "q": "I ______ a book now.",
+   "answer": "am reading",
+   "explain": "I olmoshi am oladi va read fe'liga -ing qo'shiladi.",
+   "options": [
+    "is reading",
+    "am reading",
+    "are reading"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "They ______ football.",
+   "answer": "are playing",
+   "explain": "They ko'plik olmoshi bo'lgani uchun are playing ishlatiladi.",
+   "options": [
+    "are playing",
+    "is playing",
+    "am playing"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ she sleeping?",
+   "answer": "Is",
+   "explain": "She bilan so'roq gap Is bilan boshlanadi.",
+   "options": [
+    "Are",
+    "Am",
+    "Is"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "We ______ working today.",
+   "answer": "aren't",
+   "explain": "We uchun inkor shakl aren't (are not) bo'ladi.",
+   "options": [
+    "isn't",
+    "aren't",
+    "am not"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "What ______ you doing?",
+   "answer": "are",
+   "explain": "You olmoshi bilan are tobe fe'li ishlatiladi.",
+   "options": [
+    "is",
+    "am",
+    "are"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "He is ______ a red coat.",
+   "answer": "wearing",
+   "explain": "Present Continuous zamonida wear fe'liga -ing qo'shiladi.",
+   "options": [
+    "wearing",
+    "wear",
+    "wears"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Look! It ______.",
+   "answer": "is raining",
+   "explain": "It olmoshi bilan is raining ishlatiladi.",
+   "options": [
+    "are raining",
+    "is raining",
+    "am raining"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Aziz and Ali ______ lunch.",
+   "answer": "are having",
+   "explain": "Ikki kishi (ko'plik) bo'lgani uchun are having ishlatiladi.",
+   "options": [
+    "is having",
+    "am having",
+    "are having"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ you listening to me?",
+   "answer": "Are",
+   "explain": "You bilan so'roq gap Are bilan boshlanadi.",
+   "options": [
+    "Is",
+    "Are",
+    "Am"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "She isn't ______ TV.",
+   "answer": "watching",
+   "explain": "Inkor gapda is not dan keyin watch fe'liga -ing qo'shiladi.",
+   "options": [
+    "watches",
+    "watch",
+    "watching"
+   ]
+  }
+ ],
+ "model": "gemini-3.5-flash-lite",
+ "tr1": [
+  {
+   "part": 0,
+   "uz": "Men hozir kitob o'qiyapman.",
+   "en": [
+    "I am reading a book now."
+   ],
+   "rule": "Present Continuous: I + am + fe'l + -ing"
+  },
+  {
+   "part": 0,
+   "uz": "U (qiz) qizil ko'ylak kiyib olgan.",
+   "en": [
+    "She is wearing a red dress."
+   ],
+   "rule": "Present Continuous: she + is + fe'l + -ing"
+  },
+  {
+   "part": 0,
+   "uz": "Ular parkda o'ynashmoqda.",
+   "en": [
+    "They are playing in the park."
+   ],
+   "rule": "Present Continuous: they + are + fe'l + -ing"
+  },
+  {
+   "part": 0,
+   "uz": "Ali hozir choy ichmoqda.",
+   "en": [
+    "Ali is drinking tea now."
+   ],
+   "rule": "Present Continuous: is + drink + ing"
+  },
+  {
+   "part": 0,
+   "uz": "Biz maktabda ingliz tilini o'rganayapmiz.",
+   "en": [
+    "We are learning English at school."
+   ],
+   "rule": "Present Continuous: we + are + learn + ing"
+  },
+  {
+   "part": 0,
+   "uz": "Sen uyda televizor ko'ryapsan.",
+   "en": [
+    "You are watching TV at home."
+   ],
+   "rule": "Present Continuous: you + are + watch + ing"
+  },
+  {
+   "part": 0,
+   "uz": "U (o'g'il bola) xat yozmoqda.",
+   "en": [
+    "He is writing a letter."
+   ],
+   "rule": "Fe'l oxiridagi 'e' tushib qoladi: writing"
+  },
+  {
+   "part": 0,
+   "uz": "Mushuk stolda uxlayapti.",
+   "en": [
+    "The cat is sleeping on the table."
+   ],
+   "rule": "Present Continuous: is + sleep + ing"
+  },
+  {
+   "part": 0,
+   "uz": "Quyosh charaqlab turibdi.",
+   "en": [
+    "The sun is shining."
+   ],
+   "rule": "Present Continuous: is + shine + ing"
+  },
+  {
+   "part": 0,
+   "uz": "Ular uyda tushlik qilishmoqda.",
+   "en": [
+    "They are having lunch at home."
+   ],
+   "rule": "Present Continuous: have fe'li having bo'ladi"
+  },
+  {
+   "part": 0,
+   "uz": "Men uyga ketyapman.",
+   "en": [
+    "I am going home."
+   ],
+   "rule": "Present Continuous: I + am + go + ing"
+  },
+  {
+   "part": 0,
+   "uz": "Qizlar bog'da raqsga tushishmoqda.",
+   "en": [
+    "The girls are dancing in the garden."
+   ],
+   "rule": "Present Continuous: are + dance + ing"
+  },
+  {
+   "part": 0,
+   "uz": "Bolalar daryoda suzishmoqda.",
+   "en": [
+    "The children are swimming in the river."
+   ],
+   "rule": "Ikki undosh harf qo'shiladi: swimming"
+  },
+  {
+   "part": 0,
+   "uz": "Ular uy qurishmoqda.",
+   "en": [
+    "They are building a house."
+   ],
+   "rule": "Present Continuous: are + build + ing"
+  },
+  {
+   "part": 0,
+   "uz": "Men musiqa tinglayapman.",
+   "en": [
+    "I am listening to music."
+   ],
+   "rule": "Present Continuous: am + listen + ing"
+  },
+  {
+   "part": 0,
+   "uz": "Ular do'kondan kiyim sotib olishmoqda.",
+   "en": [
+    "They are buying clothes from the shop."
+   ],
+   "rule": "Present Continuous: are + buy + ing"
+  },
+  {
+   "part": 0,
+   "uz": "Talabalar sinfda o'tirishibdi.",
+   "en": [
+    "The students are sitting in the classroom."
+   ],
+   "rule": "Ikki undosh harf qo'shiladi: sitting"
+  },
+  {
+   "part": 0,
+   "uz": "Ular shahar markazida yugurishmoqda.",
+   "en": [
+    "They are running in the town centre."
+   ],
+   "rule": "Ikki undosh harf qo'shiladi: running"
+  },
+  {
+   "part": 0,
+   "uz": "Aziz xat yuboryapti.",
+   "en": [
+    "Aziz is sending a message."
+   ],
+   "rule": "Present Continuous: is + send + ing"
+  },
+  {
+   "part": 0,
+   "uz": "Onam oshxonada ovqat pishiryapti.",
+   "en": [
+    "Mother is cooking in the kitchen."
+   ],
+   "rule": "Present Continuous: is + cook + ing"
+  },
+  {
+   "part": 0,
+   "uz": "Ular velosipedda haydashmoqda.",
+   "en": [
+    "They are riding bikes."
+   ],
+   "rule": "Present Continuous: are + ride + ing"
+  },
+  {
+   "part": 0,
+   "uz": "Men kompyuterda ishlayapman.",
+   "en": [
+    "I am working on the computer."
+   ],
+   "rule": "Present Continuous: am + work + ing"
+  },
+  {
+   "part": 0,
+   "uz": "U qora kurtka kiyib olgan.",
+   "en": [
+    "He is wearing a black jacket."
+   ],
+   "rule": "Present Continuous: is + wear + ing"
+  },
+  {
+   "part": 0,
+   "uz": "Biz kinoteatrga boryapmiz.",
+   "en": [
+    "We are going to the cinema."
+   ],
+   "rule": "Present Continuous: are + go + ing"
+  },
+  {
+   "part": 0,
+   "uz": "Ular inglizcha gaplashishmoqda.",
+   "en": [
+    "They are speaking English."
+   ],
+   "rule": "Present Continuous: are + speak + ing"
+  },
+  {
+   "part": 0,
+   "uz": "Do'stim menga yordam beryapti.",
+   "en": [
+    "My friend is helping me."
+   ],
+   "rule": "Present Continuous: is + help + ing"
+  },
+  {
+   "part": 0,
+   "uz": "Biz nonushta qilyapmiz.",
+   "en": [
+    "We are having breakfast."
+   ],
+   "rule": "Present Continuous: are + have + ing"
+  },
+  {
+   "part": 0,
+   "uz": "Ular futbol o'ynashmoqda.",
+   "en": [
+    "They are playing football."
+   ],
+   "rule": "Present Continuous: are + play + ing"
+  },
+  {
+   "part": 0,
+   "uz": "Qiz rasm chizyapti.",
+   "en": [
+    "The girl is drawing a picture."
+   ],
+   "rule": "Present Continuous: is + draw + ing"
+  },
+  {
+   "part": 0,
+   "uz": "Ular restoran ovqatlanishmoqda.",
+   "en": [
+    "They are eating in the restaurant."
+   ],
+   "rule": "Present Continuous: are + eat + ing"
+  },
+  {
+   "part": 0,
+   "uz": "Men xatni o'qiyapman.",
+   "en": [
+    "I am reading the letter."
+   ],
+   "rule": "Present Continuous: am + read + ing"
+  },
+  {
+   "part": 0,
+   "uz": "Ular o'yin o'ynashmoqda.",
+   "en": [
+    "They are playing games."
+   ],
+   "rule": "Present Continuous: are + play + ing"
+  },
+  {
+   "part": 0,
+   "uz": "Otash mashina haydayapti.",
+   "en": [
+    "Atash is driving a car."
+   ],
+   "rule": "Present Continuous: is + drive + ing"
+  },
+  {
+   "part": 0,
+   "uz": "Biz darsni boshlayapmiz.",
+   "en": [
+    "We are starting the lesson."
+   ],
+   "rule": "Present Continuous: are + start + ing"
+  },
+  {
+   "part": 0,
+   "uz": "Ular xonani tozalashmoqda.",
+   "en": [
+    "They are tidying the room."
+   ],
+   "rule": "Present Continuous: are + tidy + ing"
+  },
+  {
+   "part": 0,
+   "uz": "Men stolda o'tiribman.",
+   "en": [
+    "I am sitting at the desk."
+   ],
+   "rule": "Present Continuous: am + sit + ing"
+  },
+  {
+   "part": 0,
+   "uz": "Ular do'stlarini kutishmoqda.",
+   "en": [
+    "They are waiting for their friends."
+   ],
+   "rule": "Present Continuous: are + wait + ing"
+  },
+  {
+   "part": 0,
+   "uz": "Mushuk sut ichayotir.",
+   "en": [
+    "The cat is drinking milk."
+   ],
+   "rule": "Present Continuous: is + drink + ing"
+  },
+  {
+   "part": 0,
+   "uz": "Ular dars tayyorlashmoqda.",
+   "en": [
+    "They are doing homework."
+   ],
+   "rule": "Present Continuous: are + do + ing"
+  },
+  {
+   "part": 0,
+   "uz": "Men do'konga boryapman.",
+   "en": [
+    "I am going to the shop."
+   ],
+   "rule": "Present Continuous: am + go + ing"
+  },
+  {
+   "part": 1,
+   "uz": "Men hozir kitob o'qiyotganim yo'q.",
+   "en": [
+    "I am not reading a book now."
+   ],
+   "rule": "Inkor: am not + fe'l + -ing"
+  },
+  {
+   "part": 1,
+   "uz": "U qizil ko'ylak kiyib olgani yo'q.",
+   "en": [
+    "She isn't wearing a red dress."
+   ],
+   "rule": "Inkor: isn't + fe'l + -ing"
+  },
+  {
+   "part": 1,
+   "uz": "Ular parkda o'ynashmayapti.",
+   "en": [
+    "They aren't playing in the park."
+   ],
+   "rule": "Inkor: aren't + fe'l + -ing"
+  },
+  {
+   "part": 1,
+   "uz": "Ali choy ichayotgani yo'q.",
+   "en": [
+    "Ali isn't drinking tea."
+   ],
+   "rule": "Inkor: isn't + drink + ing"
+  },
+  {
+   "part": 1,
+   "uz": "Biz ingliz tilini o'rganayotganimiz yo'q.",
+   "en": [
+    "We aren't learning English."
+   ],
+   "rule": "Inkor: aren't + learn + ing"
+  },
+  {
+   "part": 1,
+   "uz": "Sen televizor ko'rayotganing yo'q.",
+   "en": [
+    "You aren't watching TV."
+   ],
+   "rule": "Inkor: aren't + watch + ing"
+  },
+  {
+   "part": 1,
+   "uz": "U xat yozayotgani yo'q.",
+   "en": [
+    "He isn't writing a letter."
+   ],
+   "rule": "Inkor: isn't + write + ing"
+  },
+  {
+   "part": 1,
+   "uz": "Mushuk uxlayotgani yo'q.",
+   "en": [
+    "The cat isn't sleeping."
+   ],
+   "rule": "Inkor: isn't + sleep + ing"
+  },
+  {
+   "part": 1,
+   "uz": "Ular uyda tushlik qilishmayapti.",
+   "en": [
+    "They aren't having lunch at home."
+   ],
+   "rule": "Inkor: aren't + have + ing"
+  },
+  {
+   "part": 1,
+   "uz": "Men uyga ketmayapman.",
+   "en": [
+    "I am not going home."
+   ],
+   "rule": "Inkor: am not + go + ing"
+  }
+ ],
+ "tr51": [
+  {
+   "part": 1,
+   "uz": "Ali kitob o'qiyapti emas.",
+   "en": [
+    "Ali isn't reading a book."
+   ],
+   "rule": "Inkor: isn't + -ing"
+  },
+  {
+   "part": 1,
+   "uz": "Malika hozir choy ichayotgani yo'q.",
+   "en": [
+    "Malika isn't drinking tea now."
+   ],
+   "rule": "Inkor: isn't + -ing"
+  },
+  {
+   "part": 1,
+   "uz": "Men hozir ishlayotganim yo'q.",
+   "en": [
+    "I'm not working now.",
+    "I am not working now."
+   ],
+   "rule": "Inkor: 'm not + -ing"
+  },
+  {
+   "part": 1,
+   "uz": "Ular futbol o'ynamayapti.",
+   "en": [
+    "They aren't playing football."
+   ],
+   "rule": "Inkor: aren't + -ing"
+  },
+  {
+   "part": 1,
+   "uz": "Sen televizor ko'rmayapsan.",
+   "en": [
+    "You aren't watching TV."
+   ],
+   "rule": "Inkor: aren't + -ing"
+  },
+  {
+   "part": 1,
+   "uz": "U (qiz) xat yozayotgani yo'q.",
+   "en": [
+    "She isn't writing a letter."
+   ],
+   "rule": "Inkor: isn't + -ing"
+  },
+  {
+   "part": 1,
+   "uz": "Biz maktabga ketmayapmiz.",
+   "en": [
+    "We aren't going to school."
+   ],
+   "rule": "Inkor: aren't + -ing"
+  },
+  {
+   "part": 1,
+   "uz": "Tom kechki ovqat yemayapti.",
+   "en": [
+    "Tom isn't eating dinner."
+   ],
+   "rule": "Inkor: isn't + -ing"
+  },
+  {
+   "part": 1,
+   "uz": "Mening do'stim uxlamayapti.",
+   "en": [
+    "My friend isn't sleeping."
+   ],
+   "rule": "Inkor: isn't + -ing"
+  },
+  {
+   "part": 1,
+   "uz": "Mushuk suv ichmayapti.",
+   "en": [
+    "The cat isn't drinking water."
+   ],
+   "rule": "Inkor: isn't + -ing"
+  },
+  {
+   "part": 1,
+   "uz": "Bolalar o'ynamayapti.",
+   "en": [
+    "The children aren't playing."
+   ],
+   "rule": "Inkor: aren't + -ing"
+  },
+  {
+   "part": 1,
+   "uz": "Ular ingliz tilini o'rganmayapti.",
+   "en": [
+    "They aren't learning English."
+   ],
+   "rule": "Inkor: aren't + -ing"
+  },
+  {
+   "part": 1,
+   "uz": "Men musiqa tinglayotganim yo'q.",
+   "en": [
+    "I'm not listening to music.",
+    "I am not listening to music."
+   ],
+   "rule": "Inkor: 'm not + -ing"
+  },
+  {
+   "part": 1,
+   "uz": "Anna yangi ko'ylak kiymayapti.",
+   "en": [
+    "Anna isn't wearing a new dress."
+   ],
+   "rule": "Inkor: isn't + -ing"
+  },
+  {
+   "part": 1,
+   "uz": "Ular Toshkentda yashamayapti.",
+   "en": [
+    "They aren't living in Tashkent."
+   ],
+   "rule": "Inkor: aren't + -ing"
+  },
+  {
+   "part": 1,
+   "uz": "Aziz xat yubormayapti.",
+   "en": [
+    "Aziz isn't sending a message."
+   ],
+   "rule": "Inkor: isn't + -ing"
+  },
+  {
+   "part": 1,
+   "uz": "Sen ovqat pishirmayapsan.",
+   "en": [
+    "You aren't cooking."
+   ],
+   "rule": "Inkor: aren't + -ing"
+  },
+  {
+   "part": 1,
+   "uz": "Ular do'kondan xarid qilmayapti.",
+   "en": [
+    "They aren't shopping."
+   ],
+   "rule": "Inkor: aren't + -ing"
+  },
+  {
+   "part": 1,
+   "uz": "Quyosh charaqlamayapti.",
+   "en": [
+    "The sun isn't shining."
+   ],
+   "rule": "Inkor: isn't + -ing"
+  },
+  {
+   "part": 1,
+   "uz": "Biz parkda sayr qilmayapmiz.",
+   "en": [
+    "We aren't walking in the park."
+   ],
+   "rule": "Inkor: aren't + -ing"
+  },
+  {
+   "part": 2,
+   "uz": "Sen nima qilyapsan?",
+   "en": [
+    "What are you doing?"
+   ],
+   "rule": "So'roq: What + are + egas + -ing"
+  },
+  {
+   "part": 2,
+   "uz": "Ali kitob o'qiyaptimi?",
+   "en": [
+    "Is Ali reading a book?"
+   ],
+   "rule": "So'roq: Is + ega + -ing"
+  },
+  {
+   "part": 2,
+   "uz": "Ular nima yemoqda?",
+   "en": [
+    "What are they eating?"
+   ],
+   "rule": "So'roq: What + are + they + -ing"
+  },
+  {
+   "part": 2,
+   "uz": "Tashqarida yomg'ir yog'yaptimi?",
+   "en": [
+    "Is it raining outside?"
+   ],
+   "rule": "So'roq: Is + it + raining"
+  },
+  {
+   "part": 2,
+   "uz": "Malika qayerga boryapti?",
+   "en": [
+    "Where is Malika going?"
+   ],
+   "rule": "So'roq: Where + is + ega + -ing"
+  },
+  {
+   "part": 2,
+   "uz": "Sen musiqa tinglayapsanmi?",
+   "en": [
+    "Are you listening to music?"
+   ],
+   "rule": "So'roq: Are + you + -ing"
+  },
+  {
+   "part": 2,
+   "uz": "Ular futbol o'ynayaptimi?",
+   "en": [
+    "Are they playing football?"
+   ],
+   "rule": "So'roq: Are + they + -ing"
+  },
+  {
+   "part": 2,
+   "uz": "Men to'g'ri ishlayapmanmi?",
+   "en": [
+    "Am I working right?"
+   ],
+   "rule": "So'roq: Am + I + -ing"
+  },
+  {
+   "part": 2,
+   "uz": "Tom qayerda ishlayapti?",
+   "en": [
+    "Where is Tom working?"
+   ],
+   "rule": "So'roq: Where + is + Tom + -ing"
+  },
+  {
+   "part": 2,
+   "uz": "Bolalar uxlayaptimi?",
+   "en": [
+    "Are the children sleeping?"
+   ],
+   "rule": "So'roq: Are + children + -ing"
+  },
+  {
+   "part": 2,
+   "uz": "U (qiz) choy ichyaptimi?",
+   "en": [
+    "Is she drinking tea?"
+   ],
+   "rule": "So'roq: Is + she + -ing"
+  },
+  {
+   "part": 2,
+   "uz": "Sen nima haqida o'ylayapsan?",
+   "en": [
+    "What are you thinking about?"
+   ],
+   "rule": "So'roq: What + are + you + -ing"
+  },
+  {
+   "part": 2,
+   "uz": "Mening do'stim kutyaptimi?",
+   "en": [
+    "Is my friend waiting?"
+   ],
+   "rule": "So'roq: Is + friend + -ing"
+  },
+  {
+   "part": 2,
+   "uz": "Ular qayerda yashayapti?",
+   "en": [
+    "Where are they living?"
+   ],
+   "rule": "So'roq: Where + are + they + -ing"
+  },
+  {
+   "part": 2,
+   "uz": "Anna surat chizayotgani bormi?",
+   "en": [
+    "Is Anna drawing a picture?"
+   ],
+   "rule": "So'roq: Is + Anna + -ing"
+  },
+  {
+   "part": 2,
+   "uz": "Biz ingliz tilini o'rganyapmizmi?",
+   "en": [
+    "Are we learning English?"
+   ],
+   "rule": "So'roq: Are + we + -ing"
+  },
+  {
+   "part": 2,
+   "uz": "Mushuk uxlayaptimi?",
+   "en": [
+    "Is the cat sleeping?"
+   ],
+   "rule": "So'roq: Is + cat + -ing"
+  },
+  {
+   "part": 2,
+   "uz": "Ular televizor ko'ryaptimi?",
+   "en": [
+    "Are they watching TV?"
+   ],
+   "rule": "So'roq: Are + they + -ing"
+  },
+  {
+   "part": 2,
+   "uz": "Aziz qayerga yuguryapti?",
+   "en": [
+    "Where is Aziz running?"
+   ],
+   "rule": "So'roq: Where + is + Aziz + -ing"
+  },
+  {
+   "part": 2,
+   "uz": "Sen nima yozayapsan?",
+   "en": [
+    "What are you writing?"
+   ],
+   "rule": "So'roq: What + are + you + -ing"
+  },
+  {
+   "part": 0,
+   "uz": "Men xat yozyapman.",
+   "en": [
+    "I am writing a letter."
+   ],
+   "rule": "Darak: am + -ing"
+  },
+  {
+   "part": 0,
+   "uz": "Ali kitob o'qiyapti.",
+   "en": [
+    "Ali is reading a book."
+   ],
+   "rule": "Darak: is + -ing"
+  },
+  {
+   "part": 0,
+   "uz": "Biz ingliz tilini o'rganyapmiz.",
+   "en": [
+    "We are learning English."
+   ],
+   "rule": "Darak: are + -ing"
+  },
+  {
+   "part": 0,
+   "uz": "Ular futbol o'ynayapti.",
+   "en": [
+    "They are playing football."
+   ],
+   "rule": "Darak: are + -ing"
+  },
+  {
+   "part": 0,
+   "uz": "Malika choy ichayapti.",
+   "en": [
+    "Malika is drinking tea."
+   ],
+   "rule": "Darak: is + -ing"
+  },
+  {
+   "part": 1,
+   "uz": "Men hozir uxlamayapman.",
+   "en": [
+    "I'm not sleeping now.",
+    "I am not sleeping now."
+   ],
+   "rule": "Inkor: 'm not + -ing"
+  },
+  {
+   "part": 1,
+   "uz": "Ali ishlamayapti.",
+   "en": [
+    "Ali isn't working."
+   ],
+   "rule": "Inkor: isn't + -ing"
+  },
+  {
+   "part": 2,
+   "uz": "Ular nima qilyapti?",
+   "en": [
+    "What are they doing?"
+   ],
+   "rule": "So'roq: What + are + they + -ing"
+  },
+  {
+   "part": 2,
+   "uz": "Sen kitob o'qiyapsanmi?",
+   "en": [
+    "Are you reading a book?"
+   ],
+   "rule": "So'roq: Are + you + -ing"
+  },
+  {
+   "part": 2,
+   "uz": "Tom uxlayaptimi?",
+   "en": [
+    "Is Tom sleeping?"
+   ],
+   "rule": "So'roq: Is + Tom + -ing"
+  }
+ ]
+}

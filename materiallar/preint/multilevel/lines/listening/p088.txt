@@ -1,0 +1,32 @@
+﻿92`t24`t85`tport 4
+154`t30`t114`tExercise IO
+90`t20`t926`t89
+208`t27`t115`tYou will hear someone giving a talk. Label the places (1-4) on the map
+243`t30`t114`t(A-G). There are THREE extra options which you do not need to use.
+298`t23`t384`tGround floor plan of theatre
+511`t15`t612`tc
+603`t13`t239`twater
+622`t13`t240`tcooler
+784`t22`t116`t1. ox office
+821`t26`t116`t3. lighting box
+898`t26`t118`tExercise 11
+607`t15`t461`tdouble doors
+656`t19`t498`tfoyer
+722`t11`t497`tentrance
+743`t14`t439`troad
+722`t11`t701`tentrance
+784`t26`t435`t2. theatre manager's office
+820`t22`t435`t4. artistic director's office
+947`t28`t118`tYou will hear someone giving a talk. Label the places (1-5) on the map
+984`t28`t117`t(A-H). There are THREE extra options which you do not need to use.
+1032`t25`t376`tBasement of museum
+1266`t30`t313`tsittingD
+1305`t13`t313`tarea
+1412`t19`t353`tstairs
+1437`t24`t121`t1. restaurant
+1474`t34`t121`t3. baby-changing facilities
+1436`t23`t531`t2. cafe
+1473`t23`t531`t4. cloakroom
+1469`t23`t799`t5. toilets
+1538`t26`t549`tDorojangizni oniqlash uchun. mytests.uz
+1653`t9`t1022`tScanned With

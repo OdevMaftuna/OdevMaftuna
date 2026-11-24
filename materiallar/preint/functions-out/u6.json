@@ -1,0 +1,1072 @@
+{
+ "unit": 6,
+ "parts": [
+  [
+   {
+    "kind": "abc",
+    "q": "Ali: Shall we go to the cinema tonight?\nVali: That sounds ______ a great idea.",
+    "hint": "",
+    "options": [
+     "like",
+     "as",
+     "for"
+    ],
+    "answer": "like",
+    "accept": [],
+    "phrase": "That sounds like a great idea.",
+    "explain": "«That sounds like + ot» — «...ga o'xshaydi». Ot (a great idea) oldidan «like» shart.",
+    "wrong": {
+     "as": "«sounds as a great idea» — xato tuzilma.",
+     "for": "«sounds for» — ingliz tilida bunday birikma yo'q."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Lola: Let's make a birthday card for our teacher!\nNodira: What a good ______!",
+    "hint": "",
+    "options": [
+     "idea",
+     "think",
+     "plan to"
+    ],
+    "answer": "idea",
+    "accept": [],
+    "phrase": "What a good idea!",
+    "explain": "«What a good idea!» — «Qanday yaxshi fikr!». «What a + sifat + ot».",
+    "wrong": {
+     "think": "«think» — fe'l, «What a good think» xato.",
+     "plan to": "«What a good plan to!» — gap tugallanmagan."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Jasur: Why don't we take the bus? It's faster.\nSardor: I ______ that idea.",
+    "hint": "",
+    "options": [
+     "like",
+     "agree",
+     "keen"
+    ],
+    "answer": "like",
+    "accept": [],
+    "phrase": "I like that idea.",
+    "explain": "«I like that idea» — «Bu fikr menga yoqadi».",
+    "wrong": {
+     "agree": "«I agree that idea» — xato; «agree with» bo'lishi kerak.",
+     "keen": "«I keen» — xato, «I'm keen on» bo'ladi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Madina: We can study together on Saturday, then go to the park on Sunday.\nZarina: That's a really good ______.",
+    "hint": "",
+    "options": [
+     "plan",
+     "idea of",
+     "think"
+    ],
+    "answer": "plan",
+    "accept": [],
+    "phrase": "That's a really good plan.",
+    "explain": "Bir necha qadamli taklif — «reja»: «That's a really good plan».",
+    "wrong": {
+     "idea of": "«a really good idea of» — gap tugallanmagan.",
+     "think": "«a good think» — ot sifatida ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Otabek: Do you fancy coming to the football match with me?\nAziz: Yes. Why ______?",
+    "hint": "",
+    "options": [
+     "not",
+     "no",
+     "don't"
+    ],
+    "answer": "not",
+    "accept": [],
+    "phrase": "Yes. Why not?",
+    "explain": "«Why not?» — «Nega endi yo'q?» — qisqa rozilik.",
+    "wrong": {
+     "no": "«Why no?» — grammatik xato.",
+     "don't": "«Why don't?» — to'liq emas, fe'l kerak."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Kamola: We could have a picnic by the river.\nShahlo: Great! Let's ______ that.",
+    "hint": "",
+    "options": [
+     "do",
+     "make",
+     "go"
+    ],
+    "answer": "do",
+    "accept": [],
+    "phrase": "Let's do that.",
+    "explain": "«Let's do that» — «Keling, shunday qilamiz». Fiksirlangan ibora.",
+    "wrong": {
+     "make": "«make that» — bu yerda ma'nosiz.",
+     "go": "«go that» — grammatik xato."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Bekzod: Let's go swimming in the sea in January.\nDilnoza: I'm not sure ______ that. It's too cold!",
+    "hint": "",
+    "options": [
+     "about",
+     "of",
+     "on"
+    ],
+    "answer": "about",
+    "accept": [],
+    "phrase": "I'm not sure about that.",
+    "explain": "«I'm not sure about that» — muloyim rad: «Bunga ishonchim yo'q».",
+    "wrong": {
+     "of": "«not sure of» — «ishonchim komil emas» (fakt haqida), taklifga javob iborasi «about».",
+     "on": "«sure on» — xato predlog."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Ilyos: Shall we walk through the forest at night?\nRustam: I don't ______ that's a great idea.",
+    "hint": "",
+    "options": [
+     "think",
+     "agree",
+     "like"
+    ],
+    "answer": "think",
+    "accept": [],
+    "phrase": "I don't think that's a great idea.",
+    "explain": "«I don't think that's a great idea» — muloyim rad.",
+    "wrong": {
+     "agree": "«I don't agree that's a great idea» — iboraga mos emas.",
+     "like": "«I don't like that's a great idea» — grammatik xato."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Sevara: Why don't we eat at the new fast-food café?\nMohira: I'm not very ______ on that idea. I want something healthy.",
+    "hint": "",
+    "options": [
+     "keen",
+     "fond",
+     "happy"
+    ],
+    "answer": "keen",
+    "accept": [],
+    "phrase": "I'm not very keen on that idea.",
+    "explain": "«keen on» — «yoqtirmoq». «I'm not very keen on that idea» — «unchalik yoqmayapti».",
+    "wrong": {
+     "fond": "«fond of» bo'ladi, «on» bilan emas.",
+     "happy": "«happy on» — xato predlog; «happy with» bo'lardi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Javohir: Do you want to sing at the school concert?\nFarrux: I'd ______ not. I'm too shy.",
+    "hint": "",
+    "options": [
+     "rather",
+     "prefer",
+     "better"
+    ],
+    "answer": "rather",
+    "accept": [],
+    "phrase": "I'd rather not.",
+    "explain": "«I'd rather not» — «Yaxshisi, yo'q».",
+    "wrong": {
+     "prefer": "«I'd prefer not» ham bor, lekin kitobdagi ibora — «I'd rather not».",
+     "better": "«I'd better not» — «qilmaganim ma'qul» (o'zimga maslahat), taklifni rad etish iborasi emas."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Malika: Do you want tea or coffee?\nGulnora: I don't ______. Either is OK.",
+    "hint": "",
+    "options": [
+     "mind",
+     "care of",
+     "matter"
+    ],
+    "answer": "mind",
+    "accept": [],
+    "phrase": "I don't mind.",
+    "explain": "«I don't mind» — «Men uchun farqi yo'q».",
+    "wrong": {
+     "care of": "«care of» — xato birikma.",
+     "matter": "«I don't matter» — «men muhim emasman» degan ma'no."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Anvar: We can go by train or by car.\nTimur: ______ suggestion is fine by me.",
+    "hint": "",
+    "options": [
+     "Either",
+     "Both",
+     "All"
+    ],
+    "answer": "Either",
+    "accept": [],
+    "phrase": "Either suggestion is fine by me.",
+    "explain": "«Either + birlik ot» — «qaysi biri bo'lsa ham». «suggestion» birlikda.",
+    "wrong": {
+     "Both": "«Both» dan keyin ko'plik kerak (both suggestions are).",
+     "All": "«All» — ikkidan ortiq narsa uchun va ko'plik bilan."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Feruza: Shall we go to the zoo or to the museum?\nAsal: They're ______ good ideas.",
+    "hint": "",
+    "options": [
+     "both",
+     "either",
+     "all"
+    ],
+    "answer": "both",
+    "accept": [],
+    "phrase": "They're both good ideas.",
+    "explain": "«They're both good ideas» — «ikkalasi ham yaxshi».",
+    "wrong": {
+     "either": "«They're either good ideas» — xato.",
+     "all": "«all» — ikki narsa haqida ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Diyor: Let's paint the classroom in bright colours!\nSamira: That sounds like a ______ idea.",
+    "hint": "",
+    "options": [
+     "great",
+     "greatly",
+     "greatness"
+    ],
+    "answer": "great",
+    "accept": [],
+    "phrase": "That sounds like a great idea.",
+    "explain": "«a + sifat + idea» — sifat kerak: great.",
+    "wrong": {
+     "greatly": "«greatly» — ravish.",
+     "greatness": "«greatness» — ot."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Akmal: Why don't we invite the new student to our party?\nNilufar: What a ______ idea! She'll be so happy.",
+    "hint": "",
+    "options": [
+     "good",
+     "well",
+     "bad"
+    ],
+    "answer": "good",
+    "accept": [],
+    "phrase": "What a good idea!",
+    "explain": "«What a good idea!» — ijobiy javob; keyingi gap ham ijobiy.",
+    "wrong": {
+     "well": "«well» — ravish, otdan oldin sifat kerak.",
+     "bad": "Keyingi «She'll be so happy» ijobiy fikrni ko'rsatadi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Odil: Shall we play basketball after school?\nSanjar: Yes, why not? Let's ______ that.",
+    "hint": "",
+    "options": [
+     "do",
+     "doing",
+     "to do"
+    ],
+    "answer": "do",
+    "accept": [],
+    "phrase": "Let's do that.",
+    "explain": "«Let's + fe'l (to'g'ri shakl)» — «Let's do that».",
+    "wrong": {
+     "doing": "«Let's doing» — xato.",
+     "to do": "«Let's to do» — xato, «to» qo'yilmaydi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Ziyoda: Let's cut our hair really short!\nNigora: I'm not sure about ______. My mum won't like it.",
+    "hint": "",
+    "options": [
+     "that",
+     "it's",
+     "this is"
+    ],
+    "answer": "that",
+    "accept": [],
+    "phrase": "I'm not sure about that.",
+    "explain": "«I'm not sure about that» — «that» taklifni bildiradi.",
+    "wrong": {
+     "it's": "«about it's» — grammatik xato.",
+     "this is": "«about this is» — grammatik xato."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Bobur: Shall we watch the match at my house or at the café?\nKamron: I don't mind. They're both good ______.",
+    "hint": "",
+    "options": [
+     "ideas",
+     "idea",
+     "plan"
+    ],
+    "answer": "ideas",
+    "accept": [],
+    "phrase": "They're both good ideas.",
+    "explain": "«both» — ko'plik, shuning uchun «ideas».",
+    "wrong": {
+     "idea": "«both good idea» — ko'plik kerak.",
+     "plan": "«both good plan» — ko'plik kerak va ibora «ideas»."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Laylo: Do you want to try bungee jumping with me?\nAziza: Er… I'd rather ______. It looks scary!",
+    "hint": "",
+    "options": [
+     "not",
+     "no",
+     "don't"
+    ],
+    "answer": "not",
+    "accept": [],
+    "phrase": "I'd rather not.",
+    "explain": "«I'd rather not» — «Yaxshisi yo'q».",
+    "wrong": {
+     "no": "«I'd rather no» — xato.",
+     "don't": "«I'd rather don't» — xato."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Shahzod: We could go camping this weekend.\nIslom: I ______ that idea! I love camping.",
+    "hint": "",
+    "options": [
+     "like",
+     "mind",
+     "fancy on"
+    ],
+    "answer": "like",
+    "accept": [],
+    "phrase": "I like that idea.",
+    "explain": "«I like that idea» — keyingi «I love camping» rozilikni ko'rsatadi.",
+    "wrong": {
+     "mind": "«I mind that idea» — «e'tirozim bor», ma'no teskari.",
+     "fancy on": "«fancy on» — xato birikma."
+    }
+   }
+  ],
+  [
+   {
+    "kind": "word",
+    "q": "Martin: What do you want to do on Saturday?\nSophie: ______ we go to the new shopping centre?",
+    "hint": "either · fancy · keen · let's · not · plan · shall · sure · what · why",
+    "options": [],
+    "answer": "Shall",
+    "accept": [],
+    "phrase": "That sounds like a great idea.",
+    "explain": "«Shall we ...?» — taklif berish; savol «Shall» bilan boshlanadi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Sophie: Let's go to the beach.\nMartin: I'm not ______ about that. It might rain.",
+    "hint": "either · fancy · keen · let's · not · plan · shall · sure · what · why",
+    "options": [],
+    "answer": "sure",
+    "accept": [],
+    "phrase": "I'm not sure about that.",
+    "explain": "«I'm not sure about that» — muloyim rad.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Martin: Shall we have lunch at the market or at home?\nSophie: ______ suggestion is fine by me.",
+    "hint": "either · fancy · keen · let's · not · plan · shall · sure · what · why",
+    "options": [],
+    "answer": "Either",
+    "accept": [],
+    "phrase": "Either suggestion is fine by me.",
+    "explain": "«Either suggestion is fine by me» — farqi yo'q.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Sophie: ______ don't we take some photos by the lake?\nMartin: Good idea.",
+    "hint": "either · fancy · keen · let's · not · plan · shall · sure · what · why",
+    "options": [],
+    "answer": "Why",
+    "accept": [],
+    "phrase": "Yes. Why not?",
+    "explain": "«Why don't we ...?» — taklif.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Martin: Let's eat at that expensive restaurant.\nSophie: I'm not very ______ on that idea.",
+    "hint": "either · fancy · keen · let's · not · plan · shall · sure · what · why",
+    "options": [],
+    "answer": "keen",
+    "accept": [],
+    "phrase": "I'm not very keen on that idea.",
+    "explain": "«not very keen on that idea» — unchalik yoqmayapti.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Sophie: First the museum, then lunch, then the park.\nMartin: That's a really good ______.",
+    "hint": "either · fancy · keen · let's · not · plan · shall · sure · what · why",
+    "options": [],
+    "answer": "plan",
+    "accept": [],
+    "phrase": "That's a really good plan.",
+    "explain": "Bir necha qadam — «reja»: «That's a really good plan».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Martin: Do you ______ going to a concert tonight?\nSophie: Yes, I'd love to.",
+    "hint": "either · fancy · keen · let's · not · plan · shall · sure · what · why",
+    "options": [],
+    "answer": "fancy",
+    "accept": [],
+    "phrase": "Yes. Why not?",
+    "explain": "«Do you fancy + V-ing?» — taklif.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Sophie: We could visit my grandma tomorrow.\nMartin: ______ a good idea! She'll be pleased.",
+    "hint": "either · fancy · keen · let's · not · plan · shall · sure · what · why",
+    "options": [],
+    "answer": "What",
+    "accept": [],
+    "phrase": "What a good idea!",
+    "explain": "«What a good idea!» — hayajonli rozilik.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Martin: Let's go on the big wheel!\nSophie: I'd rather ______. I'm scared of heights.",
+    "hint": "either · fancy · keen · let's · not · plan · shall · sure · what · why",
+    "options": [],
+    "answer": "not",
+    "accept": [],
+    "phrase": "I'd rather not.",
+    "explain": "«I'd rather not» — «Yaxshisi yo'q».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Sophie: The weather is lovely. Let's walk.\nMartin: OK, ______ do that.",
+    "hint": "either · fancy · keen · let's · not · plan · shall · sure · what · why",
+    "options": [],
+    "answer": "let's",
+    "accept": [],
+    "phrase": "Let's do that.",
+    "explain": "«Let's do that» — qarorni yakunlash.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Aziz: Shall we go by bus?\nDoniyor: Yes. Why ______?",
+    "hint": "",
+    "options": [],
+    "answer": "not",
+    "accept": [],
+    "phrase": "Yes. Why not?",
+    "explain": "«Yes. Why not?» — qisqa rozilik.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Malika: Pizza or pasta for dinner?\nSevinch: I don't ______. I like both.",
+    "hint": "",
+    "options": [],
+    "answer": "mind",
+    "accept": [],
+    "phrase": "I don't mind.",
+    "explain": "«I don't mind» — «farqi yo'q».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Kamol: Let's organise a football match with the other class.\nSardor: That ______ like a great idea!",
+    "hint": "",
+    "options": [],
+    "answer": "sounds",
+    "accept": [],
+    "phrase": "That sounds like a great idea.",
+    "explain": "«That sounds like a great idea» — fe'l «sounds».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Lola: Let's skip breakfast and go straight to school.\nRayhona: I don't think that's a great ______. You'll be hungry.",
+    "hint": "",
+    "options": [],
+    "answer": "idea",
+    "accept": [],
+    "phrase": "I don't think that's a great idea.",
+    "explain": "«I don't think that's a great idea» — muloyim rad.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Teacher: You can write about sport or about music.\nStudent: They're ______ good ideas. I can't choose!",
+    "hint": "",
+    "options": [],
+    "answer": "both",
+    "accept": [],
+    "phrase": "They're both good ideas.",
+    "explain": "«They're both good ideas» — ikkalasi ham yaxshi.",
+    "wrong": {}
+   }
+  ],
+  [
+   {
+    "kind": "abctext",
+    "q": "Message from Jasur: Hey! Some of us are going to the mountains on Sunday. Do you want to come? — Reply: That sounds ______ a great idea! What time are you leaving?",
+    "hint": "",
+    "options": [
+     "like",
+     "as",
+     "so"
+    ],
+    "answer": "like",
+    "accept": [],
+    "phrase": "That sounds like a great idea.",
+    "explain": "«sounds like + ot» — taklifni qabul qilish.",
+    "wrong": {
+     "as": "«sounds as» — xato.",
+     "so": "«sounds so a great idea» — xato."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Group chat: Nodir: “Let's buy a present for Mrs Karimova together.” Laylo: “______ a good idea! I can collect the money.”",
+    "hint": "",
+    "options": [
+     "What",
+     "How",
+     "Such"
+    ],
+    "answer": "What",
+    "accept": [],
+    "phrase": "What a good idea!",
+    "explain": "«What a + sifat + ot!» — hayajonli rozilik.",
+    "wrong": {
+     "How": "«How a good idea» — xato; «How good!» bo'lardi.",
+     "Such": "«Such a good idea!» ham bor, lekin kitob iborasi «What a good idea!»."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Diary: My brother suggested going to the aquapark. I said, “I'd rather ______,” because I had a cold.",
+    "hint": "",
+    "options": [
+     "not",
+     "no",
+     "never"
+    ],
+    "answer": "not",
+    "accept": [],
+    "phrase": "I'd rather not.",
+    "explain": "«I'd rather not» — kasal bo'lgani uchun rad etdi.",
+    "wrong": {
+     "no": "«I'd rather no» — xato.",
+     "never": "«I'd rather never» — iboraga mos emas."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Email: Mum asked if we want to eat at home or go out. Honestly, I don't ______ — I'm just hungry!",
+    "hint": "",
+    "options": [
+     "mind",
+     "care",
+     "matter"
+    ],
+    "answer": "mind",
+    "accept": [],
+    "phrase": "I don't mind.",
+    "explain": "«I don't mind» — farqi yo'q.",
+    "wrong": {
+     "care": "«I don't care» — qo'polroq eshitiladi, kitob iborasi «I don't mind».",
+     "matter": "«I don't matter» — ma'nosiz."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Class blog: Our teacher asked us to choose between a trip to the science museum and a trip to the theatre. Most of us said, “They're ______ good ideas!”",
+    "hint": "",
+    "options": [
+     "both",
+     "either",
+     "each"
+    ],
+    "answer": "both",
+    "accept": [],
+    "phrase": "They're both good ideas.",
+    "explain": "«both» — ikkalasi ham.",
+    "wrong": {
+     "either": "«They're either good ideas» — xato.",
+     "each": "«They're each good ideas» — g'ayritabiiy."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Story: When Rustam said we should climb the old tower, I said, “I'm not ______ keen on that idea.” It looked dangerous.",
+    "hint": "",
+    "options": [
+     "very",
+     "much",
+     "so much"
+    ],
+    "answer": "very",
+    "accept": [],
+    "phrase": "I'm not very keen on that idea.",
+    "explain": "«I'm not very keen on» — sifat oldidan «very».",
+    "wrong": {
+     "much": "«not much keen» — xato.",
+     "so much": "«not so much keen» — xato."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Message: “Shall we meet at 5 or at 6?” — “______ suggestion is fine by me. I'm free all evening.”",
+    "hint": "",
+    "options": [
+     "Either",
+     "Both",
+     "Any"
+    ],
+    "answer": "Either",
+    "accept": [],
+    "phrase": "Either suggestion is fine by me.",
+    "explain": "Ikki variantdan istalgani — «Either».",
+    "wrong": {
+     "Both": "«Both suggestion» — ko'plik kerak bo'lardi.",
+     "Any": "«Any suggestion» — ikki narsa uchun «either» to'g'ri."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Holiday plan: Day 1 — the old city. Day 2 — the beach. Day 3 — shopping. Dad looked at it and said, “That's a really good ______.”",
+    "hint": "",
+    "options": [
+     "plan",
+     "idea of",
+     "suggest"
+    ],
+    "answer": "plan",
+    "accept": [],
+    "phrase": "That's a really good plan.",
+    "explain": "Kunlar bo'yicha reja — «plan».",
+    "wrong": {
+     "idea of": "Tugallanmagan.",
+     "suggest": "«suggest» — fe'l."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Chat: Ben: “Let's go skating after school.” Me: “Yes. Why ______? I haven't skated for ages.”",
+    "hint": "",
+    "options": [
+     "not",
+     "no",
+     "yes"
+    ],
+    "answer": "not",
+    "accept": [],
+    "phrase": "Yes. Why not?",
+    "explain": "«Yes. Why not?» — rozilik.",
+    "wrong": {
+     "no": "«Why no?» — xato.",
+     "yes": "«Why yes?» — ma'nosiz."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Note: Aunt Zulfiya suggested a picnic. Everyone agreed and Grandpa said, “Let's ______ that!”",
+    "hint": "",
+    "options": [
+     "do",
+     "make",
+     "have to"
+    ],
+    "answer": "do",
+    "accept": [],
+    "phrase": "Let's do that.",
+    "explain": "«Let's do that» — qaror.",
+    "wrong": {
+     "make": "«Let's make that» — ma'nosiz.",
+     "have to": "«Let's have to that» — xato."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Message: “Why don't we stay up all night and watch films?” — “I don't think that's a ______ idea. We have an exam tomorrow.”",
+    "hint": "",
+    "options": [
+     "great",
+     "greatly",
+     "greater"
+    ],
+    "answer": "great",
+    "accept": [],
+    "phrase": "I don't think that's a great idea.",
+    "explain": "Rad: «I don't think that's a great idea» — sabab: imtihon.",
+    "wrong": {
+     "greatly": "Ravish, otdan oldin ishlatilmaydi.",
+     "greater": "Qiyosiy daraja, ma'noga mos emas."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Story: Sara wanted to dye her hair green. Her mum said, “I'm not sure ______ that, darling.”",
+    "hint": "",
+    "options": [
+     "about",
+     "for",
+     "with"
+    ],
+    "answer": "about",
+    "accept": [],
+    "phrase": "I'm not sure about that.",
+    "explain": "«not sure about» — muloyim rad.",
+    "wrong": {
+     "for": "Xato predlog.",
+     "with": "Xato predlog."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "School news: When the head teacher suggested a new library, all the students said, “We ______ that idea!”",
+    "hint": "",
+    "options": [
+     "like",
+     "likes",
+     "liking"
+    ],
+    "answer": "like",
+    "accept": [],
+    "phrase": "I like that idea.",
+    "explain": "«We like that idea» — «I like that idea» qolipi, ko'plikda.",
+    "wrong": {
+     "likes": "«We likes» — xato.",
+     "liking": "«We liking» — xato."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Chat: “Football or volleyball?” — “I don't mind. Either ______ is fine by me.”",
+    "hint": "",
+    "options": [
+     "suggestion",
+     "suggestions",
+     "suggest"
+    ],
+    "answer": "suggestion",
+    "accept": [],
+    "phrase": "Either suggestion is fine by me.",
+    "explain": "«Either» + birlik ot.",
+    "wrong": {
+     "suggestions": "Ko'plik — xato.",
+     "suggest": "Fe'l — xato."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Diary: Ali suggested going fishing at 5 a.m. To be honest, I'm not very keen ______ that idea — I love sleeping!",
+    "hint": "",
+    "options": [
+     "on",
+     "in",
+     "of"
+    ],
+    "answer": "on",
+    "accept": [],
+    "phrase": "I'm not very keen on that idea.",
+    "explain": "«keen on» — doim «on».",
+    "wrong": {
+     "in": "Xato predlog.",
+     "of": "Xato predlog («fond of» bilan adashtirmang)."
+    }
+   }
+  ]
+ ],
+ "guide": {
+  "topics": [
+   {
+    "name": "Accepting a suggestion",
+    "name_uz": "Taklifni qabul qilish",
+    "summary": "Do'stingiz «Shall we ...? / Why don't we ...?» deb taklif qilsa, rozilikni shu iboralar bilan bildirasiz.",
+    "usage": [
+     {
+      "text": "That sounds like a great idea. — «Bu ajoyib fikrga o'xshaydi». «sounds like + ot».",
+      "example": {
+       "en": "A: Shall we go to the beach? B: That sounds like a great idea.",
+       "uz": "A: Plyajga boramizmi? B: Ajoyib fikr."
+      }
+     },
+     {
+      "text": "What a good idea! — «Qanday yaxshi fikr!». Hayajon bilan, oxirida «!».",
+      "example": {
+       "en": "A: Let's make a cake for Mum. B: What a good idea!",
+       "uz": "A: Oyimga tort pishiraylik. B: Qanday yaxshi fikr!"
+      }
+     },
+     {
+      "text": "I like that idea. — «Bu fikr menga yoqadi».",
+      "example": {
+       "en": "A: Why don't we cycle there? B: I like that idea.",
+       "uz": "A: U yerga velosipedda boraylikmi? B: Fikr yoqdi."
+      }
+     },
+     {
+      "text": "That's a really good plan. — «Bu juda yaxshi reja».",
+      "example": {
+       "en": "A: We can leave at 8 and be there by 10. B: That's a really good plan.",
+       "uz": "A: 8 da chiqsak, 10 gacha yetamiz. B: Juda yaxshi reja."
+      }
+     },
+     {
+      "text": "Yes. Why not? — «Ha, nega endi yo'q?». Qisqa, oddiy rozilik.",
+      "example": {
+       "en": "A: Do you fancy a pizza? B: Yes. Why not?",
+       "uz": "A: Pitsa yeymizmi? B: Ha, nega yo'q?"
+      }
+     },
+     {
+      "text": "Let's do that. — «Keling, shunday qilamiz». Qarorni yakunlaydi.",
+      "example": {
+       "en": "A: We could visit the museum first. B: OK, let's do that.",
+       "uz": "A: Avval muzeyga borsak bo'ladi. B: Mayli, shunday qilamiz."
+      }
+     }
+    ],
+    "structure": [
+     {
+      "type": "+",
+      "formula": "That sounds like + a/an + sifat + idea",
+      "example": {
+       "en": "That sounds like a fun idea.",
+       "uz": "Qiziqarli fikrga o'xshaydi."
+      }
+     },
+     {
+      "type": "+",
+      "formula": "What a + sifat + idea!",
+      "example": {
+       "en": "What a great idea!",
+       "uz": "Qanday zo'r fikr!"
+      }
+     },
+     {
+      "type": "short",
+      "formula": "Yes. Why not? / Let's do that.",
+      "example": {
+       "en": "Yes. Why not?",
+       "uz": "Ha, nega yo'q?"
+      }
+     }
+    ],
+    "signals": [
+     {
+      "en": "sounds like",
+      "uz": "...ga o'xshaydi"
+     },
+     {
+      "en": "What a ...!",
+      "uz": "Qanday ...!"
+     },
+     {
+      "en": "plan",
+      "uz": "reja"
+     },
+     {
+      "en": "Why not?",
+      "uz": "Nega yo'q?"
+     }
+    ],
+    "tip": "«That sounds a great idea» emas — «sounds» dan keyin ot kelsa, «like» shart: «That sounds like a great idea»."
+   },
+   {
+    "name": "Declining a suggestion",
+    "name_uz": "Taklifni rad etish",
+    "summary": "Taklif yoqmasa, qo'pol «No!» demasdan, muloyim rad etish iboralari ishlatiladi.",
+    "usage": [
+     {
+      "text": "I'm not sure about that. — «Bunga unchalik ishonchim yo'q». Eng yumshoq rad.",
+      "example": {
+       "en": "A: Let's swim in the lake. B: I'm not sure about that. It's cold.",
+       "uz": "A: Ko'lda suzaylik. B: Bilmadim, sovuq."
+      }
+     },
+     {
+      "text": "I don't think that's a great idea. — «Menimcha, bu unchalik yaxshi fikr emas».",
+      "example": {
+       "en": "A: Shall we walk home? B: I don't think that's a great idea. It's dark.",
+       "uz": "A: Uyga piyoda boramizmi? B: Yaxshi fikr emas, qorong'i."
+      }
+     },
+     {
+      "text": "I'm not very keen on that idea. — «Bu fikr menga unchalik yoqmayapti». «keen on» bilan.",
+      "example": {
+       "en": "A: Why don't we watch a horror film? B: I'm not very keen on that idea.",
+       "uz": "A: Qo'rqinchli film ko'raylikmi? B: Unchalik yoqmayapti."
+      }
+     },
+     {
+      "text": "I'd rather not. — «Yaxshisi, yo'q». Qisqa javob, keyin fe'l kelmaydi.",
+      "example": {
+       "en": "A: Do you want to try the spicy soup? B: I'd rather not.",
+       "uz": "A: Achchiq sho'rvani tatib ko'rasanmi? B: Yaxshisi yo'q."
+      }
+     }
+    ],
+    "structure": [
+     {
+      "type": "-",
+      "formula": "I'm not sure about + that / ot",
+      "example": {
+       "en": "I'm not sure about the price.",
+       "uz": "Narxiga ishonchim yo'q."
+      }
+     },
+     {
+      "type": "-",
+      "formula": "I'm not very keen on + that idea / V-ing",
+      "example": {
+       "en": "I'm not very keen on flying.",
+       "uz": "Uchishni unchalik yoqtirmayman."
+      }
+     },
+     {
+      "type": "short",
+      "formula": "I'd rather not.",
+      "example": {
+       "en": "I'd rather not, thanks.",
+       "uz": "Yaxshisi yo'q, rahmat."
+      }
+     }
+    ],
+    "signals": [
+     {
+      "en": "not sure about",
+      "uz": "ishonchim yo'q"
+     },
+     {
+      "en": "not very keen on",
+      "uz": "unchalik yoqmaydi"
+     },
+     {
+      "en": "I'd rather not",
+      "uz": "yaxshisi yo'q"
+     }
+    ],
+    "tip": "Rad etgandan keyin qisqa sabab aytsangiz, gap yanada muloyim chiqadi: «I'd rather not. I'm tired.»"
+   },
+   {
+    "name": "Expressing no preference",
+    "name_uz": "Farqi yo'qligini bildirish",
+    "summary": "Ikki taklif ham sizga baribir bo'lsa, shu iboralarni aytasiz.",
+    "usage": [
+     {
+      "text": "I don't mind. — «Men uchun farqi yo'q».",
+      "example": {
+       "en": "A: Pizza or burgers? B: I don't mind.",
+       "uz": "A: Pitsami, burgermi? B: Farqi yo'q."
+      }
+     },
+     {
+      "text": "Either suggestion is fine by me. — «Ikkala taklif ham menga ma'qul». «Either» dan keyin birlik ot.",
+      "example": {
+       "en": "A: The bus or the train? B: Either suggestion is fine by me.",
+       "uz": "A: Avtobusmi, poyezdmi? B: Ikkalasi ham ma'qul."
+      }
+     },
+     {
+      "text": "They're both good ideas. — «Ikkalasi ham yaxshi fikr». «both» — ko'plik.",
+      "example": {
+       "en": "A: Cinema or bowling? B: They're both good ideas.",
+       "uz": "A: Kinomi, boulingmi? B: Ikkalasi ham yaxshi fikr."
+      }
+     }
+    ],
+    "structure": [
+     {
+      "type": "+",
+      "formula": "Either + birlik ot + is fine by me",
+      "example": {
+       "en": "Either day is fine by me.",
+       "uz": "Ikkala kun ham menga to'g'ri keladi."
+      }
+     },
+     {
+      "type": "+",
+      "formula": "They're both + sifat + ideas",
+      "example": {
+       "en": "They're both great ideas.",
+       "uz": "Ikkalasi ham zo'r fikr."
+      }
+     }
+    ],
+    "signals": [
+     {
+      "en": "I don't mind",
+      "uz": "farqi yo'q"
+     },
+     {
+      "en": "either",
+      "uz": "ikkalasidan biri, qaysi biri bo'lsa ham"
+     },
+     {
+      "en": "both",
+      "uz": "ikkalasi ham"
+     },
+     {
+      "en": "fine by me",
+      "uz": "menga ma'qul"
+     }
+    ],
+    "tip": "«Either suggestions are» — xato. «Either» dan keyin birlik: «Either suggestion is fine by me»."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "That sounds a great idea.",
+    "right": "That sounds like a great idea.",
+    "why": "«sound» dan keyin ot kelsa, «like» kerak."
+   },
+   {
+    "wrong": "What a good idea.",
+    "right": "What a good idea!",
+    "why": "Bu hayajon gapi — oxirida undov belgisi qo'yiladi (yozuvda)."
+   },
+   {
+    "wrong": "I'm not very keen in that idea.",
+    "right": "I'm not very keen on that idea.",
+    "why": "«keen» doim «on» bilan."
+   },
+   {
+    "wrong": "I'd rather not to go.",
+    "right": "I'd rather not go. / I'd rather not.",
+    "why": "«I'd rather» dan keyin «to» qo'yilmaydi."
+   },
+   {
+    "wrong": "Either suggestions are fine by me.",
+    "right": "Either suggestion is fine by me.",
+    "why": "«Either» + birlik ot + is."
+   }
+  ]
+ }
+}

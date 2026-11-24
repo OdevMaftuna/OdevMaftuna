@@ -1,0 +1,1394 @@
+{
+ "unit": 8,
+ "parts": [
+  [
+   {
+    "kind": "rewrite",
+    "q": "Tim said, «I love playing football.» → Tim said that ______",
+    "hint": "",
+    "options": [],
+    "answer": "he loved playing football",
+    "accept": [],
+    "explain": "To'g'ridan-to'g'ri nutqdagi Present Simple zamoni o'tgan zamonga ko'chadi, shuning uchun 'loved' ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Asal said, «My brother is reading a book.» → Asal told me that ______",
+    "hint": "",
+    "options": [],
+    "answer": "her brother was reading a book",
+    "accept": [],
+    "explain": "Present Continuous zamoni Past Continuous zamoniga o'zgaradi ('was reading') va egalik olmoshi o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Jamshid said, «We cleaned our room.» → Jamshid said that ______",
+    "hint": "",
+    "options": [],
+    "answer": "they had cleaned their room",
+    "accept": [],
+    "explain": "Past Simple zamoni Past Perfect zamoniga o'zgaradi ('had cleaned') va 'we' olmoshi 'they' bo'ladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Madina said, «I will visit Samarkand tomorrow.» → Madina said that ______",
+    "hint": "",
+    "options": [],
+    "answer": "she would visit Samarkand the next day",
+    "accept": [
+     "she would visit Samarkand following day",
+     "she would visit Samarkand tomorrow"
+    ],
+    "explain": "'Will' so'zi 'would' ga aylanadi va 'tomorrow' so'zi 'the next day' ga o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Aziz said, «I can speak English well.» → Aziz said that ______",
+    "hint": "",
+    "options": [],
+    "answer": "he could speak English well",
+    "accept": [],
+    "explain": "Modal fe'l 'can' so'zi reported speech'da 'could' ga o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Zarina said, «I have finished my homework.» → Zarina told me that ______",
+    "hint": "",
+    "options": [],
+    "answer": "she had finished her homework",
+    "accept": [],
+    "explain": "Present Perfect zamoni Past Perfect ga o'zgaradi ('had finished').",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Bobur said, «I am going to Tashkent.» → Bobur said that ______",
+    "hint": "",
+    "options": [],
+    "answer": "he was going to Tashkent",
+    "accept": [],
+    "explain": "Present Continuous zamoni Past Continuous ga o'zgaradi ('was going').",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Malika said, «I bought a new phone yesterday.» → Malika said that ______",
+    "hint": "",
+    "options": [],
+    "answer": "she had bought a new phone the previous day",
+    "accept": [
+     "she had bought a new phone yesterday"
+    ],
+    "explain": "Past Simple zamoni Past Perfect ga o'zgaradi ('had bought') va 'yesterday' so'zi o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Jasur said, «We must study hard for the exam.» → Jasur said that ______",
+    "hint": "",
+    "options": [],
+    "answer": "they had to study hard for the exam",
+    "accept": [
+     "they must study hard for the exam"
+    ],
+    "explain": "'Must' fe'li reported speech'da ko'pincha 'had to' ga o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Dilnoza said, «I don't like eating fish.» → Dilnoza said that ______",
+    "hint": "",
+    "options": [],
+    "answer": "she didn't like eating fish",
+    "accept": [
+     "she did not like eating fish"
+    ],
+    "explain": "Present Simple inkor shakli 'don't like' Past Simple inkoriga ('didn't like') o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Sardor said, «I am watching TV now.» → Sardor said that ______",
+    "hint": "",
+    "options": [],
+    "answer": "he was watching TV then",
+    "accept": [
+     "he was watching TV at that moment"
+    ],
+    "explain": "'Now' so'zi reported speech'da 'then' ga aylanadi va zamon o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Nargiza said, «My mother cooks delicious plov.» → Nargiza said that ______",
+    "hint": "",
+    "options": [],
+    "answer": "her mother cooked delicious plov",
+    "accept": [],
+    "explain": "Present Simple zamoni 'cooks' Past Simple zamoniga ('cooked') o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Rustam said, «I played tennis last week.» → Rustam told me that ______",
+    "hint": "",
+    "options": [],
+    "answer": "he had played tennis the previous week",
+    "accept": [
+     "he had played tennis last week"
+    ],
+    "explain": "Past Simple zamoni 'had played' ga o'zgaradi va 'last week' o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Shahnoza said, «We are having a party tonight.» → Shahnoza said that ______",
+    "hint": "",
+    "options": [],
+    "answer": "they were having a party that night",
+    "accept": [],
+    "explain": "'Tonight' so'zi 'that night' ga o'zgaradi va zamon moslashadi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Bekzod said, «I will help you tomorrow.» → Bekzod told me that ______",
+    "hint": "",
+    "options": [],
+    "answer": "he would help me the next day",
+    "accept": [
+     "he would help me tomorrow"
+    ],
+    "explain": "'Will' so'zi 'would' ga aylanadi va vaqt so'zi o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Gulnora said, «I live in a big house.» → Gulnora said that ______",
+    "hint": "",
+    "options": [],
+    "answer": "she lived in a big house",
+    "accept": [],
+    "explain": "Present Simple zamoni 'live' Past Simple zamoniga ('lived') o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Akmal said, «I saw a lion at the zoo.» → Akmal said that ______",
+    "hint": "",
+    "options": [],
+    "answer": "he had seen a lion at the zoo",
+    "accept": [],
+    "explain": "Past Simple zamoni 'saw' Past Perfect zamoniga ('had seen') o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Sevara said, «I may come to the party.» → Sevara said that ______",
+    "hint": "",
+    "options": [],
+    "answer": "she might come to the party",
+    "accept": [],
+    "explain": "Modal fe'l 'may' so'zi reported speech'da 'might' ga o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Otabek said, «My father is a doctor.» → Otabek said that ______",
+    "hint": "",
+    "options": [],
+    "answer": "his father was a doctor",
+    "accept": [],
+    "explain": "'Is' fe'li o'tgan zamonda 'was' ga o'zgaradi va egalik olmoshi moslashadi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Farzona said, «We are eating apples here.» → Farzona said that ______",
+    "hint": "",
+    "options": [],
+    "answer": "they were eating apples there",
+    "accept": [],
+    "explain": "'Here' so'zi reported speech'da 'there' ga o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Sanjar said, «I have already eaten lunch.» → Sanjar told me that ______",
+    "hint": "",
+    "options": [],
+    "answer": "he had already eaten lunch",
+    "accept": [],
+    "explain": "Present Perfect zamoni 'have eaten' Past Perfect zamoniga ('had eaten') o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Mohira said, «I don't know the answer.» → Mohira said that ______",
+    "hint": "",
+    "options": [],
+    "answer": "she didn't know the answer",
+    "accept": [
+     "she did not know the answer"
+    ],
+    "explain": "Present Simple inkor shakli 'don't know' Past Simple inkoriga ('didn't know') o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Umid said, «I will buy a new car next year.» → Umid said that ______",
+    "hint": "",
+    "options": [],
+    "answer": "he would buy a new car the following year",
+    "accept": [
+     "he would buy a new car next year"
+    ],
+    "explain": "'Next year' so'zi 'the following year' ga o'zgaradi va 'will' 'would' bo'ladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Zilola said, «I am tired today.» → Zilola said that ______",
+    "hint": "",
+    "options": [],
+    "answer": "she was tired that day",
+    "accept": [],
+    "explain": "'Today' so'zi 'that day' ga o'zgaradi va 'am' fe'li 'was' ga o'tadi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Ravshan said, «We won the football match.» → Ravshan said that ______",
+    "hint": "",
+    "options": [],
+    "answer": "they had won the football match",
+    "accept": [],
+    "explain": "Past Simple zamoni 'won' Past Perfect zamoniga ('had won') o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Komila said, «I can swim very fast.» → Komila said that ______",
+    "hint": "",
+    "options": [],
+    "answer": "she could swim very fast",
+    "accept": [],
+    "explain": "Modal fe'l 'can' so'zi reported speech'da 'could' ga o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Sherzod said, «My sister is studying in London.» → Sherzod said that ______",
+    "hint": "",
+    "options": [],
+    "answer": "his sister was studying in London",
+    "accept": [],
+    "explain": "Present Continuous zamoni Past Continuous ga ('was studying') o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Dildora said, «I woke up early this morning.» → Dildora told me that ______",
+    "hint": "",
+    "options": [],
+    "answer": "she had woken up early that morning",
+    "accept": [
+     "she had woken up early this morning"
+    ],
+    "explain": "Past Simple zamoni 'woke up' Past Perfect ga ('had woken up') o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Elbek said, «We are waiting for the bus.» → Elbek said that ______",
+    "hint": "",
+    "options": [],
+    "answer": "they were waiting for the bus",
+    "accept": [],
+    "explain": "Present Continuous zamoni Past Continuous ga ('were waiting') o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Nilufar said, «I wrote a letter yesterday.» → Nilufar said that ______",
+    "hint": "",
+    "options": [],
+    "answer": "she had written a letter the previous day",
+    "accept": [
+     "she had written a letter yesterday"
+    ],
+    "explain": "Past Simple zamoni 'wrote' Past Perfect ga ('had written') o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Mansur said, «I want to drink some water.» → Mansur said that ______",
+    "hint": "",
+    "options": [],
+    "answer": "he wanted to drink some water",
+    "accept": [],
+    "explain": "Present Simple zamoni 'want' Past Simple zamoniga ('wanted') o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Shahrizoda said, «I have lost my keys.» → Shahrizoda said that ______",
+    "hint": "",
+    "options": [],
+    "answer": "she had lost her keys",
+    "accept": [],
+    "explain": "Present Perfect zamoni 'have lost' Past Perfect ga ('had lost') o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Javohir said, «I will finish my project soon.» → Javohir said that ______",
+    "hint": "",
+    "options": [],
+    "answer": "he would finish his project soon",
+    "accept": [],
+    "explain": "'Will' so'zi reported speech'da 'would' ga aylanadi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Gulsanam said, «My friends are playing outside.» → Gulsanam said that ______",
+    "hint": "",
+    "options": [],
+    "answer": "her friends were playing outside",
+    "accept": [],
+    "explain": "Present Continuous zamoni Past Continuous ga ('were playing') o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Alisher said, «I was reading a magazine.» → Alisher told me that ______",
+    "hint": "",
+    "options": [],
+    "answer": "he had been reading a magazine",
+    "accept": [],
+    "explain": "Past Continuous zamoni Past Perfect Continuous zamoniga ('had been reading') o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Nigorxon said, «I like listening to music.» → Nigorxon said that ______",
+    "hint": "",
+    "options": [],
+    "answer": "she liked listening to music",
+    "accept": [],
+    "explain": "Present Simple zamoni 'like' Past Simple zamoniga ('liked') o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Sohib said, «We went to the museum last Friday.» → Sohib said that ______",
+    "hint": "",
+    "options": [],
+    "answer": "they had gone to the museum the previous Friday",
+    "accept": [
+     "they had gone to the museum last Friday"
+    ],
+    "explain": "Past Simple zamoni 'went' Past Perfect ga ('had gone') o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Malika said, «I must finish this task.» → Malika said that ______",
+    "hint": "",
+    "options": [],
+    "answer": "she had to finish that task",
+    "accept": [
+     "she must finish that task",
+     "she had to finish this task"
+    ],
+    "explain": "'Must' fe'li 'had to' ga o'zgaradi va 'this' so'zi 'that' bo'ladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Bohodir said, «I am reading an interesting book.» → Bohodir said that ______",
+    "hint": "",
+    "options": [],
+    "answer": "he was reading an interesting book",
+    "accept": [],
+    "explain": "Present Continuous zamoni Past Continuous ga ('was reading') o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Ziyoda said, «I will call you later.» → Ziyoda told me that ______",
+    "hint": "",
+    "options": [],
+    "answer": "she would call me later",
+    "accept": [],
+    "explain": "'Will' so'zi 'would' ga aylanadi va 'you' olmoshi 'me' ga o'zgaradi.",
+    "wrong": {}
+   }
+  ],
+  [
+   {
+    "kind": "verb",
+    "q": "Shavkat said, «I write emails to my friends.» \\ Shavkat said that he ______ (write) emails to his friends.",
+    "hint": "write",
+    "options": [],
+    "answer": "wrote",
+    "accept": [],
+    "explain": "Gapda fe'l zamoni orqaga siljiydi, shuning uchun Present Simple (write) Past Simple (wrote) ga o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Zuhra said, «My cat sleeps on the sofa.» \\ Zuhra told me that her cat ______ (sleep) on the sofa.",
+    "hint": "sleep",
+    "options": [],
+    "answer": "slept",
+    "accept": [],
+    "explain": "Gapda «sleep» fe'li bor, o'tgan zamonga moslashib «slept» bo'ladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Farruh said, «We play football after school.» \\ Farruh said that they ______ (play) football after school.",
+    "hint": "play",
+    "options": [],
+    "answer": "played",
+    "accept": [],
+    "explain": "Reported speech qoidasiga ko'ra Present Simple «played» shakliga o'tadi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Gulbahor said, «I drink green tea every morning.» \\ Gulbahor said that she ______ (drink) green tea every morning.",
+    "hint": "drink",
+    "options": [],
+    "answer": "drank",
+    "accept": [],
+    "explain": "Gapdagi «drink» fe'li o'tgan zamonda «drank» bo'lib o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Bakhtiyar said, «My brother works in a bank.» \\ Bakhtiyar said that his brother ______ (work) in a bank.",
+    "hint": "work",
+    "options": [],
+    "answer": "worked",
+    "accept": [],
+    "explain": "Tense backshift qoidasi bo'yicha «works» fe'li «worked» ga o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Adolat said, «I hate getting up early.» \\ Adolat told me that she ______ (hate) getting up early.",
+    "hint": "hate",
+    "options": [],
+    "answer": "hated",
+    "accept": [],
+    "explain": "Gapda «hate» fe'li bor, reported speechda u «hated» bo'ladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Okkos said, «We learn English at school.» \\ Okkos said that they ______ (learn) English at school.",
+    "hint": "learn",
+    "options": [],
+    "answer": "learned",
+    "accept": [
+     "learnt"
+    ],
+    "explain": "Zamonlar moslashuvi sababli «learn» fe'li «learned» ga o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Maftuna said, «I clean my room on Sundays.» \\ Maftuna said that she ______ (clean) her room on Sundays.",
+    "hint": "clean",
+    "options": [],
+    "answer": "cleaned",
+    "accept": [],
+    "explain": "Reported speech qoidasiga ko'ra «clean» fe'li Past Simple «cleaned» bo'ladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Ilhom said, «My father drives a blue car.» \\ Ilhom told me that his father ______ (drive) a blue car.",
+    "hint": "drive",
+    "options": [],
+    "answer": "drove",
+    "accept": [],
+    "explain": "Gapda «drive» fe'li bor, u o'tgan zamonda «drove» shaklini oladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Barno said, «I eat apples for breakfast.» \\ Barno said that she ______ (eat) apples for breakfast.",
+    "hint": "eat",
+    "options": [],
+    "answer": "ate",
+    "accept": [],
+    "explain": "Tense backshift qoidasiga ko'ra «eat» fe'li «ate» ga o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Doniyor said, «I am reading a story book.» \\ Doniyor said that he ______ (read) a story book.",
+    "hint": "read",
+    "options": [],
+    "answer": "was reading",
+    "accept": [],
+    "explain": "Present Continuous (am reading) Past Continuous (was reading) ga o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Zebo said, «My mother is cooking soup.» \\ Zebo told me that her mother ______ (cook) soup.",
+    "hint": "cook",
+    "options": [],
+    "answer": "was cooking",
+    "accept": [],
+    "explain": "Gapdagi «is cooking» birikmasi «was cooking» bo'lib o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Rustam said, «We are painting the walls.» \\ Rustam said that they ______ (paint) the walls.",
+    "hint": "paint",
+    "options": [],
+    "answer": "were painting",
+    "accept": [],
+    "explain": "Reported speech paytida «are painting» so'zi «were painting» ga o'tadi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Nodira said, «I am cleaning my desk.» \\ Nodira said that she ______ (clean) her desk.",
+    "hint": "clean",
+    "options": [],
+    "answer": "was cleaning",
+    "accept": [],
+    "explain": "Zamonlar moslashuviga ko'ra «am cleaning» o'rniga «was cleaning» yoziladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Javlon said, «The boys are playing basketball.» \\ Javlon told me that the boys ______ (play) basketball.",
+    "hint": "play",
+    "options": [],
+    "answer": "were playing",
+    "accept": [],
+    "explain": "Gapdagi «are playing» fe'li «were playing» shakliga o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Gulchehra said, «I am wearing a red dress.» \\ Gulchehra said that she ______ (wear) a red dress.",
+    "hint": "wear",
+    "options": [],
+    "answer": "was wearing",
+    "accept": [],
+    "explain": "Present Continuous zamoni Past Continuous ga o'zgarib «was wearing» bo'ladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Anvar said, «We are waiting for the teacher.» \\ Anvar said that they ______ (wait) for the teacher.",
+    "hint": "wait",
+    "options": [],
+    "answer": "were waiting",
+    "accept": [],
+    "explain": "Gapdagi «are waiting» fe'li o'tgan zamonda «were waiting» bo'ladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Laylo said, «I am listening to the radio.» \\ Laylo told me that she ______ (listen) to the radio.",
+    "hint": "listen",
+    "options": [],
+    "answer": "was listening",
+    "accept": [],
+    "explain": "Tense backshift qoidasiga ko'ra «am listening» fe'li «was listening» bo'ladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Temur said, «My dog is running in the yard.» \\ Temur said that his dog ______ (run) in the yard.",
+    "hint": "run",
+    "options": [],
+    "answer": "was running",
+    "accept": [],
+    "explain": "Gapdagi «is running» fe'li o'tgan zamonda «was running» shaklini oladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Madina said, «I am learning new words.» \\ Madina said that she ______ (learn) new words.",
+    "hint": "learn",
+    "options": [],
+    "answer": "was learning",
+    "accept": [
+     "was learnt"
+    ],
+    "explain": "Reported speech qoidasiga ko'ra «am learning» birikmasi «was learning» bo'ladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Sherzod said, «I visited my grandparents yesterday.» \\ Sherzod said that he ______ (visit) his grandparents the day before.",
+    "hint": "visit",
+    "options": [],
+    "answer": "had visited",
+    "accept": [
+     "visited"
+    ],
+    "explain": "Past Simple (visited) Past Perfect (had visited) ga o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Feruza said, «We bought a new computer last week.» \\ Feruza told me that they ______ (buy) a new computer the previous week.",
+    "hint": "buy",
+    "options": [],
+    "answer": "had bought",
+    "accept": [
+     "bought"
+    ],
+    "explain": "Gapdagi «bought» fe'li Past Perfect zamonida «had bought» bo'ladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Sardor said, «I lost my pen at school.» \\ Sardor said that he ______ (lose) his pen at school.",
+    "hint": "lose",
+    "options": [],
+    "answer": "had lost",
+    "accept": [
+     "lost"
+    ],
+    "explain": "Tense backshift qoidasi bo'yicha «lost» fe'li «had lost» ga o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Dilbar said, «My sister cooked dinner.» \\ Dilbar said that her sister ______ (cook) dinner.",
+    "hint": "cook",
+    "options": [],
+    "answer": "had cooked",
+    "accept": [
+     "cooked"
+    ],
+    "explain": "Past Simple zamoni reported speechda «had cooked» bo'lib o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Ulugbek said, «We watched an interesting film.» \\ Ulugbek told me that they ______ (watch) an interesting film.",
+    "hint": "watch",
+    "options": [],
+    "answer": "had watched",
+    "accept": [
+     "watched"
+    ],
+    "explain": "Gapdagi «watched» fe'li o'tgan zamon o'rniga «had watched» bo'lib o'tadi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Zulfiya said, «I finished my test early.» \\ Zulfiya said that she ______ (finish) her test early.",
+    "hint": "finish",
+    "options": [],
+    "answer": "had finished",
+    "accept": [
+     "finished"
+    ],
+    "explain": "Reported speech qoidasiga ko'ra «finished» fe'li «had finished» bo'ladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Bahrom said, «I met my friend in the park.» \\ Bahrom said that he ______ (meet) his friend in the park.",
+    "hint": "meet",
+    "options": [],
+    "answer": "had met",
+    "accept": [
+     "met"
+    ],
+    "explain": "Past Simple (met) Past Perfect (had met) ga o'zgarib yoziladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Nargiza said, «My father repaired the car.» \\ Nargiza told me that her father ______ (repair) the car.",
+    "hint": "repair",
+    "options": [],
+    "answer": "had repaired",
+    "accept": [
+     "repaired"
+    ],
+    "explain": "Gapdagi «repaired» fe'li «had repaired» shakliga o'zgaradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Jasur said, «We cleaned the garage.» \\ Jasur said that they ______ (clean) the garage.",
+    "hint": "clean",
+    "options": [],
+    "answer": "had cleaned",
+    "accept": [
+     "cleaned"
+    ],
+    "explain": "Tense backshift qoidasiga ko'ra «cleaned» fe'li «had cleaned» bo'ladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Shahnoza said, «I wrote a long letter.» \\ Shahnoza said that she ______ (write) a long letter.",
+    "hint": "write",
+    "options": [],
+    "answer": "had written",
+    "accept": [
+     "wrote"
+    ],
+    "explain": "Past Simple (wrote) reported speechda Past Perfect (had written) bo'ladi.",
+    "wrong": {}
+   }
+  ],
+  [
+   {
+    "kind": "choose",
+    "q": "Azizbek said, «I love playing chess.» \nAzizbek said that he ______ chess.",
+    "hint": "",
+    "options": [
+     "love",
+     "loved",
+     "loving"
+    ],
+    "answer": "loved",
+    "accept": [],
+    "explain": "Gapda reported speech ishlatilgan va so'zlovchi o'tgan zamonda gapirgan («said»), shuning uchun Present Simple zamoni Past Simple'ga o'tadi («loved»).",
+    "wrong": {
+     "love": "Present Simple o'tgan zamondagi gapda ishlatilmaydi.",
+     "loving": "Fe'lning -ing shakli bu yerda grammatik jihatdan noto'g'ri."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Madina said, «I am eating an apple.» \nMadina told me that she ______ an apple.",
+    "hint": "",
+    "options": [
+     "is eating",
+     "was eating",
+     "ate"
+    ],
+    "answer": "was eating",
+    "accept": [],
+    "explain": "Reported speech qoidasiga ko'ra, Present Continuous zamoni Past Continuous'ga o'zgaradi («was eating»).",
+    "wrong": {
+     "is eating": "Present Continuous o'tgan zamondagi gapga mos kelmaydi.",
+     "ate": "Past Simple bu yerda davomiy harakatni bildirmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Temur said, «I will help you tomorrow.» \nTemur said that he ______ help me the next day.",
+    "hint": "",
+    "options": [
+     "will",
+     "would",
+     "can"
+    ],
+    "answer": "would",
+    "accept": [],
+    "explain": "Reported speech paytida 'will' so'zi 'would'ga o'zgaradi.",
+    "wrong": {
+     "will": "Indirekt nutqda 'will' so'zi 'would' shakliga o'tishi kerak.",
+     "can": "'Can' qobiliyatni bildiradi, lekin gapda 'will' so'zi ishlatilgan."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Jamshid said, «I can swim very fast.» \nJamshid said that he ______ swim very fast.",
+    "hint": "",
+    "options": [
+     "can",
+     "could",
+     "must"
+    ],
+    "answer": "could",
+    "accept": [],
+    "explain": "Reported speech qoidasiga ko'ra modal fe'l 'can' so'zi 'could'ga o'zgaradi.",
+    "wrong": {
+     "can": "Indirekt nutqda 'can' o'rniga 'could' ishlatilishi kerak.",
+     "must": "'Must' majburiyatni bildiradi, asl gapda esa 'can' edi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Zarnigor said, «I am reading this book now.» \nZarnigor said that she was reading that book ______.",
+    "hint": "",
+    "options": [
+     "now",
+     "then",
+     "tomorrow"
+    ],
+    "answer": "then",
+    "accept": [],
+    "explain": "Reported speech qoidasiga ko'ra payt ravoshi 'now' so'zi 'then'ga o'zgaradi.",
+    "wrong": {
+     "now": "'Now' so'zi indirekt nutqda 'then'ga o'zgarishi kerak.",
+     "tomorrow": "'Tomorrow' kelasi zamon uchun, kontekstga to'g'ri kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Otabek said, «I left my bag here.» \nOtabek told me that he had left his bag ______.",
+    "hint": "",
+    "options": [
+     "here",
+     "there",
+     "where"
+    ],
+    "answer": "there",
+    "accept": [],
+    "explain": "Reported speech qoidasiga ko'ra o'rin ravoshi 'here' so'zi 'there'ga o'zgaradi.",
+    "wrong": {
+     "here": "Indirekt nutqda 'here' so'zi 'there'ga o'zgaradi.",
+     "where": "'Where' so'roq so'zi bo'lib, bu yerda ma'noga mos emas."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Dilshod said to me, «You are late.» \nDilshod ______ me that I was late.",
+    "hint": "",
+    "options": [
+     "said",
+     "told",
+     "spoke"
+    ],
+    "answer": "told",
+    "accept": [],
+    "explain": "To'g'ridan-to'g'ri ob'ekt (me) kelgani uchun 'said' emas, 'told' fe'li ishlatiladi.",
+    "wrong": {
+     "said": "'Said' fe'lidan keyin shaxs (me) kelganda 'to' qo'shimchasi kerak bo'ladi.",
+     "spoke": "'Spoke' bu yerda grammatik jihatdan mos kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Gulnora said, «I have finished my homework.» \nGulnora said that she ______ finished her homework.",
+    "hint": "",
+    "options": [
+     "has",
+     "had",
+     "have"
+    ],
+    "answer": "had",
+    "accept": [],
+    "explain": "Present Perfect zamoni («have finished») reported speech paytida Past Perfect'ga («had finished») o'tadi.",
+    "wrong": {
+     "has": "'Has' zamonni o'tmishga moslab o'zgartirmaydi.",
+     "have": "'Have' birinchi shaxs uchun, lekin o'tgan zamonga mos emas."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Ravshan said, «I will visit my uncle.» \nRavshan ______ that he would visit his uncle.",
+    "hint": "",
+    "options": [
+     "said",
+     "told",
+     "speak"
+    ],
+    "answer": "said",
+    "accept": [],
+    "explain": "Gapda ob'ekt (kimga degan ma'no) yo'q, shuning uchun 'said' fe'li ishlatiladi.",
+    "wrong": {
+     "told": "'Told' dan keyin albatta shaxs (kimga) ko'rsatilishi kerak.",
+     "speak": "'Speak' bu strukturada ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Aziza said, «I am studying English.» \nAziza said that ______ was studying English.",
+    "hint": "",
+    "options": [
+     "he",
+     "she",
+     "they"
+    ],
+    "answer": "she",
+    "accept": [],
+    "explain": "Aziza qiz bola bo'lgani uchun, olmosh 'I' dan 'she' ga o'zgaradi.",
+    "wrong": {
+     "he": "Aziza qiz bola, shuning uchun 'he' ishlatib bo'lmaydi.",
+     "they": "'They' ko'plikni bildiradi, Aziza esa bir kishi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Bobur said, «I play football.» \nBobur told me ______ he played football.",
+    "hint": "",
+    "options": [
+     "if",
+     "that",
+     "what"
+    ],
+    "answer": "that",
+    "accept": [],
+    "explain": "Reported statements (darak gaplar) odatda 'that' bog'lovchisi bilan bog'lanadi.",
+    "wrong": {
+     "if": "'If' faqat so'roq gaplarda (yes/no questions) ishlatiladi.",
+     "what": "'What' so'roq so'zi darak gaplarni bog'lamaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Sevara said, «I met my friend yesterday.» \nSevara said that she had met her friend ______.",
+    "hint": "",
+    "options": [
+     "yesterday",
+     "the day before",
+     "tomorrow"
+    ],
+    "answer": "the day before",
+    "accept": [],
+    "explain": "Reported speech qoidasiga ko'ra 'yesterday' so'zi 'the day before' yoki 'the previous day'ga o'zgaradi.",
+    "wrong": {
+     "yesterday": "Indirekt nutqda 'yesterday' o'zgarishsiz qolmaydi.",
+     "tomorrow": "'Tomorrow' kelasi zamonni bildiradi, gap esa o'tgan zamonda."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Umid said, «I will buy a new phone.» \nUmid told me that ______ would buy a new phone.",
+    "hint": "",
+    "options": [
+     "she",
+     "he",
+     "it"
+    ],
+    "answer": "he",
+    "accept": [],
+    "explain": "Umid o'g'il bola bo'lgani uchun 'I' olmoshi 'he' ga o'zgaradi.",
+    "wrong": {
+     "she": "Umid erkak kishi, shuning uchun 'she' noto'g'ri.",
+     "it": "'It' narsalar va hayvonlar uchun ishlatiladi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Komila said, «I can speak French.» \nKomila said that she ______ speak French.",
+    "hint": "",
+    "options": [
+     "can",
+     "could",
+     "may"
+    ],
+    "answer": "could",
+    "accept": [],
+    "explain": "Modal fe'l 'can' o'tgan zamondagi gapda 'could'ga o'zgaradi.",
+    "wrong": {
+     "can": "Tense backshift qoidasiga ko'ra 'can' 'could' bo'lishi kerak.",
+     "may": "'May' ehtimollikni bildiradi, asl gapda 'can' edi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Akmal said, «I am watching TV.» \nAkmal said that ______ was watching TV.",
+    "hint": "",
+    "options": [
+     "she",
+     "he",
+     "they"
+    ],
+    "answer": "he",
+    "accept": [],
+    "explain": "Akmal erkak kishi bo'lgani uchun 'I' olmoshi 'he' ga o'zgaradi.",
+    "wrong": {
+     "she": "Akmal o'g'il bola, shuning uchun 'she' noto'g'ri.",
+     "they": "'They' ko'plik olmoshi, Akmal esa bir kishi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Zulfizar said, «I like apples.» \nZulfizar told me ______ she liked apples.",
+    "hint": "",
+    "options": [
+     "that",
+     "if",
+     "to"
+    ],
+    "answer": "that",
+    "accept": [],
+    "explain": "Darak gaplarni ko'chirma gapdan o'zlashtirma gapga o'tkazishda 'that' ishlatiladi.",
+    "wrong": {
+     "if": "'If' faqat yes/no so'roq gaplarda ishlatiladi.",
+     "to": "'To' bu yerda bog'lovchi vazifasini bajarmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Sanjar said, «I will come to the party.» \nSanjar said that he would come to the party ______.",
+    "hint": "",
+    "options": [
+     "now",
+     "then",
+     "tomorrow"
+    ],
+    "answer": "then",
+    "accept": [],
+    "explain": "Bu yerda payt o'zgarishi kontekstga ko'ra 'then' so'zini talab qiladi.",
+    "wrong": {
+     "now": "'Now' so'zi indirekt nutqda 'then'ga o'tishi kerak.",
+     "tomorrow": "Asl zamon va vaqt o'zgargani uchun 'tomorrow' ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Ziyoda said to us, «We are happy.» \nZiyoda ______ us that they were happy.",
+    "hint": "",
+    "options": [
+     "said",
+     "told",
+     "speak"
+    ],
+    "answer": "told",
+    "accept": [],
+    "explain": "Gapda 'us' ob'ekti kelgani uchun 'told' fe'li ishlatiladi.",
+    "wrong": {
+     "said": "'Said' dan keyin to'g'ridan-to'g'ri shaxs (us) kelmaydi.",
+     "speak": "'Speak' bu grammatik qolipga mos kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Shohruh said, «I play tennis well.» \nShohruh said that he ______ tennis well.",
+    "hint": "",
+    "options": [
+     "play",
+     "played",
+     "playing"
+    ],
+    "answer": "played",
+    "accept": [],
+    "explain": "Present Simple («play») zamoni Past Simple («played») ga o'zgaradi.",
+    "wrong": {
+     "play": "O'tgan zamondagi gapda Present Simple ishlatilmaydi.",
+     "playing": "Fe'lning -ing shakli bu yerda yolg'iz o'zi ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Malika said, «I live in Tashkent.» \nMalika said that she ______ in Tashkent.",
+    "hint": "",
+    "options": [
+     "live",
+     "lived",
+     "living"
+    ],
+    "answer": "lived",
+    "accept": [],
+    "explain": "Reported speech qoidasiga ko'ra Present Simple («live») zamoni Past Simple («lived») ga o'tadi.",
+    "wrong": {
+     "live": "Present Simple o'tgan zamondagi reported speech uchun xato.",
+     "living": "Yordamchi fe'lsiz -ing qo'shimchasi ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Sardor said, «I will help my mother.» \nSardor told me that he ______ help his mother.",
+    "hint": "",
+    "options": [
+     "will",
+     "would",
+     "can"
+    ],
+    "answer": "would",
+    "accept": [],
+    "explain": "'Will' yordamchi fe'li reported speech paytida 'would'ga o'zgaradi.",
+    "wrong": {
+     "will": "Indirekt nutqda 'will' o'rniga 'would' ishlatilishi shart.",
+     "can": "'Can' qobiliyatni bildiradi, gapda esa 'will' edi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Nargiza said, «I have a new cat.» \nNargiza said that she ______ a new cat.",
+    "hint": "",
+    "options": [
+     "have",
+     "had",
+     "has"
+    ],
+    "answer": "had",
+    "accept": [],
+    "explain": "Present Simple'dagi 'have' fe'li o'tgan zamonda 'had'ga o'zgaradi.",
+    "wrong": {
+     "have": "O'tgan zamon qoidasiga ko'ra 'have' 'had' bo'lishi kerak.",
+     "has": "'Has' uchinchi shaxs birlik uchun, lekin zamon o'tmishi saqlanmadi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Jasur said, «I am doing my homework.» \nJasur said that he ______ doing his homework.",
+    "hint": "",
+    "options": [
+     "is",
+     "was",
+     "were"
+    ],
+    "answer": "was",
+    "accept": [],
+    "explain": "Present Continuous zamonidagi 'am' fe'li Past Continuous'da 'was'ga o'tadi.",
+    "wrong": {
+     "is": "'Is' present zamon uchun, gap esa o'tmishda.",
+     "were": "'He' olmoshi uchun 'were' emas, 'was' ishlatiladi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Farangiz said, «I can speak English.» \nFarangiz told me that she ______ speak English.",
+    "hint": "",
+    "options": [
+     "can",
+     "could",
+     "will"
+    ],
+    "answer": "could",
+    "accept": [],
+    "explain": "Modal fe'l 'can' reported speech qoidasiga ko'ra 'could'ga o'zgaradi.",
+    "wrong": {
+     "can": "Indirekt nutqda 'can' 'could' shakliga o'tishi kerak.",
+     "will": "'Will' kelasi zamon uchun, asl gapda esa 'can' edi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Sherzod said, «I bought a car.» \nSherzod said that he ______ bought a car.",
+    "hint": "",
+    "options": [
+     "have",
+     "had",
+     "has"
+    ],
+    "answer": "had",
+    "accept": [],
+    "explain": "Past Simple zamoni reported speech'da Past Perfect («had bought») zamoniga o'tadi.",
+    "wrong": {
+     "have": "'Have' zamonni o'tmishga moslab o'zgartirmaydi.",
+     "has": "Present Perfect bu yerda grammatik jihatdan xato."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Dildora said, «I am reading a magazine.» \nDildora told me that ______ was reading a magazine.",
+    "hint": "",
+    "options": [
+     "he",
+     "she",
+     "they"
+    ],
+    "answer": "she",
+    "accept": [],
+    "explain": "Dildora qiz bola bo'lgani uchun 'I' olmoshi 'she' ga o'zgaradi.",
+    "wrong": {
+     "he": "Dildora qiz bola, shuning uchun 'he' ishlatib bo'lmaydi.",
+     "they": "'They' ko'plik olmoshi, Dildora esa bir kishi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Ulugbek said, «I will call you.» \nUlugbek said that he ______ call me.",
+    "hint": "",
+    "options": [
+     "will",
+     "would",
+     "shall"
+    ],
+    "answer": "would",
+    "accept": [],
+    "explain": "Reported speech paytida 'will' so'zi 'would'ga o'zgaradi.",
+    "wrong": {
+     "will": "Indirekt nutqda 'will' so'zi 'would'ga o'tishi shart.",
+     "shall": "'Shall' bu yerda zamon moslashuvi qoidasiga to'g'ri kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Gulbahor said to us, «We like sweets.» \nGulbahor ______ us that they liked sweets.",
+    "hint": "",
+    "options": [
+     "said",
+     "told",
+     "speak"
+    ],
+    "answer": "told",
+    "accept": [],
+    "explain": "To'g'ridan-to'g'ri ob'ekt ('us') kelgani uchun 'said' emas, 'told' fe'li ishlatiladi.",
+    "wrong": {
+     "said": "'Said' dan keyin to'g'ridan-to'g'ri shaxs qo'shib bo'lmaydi.",
+     "speak": "'Speak' bu strukturada ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Bohodir said, «I play football.» \nBohodir said ______ he played football.",
+    "hint": "",
+    "options": [
+     "that",
+     "if",
+     "to"
+    ],
+    "answer": "that",
+    "accept": [],
+    "explain": "Darak gaplarni bog'lash uchun 'that' so'zi ishlatiladi.",
+    "wrong": {
+     "if": "'If' faqat so'roq gaplarda ishlatiladi.",
+     "to": "'To' bu yerda bog'lovchi vazifasini bajarmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Zebo said, «I am cooking soup.» \nZebo told me that she ______ cooking soup.",
+    "hint": "",
+    "options": [
+     "is",
+     "was",
+     "were"
+    ],
+    "answer": "was",
+    "accept": [],
+    "explain": "Present Continuous zamonidagi 'am' fe'li Past Continuous'da 'was'ga o'tadi.",
+    "wrong": {
+     "is": "'Is' present zamon uchun, gap esa o'tmishda.",
+     "were": "'She' olmoshi uchun 'were' emas, 'was' ishlatiladi."
+    }
+   }
+  ]
+ ],
+ "intro": {
+  "what": "Biz boshqa odam aytgan gaplarni uzatish uchun reported speech (ko'chirma gap) ishlatamiz. U to'g'ridan-to'g'ri (direct speech) emas, balki orqaroqda aytilgandek eshittiriladi.",
+  "when": [
+   "Do'stingizning maktabdagi so'zlarini boshqalarga aytganda",
+   "O'qituvchining uyga vazifasini eslatganda",
+   "Ota-onangizning buyruqlarini yetkazganda",
+   "Kecha eshitgan yangiliklarni boshqalar bilan bo'lishganda"
+  ],
+  "structures": [
+   {
+    "label": "Darak gap (Affirmative statement)",
+    "formula": "Subject + said (that) + backshifted tense",
+    "example_en": "He said that he liked football.",
+    "example_uz": "U futbolni yoqtirishini aytdi."
+   },
+   {
+    "label": "Inkor gap (Negative statement)",
+    "formula": "Subject + told + object + (that) + backshifted negative tense",
+    "example_en": "She told me that she didn't watch TV.",
+    "example_uz": "U menga televizor ko'rmasligini aytdi."
+   },
+   {
+    "label": "Say va Tell fe'llari",
+    "formula": "Say + (that) / Tell + object + (that)",
+    "example_en": "They said they were tired. / They told us they were tired.",
+    "example_uz": "Ular charchaganliklarini aytishdi. / Ular bizga charchaganliklarini aytishdi."
+   }
+  ],
+  "rules": [
+   {
+    "title": "Zamonni orqaga surish (Tense Backshift)",
+    "text": "To'g'ridan-to'g'ri nutqdagi zamonlar o'tgan zamonga qarab bir qadam orqaga suriladi. Masalan, Present Simple Past Simple'ga o'zgaradi.",
+    "examples": [
+     {
+      "en": "I live in Tashkent. -> He said he lived in Tashkent.",
+      "uz": "Men Toshkentda yashayman. -> U Toshkentda yashashini aytdi."
+     },
+     {
+      "en": "I am eating. -> She said she was eating.",
+      "uz": "Men ovqat seryapman. -> U ovqat yeyayotganini aytdi."
+     }
+    ]
+   },
+   {
+    "title": "Say va Tell ishlatish farqi",
+    "text": "'Say' fe'lidan keyin shaxs (object) kelmaydi, 'tell' fe'lidan keyin esa doim kimgadir aytilgani ko'rsatiladi (told me, told him).",
+    "examples": [
+     {
+      "en": "He said he was happy.",
+      "uz": "U xursand ekanligini aytdi."
+     },
+     {
+      "en": "He told me he was happy.",
+      "uz": "U menga xursand ekanligini aytdi."
+     }
+    ]
+   },
+   {
+    "title": "Olmonshakllar va vaqt so'zlarining o'zgarishi",
+    "text": "Gapiruvchiga qarab olmoshlar o'zgaradi. Shuningdek, vaqt so'zlari ham o'tmish nuqtai nazaridan moslashadi.",
+    "examples": [
+     {
+      "en": "I will go tomorrow. -> She said she would go the next day.",
+      "uz": "Men ertaga boraman. -> U ertasi kuni borishini aytdi."
+     },
+     {
+      "en": "We met yesterday. -> They said they had met the day before.",
+      "uz": "Biz kecha uchrashdik. -> Ular bir kun oldin uchrashganlarini aytishdi."
+     }
+    ]
+   }
+  ],
+  "signal_words": [
+   {
+    "en": "now",
+    "uz": "then (o'sha paytda)"
+   },
+   {
+    "en": "today",
+    "uz": "that day (o'sha kuni)"
+   },
+   {
+    "en": "tomorrow",
+    "uz": "the next day (ertasi kuni)"
+   },
+   {
+    "en": "yesterday",
+    "uz": "the day before (bir kun oldin)"
+   },
+   {
+    "en": "here",
+    "uz": "there (u yerda)"
+   },
+   {
+    "en": "this",
+    "uz": "that (o'sha)"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "He said me that he was tired.",
+    "right": "He told me that he was tired.",
+    "why": "'Say' fe'lidan keyin 'me' kabi shaxs qo'shib ishlatilmaydi, buning uchun 'tell' ishlatish kerak."
+   },
+   {
+    "wrong": "She said she is happy.",
+    "right": "She said she was happy.",
+    "why": "Ko'chirma gapda zamon bitta orqaga (Past Simple'ga) surilishi shart."
+   },
+   {
+    "wrong": "Aziz told that he liked apples.",
+    "right": "Aziz said that he liked apples. (yoki Aziz told me that...)",
+    "why": "'Tell' fe'lidan keyin albatta kishi olmoshi yoki ismi bo'lishi kerak."
+   },
+   {
+    "wrong": "He said he will come tomorrow.",
+    "right": "He said he would come the next day.",
+    "why": "'Will' so'zi 'would'ga, 'tomorrow' esa 'the next day'ga o'zgarishi kerak."
+   }
+  ]
+ }
+}

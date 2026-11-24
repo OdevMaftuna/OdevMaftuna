@@ -1,0 +1,1199 @@
+{
+ "code": "4.4",
+ "intro": {
+  "what": "Have va has fe'llari egalikni, ya'ni biror narsaga ega ekanligimizni bildiradi. O'zbek tilida bu 'bor' so'ziga to'g'ri keladi.",
+  "when": [
+   "O'zimizda bor bo'lgan narsalar haqida gapirganda",
+   "Oila a'zolari va do'stlar haqida gapirganda",
+   "Kasb, uy, mashina kabi narsalarni aytganda"
+  ],
+  "structures": [
+   {
+    "label": "(+)",
+    "formula": "S (I, you, we, they) + have + OB",
+    "example_en": "I have a good job.",
+    "example_uz": "Mening yaxshi isim bor."
+   },
+   {
+    "label": "(+)",
+    "formula": "S (he, she, it) + has + OB",
+    "example_en": "She has a computer.",
+    "example_uz": "Uning kompyuteri bor."
+   },
+   {
+    "label": "(-)",
+    "formula": "S (I, you, we, they) + do not have + OB",
+    "example_en": "I don't have a car.",
+    "example_uz": "Mening mashinam yo'q."
+   },
+   {
+    "label": "(-)",
+    "formula": "S (he, she, it) + does not have + OB",
+    "example_en": "He doesn't have a dog.",
+    "example_uz": "Uning iti yo'q."
+   },
+   {
+    "label": "(?)",
+    "formula": "Do + S (I, you, we, they) + have + OB?",
+    "example_en": "Do you have a phone?",
+    "example_uz": "Telefoningiz bormi?"
+   },
+   {
+    "label": "(?)",
+    "formula": "Does + S (he, she, it) + have + OB?",
+    "example_en": "Does she have a family?",
+    "example_uz": "Uning oilasi bormi?"
+   }
+  ],
+  "rules": [
+   {
+    "title": "Shaxslarga qarab taqsimlanishi",
+    "text": "I, you, we, they olmoshlari bilan 'have' ishlatiladi. He, she, it olmoshlari bilan esa 'has' ishlatiladi.",
+    "examples": [
+     {
+      "en": "We have a big house.",
+      "uz": "Bizning katta uyimiz bor."
+     },
+     {
+      "en": "Ali has a red book.",
+      "uz": "Alining qizil kitobi bor."
+     }
+    ]
+   },
+   {
+    "title": "Inkor va so'roq shakllari",
+    "text": "Inkor va so'roq gaplarda 'have' va 'has' fe'llari 'do / does' yordamchi fe'llari yordamida yasaladi va asosiy fe'l doimo 'have' bo'lib qoladi.",
+    "examples": [
+     {
+      "en": "She doesn't have a computer.",
+      "uz": "Uning kompyuteri yo'q."
+     },
+     {
+      "en": "Do you have a pen?",
+      "uz": "Ruchkangiz bormi?"
+     }
+    ]
+   }
+  ],
+  "signal_words": [],
+  "mistakes": [
+   {
+    "wrong": "She have a nice bag.",
+    "right": "She has a nice bag.",
+    "why": "He, she, it olmoshlari bilan 'have' emas, 'has' ishlatilishi kerak."
+   },
+   {
+    "wrong": "He has a not car.",
+    "right": "He doesn't have a car.",
+    "why": "Inkor shaklini yasash uchun 'doesn't have' ishlatiladi, 'has not' emas."
+   },
+   {
+    "wrong": "Does she has a dog?",
+    "right": "Does she have a dog?",
+    "why": "So'roq gapda 'does' kelgani uchun fe'l o'zining boshlang'ich 'have' shakliga qaytadi."
+   }
+  ]
+ },
+ "test": [
+  {
+   "type": "fill",
+   "q": "I ______ a good job.",
+   "answer": "have",
+   "explain": "I olmoshidan keyin 'have' fe'li ishlatiladi.",
+   "accept": [],
+   "hint": "have"
+  },
+  {
+   "type": "fill",
+   "q": "She ______ a computer.",
+   "answer": "has",
+   "explain": "She olmoshidan keyin 'has' fe'li ishlatiladi.",
+   "accept": [],
+   "hint": "have"
+  },
+  {
+   "type": "fill",
+   "q": "They ______ two children.",
+   "answer": "have",
+   "explain": "They olmoshidan keyin 'have' fe'li ishlatiladi.",
+   "accept": [],
+   "hint": "have"
+  },
+  {
+   "type": "fill",
+   "q": "He ______ a big car.",
+   "answer": "has",
+   "explain": "He olmoshidan keyin 'has' fe'li ishlatiladi.",
+   "accept": [],
+   "hint": "have"
+  },
+  {
+   "type": "fill",
+   "q": "We ______ a nice house.",
+   "answer": "have",
+   "explain": "We olmoshidan keyin 'have' fe'li ishlatiladi.",
+   "accept": [],
+   "hint": "have"
+  },
+  {
+   "type": "fill",
+   "q": "You ______ a red bag.",
+   "answer": "have",
+   "explain": "You olmoshidan keyin 'have' fe'li ishlatiladi.",
+   "accept": [],
+   "hint": "have"
+  },
+  {
+   "type": "fill",
+   "q": "Ali ______ a new phone.",
+   "answer": "has",
+   "explain": "Ali bu 'he' demakdir, shuning uchun 'has' ishlatiladi.",
+   "accept": [],
+   "hint": "have"
+  },
+  {
+   "type": "fill",
+   "q": "Malika ______ a cat.",
+   "answer": "has",
+   "explain": "Malika bu 'she' demakdir, shuning uchun 'has' ishlatiladi.",
+   "accept": [],
+   "hint": "have"
+  },
+  {
+   "type": "fill",
+   "q": "I ______ a pen.",
+   "answer": "have",
+   "explain": "I olmoshidan keyin 'have' fe'li ishlatiladi.",
+   "accept": [],
+   "hint": "have"
+  },
+  {
+   "type": "fill",
+   "q": "My friend ______ a dog.",
+   "answer": "has",
+   "explain": "My friend bu bitta shaxs (he/she), shuning uchun 'has' ishlatiladi.",
+   "accept": [],
+   "hint": "have"
+  },
+  {
+   "type": "fill",
+   "q": "Tom and Anna ______ a shop.",
+   "answer": "have",
+   "explain": "Tom and Anna bu ko'plik (they), shuning uchun 'have' ishlatiladi.",
+   "accept": [],
+   "hint": "have"
+  },
+  {
+   "type": "fill",
+   "q": "The school ______ a big garden.",
+   "answer": "has",
+   "explain": "The school bu 'it' demakdir, shuning uchun 'has' ishlatiladi.",
+   "accept": [],
+   "hint": "have"
+  },
+  {
+   "type": "fill",
+   "q": "Aziz ______ a camera.",
+   "answer": "has",
+   "explain": "Aziz bu 'he' olmoshi kabi bo'lib, 'has' oladi.",
+   "accept": [],
+   "hint": "have"
+  },
+  {
+   "type": "fill",
+   "q": "We ______ a map of Uzbekistan.",
+   "answer": "have",
+   "explain": "We olmoshidan keyin 'have' fe'li ishlatiladi.",
+   "accept": [],
+   "hint": "have"
+  },
+  {
+   "type": "fill",
+   "q": "You ______ a nice family.",
+   "answer": "have",
+   "explain": "You olmoshidan keyin 'have' fe'li ishlatiladi.",
+   "accept": [],
+   "hint": "have"
+  },
+  {
+   "type": "fill",
+   "q": "They ______ a part-time job.",
+   "answer": "have",
+   "explain": "They olmoshidan keyin 'have' fe'li ishlatiladi.",
+   "accept": [],
+   "hint": "have"
+  },
+  {
+   "type": "fill",
+   "q": "She ______ a blue dress.",
+   "answer": "has",
+   "explain": "She olmoshidan keyin 'has' fe'li ishlatiladi.",
+   "accept": [],
+   "hint": "have"
+  },
+  {
+   "type": "fill",
+   "q": "He ______ an English dictionary.",
+   "answer": "has",
+   "explain": "He olmoshidan keyin 'has' fe'li ishlatiladi.",
+   "accept": [],
+   "hint": "have"
+  },
+  {
+   "type": "fill",
+   "q": "I ______ a brother.",
+   "answer": "have",
+   "explain": "I olmoshidan keyin 'have' fe'li ishlatiladi.",
+   "accept": [],
+   "hint": "have"
+  },
+  {
+   "type": "fill",
+   "q": "My brother ______ a bicycle.",
+   "answer": "has",
+   "explain": "My brother bu 'he' demakdir, shuning uchun 'has' ishlatiladi.",
+   "accept": [],
+   "hint": "have"
+  },
+  {
+   "type": "mc",
+   "q": "She ______ a nice house.",
+   "answer": "has",
+   "explain": "She olmoshidan keyin 'has' fe'li ishlatiladi.",
+   "options": [
+    "have",
+    "has",
+    "is"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "They ______ two children.",
+   "answer": "have",
+   "explain": "They olmoshidan keyin 'have' fe'li ishlatiladi.",
+   "options": [
+    "has",
+    "is",
+    "have"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "He ______ a fast car.",
+   "answer": "has",
+   "explain": "He olmoshidan keyin 'has' fe'li ishlatiladi.",
+   "options": [
+    "has",
+    "have",
+    "are"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "We ______ a good teacher.",
+   "answer": "have",
+   "explain": "We olmoshidan keyin 'have' fe'li ishlatiladi.",
+   "options": [
+    "has",
+    "am",
+    "have"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "I ______ a big family.",
+   "answer": "have",
+   "explain": "I olmoshidan keyin 'have' fe'li ishlatiladi.",
+   "options": [
+    "has",
+    "have",
+    "is"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Aziza ______ a new bag.",
+   "answer": "has",
+   "explain": "Aziza bu 'she' olmoshi bo'lib, 'has' oladi.",
+   "options": [
+    "have",
+    "are",
+    "has"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "You ______ a nice phone.",
+   "answer": "have",
+   "explain": "You olmoshidan keyin 'have' fe'li ishlatiladi.",
+   "options": [
+    "has",
+    "have",
+    "is"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "The dog ______ a small house.",
+   "answer": "has",
+   "explain": "The dog bu 'it' olmoshi bo'lib, 'has' oladi.",
+   "options": [
+    "has",
+    "have",
+    "am"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Tom and I ______ a lot of friends.",
+   "answer": "have",
+   "explain": "Tom and I bu 'we' (biz) demakdir, shuning uchun 'have' ishlatiladi.",
+   "options": [
+    "has",
+    "is",
+    "have"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "My sister ______ a red camera.",
+   "answer": "has",
+   "explain": "My sister bu 'she' demakdir, shuning uchun 'has' ishlatiladi.",
+   "options": [
+    "have",
+    "has",
+    "are"
+   ]
+  }
+ ],
+ "model": "gemini-3.5-flash-lite",
+ "tr1": [
+  {
+   "part": 0,
+   "uz": "Mening yangi mashinam bor.",
+   "en": [
+    "I have a new car.",
+    "My car is new."
+   ],
+   "rule": "I olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Sizning yangi kompyuteringiz bor.",
+   "en": [
+    "You have a new computer."
+   ],
+   "rule": "You olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Bizning katta uyimiz bor.",
+   "en": [
+    "We have a big house."
+   ],
+   "rule": "We olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Ularning ikkita farzandi bor.",
+   "en": [
+    "They have two children."
+   ],
+   "rule": "They olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Mening yaxshi ishim bor.",
+   "en": [
+    "I have a good job."
+   ],
+   "rule": "I olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Sizning telefoningiz bor.",
+   "en": [
+    "You have a phone."
+   ],
+   "rule": "You olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Bizning yangi lug'atimiz bor.",
+   "en": [
+    "We have a new dictionary."
+   ],
+   "rule": "We olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Ularning katta do'koni bor.",
+   "en": [
+    "They have a big shop."
+   ],
+   "rule": "They olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Mening qora mushugim bor.",
+   "en": [
+    "I have a black cat."
+   ],
+   "rule": "I olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Sizning do'stlaringiz bor.",
+   "en": [
+    "You have friends."
+   ],
+   "rule": "You olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Bizning yaxshi o'qituvchimiz bor.",
+   "en": [
+    "We have a good teacher."
+   ],
+   "rule": "We olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Ularning yangi uyi bor.",
+   "en": [
+    "They have a new house."
+   ],
+   "rule": "They olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Mening kichkina sumkam bor.",
+   "en": [
+    "I have a small bag."
+   ],
+   "rule": "I olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Sizning yaxshi oilangiz bor.",
+   "en": [
+    "You have a good family."
+   ],
+   "rule": "You olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Bizning qizil mashinamiz bor.",
+   "en": [
+    "We have a red car."
+   ],
+   "rule": "We olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Ularning ko'p kitoblari bor.",
+   "en": [
+    "They have a lot of books."
+   ],
+   "rule": "They olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Mening yangi kamerasigim bor.",
+   "en": [
+    "I have a new camera."
+   ],
+   "rule": "I olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Sizning ingliz tili kitobingiz bor.",
+   "en": [
+    "You have an English book."
+   ],
+   "rule": "You olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Bizning ish vaqtchimiz bor.",
+   "en": [
+    "We have a part-time job."
+   ],
+   "rule": "We olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Ularning do'stlari bor.",
+   "en": [
+    "They have friends."
+   ],
+   "rule": "They olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Mening aka-ukalarim bor.",
+   "en": [
+    "I have brothers."
+   ],
+   "rule": "I olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Sizning chiroyli xonangiz bor.",
+   "en": [
+    "You have a lovely room."
+   ],
+   "rule": "You olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Bizning yangi ofisimiz bor.",
+   "en": [
+    "We have a new office."
+   ],
+   "rule": "We olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Ularning katta mehmonxonasi bor.",
+   "en": [
+    "They have a big hotel."
+   ],
+   "rule": "They olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Mening qahramon do'stim bor.",
+   "en": [
+    "I have a best friend."
+   ],
+   "rule": "I olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Sizning telefon raqamingiz bor.",
+   "en": [
+    "You have a phone number."
+   ],
+   "rule": "You olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Bizning kichkina itimiz bor.",
+   "en": [
+    "We have a small dog."
+   ],
+   "rule": "We olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Ularning sport markazi bor.",
+   "en": [
+    "They have a sports centre."
+   ],
+   "rule": "They olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Mening yangi telefonim bor.",
+   "en": [
+    "I have a new phone."
+   ],
+   "rule": "I olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Sizning biznes kartochkangiz bor.",
+   "en": [
+    "You have a business card."
+   ],
+   "rule": "You olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Bizning shahar markazida uyimiz bor.",
+   "en": [
+    "We have a house near the town centre."
+   ],
+   "rule": "We olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Ularning qiz do'sti bor.",
+   "en": [
+    "They have a girlfriend."
+   ],
+   "rule": "They olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Mening yangi jurnallarim bor.",
+   "en": [
+    "I have new magazines."
+   ],
+   "rule": "I olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Sizning qiziqarli kitobingiz bor.",
+   "en": [
+    "You have an interesting book."
+   ],
+   "rule": "You olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Bizning o'nta talabamiz bor.",
+   "en": [
+    "We have ten students."
+   ],
+   "rule": "We olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Ularning yangi mashinalari bor.",
+   "en": [
+    "They have new cars."
+   ],
+   "rule": "They olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Mening oilam bor.",
+   "en": [
+    "I have a family."
+   ],
+   "rule": "I olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Sizning yaxshi ishingiz bor.",
+   "en": [
+    "You have a good job."
+   ],
+   "rule": "You olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Bizning kichkina xonamiz bor.",
+   "en": [
+    "We have a small room."
+   ],
+   "rule": "We olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Ularning ingliz tili lug'ati bor.",
+   "en": [
+    "They have an English dictionary."
+   ],
+   "rule": "They olmoshiga have ishlatiladi"
+  },
+  {
+   "part": 1,
+   "uz": "Uning yangi kompyuteri bor.",
+   "en": [
+    "He has a new computer.",
+    "She has a new computer."
+   ],
+   "rule": "He/she olmoshlariga has ishlatiladi"
+  },
+  {
+   "part": 1,
+   "uz": "Ali uyda yaxshi kitobga ega.",
+   "en": [
+    "He has a good book at home."
+   ],
+   "rule": "He olmoshiga has ishlatiladi"
+  },
+  {
+   "part": 1,
+   "uz": "Malikaning chiroyli sumkasi bor.",
+   "en": [
+    "She has a lovely bag."
+   ],
+   "rule": "She olmoshiga has ishlatiladi"
+  },
+  {
+   "part": 1,
+   "uz": "Uning qora mashinasi bor.",
+   "en": [
+    "He has a black car.",
+    "She has a black car."
+   ],
+   "rule": "He/she olmoshlariga has ishlatiladi"
+  },
+  {
+   "part": 1,
+   "uz": "Tomning ikkita farzandi bor.",
+   "en": [
+    "He has two children."
+   ],
+   "rule": "He olmoshiga has ishlatiladi"
+  },
+  {
+   "part": 1,
+   "uz": "Uning yangi telefoni bor.",
+   "en": [
+    "She has a new phone.",
+    "He has a new phone."
+   ],
+   "rule": "He/she olmoshlariga has ishlatiladi"
+  },
+  {
+   "part": 1,
+   "uz": "Anna kichkina mushukchaga ega.",
+   "en": [
+    "She has a small cat."
+   ],
+   "rule": "She olmoshiga has ishlatiladi"
+  },
+  {
+   "part": 1,
+   "uz": "Uning yaxshi ishi bor.",
+   "en": [
+    "He has a good job.",
+    "She has a good job."
+   ],
+   "rule": "He/she olmoshlariga has ishlatiladi"
+  },
+  {
+   "part": 1,
+   "uz": "Azizning ingliz tili lug'ati bor.",
+   "en": [
+    "He has an English dictionary."
+   ],
+   "rule": "He olmoshiga has ishlatiladi"
+  },
+  {
+   "part": 1,
+   "uz": "Uning katta uyi bor.",
+   "en": [
+    "She has a big house.",
+    "He has a big house."
+   ],
+   "rule": "He/she olmoshlariga has ishlatiladi"
+  }
+ ],
+ "tr51": [
+  {
+   "part": 1,
+   "uz": "Uning mashinasi bor.",
+   "en": [
+    "He has a car.",
+    "She has a car."
+   ],
+   "rule": "He/she uchun has ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Tomda yangi uy bor.",
+   "en": [
+    "Tom has a new house."
+   ],
+   "rule": "Ism bitta bo'lsa, has ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Malikaning kamerasi bor.",
+   "en": [
+    "Malika has a camera."
+   ],
+   "rule": "Birlikdagi ega uchun has keladi."
+  },
+  {
+   "part": 1,
+   "uz": "Unda katta xona bor.",
+   "en": [
+    "He has a big room.",
+    "She has a big room."
+   ],
+   "rule": "Uchinchi shaxs birlikda has."
+  },
+  {
+   "part": 1,
+   "uz": "Bu uyning derazasi bor.",
+   "en": [
+    "It has a window."
+   ],
+   "rule": "It olmoshiga has mos keladi."
+  },
+  {
+   "part": 1,
+   "uz": "Uning yaxshi ishi bor.",
+   "en": [
+    "He has a good job.",
+    "She has a good job."
+   ],
+   "rule": "Subject + has + object."
+  },
+  {
+   "part": 1,
+   "uz": "Azizda kitob bor.",
+   "en": [
+    "Aziz has a book."
+   ],
+   "rule": "Erkak ismi uchun has."
+  },
+  {
+   "part": 1,
+   "uz": "Uning kichkina iti bor.",
+   "en": [
+    "He has a small dog.",
+    "She has a small dog."
+   ],
+   "rule": "He/she/it have emas, has oladi."
+  },
+  {
+   "part": 1,
+   "uz": "Anna shahar markazida yashaydi va uning do'koni bor.",
+   "en": [
+    "Anna lives in the town centre and she has a shop."
+   ],
+   "rule": "Uchinchi shaxs birlik uchun has."
+  },
+  {
+   "part": 1,
+   "uz": "Uning telefon raqami bor.",
+   "en": [
+    "He has a phone number.",
+    "She has a phone number."
+   ],
+   "rule": "Ega uchinchi shaxs birlikda, fe'l has."
+  },
+  {
+   "part": 1,
+   "uz": "Uning o'g'il bolasi bor.",
+   "en": [
+    "She has a boy."
+   ],
+   "rule": "Ayol kishi uchun has ishlatamiz."
+  },
+  {
+   "part": 1,
+   "uz": "Bu shahar o'ziga xos mehmonxonaga ega.",
+   "en": [
+    "This town has a hotel."
+   ],
+   "rule": "This town - uchinchi shaxs birlik, has."
+  },
+  {
+   "part": 1,
+   "uz": "Uning yangi lug'ati bor.",
+   "en": [
+    "He has a new dictionary.",
+    "She has a new dictionary."
+   ],
+   "rule": "He/she + has qoidasi."
+  },
+  {
+   "part": 1,
+   "uz": "Unda qahva bor.",
+   "en": [
+    "He has coffee.",
+    "She has coffee."
+   ],
+   "rule": "Sanoqsiz otlar oldidan a tushib qoladi."
+  },
+  {
+   "part": 1,
+   "uz": "Uning do'sti bor.",
+   "en": [
+    "He has a friend.",
+    "She has a friend."
+   ],
+   "rule": "Ega birlikda bo'lsa has."
+  },
+  {
+   "part": 1,
+   "uz": "Uning oilasi Toshkentda.",
+   "en": [
+    "He has a family in Tashkent.",
+    "She has a family in Tashkent."
+   ],
+   "rule": "Oila bitta birlikda, shuning uchun has."
+  },
+  {
+   "part": 1,
+   "uz": "Uning ikkita bolasi bor.",
+   "en": [
+    "He has two children.",
+    "She has two children."
+   ],
+   "rule": "Ega he/she bo'lsa ham, egalik has."
+  },
+  {
+   "part": 1,
+   "uz": "Uning ota-onasi bor.",
+   "en": [
+    "He has parents.",
+    "She has parents."
+   ],
+   "rule": "Uchinchi shaxs birlikda has."
+  },
+  {
+   "part": 1,
+   "uz": "Unda qizil sumka bor.",
+   "en": [
+    "He has a red bag.",
+    "She has a red bag."
+   ],
+   "rule": "Sifat ot oldidan keladi, has ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Uning kompyuteri bor.",
+   "en": [
+    "He has a computer.",
+    "She has a computer."
+   ],
+   "rule": "He/she dan keyin has keladi."
+  },
+  {
+   "part": 2,
+   "uz": "Bizning katta uyimiz bor.",
+   "en": [
+    "We have a big house."
+   ],
+   "rule": "We olmoshi uchun have ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Mening mashinam bor.",
+   "en": [
+    "I have a car."
+   ],
+   "rule": "I olmoshi have oladi."
+  },
+  {
+   "part": 2,
+   "uz": "Uning yangi mashinasi bor.",
+   "en": [
+    "He has a new car.",
+    "She has a new car."
+   ],
+   "rule": "He/she uchun has ishlatamiz."
+  },
+  {
+   "part": 2,
+   "uz": "Ularning ikkita bolasi bor.",
+   "en": [
+    "They have two children."
+   ],
+   "rule": "They olmoshi have oladi."
+  },
+  {
+   "part": 2,
+   "uz": "Sizning telefoningiz bor.",
+   "en": [
+    "You have a phone."
+   ],
+   "rule": "You olmoshi uchun have."
+  },
+  {
+   "part": 2,
+   "uz": "Tomda yaxshi ish bor.",
+   "en": [
+    "Tom has a good job."
+   ],
+   "rule": "Birlikdagi shaxs ismi has oladi."
+  },
+  {
+   "part": 2,
+   "uz": "Bizda ingliz tili kitobi bor.",
+   "en": [
+    "We have an English book."
+   ],
+   "rule": "We uchun have, unli oldidan an."
+  },
+  {
+   "part": 2,
+   "uz": "Mening do'stim bor.",
+   "en": [
+    "I have a friend."
+   ],
+   "rule": "I - have."
+  },
+  {
+   "part": 2,
+   "uz": "Uning mushugi bor.",
+   "en": [
+    "He has a cat.",
+    "She has a cat."
+   ],
+   "rule": "Uchinchi shaxs birlik - has."
+  },
+  {
+   "part": 2,
+   "uz": "Ularning uyi bor.",
+   "en": [
+    "They have a house."
+   ],
+   "rule": "They uchun have ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Sizda chiroyli sumka bor.",
+   "en": [
+    "You have a beautiful bag."
+   ],
+   "rule": "You - have."
+  },
+  {
+   "part": 2,
+   "uz": "Unda qizil kamera bor.",
+   "en": [
+    "He has a red camera.",
+    "She has a red camera."
+   ],
+   "rule": "He/she - has."
+  },
+  {
+   "part": 2,
+   "uz": "Mening uchta do'stim bor.",
+   "en": [
+    "I have three friends."
+   ],
+   "rule": "Ko'plik otlar bilan have ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Bizning oilamiz Toshkentda.",
+   "en": [
+    "We have a family in Tashkent."
+   ],
+   "rule": "We - have."
+  },
+  {
+   "part": 2,
+   "uz": "Azizda kitob bor.",
+   "en": [
+    "Aziz has a book."
+   ],
+   "rule": "Birlikdagi ism uchun has."
+  },
+  {
+   "part": 2,
+   "uz": "Ularning yangi do'koni bor.",
+   "en": [
+    "They have a new shop."
+   ],
+   "rule": "They - have."
+  },
+  {
+   "part": 2,
+   "uz": "Mening qahvam bor.",
+   "en": [
+    "I have coffee."
+   ],
+   "rule": "Sanoqsiz ot have bilan a'lo keladi."
+  },
+  {
+   "part": 2,
+   "uz": "Uning kichkina xonasi bor.",
+   "en": [
+    "He has a small room.",
+    "She has a small room."
+   ],
+   "rule": "He/she - has."
+  },
+  {
+   "part": 2,
+   "uz": "Sizda vaqt bor.",
+   "en": [
+    "You have time."
+   ],
+   "rule": "You - have."
+  },
+  {
+   "part": 2,
+   "uz": "Bizda suv bor.",
+   "en": [
+    "We have water."
+   ],
+   "rule": "We - have."
+  },
+  {
+   "part": 2,
+   "uz": "Mening kompyuterim bor.",
+   "en": [
+    "I have a computer."
+   ],
+   "rule": "I - have."
+  },
+  {
+   "part": 2,
+   "uz": "Malikada shahar markazida uy bor.",
+   "en": [
+    "Malika has a house in the town centre."
+   ],
+   "rule": "Malika - has."
+  },
+  {
+   "part": 2,
+   "uz": "Ularning mashinalari bor.",
+   "en": [
+    "They have cars."
+   ],
+   "rule": "They - have."
+  },
+  {
+   "part": 2,
+   "uz": "Uning eng yaxshi do'sti bor.",
+   "en": [
+    "He has a best friend.",
+    "She has a best friend."
+   ],
+   "rule": "He/she - has."
+  },
+  {
+   "part": 2,
+   "uz": "Mening telefon raqamim bor.",
+   "en": [
+    "I have a phone number."
+   ],
+   "rule": "I - have."
+  },
+  {
+   "part": 2,
+   "uz": "Bizning kichkina maktabimiz bor.",
+   "en": [
+    "We have a small school."
+   ],
+   "rule": "We - have."
+  },
+  {
+   "part": 2,
+   "uz": "Tomda ikkita o'g'il bola bor.",
+   "en": [
+    "Tom has two boys."
+   ],
+   "rule": "Tom - has."
+  },
+  {
+   "part": 2,
+   "uz": "Sizning ingliz tili o'qituvchingiz bor.",
+   "en": [
+    "You have an English teacher."
+   ],
+   "rule": "You - have."
+  },
+  {
+   "part": 2,
+   "uz": "Uning yangi sumkasi bor.",
+   "en": [
+    "He has a new bag.",
+    "She has a new bag."
+   ],
+   "rule": "He/she - has."
+  },
+  {
+   "part": 2,
+   "uz": "Ularning katta oilasi bor.",
+   "en": [
+    "They have a big family."
+   ],
+   "rule": "They - have."
+  }
+ ]
+}

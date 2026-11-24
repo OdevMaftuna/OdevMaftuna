@@ -1,0 +1,1213 @@
+{
+ "code": "2.1",
+ "model": "gemini-3.5-flash-lite",
+ "tr1": [
+  {
+   "part": 0,
+   "uz": "U shifokor.",
+   "en": [
+    "He is a doctor.",
+    "She is a doctor."
+   ],
+   "rule": "U (erkak/ayol) shifokor uchun is ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U talaba.",
+   "en": [
+    "She is a student.",
+    "He is a student."
+   ],
+   "rule": "Birlikdagi shaxslar uchun is fe'li keladi."
+  },
+  {
+   "part": 0,
+   "uz": "U o'qituvchi.",
+   "en": [
+    "He is a teacher.",
+    "She is a teacher."
+   ],
+   "rule": "Kasblar oldidan a artikli qo'yiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U Toshkentdan.",
+   "en": [
+    "He is from Tashkent.",
+    "She is from Tashkent."
+   ],
+   "rule": "Davlat yoki shahar uchun from ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U Angliyadan.",
+   "en": [
+    "He is from England.",
+    "She is from England."
+   ],
+   "rule": "Kelib chiqishni ko'rsatish uchun is from."
+  },
+  {
+   "part": 0,
+   "uz": "U Samarqandda.",
+   "en": [
+    "He is in Samarkand.",
+    "She is in Samarkand."
+   ],
+   "rule": "Joylashuvni bildirish uchun in ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U uydan.",
+   "en": [
+    "He is at home.",
+    "She is at home."
+   ],
+   "rule": "Uyda so'zi at home tarzida tarjima qilinadi."
+  },
+  {
+   "part": 0,
+   "uz": "U maktabda.",
+   "en": [
+    "He is at school.",
+    "She is at school."
+   ],
+   "rule": "Maktabda so'zi uchun at school keladi."
+  },
+  {
+   "part": 0,
+   "uz": "U shifoxonada.",
+   "en": [
+    "He is in the hospital.",
+    "She is in the hospital."
+   ],
+   "rule": "Shifoxonada joylashganlik in bilan aytiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U Braziliyadan.",
+   "en": [
+    "He is from Brazil.",
+    "She is from Brazil."
+   ],
+   "rule": "Mamlakat nomidan oldin from qo'yiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U uylangan.",
+   "en": [
+    "He is married.",
+    "She is married."
+   ],
+   "rule": "Holatni bildirish uchun is married."
+  },
+  {
+   "part": 0,
+   "uz": "U ta'tilda.",
+   "en": [
+    "He is on holiday.",
+    "She is on holiday."
+   ],
+   "rule": "Ta'tilda so'zi on holiday bo'ladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ali do'st.",
+   "en": [
+    "He is a friend."
+   ],
+   "rule": "Erkak kishi uchun he is ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Malika talaba.",
+   "en": [
+    "She is a student."
+   ],
+   "rule": "Ayol kishi uchun she is ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U O'zbekistondan.",
+   "en": [
+    "He is from Uzbekistan.",
+    "She is from Uzbekistan."
+   ],
+   "rule": "O'zbekistondan so'zi from Uzbekistan."
+  },
+  {
+   "part": 0,
+   "uz": "U qiz yaxshi.",
+   "en": [
+    "She is good."
+   ],
+   "rule": "Sifat bilan he/she is ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U bola kichik.",
+   "en": [
+    "He is small."
+   ],
+   "rule": "Birlikdagi ot uchun is fe'li."
+  },
+  {
+   "part": 0,
+   "uz": "U erkak shifokor.",
+   "en": [
+    "He is a doctor."
+   ],
+   "rule": "Erkak kishi uchun he is ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U ayol o'qituvchi.",
+   "en": [
+    "She is a teacher."
+   ],
+   "rule": "Ayol kishi uchun she is ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Tom Londondan.",
+   "en": [
+    "He is from London."
+   ],
+   "rule": "Ism o'rniga he olmoshi ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Anna Nyu-Yorkda.",
+   "en": [
+    "She is in New York."
+   ],
+   "rule": "Ayol kishi joylashuvi uchun she is."
+  },
+  {
+   "part": 0,
+   "uz": "Aziz uyda.",
+   "en": [
+    "He is at home."
+   ],
+   "rule": "Erkak kishi uyda ekanligi."
+  },
+  {
+   "part": 0,
+   "uz": "Malika maktabda.",
+   "en": [
+    "She is at school."
+   ],
+   "rule": "Qiz bola maktabda ekanligi."
+  },
+  {
+   "part": 0,
+   "uz": "U shifoxonada ishlaydi yo'q, u shifoxonada.",
+   "en": [
+    "He is in the hospital.",
+    "She is in the hospital."
+   ],
+   "rule": "Joyni bildirish uchun is in."
+  },
+  {
+   "part": 0,
+   "uz": "U kishi ingliz.",
+   "en": [
+    "He is English.",
+    "She is English."
+   ],
+   "rule": "Millatni bildirishda a artikli yo'q."
+  },
+  {
+   "part": 0,
+   "uz": "U o'quvchi.",
+   "en": [
+    "He is a student.",
+    "She is a student."
+   ],
+   "rule": "Birlikdagi shaxs uchun a student."
+  },
+  {
+   "part": 0,
+   "uz": "U markazda.",
+   "en": [
+    "He is in the centre.",
+    "She is in the centre."
+   ],
+   "rule": "Markazda so'zi in the centre."
+  },
+  {
+   "part": 0,
+   "uz": "U uylangan emas, u turmush qurgan.",
+   "en": [
+    "He is married.",
+    "She is married."
+   ],
+   "rule": "Turmush qurgan holati is married."
+  },
+  {
+   "part": 0,
+   "uz": "U kishi bu yerda.",
+   "en": [
+    "He is here.",
+    "She is here."
+   ],
+   "rule": "Bu yerda so'zi here bo'ladi."
+  },
+  {
+   "part": 0,
+   "uz": "U uzoqda emas, u yaxshi.",
+   "en": [
+    "He is fine.",
+    "She is fine."
+   ],
+   "rule": "Ahvolni so'rash va aytishda fine."
+  },
+  {
+   "part": 0,
+   "uz": "U juda yaxshi shifokor.",
+   "en": [
+    "He is a very good doctor.",
+    "She is a very good doctor."
+   ],
+   "rule": "Sifat va kasb birga kelganda."
+  },
+  {
+   "part": 0,
+   "uz": "U ajoyib o'qituvchi.",
+   "en": [
+    "He is a fantastic teacher.",
+    "She is a fantastic teacher."
+   ],
+   "rule": "Fantastic so'zi ajoyib degani."
+  },
+  {
+   "part": 0,
+   "uz": "U kichik bola.",
+   "en": [
+    "He is a small boy."
+   ],
+   "rule": "O'g'il bola uchun he is a boy."
+  },
+  {
+   "part": 0,
+   "uz": "U go'zal qiz.",
+   "en": [
+    "She is a beautiful girl."
+   ],
+   "rule": "Qiz bola uchun she is a girl."
+  },
+  {
+   "part": 0,
+   "uz": "U mening do'stim.",
+   "en": [
+    "He is my friend.",
+    "She is my friend."
+   ],
+   "rule": "Egalik olmoshi my bilan kelishi."
+  },
+  {
+   "part": 0,
+   "uz": "U sening do'sting.",
+   "en": [
+    "He is your friend.",
+    "She is your friend."
+   ],
+   "rule": "Sening so'zi your bo'ladi."
+  },
+  {
+   "part": 0,
+   "uz": "U bu yerda, u yaxshi.",
+   "en": [
+    "He is very well.",
+    "She is very well."
+   ],
+   "rule": "Juda yaxshi so'zi very well."
+  },
+  {
+   "part": 0,
+   "uz": "U Toshkent shahrida.",
+   "en": [
+    "He is in Tashkent city.",
+    "She is in Tashkent city."
+   ],
+   "rule": "Shahar nomidan oldin in keladi."
+  },
+  {
+   "part": 0,
+   "uz": "U yangi talaba.",
+   "en": [
+    "He is a new student.",
+    "She is a new student."
+   ],
+   "rule": "Yangi so'zi new hisoblanadi."
+  },
+  {
+   "part": 0,
+   "uz": "U aqlli o'quvchi.",
+   "en": [
+    "He is a good student.",
+    "She is a good student."
+   ],
+   "rule": "Yaxshi talaba a good student."
+  },
+  {
+   "part": 1,
+   "uz": "Bu sumka katta.",
+   "en": [
+    "It is a big bag."
+   ],
+   "rule": "Narsalar uchun it is ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular talabalar.",
+   "en": [
+    "They are students."
+   ],
+   "rule": "Ko'plik shakl uchun they are ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu kitob yaxshi.",
+   "en": [
+    "It is a good book."
+   ],
+   "rule": "Jonsiz narsa uchun it is."
+  },
+  {
+   "part": 1,
+   "uz": "Ular shifokorlar.",
+   "en": [
+    "They are doctors."
+   ],
+   "rule": "Ko'plik kasblar uchun are ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular Toshkentdan.",
+   "en": [
+    "They are from Tashkent."
+   ],
+   "rule": "Ko'plikda kelib chiqish they are from."
+  },
+  {
+   "part": 1,
+   "uz": "Bu kamera kichik.",
+   "en": [
+    "It is a small camera."
+   ],
+   "rule": "Birlikdagi narsa uchun it is."
+  },
+  {
+   "part": 1,
+   "uz": "Ular Angliyadan.",
+   "en": [
+    "They are from England."
+   ],
+   "rule": "Ko'plik shaxslar qayerdankiligi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu uy chiroyli.",
+   "en": [
+    "It is a beautiful house."
+   ],
+   "rule": "Uy jonsiz birlikdagi ot (it)."
+  },
+  {
+   "part": 1,
+   "uz": "Ular Nyu-Yorkda.",
+   "en": [
+    "They are in New York."
+   ],
+   "rule": "Joylashuv ko'plikda they are in."
+  },
+  {
+   "part": 1,
+   "uz": "Bu mashina juda yaxshi.",
+   "en": [
+    "It is a very good car."
+   ],
+   "rule": "Mashina uchun it is ishlatiladi."
+  }
+ ],
+ "tr51": [
+  {
+   "part": 1,
+   "uz": "Ular Londonda.",
+   "en": [
+    "They are in London."
+   ],
+   "rule": "Ko'plik: they are + joy nomi"
+  },
+  {
+   "part": 1,
+   "uz": "Bu shahar juda katta.",
+   "en": [
+    "It is a very big city.",
+    "It's a very big city."
+   ],
+   "rule": "Birlik: it is + sifat + ot"
+  },
+  {
+   "part": 1,
+   "uz": "Ular Toshkentda.",
+   "en": [
+    "They are in Tashkent."
+   ],
+   "rule": "Ko'plik: they are + shahar"
+  },
+  {
+   "part": 1,
+   "uz": "Bu ajoyib kitob.",
+   "en": [
+    "It is a fantastic book.",
+    "It's a fantastic book."
+   ],
+   "rule": "Birlik: it is + sifat + ot"
+  },
+  {
+   "part": 1,
+   "uz": "Ular maktabda.",
+   "en": [
+    "They are at school."
+   ],
+   "rule": "Ko'plik: they are + joy"
+  },
+  {
+   "part": 1,
+   "uz": "Bu kamera juda kichik.",
+   "en": [
+    "It is a very small camera.",
+    "It's a very small camera."
+   ],
+   "rule": "Birlik: it is + sifat + ot"
+  },
+  {
+   "part": 1,
+   "uz": "Ular Yangi Yorkda ta'tilda.",
+   "en": [
+    "They are on holiday in New York."
+   ],
+   "rule": "Ko'plik: they are + on holiday"
+  },
+  {
+   "part": 1,
+   "uz": "Bu mashina juda chiroyli.",
+   "en": [
+    "It is a beautiful car.",
+    "It's a beautiful car."
+   ],
+   "rule": "Birlik: it is + sifat + ot"
+  },
+  {
+   "part": 1,
+   "uz": "Ular do'stlar.",
+   "en": [
+    "They are friends."
+   ],
+   "rule": "Ko'plik: they are + ko'plikdagi ot"
+  },
+  {
+   "part": 1,
+   "uz": "Bu bino juda katta.",
+   "en": [
+    "It is a very big building.",
+    "It's a very big building."
+   ],
+   "rule": "Birlik: it is + sifat + ot"
+  },
+  {
+   "part": 1,
+   "uz": "Ular talabalar.",
+   "en": [
+    "They are students."
+   ],
+   "rule": "Ko'plik: they are + kasb (ko'plik)"
+  },
+  {
+   "part": 1,
+   "uz": "Bu yer markazda.",
+   "en": [
+    "It is in the centre."
+   ],
+   "rule": "Birlik: it is + joy"
+  },
+  {
+   "part": 1,
+   "uz": "Ular shifoxonada.",
+   "en": [
+    "They are in the hospital."
+   ],
+   "rule": "Ko'plik: they are + joy"
+  },
+  {
+   "part": 1,
+   "uz": "Bu kompyuter juda yaxshi.",
+   "en": [
+    "It is a really good computer.",
+    "It's a really good computer."
+   ],
+   "rule": "Birlik: it is + sifat + ot"
+  },
+  {
+   "part": 1,
+   "uz": "Ular Angliyadan.",
+   "en": [
+    "They are from England."
+   ],
+   "rule": "Ko'plik: they are from + davlat"
+  },
+  {
+   "part": 1,
+   "uz": "Bu uy juda chiroyli.",
+   "en": [
+    "It is a beautiful house.",
+    "It's a beautiful house."
+   ],
+   "rule": "Birlik: it is + sifat + ot"
+  },
+  {
+   "part": 1,
+   "uz": "Ular o'qituvchilar.",
+   "en": [
+    "They are teachers."
+   ],
+   "rule": "Ko'plik: they are + kasb (ko'plik)"
+  },
+  {
+   "part": 1,
+   "uz": "Bu shahar juda go'zal.",
+   "en": [
+    "It is a beautiful city.",
+    "It's a beautiful city."
+   ],
+   "rule": "Birlik: it is + sifat + ot"
+  },
+  {
+   "part": 1,
+   "uz": "Ular Braziliyadan.",
+   "en": [
+    "They are from Brazil."
+   ],
+   "rule": "Ko'plik: they are from + davlat"
+  },
+  {
+   "part": 1,
+   "uz": "Bu telefon juda kichik.",
+   "en": [
+    "It is a very small phone.",
+    "It's a very small phone."
+   ],
+   "rule": "Birlik: it is + sifat + ot"
+  },
+  {
+   "part": 1,
+   "uz": "Ular o'quvchilar.",
+   "en": [
+    "They are students."
+   ],
+   "rule": "Ko'plik: they are + kasb (ko'plik)"
+  },
+  {
+   "part": 1,
+   "uz": "Bu ajoyib kun.",
+   "en": [
+    "It is a fantastic day.",
+    "It's a fantastic day."
+   ],
+   "rule": "Birlik: it is + sifat + ot"
+  },
+  {
+   "part": 1,
+   "uz": "Ular oilali.",
+   "en": [
+    "They are married."
+   ],
+   "rule": "Ko'plik: they are + sifat"
+  },
+  {
+   "part": 1,
+   "uz": "Bu juda yaxshi rasm.",
+   "en": [
+    "It is a really good photograph.",
+    "It's a really good photograph."
+   ],
+   "rule": "Birlik: it is + sifat + ot"
+  },
+  {
+   "part": 1,
+   "uz": "Ular bu yerda.",
+   "en": [
+    "They are here."
+   ],
+   "rule": "Ko'plik: they are + payt yoki joy"
+  },
+  {
+   "part": 1,
+   "uz": "Bu juda daxshatli ob-havo.",
+   "en": [
+    "It is awful weather.",
+    "It's awful weather."
+   ],
+   "rule": "Birlik: it is + sifat + ot"
+  },
+  {
+   "part": 1,
+   "uz": "Ular shahar markazida.",
+   "en": [
+    "They are in the centre."
+   ],
+   "rule": "Ko'plik: they are + joy"
+  },
+  {
+   "part": 1,
+   "uz": "Bu juda yaxshi stul.",
+   "en": [
+    "It is a really good chair.",
+    "It's a really good chair."
+   ],
+   "rule": "Birlik: it is + sifat + ot"
+  },
+  {
+   "part": 1,
+   "uz": "Ular uyda.",
+   "en": [
+    "They are at home."
+   ],
+   "rule": "Ko'plik: they are + at home"
+  },
+  {
+   "part": 1,
+   "uz": "Bu juda katta stol.",
+   "en": [
+    "It is a very big table.",
+    "It is a very big desk."
+   ],
+   "rule": "Birlik: it is + sifat + ot"
+  },
+  {
+   "part": 2,
+   "uz": "U Braziliyadan.",
+   "en": [
+    "He's from Brazil."
+   ],
+   "rule": "Qisqa shakl: he's from + davlat"
+  },
+  {
+   "part": 2,
+   "uz": "U talaba.",
+   "en": [
+    "She's a student."
+   ],
+   "rule": "Qisqa shakl: she's a + kasb"
+  },
+  {
+   "part": 2,
+   "uz": "Ular Yangi Yorkda.",
+   "en": [
+    "They're in New York."
+   ],
+   "rule": "Qisqa shakl: they're in + shahar"
+  },
+  {
+   "part": 2,
+   "uz": "U shifokor.",
+   "en": [
+    "He's a doctor."
+   ],
+   "rule": "Qisqa shakl: he's a + kasb"
+  },
+  {
+   "part": 2,
+   "uz": "U o'qituvchi.",
+   "en": [
+    "She's a teacher."
+   ],
+   "rule": "Qisqa shakl: she's a + kasb"
+  },
+  {
+   "part": 2,
+   "uz": "Ular do'stlar.",
+   "en": [
+    "They're friends."
+   ],
+   "rule": "Qisqa shakl: they're + ko'plikdagi ot"
+  },
+  {
+   "part": 2,
+   "uz": "U Angliyadan.",
+   "en": [
+    "He's from England."
+   ],
+   "rule": "Qisqa shakl: he's from + davlat"
+  },
+  {
+   "part": 2,
+   "uz": "Bu juda katta uy.",
+   "en": [
+    "It's a very big house."
+   ],
+   "rule": "Qisqa shakl: it's a + sifat + ot"
+  },
+  {
+   "part": 2,
+   "uz": "Ular Toshkentda.",
+   "en": [
+    "They're in Tashkent."
+   ],
+   "rule": "Qisqa shakl: they're in + shahar"
+  },
+  {
+   "part": 2,
+   "uz": "U oilali.",
+   "en": [
+    "He's married."
+   ],
+   "rule": "Qisqa shakl: he's + sifat"
+  },
+  {
+   "part": 2,
+   "uz": "U Londonda.",
+   "en": [
+    "She's in London."
+   ],
+   "rule": "Qisqa shakl: she's in + shahar"
+  },
+  {
+   "part": 2,
+   "uz": "Ular shifoxonada.",
+   "en": [
+    "They're in the hospital."
+   ],
+   "rule": "Qisqa shakl: they're in + joy"
+  },
+  {
+   "part": 2,
+   "uz": "Bu ajoyib kitob.",
+   "en": [
+    "It's a fantastic book."
+   ],
+   "rule": "Qisqa shakl: it's a + sifat + ot"
+  },
+  {
+   "part": 2,
+   "uz": "U shahar markazida.",
+   "en": [
+    "He's in the centre."
+   ],
+   "rule": "Qisqa shakl: he's in + joy"
+  },
+  {
+   "part": 2,
+   "uz": "U o'quvchi.",
+   "en": [
+    "She's a student."
+   ],
+   "rule": "Qisqa shakl: she's a + kasb"
+  },
+  {
+   "part": 2,
+   "uz": "Ular talabalar.",
+   "en": [
+    "They're students."
+   ],
+   "rule": "Qisqa shakl: they're + kasb (ko'plik)"
+  },
+  {
+   "part": 2,
+   "uz": "Bu juda yaxshi rasm.",
+   "en": [
+    "It's a really good photograph."
+   ],
+   "rule": "Qisqa shakl: it's a + sifat + ot"
+  },
+  {
+   "part": 2,
+   "uz": "U o'n yoshda.",
+   "en": [
+    "He's ten."
+   ],
+   "rule": "Qisqa shakl: he's + son"
+  },
+  {
+   "part": 2,
+   "uz": "U uyda.",
+   "en": [
+    "She's at home."
+   ],
+   "rule": "Qisqa shakl: she's at home"
+  },
+  {
+   "part": 2,
+   "uz": "Ular ta'tilda.",
+   "en": [
+    "They're on holiday."
+   ],
+   "rule": "Qisqa shakl: they're on holiday"
+  }
+ ],
+ "intro": {
+  "what": "Bu mavzu Uchinchi shaxs birlik va ko'plikda (he, she, they) 'to be' fe'lining am, is, are shakllarini ishlatishni o'rgatadi. Ular kasb, joy va davlatlarni aytishda ishlatiladi.",
+  "when": [
+   "Kasbni aytganda (She's a doctor)",
+   "Joyni aytganda (They're in Tashkent)",
+   "Davlatni aytganda (He's from England)"
+  ],
+  "structures": [
+   {
+    "label": "(+)",
+    "formula": "S + TOBE + OB",
+    "example_en": "He is a student.",
+    "example_uz": "U talaba."
+   },
+   {
+    "label": "(-)",
+    "formula": "S + TOBE + NOT + OB",
+    "example_en": "She isn't a doctor.",
+    "example_uz": "U shifokor emas."
+   },
+   {
+    "label": "(?)",
+    "formula": "TOBE + S + OB",
+    "example_en": "Are they from Brazil?",
+    "example_uz": "Ular Braziliyadanmi?"
+   },
+   {
+    "label": "Qisqa javob",
+    "formula": "Yes, S + TOBE / No, S + TOBE + NOT",
+    "example_en": "Yes, he is.",
+    "example_uz": "Ha, u."
+   }
+  ],
+  "rules": [
+   {
+    "title": "Kishish olmoshlari va to be",
+    "text": "He va she uchun 'is' ishlatiladi. They uchun 'are' ishlatiladi.",
+    "examples": [
+     {
+      "en": "He is from Samarkand.",
+      "uz": "U Samarqanddan."
+     },
+     {
+      "en": "They are in London.",
+      "uz": "Ular Londonda."
+     }
+    ]
+   },
+   {
+    "title": "Qisqartmalar (Contractions)",
+    "text": "Gapda to be fe'li ko'pincha qisqartirib yoziladi va o'qiladi.",
+    "examples": [
+     {
+      "en": "She's a teacher.",
+      "uz": "U o'qituvchi."
+     },
+     {
+      "en": "They're from Spain.",
+      "uz": "Ular Ispaniyadan."
+     }
+    ]
+   }
+  ],
+  "signal_words": [],
+  "mistakes": [
+   {
+    "wrong": "He are a student.",
+    "right": "He is a student.",
+    "why": "He bitta shaxs bo'lgani uchun 'is' oladi, 'are' emas."
+   },
+   {
+    "wrong": "She from England.",
+    "right": "She is from England.",
+    "why": "Gapda 'is' fe'li tushib qolgan."
+   }
+  ]
+ },
+ "test": [
+  {
+   "type": "fill",
+   "q": "He ______ a student. [be]",
+   "answer": "is",
+   "explain": "He uchinchi shaxs birlik bo'lgani uchun 'is' ishlatiladi.",
+   "accept": [
+    "'s"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "She ______ a teacher. [be]",
+   "answer": "is",
+   "explain": "She bitta qiz bola uchun 'is' ishlatiladi.",
+   "accept": [
+    "'s"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "They ______ from England. [be]",
+   "answer": "are",
+   "explain": "They ko'plik olmosh bo'lib, 'are' oladi.",
+   "accept": [
+    "'re"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "He ______ from Brazil. [not + be]",
+   "answer": "isn't",
+   "explain": "Inkor shaklida he uchun 'is not' (isn't) ishlatiladi.",
+   "accept": [
+    "is not"
+   ],
+   "hint": "not + be"
+  },
+  {
+   "type": "fill",
+   "q": "She ______ a doctor. [not + be]",
+   "answer": "isn't",
+   "explain": "She uchun inkor shakli 'isn't' bo'ladi.",
+   "accept": [
+    "is not"
+   ],
+   "hint": "not + be"
+  },
+  {
+   "type": "fill",
+   "q": "They ______ in Tashkent. [not + be]",
+   "answer": "aren't",
+   "explain": "They uchun inkor shakli 'aren't' bo'ladi.",
+   "accept": [
+    "are not"
+   ],
+   "hint": "not + be"
+  },
+  {
+   "type": "fill",
+   "q": "______ he a student? [be]",
+   "answer": "Is",
+   "explain": "So'roq gapda 'is' gap boshiga o'tadi.",
+   "accept": [],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "______ she from Spain? [be]",
+   "answer": "Is",
+   "explain": "She bilan savol berganda 'Is' ishlatiladi.",
+   "accept": [],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "______ they in Paris? [be]",
+   "answer": "Are",
+   "explain": "They bilan so'roq gapda 'Are' ishlatiladi.",
+   "accept": [],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "He's ______ doctor. [a / an]",
+   "answer": "a",
+   "explain": "Undosh harf bilan boshlangan otlar oldidan 'a' ishlatiladi.",
+   "accept": [],
+   "hint": "a / an"
+  },
+  {
+   "type": "fill",
+   "q": "She's ______ English student. [a / an]",
+   "answer": "an",
+   "explain": "Unli harf bilan boshlangan so'zlar oldidan 'an' ishlatiladi.",
+   "accept": [],
+   "hint": "a / an"
+  },
+  {
+   "type": "fill",
+   "q": "He is ______ Tashkent today. [in / on]",
+   "answer": "in",
+   "explain": "Shaharlar va davlatlar oldidan 'in' predlogi ishlatiladi.",
+   "accept": [],
+   "hint": "in / on"
+  },
+  {
+   "type": "fill",
+   "q": "They are ______ holiday. [in / on]",
+   "answer": "on",
+   "explain": "'On holiday' turg'un birikma hisoblanadi.",
+   "accept": [],
+   "hint": "in / on"
+  },
+  {
+   "type": "fill",
+   "q": "He ______ a nice house. [have]",
+   "answer": "has",
+   "explain": "He, she, it uchun have fe'li 'has' ko'rinishini oladi.",
+   "accept": [],
+   "hint": "have"
+  },
+  {
+   "type": "fill",
+   "q": "She ______ a car. [have]",
+   "answer": "has",
+   "explain": "She uchun egalik bildirganda 'has' ishlatiladi.",
+   "accept": [],
+   "hint": "have"
+  },
+  {
+   "type": "fill",
+   "q": "______ is he? — He is Ali. [what / where / who]",
+   "answer": "Who",
+   "explain": "Odamning kimligini so'rash uchun 'Who' ishlatiladi.",
+   "accept": [],
+   "hint": "what / where / who"
+  },
+  {
+   "type": "fill",
+   "q": "______ is she from? — From France. [what / where / who]",
+   "answer": "Where",
+   "explain": "Qayerdanligini so'rash uchun 'Where' ishlatiladi.",
+   "accept": [],
+   "hint": "what / where / who"
+  },
+  {
+   "type": "fill",
+   "q": "______ is his job? — He is a teacher. [what / where / who]",
+   "answer": "What",
+   "explain": "Kasbni so'rashda 'What' so'roq so'zi ishlatiladi.",
+   "accept": [],
+   "hint": "what / where / who"
+  },
+  {
+   "type": "fill",
+   "q": "Is he married? — Yes, he ______.",
+   "answer": "is",
+   "explain": "Ijobiy qisqa javob 'Yes, he is' tarzida beriladi.",
+   "accept": [],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "Are they from Japan? — No, they ______.",
+   "answer": "aren't",
+   "explain": "Salbiy qisqa javob 'No, they aren't' bo'ladi.",
+   "accept": [
+    "are not"
+   ],
+   "hint": "not + be"
+  },
+  {
+   "type": "mc",
+   "q": "______ is a student.",
+   "answer": "He",
+   "explain": "Talaba erkak bola uchun 'He' olmoshi ishlatiladi.",
+   "options": [
+    "He",
+    "They",
+    "You"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ are in New York.",
+   "answer": "They",
+   "explain": "Ko'plikdagi shaxslar uchun 'They' olmoshi to'g'ri keladi.",
+   "options": [
+    "He",
+    "She",
+    "They"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "She ______ from Australia.",
+   "answer": "is",
+   "explain": "She uchun 'is' yordamchi fe'li ishlatiladi.",
+   "options": [
+    "am",
+    "is",
+    "are"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "He ______ a doctor.",
+   "answer": "'s",
+   "explain": "He bilan 'is' fe'lining qisqartmasi ''s' bo'ladi.",
+   "options": [
+    "'m",
+    "'s",
+    "'re"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "They ______ teachers.",
+   "answer": "are",
+   "explain": "They olmoshi bilan doimo 'are' ishlatiladi.",
+   "options": [
+    "is",
+    "am",
+    "are"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ she a doctor?",
+   "answer": "Is",
+   "explain": "So'roq gapda She oldidan 'Is' qo'yiladi.",
+   "options": [
+    "Am",
+    "Is",
+    "Are"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ they from China?",
+   "answer": "Are",
+   "explain": "They bilan so'roq tuzish uchun 'Are' ishlatiladi.",
+   "options": [
+    "Is",
+    "Are",
+    "Am"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "He ______ a student. He is a teacher.",
+   "answer": "isn't",
+   "explain": "U o'qituvchi bo'lsa, demak talaba emas ('isn't').",
+   "options": [
+    "is",
+    "isn't",
+    "aren't"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Where ______ he from?",
+   "answer": "is",
+   "explain": "He olmoshi bilan 'is' ishlatiladi.",
+   "options": [
+    "are",
+    "am",
+    "is"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Are they on holiday? — Yes, they ______.",
+   "answer": "are",
+   "explain": "Qisqa javobda 'Yes, they are' ishlatiladi.",
+   "options": [
+    "is",
+    "are",
+    "am"
+   ]
+  }
+ ]
+}

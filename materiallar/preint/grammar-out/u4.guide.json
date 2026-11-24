@@ -1,0 +1,228 @@
+[
+ {
+  "name": "Comparative adjectives",
+  "name_uz": "Qiyosiy darajadagi sifatlar",
+  "summary": "Ikkita narsa yoki odamni bir-biridan solishtirish uchun qiyosiy sifatlardan foydalanamiz. Ular sifatga -er qo'shimchasi yoki oldiga 'more' so'zini qo'shish orqali yasaladi.",
+  "usage": [
+   {
+    "text": "Bir bo'g'inli sifatlarga '-er' qo'shib ishlatiladi.",
+    "example": {
+     "en": "My house is bigger than yours.",
+     "uz": "Mening uyim senikidan kattaroq."
+    }
+   },
+   {
+    "text": "Ikki yoki undan ortiq bo'g'inli sifatlar oldidan 'more' so'zi ishlatiladi.",
+    "example": {
+     "en": "This test is more difficult than the last one.",
+     "uz": "Bu test oxirgisiga qaraganda qiyinroq."
+    }
+   },
+   {
+    "text": "Solishtirilayotgan narsalar orasida 'than' (dan) so'zi ishlatiladi.",
+    "example": {
+     "en": "An elephant is stronger than a horse.",
+     "uz": "Fil otdan kuchliroq."
+    }
+   },
+   {
+    "text": "Farqni kuchaytirish uchun qiyosiy sifatdan oldin 'much' so'zi ishlatiladi.",
+    "example": {
+     "en": "Physics is much harder than history.",
+     "uz": "Fizika tarixga qaraganda ancha qiyin."
+    }
+   }
+  ],
+  "structure": [
+   {
+    "type": "+",
+    "formula": "Subject + be + adjective-er / more + adjective + than + noun/pronoun",
+    "example": {
+     "en": "Tashkent is bigger than Samarkand.",
+     "uz": "Toshkent Samarqanddan kattaroq."
+    }
+   },
+   {
+    "type": "-",
+    "formula": "Subject + be + not + as + adjective + as + noun/pronoun",
+    "example": {
+     "en": "Samarkand is not as big as Tashkent.",
+     "uz": "Samarqand Toshkentchalik katta emas."
+    }
+   },
+   {
+    "type": "?",
+    "formula": "Be + subject + adjective-er / more + adjective + than + noun/pronoun?",
+    "example": {
+     "en": "Is Tashkent bigger than Samarkand?",
+     "uz": "Toshkent Samarqanddan kattami?"
+    }
+   }
+  ],
+  "signals": [
+   {
+    "en": "than",
+    "uz": "...dan"
+   },
+   {
+    "en": "much",
+    "uz": "ancha"
+   },
+   {
+    "en": "a bit",
+    "uz": "biroz"
+   },
+   {
+    "en": "compared to",
+    "uz": "solishtirganda"
+   }
+  ],
+  "tip": "Y - bilan tugaydigan ikki bo'g'inli sifatlarda (masalan: happy) y harfi tushib qoladi va -ier qo'shiladi (happier)."
+ },
+ {
+  "name": "Superlative adjectives",
+  "name_uz": "Orttirma darajadagi sifatlar",
+  "summary": "Uch yoki undan ortiq narsa va odamlardan eng ustun bo'lganini ko'rsatish uchun orttirma darajadagi sifatlardan foydalanamiz. Ular oldidan doimo 'the' artikli ishlatiladi.",
+  "usage": [
+   {
+    "text": "Bir bo'g'inli sifatlarga 'the' va '-est' qo'shimchasi qo'shiladi.",
+    "example": {
+     "en": "Mount Everest is the highest mountain in the world.",
+     "uz": "Everest cho'qqisi dunyodagi eng baland tog'."
+    }
+   },
+   {
+    "text": "Uzun sifatlar oldidan 'the most' so'zi ishlatiladi.",
+    "example": {
+     "en": "This is the most interesting book I have ever read.",
+     "uz": "Bu men o'qigan eng qiziqarli kitob."
+    }
+   },
+   {
+    "text": "Guruh ichidan ajratib ko'rsatishda 'in' yoki 'of' ko'makchulari ishlatiladi.",
+    "example": {
+     "en": "He is the tallest boy in the class.",
+     "uz": "U sinfdagi eng uzun bo'yli bola."
+    }
+   }
+  ],
+  "structure": [
+   {
+    "type": "+",
+    "formula": "Subject + be + the + adjective-est / most + adjective + in/of + group",
+    "example": {
+     "en": "She is the smartest student in our school.",
+     "uz": "U maktabimizdagi eng aqlli o'quvchi."
+    }
+   },
+   {
+    "type": "-",
+    "formula": "Subject + be + not + the + adjective-est / most + adjective",
+    "example": {
+     "en": "He is not the oldest person in the room.",
+     "uz": "U xonadagi eng yoshi ulug' odam emas."
+    }
+   },
+   {
+    "type": "?",
+    "formula": "Be + subject + the + adjective-est / most + adjective + in/of + group?",
+    "example": {
+     "en": "Who is the tallest person in your family?",
+     "uz": "Oilangizdagi eng uzun bo'yli odam kim?"
+    }
+   }
+  ],
+  "signals": [
+   {
+    "en": "in the world",
+    "uz": "dunoda"
+   },
+   {
+    "en": "in the class",
+    "uz": "sinfda"
+   },
+   {
+    "en": "ever",
+    "uz": "hali (shu paytgacha)"
+   },
+   {
+    "en": "of all",
+    "uz": "hammasidan"
+   }
+  ],
+  "tip": "Orttirma darajadagi sifatlardan oldin har doim 'the' artiklini yozishni unutmang!"
+ },
+ {
+  "name": "too + adjective; adjective + enough; enough + noun",
+  "name_uz": "'too + sifat', 'sifat + enough', 'enough + ot'",
+  "summary": "Bu qoliplar me'yordan ortiqlikni ('too') yoki yetarlilikni ('enough') bildirish uchun ishlatiladi. Ular gapda darajani ko'rsatadi.",
+  "usage": [
+   {
+    "text": "'Too' so'zi sifatdan oldin kelib, 'haddan tashqari ko'p, salbiy ma'noda yetarli emas' degan ma'noni beradi.",
+    "example": {
+     "en": "This tea is too hot to drink.",
+     "uz": "Bu choy ichish uchun juda issiq (haddan tashqari issiq)."
+    }
+   },
+   {
+    "text": "'Enough' so'zi sifatdan keyin kelib, 'yetarlicha' ekanligini bildiradi.",
+    "example": {
+     "en": "Are you warm enough?",
+     "uz": "Sizga yetarlicha issiqmi (sovqotmayapsizmi)?"
+    }
+   },
+   {
+    "text": "'Enough' so'zi otlardan oldin kelib, narsaning miqdori yetarli ekanini bildiradi.",
+    "example": {
+     "en": "We have enough time to finish the project.",
+     "uz": "Loyihani tugatish uchun yetarli vaqtibmiz bor."
+    }
+   }
+  ],
+  "structure": [
+   {
+    "type": "+",
+    "formula": "Subject + be + too + adjective (+ to-infinitive)",
+    "example": {
+     "en": "The box is too heavy to lift.",
+     "uz": "Quti ko'tarish uchun juda og'ir."
+    }
+   },
+   {
+    "type": "+",
+    "formula": "Subject + be + adjective + enough (+ to-infinitive)",
+    "example": {
+     "en": "He is old enough to drive a car.",
+     "uz": "U mashina haydash uchun yetarlicha yoshga yetgan."
+    }
+   },
+   {
+    "type": "+",
+    "formula": "Subject + verb + enough + noun",
+    "example": {
+     "en": "I have enough money to buy a phone.",
+     "uz": "Menda telefon sotib olish uchun yetarli pul bor."
+    }
+   }
+  ],
+  "signals": [
+   {
+    "en": "too cold",
+    "uz": "juda sovuq"
+   },
+   {
+    "en": "old enough",
+    "uz": "yetarlicha yoshdagi"
+   },
+   {
+    "en": "enough time",
+    "uz": "yetarli vaqt"
+   },
+   {
+    "en": "too difficult",
+    "uz": "juda qiyin"
+   }
+  ],
+  "tip": "Joylashuviga e'tibor bering: 'too' sifatdan OLDIN, 'enough' esa sifatdan KEYIN, lekin otning OLDINDA keladi."
+ }
+]

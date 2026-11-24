@@ -1,0 +1,36 @@
+﻿59`t16`t111`t110
+114`t20`t140`tExercise 23
+65`t20`t585`tMultilevel Moster reading
+161`t18`t138`tRead the texts and the statements A-J. Decide which text matches
+191`t18`t138`tWith the situation described in the statements.
+219`t21`t138`tEach statement can be used ONCE only. There are TWO egtra
+248`t17`t137`tstatements which you do not need to use.
+281`t21`t138`tA) This restaurant can serve its clients in any part of the day.
+309`t21`t138`tB) You may not have lunch at weekends in this restaurant
+338`t22`t137`tC) There is an additional payment if you use the delivery service in the
+368`t21`t165`tevening.
+395`t21`t138`tD) This restaurant doesn't have a delivery service.
+423`t21`t138`tE) You may have fast food and pay with a card there.
+452`t23`t138`tF) You can enjoy live music at this restaurant in the evenings.
+482`t21`t137`tG) The restaurant offers special ice cream forcertain clients at no charge.
+509`t21`t137`tH) If you want free detivery, there is a requirement for minimum payment,
+537`t21`t138`tl) It is impossible to have breakfast during weekdays at this restaurant.
+566`t21`t136`tJ) There is a dress code for clients at this restaurant.
+632`t16`t470`t2
+647`t18`t170`tCHAN'S RESTAURANT
+696`t18`t150`t2nd noon Green Shopping Center
+717`t20`t192`tOpen 11 arm, to IO prm.
+740`t19`t233`t7 days a week
+781`t17`t162`t'"Excellent Chinese cuisine•••
+824`t16`t213`tDine in or take out!
+846`t20`t219`tSorry no delivery
+639`t17`t566`tCome to the
+685`t17`t560`tSMACHER'S
+708`t18`t551`tRESTAURANT
+753`t20`t513`tBreakfast, lunch, dinner
+777`t20`t552`tOpen 24 hours
+800`t22`t537`tFamily Restaurant
+846`t18`t542`tMeals start at $4
+893`t17`t519`tVISA and MasterCard
+917`t16`t578`twelcome
+939`t17`t576`t987-5412

@@ -1,0 +1,1185 @@
+{
+ "code": "4.1",
+ "model": "gemini-3.5-flash-lite",
+ "tr1": [
+  {
+   "part": 0,
+   "uz": "Bu mening kitobim.",
+   "en": [
+    "This is my book."
+   ],
+   "rule": "Mening - my"
+  },
+  {
+   "part": 0,
+   "uz": "Sening sumkang qayerda?",
+   "en": [
+    "Where is your bag?"
+   ],
+   "rule": "Sening - your"
+  },
+  {
+   "part": 0,
+   "uz": "Uning (o'g'il bola) mashinasi katta.",
+   "en": [
+    "His car is big."
+   ],
+   "rule": "Uning (erkak) - his"
+  },
+  {
+   "part": 0,
+   "uz": "Uning (qiz bola) ismi Malika.",
+   "en": [
+    "Her name is Malika."
+   ],
+   "rule": "Uning (ayol) - her"
+  },
+  {
+   "part": 0,
+   "uz": "Mening telefonim yangi.",
+   "en": [
+    "My phone is new."
+   ],
+   "rule": "Mening - my"
+  },
+  {
+   "part": 0,
+   "uz": "Sening uying chiroyli.",
+   "en": [
+    "Your house is beautiful."
+   ],
+   "rule": "Sening - your"
+  },
+  {
+   "part": 0,
+   "uz": "Uning (o'g'il bola) akasi doktor.",
+   "en": [
+    "His brother is a doctor."
+   ],
+   "rule": "Uning (erkak) - his"
+  },
+  {
+   "part": 0,
+   "uz": "Uning (qiz bola) dugonasi yaxshi.",
+   "en": [
+    "Her friend is good."
+   ],
+   "rule": "Uning (ayol) - her"
+  },
+  {
+   "part": 0,
+   "uz": "Mening kameram qayerda?",
+   "en": [
+    "Where is my camera?"
+   ],
+   "rule": "Mening - my"
+  },
+  {
+   "part": 0,
+   "uz": "Sening isming nima?",
+   "en": [
+    "What is your name?"
+   ],
+   "rule": "Sening - your"
+  },
+  {
+   "part": 0,
+   "uz": "Uning (o'g'il bola) ismi Tom.",
+   "en": [
+    "His name is Tom."
+   ],
+   "rule": "Uning (erkak) - his"
+  },
+  {
+   "part": 0,
+   "uz": "Uning (qiz bola) sumkasi kichik.",
+   "en": [
+    "Her bag is small."
+   ],
+   "rule": "Uning (ayol) - her"
+  },
+  {
+   "part": 0,
+   "uz": "Mening kompyuterim ishlaydi.",
+   "en": [
+    "My computer is good."
+   ],
+   "rule": "Mening - my"
+  },
+  {
+   "part": 0,
+   "uz": "Sening mushiging juda yoqimtoy.",
+   "en": [
+    "Your cat is very good."
+   ],
+   "rule": "Sening - your"
+  },
+  {
+   "part": 0,
+   "uz": "Uning (o'g'il bola) telefoni bu yerda.",
+   "en": [
+    "His phone is here."
+   ],
+   "rule": "Uning (erkak) - his"
+  },
+  {
+   "part": 0,
+   "uz": "Uning (qiz bola) ishi qayerda?",
+   "en": [
+    "Where is her job?"
+   ],
+   "rule": "Uning (ayol) - her"
+  },
+  {
+   "part": 0,
+   "uz": "Mening xonam kichik.",
+   "en": [
+    "My room is small."
+   ],
+   "rule": "Mening - my"
+  },
+  {
+   "part": 0,
+   "uz": "Sening kitobing qiziqarli.",
+   "en": [
+    "Your book is interesting."
+   ],
+   "rule": "Sening - your"
+  },
+  {
+   "part": 0,
+   "uz": "Uning (o'g'il bola) uyi Toshkentda.",
+   "en": [
+    "His house is in Tashkent."
+   ],
+   "rule": "Uning (erkak) - his"
+  },
+  {
+   "part": 0,
+   "uz": "Uning (qiz bola) opasi o'qituvchi.",
+   "en": [
+    "Her sister is a teacher."
+   ],
+   "rule": "Uning (ayol) - her"
+  },
+  {
+   "part": 0,
+   "uz": "Mening do'stim ingliz.",
+   "en": [
+    "My friend is English."
+   ],
+   "rule": "Mening - my"
+  },
+  {
+   "part": 0,
+   "uz": "Sening telefon raqaming nima?",
+   "en": [
+    "What is your phone number?"
+   ],
+   "rule": "Sening - your"
+  },
+  {
+   "part": 0,
+   "uz": "Uning (o'g'il bola) mashinasi yangi.",
+   "en": [
+    "His car is new."
+   ],
+   "rule": "Uning (erkak) - his"
+  },
+  {
+   "part": 0,
+   "uz": "Uning (qiz bola) mushigi kichik.",
+   "en": [
+    "Her cat is small."
+   ],
+   "rule": "Uning (ayol) - her"
+  },
+  {
+   "part": 0,
+   "uz": "Mening oilam Toshkentda.",
+   "en": [
+    "My family is in Tashkent."
+   ],
+   "rule": "Mening - my"
+  },
+  {
+   "part": 0,
+   "uz": "Sening ishing qanday?",
+   "en": [
+    "How is your job?"
+   ],
+   "rule": "Sening - your"
+  },
+  {
+   "part": 0,
+   "uz": "Uning (o'g'il bola) ismi Ali.",
+   "en": [
+    "His name is Ali."
+   ],
+   "rule": "Uning (erkak) - his"
+  },
+  {
+   "part": 0,
+   "uz": "Uning (qiz bola) xonasi chiroyli.",
+   "en": [
+    "Her room is beautiful."
+   ],
+   "rule": "Uning (ayol) - her"
+  },
+  {
+   "part": 0,
+   "uz": "Mening stulim bu yerda.",
+   "en": [
+    "My chair is here."
+   ],
+   "rule": "Mening - my"
+  },
+  {
+   "part": 0,
+   "uz": "Sening mushiging katta.",
+   "en": [
+    "Your cat is big."
+   ],
+   "rule": "Sening - your"
+  },
+  {
+   "part": 0,
+   "uz": "Uning (o'g'il bola) dadasi bank menejeri.",
+   "en": [
+    "His father is a bank manager."
+   ],
+   "rule": "Uning (erkak) - his"
+  },
+  {
+   "part": 0,
+   "uz": "Uning (qiz bola) onasi shifokor.",
+   "en": [
+    "Her mother is a doctor."
+   ],
+   "rule": "Uning (ayol) - her"
+  },
+  {
+   "part": 0,
+   "uz": "Mening ismim Aziz.",
+   "en": [
+    "My name is Aziz."
+   ],
+   "rule": "Mening - my"
+  },
+  {
+   "part": 0,
+   "uz": "Sening familiyang nima?",
+   "en": [
+    "What is your surname?"
+   ],
+   "rule": "Sening - your"
+  },
+  {
+   "part": 0,
+   "uz": "Uning (o'g'il bola) kitobi yangi.",
+   "en": [
+    "His book is new."
+   ],
+   "rule": "Uning (erkak) - his"
+  },
+  {
+   "part": 0,
+   "uz": "Uning (qiz bola) ismi Anna.",
+   "en": [
+    "Her name is Anna."
+   ],
+   "rule": "Uning (ayol) - her"
+  },
+  {
+   "part": 0,
+   "uz": "Mening stajyor do'stim bu yerda.",
+   "en": [
+    "My friend is here."
+   ],
+   "rule": "Mening - my"
+  },
+  {
+   "part": 0,
+   "uz": "Sening darsing qayerda?",
+   "en": [
+    "Where is your school?"
+   ],
+   "rule": "Sening - your"
+  },
+  {
+   "part": 0,
+   "uz": "Uning (o'g'il bola) ishi juda yaxshi.",
+   "en": [
+    "His job is very good."
+   ],
+   "rule": "Uning (erkak) - his"
+  },
+  {
+   "part": 0,
+   "uz": "Uning (qiz bola) telefoni yangi.",
+   "en": [
+    "Her phone is new."
+   ],
+   "rule": "Uning (ayol) - her"
+  },
+  {
+   "part": 1,
+   "uz": "Bu bizning maktabimiz.",
+   "en": [
+    "This is our school."
+   ],
+   "rule": "Bizning - our"
+  },
+  {
+   "part": 1,
+   "uz": "Ularning uyi katta.",
+   "en": [
+    "Their house is big."
+   ],
+   "rule": "Ularning - their"
+  },
+  {
+   "part": 1,
+   "uz": "Uning oti Reks (it haqida).",
+   "en": [
+    "Its name is Rex."
+   ],
+   "rule": "Uning (jonzot/buyum) - its"
+  },
+  {
+   "part": 1,
+   "uz": "Bizning sinfimiz chiroyli.",
+   "en": [
+    "Our room is beautiful."
+   ],
+   "rule": "Bizning - our"
+  },
+  {
+   "part": 1,
+   "uz": "Ularning mashinasi qayerda?",
+   "en": [
+    "Where is their car?"
+   ],
+   "rule": "Ularning - their"
+  },
+  {
+   "part": 1,
+   "uz": "Bu mushuk, uning ismi Reks.",
+   "en": [
+    "This is a cat, its name is Rex."
+   ],
+   "rule": "Uning (jonzot) - its"
+  },
+  {
+   "part": 1,
+   "uz": "Bizning o'qituvchimiz ingliz.",
+   "en": [
+    "Our teacher is English."
+   ],
+   "rule": "Bizning - our"
+  },
+  {
+   "part": 1,
+   "uz": "Ularning do'stlari bu yerda.",
+   "en": [
+    "Their friends are here."
+   ],
+   "rule": "Ularning - their"
+  },
+  {
+   "part": 1,
+   "uz": "Bu it, uning rangi qora.",
+   "en": [
+    "This is a dog, its colour is black."
+   ],
+   "rule": "Uning (jonzot) - its"
+  },
+  {
+   "part": 1,
+   "uz": "Bizning shahrimiz juda chiroyli.",
+   "en": [
+    "Our city is very beautiful."
+   ],
+   "rule": "Bizning - our"
+  }
+ ],
+ "tr51": [
+  {
+   "part": 1,
+   "uz": "Bizning maktabimiz katta.",
+   "en": [
+    "Our school is big."
+   ],
+   "rule": "Bizning maktabimiz uchun 'Our school' qo'llaniladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ularning uyi kichik.",
+   "en": [
+    "Their house is small."
+   ],
+   "rule": "Ularning uyi uchun 'Their house' qo'llaniladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu uning nomi, u Reks.",
+   "en": [
+    "Its name is Rex."
+   ],
+   "rule": "Hayvonning nomi uchun 'Its name' ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bizning mashinamiz yangi.",
+   "en": [
+    "Our car is new."
+   ],
+   "rule": "Bizning mashinamiz uchun 'Our car' ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ularning mushugi kichik.",
+   "en": [
+    "Their cat is small."
+   ],
+   "rule": "Ularning mushugi uchun 'Their cat' ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu uyning nomi shahar.",
+   "en": [
+    "Its name is town."
+   ],
+   "rule": "Narsaning nomi uchun 'Its' qo'llaniladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bizning do'stimiz bu yerda.",
+   "en": [
+    "Our friend is here."
+   ],
+   "rule": "Bizning do'stimiz uchun 'Our friend' ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ularning ota-onasi shu yerda.",
+   "en": [
+    "Their family is here."
+   ],
+   "rule": "Ularning oilasi uchun 'Their family' ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bizning xonamiz yaxshi.",
+   "en": [
+    "Our room is good."
+   ],
+   "rule": "Bizning xonamiz uchun 'Our room' ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ularning ishlari yaxshi.",
+   "en": [
+    "Their job is good."
+   ],
+   "rule": "Ularning ishi uchun 'Their job' ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bizning sumkamiz bu yerda.",
+   "en": [
+    "Our bag is here."
+   ],
+   "rule": "Bizning sumkamiz uchun 'Our bag' ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ularning telefoni yangi.",
+   "en": [
+    "Their phone is new."
+   ],
+   "rule": "Ularning telefoni uchun 'Their phone' ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bizning uyimiz Toshkentda.",
+   "en": [
+    "Our house is in Tashkent."
+   ],
+   "rule": "Joyni ko'rsatishda 'in' ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ularning maktabi Toshkentda.",
+   "en": [
+    "Their school is in Tashkent."
+   ],
+   "rule": "Ularning maktabi uchun 'Their school' ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu it, uning rangi qora.",
+   "en": [
+    "It is a dog, its colour is black."
+   ],
+   "rule": "Itning rangi uchun 'its colour' ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bizning kitobimiz bu yerda.",
+   "en": [
+    "Our book is here."
+   ],
+   "rule": "Bizning kitobimiz uchun 'Our book' ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ularning kamerasi yangi.",
+   "en": [
+    "Their camera is new."
+   ],
+   "rule": "Ularning kamerasi uchun 'Their camera' ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bizning oilamiz baxtli.",
+   "en": [
+    "Our family is happy."
+   ],
+   "rule": "Bizning oilamiz uchun 'Our family' ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ularning do'stlari shu yerda.",
+   "en": [
+    "Their friends are here."
+   ],
+   "rule": "Ko'plik uchun 'Their friends are' ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu mushuk, uning ismi Reks.",
+   "en": [
+    "It is a cat, its name is Rex."
+   ],
+   "rule": "Hayvon nomi uchun 'its name' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Mening ismim Ali.",
+   "en": [
+    "My name is Ali."
+   ],
+   "rule": "Ismim uchun 'My name' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Sening sumkang qayerda?",
+   "en": [
+    "Where is your bag?"
+   ],
+   "rule": "Savol uchun 'Where is your' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Uning ukasi talaba.",
+   "en": [
+    "His brother is a student."
+   ],
+   "rule": "O'g'il bola egaligi uchun 'His' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Uning opasi o'qituvchi.",
+   "en": [
+    "Her sister is a teacher."
+   ],
+   "rule": "Qiz bola egaligi uchun 'Her' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Bizning uyimiz katta.",
+   "en": [
+    "Our house is big."
+   ],
+   "rule": "Bizning egaligimiz uchun 'Our' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Ularning mashinasi yangi.",
+   "en": [
+    "Their car is new."
+   ],
+   "rule": "Ularning egaligi uchun 'Their' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu it, uning ismi Reks.",
+   "en": [
+    "It is a dog, its name is Rex."
+   ],
+   "rule": "Jonsiz narsa yoki hayvon uchun 'Its' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Mening kitobim bu yerda.",
+   "en": [
+    "My book is here."
+   ],
+   "rule": "Mening kitobim uchun 'My book' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Sening uying qayerda?",
+   "en": [
+    "Where is your house?"
+   ],
+   "rule": "Sening uying uchun 'your house' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Uning do'sti Toshkentdan.",
+   "en": [
+    "His friend is from Tashkent."
+   ],
+   "rule": "O'g'il bola do'sti uchun 'His friend' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Uning opasi Samarqanddan.",
+   "en": [
+    "Her sister is from Samarkand."
+   ],
+   "rule": "Qiz bola opasi uchun 'Her sister' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Bizning maktabimiz shu yerda.",
+   "en": [
+    "Our school is here."
+   ],
+   "rule": "Bizning maktabimiz uchun 'Our school' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Ularning ofisi markazda.",
+   "en": [
+    "Their office is in the centre."
+   ],
+   "rule": "Ularning ofisi uchun 'Their office' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Mening telefonim yangi.",
+   "en": [
+    "My phone is new."
+   ],
+   "rule": "Mening telefonim uchun 'My phone' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Sening familiyang nima?",
+   "en": [
+    "What is your surname?"
+   ],
+   "rule": "Familiya so'rashda 'your surname' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Uning otasi doktor.",
+   "en": [
+    "His father is a doctor."
+   ],
+   "rule": "O'g'il bola otasi uchun 'His father' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Uning onasi o'qituvchi.",
+   "en": [
+    "Her mother is a teacher."
+   ],
+   "rule": "Qiz bola onasi uchun 'Her mother' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Bizning sinfimiz kichik.",
+   "en": [
+    "Our classroom is small."
+   ],
+   "rule": "Bizning sinfimiz uchun 'Our classroom' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Ularning xonasi katta.",
+   "en": [
+    "Their room is big."
+   ],
+   "rule": "Ularning xonasi uchun 'Their room' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu mushuk, uning ko'zlari yashil.",
+   "en": [
+    "It is a cat, its eyes are green."
+   ],
+   "rule": "Hayvon qismi uchun 'its eyes' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Mening sumkam qora.",
+   "en": [
+    "My bag is black."
+   ],
+   "rule": "Mening sumkam uchun 'My bag' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Sening do'sting talaba.",
+   "en": [
+    "Your friend is a student."
+   ],
+   "rule": "Sening do'sting uchun 'Your friend' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Uning ukasi maktabda.",
+   "en": [
+    "His brother is at school."
+   ],
+   "rule": "Maktabda so'zida 'at school' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Uning singlisi uyda.",
+   "en": [
+    "Her sister is at home."
+   ],
+   "rule": "Uyda so'zida 'at home' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Bizning mashinamiz ko'cha.",
+   "en": [
+    "Our car is in the street."
+   ],
+   "rule": "Ko'chada so'zi uchun 'in the street' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Ularning oilasi Toshkentda.",
+   "en": [
+    "Their family is in Tashkent."
+   ],
+   "rule": "Ularning oilasi uchun 'Their family' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu mushuk, uning ismi Murka.",
+   "en": [
+    "It is a cat, its name is Murka."
+   ],
+   "rule": "Mushuk ismi uchun 'its name' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Mening ismim Malika.",
+   "en": [
+    "My name is Malika."
+   ],
+   "rule": "Mening ismim uchun 'My name' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Sening isming Tom.",
+   "en": [
+    "Your name is Tom."
+   ],
+   "rule": "Sening isming uchun 'Your name' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Uning ismi Anna.",
+   "en": [
+    "Her name is Anna."
+   ],
+   "rule": "Qiz bola ismi uchun 'Her name' ishlatiladi."
+  }
+ ],
+ "intro": {
+  "what": "Egalik sifatlari (Possessive adjectives) narsaning kimgadir tegishliligini bildiradi. Ular doim ot so'z turkumidan oldin keladi.",
+  "when": [
+   "Buyum kimga tegishli ekanini ko'rsatish uchun",
+   "Oila a'zolari va tanishlarni tanishtirishda",
+   "Shaxsiy buyumlar va o'rin-joylarni atashda"
+  ],
+  "structures": [
+   {
+    "label": "(+) Darak",
+    "formula": "S + TOBE + POSSESSIVE ADJECTIVE + OB",
+    "example_en": "This is our school.",
+    "example_uz": "Bu bizning maktabimiz."
+   },
+   {
+    "label": "(-) Inkor",
+    "formula": "S + TOBE + NOT + POSSESSIVE ADJECTIVE + OB",
+    "example_en": "This is not my book.",
+    "example_uz": "Bu mening kitobim emas."
+   },
+   {
+    "label": "(?) So'roq",
+    "formula": "TOBE + S + POSSESSIVE ADJECTIVE + OB?",
+    "example_en": "Is this your car?",
+    "example_uz": "Bu sening mashinangmi?"
+   }
+  ],
+  "rules": [
+   {
+    "title": "Ot bilan ishlatilishi",
+    "text": "Egalik sifatlaridan (my, your, his, her, its, our, their) keyin albatta ot kelishi shart. Ulardan keyin yolg'iz o'zi kelib qolmaydi.",
+    "examples": [
+     {
+      "en": "My bag is big.",
+      "uz": "Mening sumkam katta."
+     },
+     {
+      "en": "Your house is new.",
+      "uz": "Sening uying yangi."
+     }
+    ]
+   },
+   {
+    "title": "Jinsga moslashish",
+    "text": "His faqat o'g'il bola (erkak) uchun, her esa qiz bola (ayol) uchun ishlatiladi. Its esa jonivorlar va narsalar uchun qo'llaniladi.",
+    "examples": [
+     {
+      "en": "His name is Aziz.",
+      "uz": "Uning ismi Aziz."
+     },
+     {
+      "en": "Her name is Malika.",
+      "uz": "Uning ismi Malika."
+     }
+    ]
+   }
+  ],
+  "signal_words": [
+   {
+    "en": "My",
+    "uz": "Mening"
+   },
+   {
+    "en": "Your",
+    "uz": "Sening / Sizning"
+   },
+   {
+    "en": "His",
+    "uz": "Uning (o'g'il bola)"
+   },
+   {
+    "en": "Her",
+    "uz": "Uning (qiz bola)"
+   },
+   {
+    "en": "Its",
+    "uz": "Uning (narsa/jonivor)"
+   },
+   {
+    "en": "Our",
+    "uz": "Bizning"
+   },
+   {
+    "en": "Their",
+    "uz": "Ularning"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "This is mine book.",
+    "right": "This is my book.",
+    "why": "Otdan oldin 'mine' emas, 'my' egalik sifati ishlatiladi."
+   },
+   {
+    "wrong": "She is her name Malika.",
+    "right": "Her name is Malika.",
+    "why": "Ismni aytishda 'Her name is...' qolipi ishlatiladi."
+   },
+   {
+    "wrong": "This is they house.",
+    "right": "This is their house.",
+    "why": "Ularning demoqchi bo'lsak 'they' emas, 'their' ishlatish kerak."
+   }
+  ]
+ },
+ "test": [
+  {
+   "type": "fill",
+   "q": "This is ______ book. [I]",
+   "answer": "my",
+   "explain": "Men so'zining egalik sifati 'my' bo'ladi.",
+   "accept": [],
+   "hint": "I"
+  },
+  {
+   "type": "fill",
+   "q": "What is ______ name? [you]",
+   "answer": "your",
+   "explain": "Siz so'zining egalik sifati 'your' bo'ladi.",
+   "accept": [],
+   "hint": "you"
+  },
+  {
+   "type": "fill",
+   "q": "______ name is Aziz. [he]",
+   "answer": "His",
+   "explain": "O'g'il bola uchun egalik sifati 'his' ishlatiladi.",
+   "accept": [],
+   "hint": "he"
+  },
+  {
+   "type": "fill",
+   "q": "This is ______ bag. [she]",
+   "answer": "her",
+   "explain": "Qiz bola uchun egalik sifati 'her' ishlatiladi.",
+   "accept": [],
+   "hint": "she"
+  },
+  {
+   "type": "fill",
+   "q": "______ name is Rex. [it]",
+   "answer": "Its",
+   "explain": "Jonivor yoki narsa uchun egalik sifati 'its' ishlatiladi.",
+   "accept": [],
+   "hint": "it"
+  },
+  {
+   "type": "fill",
+   "q": "This is ______ school. [we]",
+   "answer": "our",
+   "explain": "Biz so'zining egalik sifati 'our' bo'ladi.",
+   "accept": [],
+   "hint": "we"
+  },
+  {
+   "type": "fill",
+   "q": "______ house is big. [they]",
+   "answer": "Their",
+   "explain": "Ular so'zining egalik sifati 'their' bo'ladi.",
+   "accept": [],
+   "hint": "they"
+  },
+  {
+   "type": "fill",
+   "q": "Is this ______ phone? [you]",
+   "answer": "your",
+   "explain": "Savol tuzishda ham 'you' uchun 'your' egalik sifati ishlatiladi.",
+   "accept": [],
+   "hint": "you"
+  },
+  {
+   "type": "fill",
+   "q": "______ car is red. [I]",
+   "answer": "My",
+   "explain": "Mening mashinam demoqchi bo'lsak 'my' yozamiz.",
+   "accept": [],
+   "hint": "I"
+  },
+  {
+   "type": "fill",
+   "q": "Where is ______ teacher? [we]",
+   "answer": "our",
+   "explain": "Bizning o'qituvchimiz demoqchi bo'lsak 'our' ishlatiladi.",
+   "accept": [],
+   "hint": "we"
+  },
+  {
+   "type": "fill",
+   "q": "______ friends are nice. [they]",
+   "answer": "Their",
+   "explain": "Ularning do'stlari demoqchi bo'lsak 'their' qo'yiladi.",
+   "accept": [],
+   "hint": "they"
+  },
+  {
+   "type": "fill",
+   "q": "What is ______ surname? [he]",
+   "answer": "his",
+   "explain": "Uning (o'g'il bola) familiyasi uchun 'his' ishlatiladi.",
+   "accept": [],
+   "hint": "he"
+  },
+  {
+   "type": "fill",
+   "q": "This is ______ camera. [she]",
+   "answer": "her",
+   "explain": "Uning (qiz bola) kamerasi demoqchi bo'lsak 'her' bo'ladi.",
+   "accept": [],
+   "hint": "she"
+  },
+  {
+   "type": "fill",
+   "q": "______ dog is small. [it]",
+   "answer": "Its",
+   "explain": "It hayvon bo'lgani uchun 'its' egalik sifati mos keladi.",
+   "accept": [],
+   "hint": "it"
+  },
+  {
+   "type": "fill",
+   "q": "Are these ______ books? [you]",
+   "answer": "your",
+   "explain": "Ko'plikdagi otlar bilan ham 'your' o'zgarmay ishlatiladi.",
+   "accept": [],
+   "hint": "you"
+  },
+  {
+   "type": "fill",
+   "q": "______ job is doctor. [he]",
+   "answer": "His",
+   "explain": "Uning kasbi demoqchi bo'lsak 'his' ishlatiladi.",
+   "accept": [],
+   "hint": "he"
+  },
+  {
+   "type": "fill",
+   "q": "______ address is Tashkent. [I]",
+   "answer": "My",
+   "explain": "Mening manzilim demoqchi bo'lsak 'my' yoziladi.",
+   "accept": [],
+   "hint": "I"
+  },
+  {
+   "type": "fill",
+   "q": "This is ______ family. [we]",
+   "answer": "our",
+   "explain": "Bizning oilamiz demoqchi bo'lsak 'our' ishlatiladi.",
+   "accept": [],
+   "hint": "we"
+  },
+  {
+   "type": "fill",
+   "q": "______ phone number is 12345. [she]",
+   "answer": "Her",
+   "explain": "Uning (qiz bola) telefon raqami uchun 'her' ishlatiladi.",
+   "accept": [],
+   "hint": "she"
+  },
+  {
+   "type": "fill",
+   "q": "______ parents are married. [they]",
+   "answer": "Their",
+   "explain": "Ularning ota-onalari demoqchi bo'lsak 'their' yoziladi.",
+   "accept": [],
+   "hint": "they"
+  },
+  {
+   "type": "mc",
+   "q": "This is ______ bag. [I]",
+   "answer": "my",
+   "explain": "I olmoshiga mos keluvchi egalik sifati 'my'.",
+   "options": [
+    "my",
+    "his",
+    "your"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ name is Malika. [she]",
+   "answer": "Her",
+   "explain": "Qiz bola uchun 'her' ishlatiladi.",
+   "options": [
+    "His",
+    "Her",
+    "Our"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "This is ______ school. [we]",
+   "answer": "our",
+   "explain": "We olmoshining egalik shakli 'our'.",
+   "options": [
+    "their",
+    "our",
+    "my"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ car is new. [he]",
+   "answer": "His",
+   "explain": "O'g'il bola uchun 'his' egalik sifati ishlatiladi.",
+   "options": [
+    "Her",
+    "His",
+    "Its"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "What is ______ name? [you]",
+   "answer": "your",
+   "explain": "You olmoshiga mos keluvchi egalik sifati 'your'.",
+   "options": [
+    "my",
+    "our",
+    "your"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ house is big. [they]",
+   "answer": "Their",
+   "explain": "They olmoshining egalik shakli 'their'.",
+   "options": [
+    "Their",
+    "Our",
+    "His"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "The cat is here. ______ name is Rex. [it]",
+   "answer": "Its",
+   "explain": "Jonivorlar uchun 'its' ishlatiladi.",
+   "options": [
+    "His",
+    "Its",
+    "Her"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Is this ______ phone? [I]",
+   "answer": "my",
+   "explain": "O'zimga tegishli narsani so'raganda 'my' ishlatiladi.",
+   "options": [
+    "your",
+    "my",
+    "his"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ friends are from Tashkent. [we]",
+   "answer": "Our",
+   "explain": "Bizning do'stlarimiz demoqchi bo'lsak 'our' tanlanadi.",
+   "options": [
+    "Their",
+    "Our",
+    "Your"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ job is interesting. [she]",
+   "answer": "Her",
+   "explain": "Qiz bolaning kasbi haqida aytganda 'her' ishlatiladi.",
+   "options": [
+    "His",
+    "Her",
+    "My"
+   ]
+  }
+ ]
+}

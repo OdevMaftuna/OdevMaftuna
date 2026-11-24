@@ -1,0 +1,35 @@
+{
+ "script": "Speaker: This is the information line for the Dorset Chocolate Museum, the home of chocolate lovers and the ideal place to spend an afternoon. Do you know who used cocoa beans as money in the 16th century? Or where chocolate was drunk as a medicine? At the Dorset Chocolate Museum, you'll find out about all this and more. Our fascinating displays will guide you through the history of chocolate making, from its earliest use in South America to the modern day. Then, move on to the demonstration area of our small family-run factory. Here, you can watch our skilled chocolate makers making a variety of chocolate bars as well as other sweets, and you can even have a try at making your own! We open seven days a week from 12.00 midday till 6.00 p.m., except in July and August, when we are open until 8.00 p.m. From September to December, we are open at weekends only. We are closed throughout January, but open again from the 1st of February. Admission is £10 for adults and £5 for children up to the age of 16, while children under five are free. Students pay £2 less, so that's £8, but only if they have a student ID card. Special reduced entrance fees are available for groups of 10 or more people. We can also make special arrangements for schools on weekdays between 12.00 and 4.00 p.m. All groups will be provided with a private tour guide, and at the end, each member of the group will receive a bag of lovely handmade chocolates. Our special range of chocolate boxes and bars is always available to buy in our gift shop. For more details, phone the gift shop on 01632 960054.",
+ "items": [
+  {
+   "n": 1,
+   "quote": "guide you through the history of chocolate making",
+   "uz": "Audioda 'guide you through the history of chocolate making' deyiladi. Ko'rgazma shokolad ishlab chiqarish tarixini ko'rsatadi, shuning uchun 'history' so'zi to'g'ri keladi."
+  },
+  {
+   "n": 2,
+   "quote": "making a variety of chocolate bars, as well as other sweets",
+   "uz": "Suhbatda shokolad va boshqa 'sweets' (shirinliklar) tayyorlanishi haqida aytiladi. Shuning uchun javob 'sweets'."
+  },
+  {
+   "n": 3,
+   "quote": "We are closed throughout January",
+   "uz": "Audioda 'closed throughout January' ya'ni yanvar oyida yopiq bo'lishi ta'kidlanadi (boshqa oylardagi ish vaqtlari bilan chalkashtirmaslik kerak)."
+  },
+  {
+   "n": 4,
+   "quote": "Students pay 2 pounds less, so that's 8 pounds",
+   "uz": "Kattalar uchun narx 10 funt, talabalar uchun 2 funt arzonroq, ya'ni '8' (eight) funt ekani aytiladi."
+  },
+  {
+   "n": 5,
+   "quote": "available for groups of 10 or more people",
+   "uz": "Guruhlar uchun chegirmalar kamida '10' (ten) kishidan iborat guruhlarga berilishi aytib o'tilgan."
+  },
+  {
+   "n": 6,
+   "quote": "receive a bag of lovely handmade chocolates",
+   "uz": "Tashrif oxirida har bir guruh a'zosiga bepul shokolad solingan 'bag' (xalta/paket) beriladi."
+  }
+ ]
+}

@@ -1,0 +1,1234 @@
+{
+ "code": "2.2",
+ "model": "gemini-3.5-flash-lite",
+ "tr1": [
+  {
+   "part": 0,
+   "uz": "Uning ismi Tom.",
+   "en": [
+    "His name is Tom.",
+    "His name's Tom."
+   ],
+   "rule": "Erkak kishi uchun 'his' egalik olmoshi ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Uning mashinasi qora.",
+   "en": [
+    "His car is black."
+   ],
+   "rule": "Erkakning narsasi uchun 'his' ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Uning uyi Toshkentda.",
+   "en": [
+    "His house is in Tashkent."
+   ],
+   "rule": "Erkakning uyi uchun 'his house'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning telefoni yangi.",
+   "en": [
+    "His phone is new."
+   ],
+   "rule": "Erkakning telefoni uchun 'his phone'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning kitobi yaxshi.",
+   "en": [
+    "His book is good."
+   ],
+   "rule": "Erkakning kitobi - 'his book'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning sumkasi katta.",
+   "en": [
+    "His bag is big."
+   ],
+   "rule": "Erkakning sumkasi uchun 'his bag'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning kamerasi kichkina.",
+   "en": [
+    "His camera is small."
+   ],
+   "rule": "Erkakning kamerasi - 'his camera'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning kompyuteri zo'r.",
+   "en": [
+    "His computer is fantastic.",
+    "His computer is really good."
+   ],
+   "rule": "Erkakning kompyuteri uchun 'his computer'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning do'sti doktor.",
+   "en": [
+    "His friend is a doctor."
+   ],
+   "rule": "Erkakning do'sti - 'his friend'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning mushugi qora.",
+   "en": [
+    "His cat is black."
+   ],
+   "rule": "Erkak kishining mushugi uchun 'his'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning iti katta.",
+   "en": [
+    "His dog is big."
+   ],
+   "rule": "Erkakning iti - 'his dog'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning stoli kichkina.",
+   "en": [
+    "His table is small."
+   ],
+   "rule": "Erkakning stoli uchun 'his table'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning familiyasi Ali.",
+   "en": [
+    "His surname is Ali."
+   ],
+   "rule": "Erkakning familiyasi - 'his surname'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning ismi Aziz.",
+   "en": [
+    "His first name is Aziz."
+   ],
+   "rule": "Erkakning ismi uchun 'his first name'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning ishi juda yaxshi.",
+   "en": [
+    "His job is very well.",
+    "His job is good."
+   ],
+   "rule": "Erkakning ishi - 'his'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning otasi shifokor.",
+   "en": [
+    "His father is a doctor."
+   ],
+   "rule": "Erkakning otasi uchun 'his father'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning akasi Toshkentda.",
+   "en": [
+    "His brother is in Tashkent."
+   ],
+   "rule": "Erkakning akasi/ukasi uchun 'his brother'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning rasmi juda chiroyli.",
+   "en": [
+    "His photograph is beautiful."
+   ],
+   "rule": "Erkakning surati - 'his photograph'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning avtobusi sariq.",
+   "en": [
+    "His bus is yellow."
+   ],
+   "rule": "Erkakning avtobusi uchun 'his'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning stulchasi qora.",
+   "en": [
+    "His chair is black."
+   ],
+   "rule": "Erkakning stuli uchun 'his chair'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning xonasi katta.",
+   "en": [
+    "His room is big."
+   ],
+   "rule": "Erkakning xonasi - 'his room'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning maktabi shaharda.",
+   "en": [
+    "His school is in the city."
+   ],
+   "rule": "Erkakning maktabi uchun 'his school'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning ismi Tom va u turmush qurgan.",
+   "en": [
+    "His name is Tom and he is married."
+   ],
+   "rule": "Egalik uchun 'his' ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Uning mashinasi va uyi juda zo'r.",
+   "en": [
+    "His car and his house are fantastic.",
+    "His car and house are fantastic."
+   ],
+   "rule": "Erkakning narsalari 'his' orqali bildiriladi."
+  },
+  {
+   "part": 0,
+   "uz": "Uning kitobi va daftari yangi.",
+   "en": [
+    "His book is new."
+   ],
+   "rule": "Erkakning kitobi 'his book'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning do'sti Samarkanddan.",
+   "en": [
+    "His friend is from Samarkand."
+   ],
+   "rule": "Erkakning do'sti uchun 'his friend'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning kompyuteri Toshkentda.",
+   "en": [
+    "His computer is in Tashkent."
+   ],
+   "rule": "Erkakning kompyuteri - 'his computer'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning stoli va stulchasi qora.",
+   "en": [
+    "His table and chair are black."
+   ],
+   "rule": "Erkakning buyumlari uchun 'his'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning sumkasi va kamerasi yangi.",
+   "en": [
+    "His bag and camera are new."
+   ],
+   "rule": "Erkakning narsalari 'his' bilan."
+  },
+  {
+   "part": 0,
+   "uz": "Uning uyi va mashinasi kichkina.",
+   "en": [
+    "His house and car are small."
+   ],
+   "rule": "Erkakning uyi va mashinasi - 'his'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning telefoni va kofe stoli yaxshi.",
+   "en": [
+    "His phone is good."
+   ],
+   "rule": "Erkakning telefoni uchun 'his phone'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning familiyasi Aziz.",
+   "en": [
+    "His surname is Aziz."
+   ],
+   "rule": "Erkakning familiyasi - 'his surname'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning shahar markazidagi uyi zo'r.",
+   "en": [
+    "His house in the city centre is fantastic."
+   ],
+   "rule": "Erkakning uyi 'his house'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning ismi Ali va u talaba.",
+   "en": [
+    "His name is Ali and he is a student."
+   ],
+   "rule": "Erkakning ismi 'his name'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning mushugi va iti oq.",
+   "en": [
+    "His cat and dog are white."
+   ],
+   "rule": "Erkakning hayvonlari uchun 'his'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning darsi ingliz tilidan.",
+   "en": [
+    "His English lesson is good."
+   ],
+   "rule": "Erkakning darsi uchun 'his'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning qiz do'sti Toshkentdan.",
+   "en": [
+    "His friend is from Tashkent."
+   ],
+   "rule": "Erkakning do'sti 'his friend'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning ukasi talaba.",
+   "en": [
+    "His brother is a student."
+   ],
+   "rule": "Erkakning ukasi 'his brother'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning otasi Toshkentda.",
+   "en": [
+    "His father is in Tashkent."
+   ],
+   "rule": "Erkakning otasi uchun 'his father'."
+  },
+  {
+   "part": 0,
+   "uz": "Uning mashinasi O'zbekistonda.",
+   "en": [
+    "His car is in Uzbekistan."
+   ],
+   "rule": "Erkakning mashinasi 'his car'."
+  },
+  {
+   "part": 1,
+   "uz": "Uning ismi Anna.",
+   "en": [
+    "Her name is Anna.",
+    "Her name's Anna."
+   ],
+   "rule": "Ayol kishi uchun 'her' egalik olmoshi ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Uning mashinasi qizil.",
+   "en": [
+    "Her car is red."
+   ],
+   "rule": "Ayolning mashinasi uchun 'her car'."
+  },
+  {
+   "part": 1,
+   "uz": "Uning uyi Samarkandda.",
+   "en": [
+    "Her house is in Samarkand."
+   ],
+   "rule": "Ayolning uyi 'her house'."
+  },
+  {
+   "part": 1,
+   "uz": "Uning telefoni yangi.",
+   "en": [
+    "Her phone is new."
+   ],
+   "rule": "Ayolning telefoni uchun 'her phone'."
+  },
+  {
+   "part": 1,
+   "uz": "Uning kitobi ingliz tilida.",
+   "en": [
+    "Her book is English.",
+    "Her book is in English."
+   ],
+   "rule": "Ayolning kitobi 'her book'."
+  },
+  {
+   "part": 1,
+   "uz": "Uning sumkasi qora.",
+   "en": [
+    "Her bag is black."
+   ],
+   "rule": "Ayolning sumkasi uchun 'her bag'."
+  },
+  {
+   "part": 1,
+   "uz": "Uning kamerasi chiroyli.",
+   "en": [
+    "Her camera is beautiful."
+   ],
+   "rule": "Ayolning kamerasi 'her camera'."
+  },
+  {
+   "part": 1,
+   "uz": "Uning kompyuteri katta.",
+   "en": [
+    "Her computer is big."
+   ],
+   "rule": "Ayolning kompyuteri uchun 'her computer'."
+  },
+  {
+   "part": 1,
+   "uz": "Uning do'sti Malika.",
+   "en": [
+    "Her friend is Malika."
+   ],
+   "rule": "Ayolning do'sti 'her friend'."
+  },
+  {
+   "part": 1,
+   "uz": "Uning mushugi oq.",
+   "en": [
+    "Her cat is white."
+   ],
+   "rule": "Ayolning mushugi uchun 'her cat'."
+  }
+ ],
+ "tr51": [
+  {
+   "part": 1,
+   "uz": "Uning ismi Malika.",
+   "en": [
+    "Her name's Malika.",
+    "Her name is Malika."
+   ],
+   "rule": "Ayol kishi egaligi: her + ot"
+  },
+  {
+   "part": 1,
+   "uz": "Uning mashinasi yangi emas.",
+   "en": [
+    "Her car is not new.",
+    "Her car isn't new."
+   ],
+   "rule": "Ayol kishi uchun egalik olmoshi"
+  },
+  {
+   "part": 1,
+   "uz": "Uning uyi Toshkentda.",
+   "en": [
+    "Her house is in Tashkent."
+   ],
+   "rule": "Ayol kishi egaligi: her house"
+  },
+  {
+   "part": 1,
+   "uz": "Uning sumkasi qora.",
+   "en": [
+    "Her bag is black."
+   ],
+   "rule": "Ayol kishi egaligi: her"
+  },
+  {
+   "part": 1,
+   "uz": "Uning telefoni qayerda?",
+   "en": [
+    "Where is her phone?",
+    "Where's her phone?"
+   ],
+   "rule": "Ayol kishi uchun egalik"
+  },
+  {
+   "part": 1,
+   "uz": "Uning do'sti o'qituvchi.",
+   "en": [
+    "Her friend is a teacher."
+   ],
+   "rule": "Ayol kishi egaligi: her friend"
+  },
+  {
+   "part": 1,
+   "uz": "Uning familiyasi Karimova.",
+   "en": [
+    "Her surname is Karimova."
+   ],
+   "rule": "Ayol kishi familiyasi uchun her"
+  },
+  {
+   "part": 1,
+   "uz": "Uning choyi juda issiq.",
+   "en": [
+    "Her tea is very hot."
+   ],
+   "rule": "Ayol kishi egaligi: her tea"
+  },
+  {
+   "part": 1,
+   "uz": "Uning kompyuteri katta.",
+   "en": [
+    "Her computer is big."
+   ],
+   "rule": "Ayol kishi egaligi: her computer"
+  },
+  {
+   "part": 1,
+   "uz": "Uning mushugi kichkina.",
+   "en": [
+    "Her cat is small."
+   ],
+   "rule": "Ayol kishi egaligi: her cat"
+  },
+  {
+   "part": 1,
+   "uz": "Uning kitobi stol ustida.",
+   "en": [
+    "Her book is on the table."
+   ],
+   "rule": "Ayol kishi uchun her"
+  },
+  {
+   "part": 1,
+   "uz": "Uning opasi shifokor.",
+   "en": [
+    "Her sister is a doctor."
+   ],
+   "rule": "Ayol kishi qarindoshi uchun her"
+  },
+  {
+   "part": 1,
+   "uz": "Uning xonasi juda chiroyli.",
+   "en": [
+    "Her room is very beautiful."
+   ],
+   "rule": "Ayol kishi xonasi: her room"
+  },
+  {
+   "part": 1,
+   "uz": "Uning qizi talaba.",
+   "en": [
+    "Her daughter is a student."
+   ],
+   "rule": "Ayol kishi farzandi uchun her"
+  },
+  {
+   "part": 1,
+   "uz": "Uning kamera suratda.",
+   "en": [
+    "Her camera is in the photograph."
+   ],
+   "rule": "Ayol kishi buyumi uchun her"
+  },
+  {
+   "part": 1,
+   "uz": "Uning jasur do'sti shu yerda.",
+   "en": [
+    "Her good friend is here."
+   ],
+   "rule": "Ayol kishi do'sti uchun her"
+  },
+  {
+   "part": 1,
+   "uz": "Uning ismi Anna.",
+   "en": [
+    "Her name's Anna.",
+    "Her name is Anna."
+   ],
+   "rule": "Ayol kishi ismi uchun her"
+  },
+  {
+   "part": 1,
+   "uz": "Uning stoli kichkina.",
+   "en": [
+    "Her table is small."
+   ],
+   "rule": "Ayol kishi stoli uchun her"
+  },
+  {
+   "part": 1,
+   "uz": "Uning suvi yaxshi.",
+   "en": [
+    "Her water is fine."
+   ],
+   "rule": "Ayol kishi suvi uchun her"
+  },
+  {
+   "part": 1,
+   "uz": "Uning sandvichi juda mazali.",
+   "en": [
+    "Her sandwich is really good."
+   ],
+   "rule": "Ayol kishi taomi uchun her"
+  },
+  {
+   "part": 2,
+   "uz": "U shifokor va uning ismi Ali.",
+   "en": [
+    "He's a doctor and his name's Ali.",
+    "He is a doctor and his name is Ali."
+   ],
+   "rule": "He's (he is) va his farqi"
+  },
+  {
+   "part": 2,
+   "uz": "U o'qituvchi va uning ismi Malika.",
+   "en": [
+    "She's a teacher and her name's Malika.",
+    "She is a teacher and her name is Malika."
+   ],
+   "rule": "She's (she is) va her farqi"
+  },
+  {
+   "part": 2,
+   "uz": "U talaba va uning sumkasi qora.",
+   "en": [
+    "He's a student and his bag is black.",
+    "He is a student and his bag is black."
+   ],
+   "rule": "He's - u (erkak), his - uning"
+  },
+  {
+   "part": 2,
+   "uz": "U talaba va uning sumkasi yangi.",
+   "en": [
+    "She's a student and her bag is new.",
+    "She is a student and her bag is new."
+   ],
+   "rule": "She's - u (ayol), her - uning"
+  },
+  {
+   "part": 2,
+   "uz": "U Toshkentdan va uning uyi katta.",
+   "en": [
+    "He's from Tashkent and his house is big.",
+    "He is from Tashkent and his house is big."
+   ],
+   "rule": "He's (he is) va his egalik"
+  },
+  {
+   "part": 2,
+   "uz": "U Samarqanddan va uning uyi kichkina.",
+   "en": [
+    "She's from Samarkand and her house is small.",
+    "She is from Samarkand and her house is small."
+   ],
+   "rule": "She's (she is) va her egalik"
+  },
+  {
+   "part": 2,
+   "uz": "U uyda va uning mashinasi qora.",
+   "en": [
+    "He's at home and his car is black.",
+    "He is at home and his car is black."
+   ],
+   "rule": "He's (he is) va his so'zlari"
+  },
+  {
+   "part": 2,
+   "uz": "U ishda va uning mashinasi oq.",
+   "en": [
+    "She's at work and her car is white.",
+    "She is at work and her car is white."
+   ],
+   "rule": "She's (she is) va her so'zlari"
+  },
+  {
+   "part": 2,
+   "uz": "U yaxshi do'st va uning ismi Tom.",
+   "en": [
+    "He's a good friend and his name's Tom.",
+    "He is a good friend and his name is Tom."
+   ],
+   "rule": "He's qisqartma, his egalik olmoshi"
+  },
+  {
+   "part": 2,
+   "uz": "U yaxshi do'st va uning ismi Anna.",
+   "en": [
+    "She's a good friend and her name's Anna.",
+    "She is a good friend and her name is Anna."
+   ],
+   "rule": "She's qisqartma, her egalik olmoshi"
+  },
+  {
+   "part": 2,
+   "uz": "U uylangan va uning xotini shifokor.",
+   "en": [
+    "He's married and his wife is a doctor.",
+    "He is married and his wife is a doctor."
+   ],
+   "rule": "He's va his farqi"
+  },
+  {
+   "part": 2,
+   "uz": "U turmush qurgan va uning eri o'qituvchi.",
+   "en": [
+    "She's married and her husband is a teacher.",
+    "She is married and her husband is a teacher."
+   ],
+   "rule": "She's va her farqi"
+  },
+  {
+   "part": 2,
+   "uz": "U o'ttiz yoshda va uning mashinasi yangi.",
+   "en": [
+    "He's thirty and his car is new.",
+    "He is thirty and his car is new."
+   ],
+   "rule": "He's yosh uchun, his egalik uchun"
+  },
+  {
+   "part": 2,
+   "uz": "U yigirma yoshda va uning mashinasi eski.",
+   "en": [
+    "She's twenty and her car is old.",
+    "She is twenty and her car is old."
+   ],
+   "rule": "She's yosh uchun, her egalik uchun"
+  },
+  {
+   "part": 2,
+   "uz": "U kasalxonada va uning do'sti shu yerda.",
+   "en": [
+    "He's in the hospital and his friend is here.",
+    "He is in the hospital and his friend is here."
+   ],
+   "rule": "He's (he is) va his"
+  },
+  {
+   "part": 2,
+   "uz": "U kasalxonada va uning opasi shu yerda.",
+   "en": [
+    "She's in the hospital and her sister is here.",
+    "She is in the hospital and her sister is here."
+   ],
+   "rule": "She's (she is) va her"
+  },
+  {
+   "part": 2,
+   "uz": "U bu yerda va uning telefoni yangi.",
+   "en": [
+    "He's here and his phone is new.",
+    "He is here and his phone is new."
+   ],
+   "rule": "He's fe'l, his egalik"
+  },
+  {
+   "part": 2,
+   "uz": "U u yerda va uning telefoni eski.",
+   "en": [
+    "She's there and her phone is old.",
+    "She is there and her phone is old."
+   ],
+   "rule": "She's fe'l, her egalik"
+  },
+  {
+   "part": 2,
+   "uz": "U ingliz va uning familiyasi Smith.",
+   "en": [
+    "He's English and his surname is Smith.",
+    "He is English and his surname is Smith."
+   ],
+   "rule": "He's millat, his familiya"
+  },
+  {
+   "part": 2,
+   "uz": "U ingliz va uning familiyasi Brown.",
+   "en": [
+    "She's English and her surname is Brown.",
+    "She is English and her surname is Brown."
+   ],
+   "rule": "She's millat, her familiya"
+  },
+  {
+   "part": 2,
+   "uz": "U bu yerda va uning kitobi stol ustida.",
+   "en": [
+    "He's here and his book is on the table.",
+    "He is here and his book is on the table."
+   ],
+   "rule": "He's - u, his - uning"
+  },
+  {
+   "part": 2,
+   "uz": "U u yerda va uning kitobi stol ustida.",
+   "en": [
+    "She's there and her book is on the table.",
+    "She is there and her book is on the table."
+   ],
+   "rule": "She's - u, her - uning"
+  },
+  {
+   "part": 2,
+   "uz": "U o'qituvchi va uning ismi Aziz.",
+   "en": [
+    "He's a teacher and his name's Aziz.",
+    "He is a teacher and his name is Aziz."
+   ],
+   "rule": "He's va his ishlatilishi"
+  },
+  {
+   "part": 2,
+   "uz": "U o'qituvchi va uning ismi Nodira.",
+   "en": [
+    "She's a teacher and her name's Nodira.",
+    "She is a teacher and her name is Nodira."
+   ],
+   "rule": "She's va her ishlatilishi"
+  },
+  {
+   "part": 2,
+   "uz": "U yaxshi bola va uning mushugi kichkina.",
+   "en": [
+    "He's a good boy and his cat is small.",
+    "He is a good boy and his cat is small."
+   ],
+   "rule": "He's shaxs, his egalik"
+  },
+  {
+   "part": 2,
+   "uz": "U yaxshi qiz va uning mushugi katta.",
+   "en": [
+    "She's a good girl and her cat is big.",
+    "She is a good girl and her cat is big."
+   ],
+   "rule": "She's shaxs, her egalik"
+  },
+  {
+   "part": 2,
+   "uz": "U ta'tilda va uning akasi shaharda.",
+   "en": [
+    "He's on holiday and his brother is in the city.",
+    "He is on holiday and his brother is in the city."
+   ],
+   "rule": "He's holat, his egalik"
+  },
+  {
+   "part": 2,
+   "uz": "U ta'tilda va uning opasi shaharda.",
+   "en": [
+    "She's on holiday and her sister is in the city.",
+    "She is on holiday and her sister is in the city."
+   ],
+   "rule": "She's holat, her egalik"
+  },
+  {
+   "part": 2,
+   "uz": "U inson va uning ismi Bob.",
+   "en": [
+    "He's a man and his name's Bob.",
+    "He is a man and his name is Bob."
+   ],
+   "rule": "He's (he is) va his farqi"
+  },
+  {
+   "part": 2,
+   "uz": "U ayol va uning ismi Mary.",
+   "en": [
+    "She's a woman and her name's Mary.",
+    "She is a woman and her name is Mary."
+   ],
+   "rule": "She's (she is) va her farqi"
+  }
+ ],
+ "intro": {
+  "what": "Possessive adjectives 'his' va 'her' egalikni bildiradi: 'his' o'g'il bola (erkak) uchun, 'her' esa qiz bola (ayol) uchun ishlatiladi.",
+  "when": [
+   "Erkak kishining narsasini ko'rsatishda (his)",
+   "Ayol kishining narsasini ko'rsatishda (her)",
+   "Ism va qarindoshlarni tanishtirishda"
+  ],
+  "structures": [
+   {
+    "label": "(+)",
+    "formula": "S + TOBE + HIS / HER + OB",
+    "example_en": "His name is Pablo.",
+    "example_uz": "Uning ismi Pablo."
+   },
+   {
+    "label": "(+)",
+    "formula": "S + TOBE + HIS / HER + OB",
+    "example_en": "Her name is Anna.",
+    "example_uz": "Uning ismi Anna."
+   }
+  ],
+  "rules": [
+   {
+    "title": "His va Her farqi",
+    "text": "'His' faqat o'g'il yoki erkaklar uchun ishlatiladi. 'Her' faqat qiz yoki ayollar uchun ishlatiladi.",
+    "examples": [
+     {
+      "en": "His car is new.",
+      "uz": "Uning mashinasi yangi."
+     },
+     {
+      "en": "Her bag is small.",
+      "uz": "Uning sumkasi kichkina."
+     }
+    ]
+   },
+   {
+    "title": "He's va His farqi",
+    "text": "'He's' bu 'He is' qisqartmasi bo'lib, 'U - ...' degani. 'His' esa egalikni bildiradi va o'zidan keyin ot keladi.",
+    "examples": [
+     {
+      "en": "He's a doctor.",
+      "uz": "U shifokor."
+     },
+     {
+      "en": "His brother is a student.",
+      "uz": "Uning akasi talaba."
+     }
+    ]
+   }
+  ],
+  "signal_words": [
+   {
+    "en": "His",
+    "uz": "Uning (o'g'il bola uchun)"
+   },
+   {
+    "en": "Her",
+    "uz": "Uning (qiz bola uchun)"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "Her name is Ali.",
+    "right": "His name is Ali.",
+    "why": "Ali o'g'il bola bo'lgani uchun 'his' ishlatilishi kerak."
+   },
+   {
+    "wrong": "His is a teacher.",
+    "right": "He's a teacher.",
+    "why": "Bu yerda egalik emas, 'he is' (he's) qisqartmasi kerak."
+   }
+  ]
+ },
+ "test": [
+  {
+   "type": "fill",
+   "q": "______ name is Pablo.",
+   "answer": "His",
+   "explain": "Pablo o'g'il bola bo'lgani uchun 'his' egalik sifati ishlatiladi.",
+   "accept": [
+    "his"
+   ],
+   "hint": "he"
+  },
+  {
+   "type": "fill",
+   "q": "What's ______ name?",
+   "answer": "her",
+   "explain": "Qiz bola uchun 'her' egalik sifati qo'llaniladi.",
+   "accept": [
+    "Her"
+   ],
+   "hint": "she"
+  },
+  {
+   "type": "fill",
+   "q": "______ bag is black.",
+   "answer": "Her",
+   "explain": "Ayol kishining sumkasi haqida gap ketganda 'her' ishlatiladi.",
+   "accept": [
+    "her"
+   ],
+   "hint": "she"
+  },
+  {
+   "type": "fill",
+   "q": "This is ______ car.",
+   "answer": "his",
+   "explain": "Erkak kishining mashinasi uchun 'his' ishlatiladi.",
+   "accept": [
+    "His"
+   ],
+   "hint": "he"
+  },
+  {
+   "type": "fill",
+   "q": "______ a doctor.",
+   "answer": "He's",
+   "explain": "Bu yerda egalik emas, 'he is' qisqartmasi kerak.",
+   "accept": [
+    "He is"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "______ name is Anna.",
+   "answer": "Her",
+   "explain": "Anna qiz bola bo'lgani uchun 'her' ishlatiladi.",
+   "accept": [
+    "her"
+   ],
+   "hint": "she"
+  },
+  {
+   "type": "fill",
+   "q": "______ brother is a student.",
+   "answer": "His",
+   "explain": "O'g'il bolaning ukasi/akasi haqida aytish uchun 'his' ishlatiladi.",
+   "accept": [
+    "his"
+   ],
+   "hint": "he"
+  },
+  {
+   "type": "fill",
+   "q": "Where is ______ house?",
+   "answer": "his",
+   "explain": "Erkak kishining uyi uchun 'his' qo'yiladi.",
+   "accept": [
+    "His"
+   ],
+   "hint": "he"
+  },
+  {
+   "type": "fill",
+   "q": "______ camera is very good.",
+   "answer": "Her",
+   "explain": "Ayol kishining kamerasi haqida gap ketganda 'her' ishlatiladi.",
+   "accept": [
+    "her"
+   ],
+   "hint": "she"
+  },
+  {
+   "type": "fill",
+   "q": "Is ______ phone new?",
+   "answer": "his",
+   "explain": "Erkak kishining telefoni uchun 'his' ishlatiladi.",
+   "accept": [
+    "His"
+   ],
+   "hint": "he"
+  },
+  {
+   "type": "fill",
+   "q": "______ teacher is nice.",
+   "answer": "Her",
+   "explain": "Qiz bolaning o'qituvchisi uchun 'her' ishlatiladi.",
+   "accept": [
+    "her"
+   ],
+   "hint": "she"
+  },
+  {
+   "type": "fill",
+   "q": "______ a student.",
+   "answer": "He's",
+   "explain": "Bu yerda 'he is' (he's) qisqartmasi kerak.",
+   "accept": [
+    "He is"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "______ name is Aziz.",
+   "answer": "His",
+   "explain": "Aziz o'g'il bola, shuning uchun 'his' ishlatiladi.",
+   "accept": [
+    "his"
+   ],
+   "hint": "he"
+  },
+  {
+   "type": "fill",
+   "q": "Look at ______ book.",
+   "answer": "his",
+   "explain": "Erkak kishining kitobi uchun 'his' ishlatiladi.",
+   "accept": [
+    "His"
+   ],
+   "hint": "he"
+  },
+  {
+   "type": "fill",
+   "q": "______ cat is small.",
+   "answer": "Her",
+   "explain": "Qiz bolaning mushugi haqida aytish uchun 'her' ishlatiladi.",
+   "accept": [
+    "her"
+   ],
+   "hint": "she"
+  },
+  {
+   "type": "fill",
+   "q": "______ from Tashkent.",
+   "answer": "He's",
+   "explain": "U Toshkentdan demoqchimiz, shuning uchun 'He's' (He is) kerak.",
+   "accept": [
+    "He is"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "What is ______ surname?",
+   "answer": "his",
+   "explain": "Erkak kishining familiyasi haqida so'rashda 'his' ishlatiladi.",
+   "accept": [
+    "His"
+   ],
+   "hint": "he"
+  },
+  {
+   "type": "fill",
+   "q": "______ English is very good.",
+   "answer": "Her",
+   "explain": "Qiz bolaning ingliz tili yaxshi demoqchimiz, shuning uchun 'her' ishlatiladi.",
+   "accept": [
+    "her"
+   ],
+   "hint": "she"
+  },
+  {
+   "type": "fill",
+   "q": "This is ______ computer.",
+   "answer": "his",
+   "explain": "Erkak kishining kompyuteri uchun 'his' qo'yiladi.",
+   "accept": [
+    "His"
+   ],
+   "hint": "he"
+  },
+  {
+   "type": "fill",
+   "q": "______ married.",
+   "answer": "He's",
+   "explain": "U uylangan demoqchimiz, shuning uchun 'He's' (He is) ishlatiladi.",
+   "accept": [
+    "He is"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "mc",
+   "q": "______ name is Malika.",
+   "answer": "Her",
+   "explain": "Malika qiz bola bo'lgani uchun 'Her' ishlatiladi.",
+   "options": [
+    "His",
+    "Her",
+    "He's"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ a doctor. (Tom)",
+   "answer": "He's",
+   "explain": "Tom shifokor demoqchimiz, shuning uchun 'He's' (He is) kerak.",
+   "options": [
+    "His",
+    "Her",
+    "He's"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Look at ______ car! (Ali)",
+   "answer": "His",
+   "explain": "Ali o'g'il bola, shuning uchun uning mashinasi 'His car' bo'ladi.",
+   "options": [
+    "His",
+    "Her",
+    "He's"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "What's ______ job?",
+   "answer": "his",
+   "explain": "Erkak kishining kasbi haqida so'rashda 'his' ishlatiladi.",
+   "options": [
+    "her",
+    "his",
+    "he's"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ 20 years old. (Anna)",
+   "answer": "She's",
+   "explain": "Bu yerda egalik emas, yoshni bildiruvchi 'She is' (She's) qisqartmasi kerak.",
+   "options": [
+    "Her",
+    "His",
+    "She's"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "This is ______ bag.",
+   "answer": "her",
+   "explain": "Ayol kishining sumkasi uchun 'her' ishlatiladi.",
+   "options": [
+    "his",
+    "her",
+    "he's"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ from Samarkand.",
+   "answer": "He's",
+   "explain": "U Samarkanddan demoqchimiz, shuning uchun 'He's' kerak.",
+   "options": [
+    "His",
+    "Her",
+    "He's"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ television is big.",
+   "answer": "His",
+   "explain": "Erkak kishining televizori uchun 'His' ishlatiladi.",
+   "options": [
+    "Her",
+    "His",
+    "He's"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Is ______ name John?",
+   "answer": "his",
+   "explain": "John o'g'il bola ismi, shuning uchun 'his' ishlatiladi.",
+   "options": [
+    "her",
+    "his",
+    "he's"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ a teacher. (Mrs Smith)",
+   "answer": "She's",
+   "explain": "Mrs Smith ayol kishi va u o'qituvchi, shuning uchun 'She's' (She is) ishlatiladi.",
+   "options": [
+    "Her",
+    "His",
+    "She's"
+   ]
+  }
+ ]
+}

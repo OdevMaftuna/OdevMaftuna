@@ -1,0 +1,35 @@
+{
+ "script": "Speaker: This will be a very exciting time for you. You've got the grades you needed, and you're off to university. For many of you, this will be the first time away from home. Write a list of things you should take with you, for example, your passport, if you're planning to go traveling. You'll certainly need all the documentation the university has sent you about your course or accommodation. Don't bring too many household items with you. You'll be able to buy a lot of things at university. When you arrive and go to your room, check that everything is as it should be and in good condition. Report anything that looks damaged. You don't want to be blamed for this and be asked to pay any costs involved. This is also the time to get to meet new people. Don't lock yourself away in your room, but go to the kitchen as this is always the first place to introduce yourself to other students. During your first week, you can enjoy Freshers' Week. This is the time to find out about all the clubs and societies you can join at university. These are great ways to get to know students doing different subjects. These people will help you forget about your studies when you need to relax and not talk about work. It's sensible to limit yourself to signing up to a maximum of five groups, or you'll be receiving emails for weeks to come. Don't forget the important things like registering with the local doctor as soon as you can. And think about your weekly shopping list. Don't spend too much, but at the same time, make sure you don't go hungry. And remember to put your name on your food. A shared fridge sometimes leads to arguments.",
+ "items": [
+  {
+   "n": 1,
+   "quote": "documentation the university has sent you about your course or accommodation",
+   "uz": "Ma'ruzachi universitet yuborgan hujjatlar kurs yoki turar joy (accommodation) haqida bo'lishini ta'kidlaydi."
+  },
+  {
+   "n": 2,
+   "quote": "Report anything that looks damaged",
+   "uz": "Xonangizga kirganda barcha narsalar yaxshi holatda ekanini tekshiring va shikastlangan (damaged) narsalar bo'lsa, xabar bering."
+  },
+  {
+   "n": 3,
+   "quote": "Don't lock yourself away in your room, but go to the kitchen",
+   "uz": "Boshqa talabalar bilan tanishish uchun xonada berkinmay, oshxonaga (kitchen) borish maslahat beriladi."
+  },
+  {
+   "n": 4,
+   "quote": "get to know students doing different subjects",
+   "uz": "Klub va jamiyatlar turli yo'nalishlar/fanlar (subjects) bo'yicha tahsil olayotgan talabalar bilan tanishishga yordam beradi."
+  },
+  {
+   "n": 5,
+   "quote": "limit yourself to signing up to a maximum of five groups",
+   "uz": "Ko'plab elektron xabarlar kelmasligi uchun ko'pi bilan 5 ta (five) guruhga a'zo bo'lish tavsiya etiladi."
+  },
+  {
+   "n": 6,
+   "quote": "registering with the local doctor as soon as you can",
+   "uz": "Iloji boricha tezroq mahalliy shifokor (doctor) ro'yxatidan o'tishni unutmaslik kerak."
+  }
+ ]
+}

@@ -1,0 +1,7737 @@
+[
+ {
+  "unit": 1,
+  "sections": [
+   {
+    "title": "Family and People | Oila va odamlar",
+    "words": [
+     {
+      "n": 1,
+      "en": "mother",
+      "uz": "ona"
+     },
+     {
+      "n": 2,
+      "en": "father",
+      "uz": "ota"
+     },
+     {
+      "n": 3,
+      "en": "sister",
+      "uz": "opa / singil"
+     },
+     {
+      "n": 4,
+      "en": "brother",
+      "uz": "aka / uka"
+     },
+     {
+      "n": 5,
+      "en": "grandmother",
+      "uz": "buvi"
+     },
+     {
+      "n": 6,
+      "en": "grandfather",
+      "uz": "bobo"
+     },
+     {
+      "n": 7,
+      "en": "aunt",
+      "uz": "xola / amma"
+     },
+     {
+      "n": 8,
+      "en": "uncle",
+      "uz": "amaki / tog'a"
+     },
+     {
+      "n": 9,
+      "en": "cousin",
+      "uz": "amakivachcha"
+     },
+     {
+      "n": 10,
+      "en": "son",
+      "uz": "o'g'il"
+     },
+     {
+      "n": 11,
+      "en": "daughter",
+      "uz": "qiz (farzand)"
+     },
+     {
+      "n": 12,
+      "en": "baby",
+      "uz": "chaqaloq"
+     },
+     {
+      "n": 13,
+      "en": "child",
+      "uz": "bola"
+     },
+     {
+      "n": 14,
+      "en": "children",
+      "uz": "bolalar"
+     },
+     {
+      "n": 15,
+      "en": "parents",
+      "uz": "ota-ona"
+     },
+     {
+      "n": 16,
+      "en": "family",
+      "uz": "oila"
+     },
+     {
+      "n": 17,
+      "en": "friend",
+      "uz": "do'st"
+     },
+     {
+      "n": 18,
+      "en": "neighbour",
+      "uz": "qo'shni"
+     },
+     {
+      "n": 19,
+      "en": "boy",
+      "uz": "o'g'il bola"
+     },
+     {
+      "n": 20,
+      "en": "girl",
+      "uz": "qiz bola"
+     },
+     {
+      "n": 21,
+      "en": "man",
+      "uz": "erkak"
+     },
+     {
+      "n": 22,
+      "en": "woman",
+      "uz": "ayol"
+     },
+     {
+      "n": 23,
+      "en": "people",
+      "uz": "odamlar"
+     },
+     {
+      "n": 24,
+      "en": "person",
+      "uz": "shaxs"
+     },
+     {
+      "n": 25,
+      "en": "husband",
+      "uz": "er"
+     },
+     {
+      "n": 26,
+      "en": "wife",
+      "uz": "xotin"
+     },
+     {
+      "n": 27,
+      "en": "twin",
+      "uz": "egizak"
+     },
+     {
+      "n": 28,
+      "en": "relative",
+      "uz": "qarindosh"
+     },
+     {
+      "n": 29,
+      "en": "guest",
+      "uz": "mehmon"
+     },
+     {
+      "n": 30,
+      "en": "teacher",
+      "uz": "o'qituvchi"
+     },
+     {
+      "n": 31,
+      "en": "student",
+      "uz": "talaba"
+     },
+     {
+      "n": 32,
+      "en": "pupil",
+      "uz": "o'quvchi"
+     },
+     {
+      "n": 33,
+      "en": "classmate",
+      "uz": "sinfdosh"
+     },
+     {
+      "n": 34,
+      "en": "king",
+      "uz": "shoh"
+     },
+     {
+      "n": 35,
+      "en": "queen",
+      "uz": "malika"
+     },
+     {
+      "n": 36,
+      "en": "prince",
+      "uz": "shahzoda"
+     },
+     {
+      "n": 37,
+      "en": "princess",
+      "uz": "shahzoda qiz"
+     },
+     {
+      "n": 38,
+      "en": "hero",
+      "uz": "qahramon"
+     },
+     {
+      "n": 39,
+      "en": "stranger",
+      "uz": "notanish"
+     },
+     {
+      "n": 40,
+      "en": "adult",
+      "uz": "katta yoshli"
+     },
+     {
+      "n": 41,
+      "en": "teenager",
+      "uz": "o'smir"
+     },
+     {
+      "n": 42,
+      "en": "leader",
+      "uz": "yetakchi"
+     },
+     {
+      "n": 43,
+      "en": "boss",
+      "uz": "boshliq"
+     },
+     {
+      "n": 44,
+      "en": "member",
+      "uz": "a'zo"
+     },
+     {
+      "n": 45,
+      "en": "team",
+      "uz": "jamoa"
+     },
+     {
+      "n": 46,
+      "en": "group",
+      "uz": "guruh"
+     },
+     {
+      "n": 47,
+      "en": "crowd",
+      "uz": "olomon"
+     },
+     {
+      "n": 48,
+      "en": "enemy",
+      "uz": "dushman"
+     },
+     {
+      "n": 49,
+      "en": "twins",
+      "uz": "egizaklar"
+     },
+     {
+      "n": 50,
+      "en": "nephew",
+      "uz": "jiyan"
+     }
+    ]
+   },
+   {
+    "title": "Body and Health | Tana va salomatlik",
+    "words": [
+     {
+      "n": 51,
+      "en": "body",
+      "uz": "tana"
+     },
+     {
+      "n": 52,
+      "en": "head",
+      "uz": "bosh"
+     },
+     {
+      "n": 53,
+      "en": "face",
+      "uz": "yuz"
+     },
+     {
+      "n": 54,
+      "en": "hair",
+      "uz": "soch"
+     },
+     {
+      "n": 55,
+      "en": "eye",
+      "uz": "ko'z"
+     },
+     {
+      "n": 56,
+      "en": "ear",
+      "uz": "quloq"
+     },
+     {
+      "n": 57,
+      "en": "nose",
+      "uz": "burun"
+     },
+     {
+      "n": 58,
+      "en": "mouth",
+      "uz": "og'iz"
+     },
+     {
+      "n": 59,
+      "en": "tooth",
+      "uz": "tish"
+     },
+     {
+      "n": 60,
+      "en": "teeth",
+      "uz": "tishlar"
+     },
+     {
+      "n": 61,
+      "en": "tongue",
+      "uz": "til"
+     },
+     {
+      "n": 62,
+      "en": "lip",
+      "uz": "lab"
+     },
+     {
+      "n": 63,
+      "en": "neck",
+      "uz": "bo'yin"
+     },
+     {
+      "n": 64,
+      "en": "shoulder",
+      "uz": "yelka"
+     },
+     {
+      "n": 65,
+      "en": "arm",
+      "uz": "qo'l (tirsagacha)"
+     },
+     {
+      "n": 66,
+      "en": "hand",
+      "uz": "qo'l"
+     },
+     {
+      "n": 67,
+      "en": "finger",
+      "uz": "barmoq"
+     },
+     {
+      "n": 68,
+      "en": "thumb",
+      "uz": "bosh barmoq"
+     },
+     {
+      "n": 69,
+      "en": "nail",
+      "uz": "tirnoq / mix"
+     },
+     {
+      "n": 70,
+      "en": "chest",
+      "uz": "ko'krak"
+     },
+     {
+      "n": 71,
+      "en": "back",
+      "uz": "orqa"
+     },
+     {
+      "n": 72,
+      "en": "stomach",
+      "uz": "oshqozon / qorin"
+     },
+     {
+      "n": 73,
+      "en": "leg",
+      "uz": "oyoq"
+     },
+     {
+      "n": 74,
+      "en": "knee",
+      "uz": "tizza"
+     },
+     {
+      "n": 75,
+      "en": "foot",
+      "uz": "oyoq kafti"
+     },
+     {
+      "n": 76,
+      "en": "feet",
+      "uz": "oyoq kaftlari"
+     },
+     {
+      "n": 77,
+      "en": "toe",
+      "uz": "oyoq barmog'i"
+     },
+     {
+      "n": 78,
+      "en": "skin",
+      "uz": "teri"
+     },
+     {
+      "n": 79,
+      "en": "bone",
+      "uz": "suyak"
+     },
+     {
+      "n": 80,
+      "en": "heart",
+      "uz": "yurak"
+     },
+     {
+      "n": 81,
+      "en": "brain",
+      "uz": "miya"
+     },
+     {
+      "n": 82,
+      "en": "blood",
+      "uz": "qon"
+     },
+     {
+      "n": 83,
+      "en": "muscle",
+      "uz": "mushak"
+     },
+     {
+      "n": 84,
+      "en": "beard",
+      "uz": "soqol"
+     },
+     {
+      "n": 85,
+      "en": "eyebrow",
+      "uz": "qosh"
+     },
+     {
+      "n": 86,
+      "en": "forehead",
+      "uz": "peshona"
+     },
+     {
+      "n": 87,
+      "en": "cheek",
+      "uz": "yonoq"
+     },
+     {
+      "n": 88,
+      "en": "chin",
+      "uz": "iyak"
+     },
+     {
+      "n": 89,
+      "en": "elbow",
+      "uz": "tirsak"
+     },
+     {
+      "n": 90,
+      "en": "wrist",
+      "uz": "bilak"
+     },
+     {
+      "n": 91,
+      "en": "ankle",
+      "uz": "to'piq"
+     },
+     {
+      "n": 92,
+      "en": "health",
+      "uz": "salomatlik"
+     },
+     {
+      "n": 93,
+      "en": "healthy",
+      "uz": "sog'lom"
+     },
+     {
+      "n": 94,
+      "en": "sick",
+      "uz": "kasal"
+     },
+     {
+      "n": 95,
+      "en": "ill",
+      "uz": "betob"
+     },
+     {
+      "n": 96,
+      "en": "pain",
+      "uz": "og'riq"
+     },
+     {
+      "n": 97,
+      "en": "fever",
+      "uz": "isitma"
+     },
+     {
+      "n": 98,
+      "en": "cold",
+      "uz": "sovuq / shamollash"
+     },
+     {
+      "n": 99,
+      "en": "cough",
+      "uz": "yo'tal"
+     },
+     {
+      "n": 100,
+      "en": "headache",
+      "uz": "bosh og'rig'i"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 2,
+  "sections": [
+   {
+    "title": "Body and Health | Tana va salomatlik",
+    "words": [
+     {
+      "n": 101,
+      "en": "toothache",
+      "uz": "tish og'rig'i"
+     },
+     {
+      "n": 102,
+      "en": "doctor",
+      "uz": "shifokor"
+     },
+     {
+      "n": 103,
+      "en": "nurse",
+      "uz": "hamshira"
+     },
+     {
+      "n": 104,
+      "en": "medicine",
+      "uz": "dori"
+     },
+     {
+      "n": 105,
+      "en": "hospital",
+      "uz": "kasalxona"
+     },
+     {
+      "n": 106,
+      "en": "dentist",
+      "uz": "tish shifokori"
+     },
+     {
+      "n": 107,
+      "en": "injury",
+      "uz": "jarohat"
+     },
+     {
+      "n": 108,
+      "en": "hurt",
+      "uz": "og'ritmoq"
+     },
+     {
+      "n": 109,
+      "en": "breathe",
+      "uz": "nafas olmoq"
+     },
+     {
+      "n": 110,
+      "en": "sneeze",
+      "uz": "aksirmoq"
+     },
+     {
+      "n": 111,
+      "en": "sleepy",
+      "uz": "uyqusi kelgan"
+     },
+     {
+      "n": 112,
+      "en": "tired",
+      "uz": "charchagan"
+     },
+     {
+      "n": 113,
+      "en": "hungry",
+      "uz": "och"
+     },
+     {
+      "n": 114,
+      "en": "thirsty",
+      "uz": "chanqagan"
+     },
+     {
+      "n": 115,
+      "en": "strong",
+      "uz": "kuchli"
+     }
+    ]
+   },
+   {
+    "title": "Colors and Shapes | Ranglar va shakllar",
+    "words": [
+     {
+      "n": 116,
+      "en": "color",
+      "uz": "rang"
+     },
+     {
+      "n": 117,
+      "en": "red",
+      "uz": "qizil"
+     },
+     {
+      "n": 118,
+      "en": "blue",
+      "uz": "ko'k"
+     },
+     {
+      "n": 119,
+      "en": "green",
+      "uz": "yashil"
+     },
+     {
+      "n": 120,
+      "en": "yellow",
+      "uz": "sariq"
+     },
+     {
+      "n": 121,
+      "en": "orange",
+      "uz": "to'q sariq / apelsin"
+     },
+     {
+      "n": 122,
+      "en": "purple",
+      "uz": "binafsha"
+     },
+     {
+      "n": 123,
+      "en": "pink",
+      "uz": "pushti"
+     },
+     {
+      "n": 124,
+      "en": "brown",
+      "uz": "jigarrang"
+     },
+     {
+      "n": 125,
+      "en": "black",
+      "uz": "qora"
+     },
+     {
+      "n": 126,
+      "en": "white",
+      "uz": "oq"
+     },
+     {
+      "n": 127,
+      "en": "grey",
+      "uz": "kulrang"
+     },
+     {
+      "n": 128,
+      "en": "gold",
+      "uz": "oltin rang"
+     },
+     {
+      "n": 129,
+      "en": "silver",
+      "uz": "kumush rang"
+     },
+     {
+      "n": 130,
+      "en": "dark",
+      "uz": "to'q"
+     },
+     {
+      "n": 131,
+      "en": "light",
+      "uz": "och (rang) / yengil / yorug'lik"
+     },
+     {
+      "n": 132,
+      "en": "bright",
+      "uz": "yorqin"
+     },
+     {
+      "n": 133,
+      "en": "circle",
+      "uz": "aylana"
+     },
+     {
+      "n": 134,
+      "en": "square",
+      "uz": "kvadrat"
+     },
+     {
+      "n": 135,
+      "en": "triangle",
+      "uz": "uchburchak"
+     },
+     {
+      "n": 136,
+      "en": "rectangle",
+      "uz": "to'rtburchak"
+     },
+     {
+      "n": 137,
+      "en": "oval",
+      "uz": "oval"
+     },
+     {
+      "n": 138,
+      "en": "star",
+      "uz": "yulduz"
+     },
+     {
+      "n": 139,
+      "en": "heart shape",
+      "uz": "yurak shakli"
+     },
+     {
+      "n": 140,
+      "en": "line",
+      "uz": "chiziq"
+     },
+     {
+      "n": 141,
+      "en": "shape",
+      "uz": "shakl"
+     },
+     {
+      "n": 142,
+      "en": "curve",
+      "uz": "egri chiziq"
+     },
+     {
+      "n": 143,
+      "en": "point",
+      "uz": "nuqta"
+     },
+     {
+      "n": 144,
+      "en": "straight",
+      "uz": "to'g'ri"
+     },
+     {
+      "n": 145,
+      "en": "round",
+      "uz": "dumaloq"
+     },
+     {
+      "n": 146,
+      "en": "flat",
+      "uz": "tekis"
+     },
+     {
+      "n": 147,
+      "en": "sharp",
+      "uz": "o'tkir"
+     },
+     {
+      "n": 148,
+      "en": "corner",
+      "uz": "burchak"
+     },
+     {
+      "n": 149,
+      "en": "size",
+      "uz": "o'lcham"
+     },
+     {
+      "n": 150,
+      "en": "pattern",
+      "uz": "naqsh"
+     },
+     {
+      "n": 151,
+      "en": "stripe",
+      "uz": "yo'l-yo'l chiziq"
+     },
+     {
+      "n": 152,
+      "en": "cube",
+      "uz": "kub"
+     },
+     {
+      "n": 153,
+      "en": "cone",
+      "uz": "konus"
+     },
+     {
+      "n": 154,
+      "en": "sphere",
+      "uz": "shar"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 3,
+  "sections": [
+   {
+    "title": "Numbers | Sonlar",
+    "words": [
+     {
+      "n": 155,
+      "en": "zero",
+      "uz": "nol"
+     },
+     {
+      "n": 156,
+      "en": "one",
+      "uz": "bir"
+     },
+     {
+      "n": 157,
+      "en": "two",
+      "uz": "ikki"
+     },
+     {
+      "n": 158,
+      "en": "three",
+      "uz": "uch"
+     },
+     {
+      "n": 159,
+      "en": "four",
+      "uz": "to'rt"
+     },
+     {
+      "n": 160,
+      "en": "five",
+      "uz": "besh"
+     },
+     {
+      "n": 161,
+      "en": "six",
+      "uz": "olti"
+     },
+     {
+      "n": 162,
+      "en": "seven",
+      "uz": "yetti"
+     },
+     {
+      "n": 163,
+      "en": "eight",
+      "uz": "sakkiz"
+     },
+     {
+      "n": 164,
+      "en": "nine",
+      "uz": "to'qqiz"
+     },
+     {
+      "n": 165,
+      "en": "ten",
+      "uz": "o'n"
+     },
+     {
+      "n": 166,
+      "en": "eleven",
+      "uz": "o'n bir"
+     },
+     {
+      "n": 167,
+      "en": "twelve",
+      "uz": "o'n ikki"
+     },
+     {
+      "n": 168,
+      "en": "thirteen",
+      "uz": "o'n uch"
+     },
+     {
+      "n": 169,
+      "en": "fourteen",
+      "uz": "o'n to'rt"
+     },
+     {
+      "n": 170,
+      "en": "fifteen",
+      "uz": "o'n besh"
+     },
+     {
+      "n": 171,
+      "en": "sixteen",
+      "uz": "o'n olti"
+     },
+     {
+      "n": 172,
+      "en": "seventeen",
+      "uz": "o'n yetti"
+     },
+     {
+      "n": 173,
+      "en": "eighteen",
+      "uz": "o'n sakkiz"
+     },
+     {
+      "n": 174,
+      "en": "nineteen",
+      "uz": "o'n to'qqiz"
+     },
+     {
+      "n": 175,
+      "en": "twenty",
+      "uz": "yigirma"
+     },
+     {
+      "n": 176,
+      "en": "thirty",
+      "uz": "o'ttiz"
+     },
+     {
+      "n": 177,
+      "en": "forty",
+      "uz": "qirq"
+     },
+     {
+      "n": 178,
+      "en": "fifty",
+      "uz": "ellik"
+     },
+     {
+      "n": 179,
+      "en": "sixty",
+      "uz": "oltmish"
+     },
+     {
+      "n": 180,
+      "en": "seventy",
+      "uz": "yetmish"
+     },
+     {
+      "n": 181,
+      "en": "eighty",
+      "uz": "sakson"
+     },
+     {
+      "n": 182,
+      "en": "ninety",
+      "uz": "to'qson"
+     },
+     {
+      "n": 183,
+      "en": "hundred",
+      "uz": "yuz"
+     },
+     {
+      "n": 184,
+      "en": "thousand",
+      "uz": "ming"
+     },
+     {
+      "n": 185,
+      "en": "million",
+      "uz": "million"
+     },
+     {
+      "n": 186,
+      "en": "first",
+      "uz": "birinchi"
+     },
+     {
+      "n": 187,
+      "en": "second",
+      "uz": "ikkinchi / soniya"
+     },
+     {
+      "n": 188,
+      "en": "third",
+      "uz": "uchinchi"
+     },
+     {
+      "n": 189,
+      "en": "fourth",
+      "uz": "to'rtinchi"
+     },
+     {
+      "n": 190,
+      "en": "fifth",
+      "uz": "beshinchi"
+     },
+     {
+      "n": 191,
+      "en": "last",
+      "uz": "oxirgi"
+     },
+     {
+      "n": 192,
+      "en": "half",
+      "uz": "yarim"
+     },
+     {
+      "n": 193,
+      "en": "quarter",
+      "uz": "chorak"
+     },
+     {
+      "n": 194,
+      "en": "double",
+      "uz": "ikki barobar"
+     },
+     {
+      "n": 195,
+      "en": "pair",
+      "uz": "juft"
+     },
+     {
+      "n": 196,
+      "en": "number",
+      "uz": "raqam / son"
+     },
+     {
+      "n": 197,
+      "en": "count",
+      "uz": "sanamoq"
+     },
+     {
+      "n": 198,
+      "en": "add",
+      "uz": "qo'shmoq"
+     },
+     {
+      "n": 199,
+      "en": "subtract",
+      "uz": "ayirmoq"
+     },
+     {
+      "n": 200,
+      "en": "multiply",
+      "uz": "ko'paytirmoq"
+     },
+     {
+      "n": 201,
+      "en": "divide",
+      "uz": "bo'lmoq"
+     },
+     {
+      "n": 202,
+      "en": "equal",
+      "uz": "teng"
+     },
+     {
+      "n": 203,
+      "en": "plus",
+      "uz": "plyus"
+     },
+     {
+      "n": 204,
+      "en": "minus",
+      "uz": "minus"
+     },
+     {
+      "n": 205,
+      "en": "total",
+      "uz": "jami"
+     },
+     {
+      "n": 206,
+      "en": "many",
+      "uz": "ko'p"
+     },
+     {
+      "n": 207,
+      "en": "few",
+      "uz": "kam"
+     },
+     {
+      "n": 208,
+      "en": "some",
+      "uz": "bir nechta"
+     },
+     {
+      "n": 209,
+      "en": "any",
+      "uz": "biror"
+     },
+     {
+      "n": 210,
+      "en": "every",
+      "uz": "har bir"
+     },
+     {
+      "n": 211,
+      "en": "all",
+      "uz": "hammasi"
+     },
+     {
+      "n": 212,
+      "en": "none",
+      "uz": "hech biri"
+     },
+     {
+      "n": 213,
+      "en": "both",
+      "uz": "ikkalasi"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 4,
+  "sections": [
+   {
+    "title": "Time, Days and Months | Vaqt, kunlar va oylar",
+    "words": [
+     {
+      "n": 214,
+      "en": "time",
+      "uz": "vaqt"
+     },
+     {
+      "n": 215,
+      "en": "minute",
+      "uz": "daqiqa"
+     },
+     {
+      "n": 216,
+      "en": "hour",
+      "uz": "soat"
+     },
+     {
+      "n": 217,
+      "en": "day",
+      "uz": "kun"
+     },
+     {
+      "n": 218,
+      "en": "week",
+      "uz": "hafta"
+     },
+     {
+      "n": 219,
+      "en": "month",
+      "uz": "oy"
+     },
+     {
+      "n": 220,
+      "en": "year",
+      "uz": "yil"
+     },
+     {
+      "n": 221,
+      "en": "morning",
+      "uz": "ertalab"
+     },
+     {
+      "n": 222,
+      "en": "afternoon",
+      "uz": "tushdan keyin"
+     },
+     {
+      "n": 223,
+      "en": "evening",
+      "uz": "kechqurun"
+     },
+     {
+      "n": 224,
+      "en": "night",
+      "uz": "tun"
+     },
+     {
+      "n": 225,
+      "en": "midnight",
+      "uz": "yarim tunda"
+     },
+     {
+      "n": 226,
+      "en": "noon",
+      "uz": "tush"
+     },
+     {
+      "n": 227,
+      "en": "today",
+      "uz": "bugun"
+     },
+     {
+      "n": 228,
+      "en": "tomorrow",
+      "uz": "ertaga"
+     },
+     {
+      "n": 229,
+      "en": "yesterday",
+      "uz": "kecha"
+     },
+     {
+      "n": 230,
+      "en": "now",
+      "uz": "hozir"
+     },
+     {
+      "n": 231,
+      "en": "soon",
+      "uz": "tez orada"
+     },
+     {
+      "n": 232,
+      "en": "later",
+      "uz": "keyinroq"
+     },
+     {
+      "n": 233,
+      "en": "early",
+      "uz": "erta"
+     },
+     {
+      "n": 234,
+      "en": "late",
+      "uz": "kech"
+     },
+     {
+      "n": 235,
+      "en": "always",
+      "uz": "doim"
+     },
+     {
+      "n": 236,
+      "en": "never",
+      "uz": "hech qachon"
+     },
+     {
+      "n": 237,
+      "en": "sometimes",
+      "uz": "ba'zan"
+     },
+     {
+      "n": 238,
+      "en": "often",
+      "uz": "tez-tez"
+     },
+     {
+      "n": 239,
+      "en": "usually",
+      "uz": "odatda"
+     },
+     {
+      "n": 240,
+      "en": "already",
+      "uz": "allaqachon"
+     },
+     {
+      "n": 241,
+      "en": "yet",
+      "uz": "hali"
+     },
+     {
+      "n": 242,
+      "en": "still",
+      "uz": "hali ham"
+     },
+     {
+      "n": 243,
+      "en": "again",
+      "uz": "yana"
+     },
+     {
+      "n": 244,
+      "en": "before",
+      "uz": "oldin"
+     },
+     {
+      "n": 245,
+      "en": "after",
+      "uz": "keyin"
+     },
+     {
+      "n": 246,
+      "en": "during",
+      "uz": "davomida"
+     },
+     {
+      "n": 247,
+      "en": "until",
+      "uz": "gacha"
+     },
+     {
+      "n": 248,
+      "en": "since",
+      "uz": "beri"
+     },
+     {
+      "n": 249,
+      "en": "Monday",
+      "uz": "dushanba"
+     },
+     {
+      "n": 250,
+      "en": "Tuesday",
+      "uz": "seshanba"
+     },
+     {
+      "n": 251,
+      "en": "Wednesday",
+      "uz": "chorshanba"
+     },
+     {
+      "n": 252,
+      "en": "Thursday",
+      "uz": "payshanba"
+     },
+     {
+      "n": 253,
+      "en": "Friday",
+      "uz": "juma"
+     },
+     {
+      "n": 254,
+      "en": "Saturday",
+      "uz": "shanba"
+     },
+     {
+      "n": 255,
+      "en": "Sunday",
+      "uz": "yakshanba"
+     },
+     {
+      "n": 256,
+      "en": "weekend",
+      "uz": "dam olish kunlari"
+     },
+     {
+      "n": 257,
+      "en": "January",
+      "uz": "yanvar"
+     },
+     {
+      "n": 258,
+      "en": "February",
+      "uz": "fevral"
+     },
+     {
+      "n": 259,
+      "en": "March",
+      "uz": "mart"
+     },
+     {
+      "n": 260,
+      "en": "April",
+      "uz": "aprel"
+     },
+     {
+      "n": 261,
+      "en": "May",
+      "uz": "may"
+     },
+     {
+      "n": 262,
+      "en": "June",
+      "uz": "iyun"
+     },
+     {
+      "n": 263,
+      "en": "July",
+      "uz": "iyul"
+     },
+     {
+      "n": 264,
+      "en": "August",
+      "uz": "avgust"
+     },
+     {
+      "n": 265,
+      "en": "September",
+      "uz": "sentabr"
+     },
+     {
+      "n": 266,
+      "en": "October",
+      "uz": "oktabr"
+     },
+     {
+      "n": 267,
+      "en": "November",
+      "uz": "noyabr"
+     },
+     {
+      "n": 268,
+      "en": "December",
+      "uz": "dekabr"
+     },
+     {
+      "n": 269,
+      "en": "calendar",
+      "uz": "taqvim"
+     },
+     {
+      "n": 270,
+      "en": "date",
+      "uz": "sana"
+     },
+     {
+      "n": 271,
+      "en": "season",
+      "uz": "fasl"
+     },
+     {
+      "n": 272,
+      "en": "spring",
+      "uz": "bahor / buloq"
+     },
+     {
+      "n": 273,
+      "en": "summer",
+      "uz": "yoz"
+     },
+     {
+      "n": 274,
+      "en": "autumn",
+      "uz": "kuz"
+     },
+     {
+      "n": 275,
+      "en": "winter",
+      "uz": "qish"
+     },
+     {
+      "n": 276,
+      "en": "birthday",
+      "uz": "tug'ilgan kun"
+     },
+     {
+      "n": 277,
+      "en": "holiday",
+      "uz": "bayram"
+     },
+     {
+      "n": 278,
+      "en": "past",
+      "uz": "o'tmish"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 5,
+  "sections": [
+   {
+    "title": "Weather and Nature | Ob-havo va tabiat",
+    "words": [
+     {
+      "n": 279,
+      "en": "weather",
+      "uz": "ob-havo"
+     },
+     {
+      "n": 280,
+      "en": "sun",
+      "uz": "quyosh"
+     },
+     {
+      "n": 281,
+      "en": "moon",
+      "uz": "oy"
+     },
+     {
+      "n": 282,
+      "en": "sky",
+      "uz": "osmon"
+     },
+     {
+      "n": 283,
+      "en": "cloud",
+      "uz": "bulut"
+     },
+     {
+      "n": 284,
+      "en": "rain",
+      "uz": "yomg'ir"
+     },
+     {
+      "n": 285,
+      "en": "snow",
+      "uz": "qor"
+     },
+     {
+      "n": 286,
+      "en": "wind",
+      "uz": "shamol"
+     },
+     {
+      "n": 287,
+      "en": "storm",
+      "uz": "bo'ron"
+     },
+     {
+      "n": 288,
+      "en": "thunder",
+      "uz": "momaqaldiroq"
+     },
+     {
+      "n": 289,
+      "en": "lightning",
+      "uz": "chaqmoq"
+     },
+     {
+      "n": 290,
+      "en": "fog",
+      "uz": "tuman"
+     },
+     {
+      "n": 291,
+      "en": "ice",
+      "uz": "muz"
+     },
+     {
+      "n": 292,
+      "en": "frost",
+      "uz": "qirov"
+     },
+     {
+      "n": 293,
+      "en": "rainbow",
+      "uz": "kamalak"
+     },
+     {
+      "n": 294,
+      "en": "hot",
+      "uz": "issiq"
+     },
+     {
+      "n": 295,
+      "en": "warm",
+      "uz": "iliq"
+     },
+     {
+      "n": 296,
+      "en": "cool",
+      "uz": "salqin"
+     },
+     {
+      "n": 297,
+      "en": "sunny",
+      "uz": "quyoshli"
+     },
+     {
+      "n": 298,
+      "en": "cloudy",
+      "uz": "bulutli"
+     },
+     {
+      "n": 299,
+      "en": "rainy",
+      "uz": "yomg'irli"
+     },
+     {
+      "n": 300,
+      "en": "windy",
+      "uz": "shamolli"
+     },
+     {
+      "n": 301,
+      "en": "snowy",
+      "uz": "qorli"
+     },
+     {
+      "n": 302,
+      "en": "foggy",
+      "uz": "tumanli"
+     },
+     {
+      "n": 303,
+      "en": "temperature",
+      "uz": "harorat"
+     },
+     {
+      "n": 304,
+      "en": "degree",
+      "uz": "daraja"
+     },
+     {
+      "n": 305,
+      "en": "forecast",
+      "uz": "ob-havo bashorati"
+     },
+     {
+      "n": 306,
+      "en": "umbrella",
+      "uz": "soyabon"
+     },
+     {
+      "n": 307,
+      "en": "nature",
+      "uz": "tabiat"
+     },
+     {
+      "n": 308,
+      "en": "earth",
+      "uz": "yer"
+     },
+     {
+      "n": 309,
+      "en": "world",
+      "uz": "dunyo"
+     },
+     {
+      "n": 310,
+      "en": "planet",
+      "uz": "sayyora"
+     },
+     {
+      "n": 311,
+      "en": "space",
+      "uz": "koinot"
+     },
+     {
+      "n": 312,
+      "en": "air",
+      "uz": "havo"
+     },
+     {
+      "n": 313,
+      "en": "water",
+      "uz": "suv"
+     },
+     {
+      "n": 314,
+      "en": "fire",
+      "uz": "olov"
+     },
+     {
+      "n": 315,
+      "en": "ground",
+      "uz": "zamin"
+     },
+     {
+      "n": 316,
+      "en": "sand",
+      "uz": "qum"
+     },
+     {
+      "n": 317,
+      "en": "stone",
+      "uz": "tosh"
+     },
+     {
+      "n": 318,
+      "en": "rock",
+      "uz": "qoya"
+     },
+     {
+      "n": 319,
+      "en": "soil",
+      "uz": "tuproq"
+     },
+     {
+      "n": 320,
+      "en": "mountain",
+      "uz": "tog'"
+     },
+     {
+      "n": 321,
+      "en": "hill",
+      "uz": "tepalik"
+     },
+     {
+      "n": 322,
+      "en": "valley",
+      "uz": "vodiy"
+     },
+     {
+      "n": 323,
+      "en": "river",
+      "uz": "daryo"
+     },
+     {
+      "n": 324,
+      "en": "lake",
+      "uz": "ko'l"
+     },
+     {
+      "n": 325,
+      "en": "sea",
+      "uz": "dengiz"
+     },
+     {
+      "n": 326,
+      "en": "ocean",
+      "uz": "okean"
+     },
+     {
+      "n": 327,
+      "en": "island",
+      "uz": "orol"
+     },
+     {
+      "n": 328,
+      "en": "beach",
+      "uz": "plyaj"
+     },
+     {
+      "n": 329,
+      "en": "desert",
+      "uz": "cho'l"
+     },
+     {
+      "n": 330,
+      "en": "forest",
+      "uz": "o'rmon"
+     },
+     {
+      "n": 331,
+      "en": "jungle",
+      "uz": "jungli"
+     },
+     {
+      "n": 332,
+      "en": "field",
+      "uz": "dala"
+     },
+     {
+      "n": 333,
+      "en": "meadow",
+      "uz": "o'tloq"
+     },
+     {
+      "n": 334,
+      "en": "cave",
+      "uz": "g'or"
+     },
+     {
+      "n": 335,
+      "en": "waterfall",
+      "uz": "sharshara"
+     },
+     {
+      "n": 336,
+      "en": "wave",
+      "uz": "to'lqin"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 6,
+  "sections": [
+   {
+    "title": "Animals | Hayvonlar",
+    "words": [
+     {
+      "n": 337,
+      "en": "animal",
+      "uz": "hayvon"
+     },
+     {
+      "n": 338,
+      "en": "dog",
+      "uz": "it"
+     },
+     {
+      "n": 339,
+      "en": "cat",
+      "uz": "mushuk"
+     },
+     {
+      "n": 340,
+      "en": "horse",
+      "uz": "ot"
+     },
+     {
+      "n": 341,
+      "en": "cow",
+      "uz": "sigir"
+     },
+     {
+      "n": 342,
+      "en": "sheep",
+      "uz": "qo'y"
+     },
+     {
+      "n": 343,
+      "en": "goat",
+      "uz": "echki"
+     },
+     {
+      "n": 344,
+      "en": "pig",
+      "uz": "cho'chqa"
+     },
+     {
+      "n": 345,
+      "en": "donkey",
+      "uz": "eshak"
+     },
+     {
+      "n": 346,
+      "en": "camel",
+      "uz": "tuya"
+     },
+     {
+      "n": 347,
+      "en": "rabbit",
+      "uz": "quyon"
+     },
+     {
+      "n": 348,
+      "en": "mouse",
+      "uz": "sichqon / sichqoncha"
+     },
+     {
+      "n": 349,
+      "en": "rat",
+      "uz": "kalamush"
+     },
+     {
+      "n": 350,
+      "en": "lion",
+      "uz": "sher"
+     },
+     {
+      "n": 351,
+      "en": "tiger",
+      "uz": "yo'lbars"
+     },
+     {
+      "n": 352,
+      "en": "bear",
+      "uz": "ayiq"
+     },
+     {
+      "n": 353,
+      "en": "wolf",
+      "uz": "bo'ri"
+     },
+     {
+      "n": 354,
+      "en": "fox",
+      "uz": "tulki"
+     },
+     {
+      "n": 355,
+      "en": "deer",
+      "uz": "bug'u"
+     },
+     {
+      "n": 356,
+      "en": "elephant",
+      "uz": "fil"
+     },
+     {
+      "n": 357,
+      "en": "monkey",
+      "uz": "maymun"
+     },
+     {
+      "n": 358,
+      "en": "giraffe",
+      "uz": "jirafa"
+     },
+     {
+      "n": 359,
+      "en": "zebra",
+      "uz": "zebra"
+     },
+     {
+      "n": 360,
+      "en": "hippo",
+      "uz": "begemot"
+     },
+     {
+      "n": 361,
+      "en": "crocodile",
+      "uz": "timsoh"
+     },
+     {
+      "n": 362,
+      "en": "snake",
+      "uz": "ilon"
+     },
+     {
+      "n": 363,
+      "en": "frog",
+      "uz": "qurbaqa"
+     },
+     {
+      "n": 364,
+      "en": "turtle",
+      "uz": "toshbaqa"
+     },
+     {
+      "n": 365,
+      "en": "lizard",
+      "uz": "kaltakesak"
+     },
+     {
+      "n": 366,
+      "en": "bird",
+      "uz": "qush"
+     },
+     {
+      "n": 367,
+      "en": "eagle",
+      "uz": "burgut"
+     },
+     {
+      "n": 368,
+      "en": "owl",
+      "uz": "boyqush"
+     },
+     {
+      "n": 369,
+      "en": "parrot",
+      "uz": "to'ti"
+     },
+     {
+      "n": 370,
+      "en": "duck",
+      "uz": "o'rdak"
+     },
+     {
+      "n": 371,
+      "en": "goose",
+      "uz": "g'oz"
+     },
+     {
+      "n": 372,
+      "en": "chicken",
+      "uz": "tovuq"
+     },
+     {
+      "n": 373,
+      "en": "rooster",
+      "uz": "xo'roz"
+     },
+     {
+      "n": 374,
+      "en": "swan",
+      "uz": "oqqush"
+     },
+     {
+      "n": 375,
+      "en": "pigeon",
+      "uz": "kaptar"
+     },
+     {
+      "n": 376,
+      "en": "sparrow",
+      "uz": "chumchuq"
+     },
+     {
+      "n": 377,
+      "en": "crow",
+      "uz": "qarg'a"
+     },
+     {
+      "n": 378,
+      "en": "fish",
+      "uz": "baliq"
+     },
+     {
+      "n": 379,
+      "en": "shark",
+      "uz": "akula"
+     },
+     {
+      "n": 380,
+      "en": "whale",
+      "uz": "kit"
+     },
+     {
+      "n": 381,
+      "en": "dolphin",
+      "uz": "delfin"
+     },
+     {
+      "n": 382,
+      "en": "octopus",
+      "uz": "sakkizoyoq"
+     },
+     {
+      "n": 383,
+      "en": "crab",
+      "uz": "qisqichbaqa"
+     },
+     {
+      "n": 384,
+      "en": "insect",
+      "uz": "hasharot"
+     },
+     {
+      "n": 385,
+      "en": "bee",
+      "uz": "asalari"
+     },
+     {
+      "n": 386,
+      "en": "ant",
+      "uz": "chumoli"
+     },
+     {
+      "n": 387,
+      "en": "butterfly",
+      "uz": "kapalak"
+     },
+     {
+      "n": 388,
+      "en": "spider",
+      "uz": "o'rgimchak"
+     },
+     {
+      "n": 389,
+      "en": "mosquito",
+      "uz": "chivin"
+     },
+     {
+      "n": 390,
+      "en": "worm",
+      "uz": "qurt"
+     },
+     {
+      "n": 391,
+      "en": "snail",
+      "uz": "shilliqqurt"
+     },
+     {
+      "n": 392,
+      "en": "wing",
+      "uz": "qanot"
+     },
+     {
+      "n": 393,
+      "en": "tail",
+      "uz": "dum"
+     },
+     {
+      "n": 394,
+      "en": "paw",
+      "uz": "panja"
+     },
+     {
+      "n": 395,
+      "en": "fur",
+      "uz": "mo'yna"
+     },
+     {
+      "n": 396,
+      "en": "feather",
+      "uz": "patak"
+     },
+     {
+      "n": 397,
+      "en": "horn",
+      "uz": "shox"
+     },
+     {
+      "n": 398,
+      "en": "nest",
+      "uz": "uya"
+     },
+     {
+      "n": 399,
+      "en": "egg",
+      "uz": "tuxum"
+     },
+     {
+      "n": 400,
+      "en": "cage",
+      "uz": "qafas"
+     },
+     {
+      "n": 401,
+      "en": "farm",
+      "uz": "ferma"
+     },
+     {
+      "n": 402,
+      "en": "zoo",
+      "uz": "hayvonot bog'i"
+     },
+     {
+      "n": 403,
+      "en": "pet",
+      "uz": "uy hayvoni"
+     },
+     {
+      "n": 404,
+      "en": "wild",
+      "uz": "yovvoyi"
+     },
+     {
+      "n": 405,
+      "en": "puppy",
+      "uz": "kuchuk bolasi"
+     },
+     {
+      "n": 406,
+      "en": "kitten",
+      "uz": "mushukcha"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 7,
+  "sections": [
+   {
+    "title": "Plants and Garden | O'simliklar va bog'",
+    "words": [
+     {
+      "n": 407,
+      "en": "plant",
+      "uz": "o'simlik"
+     },
+     {
+      "n": 408,
+      "en": "tree",
+      "uz": "daraxt"
+     },
+     {
+      "n": 409,
+      "en": "flower",
+      "uz": "gul"
+     },
+     {
+      "n": 410,
+      "en": "grass",
+      "uz": "o't"
+     },
+     {
+      "n": 411,
+      "en": "leaf",
+      "uz": "barg"
+     },
+     {
+      "n": 412,
+      "en": "leaves",
+      "uz": "barglar"
+     },
+     {
+      "n": 413,
+      "en": "root",
+      "uz": "ildiz"
+     },
+     {
+      "n": 414,
+      "en": "branch",
+      "uz": "shox (daraxt)"
+     },
+     {
+      "n": 415,
+      "en": "seed",
+      "uz": "urug'"
+     },
+     {
+      "n": 416,
+      "en": "fruit",
+      "uz": "meva"
+     },
+     {
+      "n": 417,
+      "en": "vegetable",
+      "uz": "sabzavot"
+     },
+     {
+      "n": 418,
+      "en": "garden",
+      "uz": "bog'"
+     },
+     {
+      "n": 419,
+      "en": "park",
+      "uz": "bog' / to'xtatmoq"
+     },
+     {
+      "n": 420,
+      "en": "rose",
+      "uz": "atirgul"
+     },
+     {
+      "n": 421,
+      "en": "tulip",
+      "uz": "lola"
+     },
+     {
+      "n": 422,
+      "en": "bush",
+      "uz": "buta"
+     },
+     {
+      "n": 423,
+      "en": "wood",
+      "uz": "yog'och"
+     },
+     {
+      "n": 424,
+      "en": "trunk",
+      "uz": "tana (daraxt)"
+     },
+     {
+      "n": 425,
+      "en": "bark",
+      "uz": "po'stloq"
+     },
+     {
+      "n": 426,
+      "en": "petal",
+      "uz": "gul bargi"
+     },
+     {
+      "n": 427,
+      "en": "orchard",
+      "uz": "mevazor"
+     },
+     {
+      "n": 428,
+      "en": "crop",
+      "uz": "ekin"
+     },
+     {
+      "n": 429,
+      "en": "harvest",
+      "uz": "hosil"
+     },
+     {
+      "n": 430,
+      "en": "grow",
+      "uz": "o'smoq"
+     },
+     {
+      "n": 431,
+      "en": "pick",
+      "uz": "termoq"
+     },
+     {
+      "n": 432,
+      "en": "dig",
+      "uz": "kovlamoq"
+     },
+     {
+      "n": 433,
+      "en": "cotton",
+      "uz": "paxta"
+     },
+     {
+      "n": 434,
+      "en": "wheat",
+      "uz": "bug'doy"
+     },
+     {
+      "n": 435,
+      "en": "rice",
+      "uz": "guruch"
+     },
+     {
+      "n": 436,
+      "en": "corn",
+      "uz": "makkajo'xori"
+     },
+     {
+      "n": 437,
+      "en": "vine",
+      "uz": "tok"
+     },
+     {
+      "n": 438,
+      "en": "grape",
+      "uz": "uzum"
+     },
+     {
+      "n": 439,
+      "en": "pine",
+      "uz": "qarag'ay"
+     },
+     {
+      "n": 440,
+      "en": "oak",
+      "uz": "eman"
+     },
+     {
+      "n": 441,
+      "en": "palm",
+      "uz": "palma"
+     },
+     {
+      "n": 442,
+      "en": "cactus",
+      "uz": "kaktus"
+     }
+    ]
+   },
+   {
+    "title": "Fruits and Vegetables | Meva va sabzavotlar",
+    "words": [
+     {
+      "n": 443,
+      "en": "apple",
+      "uz": "olma"
+     },
+     {
+      "n": 444,
+      "en": "pear",
+      "uz": "nok"
+     },
+     {
+      "n": 445,
+      "en": "banana",
+      "uz": "banan"
+     },
+     {
+      "n": 446,
+      "en": "lemon",
+      "uz": "limon"
+     },
+     {
+      "n": 447,
+      "en": "peach",
+      "uz": "shaftoli"
+     },
+     {
+      "n": 448,
+      "en": "plum",
+      "uz": "olxo'ri"
+     },
+     {
+      "n": 449,
+      "en": "cherry",
+      "uz": "olcha"
+     },
+     {
+      "n": 450,
+      "en": "apricot",
+      "uz": "o'rik"
+     },
+     {
+      "n": 451,
+      "en": "melon",
+      "uz": "qovun"
+     },
+     {
+      "n": 452,
+      "en": "watermelon",
+      "uz": "tarvuz"
+     },
+     {
+      "n": 453,
+      "en": "pomegranate",
+      "uz": "anor"
+     },
+     {
+      "n": 454,
+      "en": "strawberry",
+      "uz": "qulupnay"
+     },
+     {
+      "n": 455,
+      "en": "raspberry",
+      "uz": "malina"
+     },
+     {
+      "n": 456,
+      "en": "mango",
+      "uz": "mango"
+     },
+     {
+      "n": 457,
+      "en": "pineapple",
+      "uz": "ananas"
+     },
+     {
+      "n": 458,
+      "en": "fig",
+      "uz": "anjir"
+     },
+     {
+      "n": 459,
+      "en": "coconut",
+      "uz": "kokos"
+     },
+     {
+      "n": 460,
+      "en": "kiwi",
+      "uz": "kivi"
+     },
+     {
+      "n": 461,
+      "en": "berry",
+      "uz": "rezavor meva"
+     },
+     {
+      "n": 462,
+      "en": "nut",
+      "uz": "yong'oq"
+     },
+     {
+      "n": 463,
+      "en": "almond",
+      "uz": "bodom"
+     },
+     {
+      "n": 464,
+      "en": "walnut",
+      "uz": "yong'oq (grek)"
+     },
+     {
+      "n": 465,
+      "en": "peanut",
+      "uz": "yeryong'oq"
+     },
+     {
+      "n": 466,
+      "en": "raisin",
+      "uz": "mayiz"
+     },
+     {
+      "n": 467,
+      "en": "dried fruit",
+      "uz": "quritilgan meva"
+     },
+     {
+      "n": 468,
+      "en": "potato",
+      "uz": "kartoshka"
+     },
+     {
+      "n": 469,
+      "en": "tomato",
+      "uz": "pomidor"
+     },
+     {
+      "n": 470,
+      "en": "cucumber",
+      "uz": "bodring"
+     },
+     {
+      "n": 471,
+      "en": "carrot",
+      "uz": "sabzi"
+     },
+     {
+      "n": 472,
+      "en": "onion",
+      "uz": "piyoz"
+     },
+     {
+      "n": 473,
+      "en": "garlic",
+      "uz": "sarimsoq"
+     },
+     {
+      "n": 474,
+      "en": "cabbage",
+      "uz": "karam"
+     },
+     {
+      "n": 475,
+      "en": "pepper",
+      "uz": "qalampir / murch"
+     },
+     {
+      "n": 476,
+      "en": "eggplant",
+      "uz": "baqlajon"
+     },
+     {
+      "n": 477,
+      "en": "pumpkin",
+      "uz": "qovoq"
+     },
+     {
+      "n": 478,
+      "en": "radish",
+      "uz": "turp"
+     },
+     {
+      "n": 479,
+      "en": "beetroot",
+      "uz": "lavlagi"
+     },
+     {
+      "n": 480,
+      "en": "beans",
+      "uz": "loviya"
+     },
+     {
+      "n": 481,
+      "en": "peas",
+      "uz": "no'xat"
+     },
+     {
+      "n": 482,
+      "en": "lettuce",
+      "uz": "salat bargi"
+     },
+     {
+      "n": 483,
+      "en": "spinach",
+      "uz": "ismaloq"
+     },
+     {
+      "n": 484,
+      "en": "mushroom",
+      "uz": "qo'ziqorin"
+     },
+     {
+      "n": 485,
+      "en": "herb",
+      "uz": "ko'kat"
+     },
+     {
+      "n": 486,
+      "en": "dill",
+      "uz": "shivit"
+     },
+     {
+      "n": 487,
+      "en": "parsley",
+      "uz": "petrushka"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 8,
+  "sections": [
+   {
+    "title": "Food and Drink | Ovqat va ichimliklar",
+    "words": [
+     {
+      "n": 488,
+      "en": "food",
+      "uz": "ovqat"
+     },
+     {
+      "n": 489,
+      "en": "drink",
+      "uz": "ichimlik"
+     },
+     {
+      "n": 490,
+      "en": "breakfast",
+      "uz": "nonushta"
+     },
+     {
+      "n": 491,
+      "en": "lunch",
+      "uz": "tushlik"
+     },
+     {
+      "n": 492,
+      "en": "dinner",
+      "uz": "kechki ovqat"
+     },
+     {
+      "n": 493,
+      "en": "supper",
+      "uz": "kechki taom"
+     },
+     {
+      "n": 494,
+      "en": "meal",
+      "uz": "taom"
+     },
+     {
+      "n": 495,
+      "en": "snack",
+      "uz": "yengil taom"
+     },
+     {
+      "n": 496,
+      "en": "bread",
+      "uz": "non"
+     },
+     {
+      "n": 497,
+      "en": "butter",
+      "uz": "sariyog'"
+     },
+     {
+      "n": 498,
+      "en": "cheese",
+      "uz": "pishloq"
+     },
+     {
+      "n": 499,
+      "en": "milk",
+      "uz": "sut"
+     },
+     {
+      "n": 500,
+      "en": "yogurt",
+      "uz": "yogurt"
+     },
+     {
+      "n": 501,
+      "en": "cream",
+      "uz": "qaymoq"
+     },
+     {
+      "n": 502,
+      "en": "meat",
+      "uz": "go'sht"
+     },
+     {
+      "n": 503,
+      "en": "beef",
+      "uz": "mol go'shti"
+     },
+     {
+      "n": 504,
+      "en": "sausage",
+      "uz": "kolbasa"
+     },
+     {
+      "n": 505,
+      "en": "soup",
+      "uz": "sho'rva"
+     },
+     {
+      "n": 506,
+      "en": "salad",
+      "uz": "salat"
+     },
+     {
+      "n": 507,
+      "en": "pasta",
+      "uz": "makaron"
+     },
+     {
+      "n": 508,
+      "en": "noodles",
+      "uz": "lag'mon"
+     },
+     {
+      "n": 509,
+      "en": "pilaf",
+      "uz": "palov"
+     },
+     {
+      "n": 510,
+      "en": "dumplings",
+      "uz": "manti"
+     },
+     {
+      "n": 511,
+      "en": "kebab",
+      "uz": "kabob"
+     },
+     {
+      "n": 512,
+      "en": "sandwich",
+      "uz": "buterbrod"
+     },
+     {
+      "n": 513,
+      "en": "pizza",
+      "uz": "pitsa"
+     },
+     {
+      "n": 514,
+      "en": "burger",
+      "uz": "burger"
+     },
+     {
+      "n": 515,
+      "en": "fries",
+      "uz": "fri kartoshka"
+     },
+     {
+      "n": 516,
+      "en": "sugar",
+      "uz": "shakar"
+     },
+     {
+      "n": 517,
+      "en": "salt",
+      "uz": "tuz"
+     },
+     {
+      "n": 518,
+      "en": "oil",
+      "uz": "moy"
+     },
+     {
+      "n": 519,
+      "en": "honey",
+      "uz": "asal"
+     },
+     {
+      "n": 520,
+      "en": "jam",
+      "uz": "murabbo"
+     },
+     {
+      "n": 521,
+      "en": "flour",
+      "uz": "un"
+     },
+     {
+      "n": 522,
+      "en": "dough",
+      "uz": "xamir"
+     },
+     {
+      "n": 523,
+      "en": "cake",
+      "uz": "tort"
+     },
+     {
+      "n": 524,
+      "en": "cookie",
+      "uz": "pechenye"
+     },
+     {
+      "n": 525,
+      "en": "biscuit",
+      "uz": "biskvit"
+     },
+     {
+      "n": 526,
+      "en": "candy",
+      "uz": "konfet"
+     },
+     {
+      "n": 527,
+      "en": "sweets",
+      "uz": "shirinliklar"
+     },
+     {
+      "n": 528,
+      "en": "chocolate",
+      "uz": "shokolad"
+     },
+     {
+      "n": 529,
+      "en": "ice cream",
+      "uz": "muzqaymoq"
+     },
+     {
+      "n": 530,
+      "en": "pie",
+      "uz": "pirog"
+     },
+     {
+      "n": 531,
+      "en": "pancake",
+      "uz": "blin"
+     },
+     {
+      "n": 532,
+      "en": "tea",
+      "uz": "choy"
+     },
+     {
+      "n": 533,
+      "en": "coffee",
+      "uz": "qahva"
+     },
+     {
+      "n": 534,
+      "en": "juice",
+      "uz": "sharbat"
+     },
+     {
+      "n": 535,
+      "en": "lemonade",
+      "uz": "limonad"
+     },
+     {
+      "n": 536,
+      "en": "soda",
+      "uz": "gazli ichimlik"
+     },
+     {
+      "n": 537,
+      "en": "sweet",
+      "uz": "shirin"
+     },
+     {
+      "n": 538,
+      "en": "sour",
+      "uz": "nordon"
+     },
+     {
+      "n": 539,
+      "en": "bitter",
+      "uz": "achchiq (taxir)"
+     },
+     {
+      "n": 540,
+      "en": "salty",
+      "uz": "sho'r"
+     },
+     {
+      "n": 541,
+      "en": "spicy",
+      "uz": "achchiq (o'tkir)"
+     },
+     {
+      "n": 542,
+      "en": "tasty",
+      "uz": "mazali"
+     },
+     {
+      "n": 543,
+      "en": "delicious",
+      "uz": "juda mazali"
+     },
+     {
+      "n": 544,
+      "en": "fresh",
+      "uz": "yangi / toza"
+     },
+     {
+      "n": 545,
+      "en": "ripe",
+      "uz": "pishgan"
+     },
+     {
+      "n": 546,
+      "en": "raw",
+      "uz": "xom"
+     },
+     {
+      "n": 547,
+      "en": "fried",
+      "uz": "qovurilgan"
+     },
+     {
+      "n": 548,
+      "en": "boiled",
+      "uz": "qaynatilgan"
+     },
+     {
+      "n": 549,
+      "en": "baked",
+      "uz": "pishirilgan"
+     },
+     {
+      "n": 550,
+      "en": "cook",
+      "uz": "oshpaz / pishirmoq"
+     },
+     {
+      "n": 551,
+      "en": "bake",
+      "uz": "nonvoylik qilmoq"
+     },
+     {
+      "n": 552,
+      "en": "boil",
+      "uz": "qaynatmoq"
+     },
+     {
+      "n": 553,
+      "en": "fry",
+      "uz": "qovurmoq"
+     },
+     {
+      "n": 554,
+      "en": "peel",
+      "uz": "po'st tozalamoq"
+     },
+     {
+      "n": 555,
+      "en": "cut",
+      "uz": "kesmoq"
+     },
+     {
+      "n": 556,
+      "en": "mix",
+      "uz": "aralashtirmoq"
+     },
+     {
+      "n": 557,
+      "en": "pour",
+      "uz": "quymoq"
+     },
+     {
+      "n": 558,
+      "en": "eat",
+      "uz": "yemoq"
+     },
+     {
+      "n": 559,
+      "en": "chew",
+      "uz": "chaynamoq"
+     },
+     {
+      "n": 560,
+      "en": "swallow",
+      "uz": "yutmoq"
+     },
+     {
+      "n": 561,
+      "en": "bite",
+      "uz": "tishlamoq"
+     },
+     {
+      "n": 562,
+      "en": "recipe",
+      "uz": "retsept"
+     },
+     {
+      "n": 563,
+      "en": "ingredient",
+      "uz": "masalliq"
+     },
+     {
+      "n": 564,
+      "en": "kitchen",
+      "uz": "oshxona"
+     },
+     {
+      "n": 565,
+      "en": "menu",
+      "uz": "menyu"
+     },
+     {
+      "n": 566,
+      "en": "restaurant",
+      "uz": "restoran"
+     },
+     {
+      "n": 567,
+      "en": "cafe",
+      "uz": "kafe"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 9,
+  "sections": [
+   {
+    "title": "Home and Furniture | Uy va mebel",
+    "words": [
+     {
+      "n": 568,
+      "en": "house",
+      "uz": "uy"
+     },
+     {
+      "n": 569,
+      "en": "home",
+      "uz": "uy (oila makoni)"
+     },
+     {
+      "n": 570,
+      "en": "apartment",
+      "uz": "kvartira"
+     },
+     {
+      "n": 571,
+      "en": "room",
+      "uz": "xona"
+     },
+     {
+      "n": 572,
+      "en": "bedroom",
+      "uz": "yotoqxona"
+     },
+     {
+      "n": 573,
+      "en": "bathroom",
+      "uz": "hammom"
+     },
+     {
+      "n": 574,
+      "en": "living room",
+      "uz": "mehmonxona"
+     },
+     {
+      "n": 575,
+      "en": "hall",
+      "uz": "zal"
+     },
+     {
+      "n": 576,
+      "en": "floor",
+      "uz": "pol"
+     },
+     {
+      "n": 577,
+      "en": "ceiling",
+      "uz": "shift"
+     },
+     {
+      "n": 578,
+      "en": "wall",
+      "uz": "devor"
+     },
+     {
+      "n": 579,
+      "en": "roof",
+      "uz": "tom"
+     },
+     {
+      "n": 580,
+      "en": "door",
+      "uz": "eshik"
+     },
+     {
+      "n": 581,
+      "en": "window",
+      "uz": "deraza"
+     },
+     {
+      "n": 582,
+      "en": "stairs",
+      "uz": "zinapoya"
+     },
+     {
+      "n": 583,
+      "en": "staircase",
+      "uz": "zinapoya"
+     },
+     {
+      "n": 584,
+      "en": "elevator",
+      "uz": "lift"
+     },
+     {
+      "n": 585,
+      "en": "balcony",
+      "uz": "balkon"
+     },
+     {
+      "n": 586,
+      "en": "yard",
+      "uz": "hovli"
+     },
+     {
+      "n": 587,
+      "en": "gate",
+      "uz": "darvoza"
+     },
+     {
+      "n": 588,
+      "en": "fence",
+      "uz": "to'siq"
+     },
+     {
+      "n": 589,
+      "en": "garage",
+      "uz": "garaj"
+     },
+     {
+      "n": 590,
+      "en": "basement",
+      "uz": "yerto'la"
+     },
+     {
+      "n": 591,
+      "en": "attic",
+      "uz": "chordoq"
+     },
+     {
+      "n": 592,
+      "en": "chimney",
+      "uz": "mo'ri"
+     },
+     {
+      "n": 593,
+      "en": "key",
+      "uz": "kalit"
+     },
+     {
+      "n": 594,
+      "en": "lock",
+      "uz": "qulf"
+     },
+     {
+      "n": 595,
+      "en": "bell",
+      "uz": "qo'ng'iroq"
+     },
+     {
+      "n": 596,
+      "en": "table",
+      "uz": "stol"
+     },
+     {
+      "n": 597,
+      "en": "chair",
+      "uz": "stul"
+     },
+     {
+      "n": 598,
+      "en": "desk",
+      "uz": "parta / yozuv stoli"
+     },
+     {
+      "n": 599,
+      "en": "bed",
+      "uz": "karavot"
+     },
+     {
+      "n": 600,
+      "en": "sofa",
+      "uz": "divan"
+     },
+     {
+      "n": 601,
+      "en": "armchair",
+      "uz": "kreslo"
+     },
+     {
+      "n": 602,
+      "en": "shelf",
+      "uz": "tokcha"
+     },
+     {
+      "n": 603,
+      "en": "cupboard",
+      "uz": "shkaf"
+     },
+     {
+      "n": 604,
+      "en": "wardrobe",
+      "uz": "kiyim shkafi"
+     },
+     {
+      "n": 605,
+      "en": "drawer",
+      "uz": "tortma"
+     },
+     {
+      "n": 606,
+      "en": "mirror",
+      "uz": "ko'zgu"
+     },
+     {
+      "n": 607,
+      "en": "carpet",
+      "uz": "gilam"
+     },
+     {
+      "n": 608,
+      "en": "rug",
+      "uz": "kichik gilam"
+     },
+     {
+      "n": 609,
+      "en": "curtain",
+      "uz": "parda"
+     },
+     {
+      "n": 610,
+      "en": "pillow",
+      "uz": "yostiq"
+     },
+     {
+      "n": 611,
+      "en": "blanket",
+      "uz": "ko'rpa"
+     },
+     {
+      "n": 612,
+      "en": "sheet",
+      "uz": "choyshab"
+     },
+     {
+      "n": 613,
+      "en": "lamp",
+      "uz": "chiroq"
+     },
+     {
+      "n": 614,
+      "en": "candle",
+      "uz": "sham"
+     },
+     {
+      "n": 615,
+      "en": "fridge",
+      "uz": "muzlatgich"
+     },
+     {
+      "n": 616,
+      "en": "stove",
+      "uz": "plita"
+     },
+     {
+      "n": 617,
+      "en": "oven",
+      "uz": "pech"
+     },
+     {
+      "n": 618,
+      "en": "microwave",
+      "uz": "mikroto'lqinli pech"
+     },
+     {
+      "n": 619,
+      "en": "sink",
+      "uz": "rakovina"
+     },
+     {
+      "n": 620,
+      "en": "tap",
+      "uz": "jo'mrak"
+     },
+     {
+      "n": 621,
+      "en": "bath",
+      "uz": "vanna"
+     },
+     {
+      "n": 622,
+      "en": "shower",
+      "uz": "dush"
+     },
+     {
+      "n": 623,
+      "en": "toilet",
+      "uz": "hojatxona"
+     },
+     {
+      "n": 624,
+      "en": "towel",
+      "uz": "sochiq"
+     },
+     {
+      "n": 625,
+      "en": "soap",
+      "uz": "sovun"
+     },
+     {
+      "n": 626,
+      "en": "shampoo",
+      "uz": "shampun"
+     },
+     {
+      "n": 627,
+      "en": "toothbrush",
+      "uz": "tish cho'tkasi"
+     },
+     {
+      "n": 628,
+      "en": "toothpaste",
+      "uz": "tish pastasi"
+     },
+     {
+      "n": 629,
+      "en": "comb",
+      "uz": "taroq"
+     },
+     {
+      "n": 630,
+      "en": "brush",
+      "uz": "cho'tka"
+     },
+     {
+      "n": 631,
+      "en": "broom",
+      "uz": "supurgi"
+     },
+     {
+      "n": 632,
+      "en": "bucket",
+      "uz": "chelak"
+     },
+     {
+      "n": 633,
+      "en": "trash",
+      "uz": "axlat"
+     },
+     {
+      "n": 634,
+      "en": "bin",
+      "uz": "axlat qutisi"
+     },
+     {
+      "n": 635,
+      "en": "plate",
+      "uz": "likopcha"
+     },
+     {
+      "n": 636,
+      "en": "dish",
+      "uz": "idish"
+     },
+     {
+      "n": 637,
+      "en": "bowl",
+      "uz": "kosa"
+     },
+     {
+      "n": 638,
+      "en": "cup",
+      "uz": "piyola"
+     },
+     {
+      "n": 639,
+      "en": "glass",
+      "uz": "stakan / oyna"
+     },
+     {
+      "n": 640,
+      "en": "mug",
+      "uz": "krujka"
+     },
+     {
+      "n": 641,
+      "en": "spoon",
+      "uz": "qoshiq"
+     },
+     {
+      "n": 642,
+      "en": "fork",
+      "uz": "vilka"
+     },
+     {
+      "n": 643,
+      "en": "knife",
+      "uz": "pichoq"
+     },
+     {
+      "n": 644,
+      "en": "teapot",
+      "uz": "choynak"
+     },
+     {
+      "n": 645,
+      "en": "kettle",
+      "uz": "qaynatgich"
+     },
+     {
+      "n": 646,
+      "en": "pan",
+      "uz": "tova"
+     },
+     {
+      "n": 647,
+      "en": "pot",
+      "uz": "qozon / kostryulka"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 10,
+  "sections": [
+   {
+    "title": "School and Learning | Maktab va ta'lim",
+    "words": [
+     {
+      "n": 648,
+      "en": "school",
+      "uz": "maktab"
+     },
+     {
+      "n": 649,
+      "en": "class",
+      "uz": "sinf"
+     },
+     {
+      "n": 650,
+      "en": "classroom",
+      "uz": "sinf xonasi"
+     },
+     {
+      "n": 651,
+      "en": "lesson",
+      "uz": "dars"
+     },
+     {
+      "n": 652,
+      "en": "subject",
+      "uz": "fan"
+     },
+     {
+      "n": 653,
+      "en": "homework",
+      "uz": "uy vazifasi"
+     },
+     {
+      "n": 654,
+      "en": "exam",
+      "uz": "imtihon"
+     },
+     {
+      "n": 655,
+      "en": "test",
+      "uz": "test / sinov"
+     },
+     {
+      "n": 656,
+      "en": "question",
+      "uz": "savol"
+     },
+     {
+      "n": 657,
+      "en": "answer",
+      "uz": "javob"
+     },
+     {
+      "n": 658,
+      "en": "problem",
+      "uz": "masala / muammo"
+     },
+     {
+      "n": 659,
+      "en": "solution",
+      "uz": "yechim"
+     },
+     {
+      "n": 660,
+      "en": "mistake",
+      "uz": "xato"
+     },
+     {
+      "n": 661,
+      "en": "correct",
+      "uz": "to'g'ri"
+     },
+     {
+      "n": 662,
+      "en": "wrong",
+      "uz": "noto'g'ri"
+     },
+     {
+      "n": 663,
+      "en": "right",
+      "uz": "to'g'ri / o'ng"
+     },
+     {
+      "n": 664,
+      "en": "grade",
+      "uz": "baho"
+     },
+     {
+      "n": 665,
+      "en": "mark",
+      "uz": "ball / belgi"
+     },
+     {
+      "n": 666,
+      "en": "score",
+      "uz": "ball"
+     },
+     {
+      "n": 667,
+      "en": "result",
+      "uz": "natija"
+     },
+     {
+      "n": 668,
+      "en": "prize",
+      "uz": "sovrin"
+     },
+     {
+      "n": 669,
+      "en": "certificate",
+      "uz": "sertifikat"
+     },
+     {
+      "n": 670,
+      "en": "diploma",
+      "uz": "diplom"
+     },
+     {
+      "n": 671,
+      "en": "book",
+      "uz": "kitob"
+     },
+     {
+      "n": 672,
+      "en": "textbook",
+      "uz": "darslik"
+     },
+     {
+      "n": 673,
+      "en": "notebook",
+      "uz": "daftar"
+     },
+     {
+      "n": 674,
+      "en": "page",
+      "uz": "sahifa"
+     },
+     {
+      "n": 675,
+      "en": "pen",
+      "uz": "ruchka"
+     },
+     {
+      "n": 676,
+      "en": "pencil",
+      "uz": "qalam"
+     },
+     {
+      "n": 677,
+      "en": "eraser",
+      "uz": "o'chirg'ich"
+     },
+     {
+      "n": 678,
+      "en": "ruler",
+      "uz": "chizg'ich"
+     },
+     {
+      "n": 679,
+      "en": "sharpener",
+      "uz": "qalamtarosh"
+     },
+     {
+      "n": 680,
+      "en": "scissors",
+      "uz": "qaychi"
+     },
+     {
+      "n": 681,
+      "en": "glue",
+      "uz": "yelim"
+     },
+     {
+      "n": 682,
+      "en": "paper",
+      "uz": "qog'oz"
+     },
+     {
+      "n": 683,
+      "en": "bag",
+      "uz": "sumka"
+     },
+     {
+      "n": 684,
+      "en": "backpack",
+      "uz": "ryukzak"
+     },
+     {
+      "n": 685,
+      "en": "case",
+      "uz": "g'ilof / holat"
+     },
+     {
+      "n": 686,
+      "en": "board",
+      "uz": "doska"
+     },
+     {
+      "n": 687,
+      "en": "chalk",
+      "uz": "bo'r"
+     },
+     {
+      "n": 688,
+      "en": "marker",
+      "uz": "marker"
+     },
+     {
+      "n": 689,
+      "en": "map",
+      "uz": "xarita"
+     },
+     {
+      "n": 690,
+      "en": "globe",
+      "uz": "globus"
+     },
+     {
+      "n": 691,
+      "en": "dictionary",
+      "uz": "lug'at"
+     },
+     {
+      "n": 692,
+      "en": "library",
+      "uz": "kutubxona"
+     },
+     {
+      "n": 693,
+      "en": "librarian",
+      "uz": "kutubxonachi"
+     },
+     {
+      "n": 694,
+      "en": "story",
+      "uz": "hikoya"
+     },
+     {
+      "n": 695,
+      "en": "tale",
+      "uz": "ertak"
+     },
+     {
+      "n": 696,
+      "en": "poem",
+      "uz": "she'r"
+     },
+     {
+      "n": 697,
+      "en": "novel",
+      "uz": "roman"
+     },
+     {
+      "n": 698,
+      "en": "letter",
+      "uz": "harf / xat"
+     },
+     {
+      "n": 699,
+      "en": "alphabet",
+      "uz": "alifbo"
+     },
+     {
+      "n": 700,
+      "en": "word",
+      "uz": "so'z"
+     },
+     {
+      "n": 701,
+      "en": "sentence",
+      "uz": "gap"
+     },
+     {
+      "n": 702,
+      "en": "paragraph",
+      "uz": "abzats"
+     },
+     {
+      "n": 703,
+      "en": "text",
+      "uz": "matn"
+     },
+     {
+      "n": 704,
+      "en": "title",
+      "uz": "sarlavha"
+     },
+     {
+      "n": 705,
+      "en": "topic",
+      "uz": "mavzu"
+     },
+     {
+      "n": 706,
+      "en": "meaning",
+      "uz": "ma'no"
+     },
+     {
+      "n": 707,
+      "en": "spelling",
+      "uz": "imlo"
+     },
+     {
+      "n": 708,
+      "en": "grammar",
+      "uz": "grammatika"
+     },
+     {
+      "n": 709,
+      "en": "vocabulary",
+      "uz": "lug'at boyligi"
+     },
+     {
+      "n": 710,
+      "en": "language",
+      "uz": "til"
+     },
+     {
+      "n": 711,
+      "en": "English",
+      "uz": "ingliz tili"
+     },
+     {
+      "n": 712,
+      "en": "Uzbek",
+      "uz": "o'zbek tili"
+     },
+     {
+      "n": 713,
+      "en": "Russian",
+      "uz": "rus tili"
+     },
+     {
+      "n": 714,
+      "en": "maths",
+      "uz": "matematika"
+     },
+     {
+      "n": 715,
+      "en": "science",
+      "uz": "fan / tabiiy fan"
+     },
+     {
+      "n": 716,
+      "en": "history",
+      "uz": "tarix"
+     },
+     {
+      "n": 717,
+      "en": "geography",
+      "uz": "geografiya"
+     },
+     {
+      "n": 718,
+      "en": "biology",
+      "uz": "biologiya"
+     },
+     {
+      "n": 719,
+      "en": "chemistry",
+      "uz": "kimyo"
+     },
+     {
+      "n": 720,
+      "en": "physics",
+      "uz": "fizika"
+     },
+     {
+      "n": 721,
+      "en": "art",
+      "uz": "san'at / tasviriy san'at"
+     },
+     {
+      "n": 722,
+      "en": "music",
+      "uz": "musiqa"
+     },
+     {
+      "n": 723,
+      "en": "PE",
+      "uz": "jismoniy tarbiya"
+     },
+     {
+      "n": 724,
+      "en": "reading",
+      "uz": "o'qish"
+     },
+     {
+      "n": 725,
+      "en": "writing",
+      "uz": "yozish"
+     },
+     {
+      "n": 726,
+      "en": "speaking",
+      "uz": "gapirish"
+     },
+     {
+      "n": 727,
+      "en": "listening",
+      "uz": "tinglash"
+     },
+     {
+      "n": 728,
+      "en": "break",
+      "uz": "tanaffus / sindirmoq"
+     },
+     {
+      "n": 729,
+      "en": "timetable",
+      "uz": "dars jadvali"
+     },
+     {
+      "n": 730,
+      "en": "uniform",
+      "uz": "forma"
+     },
+     {
+      "n": 731,
+      "en": "principal",
+      "uz": "direktor"
+     },
+     {
+      "n": 732,
+      "en": "headmaster",
+      "uz": "maktab direktori"
+     },
+     {
+      "n": 733,
+      "en": "lecture",
+      "uz": "ma'ruza"
+     },
+     {
+      "n": 734,
+      "en": "university",
+      "uz": "universitet"
+     },
+     {
+      "n": 735,
+      "en": "college",
+      "uz": "kollej"
+     },
+     {
+      "n": 736,
+      "en": "kindergarten",
+      "uz": "bog'cha"
+     },
+     {
+      "n": 737,
+      "en": "education",
+      "uz": "ta'lim"
+     },
+     {
+      "n": 738,
+      "en": "knowledge",
+      "uz": "bilim"
+     },
+     {
+      "n": 739,
+      "en": "skill",
+      "uz": "ko'nikma"
+     },
+     {
+      "n": 740,
+      "en": "talent",
+      "uz": "iste'dod"
+     },
+     {
+      "n": 741,
+      "en": "learn",
+      "uz": "o'rganmoq"
+     },
+     {
+      "n": 742,
+      "en": "study",
+      "uz": "o'qimoq / o'rganmoq"
+     },
+     {
+      "n": 743,
+      "en": "teach",
+      "uz": "o'qitmoq"
+     },
+     {
+      "n": 744,
+      "en": "read",
+      "uz": "o'qimoq"
+     },
+     {
+      "n": 745,
+      "en": "write",
+      "uz": "yozmoq"
+     },
+     {
+      "n": 746,
+      "en": "spell",
+      "uz": "harflab aytmoq"
+     },
+     {
+      "n": 747,
+      "en": "draw",
+      "uz": "chizmoq"
+     },
+     {
+      "n": 748,
+      "en": "paint",
+      "uz": "bo'yamoq"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 11,
+  "sections": [
+   {
+    "title": "School and Learning | Maktab va ta'lim",
+    "words": [
+     {
+      "n": 749,
+      "en": "colour in",
+      "uz": "rang berib chizmoq"
+     },
+     {
+      "n": 750,
+      "en": "copy",
+      "uz": "ko'chirmoq"
+     },
+     {
+      "n": 751,
+      "en": "repeat",
+      "uz": "takrorlamoq"
+     },
+     {
+      "n": 752,
+      "en": "remember",
+      "uz": "esda saqlamoq"
+     },
+     {
+      "n": 753,
+      "en": "forget",
+      "uz": "unutmoq"
+     },
+     {
+      "n": 754,
+      "en": "understand",
+      "uz": "tushunmoq"
+     },
+     {
+      "n": 755,
+      "en": "explain",
+      "uz": "tushuntirmoq"
+     },
+     {
+      "n": 756,
+      "en": "know",
+      "uz": "bilmoq"
+     },
+     {
+      "n": 757,
+      "en": "think",
+      "uz": "o'ylamoq"
+     },
+     {
+      "n": 758,
+      "en": "guess",
+      "uz": "taxmin qilmoq"
+     },
+     {
+      "n": 759,
+      "en": "choose",
+      "uz": "tanlamoq"
+     },
+     {
+      "n": 760,
+      "en": "decide",
+      "uz": "qaror qilmoq"
+     },
+     {
+      "n": 761,
+      "en": "solve",
+      "uz": "yechmoq"
+     },
+     {
+      "n": 762,
+      "en": "practise",
+      "uz": "mashq qilmoq"
+     },
+     {
+      "n": 763,
+      "en": "revise",
+      "uz": "takrorlamoq (tayyorgarlik)"
+     },
+     {
+      "n": 764,
+      "en": "pass",
+      "uz": "o'tmoq"
+     },
+     {
+      "n": 765,
+      "en": "fail",
+      "uz": "yiqilmoq / o'ta olmaslik"
+     },
+     {
+      "n": 766,
+      "en": "win",
+      "uz": "g'alaba qozonmoq"
+     },
+     {
+      "n": 767,
+      "en": "lose",
+      "uz": "yutqazmoq"
+     }
+    ]
+   },
+   {
+    "title": "Clothes and Accessories | Kiyim va aksessuarlar",
+    "words": [
+     {
+      "n": 768,
+      "en": "clothes",
+      "uz": "kiyim"
+     },
+     {
+      "n": 769,
+      "en": "shirt",
+      "uz": "ko'ylak (erkaklar)"
+     },
+     {
+      "n": 770,
+      "en": "T-shirt",
+      "uz": "futbolka"
+     },
+     {
+      "n": 771,
+      "en": "blouse",
+      "uz": "bluzka"
+     },
+     {
+      "n": 772,
+      "en": "dress",
+      "uz": "ko'ylak (ayollar)"
+     },
+     {
+      "n": 773,
+      "en": "skirt",
+      "uz": "yubka"
+     },
+     {
+      "n": 774,
+      "en": "trousers",
+      "uz": "shim"
+     },
+     {
+      "n": 775,
+      "en": "jeans",
+      "uz": "jinsi"
+     },
+     {
+      "n": 776,
+      "en": "shorts",
+      "uz": "shortik"
+     },
+     {
+      "n": 777,
+      "en": "jacket",
+      "uz": "kurtka / pidjak"
+     },
+     {
+      "n": 778,
+      "en": "coat",
+      "uz": "palto"
+     },
+     {
+      "n": 779,
+      "en": "sweater",
+      "uz": "sviter"
+     },
+     {
+      "n": 780,
+      "en": "hoodie",
+      "uz": "kapyushonli kofta"
+     },
+     {
+      "n": 781,
+      "en": "suit",
+      "uz": "kostyum"
+     },
+     {
+      "n": 782,
+      "en": "scarf",
+      "uz": "sharf"
+     },
+     {
+      "n": 783,
+      "en": "hat",
+      "uz": "shlyapa"
+     },
+     {
+      "n": 784,
+      "en": "cap",
+      "uz": "kepka"
+     },
+     {
+      "n": 785,
+      "en": "gloves",
+      "uz": "qo'lqop"
+     },
+     {
+      "n": 786,
+      "en": "socks",
+      "uz": "paypoq"
+     },
+     {
+      "n": 787,
+      "en": "shoes",
+      "uz": "poyabzal"
+     },
+     {
+      "n": 788,
+      "en": "boots",
+      "uz": "etik"
+     },
+     {
+      "n": 789,
+      "en": "sandals",
+      "uz": "sandal"
+     },
+     {
+      "n": 790,
+      "en": "slippers",
+      "uz": "shippak"
+     },
+     {
+      "n": 791,
+      "en": "trainers",
+      "uz": "krossovka"
+     },
+     {
+      "n": 792,
+      "en": "pocket",
+      "uz": "cho'ntak"
+     },
+     {
+      "n": 793,
+      "en": "button",
+      "uz": "tugma"
+     },
+     {
+      "n": 794,
+      "en": "zip",
+      "uz": "zanjir"
+     },
+     {
+      "n": 795,
+      "en": "belt",
+      "uz": "kamar"
+     },
+     {
+      "n": 796,
+      "en": "sleeve",
+      "uz": "yenglar"
+     },
+     {
+      "n": 797,
+      "en": "collar",
+      "uz": "yoqa"
+     },
+     {
+      "n": 798,
+      "en": "glasses",
+      "uz": "ko'zoynak"
+     },
+     {
+      "n": 799,
+      "en": "sunglasses",
+      "uz": "quyoshdan saqlovchi ko‘zoynak"
+     },
+     {
+      "n": 800,
+      "en": "ring",
+      "uz": "uzuk"
+     },
+     {
+      "n": 801,
+      "en": "necklace",
+      "uz": "marjon"
+     },
+     {
+      "n": 802,
+      "en": "bracelet",
+      "uz": "bilaguzuk"
+     },
+     {
+      "n": 803,
+      "en": "earring",
+      "uz": "sirg'a"
+     },
+     {
+      "n": 804,
+      "en": "purse",
+      "uz": "hamyon"
+     },
+     {
+      "n": 805,
+      "en": "wallet",
+      "uz": "hamyon (erkaklar)"
+     },
+     {
+      "n": 806,
+      "en": "handbag",
+      "uz": "qo'l sumka"
+     },
+     {
+      "n": 807,
+      "en": "raincoat",
+      "uz": "yomg'irpo'sh"
+     },
+     {
+      "n": 808,
+      "en": "pyjamas",
+      "uz": "pijama"
+     },
+     {
+      "n": 809,
+      "en": "underwear",
+      "uz": "ichki kiyim"
+     },
+     {
+      "n": 810,
+      "en": "robe",
+      "uz": "chopon"
+     },
+     {
+      "n": 811,
+      "en": "skullcap",
+      "uz": "do'ppi"
+     },
+     {
+      "n": 812,
+      "en": "wear",
+      "uz": "kiymoq"
+     },
+     {
+      "n": 813,
+      "en": "put on",
+      "uz": "kiyib olmoq"
+     },
+     {
+      "n": 814,
+      "en": "take off",
+      "uz": "yechmoq"
+     },
+     {
+      "n": 815,
+      "en": "dress up",
+      "uz": "kiyinmoq"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 12,
+  "sections": [
+   {
+    "title": "Places and Buildings | Joylar va binolar",
+    "words": [
+     {
+      "n": 816,
+      "en": "place",
+      "uz": "joy"
+     },
+     {
+      "n": 817,
+      "en": "city",
+      "uz": "shahar"
+     },
+     {
+      "n": 818,
+      "en": "town",
+      "uz": "kichik shahar"
+     },
+     {
+      "n": 819,
+      "en": "village",
+      "uz": "qishloq"
+     },
+     {
+      "n": 820,
+      "en": "capital",
+      "uz": "poytaxt"
+     },
+     {
+      "n": 821,
+      "en": "country",
+      "uz": "mamlakat"
+     },
+     {
+      "n": 822,
+      "en": "street",
+      "uz": "ko'cha"
+     },
+     {
+      "n": 823,
+      "en": "road",
+      "uz": "yo'l"
+     },
+     {
+      "n": 824,
+      "en": "avenue",
+      "uz": "xiyobon"
+     },
+     {
+      "n": 825,
+      "en": "bridge",
+      "uz": "ko'prik"
+     },
+     {
+      "n": 826,
+      "en": "tunnel",
+      "uz": "tunnel"
+     },
+     {
+      "n": 827,
+      "en": "crossroads",
+      "uz": "chorraha"
+     },
+     {
+      "n": 828,
+      "en": "pavement",
+      "uz": "yo'lak"
+     },
+     {
+      "n": 829,
+      "en": "traffic light",
+      "uz": "svetofor"
+     },
+     {
+      "n": 830,
+      "en": "building",
+      "uz": "bino"
+     },
+     {
+      "n": 831,
+      "en": "tower",
+      "uz": "minora"
+     },
+     {
+      "n": 832,
+      "en": "castle",
+      "uz": "qal'a"
+     },
+     {
+      "n": 833,
+      "en": "palace",
+      "uz": "saroy"
+     },
+     {
+      "n": 834,
+      "en": "museum",
+      "uz": "muzey"
+     },
+     {
+      "n": 835,
+      "en": "theatre",
+      "uz": "teatr"
+     },
+     {
+      "n": 836,
+      "en": "cinema",
+      "uz": "kinoteatr"
+     },
+     {
+      "n": 837,
+      "en": "stadium",
+      "uz": "stadion"
+     },
+     {
+      "n": 838,
+      "en": "shop",
+      "uz": "do'kon"
+     },
+     {
+      "n": 839,
+      "en": "store",
+      "uz": "do'kon (katta)"
+     },
+     {
+      "n": 840,
+      "en": "supermarket",
+      "uz": "supermarket"
+     },
+     {
+      "n": 841,
+      "en": "market",
+      "uz": "bozor"
+     },
+     {
+      "n": 842,
+      "en": "bazaar",
+      "uz": "bozor (katta)"
+     },
+     {
+      "n": 843,
+      "en": "bakery",
+      "uz": "nonvoyxona"
+     },
+     {
+      "n": 844,
+      "en": "pharmacy",
+      "uz": "dorixona"
+     },
+     {
+      "n": 845,
+      "en": "post office",
+      "uz": "pochta"
+     },
+     {
+      "n": 846,
+      "en": "bank",
+      "uz": "bank / qirg'oq"
+     },
+     {
+      "n": 847,
+      "en": "hotel",
+      "uz": "mehmonxona"
+     },
+     {
+      "n": 848,
+      "en": "airport",
+      "uz": "aeroport"
+     },
+     {
+      "n": 849,
+      "en": "station",
+      "uz": "bekat"
+     },
+     {
+      "n": 850,
+      "en": "bus stop",
+      "uz": "avtobus bekati"
+     },
+     {
+      "n": 851,
+      "en": "port",
+      "uz": "port"
+     },
+     {
+      "n": 852,
+      "en": "factory",
+      "uz": "zavod"
+     },
+     {
+      "n": 853,
+      "en": "office",
+      "uz": "ofis"
+     },
+     {
+      "n": 854,
+      "en": "police station",
+      "uz": "politsiya bo'limi"
+     },
+     {
+      "n": 855,
+      "en": "fire station",
+      "uz": "o't o'chirish bo'limi"
+     },
+     {
+      "n": 856,
+      "en": "mosque",
+      "uz": "masjid"
+     },
+     {
+      "n": 857,
+      "en": "church",
+      "uz": "cherkov"
+     },
+     {
+      "n": 858,
+      "en": "temple",
+      "uz": "ibodatxona"
+     },
+     {
+      "n": 859,
+      "en": "cemetery",
+      "uz": "qabriston"
+     },
+     {
+      "n": 860,
+      "en": "playground",
+      "uz": "o'yin maydonchasi"
+     },
+     {
+      "n": 861,
+      "en": "swimming pool",
+      "uz": "suzish havzasi"
+     },
+     {
+      "n": 862,
+      "en": "gym",
+      "uz": "sport zali"
+     },
+     {
+      "n": 863,
+      "en": "fountain",
+      "uz": "favvora"
+     },
+     {
+      "n": 864,
+      "en": "monument",
+      "uz": "haykal / yodgorlik"
+     },
+     {
+      "n": 865,
+      "en": "statue",
+      "uz": "haykal"
+     },
+     {
+      "n": 866,
+      "en": "gallery",
+      "uz": "galereya"
+     },
+     {
+      "n": 867,
+      "en": "exhibition",
+      "uz": "ko'rgazma"
+     },
+     {
+      "n": 868,
+      "en": "courtyard",
+      "uz": "hovli (ichki)"
+     },
+     {
+      "n": 869,
+      "en": "downtown",
+      "uz": "shahar markazi"
+     },
+     {
+      "n": 870,
+      "en": "centre",
+      "uz": "markaz"
+     },
+     {
+      "n": 871,
+      "en": "suburb",
+      "uz": "shahar atrofi"
+     },
+     {
+      "n": 872,
+      "en": "district",
+      "uz": "tuman"
+     },
+     {
+      "n": 873,
+      "en": "region",
+      "uz": "viloyat"
+     },
+     {
+      "n": 874,
+      "en": "border",
+      "uz": "chegara"
+     },
+     {
+      "n": 875,
+      "en": "nation",
+      "uz": "millat"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 13,
+  "sections": [
+   {
+    "title": "Transport and Travel | Transport va sayohat",
+    "words": [
+     {
+      "n": 876,
+      "en": "transport",
+      "uz": "transport"
+     },
+     {
+      "n": 877,
+      "en": "car",
+      "uz": "mashina"
+     },
+     {
+      "n": 878,
+      "en": "bus",
+      "uz": "avtobus"
+     },
+     {
+      "n": 879,
+      "en": "train",
+      "uz": "poyezd"
+     },
+     {
+      "n": 880,
+      "en": "metro",
+      "uz": "metro"
+     },
+     {
+      "n": 881,
+      "en": "tram",
+      "uz": "tramvay"
+     },
+     {
+      "n": 882,
+      "en": "taxi",
+      "uz": "taksi"
+     },
+     {
+      "n": 883,
+      "en": "bicycle",
+      "uz": "velosiped"
+     },
+     {
+      "n": 884,
+      "en": "motorbike",
+      "uz": "mototsikl"
+     },
+     {
+      "n": 885,
+      "en": "truck",
+      "uz": "yuk mashinasi"
+     },
+     {
+      "n": 886,
+      "en": "van",
+      "uz": "furgon"
+     },
+     {
+      "n": 887,
+      "en": "plane",
+      "uz": "samolyot"
+     },
+     {
+      "n": 888,
+      "en": "helicopter",
+      "uz": "vertolyot"
+     },
+     {
+      "n": 889,
+      "en": "rocket",
+      "uz": "raketa"
+     },
+     {
+      "n": 890,
+      "en": "ship",
+      "uz": "kema"
+     },
+     {
+      "n": 891,
+      "en": "boat",
+      "uz": "qayiq"
+     },
+     {
+      "n": 892,
+      "en": "ferry",
+      "uz": "parom"
+     },
+     {
+      "n": 893,
+      "en": "tractor",
+      "uz": "traktor"
+     },
+     {
+      "n": 894,
+      "en": "ambulance",
+      "uz": "tez yordam"
+     },
+     {
+      "n": 895,
+      "en": "wheel",
+      "uz": "g'ildirak"
+     },
+     {
+      "n": 896,
+      "en": "engine",
+      "uz": "dvigatel"
+     },
+     {
+      "n": 897,
+      "en": "petrol",
+      "uz": "benzin"
+     },
+     {
+      "n": 898,
+      "en": "driver",
+      "uz": "haydovchi"
+     },
+     {
+      "n": 899,
+      "en": "pilot",
+      "uz": "uchuvchi"
+     },
+     {
+      "n": 900,
+      "en": "passenger",
+      "uz": "yo'lovchi"
+     },
+     {
+      "n": 901,
+      "en": "ticket",
+      "uz": "chipta"
+     },
+     {
+      "n": 902,
+      "en": "seat",
+      "uz": "o'rindiq"
+     },
+     {
+      "n": 903,
+      "en": "luggage",
+      "uz": "yuk (bagaj)"
+     },
+     {
+      "n": 904,
+      "en": "suitcase",
+      "uz": "chamadon"
+     },
+     {
+      "n": 905,
+      "en": "passport",
+      "uz": "pasport"
+     },
+     {
+      "n": 906,
+      "en": "visa",
+      "uz": "viza"
+     },
+     {
+      "n": 907,
+      "en": "trip",
+      "uz": "sayohat"
+     },
+     {
+      "n": 908,
+      "en": "journey",
+      "uz": "safar"
+     },
+     {
+      "n": 909,
+      "en": "tour",
+      "uz": "ekskursiya"
+     },
+     {
+      "n": 910,
+      "en": "tourist",
+      "uz": "sayyoh"
+     },
+     {
+      "n": 911,
+      "en": "travel",
+      "uz": "sayohat qilmoq"
+     },
+     {
+      "n": 912,
+      "en": "drive",
+      "uz": "haydamoq"
+     },
+     {
+      "n": 913,
+      "en": "ride",
+      "uz": "minib yurmoq"
+     },
+     {
+      "n": 914,
+      "en": "fly",
+      "uz": "uchmoq"
+     },
+     {
+      "n": 915,
+      "en": "sail",
+      "uz": "suzib yurmoq"
+     },
+     {
+      "n": 916,
+      "en": "arrive",
+      "uz": "yetib kelmoq"
+     },
+     {
+      "n": 917,
+      "en": "depart",
+      "uz": "jo'nab ketmoq"
+     },
+     {
+      "n": 918,
+      "en": "leave",
+      "uz": "tark etmoq"
+     },
+     {
+      "n": 919,
+      "en": "stop",
+      "uz": "to'xtamoq"
+     },
+     {
+      "n": 920,
+      "en": "wait",
+      "uz": "kutmoq"
+     },
+     {
+      "n": 921,
+      "en": "cross",
+      "uz": "kesib o'tmoq"
+     },
+     {
+      "n": 922,
+      "en": "turn",
+      "uz": "burilmoq"
+     },
+     {
+      "n": 923,
+      "en": "turn left",
+      "uz": "chapga burilmoq"
+     },
+     {
+      "n": 924,
+      "en": "turn right",
+      "uz": "o'ngga burilmoq"
+     },
+     {
+      "n": 925,
+      "en": "go straight",
+      "uz": "to'g'ri yurmoq"
+     },
+     {
+      "n": 926,
+      "en": "speed",
+      "uz": "tezlik"
+     },
+     {
+      "n": 927,
+      "en": "traffic",
+      "uz": "harakat"
+     },
+     {
+      "n": 928,
+      "en": "accident",
+      "uz": "avariya"
+     },
+     {
+      "n": 929,
+      "en": "safe",
+      "uz": "xavfsiz"
+     },
+     {
+      "n": 930,
+      "en": "dangerous",
+      "uz": "xavfli"
+     },
+     {
+      "n": 931,
+      "en": "danger",
+      "uz": "xavf"
+     },
+     {
+      "n": 932,
+      "en": "direction",
+      "uz": "yo'nalish"
+     },
+     {
+      "n": 933,
+      "en": "guide",
+      "uz": "yo'lboshchi"
+     },
+     {
+      "n": 934,
+      "en": "camp",
+      "uz": "lager"
+     },
+     {
+      "n": 935,
+      "en": "tent",
+      "uz": "chodir"
+     },
+     {
+      "n": 936,
+      "en": "adventure",
+      "uz": "sarguzasht"
+     },
+     {
+      "n": 937,
+      "en": "souvenir",
+      "uz": "esdalik"
+     },
+     {
+      "n": 938,
+      "en": "postcard",
+      "uz": "otkritka"
+     },
+     {
+      "n": 939,
+      "en": "gift",
+      "uz": "sovg'a"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 14,
+  "sections": [
+   {
+    "title": "Jobs and Work | Kasblar va ish",
+    "words": [
+     {
+      "n": 940,
+      "en": "job",
+      "uz": "ish (kasb)"
+     },
+     {
+      "n": 941,
+      "en": "work",
+      "uz": "ishlamoq / ish"
+     },
+     {
+      "n": 942,
+      "en": "career",
+      "uz": "karyera"
+     },
+     {
+      "n": 943,
+      "en": "profession",
+      "uz": "kasb"
+     },
+     {
+      "n": 944,
+      "en": "worker",
+      "uz": "ishchi"
+     },
+     {
+      "n": 945,
+      "en": "farmer",
+      "uz": "dehqon"
+     },
+     {
+      "n": 946,
+      "en": "builder",
+      "uz": "quruvchi"
+     },
+     {
+      "n": 947,
+      "en": "chef",
+      "uz": "bosh oshpaz"
+     },
+     {
+      "n": 948,
+      "en": "baker",
+      "uz": "novvoy"
+     },
+     {
+      "n": 949,
+      "en": "butcher",
+      "uz": "qassob"
+     },
+     {
+      "n": 950,
+      "en": "tailor",
+      "uz": "tikuvchi"
+     },
+     {
+      "n": 951,
+      "en": "barber",
+      "uz": "sartarosh"
+     },
+     {
+      "n": 952,
+      "en": "hairdresser",
+      "uz": "sartarosh (ayollar)"
+     },
+     {
+      "n": 953,
+      "en": "shopkeeper",
+      "uz": "do'kondor"
+     },
+     {
+      "n": 954,
+      "en": "salesman",
+      "uz": "sotuvchi"
+     },
+     {
+      "n": 955,
+      "en": "cashier",
+      "uz": "kassir"
+     },
+     {
+      "n": 956,
+      "en": "postman",
+      "uz": "pochtachi"
+     },
+     {
+      "n": 957,
+      "en": "policeman",
+      "uz": "politsiyachi"
+     },
+     {
+      "n": 958,
+      "en": "soldier",
+      "uz": "askar"
+     },
+     {
+      "n": 959,
+      "en": "firefighter",
+      "uz": "o't o'chiruvchi"
+     },
+     {
+      "n": 960,
+      "en": "lawyer",
+      "uz": "advokat"
+     },
+     {
+      "n": 961,
+      "en": "judge",
+      "uz": "sudya"
+     },
+     {
+      "n": 962,
+      "en": "engineer",
+      "uz": "muhandis"
+     },
+     {
+      "n": 963,
+      "en": "architect",
+      "uz": "me'mor"
+     },
+     {
+      "n": 964,
+      "en": "mechanic",
+      "uz": "mexanik"
+     },
+     {
+      "n": 965,
+      "en": "electrician",
+      "uz": "elektrik"
+     },
+     {
+      "n": 966,
+      "en": "plumber",
+      "uz": "santexnik"
+     },
+     {
+      "n": 967,
+      "en": "painter",
+      "uz": "rassom / bo'yoqchi"
+     },
+     {
+      "n": 968,
+      "en": "artist",
+      "uz": "rassom"
+     },
+     {
+      "n": 969,
+      "en": "singer",
+      "uz": "qo'shiqchi"
+     },
+     {
+      "n": 970,
+      "en": "dancer",
+      "uz": "raqqosa"
+     },
+     {
+      "n": 971,
+      "en": "actor",
+      "uz": "aktyor"
+     },
+     {
+      "n": 972,
+      "en": "actress",
+      "uz": "aktrisa"
+     },
+     {
+      "n": 973,
+      "en": "musician",
+      "uz": "musiqachi"
+     },
+     {
+      "n": 974,
+      "en": "writer",
+      "uz": "yozuvchi"
+     },
+     {
+      "n": 975,
+      "en": "poet",
+      "uz": "shoyir"
+     },
+     {
+      "n": 976,
+      "en": "journalist",
+      "uz": "jurnalist"
+     },
+     {
+      "n": 977,
+      "en": "photographer",
+      "uz": "fotograf"
+     },
+     {
+      "n": 978,
+      "en": "programmer",
+      "uz": "dasturchi"
+     },
+     {
+      "n": 979,
+      "en": "astronaut",
+      "uz": "kosmonavt"
+     },
+     {
+      "n": 980,
+      "en": "manager",
+      "uz": "menejer"
+     },
+     {
+      "n": 981,
+      "en": "director",
+      "uz": "direktor"
+     },
+     {
+      "n": 982,
+      "en": "secretary",
+      "uz": "kotiba"
+     },
+     {
+      "n": 983,
+      "en": "accountant",
+      "uz": "buxgalter"
+     },
+     {
+      "n": 984,
+      "en": "businessman",
+      "uz": "tadbirkor"
+     },
+     {
+      "n": 985,
+      "en": "vet",
+      "uz": "veterinar"
+     },
+     {
+      "n": 986,
+      "en": "guard",
+      "uz": "qorovul"
+     },
+     {
+      "n": 987,
+      "en": "gardener",
+      "uz": "bog'bon"
+     },
+     {
+      "n": 988,
+      "en": "fisherman",
+      "uz": "baliqchi"
+     },
+     {
+      "n": 989,
+      "en": "sailor",
+      "uz": "dengizchi"
+     },
+     {
+      "n": 990,
+      "en": "shepherd",
+      "uz": "cho'pon"
+     },
+     {
+      "n": 991,
+      "en": "clerk",
+      "uz": "xodim"
+     },
+     {
+      "n": 992,
+      "en": "employee",
+      "uz": "xodim (ishchi)"
+     },
+     {
+      "n": 993,
+      "en": "employer",
+      "uz": "ish beruvchi"
+     },
+     {
+      "n": 994,
+      "en": "salary",
+      "uz": "maosh"
+     },
+     {
+      "n": 995,
+      "en": "money",
+      "uz": "pul"
+     },
+     {
+      "n": 996,
+      "en": "coin",
+      "uz": "tanga"
+     },
+     {
+      "n": 997,
+      "en": "price",
+      "uz": "narx"
+     },
+     {
+      "n": 998,
+      "en": "cost",
+      "uz": "narxi"
+     },
+     {
+      "n": 999,
+      "en": "cheap",
+      "uz": "arzon"
+     },
+     {
+      "n": 1000,
+      "en": "expensive",
+      "uz": "qimmat"
+     },
+     {
+      "n": 1001,
+      "en": "rich",
+      "uz": "boy"
+     },
+     {
+      "n": 1002,
+      "en": "poor",
+      "uz": "kambag'al"
+     },
+     {
+      "n": 1003,
+      "en": "buy",
+      "uz": "sotib olmoq"
+     },
+     {
+      "n": 1004,
+      "en": "sell",
+      "uz": "sotmoq"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 15,
+  "sections": [
+   {
+    "title": "Sports and Hobbies | Sport va sevimli mashg'ulotlar",
+    "words": [
+     {
+      "n": 1005,
+      "en": "sport",
+      "uz": "sport"
+     },
+     {
+      "n": 1006,
+      "en": "game",
+      "uz": "o'yin"
+     },
+     {
+      "n": 1007,
+      "en": "play",
+      "uz": "o'ynamoq"
+     },
+     {
+      "n": 1008,
+      "en": "football",
+      "uz": "futbol"
+     },
+     {
+      "n": 1009,
+      "en": "basketball",
+      "uz": "basketbol"
+     },
+     {
+      "n": 1010,
+      "en": "volleyball",
+      "uz": "voleybol"
+     },
+     {
+      "n": 1011,
+      "en": "tennis",
+      "uz": "tennis"
+     },
+     {
+      "n": 1012,
+      "en": "table tennis",
+      "uz": "stol tennisi"
+     },
+     {
+      "n": 1013,
+      "en": "chess",
+      "uz": "shaxmat"
+     },
+     {
+      "n": 1014,
+      "en": "checkers",
+      "uz": "shashka"
+     },
+     {
+      "n": 1015,
+      "en": "swimming",
+      "uz": "suzish"
+     },
+     {
+      "n": 1016,
+      "en": "running",
+      "uz": "yugurish"
+     },
+     {
+      "n": 1017,
+      "en": "jumping",
+      "uz": "sakrash"
+     },
+     {
+      "n": 1018,
+      "en": "boxing",
+      "uz": "boks"
+     },
+     {
+      "n": 1019,
+      "en": "wrestling",
+      "uz": "kurash"
+     },
+     {
+      "n": 1020,
+      "en": "karate",
+      "uz": "karate"
+     },
+     {
+      "n": 1021,
+      "en": "judo",
+      "uz": "dzyudo"
+     },
+     {
+      "n": 1022,
+      "en": "gymnastics",
+      "uz": "gimnastika"
+     },
+     {
+      "n": 1023,
+      "en": "cycling",
+      "uz": "velosiped haydash"
+     },
+     {
+      "n": 1024,
+      "en": "skiing",
+      "uz": "chang'i"
+     },
+     {
+      "n": 1025,
+      "en": "skating",
+      "uz": "konkida uchish"
+     },
+     {
+      "n": 1026,
+      "en": "fishing",
+      "uz": "baliq ovlash"
+     },
+     {
+      "n": 1027,
+      "en": "hiking",
+      "uz": "piyoda sayr"
+     },
+     {
+      "n": 1028,
+      "en": "climbing",
+      "uz": "toqqa chiqish"
+     },
+     {
+      "n": 1029,
+      "en": "player",
+      "uz": "o'yinchi"
+     },
+     {
+      "n": 1030,
+      "en": "coach",
+      "uz": "murabbiy"
+     },
+     {
+      "n": 1031,
+      "en": "referee",
+      "uz": "hakam"
+     },
+     {
+      "n": 1032,
+      "en": "champion",
+      "uz": "chempion"
+     },
+     {
+      "n": 1033,
+      "en": "goal",
+      "uz": "gol"
+     },
+     {
+      "n": 1034,
+      "en": "ball",
+      "uz": "to'p"
+     },
+     {
+      "n": 1035,
+      "en": "net",
+      "uz": "to'r"
+     },
+     {
+      "n": 1036,
+      "en": "racket",
+      "uz": "raketka"
+     },
+     {
+      "n": 1037,
+      "en": "medal",
+      "uz": "medal"
+     },
+     {
+      "n": 1038,
+      "en": "race",
+      "uz": "poyga"
+     },
+     {
+      "n": 1039,
+      "en": "winner",
+      "uz": "g'olib"
+     },
+     {
+      "n": 1040,
+      "en": "loser",
+      "uz": "yutqazuvchi"
+     },
+     {
+      "n": 1041,
+      "en": "hobby",
+      "uz": "sevimli mashg'ulot"
+     },
+     {
+      "n": 1042,
+      "en": "collect",
+      "uz": "to'plamoq"
+     },
+     {
+      "n": 1043,
+      "en": "collection",
+      "uz": "kolleksiya"
+     },
+     {
+      "n": 1044,
+      "en": "stamp",
+      "uz": "marka"
+     },
+     {
+      "n": 1045,
+      "en": "toy",
+      "uz": "o'yinchoq"
+     },
+     {
+      "n": 1046,
+      "en": "doll",
+      "uz": "qo'g'irchoq"
+     },
+     {
+      "n": 1047,
+      "en": "cards",
+      "uz": "qarta"
+     },
+     {
+      "n": 1048,
+      "en": "kite",
+      "uz": "varrak"
+     },
+     {
+      "n": 1049,
+      "en": "balloon",
+      "uz": "shar (havo)"
+     },
+     {
+      "n": 1050,
+      "en": "camera",
+      "uz": "fotoapparat"
+     },
+     {
+      "n": 1051,
+      "en": "photo",
+      "uz": "surat"
+     },
+     {
+      "n": 1052,
+      "en": "picture",
+      "uz": "rasm"
+     },
+     {
+      "n": 1053,
+      "en": "song",
+      "uz": "qo'shiq"
+     },
+     {
+      "n": 1054,
+      "en": "dance",
+      "uz": "raqs"
+     }
+    ]
+   },
+   {
+    "title": "Technology | Texnologiya",
+    "words": [
+     {
+      "n": 1055,
+      "en": "computer",
+      "uz": "kompyuter"
+     },
+     {
+      "n": 1056,
+      "en": "laptop",
+      "uz": "noutbuk"
+     },
+     {
+      "n": 1057,
+      "en": "tablet",
+      "uz": "planshet"
+     },
+     {
+      "n": 1058,
+      "en": "phone",
+      "uz": "telefon"
+     },
+     {
+      "n": 1059,
+      "en": "mobile phone",
+      "uz": "mobil telefon"
+     },
+     {
+      "n": 1060,
+      "en": "screen",
+      "uz": "ekran"
+     },
+     {
+      "n": 1061,
+      "en": "keyboard",
+      "uz": "klaviatura"
+     },
+     {
+      "n": 1062,
+      "en": "printer",
+      "uz": "printer"
+     },
+     {
+      "n": 1063,
+      "en": "internet",
+      "uz": "internet"
+     },
+     {
+      "n": 1064,
+      "en": "website",
+      "uz": "veb-sayt"
+     },
+     {
+      "n": 1065,
+      "en": "email",
+      "uz": "elektron pochta"
+     },
+     {
+      "n": 1066,
+      "en": "message",
+      "uz": "xabar"
+     },
+     {
+      "n": 1067,
+      "en": "video",
+      "uz": "video"
+     },
+     {
+      "n": 1068,
+      "en": "app",
+      "uz": "ilova"
+     },
+     {
+      "n": 1069,
+      "en": "robot",
+      "uz": "robot"
+     },
+     {
+      "n": 1070,
+      "en": "radio",
+      "uz": "radio"
+     },
+     {
+      "n": 1071,
+      "en": "television",
+      "uz": "televizor"
+     },
+     {
+      "n": 1072,
+      "en": "battery",
+      "uz": "batareya"
+     },
+     {
+      "n": 1073,
+      "en": "cable",
+      "uz": "kabel"
+     },
+     {
+      "n": 1074,
+      "en": "electricity",
+      "uz": "elektr"
+     },
+     {
+      "n": 1075,
+      "en": "power",
+      "uz": "quvvat"
+     },
+     {
+      "n": 1076,
+      "en": "signal",
+      "uz": "signal"
+     },
+     {
+      "n": 1077,
+      "en": "click",
+      "uz": "bosmoq"
+     },
+     {
+      "n": 1078,
+      "en": "download",
+      "uz": "yuklab olmoq"
+     },
+     {
+      "n": 1079,
+      "en": "type",
+      "uz": "yozib kiritmoq"
+     },
+     {
+      "n": 1080,
+      "en": "search",
+      "uz": "qidirmoq"
+     },
+     {
+      "n": 1081,
+      "en": "newspaper",
+      "uz": "gazeta"
+     },
+     {
+      "n": 1082,
+      "en": "magazine",
+      "uz": "jurnal"
+     },
+     {
+      "n": 1083,
+      "en": "news",
+      "uz": "yangiliklar"
+     },
+     {
+      "n": 1084,
+      "en": "advertisement",
+      "uz": "reklama"
+     },
+     {
+      "n": 1085,
+      "en": "call",
+      "uz": "qo'ng'iroq qilmoq"
+     },
+     {
+      "n": 1086,
+      "en": "send",
+      "uz": "yubormoq"
+     },
+     {
+      "n": 1087,
+      "en": "receive",
+      "uz": "qabul qilmoq"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 16,
+  "sections": [
+   {
+    "title": "Feelings and Character | His-tuyg'u va xarakter",
+    "words": [
+     {
+      "n": 1088,
+      "en": "happy",
+      "uz": "baxtli"
+     },
+     {
+      "n": 1089,
+      "en": "sad",
+      "uz": "xafa"
+     },
+     {
+      "n": 1090,
+      "en": "angry",
+      "uz": "jahldor"
+     },
+     {
+      "n": 1091,
+      "en": "afraid",
+      "uz": "qo'rqqan"
+     },
+     {
+      "n": 1092,
+      "en": "scared",
+      "uz": "cho'chigan"
+     },
+     {
+      "n": 1093,
+      "en": "surprised",
+      "uz": "hayron"
+     },
+     {
+      "n": 1094,
+      "en": "excited",
+      "uz": "hayajonlangan"
+     },
+     {
+      "n": 1095,
+      "en": "nervous",
+      "uz": "asabiy"
+     },
+     {
+      "n": 1096,
+      "en": "worried",
+      "uz": "xavotirda"
+     },
+     {
+      "n": 1097,
+      "en": "proud",
+      "uz": "faxrlangan"
+     },
+     {
+      "n": 1098,
+      "en": "shy",
+      "uz": "uyatchan"
+     },
+     {
+      "n": 1099,
+      "en": "lonely",
+      "uz": "yolg'iz"
+     },
+     {
+      "n": 1100,
+      "en": "bored",
+      "uz": "zerikkan"
+     },
+     {
+      "n": 1101,
+      "en": "calm",
+      "uz": "xotirjam"
+     },
+     {
+      "n": 1102,
+      "en": "glad",
+      "uz": "xursand"
+     },
+     {
+      "n": 1103,
+      "en": "upset",
+      "uz": "ranjigan"
+     },
+     {
+      "n": 1104,
+      "en": "jealous",
+      "uz": "rashkchi"
+     },
+     {
+      "n": 1105,
+      "en": "sorry",
+      "uz": "kechirasiz / afsus"
+     },
+     {
+      "n": 1106,
+      "en": "lucky",
+      "uz": "omadli"
+     },
+     {
+      "n": 1107,
+      "en": "kind",
+      "uz": "mehribon"
+     },
+     {
+      "n": 1108,
+      "en": "nice",
+      "uz": "yoqimli"
+     },
+     {
+      "n": 1109,
+      "en": "polite",
+      "uz": "xushmuomala"
+     },
+     {
+      "n": 1110,
+      "en": "rude",
+      "uz": "qo'pol"
+     },
+     {
+      "n": 1111,
+      "en": "brave",
+      "uz": "jasur"
+     },
+     {
+      "n": 1112,
+      "en": "clever",
+      "uz": "aqlli"
+     },
+     {
+      "n": 1113,
+      "en": "smart",
+      "uz": "zehnli"
+     },
+     {
+      "n": 1114,
+      "en": "wise",
+      "uz": "dono"
+     },
+     {
+      "n": 1115,
+      "en": "silly",
+      "uz": "ahmoq / bema'ni"
+     },
+     {
+      "n": 1116,
+      "en": "foolish",
+      "uz": "nodon"
+     },
+     {
+      "n": 1117,
+      "en": "lazy",
+      "uz": "dangasa"
+     },
+     {
+      "n": 1118,
+      "en": "hardworking",
+      "uz": "mehnatkash"
+     },
+     {
+      "n": 1119,
+      "en": "honest",
+      "uz": "halol"
+     },
+     {
+      "n": 1120,
+      "en": "generous",
+      "uz": "saxiy"
+     },
+     {
+      "n": 1121,
+      "en": "greedy",
+      "uz": "ochko'z"
+     },
+     {
+      "n": 1122,
+      "en": "careful",
+      "uz": "ehtiyotkor"
+     },
+     {
+      "n": 1123,
+      "en": "careless",
+      "uz": "beparvo"
+     },
+     {
+      "n": 1124,
+      "en": "friendly",
+      "uz": "do'stona"
+     },
+     {
+      "n": 1125,
+      "en": "funny",
+      "uz": "kulgili"
+     },
+     {
+      "n": 1126,
+      "en": "serious",
+      "uz": "jiddiy"
+     },
+     {
+      "n": 1127,
+      "en": "quiet",
+      "uz": "jim"
+     },
+     {
+      "n": 1128,
+      "en": "loud",
+      "uz": "baland ovozli"
+     },
+     {
+      "n": 1129,
+      "en": "patient",
+      "uz": "sabrli"
+     },
+     {
+      "n": 1130,
+      "en": "curious",
+      "uz": "qiziquvchan"
+     },
+     {
+      "n": 1131,
+      "en": "creative",
+      "uz": "ijodkor"
+     },
+     {
+      "n": 1132,
+      "en": "gentle",
+      "uz": "muloyim"
+     },
+     {
+      "n": 1133,
+      "en": "selfish",
+      "uz": "xudbin"
+     },
+     {
+      "n": 1134,
+      "en": "helpful",
+      "uz": "yordamchi"
+     },
+     {
+      "n": 1135,
+      "en": "cheerful",
+      "uz": "quvnoq"
+     },
+     {
+      "n": 1136,
+      "en": "love",
+      "uz": "sevmoq / sevgi"
+     },
+     {
+      "n": 1137,
+      "en": "like",
+      "uz": "yoqtirmoq"
+     },
+     {
+      "n": 1138,
+      "en": "hate",
+      "uz": "yomon ko'rmoq"
+     },
+     {
+      "n": 1139,
+      "en": "enjoy",
+      "uz": "zavqlanmoq"
+     },
+     {
+      "n": 1140,
+      "en": "laugh",
+      "uz": "kulmoq"
+     },
+     {
+      "n": 1141,
+      "en": "smile",
+      "uz": "jilmaymoq"
+     },
+     {
+      "n": 1142,
+      "en": "cry",
+      "uz": "yig'lamoq"
+     },
+     {
+      "n": 1143,
+      "en": "shout",
+      "uz": "baqirmoq"
+     },
+     {
+      "n": 1144,
+      "en": "whisper",
+      "uz": "pichirlamoq"
+     },
+     {
+      "n": 1145,
+      "en": "hope",
+      "uz": "umid"
+     },
+     {
+      "n": 1146,
+      "en": "wish",
+      "uz": "orzu"
+     },
+     {
+      "n": 1147,
+      "en": "dream",
+      "uz": "tush / orzu"
+     },
+     {
+      "n": 1148,
+      "en": "fear",
+      "uz": "qo'rquv"
+     },
+     {
+      "n": 1149,
+      "en": "joy",
+      "uz": "quvonch"
+     },
+     {
+      "n": 1150,
+      "en": "anger",
+      "uz": "g'azab"
+     },
+     {
+      "n": 1151,
+      "en": "sadness",
+      "uz": "g'amginlik"
+     },
+     {
+      "n": 1152,
+      "en": "trust",
+      "uz": "ishonch"
+     },
+     {
+      "n": 1153,
+      "en": "respect",
+      "uz": "hurmat"
+     },
+     {
+      "n": 1154,
+      "en": "friendship",
+      "uz": "do'stlik"
+     },
+     {
+      "n": 1155,
+      "en": "peace",
+      "uz": "tinchlik"
+     },
+     {
+      "n": 1156,
+      "en": "war",
+      "uz": "urush"
+     },
+     {
+      "n": 1157,
+      "en": "freedom",
+      "uz": "erkinlik"
+     },
+     {
+      "n": 1158,
+      "en": "honesty",
+      "uz": "halollik"
+     },
+     {
+      "n": 1159,
+      "en": "kindness",
+      "uz": "mehribonlik"
+     },
+     {
+      "n": 1160,
+      "en": "courage",
+      "uz": "jasorat"
+     },
+     {
+      "n": 1161,
+      "en": "truth",
+      "uz": "haqiqat"
+     },
+     {
+      "n": 1162,
+      "en": "lie",
+      "uz": "yolg'on"
+     },
+     {
+      "n": 1163,
+      "en": "secret",
+      "uz": "sir"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 17,
+  "sections": [
+   {
+    "title": "Common Verbs | Ko'p ishlatiladigan fe'llar",
+    "words": [
+     {
+      "n": 1164,
+      "en": "be",
+      "uz": "bo'lmoq"
+     },
+     {
+      "n": 1165,
+      "en": "have",
+      "uz": "ega bo'lmoq"
+     },
+     {
+      "n": 1166,
+      "en": "do",
+      "uz": "qilmoq"
+     },
+     {
+      "n": 1167,
+      "en": "make",
+      "uz": "yasamoq"
+     },
+     {
+      "n": 1168,
+      "en": "go",
+      "uz": "bormoq"
+     },
+     {
+      "n": 1169,
+      "en": "come",
+      "uz": "kelmoq"
+     },
+     {
+      "n": 1170,
+      "en": "get",
+      "uz": "olmoq"
+     },
+     {
+      "n": 1171,
+      "en": "give",
+      "uz": "bermoq"
+     },
+     {
+      "n": 1172,
+      "en": "take",
+      "uz": "olib ketmoq"
+     },
+     {
+      "n": 1173,
+      "en": "bring",
+      "uz": "olib kelmoq"
+     },
+     {
+      "n": 1174,
+      "en": "carry",
+      "uz": "ko'tarib yurmoq"
+     },
+     {
+      "n": 1175,
+      "en": "put",
+      "uz": "qo'ymoq"
+     },
+     {
+      "n": 1176,
+      "en": "keep",
+      "uz": "saqlamoq"
+     },
+     {
+      "n": 1177,
+      "en": "hold",
+      "uz": "ushlamoq"
+     },
+     {
+      "n": 1178,
+      "en": "let",
+      "uz": "ruxsat bermoq"
+     },
+     {
+      "n": 1179,
+      "en": "say",
+      "uz": "aytmoq"
+     },
+     {
+      "n": 1180,
+      "en": "tell",
+      "uz": "gapirib bermoq"
+     },
+     {
+      "n": 1181,
+      "en": "speak",
+      "uz": "so'zlashmoq"
+     },
+     {
+      "n": 1182,
+      "en": "talk",
+      "uz": "suhbatlashmoq"
+     },
+     {
+      "n": 1183,
+      "en": "ask",
+      "uz": "so'ramoq"
+     },
+     {
+      "n": 1184,
+      "en": "name",
+      "uz": "nomlamoq"
+     },
+     {
+      "n": 1185,
+      "en": "look",
+      "uz": "qaramoq"
+     },
+     {
+      "n": 1186,
+      "en": "listen",
+      "uz": "tinglamoq"
+     },
+     {
+      "n": 1187,
+      "en": "find",
+      "uz": "topmoq"
+     },
+     {
+      "n": 1188,
+      "en": "want",
+      "uz": "xohlamoq"
+     },
+     {
+      "n": 1189,
+      "en": "need",
+      "uz": "kerak bo'lmoq"
+     },
+     {
+      "n": 1190,
+      "en": "use",
+      "uz": "foydalanmoq"
+     },
+     {
+      "n": 1191,
+      "en": "help",
+      "uz": "yordam bermoq"
+     },
+     {
+      "n": 1192,
+      "en": "open",
+      "uz": "ochmoq"
+     },
+     {
+      "n": 1193,
+      "en": "close",
+      "uz": "yopmoq"
+     },
+     {
+      "n": 1194,
+      "en": "start",
+      "uz": "boshlamoq"
+     },
+     {
+      "n": 1195,
+      "en": "begin",
+      "uz": "boshlanmoq"
+     },
+     {
+      "n": 1196,
+      "en": "finish",
+      "uz": "tugatmoq"
+     },
+     {
+      "n": 1197,
+      "en": "end",
+      "uz": "tugamoq"
+     },
+     {
+      "n": 1198,
+      "en": "stay",
+      "uz": "qolmoq"
+     },
+     {
+      "n": 1199,
+      "en": "live",
+      "uz": "yashamoq"
+     },
+     {
+      "n": 1200,
+      "en": "die",
+      "uz": "o'lmoq"
+     },
+     {
+      "n": 1201,
+      "en": "sleep",
+      "uz": "uxlamoq"
+     },
+     {
+      "n": 1202,
+      "en": "wake up",
+      "uz": "uyg'onmoq"
+     },
+     {
+      "n": 1203,
+      "en": "get up",
+      "uz": "o'rnidan turmoq"
+     },
+     {
+      "n": 1204,
+      "en": "sit",
+      "uz": "o'tirmoq"
+     },
+     {
+      "n": 1205,
+      "en": "stand",
+      "uz": "turmoq"
+     },
+     {
+      "n": 1206,
+      "en": "walk",
+      "uz": "yurmoq"
+     },
+     {
+      "n": 1207,
+      "en": "run",
+      "uz": "yugurmoq"
+     },
+     {
+      "n": 1208,
+      "en": "jump",
+      "uz": "sakramoq"
+     },
+     {
+      "n": 1209,
+      "en": "climb",
+      "uz": "chiqmoq"
+     },
+     {
+      "n": 1210,
+      "en": "fall",
+      "uz": "yiqilmoq"
+     },
+     {
+      "n": 1211,
+      "en": "swim",
+      "uz": "suzmoq"
+     },
+     {
+      "n": 1212,
+      "en": "dive",
+      "uz": "sho'ng'imoq"
+     },
+     {
+      "n": 1213,
+      "en": "throw",
+      "uz": "otmoq"
+     },
+     {
+      "n": 1214,
+      "en": "catch",
+      "uz": "ushlamoq (tutmoq)"
+     },
+     {
+      "n": 1215,
+      "en": "kick",
+      "uz": "tepmoq"
+     },
+     {
+      "n": 1216,
+      "en": "push",
+      "uz": "itarmoq"
+     },
+     {
+      "n": 1217,
+      "en": "pull",
+      "uz": "tortmoq"
+     },
+     {
+      "n": 1218,
+      "en": "lift",
+      "uz": "ko'tarmoq"
+     },
+     {
+      "n": 1219,
+      "en": "drop",
+      "uz": "tushirmoq"
+     },
+     {
+      "n": 1220,
+      "en": "fix",
+      "uz": "tuzatmoq"
+     },
+     {
+      "n": 1221,
+      "en": "build",
+      "uz": "qurmoq"
+     },
+     {
+      "n": 1222,
+      "en": "destroy",
+      "uz": "vayron qilmoq"
+     },
+     {
+      "n": 1223,
+      "en": "create",
+      "uz": "yaratmoq"
+     },
+     {
+      "n": 1224,
+      "en": "tear",
+      "uz": "yirtmoq"
+     },
+     {
+      "n": 1225,
+      "en": "fold",
+      "uz": "buklamoq"
+     },
+     {
+      "n": 1226,
+      "en": "hang",
+      "uz": "osmoq"
+     },
+     {
+      "n": 1227,
+      "en": "sew",
+      "uz": "tikmoq"
+     },
+     {
+      "n": 1228,
+      "en": "knit",
+      "uz": "to'qimoq"
+     },
+     {
+      "n": 1229,
+      "en": "wrap",
+      "uz": "o'ramoq"
+     },
+     {
+      "n": 1230,
+      "en": "fill",
+      "uz": "to'ldirmoq"
+     },
+     {
+      "n": 1231,
+      "en": "wipe",
+      "uz": "artmoq"
+     },
+     {
+      "n": 1232,
+      "en": "meet",
+      "uz": "uchrashmoq"
+     },
+     {
+      "n": 1233,
+      "en": "visit",
+      "uz": "tashrif buyurmoq"
+     },
+     {
+      "n": 1234,
+      "en": "invite",
+      "uz": "taklif qilmoq"
+     },
+     {
+      "n": 1235,
+      "en": "welcome",
+      "uz": "xush kelibsiz"
+     },
+     {
+      "n": 1236,
+      "en": "thank",
+      "uz": "rahmat aytmoq"
+     },
+     {
+      "n": 1237,
+      "en": "please",
+      "uz": "iltimos"
+     },
+     {
+      "n": 1238,
+      "en": "greet",
+      "uz": "salomlashmoq"
+     },
+     {
+      "n": 1239,
+      "en": "agree",
+      "uz": "rozi bo'lmoq"
+     },
+     {
+      "n": 1240,
+      "en": "disagree",
+      "uz": "rozi bo'lmaslik"
+     },
+     {
+      "n": 1241,
+      "en": "allow",
+      "uz": "ruxsat bermoq"
+     },
+     {
+      "n": 1242,
+      "en": "promise",
+      "uz": "va'da bermoq"
+     },
+     {
+      "n": 1243,
+      "en": "share",
+      "uz": "bo'lishmoq"
+     },
+     {
+      "n": 1244,
+      "en": "join",
+      "uz": "qo'shilmoq"
+     },
+     {
+      "n": 1245,
+      "en": "return",
+      "uz": "qaytmoq"
+     },
+     {
+      "n": 1246,
+      "en": "follow",
+      "uz": "ergashmoq"
+     },
+     {
+      "n": 1247,
+      "en": "lead",
+      "uz": "boshqarmoq"
+     },
+     {
+      "n": 1248,
+      "en": "chase",
+      "uz": "quvmoq"
+     },
+     {
+      "n": 1249,
+      "en": "escape",
+      "uz": "qochmoq"
+     },
+     {
+      "n": 1250,
+      "en": "hide",
+      "uz": "yashirinmoq"
+     },
+     {
+      "n": 1251,
+      "en": "seek",
+      "uz": "izlamoq"
+     },
+     {
+      "n": 1252,
+      "en": "look for",
+      "uz": "qidirmoq"
+     },
+     {
+      "n": 1253,
+      "en": "look after",
+      "uz": "qarab turmoq"
+     },
+     {
+      "n": 1254,
+      "en": "take care",
+      "uz": "g'amxo'rlik qilmoq"
+     },
+     {
+      "n": 1255,
+      "en": "rescue",
+      "uz": "qutqarmoq (xavfdan)"
+     },
+     {
+      "n": 1256,
+      "en": "attack",
+      "uz": "hujum qilmoq"
+     },
+     {
+      "n": 1257,
+      "en": "fight",
+      "uz": "jang qilmoq"
+     },
+     {
+      "n": 1258,
+      "en": "shoot",
+      "uz": "otmoq (qurol)"
+     },
+     {
+      "n": 1259,
+      "en": "kill",
+      "uz": "o'ldirmoq"
+     },
+     {
+      "n": 1260,
+      "en": "heal",
+      "uz": "davolamoq"
+     },
+     {
+      "n": 1261,
+      "en": "cure",
+      "uz": "shifo bermoq"
+     },
+     {
+      "n": 1262,
+      "en": "grow up",
+      "uz": "katta bo'lmoq"
+     },
+     {
+      "n": 1263,
+      "en": "change",
+      "uz": "o'zgartirmoq"
+     },
+     {
+      "n": 1264,
+      "en": "become",
+      "uz": "bo'lib qolmoq"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 18,
+  "sections": [
+   {
+    "title": "Common Verbs | Ko'p ishlatiladigan fe'llar",
+    "words": [
+     {
+      "n": 1265,
+      "en": "seem",
+      "uz": "ko'rinmoq"
+     },
+     {
+      "n": 1266,
+      "en": "appear",
+      "uz": "paydo bo'lmoq"
+     },
+     {
+      "n": 1267,
+      "en": "disappear",
+      "uz": "g'oyib bo'lmoq"
+     },
+     {
+      "n": 1268,
+      "en": "happen",
+      "uz": "sodir bo'lmoq"
+     },
+     {
+      "n": 1269,
+      "en": "exist",
+      "uz": "mavjud bo'lmoq"
+     },
+     {
+      "n": 1270,
+      "en": "belong",
+      "uz": "tegishli bo'lmoq"
+     },
+     {
+      "n": 1271,
+      "en": "contain",
+      "uz": "o'z ichiga olmoq"
+     },
+     {
+      "n": 1272,
+      "en": "include",
+      "uz": "qo'shmoq (kiritmoq)"
+     },
+     {
+      "n": 1273,
+      "en": "consist",
+      "uz": "iborat bo'lmoq"
+     },
+     {
+      "n": 1274,
+      "en": "depend",
+      "uz": "bog'liq bo'lmoq"
+     },
+     {
+      "n": 1275,
+      "en": "matter",
+      "uz": "ahamiyatga ega bo'lmoq"
+     },
+     {
+      "n": 1276,
+      "en": "mean",
+      "uz": "anglatmoq"
+     },
+     {
+      "n": 1277,
+      "en": "believe",
+      "uz": "ishonmoq"
+     },
+     {
+      "n": 1278,
+      "en": "doubt",
+      "uz": "shubhalanmoq"
+     },
+     {
+      "n": 1279,
+      "en": "suppose",
+      "uz": "taxmin qilmoq"
+     },
+     {
+      "n": 1280,
+      "en": "imagine",
+      "uz": "tasavvur qilmoq"
+     },
+     {
+      "n": 1281,
+      "en": "notice",
+      "uz": "payqamoq"
+     },
+     {
+      "n": 1282,
+      "en": "realize",
+      "uz": "anglab yetmoq"
+     },
+     {
+      "n": 1283,
+      "en": "recognize",
+      "uz": "tanimoq"
+     }
+    ]
+   },
+   {
+    "title": "Opposites and Adjectives | Sifatlar va qarama-qarshi ma'noli so'zlar",
+    "words": [
+     {
+      "n": 1284,
+      "en": "big",
+      "uz": "katta"
+     },
+     {
+      "n": 1285,
+      "en": "small",
+      "uz": "kichik"
+     },
+     {
+      "n": 1286,
+      "en": "large",
+      "uz": "yirik"
+     },
+     {
+      "n": 1287,
+      "en": "little",
+      "uz": "kichkina"
+     },
+     {
+      "n": 1288,
+      "en": "huge",
+      "uz": "ulkan"
+     },
+     {
+      "n": 1289,
+      "en": "tiny",
+      "uz": "juda kichik"
+     },
+     {
+      "n": 1290,
+      "en": "long",
+      "uz": "uzun"
+     },
+     {
+      "n": 1291,
+      "en": "short",
+      "uz": "qisqa / past bo'yli"
+     },
+     {
+      "n": 1292,
+      "en": "tall",
+      "uz": "baland bo'yli"
+     },
+     {
+      "n": 1293,
+      "en": "high",
+      "uz": "baland"
+     },
+     {
+      "n": 1294,
+      "en": "low",
+      "uz": "past"
+     },
+     {
+      "n": 1295,
+      "en": "wide",
+      "uz": "keng"
+     },
+     {
+      "n": 1296,
+      "en": "narrow",
+      "uz": "tor"
+     },
+     {
+      "n": 1297,
+      "en": "thick",
+      "uz": "qalin"
+     },
+     {
+      "n": 1298,
+      "en": "thin",
+      "uz": "ingichka / oriq"
+     },
+     {
+      "n": 1299,
+      "en": "fat",
+      "uz": "semiz"
+     },
+     {
+      "n": 1300,
+      "en": "heavy",
+      "uz": "og'ir"
+     },
+     {
+      "n": 1301,
+      "en": "fast",
+      "uz": "tez"
+     },
+     {
+      "n": 1302,
+      "en": "slow",
+      "uz": "sekin"
+     },
+     {
+      "n": 1303,
+      "en": "quick",
+      "uz": "chaqqon"
+     },
+     {
+      "n": 1304,
+      "en": "new",
+      "uz": "yangi"
+     },
+     {
+      "n": 1305,
+      "en": "old",
+      "uz": "eski / qari"
+     },
+     {
+      "n": 1306,
+      "en": "young",
+      "uz": "yosh"
+     },
+     {
+      "n": 1307,
+      "en": "modern",
+      "uz": "zamonaviy"
+     },
+     {
+      "n": 1308,
+      "en": "ancient",
+      "uz": "qadimiy"
+     },
+     {
+      "n": 1309,
+      "en": "good",
+      "uz": "yaxshi"
+     },
+     {
+      "n": 1310,
+      "en": "bad",
+      "uz": "yomon"
+     },
+     {
+      "n": 1311,
+      "en": "best",
+      "uz": "eng yaxshi"
+     },
+     {
+      "n": 1312,
+      "en": "worst",
+      "uz": "eng yomon"
+     },
+     {
+      "n": 1313,
+      "en": "better",
+      "uz": "yaxshiroq"
+     },
+     {
+      "n": 1314,
+      "en": "worse",
+      "uz": "yomonroq"
+     },
+     {
+      "n": 1315,
+      "en": "beautiful",
+      "uz": "chiroyli"
+     },
+     {
+      "n": 1316,
+      "en": "pretty",
+      "uz": "go'zal"
+     },
+     {
+      "n": 1317,
+      "en": "ugly",
+      "uz": "xunuk"
+     },
+     {
+      "n": 1318,
+      "en": "handsome",
+      "uz": "kelishgan"
+     },
+     {
+      "n": 1319,
+      "en": "easy",
+      "uz": "oson"
+     },
+     {
+      "n": 1320,
+      "en": "difficult",
+      "uz": "qiyin"
+     },
+     {
+      "n": 1321,
+      "en": "hard",
+      "uz": "qattiq / qiyin"
+     },
+     {
+      "n": 1322,
+      "en": "soft",
+      "uz": "yumshoq"
+     },
+     {
+      "n": 1323,
+      "en": "smooth",
+      "uz": "silliq"
+     },
+     {
+      "n": 1324,
+      "en": "rough",
+      "uz": "dag'al"
+     },
+     {
+      "n": 1325,
+      "en": "wet",
+      "uz": "ho'l"
+     },
+     {
+      "n": 1326,
+      "en": "dry",
+      "uz": "quruq"
+     },
+     {
+      "n": 1327,
+      "en": "full",
+      "uz": "to'la"
+     },
+     {
+      "n": 1328,
+      "en": "empty",
+      "uz": "bo'sh"
+     },
+     {
+      "n": 1329,
+      "en": "closed",
+      "uz": "yopiq"
+     },
+     {
+      "n": 1330,
+      "en": "free",
+      "uz": "bepul / erkin"
+     },
+     {
+      "n": 1331,
+      "en": "busy",
+      "uz": "band"
+     },
+     {
+      "n": 1332,
+      "en": "ready",
+      "uz": "tayyor"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 19,
+  "sections": [
+   {
+    "title": "Opposites and Adjectives | Sifatlar va qarama-qarshi ma'noli so'zlar",
+    "words": [
+     {
+      "n": 1333,
+      "en": "real",
+      "uz": "haqiqiy"
+     },
+     {
+      "n": 1334,
+      "en": "true",
+      "uz": "rost"
+     },
+     {
+      "n": 1335,
+      "en": "false",
+      "uz": "yolg'on (noto'g'ri)"
+     },
+     {
+      "n": 1336,
+      "en": "possible",
+      "uz": "mumkin"
+     },
+     {
+      "n": 1337,
+      "en": "impossible",
+      "uz": "imkonsiz"
+     },
+     {
+      "n": 1338,
+      "en": "important",
+      "uz": "muhim"
+     },
+     {
+      "n": 1339,
+      "en": "necessary",
+      "uz": "zarur"
+     },
+     {
+      "n": 1340,
+      "en": "useful",
+      "uz": "foydali"
+     },
+     {
+      "n": 1341,
+      "en": "useless",
+      "uz": "foydasiz"
+     },
+     {
+      "n": 1342,
+      "en": "special",
+      "uz": "maxsus"
+     },
+     {
+      "n": 1343,
+      "en": "different",
+      "uz": "boshqacha"
+     },
+     {
+      "n": 1344,
+      "en": "same",
+      "uz": "bir xil"
+     },
+     {
+      "n": 1345,
+      "en": "similar",
+      "uz": "o'xshash"
+     },
+     {
+      "n": 1346,
+      "en": "usual",
+      "uz": "odatiy"
+     },
+     {
+      "n": 1347,
+      "en": "strange",
+      "uz": "g'alati"
+     },
+     {
+      "n": 1348,
+      "en": "famous",
+      "uz": "mashhur"
+     },
+     {
+      "n": 1349,
+      "en": "popular",
+      "uz": "ommabop"
+     },
+     {
+      "n": 1350,
+      "en": "common",
+      "uz": "keng tarqalgan"
+     },
+     {
+      "n": 1351,
+      "en": "rare",
+      "uz": "noyob"
+     },
+     {
+      "n": 1352,
+      "en": "clear",
+      "uz": "aniq / tiniq"
+     },
+     {
+      "n": 1353,
+      "en": "deep",
+      "uz": "chuqur"
+     },
+     {
+      "n": 1354,
+      "en": "shallow",
+      "uz": "sayoz"
+     },
+     {
+      "n": 1355,
+      "en": "near",
+      "uz": "yaqin"
+     },
+     {
+      "n": 1356,
+      "en": "far",
+      "uz": "uzoq"
+     },
+     {
+      "n": 1357,
+      "en": "inside",
+      "uz": "ichida"
+     },
+     {
+      "n": 1358,
+      "en": "outside",
+      "uz": "tashqarida"
+     },
+     {
+      "n": 1359,
+      "en": "upper",
+      "uz": "yuqori"
+     },
+     {
+      "n": 1360,
+      "en": "lower",
+      "uz": "quyi"
+     },
+     {
+      "n": 1361,
+      "en": "front",
+      "uz": "old tomon"
+     },
+     {
+      "n": 1362,
+      "en": "left",
+      "uz": "chap"
+     },
+     {
+      "n": 1363,
+      "en": "middle",
+      "uz": "o'rta"
+     },
+     {
+      "n": 1364,
+      "en": "whole",
+      "uz": "butun"
+     },
+     {
+      "n": 1365,
+      "en": "part",
+      "uz": "qism"
+     },
+     {
+      "n": 1366,
+      "en": "piece",
+      "uz": "bo'lak"
+     },
+     {
+      "n": 1367,
+      "en": "single",
+      "uz": "yakka"
+     },
+     {
+      "n": 1368,
+      "en": "extra",
+      "uz": "qo'shimcha"
+     },
+     {
+      "n": 1369,
+      "en": "enough",
+      "uz": "yetarli"
+     },
+     {
+      "n": 1370,
+      "en": "perfect",
+      "uz": "mukammal"
+     },
+     {
+      "n": 1371,
+      "en": "exact",
+      "uz": "aniq"
+     },
+     {
+      "n": 1372,
+      "en": "main",
+      "uz": "asosiy"
+     },
+     {
+      "n": 1373,
+      "en": "only",
+      "uz": "yagona"
+     },
+     {
+      "n": 1374,
+      "en": "other",
+      "uz": "boshqa"
+     },
+     {
+      "n": 1375,
+      "en": "another",
+      "uz": "yana bir"
+     },
+     {
+      "n": 1376,
+      "en": "next",
+      "uz": "keyingi"
+     },
+     {
+      "n": 1377,
+      "en": "previous",
+      "uz": "oldingi"
+     },
+     {
+      "n": 1378,
+      "en": "final",
+      "uz": "yakuniy"
+     }
+    ]
+   },
+   {
+    "title": "Pronouns, Questions and Little Words | Olmoshlar, so'roq va yordamchi so'zlar",
+    "words": [
+     {
+      "n": 1379,
+      "en": "I",
+      "uz": "men"
+     },
+     {
+      "n": 1380,
+      "en": "you",
+      "uz": "sen / siz"
+     },
+     {
+      "n": 1381,
+      "en": "he",
+      "uz": "u (erkak)"
+     },
+     {
+      "n": 1382,
+      "en": "she",
+      "uz": "u (ayol)"
+     },
+     {
+      "n": 1383,
+      "en": "it",
+      "uz": "u (narsa)"
+     },
+     {
+      "n": 1384,
+      "en": "we",
+      "uz": "biz"
+     },
+     {
+      "n": 1385,
+      "en": "they",
+      "uz": "ular"
+     },
+     {
+      "n": 1386,
+      "en": "me",
+      "uz": "meni / menga"
+     },
+     {
+      "n": 1387,
+      "en": "him",
+      "uz": "uni / unga"
+     },
+     {
+      "n": 1388,
+      "en": "her",
+      "uz": "uni / unga (ayol)"
+     },
+     {
+      "n": 1389,
+      "en": "us",
+      "uz": "bizni / bizga"
+     },
+     {
+      "n": 1390,
+      "en": "them",
+      "uz": "ularni / ularga"
+     },
+     {
+      "n": 1391,
+      "en": "my",
+      "uz": "mening"
+     },
+     {
+      "n": 1392,
+      "en": "your",
+      "uz": "sening / sizning"
+     },
+     {
+      "n": 1393,
+      "en": "his",
+      "uz": "uning (erkak)"
+     },
+     {
+      "n": 1394,
+      "en": "its",
+      "uz": "uning (narsa)"
+     },
+     {
+      "n": 1395,
+      "en": "our",
+      "uz": "bizning"
+     },
+     {
+      "n": 1396,
+      "en": "their",
+      "uz": "ularning"
+     },
+     {
+      "n": 1397,
+      "en": "mine",
+      "uz": "meniki"
+     },
+     {
+      "n": 1398,
+      "en": "yours",
+      "uz": "seniki"
+     },
+     {
+      "n": 1399,
+      "en": "this",
+      "uz": "bu"
+     },
+     {
+      "n": 1400,
+      "en": "that",
+      "uz": "u / o'sha"
+     },
+     {
+      "n": 1401,
+      "en": "these",
+      "uz": "bular"
+     },
+     {
+      "n": 1402,
+      "en": "those",
+      "uz": "ular (o'shalar)"
+     },
+     {
+      "n": 1403,
+      "en": "here",
+      "uz": "bu yerda"
+     },
+     {
+      "n": 1404,
+      "en": "there",
+      "uz": "u yerda"
+     },
+     {
+      "n": 1405,
+      "en": "who",
+      "uz": "kim"
+     },
+     {
+      "n": 1406,
+      "en": "whom",
+      "uz": "kimni"
+     },
+     {
+      "n": 1407,
+      "en": "whose",
+      "uz": "kimning"
+     },
+     {
+      "n": 1408,
+      "en": "what",
+      "uz": "nima"
+     },
+     {
+      "n": 1409,
+      "en": "which",
+      "uz": "qaysi"
+     },
+     {
+      "n": 1410,
+      "en": "where",
+      "uz": "qayerda"
+     },
+     {
+      "n": 1411,
+      "en": "when",
+      "uz": "qachon"
+     },
+     {
+      "n": 1412,
+      "en": "why",
+      "uz": "nega"
+     },
+     {
+      "n": 1413,
+      "en": "how",
+      "uz": "qanday"
+     },
+     {
+      "n": 1414,
+      "en": "how many",
+      "uz": "nechta (sanaladigan)"
+     },
+     {
+      "n": 1415,
+      "en": "how much",
+      "uz": "qancha"
+     },
+     {
+      "n": 1416,
+      "en": "something",
+      "uz": "biror narsa"
+     },
+     {
+      "n": 1417,
+      "en": "anything",
+      "uz": "hech narsa / istalgan narsa"
+     },
+     {
+      "n": 1418,
+      "en": "nothing",
+      "uz": "hech narsa"
+     },
+     {
+      "n": 1419,
+      "en": "everything",
+      "uz": "hamma narsa"
+     },
+     {
+      "n": 1420,
+      "en": "someone",
+      "uz": "kimdir"
+     },
+     {
+      "n": 1421,
+      "en": "anyone",
+      "uz": "hech kim / istalgan kishi"
+     },
+     {
+      "n": 1422,
+      "en": "nobody",
+      "uz": "hech kim"
+     },
+     {
+      "n": 1423,
+      "en": "everyone",
+      "uz": "hamma"
+     },
+     {
+      "n": 1424,
+      "en": "each",
+      "uz": "har bir"
+     },
+     {
+      "n": 1425,
+      "en": "another one",
+      "uz": "yana bittasi"
+     },
+     {
+      "n": 1426,
+      "en": "and",
+      "uz": "va"
+     },
+     {
+      "n": 1427,
+      "en": "or",
+      "uz": "yoki"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 20,
+  "sections": [
+   {
+    "title": "Pronouns, Questions and Little Words | Olmoshlar, so'roq va yordamchi so'zlar",
+    "words": [
+     {
+      "n": 1428,
+      "en": "but",
+      "uz": "lekin"
+     },
+     {
+      "n": 1429,
+      "en": "because",
+      "uz": "chunki"
+     },
+     {
+      "n": 1430,
+      "en": "so",
+      "uz": "shuning uchun"
+     },
+     {
+      "n": 1431,
+      "en": "if",
+      "uz": "agar"
+     },
+     {
+      "n": 1432,
+      "en": "then",
+      "uz": "keyin"
+     },
+     {
+      "n": 1433,
+      "en": "than",
+      "uz": "ko'ra (taqqoslashda)"
+     },
+     {
+      "n": 1434,
+      "en": "while",
+      "uz": "bir vaqtda / -ganda"
+     },
+     {
+      "n": 1435,
+      "en": "as",
+      "uz": "kabi"
+     },
+     {
+      "n": 1436,
+      "en": "also",
+      "uz": "ham / shuningdek"
+     },
+     {
+      "n": 1437,
+      "en": "too",
+      "uz": "ham / juda"
+     },
+     {
+      "n": 1438,
+      "en": "very",
+      "uz": "juda"
+     },
+     {
+      "n": 1439,
+      "en": "quite",
+      "uz": "ancha"
+     },
+     {
+      "n": 1440,
+      "en": "really",
+      "uz": "haqiqatan"
+     },
+     {
+      "n": 1441,
+      "en": "almost",
+      "uz": "deyarli"
+     },
+     {
+      "n": 1442,
+      "en": "just",
+      "uz": "faqat / hozirgina"
+     },
+     {
+      "n": 1443,
+      "en": "even",
+      "uz": "hatto"
+     },
+     {
+      "n": 1444,
+      "en": "maybe",
+      "uz": "balki"
+     },
+     {
+      "n": 1445,
+      "en": "perhaps",
+      "uz": "ehtimol"
+     },
+     {
+      "n": 1446,
+      "en": "probably",
+      "uz": "ehtimol (katta)"
+     },
+     {
+      "n": 1447,
+      "en": "certainly",
+      "uz": "albatta"
+     },
+     {
+      "n": 1448,
+      "en": "of course",
+      "uz": "albatta"
+     },
+     {
+      "n": 1449,
+      "en": "yes",
+      "uz": "ha"
+     },
+     {
+      "n": 1450,
+      "en": "no",
+      "uz": "yo'q"
+     },
+     {
+      "n": 1451,
+      "en": "not",
+      "uz": "emas"
+     },
+     {
+      "n": 1452,
+      "en": "thank you",
+      "uz": "rahmat"
+     },
+     {
+      "n": 1453,
+      "en": "excuse me",
+      "uz": "kechirasiz"
+     },
+     {
+      "n": 1454,
+      "en": "hello",
+      "uz": "salom"
+     },
+     {
+      "n": 1455,
+      "en": "goodbye",
+      "uz": "xayr"
+     },
+     {
+      "n": 1456,
+      "en": "good morning",
+      "uz": "xayrli tong"
+     },
+     {
+      "n": 1457,
+      "en": "good afternoon",
+      "uz": "xayrli kun"
+     },
+     {
+      "n": 1458,
+      "en": "good evening",
+      "uz": "xayrli kech"
+     },
+     {
+      "n": 1459,
+      "en": "good night",
+      "uz": "xayrli tun"
+     },
+     {
+      "n": 1460,
+      "en": "fine",
+      "uz": "yaxshi (ahvol)"
+     },
+     {
+      "n": 1461,
+      "en": "well",
+      "uz": "yaxshi / durust"
+     },
+     {
+      "n": 1462,
+      "en": "in",
+      "uz": "ichida"
+     },
+     {
+      "n": 1463,
+      "en": "on",
+      "uz": "ustida"
+     },
+     {
+      "n": 1464,
+      "en": "at",
+      "uz": "-da (joyda)"
+     },
+     {
+      "n": 1465,
+      "en": "to",
+      "uz": "-ga / ga"
+     },
+     {
+      "n": 1466,
+      "en": "from",
+      "uz": "-dan"
+     },
+     {
+      "n": 1467,
+      "en": "of",
+      "uz": "-ning"
+     },
+     {
+      "n": 1468,
+      "en": "with",
+      "uz": "bilan"
+     },
+     {
+      "n": 1469,
+      "en": "without",
+      "uz": "-siz"
+     },
+     {
+      "n": 1470,
+      "en": "for",
+      "uz": "uchun"
+     },
+     {
+      "n": 1471,
+      "en": "by",
+      "uz": "yonida / tomonidan"
+     },
+     {
+      "n": 1472,
+      "en": "about",
+      "uz": "haqida"
+     },
+     {
+      "n": 1473,
+      "en": "into",
+      "uz": "ichiga"
+     },
+     {
+      "n": 1474,
+      "en": "onto",
+      "uz": "ustiga"
+     },
+     {
+      "n": 1475,
+      "en": "out",
+      "uz": "tashqariga"
+     },
+     {
+      "n": 1476,
+      "en": "off",
+      "uz": "o'chiq / uzoqda"
+     },
+     {
+      "n": 1477,
+      "en": "up",
+      "uz": "tepaga"
+     },
+     {
+      "n": 1478,
+      "en": "down",
+      "uz": "pastga"
+     },
+     {
+      "n": 1479,
+      "en": "over",
+      "uz": "ustidan"
+     },
+     {
+      "n": 1480,
+      "en": "under",
+      "uz": "ostida"
+     },
+     {
+      "n": 1481,
+      "en": "above",
+      "uz": "yuqorida"
+     },
+     {
+      "n": 1482,
+      "en": "below",
+      "uz": "pastda"
+     },
+     {
+      "n": 1483,
+      "en": "behind",
+      "uz": "orqasida"
+     },
+     {
+      "n": 1484,
+      "en": "beside",
+      "uz": "yonida"
+     },
+     {
+      "n": 1485,
+      "en": "between",
+      "uz": "orasida"
+     },
+     {
+      "n": 1486,
+      "en": "among",
+      "uz": "orasida (ko'plar)"
+     },
+     {
+      "n": 1487,
+      "en": "next to",
+      "uz": "yonma-yon"
+     },
+     {
+      "n": 1488,
+      "en": "opposite",
+      "uz": "qarshisida"
+     },
+     {
+      "n": 1489,
+      "en": "across",
+      "uz": "narigi tomonda"
+     },
+     {
+      "n": 1490,
+      "en": "through",
+      "uz": "orqali"
+     },
+     {
+      "n": 1491,
+      "en": "along",
+      "uz": "bo'ylab"
+     },
+     {
+      "n": 1492,
+      "en": "around",
+      "uz": "atrofida"
+     },
+     {
+      "n": 1493,
+      "en": "towards",
+      "uz": "tomon"
+     },
+     {
+      "n": 1494,
+      "en": "against",
+      "uz": "qarshi"
+     },
+     {
+      "n": 1495,
+      "en": "except",
+      "uz": "bundan tashqari"
+     },
+     {
+      "n": 1496,
+      "en": "upstairs",
+      "uz": "yuqori qavatda"
+     },
+     {
+      "n": 1497,
+      "en": "downstairs",
+      "uz": "pastki qavatda"
+     },
+     {
+      "n": 1498,
+      "en": "everywhere",
+      "uz": "hamma joyda"
+     },
+     {
+      "n": 1499,
+      "en": "somewhere",
+      "uz": "qayerdadir"
+     },
+     {
+      "n": 1500,
+      "en": "nowhere",
+      "uz": "hech qayerda"
+     }
+    ]
+   }
+  ]
+ }
+]

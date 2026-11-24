@@ -1,0 +1,342 @@
+[
+ {
+  "kind": "situation",
+  "q": "Aziz is watching a movie on TV where cowboys ride horses in the wild west of America.",
+  "options": [
+   "western",
+   "action film",
+   "horror film",
+   "musical"
+  ],
+  "answer": "western",
+  "why": "«cowboys ride horses in the wild west» iborasi bu janrning kovboylar haqidagi «western» ekanligini bildiradi.",
+  "wrong": {
+   "action film": "Jangari kino. Matnda otliq kovboylar va g'arbiy hududlar haqida aytilgan.",
+   "horror film": "Qo'rqinchli kino. Bu yerda qo'rqinchli voqealar emas, kovboylar haqida ketmoqda.",
+   "musical": "myuzikl. Bu yerda qo'shiq va raqslar haqida so'z borayotgani yo'q."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Jasur learned a lot about wild lions and elephants from this real-life TV program.",
+  "options": [
+   "documentary",
+   "chat show",
+   "game show",
+   "sitcom"
+  ],
+  "answer": "documentary",
+  "why": "«real-life TV program» va sherlar haqidagi ma'lumot «documentary» ekanini bildiradi.",
+  "wrong": {
+   "chat show": "tok-shou. Mashhur mehmonlar bilan suhbat, tabiat haqida emas.",
+   "game show": "o'yin shousi. Bu yerda bilim beruvchi film haqida ketmoqda.",
+   "sitcom": "sitkom. Hazilga boy kulgili serial ma'nosini bildiradi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "The story takes place in a magical world with dragons, elves, and wizards.",
+  "options": [
+   "fantasy film",
+   "science fiction film",
+   "war film",
+   "period drama"
+  ],
+  "answer": "fantasy film",
+  "why": "«magical world with dragons» ifodasi bu «fantasy film» ekanini ko'rsatadi.",
+  "wrong": {
+   "science fiction film": "ilmiy-fantastik kino. Sehrgarlar emas, kelajak yoki kosmos haqida bo'ladi.",
+   "war film": "urush filmi. Sehrli olamni emas, harbiy harakatlarni ko'rsatadi.",
+   "period drama": "tarixiy drama. Sehrgarlar emas, o'tmish hayotini tasvirlaydi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "The actors sing and dance through every scene in this bright, joyful movie.",
+  "options": [
+   "musical",
+   "action film",
+   "documentary",
+   "western"
+  ],
+  "answer": "musical",
+  "why": "«sing and dance through every scene» so'zlari bu «musical» ekanini ko'rsatadi.",
+  "wrong": {
+   "action film": "jangari kino. Raqs va qo'shiqlar bilan bog'liq emas.",
+   "documentary": "hujjatli film. Haqiqiy voqealarni tushuntiradi, qo'shiqqa boy emas.",
+   "western": "vesterin. Kovboylar haqidagi filmlar uchun ishlatiladi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Bobur watched the TV anchor present the latest global events and political updates.",
+  "options": [
+   "news bulletin",
+   "chat show",
+   "weather forecast",
+   "reality show"
+  ],
+  "answer": "news bulletin",
+  "why": "«latest global events and political updates» bu «news bulletin» ekanini ko'rsatadi.",
+  "wrong": {
+   "chat show": "tok-shou. Siyosiy yangiliklar emas, suhbatlar uyushtiriladi.",
+   "weather forecast": "ob-havo ma'lumoti. Faqat havo sharoitini ko'rsatadi.",
+   "reality show": "realiti-shou. Oddiy odamlarning hayotini kuzatish."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Dilshod loves watching regular people try to survive on a deserted island together.",
+  "options": [
+   "reality show",
+   "sitcom",
+   "game show",
+   "talent show"
+  ],
+  "answer": "reality show",
+  "why": "«regular people try to survive on a deserted island» bu «reality show» ekanini bildiradi.",
+  "wrong": {
+   "sitcom": "sitkom. Odamlar orolda emas, kulgili vaziyatdagi uyda yashaydi.",
+   "game show": "o'yin shousi. Studiyada savol-javob o'ynaladi.",
+   "talent show": "talantlar shousi. Qobiliyat namoyish qilinadi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Zarina enjoys funny TV series where the same characters get into silly situations every week.",
+  "options": [
+   "sitcom",
+   "soap opera",
+   "documentary",
+   "news bulletin"
+  ],
+  "answer": "sitcom",
+  "why": "«funny TV series» va «silly situations» bu «sitcom» ekanini ko'rsatadi.",
+  "wrong": {
+   "soap opera": "sovunli opera. Kulgili emas, ko'pincha dramatik bo'ladi.",
+   "documentary": "hujjatli film. Haqiqiy ma'lumot beradi, kulgili serial emas.",
+   "news bulletin": "yangiliklar byulleteni. Hazil va kulgili vaziyatlar bo'lmaydi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Otabek watched singers and dancers compete on stage to win the main prize.",
+  "options": [
+   "talent show",
+   "game show",
+   "chat show",
+   "sitcom"
+  ],
+  "answer": "talent show",
+  "why": "«singers and dancers compete on stage» bu «talent show» ekanini bildiradi.",
+  "wrong": {
+   "game show": "o'yin shousi. San'atkorlar emas, bilimdonlar raqobatlashadi.",
+   "chat show": "tok-shou. Tanlov emas, suhbat bo'ladi.",
+   "sitcom": "sitkom. Kulgili serial bo'lib, sahnadagi tanlov emas."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Nargiza checked the TV screen to see if she needed an umbrella for tomorrow.",
+  "options": [
+   "weather forecast",
+   "news bulletin",
+   "chat show",
+   "documentary"
+  ],
+  "answer": "weather forecast",
+  "why": "«needed an umbrella for tomorrow» bu «weather forecast» ekanini ko'rsatadi.",
+  "wrong": {
+   "news bulletin": "yangiliklar. Siyosiy voqealar haqida bo'lib, soyabon haqida emas.",
+   "chat show": "tok-shou. Mehmonlar bilan suhbatlashiladi.",
+   "documentary": "hujjatli film. Ob-havoni oldindan aytib bermaydi."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "The main ______ of the movie was so unexpected that everyone in the cinema was shocked.",
+  "options": [
+   "ending",
+   "plot",
+   "script",
+   "soundtrack"
+  ],
+  "answer": "ending",
+  "why": "«unexpected» so'zi kutilmagan «ending» (oxiri) haqida ketayotganini bildiradi.",
+  "wrong": {
+   "plot": "syujet. Filmning umumiy voqealari ketma-ketligi.",
+   "script": "ssenariy. Aktyorlar o'qiydigan matn.",
+   "soundtrack": "saundtrek. Kinodagi musiqa."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "I found the book rather ______ because nothing exciting happened from start to finish.",
+  "options": [
+   "boring",
+   "exciting",
+   "gripping",
+   "funny"
+  ],
+  "answer": "boring",
+  "why": "«nothing exciting happened» so'zlari kitobning zerikarli «boring» ekanini ko'rsatadi.",
+  "wrong": {
+   "exciting": "ajoyib, qiziqarli. Aksincha, voqea yo'qligini bildiradi.",
+   "gripping": "o'ziga rom etuvchi. Zerikarli so'ziga zid.",
+   "funny": "kulgili. Kitobning zerikarli ekaniga mos kelmaydi."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "The explanation given by the teacher was very ______ and left the students with many questions.",
+  "options": [
+   "confusing",
+   "convincing",
+   "imaginative",
+   "interesting"
+  ],
+  "answer": "confusing",
+  "why": "«left the students with many questions» bu tushunarsiz «confusing» ekanini bildiradi.",
+  "wrong": {
+   "convincing": "ishonchli. Savollar tug'dirmagan bo'lar edi.",
+   "imaginative": "ijodiy. Tushunarsizlikni anglatmaydi.",
+   "interesting": "qiziqarli. O'quvchilarni savolga qo'ymaydi."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "Her performance as a detective was completely ______; I really believed she was a real police officer.",
+  "options": [
+   "convincing",
+   "unrealistic",
+   "boring",
+   "confusing"
+  ],
+  "answer": "convincing",
+  "why": "«I really believed she was a real» bu ishonchli «convincing» ekanini ko'rsatadi.",
+  "wrong": {
+   "unrealistic": "noreal. Haqiqiyga o'xshamasligini bildiradi.",
+   "boring": "zerikarli. Ishonchlilikka aloqasi yo'q.",
+   "confusing": "tushunarsiz. Aktyorlik mahoratiga mos kelmaydi."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "It was so ______ when he forgot his lines in front of the whole school during the play.",
+  "options": [
+   "embarrassing",
+   "exciting",
+   "funny",
+   "spectacular"
+  ],
+  "answer": "embarrassing",
+  "why": "«forgot his lines in front of the whole school» bu uyatli «embarrassing» vaziyatdir.",
+  "wrong": {
+   "exciting": "hayajonli. Xijolatli holatga nisbatan ishlatilmaydi.",
+   "funny": "kulgili. Bu yerda xijolat tortish ma'nosi bor.",
+   "spectacular": "ajoyib, dabdabali. Bunday vaziyatga mos emas."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "The football match was so ______ that we screamed with joy when our team scored in the final minute.",
+  "options": [
+   "exciting",
+   "boring",
+   "confusing",
+   "unrealistic"
+  ],
+  "answer": "exciting",
+  "why": "«screamed with joy» bu hayajonli «exciting» o'yin bo'lganini ko'rsatadi.",
+  "wrong": {
+   "boring": "zerikarli. Qichqirib quvonishga sabab bo'lmaydi.",
+   "confusing": "tushunarsiz. O'yinning zavqini bildirmaydi.",
+   "unrealistic": "noreal. O'yinning emotsiyasini ko'rsatmaydi."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "The mystery novel was so ______ that I stayed up all night to finish reading it.",
+  "options": [
+   "gripping",
+   "boring",
+   "confusing",
+   "unrealistic"
+  ],
+  "answer": "gripping",
+  "why": "«stayed up all night to finish» bu mahliqo qiluvchi «gripping» kitob ekanini bildiradi.",
+  "wrong": {
+   "boring": "zerikarli. Tun bo'yi o'qishga undamaydi.",
+   "confusing": "tushunarsiz. O'quvchini tezroq o'qib tugatishga chorlamaydi.",
+   "unrealistic": "noreal. Kitobning qiziqarliligini ifodalamaydi."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "The artist created an ______ painting of a floating city filled with colorful strange creatures.",
+  "options": [
+   "imaginative",
+   "boring",
+   "unrealistic",
+   "confusing"
+  ],
+  "answer": "imaginative",
+  "why": "«floating city filled with colorful strange creatures» bu boy tasavvurga ega «imaginative» ishdir.",
+  "wrong": {
+   "boring": "zerikarli. Ajoyib ijodni tasvirlamaydi.",
+   "unrealistic": "noreal. Tasavvur kuchini maqtash ma'nosini to'liq bermaydi.",
+   "confusing": "tushunarsiz. Rassomning ijodiy mahoratiga mos kelmaydi."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "The documentary about space travel was extremely ______; I learned many fascinating facts.",
+  "options": [
+   "interesting",
+   "boring",
+   "confusing",
+   "embarrassing"
+  ],
+  "answer": "interesting",
+  "why": "«learned many fascinating facts» bu qiziqarli «interesting» ekanini ko'rsatadi.",
+  "wrong": {
+   "boring": "zerikarli. Yangi ma'lumotlar o'rganishga zid.",
+   "confusing": "tushunarsiz. Bilim olishni qiyinlashtiradi.",
+   "embarrassing": "xijolatli. Kosmos haqidagi filmga mos kelmaydi."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "The ending of the film was so ______ that tears came to my eyes.",
+  "options": [
+   "moving",
+   "funny",
+   "scary",
+   "boring"
+  ],
+  "answer": "moving",
+  "why": "«tears came to my eyes» bu ta'sirli «moving» ekanini bildiradi.",
+  "wrong": {
+   "funny": "kulgili. Yig'lashga sabab bo'lmaydi.",
+   "scary": "qo'rqinchli. Ko'z yosh emas, qo'rquv keltiradi.",
+   "boring": "zerikarli. Emotsiya uyg'otmaydi."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "The fireworks display over the city center was truly ______ with thousands of bright colors.",
+  "options": [
+   "spectacular",
+   "boring",
+   "confusing",
+   "embarrassing"
+  ],
+  "answer": "spectacular",
+  "why": "«thousands of bright colors» bu muhim va ajoyib «spectacular» tomosha ekanini bildiradi.",
+  "wrong": {
+   "boring": "zerikarli. Rang-barang mushakbozlikka ishlatilmaydi.",
+   "confusing": "tushunarsiz. Bayramona manzaraga mos emas.",
+   "embarrassing": "xijolatli. Mushakbozlik uchun ishlatilmaydigan so'z."
+  }
+ }
+]

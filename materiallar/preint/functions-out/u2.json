@@ -1,0 +1,1227 @@
+{
+ "unit": 2,
+ "parts": [
+  [
+   {
+    "kind": "abctext",
+    "q": "Look at this picture from our school trip to Samarkand. ______ a group of students standing in front of Registan Square.",
+    "hint": "",
+    "options": [
+     "The photo shows",
+     "The photo tells",
+     "The photo makes"
+    ],
+    "answer": "The photo shows",
+    "accept": [],
+    "phrase": "The photo shows ...",
+    "explain": "Bu «The photo shows» iborasi bo'lib, rasmda nima tasvirlanganini bildiradi. Matndagi «a group of students» dalili shu variantni talab qiladi.",
+    "wrong": {
+     "The photo tells": "«Tells» fe'li rasmlarni tasvirlashda ishlatilmaydi.",
+     "The photo makes": "«Makes» bu yerda ma'no jihatdan mos kelmaydi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Look at my holiday picture. ______ we can see some children playing football on the grass.",
+    "hint": "",
+    "options": [
+     "In the background",
+     "In the foreground",
+     "At the top"
+    ],
+    "answer": "In the foreground",
+    "accept": [],
+    "phrase": "In the foreground ...",
+    "explain": "Bu rasmning oldingi qismini ko'rsatuvchi «In the foreground» iborasi. «playing football» oldingi planda sodir bo'lmoqda.",
+    "wrong": {
+     "In the background": "«Background» orqa planni bildiradi, bolalar esa oldingi planda.",
+     "At the top": "«At the top» rasmdan tepa qismini bildiradi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "This is a picture of our family in the mountains. ______ we can see high snowy peaks under the blue sky.",
+    "hint": "",
+    "options": [
+     "In the foreground",
+     "In the background",
+     "On the left"
+    ],
+    "answer": "In the background",
+    "accept": [],
+    "phrase": "In the background ...",
+    "explain": "Bu orqa fanni tasvirlaydigan «In the background» iborasi. «snowy peaks» uzoqda, ya'ni orqa fonda joylashgan.",
+    "wrong": {
+     "In the foreground": "Qorli cho'qqilar oldingi planda bo'lishi mumkin emas.",
+     "On the left": "Bu chap tomonni bildiradi, tog'lar esa fonda."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Check out this nice picture of the Tashkent TV Tower. ______ you can see a bright red flag flying high.",
+    "hint": "",
+    "options": [
+     "In the bottom right corner",
+     "In the top left corner",
+     "At the bottom"
+    ],
+    "answer": "In the top left corner",
+    "accept": [],
+    "phrase": "In the top left corner ...",
+    "explain": "Bu «In the top left corner» iborasi bo'lib, yuqori chap burchakni bildiradi.",
+    "wrong": {
+     "In the bottom right corner": "Bu pastki o'ng burchakni bildiradi, bayroq esa tepada.",
+     "At the bottom": "«At the bottom» rasmning eng pastki qismi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Look at this picture of our school yard. ______ there are some white clouds flying in the sky.",
+    "hint": "",
+    "options": [
+     "At the bottom",
+     "At the top",
+     "On the right"
+    ],
+    "answer": "At the top",
+    "accept": [],
+    "phrase": "At the top ...",
+    "explain": "Bu «At the top» iborasi bo'lib, osmon rasmining yuqori qismida joylashganini ko'rsatadi.",
+    "wrong": {
+     "At the bottom": "Bulutlar pastda bo'lmaydi.",
+     "On the right": "Bu o'ng tomonni bildiradi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "In this classroom photo, ______ of the page you can see some school bags on the floor.",
+    "hint": "",
+    "options": [
+     "At the top",
+     "At the bottom",
+     "In the background"
+    ],
+    "answer": "At the bottom",
+    "accept": [],
+    "phrase": "At the bottom ...",
+    "explain": "Bu pastki qismni bildiruvchi «At the bottom» iborasi. Sumkalar polda, ya'ni pastda turibdi.",
+    "wrong": {
+     "At the top": "Sumkalar tepada emas, polda turibdi.",
+     "In the background": "Sumkalar oldinda yoki pastda joylashgan."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Look at this picture of a traditional Uzbek table. ______ there is a big plate of hot plov.",
+    "hint": "",
+    "options": [
+     "In the corner",
+     "In the centre",
+     "At the top"
+    ],
+    "answer": "In the centre",
+    "accept": [],
+    "phrase": "In the centre ...",
+    "explain": "Bu markazni ko'rsatadigan «In the centre» iborasi. Palov lagani stolning o'rtasida turibdi.",
+    "wrong": {
+     "In the corner": "Burchakni bildiradi, taom esa o'rtada.",
+     "At the top": "Yuqori qismni bildiradi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Look at this strange animal in the zoo. ______ a very small cat, but it's actually a baby lion!",
+    "hint": "",
+    "options": [
+     "It looks like",
+     "It looks as if",
+     "It seems to"
+    ],
+    "answer": "It looks like",
+    "accept": [],
+    "phrase": "It looks like ...",
+    "explain": "Bu «It looks like» iborasi bo'lib, o'xshashlikni bildiradi. Undan keyin ot keladi («a very small cat»).",
+    "wrong": {
+     "It looks as if": "«As if» dan keyin gap kelishi kerak, bu yerda esa ot kelgan.",
+     "It seems to": "Grammatik jihatdan to'g'ri kelmaydi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Look at my sister in this photo. ______ very tired after her long piano practice.",
+    "hint": "",
+    "options": [
+     "She seems to be",
+     "She looks like",
+     "She is probably feel"
+    ],
+    "answer": "She seems to be",
+    "accept": [],
+    "phrase": "She seems to be ...",
+    "explain": "Bu shaxsning holatini taxmin qiluvchi «She seems to be» iborasi.",
+    "wrong": {
+     "She looks like": "«Like» so'zidan keyin sifat kelmaydi.",
+     "She is probably feel": "Grammatik jihatdan xato, «feeling» bo'lishi kerak."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Look at the winner of the English competition. ______ very happy with her gold medal.",
+    "hint": "",
+    "options": [
+     "She's probably feeling",
+     "She looks as if",
+     "She seems like"
+    ],
+    "answer": "She's probably feeling",
+    "accept": [],
+    "phrase": "She's probably feeling ...",
+    "explain": "Bu «She's probably feeling» iborasi bo'lib, uning qanday his qilayotganini bildiradi.",
+    "wrong": {
+     "She looks as if": "Undan keyin fe'lli gap kelishi kerak.",
+     "She seems like": "«Seem like» shaxsga nisbatan bunday ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "______ they're feeling a bit cold, but maybe they are just tired from walking.",
+    "hint": "",
+    "options": [
+     "I expect they're feeling",
+     "I look they're feeling",
+     "I'm saying they"
+    ],
+    "answer": "I expect they're feeling",
+    "accept": [],
+    "phrase": "I expect they're feeling ..., but maybe ...",
+    "explain": "Bu «I expect they're feeling» iborasi bo'lib, ehtimoliy holatni bildiradi.",
+    "wrong": {
+     "I look they're feeling": "«Look» fe'li bu yerda ma'no bermaydi.",
+     "I'm saying they": "Bunday grammatik tuzilish mavjud emas."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "That man ______ be our new English teacher because he is wearing a suit and holding books.",
+    "hint": "",
+    "options": [
+     "can't",
+     "must",
+     "might not"
+    ],
+    "answer": "must",
+    "accept": [],
+    "phrase": "It must be ... because ...",
+    "explain": "Bu «It must be» iborasi bo'lib, mantiqiy ishonchni bildiradi («because he is holding books»).",
+    "wrong": {
+     "can't": "Kitob ko'tarib yurgan kishi o'qituvchi bo'lishi mumkin, shuning uchun «can't» xato.",
+     "might not": "Bu shubhani bildiradi, dalillar esa aniq."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "That person ______ be a famous footballer because he is wearing heavy winter boots and a thick coat.",
+    "hint": "",
+    "options": [
+     "must",
+     "can't",
+     "should"
+    ],
+    "answer": "can't",
+    "accept": [],
+    "phrase": "It can't be ... because ...",
+    "explain": "Bu «It can't be» iborasi bo'lib, mantiqqa ko'ra bu mumkin emasligini bildiradi.",
+    "wrong": {
+     "must": "Qishki kiyimdagi odam futbolchi bo'lishi aniq emas.",
+     "should": "Maslahat yoki kutilgan holatni bildiradi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "______ go to the cinema this evening? There is a very funny comedy on.",
+    "hint": "",
+    "options": [
+     "Shall we",
+     "Let us to",
+     "Do you fancy to"
+    ],
+    "answer": "Shall we",
+    "accept": [],
+    "phrase": "Shall we ...?",
+    "explain": "Taklif bildirish uchun ishlatiladigan «Shall we ...?» iborasi. Undan keyin fe'l keladi.",
+    "wrong": {
+     "Let us to": "«Let's» dan keyin «to» ishlatilmaydi.",
+     "Do you fancy to": "«Fancy» dan keyin fe'l «-ing» shaklida kelishi kerak."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "______ meet outside the school gates at 3 o'clock after our last lesson.",
+    "hint": "",
+    "options": [
+     "Shall",
+     "Let's",
+     "How about"
+    ],
+    "answer": "Let's",
+    "accept": [],
+    "phrase": "Let's ...",
+    "explain": "Birgalikda harakat qilishga undaydigan «Let's ...» iborasi.",
+    "wrong": {
+     "Shall": "«Shall» so'zi yolg'iz o'zi bu yerda ishlatilmaydi.",
+     "How about": "Undan keyin fe'l «-ing» bilan kelishi kerak."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "______ playing computer games together at my house this Saturday afternoon?",
+    "hint": "",
+    "options": [
+     "Shall we",
+     "Do you fancy",
+     "Let's"
+    ],
+    "answer": "Do you fancy",
+    "accept": [],
+    "phrase": "Do you fancy ...?",
+    "explain": "Taklif bildirish uchun «Do you fancy ...?» iborasi ishlatiladi va undan keyin fe'l «-ing» shaklini oladi («playing»).",
+    "wrong": {
+     "Shall we": "«Shall we» dan keyin «playing» emas, oddiy fe'l keladi.",
+     "Let's": "«Let's» dan keyin fe'lga «-ing» qo'shilmaydi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "______ going to the local cafe for an ice cream after our exams?",
+    "hint": "",
+    "options": [
+     "How about",
+     "Why don't",
+     "Shall we"
+    ],
+    "answer": "How about",
+    "accept": [],
+    "phrase": "How / What about ...?",
+    "explain": "Taklif berish uchun «How about ...?» iborasi ishlatiladi, undan keyin «going» kelgan.",
+    "wrong": {
+     "Why don't": "«Why don't» dan keyin ega kelishi kerak («Why don't we»).",
+     "Shall we": "«Shall we» dan keyin fe'l «-ing» olmaydi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "It would ______ nice to have a picnic in the park if the weather is sunny.",
+    "hint": "",
+    "options": [
+     "be",
+     "have",
+     "do"
+    ],
+    "answer": "be",
+    "accept": [],
+    "phrase": "It would be nice to ...",
+    "explain": "Taklif bildirish uchun ishlatiladigan «It would be nice to ...» iborasi.",
+    "wrong": {
+     "have": "«It would have nice» grammatik jihatdan xato.",
+     "do": "Ma'no jihatdan to'g'ri kelmaydi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "We could ______ go to the new library if the park is too crowded today.",
+    "hint": "",
+    "options": [
+     "always",
+     "never",
+     "sometimes"
+    ],
+    "answer": "always",
+    "accept": [],
+    "phrase": "We could always ...",
+    "explain": "Muqobil taklif bildirish uchun «We could always ...» iborasi ishlatiladi.",
+    "wrong": {
+     "never": "Taklif bildirishda «never» ishlatilmaydi.",
+     "sometimes": "«Could sometimes» taklif uchun mos kelmaydi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "______ we order some pizza instead of cooking dinner tonight?",
+    "hint": "",
+    "options": [
+     "Why don't",
+     "What about",
+     "Shall"
+    ],
+    "answer": "Why don't",
+    "accept": [],
+    "phrase": "Why don't we ...?",
+    "explain": "Taklif beruvchi «Why don't we ...?» iborasi. «we» egasidan oldin keladi.",
+    "wrong": {
+     "What about": "«What about» dan keyin fe'lga «-ing» qo'shilishi kerak edi.",
+     "Shall": "«we» egasini unutib qoldirib bo'lmaydi."
+    }
+   }
+  ],
+  [
+   {
+    "kind": "word",
+    "q": "Look at this picture of our school canteen. ______ the foreground, two students are eating lunch together.",
+    "hint": "",
+    "options": [],
+    "answer": "In",
+    "accept": [],
+    "phrase": "In the foreground ...",
+    "explain": "Bu mashq «In the foreground» iborasini ishlatishni o'rgatadi. Rasmning oldingi qismini tasvirlash uchun «In» so'zi mos keladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Look at the mountains in this picture. ______ the background, we can see some high snow peaks.",
+    "hint": "",
+    "options": [],
+    "answer": "In",
+    "accept": [],
+    "phrase": "In the background ...",
+    "explain": "Bu mashq «In the background» iborasini ishlatishni o'rgatadi. Rasmning orqa fonini ko'rsatish uchun «In» so'zi kerak.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Look at the corner of this classroom photo. ______ the top left corner, there is a clock on the wall.",
+    "hint": "",
+    "options": [],
+    "answer": "In",
+    "accept": [],
+    "phrase": "In the top left corner ...",
+    "explain": "Bu mashq «In the top left corner» iborasini o'rgatadi. Chap yuqori burchakni ko'rsatish uchun «In» so'zi mos keladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Look at the desk in this picture. ______ the bottom right corner, a red school bag is sitting on the floor.",
+    "hint": "",
+    "options": [],
+    "answer": "In",
+    "accept": [],
+    "phrase": "In the bottom right corner ...",
+    "explain": "Bu mashq «In the bottom right corner» iborasini talab qiladi. O'ng pastki burchakni tasvirlash uchun «In» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Look at the wall in our classroom. ______ the top, there is a big banner with English words.",
+    "hint": "",
+    "options": [],
+    "answer": "At",
+    "accept": [],
+    "phrase": "At the top ...",
+    "explain": "Bu mashq «At the top» iborasini o'rgatadi. Yuqori qismni ko'rsatish uchun «At» so'zi to'g'ri keladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Look at this photograph of our street. ______ the bottom, some colorful autumn leaves are lying on the pavement.",
+    "hint": "",
+    "options": [],
+    "answer": "At",
+    "accept": [],
+    "phrase": "At the bottom ...",
+    "explain": "Bu mashq «At the bottom» iborasini ishlatishni talab qiladi. Pastki qismni ko'rsatish uchun «At» so'zi ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Look at this picture of my friends. ______ the left, Aziz is holding a football.",
+    "hint": "",
+    "options": [],
+    "answer": "On",
+    "accept": [],
+    "phrase": "On the left ...",
+    "explain": "Bu mashq «On the left» iborasini o'rgatadi. Chap tomonni ko'rsatish uchun «On» so'zi ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Look at this picture of my family. ______ the right, my sister is smiling at the camera.",
+    "hint": "",
+    "options": [],
+    "answer": "On",
+    "accept": [],
+    "phrase": "On the right ...",
+    "explain": "Bu mashq «On the right» iborasini o'rgatadi. O'ng tomonni tasvirlash uchun «On» so'zi kerak.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Look at the classroom picture. ______ the centre, our teacher is writing a new grammar rule on the board.",
+    "hint": "",
+    "options": [],
+    "answer": "In",
+    "accept": [],
+    "phrase": "In the centre ...",
+    "explain": "Bu mashq «In the centre» iborasini o'rgatadi. Markaziy qismni ko'rsatish uchun «In» so'zi to'g'ri keladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Look at this blurry photo of a cat. It ______ like a small rabbit sitting in the grass.",
+    "hint": "",
+    "options": [],
+    "answer": "looks",
+    "accept": [],
+    "phrase": "It looks like ...",
+    "explain": "Bu mashq «It looks like» iborasini talab qiladi. O'xshashlikni bildirish uchun «looks» fe'li ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Look at the children in the pool. It looks as if ______ having a fantastic time swimming.",
+    "hint": "",
+    "options": [],
+    "answer": "they're",
+    "accept": [
+     "they are"
+    ],
+    "phrase": "It looks as if they're ...",
+    "explain": "Bu mashq «It looks as if they're» iborasini o'rgatadi. Holatni taxmin qilish uchun «they're» so'zi mos keladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Look at our English teacher in this picture. She ______ to be very happy with our test results.",
+    "hint": "",
+    "options": [],
+    "answer": "seems",
+    "accept": [],
+    "phrase": "She seems to be ...",
+    "explain": "Bu mashq «She seems to be» iborasini talab qiladi. Ko'rinishni ifodalash uchun «seems» so'zi kerak.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Look at the winning team captain. He's probably ______ very proud after holding the trophy.",
+    "hint": "",
+    "options": [],
+    "answer": "feeling",
+    "accept": [],
+    "phrase": "She's probably feeling ...",
+    "explain": "Bu mashq his-tuyg'uni taxmin qilish uchun «feeling» so'zini talab qiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Look at the dark clouds in the sky. Judging ______ the weather, I'd say it is going to rain soon.",
+    "hint": "",
+    "options": [],
+    "answer": "by",
+    "accept": [],
+    "phrase": "Judging by ..., I'd say ...",
+    "explain": "Bu mashq «Judging by» iborasini o'rgatadi. Asosga ko'ra fikr bildirish uchun «by» predlogi ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Look at the students running. To me, they ______ as if they are late for their math lesson.",
+    "hint": "",
+    "options": [],
+    "answer": "look",
+    "accept": [],
+    "phrase": "To me, they look as if ...",
+    "explain": "Bu mashq «To me, they look as if» iborasini o'rgatadi. Fikr bildirish uchun «look» fe'li kerak.",
+    "wrong": {}
+   }
+  ],
+  [
+   {
+    "kind": "abc",
+    "q": "Timur: ______ we visit the new water park this Sunday? \nMalika: Yes, that is a fantastic plan!",
+    "hint": "",
+    "options": [
+     "Shall",
+     "Let",
+     "Do"
+    ],
+    "answer": "Shall",
+    "accept": [],
+    "phrase": "Shall we ...?",
+    "explain": "Bu «Shall we» taklif bildirish qolipi bo'lib, «visit the new water park» harakatiga taklif qilyapti.",
+    "wrong": {
+     "Let": "«Let» fe'ldan oldin «us» olmoshini talab qiladi, bu yerda esa to'g'ridan-to'g'ri egaga o'tgan.",
+     "Do": "«Do» so'roq shakli uchun ishlatiladi, lekin bu qolipga mos kelmaydi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Zarina: ______'s eat some hot samsa at the local café. \nDilshod: Perfect, I am very hungry.",
+    "hint": "",
+    "options": [
+     "Let",
+     "Shall",
+     "Would"
+    ],
+    "answer": "Let",
+    "accept": [],
+    "phrase": "Let's ...",
+    "explain": "Bu «Let's» taklif bildirish qolipi bo'lib, «eat some hot samsa» harakatini birga bajarishga chaqiradi.",
+    "wrong": {
+     "Shall": "«Shall» ikkinchi shaxsga nisbatan «Shall we» tarzida keladi, «Let's» qisqartmasi bu yerda qulayroq.",
+     "Would": "«Would» fe'li bu tuzilmadagi qolipga grammatik jihatdan mos tushmaydi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Aziza: How ______ going to the city library after lessons? \nBobur: I would love to read some new books.",
+    "hint": "",
+    "options": [
+     "about",
+     "if",
+     "to"
+    ],
+    "answer": "about",
+    "accept": [],
+    "phrase": "How / What about ...?",
+    "explain": "Bu «How about» taklif qolipi bo'lib, «going to the city library» variantini muhokama qilishga undaydi.",
+    "wrong": {
+     "if": "«How if» so'z birikmasi bu ma'noda taklif bildirish uchun ishlatilmaydi.",
+     "to": "«How to» usulni ko'rsatadi, lekin bu yerda taklif ma'nosi talab qilinadi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Madina: What ______ visiting our cousins in Samarkand? \nSardor: Good idea, we can eat great food there.",
+    "hint": "",
+    "options": [
+     "about",
+     "else",
+     "for"
+    ],
+    "answer": "about",
+    "accept": [],
+    "phrase": "How / What about ...?",
+    "explain": "Bu «What about» taklif qolipi bo'lib, «visiting our cousins» fikrini bildirish uchun mos keladi.",
+    "wrong": {
+     "else": "«What else» boshqa narsa haqida so'raganda ishlatiladi, taklif bildirmaydi.",
+     "for": "«What for» sababni so'raydi, taklif bildirish qolipiga kirmaydi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Sanjar: We could ______ start a new art project together. \nAlisher: Great, let's buy some paints.",
+    "hint": "",
+    "options": [
+     "always",
+     "never",
+     "often"
+    ],
+    "answer": "always",
+    "accept": [],
+    "phrase": "We could always ...",
+    "explain": "Bu «We could always» taklif qolipi bo'lib, «start a new art project» muqobil variantini taklif qiladi.",
+    "wrong": {
+     "never": "«Never» rad ma'nosini bildiradi, taklif qilish uchun ishlatilmaydi.",
+     "often": "«Often» takrorlanishni bildiradi, lekin qolipda «always» so'zi ishlatiladi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Shohruh: Why ______ we organize a school football match this Friday? \nOtabek: Great, I will ask our PE teacher.",
+    "hint": "",
+    "options": [
+     "don't",
+     "aren't",
+     "haven't"
+    ],
+    "answer": "don't",
+    "accept": [],
+    "phrase": "Why don't we ...?",
+    "explain": "Bu «Why don't we» taklif qolipi bo'lib, «organize a school football match» harakatiga chorlaydi.",
+    "wrong": {
+     "aren't": "«Why aren't we» fe'l bilan ishlatilganda mantiqqa to'g'ri kelmaydi.",
+     "haven't": "«Why haven't we» o'tgan zamon natijasini bildiradi, taklif uchun emas."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Dilshod: Let ______ study for our math exam in the school library. \nZarina: Perfect, we can help each other.",
+    "hint": "",
+    "options": [
+     "'s",
+     "me",
+     "him"
+    ],
+    "answer": "'s",
+    "accept": [],
+    "phrase": "Let's ...",
+    "explain": "Bu «Let's» taklif qolipi bo'lib, birgalikda imtihonga tayyorlanishni bildiradi.",
+    "wrong": {
+     "me": "«Let me» o'ziga nisbatan ruxsat so'rash, birgalikdagi taklif emas.",
+     "him": "«Let him» uchinchi shaxsga ruxsat berishni bildiradi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Bobur: How about ______ to the local park after classes? \nAziza: I would love to walk outside.",
+    "hint": "",
+    "options": [
+     "going",
+     "go",
+     "to go"
+    ],
+    "answer": "going",
+    "accept": [],
+    "phrase": "How / What about ...?",
+    "explain": "Bu «How about» qolipi bo'lib, «going to the local park» harakatini taklif qilmoqda.",
+    "wrong": {
+     "go": "«How about» iborasidan keyin fe'l «-ing» qo'shimchasi bilan keladi.",
+     "to go": "Infinitiv shakli bu qolipda ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Sardor: What about ______ our grandparents this weekend? \nMadina: Good idea, we can eat tasty plov together.",
+    "hint": "",
+    "options": [
+     "visiting",
+     "visit",
+     "to visit"
+    ],
+    "answer": "visiting",
+    "accept": [],
+    "phrase": "How / What about ...?",
+    "explain": "Bu «What about» qolipi bo'lib, «visiting our grandparents» taklifini bildiradi.",
+    "wrong": {
+     "visit": "«What about» dan keyin fe'lga «-ing» qo'shilishi shart.",
+     "to visit": "Infinitiv bu yerda grammatik xato hisoblanadi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Anora: It would ______ nice to have a picnic in the school garden. \nAkmal: Yes, the flowers are blooming.",
+    "hint": "",
+    "options": [
+     "be",
+     "have",
+     "do"
+    ],
+    "answer": "be",
+    "accept": [],
+    "phrase": "It would be nice to ...",
+    "explain": "Bu «It would be nice to» taklif qolipi bo'lib, piknik qilish istagini bildiradi.",
+    "wrong": {
+     "have": "Qolipda «be» fe'li ishlatiladi («It would be nice»).",
+     "do": "«Do» fe'li bu iboraga mos kelmaydi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Otabek: Why ______ we play computer games together this Saturday? \nShohruh: Yes, I am totally free then.",
+    "hint": "",
+    "options": [
+     "don't",
+     "doesn't",
+     "won't"
+    ],
+    "answer": "don't",
+    "accept": [],
+    "phrase": "Why don't we ...?",
+    "explain": "Bu «Why don't we» taklif qolipi bo'lib, birga o'yin o'ynashni taklif etmoqda.",
+    "wrong": {
+     "doesn't": "«We» olmoshiga «doesn't» emas, «don't» ishlatiladi.",
+     "won't": "«Why won't we» taklif ma'nosini bermaydi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Sevara: ______ we visit the history museum this afternoon? \nKamola: That sounds like a brilliant idea!",
+    "hint": "",
+    "options": [
+     "Shall",
+     "Let",
+     "How"
+    ],
+    "answer": "Shall",
+    "accept": [],
+    "phrase": "Shall we ...?",
+    "explain": "Bu «Shall we» taklif qolipi bo'lib, muzeyga borish fikrini bildiradi.",
+    "wrong": {
+     "Let": "«Let» so'zidan keyin «we» emas, «'s» ishlatilishi kerak edi.",
+     "How": "«How» so'zidan keyin «about» kelishi kerak."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Aziz: Let's ______ a new English vocabulary game now. \nMadina: Awesome, I love word games.",
+    "hint": "",
+    "options": [
+     "play",
+     "playing",
+     "to play"
+    ],
+    "answer": "play",
+    "accept": [],
+    "phrase": "Let's ...",
+    "explain": "Bu «Let's» taklif qolipi bo'lib, o'yin o'ynashga da'vat qiladi.",
+    "wrong": {
+     "playing": "«Let's» so'zidan keyin fe'l o'zining asosiy shaklida keladi.",
+     "to play": "Infinitiv shakli bu qolipda ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Bobur: Do you fancy ______ ice cream in the park? \nAziza: Yes, chocolate flavor is my favorite.",
+    "hint": "",
+    "options": [
+     "eating",
+     "eat",
+     "to eat"
+    ],
+    "answer": "eating",
+    "accept": [],
+    "phrase": "Do you fancy ...?",
+    "explain": "Bu «Do you fancy» taklif qolipi bo'lib, muzqaymoq yeyishni taklif qilmoqda.",
+    "wrong": {
+     "eat": "«Fancy» fe'lidan keyin fe'l «-ing» bilan kelishi kerak.",
+     "to eat": "Infinitiv bu yerda noto'g'ri."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Nargiza: How about ______ a bike ride along the river? \nJasur: Great, let's prepare our bicycles.",
+    "hint": "",
+    "options": [
+     "having",
+     "have",
+     "to have"
+    ],
+    "answer": "having",
+    "accept": [],
+    "phrase": "How / What about ...?",
+    "explain": "Bu «How about» qolipi bo'lib, velosipedda sayr qilishni taklif etadi.",
+    "wrong": {
+     "have": "«How about» iborasidan keyin fe'lga «-ing» qo'shilishi kerak.",
+     "to have": "Infinitiv shakli ishlatilmaydi."
+    }
+   }
+  ]
+ ],
+ "guide": {
+  "topics": [
+   {
+    "name": "Describing a photo",
+    "name_uz": "Rasmni tasvirlash",
+    "summary": "Bu iboralar fotosuratdagi narsalar, odamlar va joylashuvni aniq ko'rsatish hamda tasvirlash uchun ishlatiladi.",
+    "usage": [
+     {
+      "text": "The photo shows — Suratda ... ko'rsatilgan. Umumiy mazmunni aytishda ishlatiladi.",
+      "example": {
+       "en": "The photo shows a family in a park.",
+       "uz": "Suratda parkdagi oila ko'rsatilgan."
+      }
+     },
+     {
+      "text": "In the foreground — Oldingi planda. Suratning eng old qismidagi narsalarni tasvirlash uchun.",
+      "example": {
+       "en": "In the foreground, a boy is playing football.",
+       "uz": "Oldingi planda bola futbol o'ynamoqda."
+      }
+     },
+     {
+      "text": "In the background — Orqa planda. Suratning uzoqdagi yoki orqa qismini ko'rsatish uchun.",
+      "example": {
+       "en": "In the background, you can see mountains.",
+       "uz": "Orqa planda tog'larni ko'rishingiz mumkin."
+      }
+     },
+     {
+      "text": "In the top left corner — Yuqori chap burchakda. Joylashuvni aniq ko'rsatish uchun.",
+      "example": {
+       "en": "In the top left corner, there is a bird.",
+       "uz": "Yuqori chap burchakda qush bor."
+      }
+     },
+     {
+      "text": "In the bottom right corner — Pastki o'ng burchakda. Suratning pastki o'ng qismini belgilash uchun.",
+      "example": {
+       "en": "In the bottom right corner, a dog is sleeping.",
+       "uz": "Pastki o'ng burchakda it uxlayapti."
+      }
+     },
+     {
+      "text": "At the top — Yuqorida. Suratning yuqori qismini tasvirlashda.",
+      "example": {
+       "en": "At the top, the sun is shining brightly.",
+       "uz": "Yuqorida quyosh yorqin porlayapti."
+      }
+     },
+     {
+      "text": "At the bottom — Pastda. Suratning eng pastki qismini ko'rsatish uchun.",
+      "example": {
+       "en": "At the bottom, flowers are growing.",
+       "uz": "Pastda gullar o'smoqda."
+      }
+     },
+     {
+      "text": "On the left — Chap tomonda. Chap qismdagi obyektlar uchun.",
+      "example": {
+       "en": "On the left, a girl is reading a book.",
+       "uz": "Chap tomonda qiz kitob o'qiyapti."
+      }
+     },
+     {
+      "text": "On the right — O'ng tomonda. O'ng qismdagi obyektlar uchun.",
+      "example": {
+       "en": "On the right, a car is parked.",
+       "uz": "O'ng tomonda mashina turibdi."
+      }
+     },
+     {
+      "text": "In the centre — Markazda. Suratning qoq o'rtasidagi narsani ko'rsatish uchun.",
+      "example": {
+       "en": "In the centre, there is a big table.",
+       "uz": "Markazda katta stol bor."
+      }
+     },
+     {
+      "text": "It looks like — ... ga o'xshaydi. Ko'rinishdan qandaydir holatni taxmin qilish uchun.",
+      "example": {
+       "en": "It looks like rain.",
+       "uz": "Yomg'ir yog'adiganga o'xshaydi."
+      }
+     },
+     {
+      "text": "It looks as if they're — Ular go'yo ... qilgandek ko'rinmoqda. Odamlarning harakatini tasvirlashda.",
+      "example": {
+       "en": "It looks as if they're enjoying the party.",
+       "uz": "Ular ziyofatdan zavqlanayotgandek ko'rinmoqda."
+      }
+     },
+     {
+      "text": "She seems to be — U ... ga o'xshaydi / ... qilganga o'xshaydi. Shaxsning holatini bildiradi.",
+      "example": {
+       "en": "She seems to be tired.",
+       "uz": "U charchganga o'xshaydi."
+      }
+     }
+    ],
+    "structure": [
+     {
+      "type": "+",
+      "formula": "The photo shows + noun / noun phrase",
+      "example": {
+       "en": "The photo shows a group of friends.",
+       "uz": "Suratda bir guruh do'stlar ko'rsatilgan."
+      }
+     },
+     {
+      "type": "+",
+      "formula": "Preposition of place (In/On/At) + location + noun",
+      "example": {
+       "en": "In the foreground, a boy is smiling.",
+       "uz": "Oldingi planda bola jilmayib turibdi."
+      }
+     },
+     {
+      "type": "+",
+      "formula": "It looks like + noun / clause",
+      "example": {
+       "en": "It looks like a wonderful holiday.",
+       "uz": "Bu ajoyib ta'tilga o'xshaydi."
+      }
+     },
+     {
+      "type": "+",
+      "formula": "It looks as if + subject + verb",
+      "example": {
+       "en": "It looks as if they are winning the match.",
+       "uz": "Ular o'yinni yutayotgandek ko'rinmoqda."
+      }
+     }
+    ],
+    "signals": [
+     {
+      "en": "foreground",
+      "uz": "oldingi plan"
+     },
+     {
+      "en": "background",
+      "uz": "orqa plan"
+     },
+     {
+      "en": "centre",
+      "uz": "markaz"
+     },
+     {
+      "en": "corner",
+      "uz": "burchak"
+     },
+     {
+      "en": "looks like",
+      "uz": "o'xshamoq"
+     },
+     {
+      "en": "seems",
+      "uz": "tuyulmoq"
+     }
+    ],
+    "tip": "Joylashuvni aytganda 'in the picture' yoki 'in the photo' deng, 'on the picture' deyish xato hisoblanadi."
+   },
+   {
+    "name": "Speculating about a photo",
+    "name_uz": "Surat haqida taxmin qilish",
+    "summary": "Bu iboralar ko'rgan narsalarimizga asoslanib, odamlarning hissiyotlari va vaziyat haqida taxminlar bildirish uchun ishlatiladi.",
+    "usage": [
+     {
+      "text": "She's probably feeling — U ehtimol ... his qilayotgandir. Odamning hissiyotini taxmin qilish uchun.",
+      "example": {
+       "en": "She's probably feeling nervous before the test.",
+       "uz": "U imtihondan oldin ehtimol asabiylashayotgandir."
+      }
+     },
+     {
+      "text": "I expect they're feeling ..., but maybe — Ular ... his qilayotgandir deb o'ylayman, lekin balki... Ziddiyatli taxminlar uchun.",
+      "example": {
+       "en": "I expect they're feeling happy, but maybe they are tired.",
+       "uz": "Ular xursand deb o'ylayman, lekin balki charchagandirlar."
+      }
+     },
+     {
+      "text": "Judging by ..., I'd say — ... ga qarab aytish mumkinki... Dalillarga tayanib fikr bildirish.",
+      "example": {
+       "en": "Judging by their clothes, I'd say it's winter.",
+       "uz": "Ularning kiyimlariga qarab aytish mumkinki, qish."
+      }
+     },
+     {
+      "text": "To me, they look as if — Menga ular ... degandek ko'rinadi. Shaxsiy fikr va taassurot.",
+      "example": {
+       "en": "To me, they look as if they are lost.",
+       "uz": "Menga ular adashib qolgandek ko'rinadi."
+      }
+     },
+     {
+      "text": "It can't be ... because — Bu ... bo'lishi mumkin emas, chunki... Mantiqiy rad etish.",
+      "example": {
+       "en": "It can't be hot because they are wearing coats.",
+       "uz": "Issiq bo'lishi mumkin emas, chunki ular palto kiyib olishgan."
+      }
+     },
+     {
+      "text": "It must be ... because — Bu ... bo'lishi kerak, chunki... Aniqlik darajasi yuqori bo'lgan taxmin.",
+      "example": {
+       "en": "It must be London because of the red bus.",
+       "uz": "Qizil avtobus borligi uchun bu London bo'lishi kerak."
+      }
+     }
+    ],
+    "structure": [
+     {
+      "type": "+",
+      "formula": "Subject + must be + noun/adjective + because + clause",
+      "example": {
+       "en": "It must be cold because of the snow.",
+       "uz": "Qor borligi uchun sovuq bo'lishi kerak."
+      }
+     },
+     {
+      "type": "+",
+      "formula": "It can't be + noun/adjective + because + clause",
+      "example": {
+       "en": "It can't be summer because trees have no leaves.",
+       "uz": "Daraxtlarda barg yo'qligi uchun yoz bo'lishi mumkin emas."
+      }
+     },
+     {
+      "type": "+",
+      "formula": "Judging by + noun, subject + would say / verb",
+      "example": {
+       "en": "Judging by her smile, she is happy.",
+       "uz": "Uning jilmayishiga qarab, u xursand deb ayta olaman."
+      }
+     }
+    ],
+    "signals": [
+     {
+      "en": "probably",
+      "uz": "ehtimol"
+     },
+     {
+      "en": "expect",
+      "uz": "kutmoq / deb o'ylamoq"
+     },
+     {
+      "en": "judging by",
+      "uz": "... ga qarab"
+     },
+     {
+      "en": "must be",
+      "uz": "bo'lishi kerak"
+     },
+     {
+      "en": "can't be",
+      "uz": "bo'lishi mumkin emas"
+     }
+    ],
+    "tip": "Aniq ishonmagan paytda 'must be' (aniq shunday) va 'can't be' (aniq unday emas) so'zlarini mantiqiy dalillar bilan ishlatishni unutmang."
+   },
+   {
+    "name": "Making suggestions",
+    "name_uz": "Takliflar kiritish",
+    "summary": "Bu iboralar do'stlar bilan nima qilishni rejalashtirish va birgalikda biror ishni bajarishni taklif qilish uchun ishlatiladi.",
+    "usage": [
+     {
+      "text": "Shall we ...? — ... qilamizmi? Biror ishni birgalikda qilishni taklif qilish.",
+      "example": {
+       "en": "Shall we go to the cinema tonight?",
+       "uz": "Bugun kechqurun kinoga boramizmi?"
+      }
+     },
+     {
+      "text": "Let's ... — Kelin ... qilamiz. To'g'ridan-to'g'ri taklif bildirish.",
+      "example": {
+       "en": "Let's play computer games.",
+       "uz": "Keling, kompyuter o'yinlarini o'ynaymiz."
+      }
+     },
+     {
+      "text": "Do you fancy ...? — ... qilishni xohlaysizmi? Istakni so'rash uchun V-ing shakli bilan ishlatiladi.",
+      "example": {
+       "en": "Do you fancy eating pizza?",
+       "uz": "Pitsa yeyishni xohlaysizmi?"
+      }
+     },
+     {
+      "text": "How / What about ...? — ... haqida nima deysiz? Fikr so'rash va taklif berish uchun V-ing bilan.",
+      "example": {
+       "en": "How about visiting our grandparents?",
+       "uz": "Bobo va buvimiznikiga bormaymizmi?"
+      }
+     },
+     {
+      "text": "It would be nice to ... — ... qilish yaxshi bo'lar edi. Yoqimli taklif kiritish.",
+      "example": {
+       "en": "It would be nice to have a picnic.",
+       "uz": "Piknik qilish yaxshi bo'lar edi."
+      }
+     },
+     {
+      "text": "We could always ... — Biz har doim ... qilishimiz mumkin. Muqobil variantni taklif qilish.",
+      "example": {
+       "en": "We could always watch a movie at home.",
+       "uz": "Biz har doim uyda kino ko'rishimiz mumkin."
+      }
+     },
+     {
+      "text": "Why don't we ...? — Nima uchun ... qilmaymiz? Savol shaklida taklif berish.",
+      "example": {
+       "en": "Why don't we start a band?",
+       "uz": "Nima uchun guruh tuzmaymiz?"
+      }
+     }
+    ],
+    "structure": [
+     {
+      "type": "?",
+      "formula": "Shall we + base verb ...?",
+      "example": {
+       "en": "Shall we meet at 5 PM?",
+       "uz": "Soat 5 da uchrashamizmi?"
+      }
+     },
+     {
+      "type": "+",
+      "formula": "Let's + base verb",
+      "example": {
+       "en": "Let's do our homework together.",
+       "uz": "Keling, uy vazifamizni birga qilamiz."
+      }
+     },
+     {
+      "type": "?",
+      "formula": "Do you fancy + verb-ing ...?",
+      "example": {
+       "en": "Do you fancy swimming?",
+       "uz": "Suzishni xohlaysizmi?"
+      }
+     },
+     {
+      "type": "?",
+      "formula": "How / What about + verb-ing ...?",
+      "example": {
+       "en": "What about buying some ice cream?",
+       "uz": "Biroz muzqaymoq sotib olsak nima deysiz?"
+      }
+     },
+     {
+      "type": "?",
+      "formula": "Why don't we + base verb ...?",
+      "example": {
+       "en": "Why don't we ask the teacher?",
+       "uz": "Nima uchun o'qituvchidan so'ramaymiz?"
+      }
+     }
+    ],
+    "signals": [
+     {
+      "en": "shall",
+      "uz": "taklif bildirish"
+     },
+     {
+      "en": "let's",
+      "uz": "keling"
+     },
+     {
+      "en": "fancy",
+      "uz": "xohlamoq"
+     },
+     {
+      "en": "about",
+      "uz": "haqida"
+     },
+     {
+      "en": "could",
+      "uz": "mumkin"
+     }
+    ],
+    "tip": "'Do you fancy' va 'How/What about' iboralaridan keyin fe'l doimo -ing qo'shimchasi bilan kelishini unutmang (masalan: Do you fancy going...)."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "The photo shows on the right a boy.",
+    "right": "The photo shows a boy on the right.",
+    "why": "'Show' fe'lidan keyin to'g'ridan-to'g'ri obyekti kelishi kerak, joylashuv esa oxirida yoziladi."
+   },
+   {
+    "wrong": "In the picture, she is looking sad.",
+    "right": "In the photo, she looks sad.",
+    "why": "Holatni bildiruvchi fe'llar ('look', 'seem') davomiy zamonda ('is looking') ishlatilmaydi."
+   },
+   {
+    "wrong": "It must be happy because she is smiling.",
+    "right": "She must be happy because she is smiling.",
+    "why": "Odamning hissiyotini aytganda 'It must be' emas, 'She must be' ishlatiladi."
+   },
+   {
+    "wrong": "Do you fancy to go to the park?",
+    "right": "Do you fancy going to the park?",
+    "why": "'Fancy' fe'lidan keyin fe'l 'to' bilan emas, -ing qo'shimchasi bilan keladi."
+   },
+   {
+    "wrong": "What about go to the museum?",
+    "right": "What about going to the museum?",
+    "why": "'What about' va 'How about' iboralaridan keyin fe'lga -ing qo'shilishi shart."
+   },
+   {
+    "wrong": "Let's to play football.",
+    "right": "Let's play football.",
+    "why": "'Let's' so'zidan keyin 'to' ishlatilmaydi, faqat fe'lning o'zi keladi."
+   },
+   {
+    "wrong": "Why we don't eat pizza?",
+    "right": "Why don't we eat pizza?",
+    "why": "Savol tuzishda 'Why' dan keyin darhol yordamchi fe'l 'don't' kelishi kerak."
+   }
+  ]
+ }
+}

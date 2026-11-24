@@ -1,0 +1,70 @@
+{
+  "code": "U2", "kind": "unit", "unit": 2, "price": 20000,
+  "title": "Unit 2 Test",
+  "subtitle": "Countries · he / she / they · Where are you from? · numbers 11–30",
+  "sections": [
+    {
+      "title": "A. Write sentences. Use he’s, she’s, or they’re.",
+      "items": [
+        { "t": "text", "q": "Akmal / Uzbekistan", "a": ["He’s from Uzbekistan", "He is from Uzbekistan"] },
+        { "t": "text", "q": "Yuki / Japan", "a": ["She’s from Japan", "She is from Japan"], "hint": "Yuki — qiz" },
+        { "t": "text", "q": "Tom and Kate / England", "a": ["They’re from England", "They are from England"] },
+        { "t": "text", "q": "Carlos / Spain", "a": ["He’s from Spain", "He is from Spain"] },
+        { "t": "text", "q": "Anna and Ivan / Russia", "a": ["They’re from Russia", "They are from Russia"] }
+      ]
+    },
+    {
+      "title": "B. Match the questions and answers. Choose the correct answer.",
+      "items": [
+        { "t": "mc", "q": "Where are you from?", "o": ["I’m from Turkey.", "It’s in Italy.", "His name’s Ali.", "Fine, thanks."], "a": 0 },
+        { "t": "mc", "q": "What’s her name?", "o": ["She’s from Brazil.", "Her name’s Sofia.", "It’s in France.", "I’m Sofia."], "a": 1 },
+        { "t": "mc", "q": "Where’s Samarkand?", "o": ["It’s in Uzbekistan.", "They’re from Samarkand.", "He’s from Samarkand.", "Yes, it is."], "a": 0 },
+        { "t": "mc", "q": "Where are they from?", "o": ["She’s from Egypt.", "It’s in Egypt.", "They’re from Egypt.", "We’re fine."], "a": 2 },
+        { "t": "mc", "q": "What’s his name?", "o": ["His name’s Rustam.", "Her name’s Rustam.", "He’s from Rustam.", "Rustam is in Bukhara."], "a": 0 }
+      ]
+    },
+    {
+      "title": "C. Write the questions.",
+      "items": [
+        { "t": "text", "q": "______? — His name’s Diego.", "a": ["What’s his name", "What is his name"] },
+        { "t": "text", "q": "______? — She’s from Germany.", "a": ["Where’s she from", "Where is she from"] },
+        { "t": "text", "q": "______? — Her name’s Laylo.", "a": ["What’s her name", "What is her name"] },
+        { "t": "text", "q": "______? — They’re from China.", "a": ["Where are they from", "Where’re they from"] },
+        { "t": "text", "q": "______? — Paris is in France.", "a": ["Where’s Paris", "Where is Paris"] }
+      ]
+    },
+    {
+      "title": "D. Complete the sentences. Choose the correct country.",
+      "items": [
+        { "t": "mc", "q": "Moscow is in ______.", "o": ["Russia", "Spain", "Japan", "Brazil"], "a": 0 },
+        { "t": "mc", "q": "Rome is in ______.", "o": ["France", "Italy", "England", "Germany"], "a": 1 },
+        { "t": "mc", "q": "New York is in ______.", "o": ["Canada", "Australia", "the USA", "England"], "a": 2 },
+        { "t": "mc", "q": "Bukhara is in ______.", "o": ["Turkey", "Uzbekistan", "Egypt", "China"], "a": 1 },
+        { "t": "mc", "q": "Madrid is in ______.", "o": ["Spain", "Italy", "Russia", "Hungary"], "a": 0 }
+      ]
+    },
+    {
+      "title": "E. Write the numbers in words.",
+      "items": [
+        { "t": "text", "q": "12", "a": ["twelve"] },
+        { "t": "text", "q": "15", "a": ["fifteen"] },
+        { "t": "text", "q": "18", "a": ["eighteen"] },
+        { "t": "text", "q": "20", "a": ["twenty"] },
+        { "t": "text", "q": "23", "a": ["twenty-three", "twenty three"] },
+        { "t": "text", "q": "30", "a": ["thirty"] }
+      ]
+    },
+    {
+      "title": "F. Read the text and answer the questions.",
+      "passage": "Hello! My name’s Jasur and I’m from Tashkent. It’s the capital of Uzbekistan. I’m a student. This is my friend Emma. She’s from London, in England. Her school is in London too. This is Pedro. He’s from Brazil. His hospital is in São Paulo. We are friends on the internet.",
+      "items": [
+        { "t": "text", "q": "Where is Jasur from?", "a": ["Tashkent", "He’s from Tashkent", "He is from Tashkent", "from Tashkent", "Uzbekistan"] },
+        { "t": "text", "q": "What’s his friend’s name?", "a": ["Emma", "Her name’s Emma", "Her name is Emma"] },
+        { "t": "text", "q": "Where’s Emma’s school?", "a": ["London", "in London", "It’s in London", "It is in London"] },
+        { "t": "text", "q": "Where’s Pedro from?", "a": ["Brazil", "He’s from Brazil", "He is from Brazil", "from Brazil"] },
+        { "t": "tf", "q": "Jasur is a doctor.", "a": false },
+        { "t": "tf", "q": "Pedro’s hospital is in São Paulo.", "a": true }
+      ]
+    }
+  ]
+}

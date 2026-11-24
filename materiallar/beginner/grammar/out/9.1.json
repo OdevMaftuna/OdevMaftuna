@@ -1,0 +1,1191 @@
+{
+ "code": "9.1",
+ "intro": {
+  "what": "Was/were — bu 'to be' (bo'lmoq) fe'lining o'tgan zamon shakli bo'lib, o'tgan zamondagi holat, sifat yoki joylashuvni bildirish uchun ishlatiladi.",
+  "when": [
+   "O'tmishdagi holat yoki sifatni tasvirlashda (masalan: Men charchagan edim).",
+   "O'tmishda biror joyda bo'lganlikni aytishda (masalan: Ular kecha maktabda edilar).",
+   "Tug'ilgan yil yoki joyni aytishda ('born' so'zi bilan).",
+   "O'tmishdagi kasb yoki ismni aytishda."
+  ],
+  "structures": [
+   {
+    "label": "(+)",
+    "formula": "[ S + was/were + OB ]",
+    "example_en": "I was at home yesterday.",
+    "example_uz": "Men kecha uyda edim."
+   },
+   {
+    "label": "(-)",
+    "formula": "[ S + wasn't/weren't + OB ]",
+    "example_en": "They weren't at school.",
+    "example_uz": "Ular maktabda emasdilar."
+   },
+   {
+    "label": "(?)",
+    "formula": "[ Was/Were + S + OB? ]",
+    "example_en": "Was she a doctor?",
+    "example_uz": "U shifokor bo'lganmi?"
+   },
+   {
+    "label": "Wh-",
+    "formula": "[ Wh-word + was/were + S + OB? ]",
+    "example_en": "Where were you born?",
+    "example_uz": "Siz qayerda tug'ilgansiz?"
+   },
+   {
+    "label": "Qisqa javob",
+    "formula": "Yes, I was. / No, I wasn't.",
+    "example_en": "Were you tired? Yes, I was.",
+    "example_uz": "Charchaganmidingiz? Ha."
+   }
+  ],
+  "rules": [
+   {
+    "title": "Ega bilan moslashish",
+    "text": "Birlikdagi egalar (I, he, she, it) bilan 'was', ko'plikdagi egalar (we, you, they) bilan 'were' ishlatiladi.",
+    "examples": [
+     {
+      "en": "He was a student.",
+      "uz": "U talaba edi."
+     },
+     {
+      "en": "We were happy.",
+      "uz": "Biz baxtli edik."
+     }
+    ]
+   },
+   {
+    "title": "Inkor shakli",
+    "text": "Inkor gaplarda 'not' yuklamasi qo'shiladi va ko'pincha wasn't yoki weren't shaklida qisqartiriladi.",
+    "examples": [
+     {
+      "en": "It wasn't cold.",
+      "uz": "Sovuq emas edi."
+     },
+     {
+      "en": "You weren't late.",
+      "uz": "Siz kechikmadingiz."
+     }
+    ]
+   }
+  ],
+  "signal_words": [
+   {
+    "en": "Yesterday",
+    "uz": "Kecha"
+   },
+   {
+    "en": "Last night",
+    "uz": "Kecha oqshom"
+   },
+   {
+    "en": "Last week",
+    "uz": "O'tgan hafta"
+   },
+   {
+    "en": "Last year",
+    "uz": "O'tgan yili"
+   },
+   {
+    "en": "Two days ago",
+    "uz": "Ikki kun oldin"
+   },
+   {
+    "en": "In 1995",
+    "uz": "1995-yilda"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I were at home.",
+    "right": "I was at home.",
+    "why": "'I' olmoshi bilan har doim 'was' ishlatiladi."
+   },
+   {
+    "wrong": "Where you were yesterday?",
+    "right": "Where were you yesterday?",
+    "why": "So'roq gaplarda 'was/were' egadan oldinga o'tishi kerak."
+   },
+   {
+    "wrong": "They was tired.",
+    "right": "They were tired.",
+    "why": "Ko'plikdagi egalar (they) bilan 'were' ishlatilishi shart."
+   }
+  ]
+ },
+ "test": [
+  {
+   "type": "fill",
+   "q": "I ______ at school yesterday.",
+   "answer": "was",
+   "explain": "I (men) birlikda bo'lgani uchun 'was' ishlatiladi.",
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "They ______ in London last year.",
+   "answer": "were",
+   "explain": "They (ular) ko'plikda bo'lgani uchun 'were' ishlatiladi.",
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "She ______ not at home last night.",
+   "answer": "was",
+   "explain": "She (u - qiz bola) birlikda bo'lgani uchun 'was' ishlatiladi.",
+   "accept": [
+    "wasn't"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "______ you at the party yesterday?",
+   "answer": "Were",
+   "explain": "You (siz) bilan so'roq gapda 'Were' gap boshida keladi.",
+   "hint": "was / were"
+  },
+  {
+   "type": "fill",
+   "q": "Where ______ he born?",
+   "answer": "was",
+   "explain": "He (u) birlikda bo'lgani uchun so'roq gapda 'was' ishlatiladi.",
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "We ______ very tired after the lesson.",
+   "answer": "were",
+   "explain": "We (biz) ko'plikda bo'lgani uchun 'were' ishlatiladi.",
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "It ______ a beautiful day yesterday.",
+   "answer": "was",
+   "explain": "It (u - jonsiz) birlikda bo'lgani uchun 'was' ishlatiladi.",
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "My parents ______ born in Uzbekistan.",
+   "answer": "were",
+   "explain": "Parents (ota-ona) ko'plikda bo'lgani uchun 'were' ishlatiladi.",
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "I ______ born in 2005.",
+   "answer": "was",
+   "explain": "Tug'ilgan yilni aytishda 'I' bilan 'was' ishlatiladi.",
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "You ______ late for the bus this morning.",
+   "answer": "were",
+   "explain": "You (siz) bilan har doim 'were' ishlatiladi.",
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "The coffee ______ cold.",
+   "answer": "was",
+   "explain": "Coffee sanalmaydigan ot va birlik hisoblanadi, shuning uchun 'was' ishlatiladi.",
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "The children ______ in the park.",
+   "answer": "were",
+   "explain": "Children (bolalar) ko'plikda bo'lgani uchun 'were' ishlatiladi.",
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "______ it hot in Italy last summer?",
+   "answer": "Was",
+   "explain": "It (u) bilan so'roq gapda 'Was' gap boshida keladi.",
+   "hint": "was / were"
+  },
+  {
+   "type": "fill",
+   "q": "My friend ______ at the cinema yesterday.",
+   "answer": "was",
+   "explain": "My friend (mening do'stim) birlikda bo'lgani uchun 'was' ishlatiladi.",
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "We ______ not in the office on Sunday.",
+   "answer": "were",
+   "explain": "We (biz) bilan inkor gapda 'were not' yoki 'weren't' ishlatiladi.",
+   "accept": [
+    "weren't"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "When ______ your birthday?",
+   "answer": "was",
+   "explain": "Birthday (tug'ilgan kun) birlikda bo'lgani uchun 'was' ishlatiladi.",
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "Why ______ they sad yesterday evening?",
+   "answer": "were",
+   "explain": "They (ular) bilan so'roq gapda 'were' ishlatiladi.",
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "Tom ______ a good student at school.",
+   "answer": "was",
+   "explain": "Tom (u) birlikda bo'lgani uchun 'was' ishlatiladi.",
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "The hotel ______ very big and beautiful.",
+   "answer": "was",
+   "explain": "Hotel (mehmonxona) birlikda bo'lgani uchun 'was' ishlatiladi.",
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "______ you born in Tashkent?",
+   "answer": "Were",
+   "explain": "You (siz) bilan so'roq gapda 'Were' ishlatiladi.",
+   "hint": "was / were"
+  },
+  {
+   "type": "mc",
+   "q": "Where ______ you yesterday morning?",
+   "answer": "were",
+   "explain": "You bilan o'tgan zamonda 'were' ishlatiladi.",
+   "options": [
+    "was",
+    "were",
+    "am"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "I ______ at work at 10 o'clock.",
+   "answer": "was",
+   "explain": "I bilan o'tgan zamonda 'was' ishlatiladi.",
+   "options": [
+    "was",
+    "were",
+    "is"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "\"Was she at home?\" \"No, she ______.\"",
+   "answer": "wasn't",
+   "explain": "She bilan inkor javobda 'wasn't' ishlatiladi.",
+   "options": [
+    "wasn't",
+    "weren't",
+    "isn't"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "My brothers ______ in the garden.",
+   "answer": "were",
+   "explain": "Brothers (akalar) ko'plikda bo'lgani uchun 'were' ishlatiladi.",
+   "options": [
+    "was",
+    "were",
+    "are"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "It ______ a very interesting film.",
+   "answer": "was",
+   "explain": "It bilan birlikda 'was' ishlatiladi.",
+   "options": [
+    "was",
+    "were",
+    "am"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "\"Were they happy?\" \"Yes, they ______.\"",
+   "answer": "were",
+   "explain": "They bilan qisqa tasdiq javobda 'were' ishlatiladi.",
+   "options": [
+    "was",
+    "were",
+    "did"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Who ______ your first teacher?",
+   "answer": "was",
+   "explain": "Teacher (o'qituvchi) birlikda bo'lgani uchun 'was' ishlatiladi.",
+   "options": [
+    "was",
+    "were",
+    "is"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "We ______ in the mountains last weekend.",
+   "answer": "were",
+   "explain": "We bilan ko'plikda 'were' ishlatiladi.",
+   "options": [
+    "was",
+    "were",
+    "are"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "The shops ______ closed on Sunday.",
+   "answer": "were",
+   "explain": "Shops (do'konlar) ko'plikda bo'lgani uchun 'were' ishlatiladi.",
+   "options": [
+    "was",
+    "were",
+    "is"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ he a famous actor?",
+   "answer": "Was",
+   "explain": "He bilan so'roq gapda 'Was' gap boshida keladi.",
+   "options": [
+    "Was",
+    "Were",
+    "Is"
+   ]
+  }
+ ],
+ "model": "gemini-3-flash-preview",
+ "tr1": [
+  {
+   "part": 0,
+   "uz": "Men kecha uyda edim.",
+   "en": [
+    "I was at home yesterday."
+   ],
+   "rule": "I bilan was ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Sen kecha juda charchagan eding.",
+   "en": [
+    "You were very tired yesterday."
+   ],
+   "rule": "You bilan were ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U o'tgan yili Londonda edi.",
+   "en": [
+    "He was in London last year."
+   ],
+   "rule": "He bilan was ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U o'tgan hafta xafa edi.",
+   "en": [
+    "She was sad last week."
+   ],
+   "rule": "She bilan was ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Biz kecha restoranda edik.",
+   "en": [
+    "We were in the restaurant yesterday."
+   ],
+   "rule": "We bilan were ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular o'tgan yakshanba kuni band edilar.",
+   "en": [
+    "They were busy last Sunday."
+   ],
+   "rule": "They bilan were ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Kitob stol ustida edi.",
+   "en": [
+    "The book was on the table.",
+    "The book was on the desk."
+   ],
+   "rule": "Birlikdagi narsa uchun was ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Mashinalar avtoturargohda edi.",
+   "en": [
+    "The cars were in the car park."
+   ],
+   "rule": "Ko'plikdagi narsalar uchun were ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Men 1995-yilda tug'ilganman.",
+   "en": [
+    "I was born in 1995."
+   ],
+   "rule": "Tug'ilganlik haqida was born ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Tom kecha maktabda edi.",
+   "en": [
+    "Tom was at school yesterday."
+   ],
+   "rule": "Ism bilan was ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Mening oilam o'tgan yili Amerikada edi.",
+   "en": [
+    "My family was in America last year."
+   ],
+   "rule": "Family birlik hisoblanib was oladi."
+  },
+  {
+   "part": 0,
+   "uz": "Kecha havo juda chiroyli edi.",
+   "en": [
+    "The weather was very beautiful yesterday."
+   ],
+   "rule": "Ob-havo bilan was ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular o'tgan yili talaba edilar.",
+   "en": [
+    "They were students last year."
+   ],
+   "rule": "They bilan were ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Akam kecha ishda edi.",
+   "en": [
+    "My brother was at work yesterday."
+   ],
+   "rule": "My brother (he) bilan was ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Biz o'tgan oy Irlandiyada edik.",
+   "en": [
+    "We were in Ireland last month."
+   ],
+   "rule": "We bilan were ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu kofe juda issiq edi.",
+   "en": [
+    "This coffee was very hot."
+   ],
+   "rule": "This bilan was ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Sinfxonada o'nta talaba bor edi.",
+   "en": [
+    "There were ten students in the classroom."
+   ],
+   "rule": "There were ko'plik uchun ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Stol ustida bitta olma bor edi.",
+   "en": [
+    "There was an apple on the table."
+   ],
+   "rule": "There was birlik uchun ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Sen o'tgan yili yigirma yoshda eding.",
+   "en": [
+    "You were twenty years old last year."
+   ],
+   "rule": "Yosh aytishda were ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Kecha dushanba edi.",
+   "en": [
+    "Yesterday was Monday."
+   ],
+   "rule": "Kunlar bilan was ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Men o'tgan hafta Toshkentda edim.",
+   "en": [
+    "I was in Tashkent last week."
+   ],
+   "rule": "I bilan was ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular kecha juda xursand edilar.",
+   "en": [
+    "They were very happy yesterday."
+   ],
+   "rule": "They bilan were ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Kecha havo sovuq edi.",
+   "en": [
+    "It was cold yesterday."
+   ],
+   "rule": "It bilan was ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Mening do'stlarim kecha kinoda edilar.",
+   "en": [
+    "My friends were at the cinema yesterday."
+   ],
+   "rule": "My friends (they) uchun were ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu film juda qiziqarli edi.",
+   "en": [
+    "This film was very interesting."
+   ],
+   "rule": "Birlikdagi narsa uchun was ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U o'tgan yili o'qituvchi edi.",
+   "en": [
+    "He was a teacher last year."
+   ],
+   "rule": "He bilan was ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Biz kecha soat oltida uyda edik.",
+   "en": [
+    "We were at home at six o'clock yesterday."
+   ],
+   "rule": "We bilan were ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Sumka eshik yonida edi.",
+   "en": [
+    "The bag was next to the door."
+   ],
+   "rule": "Birlikdagi narsa uchun was ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular o'tgan hafta ta'tilda edilar.",
+   "en": [
+    "They were on holiday last week."
+   ],
+   "rule": "They bilan were ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Men o'tgan yili talaba edim.",
+   "en": [
+    "I was a student last year."
+   ],
+   "rule": "I bilan was ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Mehmonxona juda katta edi.",
+   "en": [
+    "The hotel was very big."
+   ],
+   "rule": "Birlikdagi narsa uchun was ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Biz kecha plyajda edik.",
+   "en": [
+    "We were on the beach yesterday."
+   ],
+   "rule": "We bilan were ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U o'tgan yili o'n sakkiz yoshda edi.",
+   "en": [
+    "She was eighteen years old last year."
+   ],
+   "rule": "She bilan was ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Kecha juda ajoyib kun edi.",
+   "en": [
+    "Yesterday was a wonderful day."
+   ],
+   "rule": "Birlikda was ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular o'tgan yili Kanadada edilar.",
+   "en": [
+    "They were in Canada last year."
+   ],
+   "rule": "They bilan were ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Kompyuter yangi edi.",
+   "en": [
+    "The computer was new."
+   ],
+   "rule": "Birlikdagi narsa uchun was ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Biz kecha soat sakkizda band edik.",
+   "en": [
+    "We were busy at eight o'clock yesterday."
+   ],
+   "rule": "We bilan were ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu rasm juda chiroyli edi.",
+   "en": [
+    "This photograph was very beautiful."
+   ],
+   "rule": "This bilan was ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Mening opam o'tgan yili Londonda edi.",
+   "en": [
+    "My sister was in London last year."
+   ],
+   "rule": "My sister (she) bilan was ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Talabalar kecha bazmda edilar.",
+   "en": [
+    "The students were at the party yesterday."
+   ],
+   "rule": "Ko'plik uchun were ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Men kecha band emasdim.",
+   "en": [
+    "I wasn't busy yesterday.",
+    "I was not busy yesterday."
+   ],
+   "rule": "I bilan wasn't ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular o'tgan yili talaba emasdilar.",
+   "en": [
+    "They weren't students last year.",
+    "They were not students last year."
+   ],
+   "rule": "They bilan weren't ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Kecha havo issiq emas edi.",
+   "en": [
+    "It wasn't hot yesterday.",
+    "The weather wasn't hot yesterday."
+   ],
+   "rule": "It bilan wasn't ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Biz kecha maktabda emasdik.",
+   "en": [
+    "We weren't at school yesterday.",
+    "We were not at school yesterday."
+   ],
+   "rule": "We bilan weren't ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "U o'tgan hafta ishda emas edi.",
+   "en": [
+    "He wasn't at work last week.",
+    "He was not at work last week."
+   ],
+   "rule": "He bilan wasn't ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Kitoblar stol ustida emas edi.",
+   "en": [
+    "The books weren't on the table.",
+    "The books were not on the table."
+   ],
+   "rule": "Ko'plikda weren't ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Sen kecha uyda emasding.",
+   "en": [
+    "You weren't at home yesterday.",
+    "You were not at home yesterday."
+   ],
+   "rule": "You bilan weren't ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "U kecha xursand emas edi.",
+   "en": [
+    "She wasn't happy yesterday.",
+    "She was not happy yesterday."
+   ],
+   "rule": "She bilan wasn't ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu mashina qimmat emas edi.",
+   "en": [
+    "This car wasn't expensive.",
+    "This car was not expensive."
+   ],
+   "rule": "Birlikda wasn't ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Biz o'tgan yili o'n yoshda emasdik.",
+   "en": [
+    "We weren't ten years old last year.",
+    "We were not ten years old last year."
+   ],
+   "rule": "We bilan weren't ishlatiladi."
+  }
+ ],
+ "tr51": [
+  {
+   "part": 1,
+   "uz": "Men kecha maktabda emas edim.",
+   "en": [
+    "I wasn't at school yesterday."
+   ],
+   "rule": "Inkor: I + wasn't (was not)"
+  },
+  {
+   "part": 1,
+   "uz": "U (o'g'il) o'tgan yili shifokor emas edi.",
+   "en": [
+    "He wasn't a doctor last year."
+   ],
+   "rule": "Inkor: He + wasn't"
+  },
+  {
+   "part": 1,
+   "uz": "Ob-havo kecha quyoshli emas edi.",
+   "en": [
+    "The weather wasn't sunny yesterday."
+   ],
+   "rule": "Inkor: It / The weather + wasn't"
+  },
+  {
+   "part": 1,
+   "uz": "Biz o'tgan dushanba kuni band emas edik.",
+   "en": [
+    "We weren't busy last Monday."
+   ],
+   "rule": "Inkor: We + weren't (were not)"
+  },
+  {
+   "part": 1,
+   "uz": "Ular kecha uyda emas edilar.",
+   "en": [
+    "They weren't at home yesterday."
+   ],
+   "rule": "Inkor: They + weren't"
+  },
+  {
+   "part": 1,
+   "uz": "Mening do'stim o'tgan hafta charchagan emas edi.",
+   "en": [
+    "My friend wasn't tired last week."
+   ],
+   "rule": "Inkor: My friend (he/she) + wasn't"
+  },
+  {
+   "part": 1,
+   "uz": "Bu kitob qimmat emas edi.",
+   "en": [
+    "This book wasn't expensive."
+   ],
+   "rule": "Inkor: This book (it) + wasn't"
+  },
+  {
+   "part": 1,
+   "uz": "Bolalar kecha bog'da emas edilar.",
+   "en": [
+    "The children weren't in the park yesterday."
+   ],
+   "rule": "Inkor: Plural (bolalar) + weren't"
+  },
+  {
+   "part": 1,
+   "uz": "Men 1990-yilda Londonda emas edim.",
+   "en": [
+    "I wasn't in London in 1990."
+   ],
+   "rule": "Yillar bilan 'in' ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "U (qiz) o'tgan yili talaba emas edi.",
+   "en": [
+    "She wasn't a student last year."
+   ],
+   "rule": "Inkor: She + wasn't"
+  },
+  {
+   "part": 1,
+   "uz": "Bizning mashinamiz kecha bu yerda emas edi.",
+   "en": [
+    "Our car wasn't here yesterday."
+   ],
+   "rule": "Inkor: Our car (it) + wasn't"
+  },
+  {
+   "part": 1,
+   "uz": "Kecha havo issiq emas edi.",
+   "en": [
+    "It wasn't hot yesterday."
+   ],
+   "rule": "Havo haqida: It + wasn't"
+  },
+  {
+   "part": 1,
+   "uz": "Siz o'tgan yakshanba kuni ishda emas edingiz.",
+   "en": [
+    "You weren't at work last Sunday."
+   ],
+   "rule": "Inkor: You + weren't"
+  },
+  {
+   "part": 1,
+   "uz": "Bu mehmonxona yaxshi emas edi.",
+   "en": [
+    "This hotel wasn't good."
+   ],
+   "rule": "Inkor: This hotel (it) + wasn't"
+  },
+  {
+   "part": 1,
+   "uz": "Mening ota-onam kecha kinoda emas edilar.",
+   "en": [
+    "My parents weren't at the cinema yesterday."
+   ],
+   "rule": "Inkor: My parents (they) + weren't"
+  },
+  {
+   "part": 1,
+   "uz": "Choy mazali emas edi.",
+   "en": [
+    "The tea wasn't delicious."
+   ],
+   "rule": "Inkor: The tea (it) + wasn't"
+  },
+  {
+   "part": 1,
+   "uz": "U (o'g'il) o'tgan yili Kanadada emas edi.",
+   "en": [
+    "He wasn't in Canada last year."
+   ],
+   "rule": "Inkor: He + wasn't"
+  },
+  {
+   "part": 1,
+   "uz": "Do'konlar kecha gavjum emas edi.",
+   "en": [
+    "The shops weren't busy yesterday."
+   ],
+   "rule": "Inkor: Plural (shops) + weren't"
+  },
+  {
+   "part": 1,
+   "uz": "Men kecha charchagan emas edim.",
+   "en": [
+    "I wasn't tired yesterday."
+   ],
+   "rule": "Inkor: I + wasn't"
+  },
+  {
+   "part": 1,
+   "uz": "Bu film qiziqarli emas edi.",
+   "en": [
+    "This film wasn't interesting."
+   ],
+   "rule": "Inkor: This film (it) + wasn't"
+  },
+  {
+   "part": 2,
+   "uz": "Siz kecha qayerda edingiz?",
+   "en": [
+    "Where were you yesterday?"
+   ],
+   "rule": "So'roq so'zi: Where + were + you?"
+  },
+  {
+   "part": 2,
+   "uz": "U (o'g'il) o'tgan yili necha yoshda edi?",
+   "en": [
+    "How old was he last year?"
+   ],
+   "rule": "So'roq: How old + was + he?"
+  },
+  {
+   "part": 2,
+   "uz": "Siz kecha band edingizmi? Ha.",
+   "en": [
+    "Were you busy yesterday? Yes, I was."
+   ],
+   "rule": "Qisqa javob: Yes, I was."
+  },
+  {
+   "part": 2,
+   "uz": "U (qiz) o'tgan hafta Londondami edi? Yo'q.",
+   "en": [
+    "Was she in London last week? No, she wasn't."
+   ],
+   "rule": "Qisqa javob: No, she wasn't."
+  },
+  {
+   "part": 2,
+   "uz": "Ota-onangiz qayerda tug'ilgan?",
+   "en": [
+    "Where were your parents born?"
+   ],
+   "rule": "Born bilan 'were' (ko'plikda)."
+  },
+  {
+   "part": 2,
+   "uz": "Dars qiziqarli edimi? Yo'q.",
+   "en": [
+    "Was the lesson interesting? No, it wasn't."
+   ],
+   "rule": "Inkor qisqa javob: No, it wasn't."
+  },
+  {
+   "part": 2,
+   "uz": "Kecha havo sovuq edimi? Ha.",
+   "en": [
+    "Was it cold yesterday? Yes, it was."
+   ],
+   "rule": "Havo haqida so'roq: Was it...?"
+  },
+  {
+   "part": 2,
+   "uz": "Ular kecha uyda edilarmi? Ha.",
+   "en": [
+    "Were they at home yesterday? Yes, they were."
+   ],
+   "rule": "Tasdiq qisqa javob: Yes, they were."
+  },
+  {
+   "part": 2,
+   "uz": "Sizning tug'ilgan kuningiz qachon edi?",
+   "en": [
+    "When was your birthday?"
+   ],
+   "rule": "So'roq so'zi: When + was + birthday?"
+  },
+  {
+   "part": 2,
+   "uz": "Aziz kecha qayerda edi?",
+   "en": [
+    "Where was Aziz yesterday?"
+   ],
+   "rule": "So'roq: Where + was + ism?"
+  },
+  {
+   "part": 2,
+   "uz": "Mehmonxona qimmat edimi? Yo'q.",
+   "en": [
+    "Was the hotel expensive? No, it wasn't."
+   ],
+   "rule": "So'roq: Was + the hotel...?"
+  },
+  {
+   "part": 2,
+   "uz": "Siz 2005-yilda qayerda edingiz?",
+   "en": [
+    "Where were you in 2005?"
+   ],
+   "rule": "So'roq: Where + were + you?"
+  },
+  {
+   "part": 2,
+   "uz": "U (o'g'il) o'tgan yili o'qituvchi edimi? Ha.",
+   "en": [
+    "Was he a teacher last year? Yes, he was."
+   ],
+   "rule": "Kasb haqida so'roq: Was he...?"
+  },
+  {
+   "part": 2,
+   "uz": "Bolalar bog'da edilarmi? Yo'q.",
+   "en": [
+    "Were the children in the park? No, they weren't."
+   ],
+   "rule": "Ko'plikda so'roq: Were + bolalar?"
+  },
+  {
+   "part": 2,
+   "uz": "Malika kecha charchagan edimi? Ha.",
+   "en": [
+    "Was Malika tired yesterday? Yes, she was."
+   ],
+   "rule": "Ism bilan so'roq: Was + Malika?"
+  },
+  {
+   "part": 2,
+   "uz": "Siz kecha soat sakkizda qayerda edingiz?",
+   "en": [
+    "Where were you at eight o'clock yesterday?"
+   ],
+   "rule": "Vaqt bilan 'at' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Kitoblar stol ustidami edi? Yo'q.",
+   "en": [
+    "Were the books on the desk? No, they weren't."
+   ],
+   "rule": "Ko'plikda so'roq: Were + kitoblar?"
+  },
+  {
+   "part": 2,
+   "uz": "U (qiz) o'tgan yili necha yoshda edi?",
+   "en": [
+    "How old was she last year?"
+   ],
+   "rule": "Yosh haqida: How old + was...?"
+  },
+  {
+   "part": 2,
+   "uz": "Ovqat mazali edimi? Ha.",
+   "en": [
+    "Was the food delicious? Yes, it was."
+   ],
+   "rule": "So'roq: Was + the food...?"
+  },
+  {
+   "part": 2,
+   "uz": "Tom va Anna kecha partiyada edilarmi? Yo'q.",
+   "en": [
+    "Were Tom and Anna at the party yesterday? No, they weren't."
+   ],
+   "rule": "Ikki kishi (they): Were...?"
+  },
+  {
+   "part": 2,
+   "uz": "Siz o'tgan yili qayerda edingiz?",
+   "en": [
+    "Where were you last year?"
+   ],
+   "rule": "O'tgan yil: last year."
+  },
+  {
+   "part": 2,
+   "uz": "Mashina yangi edimi? Ha.",
+   "en": [
+    "Was the car new? Yes, it was."
+   ],
+   "rule": "Narsa haqida: Was + the car...?"
+  },
+  {
+   "part": 2,
+   "uz": "Siz qachon tug'ilgansiz?",
+   "en": [
+    "When were you born?"
+   ],
+   "rule": "Siz haqingizda: When were you born?"
+  },
+  {
+   "part": 2,
+   "uz": "U (o'g'il) kecha ishda edimi? Yo'q.",
+   "en": [
+    "Was he at work yesterday? No, he wasn't."
+   ],
+   "rule": "Ishda: at work."
+  },
+  {
+   "part": 2,
+   "uz": "O'tgan yili havo issiq edimi? Ha.",
+   "en": [
+    "Was the weather hot last year? Yes, it was."
+   ],
+   "rule": "Ob-havo: Was the weather...?"
+  },
+  {
+   "part": 2,
+   "uz": "Sizning birinchi o'qituvchingiz kim edi?",
+   "en": [
+    "Who was your first teacher?"
+   ],
+   "rule": "Kim: Who + was...?"
+  },
+  {
+   "part": 2,
+   "uz": "Ular kecha vokzalda edilarmi?",
+   "en": [
+    "Were they at the station yesterday?"
+   ],
+   "rule": "Vokzalda: at the station."
+  },
+  {
+   "part": 2,
+   "uz": "Siz o'tgan yakshanba kuni qayerda edingiz?",
+   "en": [
+    "Where were you last Sunday?"
+   ],
+   "rule": "So'roq: Where + were + you?"
+  },
+  {
+   "part": 2,
+   "uz": "Bu film yaxshi edimi? Yo'q.",
+   "en": [
+    "Was this film good? No, it wasn't."
+   ],
+   "rule": "Film (it): Was...?"
+  },
+  {
+   "part": 2,
+   "uz": "Siz kecha baxtli edingizmi? Ha.",
+   "en": [
+    "Were you happy yesterday? Yes, I was."
+   ],
+   "rule": "Siz haqda: Were you...?"
+  }
+ ]
+}

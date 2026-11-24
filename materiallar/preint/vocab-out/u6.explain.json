@@ -1,0 +1,682 @@
+[
+ {
+  "why": "«ruin» — xaroba, vayrona. Gapda «broken old walls left from a very ancient civilization» bor, bu eski vayronalarni bildiradi.",
+  "wrong": {
+   "castle": "«castle» — qasr; bu yerda butun qasr emas, vayron bo'lgan devorlar haqida gap ketmoqda.",
+   "monument": "«monument» — yodgorlik; bu tarixiy xarobalarga mos kelmaydi.",
+   "temple": "«temple» — ibodatxona; gapdagi tasvirga ko'ra bu shunchaki ibodatxona emas."
+  }
+ },
+ {
+  "why": "«art gallery» — badiiy galereya. Gapda «old paintings and modern sculptures» bor, ular galereyada saqlanadi.",
+  "wrong": {
+   "museum": "«museum» — muzey; rasmlar va haykallar ko'rgazmasi uchun ko'proq galereya to'g'ri keladi.",
+   "theatre": "«theatre» — teatr; bu yerda tomoshalar emas, san'at asarlari ko'rsatilmoqda.",
+   "opera house": "«opera house» — opera binosi; bu yerda musiqa emas, tasviriy san'at asarlari bor."
+  }
+ },
+ {
+  "why": "«botanical gardens» — botanika bog'i. Gapda «trees and green plants of the enormous glass greenhouse» bor, bu botanika bog'iga xos.",
+  "wrong": {
+   "national park": "«national park» — milliy bog'; bu yerda katta shina ichidagi issiqxona haqida gap bormoqda.",
+   "park": "«park» — oddiy istirohat bog'i; shisha issiqxonalar asosan botanika bog'ida bo'ladi.",
+   "safari park": "«safari park» — hayvonlar safari parki; bu yerda o'simliklar haqida so'z bormoqda."
+  }
+ },
+ {
+  "why": "«backpack» — ryukzak, tirkama sumka. Gapda «carried on my back» va «clothes and heavy books» bor, bu orqada ko'tariladigan sumkani bildiradi.",
+  "wrong": {
+   "hand luggage": "«hand luggage» — qo'l yuki; bu orqaga osiladigan sumka emas.",
+   "bag drop": "«bag drop» — yuk topshirish joyi; bu buyum emas.",
+   "boarding pass": "«boarding pass» — samolyotga chiqish talonidir; kiyim va kitoblar unga sig'maydi."
+  }
+ },
+ {
+  "why": "«baggage carousel» — yuk lentalari. Gapda «moving rubber belt» va «collect their suitcases» bor, bu chamadonlar keladigan lentalarni ko'rsatadi.",
+  "wrong": {
+   "departure lounge": "«departure lounge» — uchish zali; u yerda yuklar berilmaydi.",
+   "boarding pass": "«boarding pass» — chiqish taloni; bu harakatlanuvchi lenta emas.",
+   "flight number": "«flight number» — reys raqami; bu jismoniy narsa emas."
+  }
+ },
+ {
+  "why": "«boarding pass» — samolyotga chiqish taloni. Gapda «allowed me to enter the airplane» bor, bu talonni bildiradi.",
+  "wrong": {
+   "passport control": "«passport control» — pasport nazorati; bu qog'oz bo'lagi emas.",
+   "seat belt": "«seat belt» — xavfsizlik kamari; bu samolyotga kirishga ruxsat bermaydi.",
+   "flight number": "«flight number» — reys raqami; bu qog'oz emas."
+  }
+ },
+ {
+  "why": "«boat trip» — qayiqda sayohat. Gapda «small vessel moving slowly across the blue lake water» bor, bu suvda qayiqda sayohat qilishni anglatadi.",
+  "wrong": {
+   "kayaking": "«kayaking» — baydarkada suzish; bu sayohat qilishdan ko'ra sport turidir.",
+   "mountain biking": "«mountain biking» — tog'da velosipedda yurish; bu ko'lda bajarilmaydi.",
+   "abseilling": "«abseilling» — arqonda pastga tushish; bu suv bilan bog'liq emas."
+  }
+ },
+ {
+  "why": "«cabin crew» — ekipaj a'zolari. Gapda «while flying to London» va «brought us delicious meals» bor, bu xizmat ko'rsatuvchi ekipajni bildiradi.",
+  "wrong": {
+   "flight attendant": "«flight attendant» — styuardessa; gapda «brought» (ko'plikda) deyilgan, ya'ni bir nechta xodim nazarda tutilgan.",
+   "travel guide": "«travel guide» — sayohat gid; bu samolyotda xizmat qilmaydi.",
+   "penpal": "«penpal» — maktub yozishuvchi do'st; bu kasb emas."
+  }
+ },
+ {
+  "why": "«castle» — qasr, qal'a. Gapda «old royal stone fortress on the hilltop» bor, bu qasrni bildiradi.",
+  "wrong": {
+   "palace": "«palace» — saroy; bu yerda mudofaa devorlari bor qadimiy qal'a haqida gap bormoqda.",
+   "tower": "«tower» — minora; bu butun boshli qal'ani to'liq tavsiflamaydi.",
+   "cathedral": "«cathedral» — sobor; bu diniy bino, qirollik qal'asi emas."
+  }
+ },
+ {
+  "why": "«cathedral» — sobor, katta cherkov. Gapda «Christian church» va «stained-glass windows» bor, bu sobor ekanini ko'rsatadi.",
+  "wrong": {
+   "mosque": "«mosque» — masjid; gapda nasroniylar cherkovi haqida aytilgan.",
+   "temple": "«temple» — ibodatxona; bu xristian diniga xos emas.",
+   "monument": "«monument» — yodgorlik; bu ibodat qilinadigan bino emas."
+  }
+ },
+ {
+  "why": "«departure lounge» — uchish zali. Gapda «full of comfortable seats where passengers waited» bor, bu yo'lovchilar kutadigan zalni bildiradi.",
+  "wrong": {
+   "baggage carousel": "«baggage carousel» — yuk lentasi; u yerda o'rindiqlar bo'lmaydi.",
+   "security check": "«security check» — xavfsizlik tekshiruvi; bu kutish zali emas.",
+   "passport control": "«passport control» — pasport nazorati; bu o'tirib kutadigan joy emas."
+  }
+ },
+ {
+  "why": "«disappointing» — ko'ngilsiz, hafsalani pir qiluvchi. Gapda «very dark, smelled of old carpet, and had a terrible view» bor, bu yomon holatni bildiradi.",
+  "wrong": {
+   "beautiful": "«beautiful» — chiroyli; xona qorong'i va hidi yomon bo'lsa, u chiroyli bo'la olmaydi.",
+   "romantic": "«romantic» — romantik; yomon hidsiz va yaxshi ko'rinishli xonalar romantik bo'ladi.",
+   "historic": "«historic» — tarixiy; bu xonaning yomon holatini tushuntirmaydi."
+  }
+ },
+ {
+  "why": "«double room» — ikki kishilik xona. Gapda «large bed for two adults» bor, bu ikkita kattalar uchun mo'ljallangan.",
+  "wrong": {
+   "single room": "«single room» — bir kishilik xona; bu yerda ikki kattalar uchun deyilgan.",
+   "full board": "«full board» — uch mahal ovqatlanish xizmati; bu yotoqxonaga taalluqli emas.",
+   "half board": "«half board» — yarim pansion ovqatlanish; bu xona turi emas."
+  }
+ },
+ {
+  "why": "«economy class» — ekonom klass. Gapda «standard rows near the back of the aircraft where the seats were smaller» bor, bu ekonom klassni bildiradi.",
+  "wrong": {
+   "window seat": "«window seat» — deraza yonidagi o'rindiq; bu butun klassni anglatmaydi.",
+   "hand luggage": "«hand luggage» — qo'l yuki; bu o'tiradigan joy emas.",
+   "boarding pass": "«boarding pass» — chiqish taloni; bu joylashuv sinfi emas."
+  }
+ },
+ {
+  "why": "«expensive» — qimmat. Gapda «extremely high because it was located right next to the main sandy beach» bor, narxning balandligini bildiradi.",
+  "wrong": {
+   "cheap": "«cheap» — arzon; narx juda baland bo'lsa, u arzon bo'lolmaydi.",
+   "busy": "«busy» — band; narx haqida so'z ketganda bu so'z mos kelmaydi.",
+   "historic": "«historic» — tarixiy; bu yuqori narx sababini tushuntirmaydi."
+  }
+ },
+ {
+  "why": "«flight attendant» — styuard, styuardessa. Gapda «helped us find our seats and served drinks» bor, bu samolyot xizmatchisini bildiradi.",
+  "wrong": {
+   "cabin crew": "«cabin crew» — ekipaj; gapda «The man... was extremely polite» deb bitta shaxs nazarda tutilgan.",
+   "travel guide": "«travel guide» — sayohat gidi; bu samolyotda xizmat qilmaydi.",
+   "penpal": "«penpal» — xat yozishuvchi do'st; bu kasb emas."
+  }
+ },
+ {
+  "why": "«flight number» — reys raqami. Gapda «special code of letters and digits that identified our specific airplane journey» bor, bu reys raqami.",
+  "wrong": {
+   "boarding pass": "«boarding pass» — samolyotga chiqish taloni; bu maxsus kod emas.",
+   "seat belt": "«seat belt» — xavfsizlik kamari; bu harflar va raqamlar kodi emas.",
+   "passport control": "«passport control» — pasport nazorati; bu kodni anglatmaydi."
+  }
+ },
+ {
+  "why": "«fountain» — favvora. Gapda «Water sprayed high up into the air from the artistic stone sculpture» bor, bu suv purkaydigan favvorani bildiradi.",
+  "wrong": {
+   "statue": "«statue» — haykal; u suv purkamaydi.",
+   "monument": "«monument» — yodgorlik; bu suv otib turuvchi inshoot emas.",
+   "tower": "«tower» — minora; bu suv purkash xususiyatiga ega emas."
+  }
+ },
+ {
+  "why": "«full board» — to'liq pansion (uch mahal ovqat). Gapda «breakfast, lunch, and dinner every single day without any extra charges» bor.",
+  "wrong": {
+   "half board": "«half board» — yarim pansion; faqat ikki mahal ovqatni o'z ichiga oladi.",
+   "double room": "«double room» — ikki kishilik xona; bu ovqatlanish xizmatiga aloqador emas.",
+   "single room": "«single room» — bir kishilik xona; bu xona turi, ovqatlanish emas."
+  }
+ },
+ {
+  "why": "«full-time» — to'liq stavka (shtatdagi). Gapda «forty hours every week» bor, bu to'liq ish haftasini bildiradi.",
+  "wrong": {
+   "part-time": "«part-time» — yarim stavka; haftasiga 40 soatlik ish to'liq ish vaqtiga to'g'ri keladi.",
+   "historic": "«historic» — tarixiy; bu ish vaqtiga aloqasi yo'q.",
+   "busy": "«busy» — band; bu ish soatining turini ko'rsatmaydi."
+  }
+ },
+ {
+  "why": "«half board» — bu nonushta va kechki ovqatni o'z ichiga olgan mehmonxona xizmati. Gapdagi «paid for breakfast and dinner» so'zlari shuni ko'rsatib turibdi.",
+  "wrong": {
+   "full board": "«full board» — uch mahal ovqat; bu yerda faqat ikkita ovqat haqida gap ketmoqda.",
+   "double room": "«double room» — ikki kishilik xona; bu ovqatlanish turiga aloqador emas.",
+   "single room": "«single room» — bir kishilik xona; bu ovqatlanishni bildirmaydi."
+  }
+ },
+ {
+  "why": "«hand luggage» — samolyot saloniga o'zingiz bilan olib kiradigan qo'l yuki. Gapdagi «inside the airplane cabin» shuni ko'rsatib turibdi.",
+  "wrong": {
+   "backpack": "«backpack» — ryukzak; bu shunchaki sumka turi, salon ichidagi yuk umumiy atamas emas.",
+   "bag drop": "«bag drop» — yuk topshirish joyi; bu yukni o'zingiz bilan olish emas.",
+   "boarding pass": "«boarding pass» — uchish talon; bu chipta turi, yuk emas."
+  }
+ },
+ {
+  "why": "«harbour» — kema va yaxtalar to'xtaydigan qo'ltiq yoki bandargoh. Gapdagi «fishing boats and large white yachts were safely tied up» so'zlari bunga ishora qiladi.",
+  "wrong": {
+   "square": "«square» — maydon; u yerda kemalar to'xtamaydi.",
+   "market": "«market» — bozor; bu suv bo'yidagi kema turar joyi emas.",
+   "old town": "«old town» — eski shahar; bu suv akvatoriyasi emas."
+  }
+ },
+ {
+  "why": "«high season» — sayyohlik qizg'in pallasi va narxlar yuqori bo'lgan vaqt. Gapdagi «everybody travels then» va «prices... are much higher» shuni ko'rsatadi.",
+  "wrong": {
+   "low season": "«low season» — mavsum vaqti emas; bu paytda narxlar past bo'ladi.",
+   "expensive": "«expensive» — qimmat; bu ot emas, sifat so'z turkumi.",
+   "crowded": "«crowded» — odam ko'p; bu mavsum nomini bildirmaydi."
+  }
+ },
+ {
+  "why": "«hire (a bike)» — velosiped ijaraga olmoq. Gapdagi «rented two mountain bicycles» so'zlari velosiped ijaraga olinganini bildiradi.",
+  "wrong": {
+   "boat trip": "«boat trip» — qayiqda sayohat; bu yerda velosiped haqida gap ketmoqda.",
+   "kayaking": "«kayaking» — baydarkada suzish; bu velosiped haydash emas.",
+   "mountain biking": "«mountain biking» — tog'da velosipedda yurish sporti, ijaraga olish harakati emas."
+  }
+ },
+ {
+  "why": "«historic» — tarixiy ahamiyatga ega bo'lgan. Gapdagi «built more than six hundred years ago» shuni ko'rsatib turibdi.",
+  "wrong": {
+   "atmospheric": "«atmospheric» — o'zgacha muhitga ega; bu olti yuz yillik tarixiy obidani to'liq ochib bermaydi.",
+   "romantic": "«romantic» — romantik; ko'priklar uchun asosiy tarixiy tushuncha boshqacha.",
+   "beautiful": "«beautiful» — chiroyli; bu faqat tashqi ko'rinishni bildiradi."
+  }
+ },
+ {
+  "why": "«kayaking» — kichik qayiqda daryoda suzish sporti. Gapdagi «paddled our small narrow boats» va «wearing yellow life jackets» shuni tasdiqlaydi.",
+  "wrong": {
+   "boat trip": "«boat trip» — oddiy qayiq sayohati; bu yerda faol sport turi haqida gap bormoqda.",
+   "mountain biking": "«mountain biking» — tog'da velosipedda yurish; daryoga aloqasi yo'q.",
+   "abseilling": "«abseilling» — arqonda qoyadan tushish; bu suvda qilinmaydi."
+  }
+ },
+ {
+  "why": "«low season» — sayohatchilar kam va narxlar arzon bo'lgan sokin mavsum. Gapdagi «very cheap» va «quiet months» shuni ko'rsatadi.",
+  "wrong": {
+   "high season": "«high season» — qizg'in mavsum; bu paytda narxlar qimmat bo'ladi.",
+   "cheap": "«cheap» — arzon; bu sifat so'z, mavsum nomi emas.",
+   "crowded": "«crowded» — odam gavjum; bu sokin oylarga mos kelmaydi."
+  }
+ },
+ {
+  "why": "«market» — ochiq havoda savdo qilinadigan bozor. Gapdagi «trading tables» va «spices, and handmade carpets» shuni bildiradi.",
+  "wrong": {
+   "shopping district": "«shopping district» — do'konlar joylashgan tuman; bu kichik savdo stollariga to'g'ri kelmaydi.",
+   "square": "«square» — maydon; u doim ham bozor bo'lavermaydi.",
+   "art gallery": "«art gallery» — san'at galereyasi; u yerda gilam va ziravorlar sotilmaydi."
+  }
+ },
+ {
+  "why": "«monument» — qahramonlarni xotirlash uchun qurilgan yodgorlik. Gapdagi «to honor the brave soldiers» va «engraved plaque» shuni ko'rsatadi.",
+  "wrong": {
+   "statue": "«statue» — haykal; bu faqat inson yoki hayvon shaklidagi tasvir.",
+   "tower": "«tower» — minora; u xotiralar uchun emas, boshqa maqsadlarda quriladi.",
+   "fountain": "«fountain» — favvora; bu suv otib turadigan inshoot."
+  }
+ },
+ {
+  "why": "«mosque» — musulmonlar ibodat qiladigan masjid. Gapdagi «Muslims» va «blue domes and tall minarets» shuni aniq ko'rsatib turibdi.",
+  "wrong": {
+   "cathedral": "«cathedral» — bosh cherkov; u nasroniylarga tegishli.",
+   "temple": "«temple» — ibodatxona; bu boshqa dinlarga xos.",
+   "castle": "«castle» — qasr; u ibodat joyi emas, himoya uchun qurilgan."
+  }
+ },
+ {
+  "why": "«mountain biking» — tog' yo'llarida velosipedda yurish. Gapdagi «off-road bicycles» va «dirt trails through the rocky hills» shuni ko'rsatadi.",
+  "wrong": {
+   "kayaking": "«kayaking» — qayiqda suzish; bu quruqlikdagi tog' yo'llariga mos kelmaydi.",
+   "boat trip": "«boat trip» — qayiqda sayohat qilish; bu yerda tog' va velosiped haqida gap bormoqda.",
+   "abseilling": "«abseilling» — arqonda pastga tushish; bu velosiped haydash emas."
+  }
+ },
+ {
+  "why": "«museum» — tarixiy buyumlar saqlanadigan muzey. Gapdagi «old dinosaur bones and ancient gold coins» shuni ko'rsatib turibdi.",
+  "wrong": {
+   "art gallery": "«art gallery» — san'at galereyasi; u yerda dinozavr suyaklari emas, rasmlar qo'yiladi.",
+   "theatre": "«theatre» — teatr; u yerda spektakllar ko'rsatiladi.",
+   "opera house": "«opera house» — opera teatri; bu qadimiy tangalar saqlanadigan joy emas."
+  }
+ },
+ {
+  "why": "«national park» — tabiat va hayvonot olami davlat tomonidan qo'riqlanadigan milliy bog'. Gapdagi «government-protected natural forest area» shuni ko'rsatadi.",
+  "wrong": {
+   "botanical gardens": "«botanical gardens» — botanika bog'i; u asosan o'simliklar uchun.",
+   "safari park": "«safari park» — hayvonlar erkin yashaydigan sayyohlik parki; bu davlat qo'riqxona ma'nosini to'liq bermaydi.",
+   "park": "«park» — oddiy istirohat bog'i; bu yovvoyi tabiat qo'riqxonasidan farq qiladi."
+  }
+ },
+ {
+  "why": "«castle» — qadimiy qal'a yoki qasr. Gapdagi «ancient fortress walls and learned about medieval history» shuni ko'rsatib turibdi.",
+  "wrong": {
+   "cathedral": "«cathedral» — bosh cherkov; u qala devorlariga ega bo'lmaydi.",
+   "monument": "«monument» — yodgorlik; bu ichiga kirib yurib bo'ladigan qal'a emas.",
+   "tower": "«tower» — minora; bu butun boshli qal'a majmuasi emas."
+  }
+ },
+ {
+  "why": "«double room» — ikki kishilik katta yotoqli mehmonxona xonasi. Gapdagi «room with one large bed for himself and my mother» shuni ko'rsatadi.",
+  "wrong": {
+   "single room": "«single room» — bir kishilik xona; bu ota-ona ikkalasiga kichiklik qiladi.",
+   "campsite": "«campsite» — lager qurish joyi; bu mehmonxona xonasi emas.",
+   "cabin crew": "«cabin crew» — samolyot ekipaji; bu xonaga aloqasi yo'q."
+  }
+ },
+ {
+  "why": "«aquarium» — dengiz jonivorlari ko'rsatiladigan akvarium. Gapdagi «colorful fish swimming in huge glass tanks» shuni aniq ko'rsatib turibdi.",
+  "wrong": {
+   "museum": "«museum» — muzey; u yerda baliqlar emas, tarixiy eksponatlar bo'ladi.",
+   "art gallery": "«art gallery» — san'at galereyasi; baliqlar u yerda saqlanmaydi.",
+   "theme park": "«theme park» — attraksionlar parki; bu akvarium emas."
+  }
+ },
+ {
+  "why": "«touristy» — sayyohlar juda ko'p bo'ladigan joy. Gapdagi «loud souvenir sellers and far too many visitors» shuni ko'rsatadi.",
+  "wrong": {
+   "peaceful": "«peaceful» — tinch; bu yerda esa shovqinli va odam ko'p deb yozilgan.",
+   "atmospheric": "«atmospheric» — o'ziga xos muhitga ega; bu sayyohlar ko'pligini to'liq anglatmaydi.",
+   "historic": "«historic» — tarixiy; bu ham ko'p odam va sotuvchilar borligini bildirmaydi."
+  }
+ },
+ {
+  "why": "«souvenirs» — esdalik sovg'alari. Gapdagi «remind me of this wonderful journey» va «ceramic plate» so'zlari uning esdalik ekanini bildiradi.",
+  "wrong": {
+   "backpack": "«backpack» — ryukzak; bu sovg'a emas, yuk sumkasi.",
+   "hand luggage": "«hand luggage» — qo'l yuki; bu xarid qilingan esdalik buyumi emas.",
+   "travel guide": "«travel guide» — yo'riqnoma kitobi; bu sof ceramic likopcha emas."
+  }
+ },
+ {
+  "why": "«high season» — narxlar baland bo'ladigan qizg'in mavsum. Gapdagi «price was extremely high» va «July and August» oylari shuni ko'rsatib turibdi.",
+  "wrong": {
+   "low season": "«low season» — mavsum vaqti emas; bu paytda narxlar arzon bo'ladi.",
+   "half board": "«half board» — yarim pansion ovqatlanish turi; bu narxning balandligiga sabab bo'lgan mavsum emas.",
+   "full board": "«full board» — uch mahal ovqatlanish; bu narx oshishining sababi emas."
+  }
+ },
+ {
+  "why": "«backpack» — ryukzak. Gapda «carry our clothes during our summer vacation» bor: ta'tilda kiyimlarni olib yurish uchun katta ryukzak kerak bo'ladi.",
+  "wrong": {
+   "boarding pass": "«boarding pass» — samolyotga chiqish talonchasi; bu kiyimlarni olib yurish uchun emas.",
+   "seat belt": "«seat belt» — xavfsizlik kamari; uni kiyimlarni ko'tarib yurish uchun ishlatib bo'lmaydi.",
+   "hand luggage": "«hand luggage» — qo'l yuki; odatda ryukzak ta'til va kiyimlar uchun qulayroq."
+  }
+ },
+ {
+  "why": "«security check» — xavfsizlik tekshiruvi. Gapda «metal detector at the airport» bor: metall detektoridan o'tishdan oldin xavfsizlik tekshiruvidan o'tiladi.",
+  "wrong": {
+   "baggage carousel": "«baggage carousel» — bagaj lentalari; bu yerda metall detektori haqida gap ketmoqda.",
+   "check-in desk": "«check-in desk» — ro'yxatdan o'tish stoli; u metal detektordan oldin emas, balki boshqa joyda bo'ladi.",
+   "passport control": "«passport control» — pasport nazorati; odatda metall detektoridan keyin yoki boshqa bosqichda bo'ladi."
+  }
+ },
+ {
+  "why": "«castle» — qasr yoki qal'a. Gapda «ancient stone... built many centuries ago by local rulers» bor: qadimiy tosh qal'ani hukmdorlar qurgan.",
+  "wrong": {
+   "aquarium": "«aquarium» — akvarium; uni asrlar oldin mahalliy hukmdorlar qurmagan.",
+   "theme park": "«theme park» — istirohat bog'i; bu qadimiy tosh bino emas.",
+   "opera house": "«opera house» — opera teatri; bu ham qadimiy hukmdorlar qurgan tosh qal'a emas."
+  }
+ },
+ {
+  "why": "«half board» — nonushta va kechki ovqatni o'z ichiga olgan mehmonxona xizmati. Gapda «price included breakfast and dinner» bor: ikkita ovqat kiritilgan bo'lsa, bu «half board».",
+  "wrong": {
+   "full board": "«full board» — uch mahal ovqatni o'z ichiga oladi, bu yerda faqat ikkita ovqat deyilgan.",
+   "double room": "«double room» — ikki kishilik xona; bu ovqatlanish turini emas, xonani bildiradi.",
+   "economy class": "«economy class» — iqtisodiy sinf; bu samolyot chiptasiga tegishli."
+  }
+ },
+ {
+  "why": "«botanical gardens» — botanika bog'i. Gapda «hundreds of exotic plants and tall green trees» bor: o'simliklar va daraxtlar botanika bog'ida bo'ladi.",
+  "wrong": {
+   "shopping district": "«shopping district» — savdo tumani; u yerda ekzotik o'simliklar ko'p emas.",
+   "national park": "«national park» — milliy bog'; bu yerda ko'proq «botanical gardens» so'zi mos keladi.",
+   "safari park": "«safari park» — hayvonlar erkin yuradigan park, o'simliklar uchun emas."
+  }
+ },
+ {
+  "why": "«flight attendant» — styuardessa. Gapda «served us hot drinks and helped us find our seats on the airplane» bor: samolyotda ichimlik tarqatuvchi shaxs.",
+  "wrong": {
+   "travel guide": "«travel guide» — sayohat gid; u samolyotda xizmat qilmaydi.",
+   "penpal": "«penpal» — xat yozishib turadigan do'st; samolyotga aloqasi yo'q.",
+   "cabin crew": "«cabin crew» — ekipaj jamoasi; bu ko'plik ma'nosini bildiradi, gapda esa bitta shaxs «served» deb yozilgan."
+  }
+ },
+ {
+  "why": "«market» — bozor. Gapda «buy fresh fruit and traditional handmade Uzbek ceramics» bor: meva va kulolchilik buyumlarini bozordan sotib olinadi.",
+  "wrong": {
+   "cathedral": "«cathedral» — sobor yoki cherkov; u yerda meva sotilmaydi.",
+   "monument": "«monument» — yodgorlik; bu savdo joyi emas.",
+   "temple": "«temple» — ibodatxona; bu yerda xarid qilib bo'lmaydi."
+  }
+ },
+ {
+  "why": "«boat trip» — qayiqda sayohat. Gapda «down the river to see the old town» bor: daryo bo'ylab qayiqda sayohat qilinadi.",
+  "wrong": {
+   "mountain biking": "«mountain biking» — tog'da velosipedda yurish; daryoda velosiped haydab bo'lmaydi.",
+   "kayaking": "«kayaking» — kayakda suzish; lekin bu yerda «relaxing» so'ziga «boat trip» yaxshiroq mos keladi.",
+   "abseilling": "«abseilling» — arqon yordamida qoyadan tushish; daryoga aloqasi yo'q."
+  }
+ },
+ {
+  "why": "«seat belt» — xavfsizlik kamari. Gapda «fasten your... tightly before the pilot starts the engine» bor: uchishdan oldin kamar taqiladi.",
+  "wrong": {
+   "passport control": "«passport control» — pasport nazorati; uni taqib bo'lmaydi.",
+   "boarding pass": "«boarding pass» — chiqish talonchasi; uni ham mahkamlab taqib bo'lmaydi.",
+   "hand luggage": "«hand luggage» — qo'l yuki; bu samolyot o'rindig'iga bog'lanmaydi."
+  }
+ },
+ {
+  "why": "«aquarium» — akvarium. Gapda «colorful fish and a giant shark swimming behind the thick glass» bor: baliqlar va akula akvariumda bo'ladi.",
+  "wrong": {
+   "art gallery": "«art gallery» — san'at galereyasi; u yerda baliqlar suzmaydi.",
+   "museum": "«museum» tirik akulalarni saqlamaydi.",
+   "theatre": "«theatre» — teatr; bu yerda aktyorlar o'ynaydi, akulalar emas."
+  }
+ },
+ {
+  "why": "«atmospheric» — o'zgacha muhitga ega. Gapda «narrow streets in the old part of Khiva» bor: qadimiy ko'chalarning o'ziga xos muhiti bo'ladi.",
+  "wrong": {
+   "touristy": "«touristy» — sayyohlar bilan to'la; lekin «atmospheric» qadimiy binolar uchun aniqroq.",
+   "disappointing": "«disappointing» — ko'ngilni qoldiradigan; Xivaning ko'chalari esa go'zal.",
+   "cheap": "«cheap» — arzon; ko'chalarga nisbatan ishlatilmaydi."
+  }
+ },
+ {
+  "why": "«mountain biking» — tog'da velosiped haydash. Gapda «riding his bicycle down steep and rocky hills» bor: velosipedda tog'dan tushishni bildiradi.",
+  "wrong": {
+   "kayaking": "«kayaking» — qayiqda suzish; bu velosipedga aloqador emas.",
+   "abseilling": "«abseilling» — qoyadan arqonda tushish; velosiped ishlatilmaydi.",
+   "boat trip": "«boat trip» — qayiqda sayohat qilish; velosiped bilan bog'liq emas."
+  }
+ },
+ {
+  "why": "«mosque» — masjid. Gapda «famous blue-domed... in Samarkand» bor: moviy gumbazli masjid Samarqandda mashhur.",
+  "wrong": {
+   "cathedral": "«cathedral» — xristian ibodatxonasi; bu yerda moviy gumbazli islomiy obida haqida gap bormoqda.",
+   "temple": "«temple» — ibodatxona; Samarqanddagi ko'k gumbazli bino masjid hisoblanadi.",
+   "tower": "«tower» — minora; lekin «blue-domed» so'zi masjidga mos keladi."
+  }
+ },
+ {
+  "why": "«boarding pass» — samolyotga chiqish talonchasi. Gapda «printed our... at home before going to the airport» bor: aeroportga borishdan oldin chiqish talonini chop etiladi.",
+  "wrong": {
+   "bag drop": "«bag drop» — yuk topshirish joyi; uni uyda chop etib bo'lmaydi.",
+   "flight number": "«flight number» — reys raqami; uni chop etib olinmaydi.",
+   "passport control": "«passport control» — pasport nazorati; bu joy, hujjat emas."
+  }
+ },
+ {
+  "why": "«art gallery» — san'at galereyasi. Gapda «looking at famous paintings and modern sculptures» bor: suratlar va haykallar galereyada ko'rsatiladi.",
+  "wrong": {
+   "aquarium": "«aquarium» — akvarium; u yerda suv osti dunyosi ko'rsatiladi.",
+   "shopping district": "«shopping district» — savdo tumani; rasm ko'rgazmasi emas.",
+   "castle": "«castle» — qasr; u yerda zamonaviy haykallar va rasmlar doimiy ko'rgazmada bo'lmaydi."
+  }
+ },
+ {
+  "why": "«crowded» — odam gavjum. Gapda «thousands of people came out» bor: minglab odamlar chiqqani uchun markaz gavjum bo'lgan.",
+  "wrong": {
+   "peaceful": "«peaceful» — tinch; minglab odamlar chiqqan joy tinch bo'lmaydi.",
+   "cheap": "«cheap» — arzon; bu odamlar soniga taalluqli emas.",
+   "historic": "«historic» — tarixiy; lekin odamlar ko'pligi «crowded» so'zini talab qiladi."
+  }
+ },
+ {
+  "why": "«kayaking» — daryoda qayiqda suzish. Gapda «down the fast-flowing river in a small plastic boat» bor: kichik qayiqda daryodan tushish «kayaking» deyiladi.",
+  "wrong": {
+   "mountain biking": "«mountain biking» — velosipedda yurish; daryo va qayiqqa aloqasi yo'q.",
+   "abseilling": "«abseilling» — qoyadan tushish; suvda bajarilmaydi.",
+   "boat trip": "«boat trip» — oddiy qayiq sayohati; bu yerda esa tez oqadigan daryoda maxsus kichik qayiq nazarda tutilgan."
+  }
+ },
+ {
+  "why": "«double room» — ikki kishilik xona. Gapda «wanted a large bed in a private room» bor: katta yotoqli shaxsiy xona «double room» deyiladi.",
+  "wrong": {
+   "single room": "«single room» — bir kishilik xona; katta yotoq uchun kichiklik qiladi.",
+   "economy class": "«economy class» — iqtisodiy sinf; bu mehmonxona xonasiga emas, chiptaga tegishli.",
+   "half board": "«half board» — ovqatlanish turi; xonani bildirmaydi."
+  }
+ },
+ {
+  "why": "«departure lounge» — uchish zali. Gapda «waiting for our flight to be called» bor: reys e'lon qilinishini kutish joyi «departure lounge» deb ataladi.",
+  "wrong": {
+   "bag drop": "«bag drop» — yuk topshirish joyi; u yerda reysni kutib o'tirilmaydi.",
+   "check-in desk": "«check-in desk» — ro'yxatdan o'tish stoli; bu kutish zali emas.",
+   "passport control": "«passport control» — pasport nazorati; reysni kutish uchun mo'ljallanmagan."
+  }
+ },
+ {
+  "why": "«low season» — mavsumiy bo'lmagan vaqt. Gapda «prices for hotels and flights are much lower» va «fewer people go on holiday» bor: narxlar past va odamlar kam bo'lgan vaqt «low season» hisoblanadi.",
+  "wrong": {
+   "high season": "«high season» — gavjum mavsum; bu vaqtda narxlar yuqori bo'ladi.",
+   "full board": "«full board» — uch mahal ovqatlanish; narxlar tushishiga aloqasi yo'q.",
+   "part-time": "«part-time» — yarim stavkali ish; dam olish kunlari narxlariga aloqasi yo'q."
+  }
+ },
+ {
+  "why": "«tower» — minora. Gapda «tell the time» va «clock» so‘zlari bor: ular markazda soat ko‘rsatib turuvchi inshoot haqidaligini bildiradi.",
+  "wrong": {
+   "statue": "«statue» — haykal; bu yerda vaqtni ko‘rsatib turuvchi soatli inshoot haqida gap ketmoqda.",
+   "mosque": "«mosque» — masjid; bu yerda park markazidagi soatli minora nazarda tutilgan.",
+   "palace": "«palace» — saroy; bu juda katta va boshqa maqsadga mo‘ljallangan bino."
+  }
+ },
+ {
+  "why": "«suncream» — quyoshdan saqlovchi krem. Gapda «protect your skin from the sun» va «desert» so‘zlari bor: cho‘lda terini himoya qilish uchun krem surtiladi.",
+  "wrong": {
+   "sunglasses": "«sunglasses» — quyosh ko‘zoynagi; u terini emas, ko‘zni himoya qiladi.",
+   "backpack": "«backpack» — ryukzak; bu kiyim yoki buyumlar tashiydigan narsa, terini quyoshdan saqlamaydi.",
+   "sunburn": "«sunburn» — quyosh urishi yoki kuyishi kasalligi; uni teriga surtib bo‘lmaydi."
+  }
+ },
+ {
+  "why": "«sunglasses» — quyosh ko‘zoynagi. Gapda «too dark» va «bright sunny street» bor: ko‘zoynakni yechgach, hamma yoq qorong‘i bo‘lib qolgan.",
+  "wrong": {
+   "suncream": "«suncream» — quyosh kremi; uni ko‘zdan yechib bo‘lmaydi.",
+   "seat belt": "«seat belt» — xavfsizlik kamari; u yorug‘ ko‘chaga aloqador emas.",
+   "backpack": "«backpack» — ryukzak; u yorug‘likni o‘zgartirmaydi."
+  }
+ },
+ {
+  "why": "«opera house» — opera teatri. Gapda «traditional ballet performance» bor: balet faqat teatrda namoyish etiladi.",
+  "wrong": {
+   "art gallery": "«art gallery» — badiiy galereya; u yerda rasm ko‘rsatiladi, balet qo‘yilmaydi.",
+   "museum": "«museum» — muzey; bu tarixiy buyumlar saqlanadigan joy.",
+   "cathedral": "«cathedral» — sobor yoki katta cherkov; bu yerda balet tomosha qilinmaydi."
+  }
+ },
+ {
+  "why": "«security camera» — xavfsizlik kamerasi. Gapda «footage» va «see who dropped the bag» bor: sumkani kim tashlab ketganini videokamera ko‘rsatadi.",
+  "wrong": {
+   "passport control": "«passport control» — pasport nazorati; u sumka tashlab ketilganini ko‘rsatmaydi.",
+   "boarding pass": "«boarding pass» — uchish talon; bu qog‘oz yoki raqamli ruxsatnoma.",
+   "flight number": "«flight number» — reys raqami; bu kameraning tasviri emas."
+  }
+ },
+ {
+  "why": "«market» — bozor. Gapda «traditional bread and pilaf» bor: non va o‘zbekcha palov bozorda yoki oshxonalarda bo‘ladi.",
+  "wrong": {
+   "opera house": "«opera house» — opera teatri; u yerda ovqatlanib bo‘lmaydi.",
+   "aquarium": "«aquarium» — akvarium; u yerda baliqlar yashaydi.",
+   "safari park": "«safari park» — safari parki; bu hayvonlar yashaydigan ochiq hudud."
+  }
+ },
+ {
+  "why": "«check-in desk» — ro‘yxatdan o‘tish stoli. Gapda «drop off our big suitcases» bor: katta chamadonlar aynan shu yerda topshiriladi.",
+  "wrong": {
+   "boarding pass": "«boarding pass» — uchish taloni; chamadonni u yerda topshirib bo‘lmaydi.",
+   "hand luggage": "«hand luggage» — qo‘l yuki; bu buyumning nomi, joy emas.",
+   "flight number": "«flight number» — reys raqami; bu shunchaki raqam."
+  }
+ },
+ {
+  "why": "«seat belt» — xavfsizlik kamari. Gapda «fasten... tightly» va «plane takes off» bor: samolyot uchishidan oldin kamar taqiladi.",
+  "wrong": {
+   "baggage carousel": "«baggage carousel» — yuk lentalari; u samolyot ichida bo‘lmaydi.",
+   "passport control": "«passport control» — pasport nazorati; uni taqib bo‘lmaydi.",
+   "window seat": "«window seat» — deraza yonidagi o‘rindiq; uni mahkamlab bo‘lmaydi."
+  }
+ },
+ {
+  "why": "«aquarium» — akvarium. Gapda «fish swim around inside the huge glass tanks» bor: baliqlar shisha tanklarda akvariumda saqlanadi.",
+  "wrong": {
+   "botanical gardens": "«botanical gardens» — botanika bog‘i; u yerda asosan o‘simliklar bo‘ladi.",
+   "safari park": "«safari park» — safari parki; u yerda yovvoyi hayvonlar yuradi.",
+   "theme park": "«theme park» — istirohat bog‘i; u attraksionlar uchun."
+  }
+ },
+ {
+  "why": "«old town» — eski shahar. Gapda «ancient streets» va «traditional houses» bor: bu eski shaharga xos xususiyatdir.",
+  "wrong": {
+   "shopping district": "«shopping district» — savdo tumani; u yerda do‘konlar ko‘p bo‘ladi.",
+   "national park": "«national park» — milliy bog‘; u tabiatni muhofaza qilish joyi.",
+   "art gallery": "«art gallery» — badiiy galereya; bu bitta bino, ko‘chalar emas."
+  }
+ },
+ {
+  "why": "«market» — bozor. Gapda «traditional handmade gifts and local ceramics» bor: bunday milliy buyumlar bozordan xarid qilinadi.",
+  "wrong": {}
+ },
+ {
+  "why": "«square» — maydon. Gapda «Registan» va «Samarkand» bor: ularning mashhur nomi «Registan square» deb ataladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«aquarium» — akvarium. Gapda «giant sharks swimming inside the huge public» bor: akvariumda yirik akulalar saqlanadi.",
+  "wrong": {}
+ },
+ {
+  "why": "«campsite» — lager joyi. Gapda «summer holiday» va «near the beach» bor: plyaj yaqinida dam olish uchun lager juda mos keladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«kayaking» — kayakda suzish sporti. Gapda «fast... down the rushing mountain river» bor: tez oqadigan daryoda qayiqda suzish «kayaking» deyiladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«abseilling» — arqonda qoyadan tushish sporti. Gapda «Falling off the rocky cliff» bor: bu tog‘ qoyasidan tushish sarguzashtidir.",
+  "wrong": {}
+ },
+ {
+  "why": "«suncream» — quyosh kremi. Gapda «Protect your face and shoulders from the hot sun» va «applying thick» bor: teriga krem surtiladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«sunburn» — quyoshdan kuyish. Gapda «Sleeping under the bright tropical sun... caused a painful red» bor: quyoshda qolib ketish qizil kuyishni keltirib chiqaradi.",
+  "wrong": {}
+ },
+ {
+  "why": "«sunglasses» — quyosh ko‘zoynagi. Gapda «Wearing dark... helps you see clearly when walking on very sunny streets» bor: quyoshli kunda ko‘zoynak taqiladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«backpack» — ryukzak. Gapda «Packing extra socks and warm jackets inside my heavy leather» bor: kiyimlar ryukzakka solinadi.",
+  "wrong": {}
+ },
+ {
+  "why": "«hire» — ijaraga olmoq. Gapda «renting a fast scooter» bor: tez skuter ijaraga beriladigan yoki olinadigan joy «hire shop» bo'ladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«souvenirs» — esdalik sovg'alari. Gapda «reminds us of our wonderful journey» bor: sayohatni eslatib turuvchi kichik narsalar esdalik sovg'alaridir.",
+  "wrong": {}
+ },
+ {
+  "why": "«souvenirs» — esdalik sovg'alari. Gapda «remember our amazing family holiday» bor: oilaviy ta'tilni esda saqlash uchun esdalik sovg'alari sotib olinadi.",
+  "wrong": {}
+ },
+ {
+  "why": "«sunburn» — quyosh urishi yoki terining kuyishi. Gapda «forgot to put on suncream at the beach» bor: kremsiz quyoshda qolish terining kuyishiga olib keladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«campsite» — lager joyi, chodir quriladigan joy. Gapda «slept in small green tents» bor: kichik yashil chodirlarda tunash uchun «campsite» mos keladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«monument» — yodgorlik, haykal. Gapda «large marble» bor: shahar markazida o'rnatiladigan katta tosh obida bu yodgorlikdir.",
+  "wrong": {}
+ },
+ {
+  "why": "«theatre» — teatr. Gapda «classical ballet performance» bor: mumtoz balet tomoshalari teatrda ko'rsatiladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«square» — maydon. Gapda «Independence Day fireworks» bor: bayram mushakbozliklari odatda shahar maydonida bo'ladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«aquarium» — akvarium. Gapda «sharks swimming around» bor: akulalar suzib yuradigan katta jamoat joyi bu akvariumdir.",
+  "wrong": {}
+ },
+ {
+  "why": "«castle» — qasr, qo'rg'on. Gapda «protected the city from foreign invaders» bor: dushmanlardan himoya qiluvchi o'rta asr inshooti qasardir.",
+  "wrong": {}
+ },
+ {
+  "why": "«backpack» — ryukzak, yelka xaltasi. Gapda «mountain hiking trip» bor: tog'ga sayrga chiqqanda kiyim-kechaklar ryukzakda olib yuriladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«mosque» — masjid. Gapda «majestic blue» bor: Samarqanddagi moviy gumbazli ulug'vor ziyoratgoh bu masjid hisoblanadi.",
+  "wrong": {}
+ },
+ {
+  "why": "«market» — bozor. Gapda «handmade silk carpets» bor: qo'lda to'qilgan ipak gilamlar qadimiy bozorda sotiladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«sunglasses» — quyoshdan saqlovchi ko'zoynak. Gapda «morning sunlight was extremely bright» bor: quyosh nuri porlab turganda ko'zoynak taqiladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«tower» — minora. Gapda «historic old» bor: shaharchaning markazida asrlar davomida tik turgan tarixiy inshoot bu minora.",
+  "wrong": {}
+ },
+ {
+  "why": "«historic» — tarixiy. Gapda «old stone bridge» bor: qadimgi tosh ko'prik oy nurida juda tarixiy va go'zal ko'rinadi.",
+  "wrong": {}
+ },
+ {
+  "why": "«sunglasses» — quyoshdan saqlovchi ko'zoynak. Gapda «protect your eyes from the bright summer sunlight» bor: ko'zni yorqin quyoshdan asrash uchun ko'zoynak taqish kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«harbour» — kema to'xtash joyi, port. Gapda «fishing boats are parked» bor: baliq ovlash qayiqlar turadigan joy bu portdir.",
+  "wrong": {}
+ },
+ {
+  "why": "«aquarium» — akvarium. Gapda «dolphins and colorful fish swim» bor: delfinlar va rang-barang baliqlar yirik jamoat akvariumida suzadi.",
+  "wrong": {}
+ },
+ {
+  "why": "«kayaking» — kanoe yoki kayakda suzish sporti. Gapda «fast-flowing river» bor: tez oqadigan daryoda bajariladigan faoliyat bu kayakingdir.",
+  "wrong": {}
+ }
+]

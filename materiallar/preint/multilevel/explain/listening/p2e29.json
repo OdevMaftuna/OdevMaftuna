@@ -1,0 +1,35 @@
+{
+ "script": "Speaker: Good morning, everyone, and welcome to Stonebridge House. My name is David, and I'm your tour guide. This morning, I'm going to show you around this wonderful 19th-century house, which was the home of the Reynold family for more than 150 years, until 1975, when it became a national museum. We are now standing in the main lobby of the house, where you can see the magnificent wooden staircase that leads up to the bedrooms. The house servants used to sleep in the attic, but they would have used a different staircase to this one. Now, if we go through to the dining room, you will be able to see a fine collection of paintings. George Reynold was a big fan of traditional art, as we can see here today. George came from a military family. Surprisingly, however, he became a lawyer, even though his father had wanted him to be an officer in the army. His younger brother also rebelled and became a teacher. Now, the Reynold family is famous for many things, but probably most of all for the many family tragedies. The family has had more than its fair share of early deaths. George's son Michael died from cancer, his wife died while giving birth to their daughter Emily, and George's brother had a fatal horse riding accident. George himself always suffered from a weak heart, and he died of a heart attack at the age of 52.",
+ "items": [
+  {
+   "n": 1,
+   "quote": "19th-century house",
+   "uz": "Ushbu uy 19-asrda (\"19th century\") qurilgan. Manbada \"19th-century house\" deb ta'kidlanadi. 1975-yil esa oila uydan chiqib ketgan va muzeyga aylangan yil hisoblanadi."
+  },
+  {
+   "n": 2,
+   "quote": "until 1975, when it became a national museum",
+   "uz": "Reynold oilasi ushbu uyda 1975-yilgacha (\"1975\") yashagan. Audioda \"until 1975\" iborasi aniq aytiladi."
+  },
+  {
+   "n": 3,
+   "quote": "servants used to sleep in the attic",
+   "uz": "Xizmatkorlar chordoqda (\"attic\") uxlashgan va ularning xonalari o'sha yerda joylashgan bo'lgan."
+  },
+  {
+   "n": 4,
+   "quote": "go through to the dining room, you will be able to see a fine collection of paintings",
+   "uz": "San'at va rasmlar to'plami oshxona/ovqatlanish xonasida (\"dining\" room) joylashgan."
+  },
+  {
+   "n": 5,
+   "quote": "he became a lawyer",
+   "uz": "Jorj Reynold yurist/advokat (\"lawyer\") bo'lgan. U harbiy oiladan bo'lsa ham hamda otasi uni ofitser (\"officer\") bo'lishini xohlagan bo'lsa-da, u yurist bo'lishni tanlagan (ukasi esa \"teacher\" bo'lgan)."
+  },
+  {
+   "n": 6,
+   "quote": "fatal horse riding accident",
+   "uz": "Jorjning ukasi ot minish (\"riding\") paytidagi baxtsiz hodisa oqibatida halok bo'lgan."
+  }
+ ]
+}

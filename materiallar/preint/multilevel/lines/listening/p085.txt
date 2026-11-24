@@ -1,0 +1,33 @@
+﻿104`t20`t165`t86
+175`t26`t201`tExercise 4
+96`t31`t755`tMultilevel Master listening
+225`t27`t203`tYou will hear someone giving a talk. Label the places (1-5) on the map
+262`t27`t202`t(A-H). There arc THREE extra options which you do not need to use.
+370`t18`t498`tHOUSE
+745`t27`t210`t1. kitchen garden
+782`t26`t210`t4. shop
+863`t24`t212`tExercise 5
+677`t17`t517`tINFORMATION
+700`t16`t546`tCENTRE
+744`t26`t515`t2. pear alley
+780`t21`t515`t5. tea room
+740`t27`t770`t3. mulberry garden
+921`t27`t210`tYou will hear someone giving a talk. Label the places (1-5) on the map
+957`t25`t178`t(A-F). There is ONE extra option which you do not need to use.
+996`t17`t771`tOlympic
+1015`t13`t789`tSite
+1100`t15`t648`tIsland
+1245`t13`t386`tBenches
+1436`t27`t198`t1. swimming pool
+1474`t22`t196`t4. lake
+1231`t18`t495`tF
+1266`t14`t540`tYou aro here
+1318`t15`t523`tPond
+1437`t26`t512`t2. car park
+1473`t22`t511`t5. café
+1170`t19`t809`tc
+1243`t14`t782`tndoor
+1262`t14`t777`tArena
+1336`t16`t716`tStadium
+1442`t27`t769`t3. the rose garden
+1653`t9`t1022`tScanned With

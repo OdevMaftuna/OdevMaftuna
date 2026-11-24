@@ -1,0 +1,35 @@
+{
+ "script": "Presenter: Are you wondering what to do over the summer holidays? The International Sports Festival starts on the 30th of June, lasts for two weeks, and ends on the 13th of July with prize-giving and fireworks. It's well worth attending. Here's why. The fun starts on day one with a huge event in Prospect Park. Organisers will arrive early to set up, but the event for the public begins at 12 p.m. and lasts all day until 6. Throughout the day, many different clubs and companies will be giving free workshops, which means you'll be able to try sports that you may never have tried before. Some of the highlights at the opening event include skateboarding and break-dancing workshops. You might also like to bring your bike and try some extreme cycling. Before you start, an expert will check over your bike to make sure it's safe. There will also be a bike race. To find out more information about exact times of each workshop, look on our website. You'll also be able to download a map which shows where everything will be in the park on the day. For the remaining two weeks of the festival, you'll be able to enjoy further workshops and sessions in the area. Locations and events include water sports at River Swimming Complex, track events at the Athletics Stadium, and you can also take part in indoor team games at Central Leisure. This festival is the first of its kind in our town, and I really recommend you see what it's all about.",
+ "items": [
+  {
+   "n": 1,
+   "quote": "ends on the 13th of July",
+   "uz": "Festval 30-iyunda boshlanib, 13-iyulda (13th of July) tugaydi. Shuning uchun to'g'ri javob 13th yoki thirteenth."
+  },
+  {
+   "n": 2,
+   "quote": "huge event in Prospect Park",
+   "uz": "Ochilish tadbiri 'Prospect Park' hududida bo'lib o me'da o'tishi aytilgan. Shuning uchun bo'sh joyga park so'zi qo'yiladi."
+  },
+  {
+   "n": 3,
+   "quote": "begins at 12 p.m. and lasts all day until 6",
+   "uz": "Tadbir soat 12:00 da boshlanib, kechki soat 6:00 gacha (until 6) davom etadi. Javob: 6 yoki six."
+  },
+  {
+   "n": 4,
+   "quote": "try some extreme cycling",
+   "uz": "Ochilish kunida skateboarding, break-dancing hamda extreme cycling (ekstremal velosport) bo'yicha mashg'ulotlar o'tkaziladi."
+  },
+  {
+   "n": 5,
+   "quote": "look on our website. You'll also be able to download a map",
+   "uz": "Veb-sayt orqali vaqtlar jadvali bilan birga xarita (map)ni ham yuklab olish mumkinligi aytilgan."
+  },
+  {
+   "n": 6,
+   "quote": "indoor team games at Central Leisure",
+   "uz": "Central Leisure majmuasida yopiq bino ichidagi jamoaviy o'yinlar (indoor team games) o'tkaziladi. Javob: team."
+  }
+ ]
+}

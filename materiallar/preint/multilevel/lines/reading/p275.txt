@@ -1,0 +1,42 @@
+﻿71`t16`t114`t274
+74`t20`t589`tMultilevel Master reading
+126`t21`t143`tFor questions 1-4, choose the correct answer A, B, Ci or D.
+154`t19`t143`tl. What does the author think about the educational value of prohibi-
+183`t21`t116`tting children from the internet?
+212`t21`t143`tA) It is useless.
+240`t21`t143`tC) It is effective.
+210`t21`t390`tB) It is important.
+240`t20`t391`tD) It is advisable.
+284`t21`t143`t2. What way of using the internet in education does the author mention
+314`t21`t116`t(paragraph 2)?
+341`t22`t143`tA) Finding ready-made research papers.
+369`t21`t144`tB) Online Instruction by the school administration.
+398`t22`t143`tC) Communication platform for teachers and Students.
+426`t21`t144`tD) Teaching from home.
+471`t22`t143`t3. According to the text, the best way to protect children from internet
+500`t18`t116`thazards is to
+530`t21`t143`tA) monitor their accounts on social networks.
+558`t21`t144`tB) follow them online.
+587`t22`t144`tC) ban them from using social networks,
+615`t21`t144`tD) limit their access to the computer.
+672`t21`t143`t4. The danger of online games is, according to the author, in
+701`t21`t144`tA) the possibility Of losing one'S money.
+731`t21`t144`tB) availability of VIP passes.
+759`t21`t144`tC) getting used to spending money easily.
+788`t21`t144`tD) their accessibility.
+831`t21`t144`tFor questions 5-9, decide if the following statements agree with the
+860`t21`t117`tinformation given in the text. Mark your answers on the answer sheet.
+905`t22`t144`t5. Some schools have a special system that allows students and tea-
+935`t18`t117`tchers make communication with each other.
+963`t21`t144`tA) True
+963`t20`t324`tB) False
+962`t21`t528`tC) No Information
+1005`t21`t144`t6. Children face no difficulty in adjusting to the intemet after removing
+1037`t18`t117`tthe ban to use.
+1065`t21`t144`tA) True
+1064`t20`t324`tB) False
+1064`t21`t530`tC) No Information
+1109`t21`t144`t7. All parents usually control the access Of their children to the internet.
+1139`t20`t144`tA) True
+1139`t19`t324`tB) False
+1137`t21`t530`tC) No Information

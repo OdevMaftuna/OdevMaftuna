@@ -1,0 +1,32 @@
+﻿61`t31`t773`tMultilevel Master listening
+109`t20`t183`t88
+172`t27`t217`tExercise 8
+198`t29`t216`tYou will hear someone giving a talk. Label the places (1-4) on the map
+237`t28`t215`t(A-G). There are THREE extra options which you do not need to use.
+298`t23`t452`tHinchingbrook0 Park
+366`t18`t388`tLako
+545`t17`t326`tWest gate
+642`t21`t217`t1. bird hide
+677`t27`t216`t3. flower garden
+752`t25`t218`tExercise 9
+555`t16`t543`trefreshments
+635`t28`t521`t2. dog-walking area
+672`t23`t520`t4. wooded area
+506`t15`t836`tNorth
+541`t14`t883`tEast
+544`t14`t791`tWest
+573`t15`t833`tSouth
+800`t27`t218`tYou will hear someone giving a talk. Label the places (1-5) on the map
+837`t26`t216`t(A-H). There are THREE extra options which you do not need to use.
+928`t14`t473`tRoad
+969`t14`t569`tFarm Yard
+1076`t13`t698`tc
+1112`t12`t690`tPool
+1434`t22`t198`t1. scarecrow
+1471`t22`t196`t4. black barn
+1331`t13`t660`tNew Barn
+1380`t14`t728`tYou aro here
+1437`t22`t510`t2. maze
+1449`t22`t863`t3. cafe
+1473`t25`t509`t5. covered picnic area
+1653`t9`t1022`tScanned With

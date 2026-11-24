@@ -1,0 +1,562 @@
+{
+ "code": "PC19",
+ "course": "Pre-Intermediate",
+ "kind": "level",
+ "unit": null,
+ "price": 150000,
+ "sort": 103,
+ "title": "Pre-Intermediate Final Test",
+ "subtitle": "Cumulative · Units 1–9 · the whole course in one exam",
+ "sections": [
+  {
+   "title": "A. Complete the sentences with the correct form of the verbs in brackets.",
+   "items": [
+    {
+     "t": "text",
+     "q": "I ______ (go) to the dentist yesterday.",
+     "a": [
+      "went"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "We ______ (play) chess when Mum came home.",
+     "a": [
+      "were playing"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "If I won a lot of money, I ______ (buy) a house for my parents.",
+     "a": [
+      "would buy",
+      "'d buy"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I ______ (meet) Sara at 5 p.m. today — we arranged it yesterday.",
+     "a": [
+      "am meeting",
+      "'m meeting"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "She ______ (already / finish) her project.",
+     "a": [
+      "has already finished",
+      "'s already finished"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The pyramids ______ (build) thousands of years ago.",
+     "a": [
+      "were built"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "When I arrived, the film ______ (already / start).",
+     "a": [
+      "had already started"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "If Aziz passes the test, his parents ______ (be) very happy.",
+     "a": [
+      "will be",
+      "'ll be"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "B. Choose the correct words.",
+   "items": [
+    {
+     "t": "mc",
+     "q": "There isn’t ___ milk in the fridge.",
+     "o": [
+      "many",
+      "much",
+      "a few"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "You ___ use your phone during the exam. It’s against the rules.",
+     "o": [
+      "mustn’t",
+      "needn’t",
+      "don’t have to"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "This is the ___ day of the year!",
+     "o": [
+      "hotter",
+      "hottest",
+      "most hot"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "Look at those clouds! It ___ rain.",
+     "o": [
+      "will",
+      "is going to",
+      "would"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "He said he ___ come to the party.",
+     "o": [
+      "will",
+      "would",
+      "can"
+     ],
+     "a": 1
+    }
+   ]
+  },
+  {
+   "title": "C. Complete the second sentence so that it has the same meaning. Use 1–3 words.",
+   "items": [
+    {
+     "t": "text",
+     "q": "It isn’t necessary to bring food. → You ______ bring food.",
+     "a": [
+      "needn't",
+      "don't have to",
+      "do not have to",
+      "need not"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The bag is too heavy for me to carry. → The bag isn’t light ______ me to carry.",
+     "a": [
+      "enough for"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "No mountain in Uzbekistan is higher than this one. → This is ______ mountain in Uzbekistan.",
+     "a": [
+      "the highest"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "People grow cotton here. → Cotton ______ here.",
+     "a": [
+      "is grown"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I don’t know her number, so I can’t call her. → If I ______ her number, I could call her.",
+     "a": [
+      "knew"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "‘I’m busy,’ said Lola. → Lola said she ______ busy.",
+     "a": [
+      "was"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I moved here in 2019. → I ______ here since 2019.",
+     "a": [
+      "have lived",
+      "'ve lived",
+      "have been"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "D. Match the words with the definitions. There are two extra words.",
+   "box": [
+    "avalanche",
+    "burglar",
+    "cardboard",
+    "chemist’s",
+    "delicious",
+    "documentary",
+    "ruins",
+    "shoplifter",
+    "volcano",
+    "waiter"
+   ],
+   "items": [
+    {
+     "t": "text",
+     "q": "A lot of snow falls down a mountain very fast. → ______",
+     "a": [
+      "avalanche"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "A programme with facts about real life. → ______",
+     "a": [
+      "documentary"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "You can buy medicine here. → ______",
+     "a": [
+      "chemist's",
+      "chemists",
+      "chemist"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "This person serves food in a restaurant. → ______",
+     "a": [
+      "waiter"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "A mountain with hot rock and smoke coming out of it. → ______",
+     "a": [
+      "volcano"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "What is left of old buildings that were destroyed. → ______",
+     "a": [
+      "ruins"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "This person takes things from shops without paying. → ______",
+     "a": [
+      "shoplifter"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Boxes are usually made of this. → ______",
+     "a": [
+      "cardboard"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "E. Make compound nouns. Use one word from A and one from B. (A: ice, seat, boarding, sun, murder, renewable · B: burn, pass, caps, investigation, energy, belt)",
+   "items": [
+    {
+     "t": "text",
+     "q": "Put on your ______ before the car moves.",
+     "a": [
+      "seat belt",
+      "seatbelt"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Show your ______ at the gate before you get on the plane.",
+     "a": [
+      "boarding pass"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I stayed in the sun too long and got ______.",
+     "a": [
+      "sunburn"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Global warming is melting the polar ______.",
+     "a": [
+      "ice caps"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Wind and solar power are types of ______.",
+     "a": [
+      "renewable energy"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The detective is leading a ______.",
+     "a": [
+      "murder investigation"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "F. Choose the correct words.",
+   "items": [
+    {
+     "t": "mc",
+     "q": "I was ___ when I saw a snake in my tent.",
+     "o": [
+      "terrified",
+      "terrifying"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Kayaking is great fun, but don’t forget your ___.",
+     "o": [
+      "life jacket",
+      "sleeping bag"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "The pay is good. ___, the hours are long.",
+     "o": [
+      "However",
+      "Although"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Can I ___ these shoes on?",
+     "o": [
+      "try",
+      "put"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "The police ___ him for stealing a car.",
+     "o": [
+      "arrested",
+      "sentenced"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "There’s something wrong ___ my laptop.",
+     "o": [
+      "with",
+      "of"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "title": "G. Rewrite the sentences. Use the word in brackets. Write only the missing part.",
+   "items": [
+    {
+     "t": "text",
+     "q": "I’m tired because I worked all day. → I worked all day, ______ tired. (so)",
+     "a": [
+      "so I'm",
+      "so I am"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "It was raining. We played football. → ______ it was raining, we played football. (although)",
+     "a": [
+      "Although"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Let’s go to the park. → ______ going to the park? (How about)",
+     "a": [
+      "How about"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I think you should rest. → Why ______ rest? (don’t)",
+     "a": [
+      "don't you"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I prefer to stay at home. → I’d ______ stay at home. (rather)",
+     "a": [
+      "rather"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "‘I’ll call you,’ he said. → He said he ______ me. (would)",
+     "a": [
+      "would call"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The museum was crowded. We enjoyed it. → The museum was crowded. ______, we enjoyed it. (nevertheless)",
+     "a": [
+      "Nevertheless"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "She’s very rich. She isn’t happy. → ______ she’s very rich, she isn’t happy. (even though)",
+     "a": [
+      "Even though"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Can you repair my phone? → Can my phone ______? (be)",
+     "a": [
+      "be repaired"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I agree with you up to a point. → I agree to some ______. (extent)",
+     "a": [
+      "extent"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Listening. Listen to two friends talking about their plans after school. Choose the correct answers.",
+   "audio": "preint/PC19.mp3",
+   "script": "Bekzod: Zarina, have you decided what you're going to do after school?\nZarina: I think so. I'm going to apply to a university in Tashkent to study tourism. I'd love to work as a tour guide in Samarkand.\nBekzod: That sounds great. Your English is really good, too.\nZarina: Thanks! I've been studying for six years. What about you?\nBekzod: I'm not sure really. My parents want me to be a doctor, but I'm not very keen on biology. If I could choose anything, I'd study computer science.\nZarina: Why don't you talk to them? They might understand.\nBekzod: Maybe. Although they're strict, they always listen in the end.\nZarina: And you've already built that app for our school library. That's real experience!\nBekzod: You're right. OK — I'll talk to them this weekend.",
+   "items": [
+    {
+     "t": "mc",
+     "q": "What does Zarina want to study?",
+     "o": [
+      "Medicine",
+      "Tourism",
+      "Computer science"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "How long has Zarina been studying English?",
+     "o": [
+      "Two years",
+      "Four years",
+      "Six years"
+     ],
+     "a": 2
+    },
+    {
+     "t": "mc",
+     "q": "What do Bekzod's parents want him to be?",
+     "o": [
+      "A doctor",
+      "A tour guide",
+      "An engineer"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "What has Bekzod already made?",
+     "o": [
+      "A website for a hotel",
+      "An app for the school library",
+      "A robot"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "What does Bekzod decide to do?",
+     "o": [
+      "Study biology",
+      "Talk to his parents this weekend",
+      "Find a job"
+     ],
+     "a": 1
+    }
+   ]
+  },
+  {
+   "title": "H. Read the text and choose the correct answers.",
+   "passage": "Wanted: Young Guides for Summer Tours in Khiva\n\nAre you 16–19, friendly and good at English? Every summer thousands of tourists visit the old city of Khiva, and we need young people to show them around.\n\nYou don’t need any experience — we will give you two weeks of training in history and guiding. However, you must be able to speak English confidently, and a second foreign language is a big advantage.\n\nGuides work four days a week, from 8 a.m. to 1 p.m., because the afternoons are too hot for walking tours. You will earn a good salary, plus tips from tourists, and the best guide of the summer will win a trip to Istanbul.\n\nTo apply, send a short video in English (no longer than two minutes) telling us why you love Khiva. Applications close on 1 May.",
+   "items": [
+    {
+     "t": "mc",
+     "q": "Who is the advert for?",
+     "o": [
+      "Experienced tour guides",
+      "Young people who speak English",
+      "Tourists visiting Khiva"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "What will the company give new guides?",
+     "o": [
+      "Two weeks of training",
+      "A free trip to Istanbul",
+      "A second language course"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Why do the tours finish at 1 p.m.?",
+     "o": [
+      "The guides need to study.",
+      "It is too hot in the afternoon.",
+      "The museums close."
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "What must you send to apply?",
+     "o": [
+      "A letter in English",
+      "A short video",
+      "Your exam results"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "What can the best guide win?",
+     "o": [
+      "A higher salary",
+      "Tips from tourists",
+      "A trip to Istanbul"
+     ],
+     "a": 2
+    }
+   ]
+  }
+ ]
+}

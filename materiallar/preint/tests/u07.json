@@ -1,0 +1,608 @@
+{
+ "code": "P7",
+ "course": "Pre-Intermediate",
+ "kind": "unit",
+ "unit": 7,
+ "price": 35000,
+ "title": "Unit 7 Test",
+ "subtitle": "Shopping · second conditional · past perfect",
+ "sections": [
+  {
+   "title": "A. Complete the second conditional sentences.",
+   "items": [
+    {
+     "t": "text",
+     "q": "If I ______ (have) more money, I would buy a new phone.",
+     "a": [
+      "had"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "If I had more money, I ______ (buy) a new phone.",
+     "a": [
+      "would buy",
+      "'d buy"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "If she ______ (not live) so far away, we would see her more often.",
+     "a": [
+      "didn't live",
+      "did not live"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "If we ______ (win) the lottery, we would travel around the world.",
+     "a": [
+      "won"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "If I studied more, I ______ (get) better marks.",
+     "a": [
+      "would get",
+      "'d get"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "If you ______ (go) to bed earlier, you wouldn’t be so tired.",
+     "a": [
+      "went"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "If I ______ (be) you, I would save some money.",
+     "a": [
+      "were",
+      "was"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "What ______ (you / do) if you found a wallet in the street?",
+     "a": [
+      "would you do"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "If he ______ (know) the answer, he would tell you.",
+     "a": [
+      "knew"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "If they ______ (not have) a car, they would take the bus.",
+     "a": [
+      "didn't have",
+      "did not have"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "B. Complete the sentences with the past perfect.",
+   "items": [
+    {
+     "t": "text",
+     "q": "I paid for Aziz’s ticket because he ______ (lose) his wallet.",
+     "a": [
+      "had lost",
+      "'d lost"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "After Lola ______ (pass) her exams, she bought a new laptop.",
+     "a": [
+      "had passed",
+      "'d passed"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I was upset because I ______ (spend) all my money.",
+     "a": [
+      "had spent",
+      "'d spent"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "When we arrived at the shop, it ______ (already / close).",
+     "a": [
+      "had already closed",
+      "'d already closed"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The car didn’t start because Dad ______ (not put) any petrol in it.",
+     "a": [
+      "hadn't put",
+      "had not put"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "After she ______ (open) a bank account, she got a card in the post.",
+     "a": [
+      "had opened",
+      "'d opened"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "He bought a new ticket because he ______ (leave) his at home.",
+     "a": [
+      "had left",
+      "'d left"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I couldn’t buy the phone because I ______ (not save) enough money.",
+     "a": [
+      "hadn't saved",
+      "had not saved"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "She exchanged the book because somebody ______ (already / give) her the same one.",
+     "a": [
+      "had already given",
+      "'d already given"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "After he ______ (look) in every shop, he decided to make a card himself.",
+     "a": [
+      "had looked",
+      "'d looked"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "C. Write the shop or service. The first letter is given.",
+   "items": [
+    {
+     "t": "text",
+     "q": "Fresh bread and cakes: b______",
+     "a": [
+      "baker's",
+      "bakery",
+      "bakers"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Plants and flowers for your garden: g_____ c_____",
+     "a": [
+      "garden centre",
+      "garden center"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Meat: b______",
+     "a": [
+      "butcher's",
+      "butchers",
+      "butcher"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "They cook food and you eat it at home: t_______",
+     "a": [
+      "takeaway"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Rings and necklaces: j_______",
+     "a": [
+      "jeweller's",
+      "jewellers",
+      "jeweler's",
+      "jewelry store"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Medicines and shampoo: c______",
+     "a": [
+      "chemist's",
+      "chemist",
+      "chemists"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Glasses and eye tests: o______",
+     "a": [
+      "optician's",
+      "optician",
+      "opticians"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Stamps and parcels: p___ o_____",
+     "a": [
+      "post office"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Boots and sandals: s___ s___",
+     "a": [
+      "shoe shop"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Pens, paper and notebooks: s_______",
+     "a": [
+      "stationer's",
+      "stationery shop",
+      "stationers",
+      "stationery"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "D. Write the prices in words.",
+   "items": [
+    {
+     "t": "text",
+     "q": "£4.50 → ______",
+     "a": [
+      "four pounds fifty",
+      "four pounds and fifty pence",
+      "four pounds fifty pence"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "$12 → ______",
+     "a": [
+      "twelve dollars"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "€99 → ______",
+     "a": [
+      "ninety-nine euros",
+      "ninety nine euros"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "£0.75 → ______",
+     "a": [
+      "seventy-five pence",
+      "seventy five pence",
+      "seventy-five p"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "$1.20 → ______",
+     "a": [
+      "one dollar twenty",
+      "a dollar twenty",
+      "one dollar and twenty cents",
+      "one dollar twenty cents"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "E. Choose the correct words.",
+   "items": [
+    {
+     "t": "mc",
+     "q": "Shop assistant: Can I help you? — Customer: No thanks, I’m just ___.",
+     "o": [
+      "looking",
+      "seeing",
+      "watching"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Customer: Can I ___ these jeans on?",
+     "o": [
+      "put",
+      "wear",
+      "try"
+     ],
+     "a": 2
+    },
+    {
+     "t": "mc",
+     "q": "Shop assistant: What ___ are you?",
+     "o": [
+      "big",
+      "size",
+      "number"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "Customer: They don’t ___ me. They’re too small.",
+     "o": [
+      "fit",
+      "suit",
+      "match"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Customer: Can I pay by ___ card?",
+     "o": [
+      "money",
+      "cash",
+      "credit"
+     ],
+     "a": 2
+    }
+   ]
+  },
+  {
+   "title": "F. Read the speech and choose the correct answer A, B or C.",
+   "passage": "Good morning. Today I’m going to talk about pocket money. (1) ___ of all, I’d like to look at how much teenagers get. (2) ___ , I’ll talk about how they spend it. (3) ___ , I’ll give my opinion. I’d like to start (4) ___ saying that most teenagers in our class get some money every week. Now I’d like to move (5) ___ to how they spend it. Most of them buy snacks, and this (6) ___ to my next point: health. There are a number of (7) ___ why I believe pocket money is useful. The main reason I (8) ___ this way is that it teaches us to plan. To (9) ___ up, I think every teenager should get pocket money. (10) ___ conclusion, thank you for listening.",
+   "items": [
+    {
+     "t": "mc",
+     "q": "(1)",
+     "o": [
+      "First",
+      "Firstly",
+      "At first"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "(2)",
+     "o": [
+      "Finally",
+      "Then",
+      "To sum up"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "(3)",
+     "o": [
+      "First",
+      "Second",
+      "Finally"
+     ],
+     "a": 2
+    },
+    {
+     "t": "mc",
+     "q": "(4)",
+     "o": [
+      "by",
+      "with",
+      "for"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "(5)",
+     "o": [
+      "in",
+      "on",
+      "up"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "(6)",
+     "o": [
+      "leads",
+      "takes",
+      "goes"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "(7)",
+     "o": [
+      "reason",
+      "reasons",
+      "reasoning"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "(8)",
+     "o": [
+      "think",
+      "feel",
+      "say"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "(9)",
+     "o": [
+      "sum",
+      "summary",
+      "summarise"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "(10)",
+     "o": [
+      "At",
+      "On",
+      "In"
+     ],
+     "a": 2
+    }
+   ]
+  },
+  {
+   "title": "Listening. Listen to a conversation in a shop. Choose the correct answers.",
+   "audio": "preint/P7.mp3",
+   "script": "Assistant: Good afternoon. Can I help you?\nCustomer: Yes, please. I bought this jacket here last week, but there's a problem with it. The zip is broken.\nAssistant: Oh, I'm sorry to hear that. Have you got the receipt?\nCustomer: Yes, here it is. I paid by card.\nAssistant: Thank you. Would you like us to repair it, or would you prefer to exchange it?\nCustomer: Hmm. If you had the same jacket in black, I'd exchange it. But I'd rather have my money back, to be honest.\nAssistant: That's fine. We can give you a full refund. It'll go back onto your card in about three days.\nCustomer: Great. And are those trainers in the sale?\nAssistant: Yes, they're half price — only twenty-five dollars.\nCustomer: In that case, I'll try them on!",
+   "items": [
+    {
+     "t": "mc",
+     "q": "What is wrong with the jacket?",
+     "o": [
+      "It's the wrong size.",
+      "The zip is broken.",
+      "It's dirty."
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "How did the customer pay?",
+     "o": [
+      "In cash",
+      "By card",
+      "With a voucher"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "What does the customer finally decide?",
+     "o": [
+      "To exchange the jacket",
+      "To get the jacket repaired",
+      "To get his money back"
+     ],
+     "a": 2
+    },
+    {
+     "t": "mc",
+     "q": "When will the money go back onto his card?",
+     "o": [
+      "Today",
+      "In about three days",
+      "Next month"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "How much are the trainers now?",
+     "o": [
+      "$25",
+      "$50",
+      "$15"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "title": "G. Read the text. Choose the sentence (A–G) that fits each gap. There are two extra sentences.",
+   "passage": "Dilshod opened his first shop when he was nineteen. (1) ___ He sold phone cases and chargers from a small table at the Chorsu market.\n\nAt first, business was slow. (2) ___ So he started making short videos about his products and posting them online. Within three months, people were coming from other cities to buy from him.\n\n(3) ___ He used the money to rent a real shop and hired two friends. But he made a big mistake: he bought too many cheap headphones, and most of them broke after a week. (4) ___\n\nToday Dilshod has four shops. (5) ___ ‘Don’t worry about failing,’ he says. ‘Worry about not trying.’\n\nA  Customers walked past without looking.\nB  He had saved the money from a summer job.\nC  He gave every customer their money back.\nD  By the end of the year he had earned enough to grow.\nE  He still works at the market every Saturday.\nF  His parents had bought him a car.\nG  Phones were very expensive at that time.",
+   "items": [
+    {
+     "t": "mc",
+     "q": "Gap 1",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "Gap 2",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Gap 3",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G"
+     ],
+     "a": 3
+    },
+    {
+     "t": "mc",
+     "q": "Gap 4",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G"
+     ],
+     "a": 2
+    },
+    {
+     "t": "mc",
+     "q": "Gap 5",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G"
+     ],
+     "a": 4
+    }
+   ]
+  }
+ ]
+}

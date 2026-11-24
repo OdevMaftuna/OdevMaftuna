@@ -1,0 +1,28 @@
+﻿90`t21`t220`t84
+98`t31`t818`tMultilevel Master listening
+164`t28`t254`tThe sports shop is on the left-hand side as you enter the sports centre.
+202`t29`t254`tTo the right-hand side of the entrance, there's a café.
+239`t32`t255`tPass through the entrance, turn right and the café is immediately In
+276`t23`t217`tfront of you.
+312`t27`t252`tThe leisure pool is on the other side of the sports centre to the dance
+352`t23`t217`tstudios.
+386`t31`t251`tThere is a large changing room just beyond the café.
+422`t30`t251`tWalk along the side of the sports hall and you'll find the second dance
+463`t26`t216`tstudio in the far corner of the building
+495`t28`t250`tGo straight along the corridor beside the sports hall and to your right,
+535`t26`t215`tyou'll see two dance studios.
+618`t26`t250`tExercise 1
+678`t27`t250`tYou will hear someone giving a talk. Label the places (1-5) on the map
+714`t26`t247`t(A-F). There is ONE extra option which you do not need to use.
+857`t24`t348`tc
+1299`t30`t223`t1. Library
+1335`t23`t219`t2. Main Hall
+1371`t32`t216`t3. Computer Laboratory
+1408`t25`t214`t4. Staff Room
+1445`t26`t210`t5. Student Common Room
+877`t24`t595`tLanguage
+904`t25`t588`tLaboratory
+1132`t23`t736`tReception
+1219`t21`t581`tMain Entrance
+1269`t17`t876`tYou are here
+1670`t8`t1040`tWith

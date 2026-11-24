@@ -1,0 +1,30 @@
+﻿89`t21`t937`t109
+109`t28`t70`tport
+160`t36`t100`tExercise 50
+222`t28`t99`tYou will hear someone giving a talk. Label the places (1-4) on the map
+259`t32`t99`t(A-I). There are FIVE extra options which you do not need to use
+309`t20`t133`tRotorua, New Zealand
+510`t19`t241`tLako
+536`t17`t241`tRotorua
+632`t16`t408`tLakes
+655`t16`t408`tMotel
+738`t16`t316`tRotorua
+761`t16`t315`tTown
+1157`t18`t144`tScale
+408`t17`t628`tLake
+877`t16`t587`tLake
+900`t17`t585`tTarawera
+702`t14`t857`ts
+946`t16`t848`tMount
+969`t15`t847`tTaeawera
+1092`t16`t781`tLake
+1114`t17`t782`tRotomahana
+1206`t17`t142`to
+1206`t18`t237`t5km
+1203`t18`t350`tI Okm
+1294`t24`t110`t1. Hell's Gate Thermal Reserve
+1329`t26`t111`t3. Volcanic valley
+1283`t22`t524`t2. Arts and Craft Institute
+1321`t26`t523`t4. Tamaki Village
+1536`t25`t541`tDarojangizni aniqlash uchun. mytests. uz
+1653`t9`t1022`tScanned With

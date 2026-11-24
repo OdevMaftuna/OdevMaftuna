@@ -1,0 +1,958 @@
+{
+ "a": [
+  {
+   "q": "My little brother fell off his chair and now the skin on his knee is dark and purple.",
+   "options": [
+    "bruise",
+    "pain",
+    "blood",
+    "injury"
+   ],
+   "answer": "bruise",
+   "explain": "bruise — ko'karish: yiqilib tushgach tizzasida ko'karish paydo bo'ldi."
+  },
+  {
+   "q": "After running for two hours in the hot sun, my whole body felt totally without energy.",
+   "options": [
+    "exhausted",
+    "bored",
+    "annoyed",
+    "frightened"
+   ],
+   "answer": "exhausted",
+   "explain": "exhausted — litsent: issiqda ikki soat yugurib butunlay charchadi."
+  },
+  {
+   "q": "I studied hard for the mathematics test and got the highest grade in the class.",
+   "options": [
+    "delighted",
+    "disappointed",
+    "confused",
+    "suspicious"
+   ],
+   "answer": "delighted",
+   "explain": "delighted — xursand: imtihondan eng yuqori baho olib juda xursand bo'ldi."
+  },
+  {
+   "q": "While cooking dinner on the stove, hot oil touched my finger and made it very red.",
+   "options": [
+    "burn",
+    "cut",
+    "bleed",
+    "hurt"
+   ],
+   "answer": "burn",
+   "explain": "burn — kuyish: ovqat pishirayotganda issiq yog'dan barmog'i kuyib qoldi."
+  },
+  {
+   "q": "My best friend forgot my birthday and did not even send me a text message today.",
+   "options": [
+    "disappointed",
+    "delighted",
+    "relieved",
+    "satisfied"
+   ],
+   "answer": "disappointed",
+   "explain": "disappointed — ko'ngli qolgan: do'sti tug'ilgan kunini unutgani uchun xafa bo'ldi."
+  },
+  {
+   "q": "Walking alone in the dark park at night made my younger sister tremble with sudden fear.",
+   "options": [
+    "frightened",
+    "bored",
+    "tired",
+    "interested"
+   ],
+   "answer": "frightened",
+   "explain": "frightened — qo'rqqan: qorong'i bog'da yolg'iz yurib qattiq qo'rqib ketdi."
+  },
+  {
+   "q": "The documentary about deep ocean creatures was so dull that I fell asleep halfway through.",
+   "options": [
+    "boring",
+    "interesting",
+    "surprising",
+    "confusing"
+   ],
+   "answer": "boring",
+   "explain": "boring — zerikarli: dengiz haqidagi hujjatli film juda zerikarli edi."
+  },
+  {
+   "q": "We spent the entire afternoon sitting by the river in Tashkent eating sandwiches and fruit.",
+   "options": [
+    "picnic",
+    "walk",
+    "dance",
+    "chess"
+   ],
+   "answer": "picnic",
+   "explain": "picnic — piknik: daryo bo'shida o'tirib ovqatlanib piknik qilishdi."
+  },
+  {
+   "q": "During the history lesson, the teacher wrote important dates on the big digital screen at the front.",
+   "options": [
+    "interactive whiteboard",
+    "noticeboard",
+    "desk",
+    "canteen"
+   ],
+   "answer": "interactive whiteboard",
+   "explain": "interactive whiteboard — interaktiv doska: darsda muhim sanalar doskaga yozildi."
+  },
+  {
+   "q": "My uncle has very short white facial hair growing on his chin and around his mouth.",
+   "options": [
+    "beard",
+    "moustache",
+    "hair",
+    "jumper"
+   ],
+   "answer": "beard",
+   "explain": "beard — soqol: uning tog'asining iyak qismida oq soqoli bor edi."
+  },
+  {
+   "q": "I failed to understand the complicated grammar rules because the explanation made no sense.",
+   "options": [
+    "confused",
+    "satisfied",
+    "proud",
+    "relieved"
+   ],
+   "answer": "confused",
+   "explain": "confused — gangib qolgan: murakkab qoidani tushunmay boshi qotdi."
+  },
+  {
+   "q": "We bought hot soup and fresh bread in the school building where students eat lunch.",
+   "options": [
+    "canteen",
+    "gym",
+    "corridor",
+    "reception"
+   ],
+   "answer": "canteen",
+   "explain": "canteen — oshxona: o'quvchilar tushlik qilish uchun maktab oshxonasiga kirishdi."
+  },
+  {
+   "q": "My cousin loves solving equations and mixing colorful liquids in glass tubes during science class.",
+   "options": [
+    "chemistry",
+    "geography",
+    "drama",
+    "music"
+   ],
+   "answer": "chemistry",
+   "explain": "chemistry — kimyo: u fan darsida kolbalar va suyuqliklar bilan ishlaydi."
+  },
+  {
+   "q": "He tripped on a loose carpet edge and hurt his ankle while walking down the hallway.",
+   "options": [
+    "sprain",
+    "burn",
+    "cut",
+    "bruise"
+   ],
+   "answer": "sprain",
+   "explain": "sprain — chiqish/lat yeyish: gilamga qoqilib tushib oyog'ini burab oldi."
+  },
+  {
+   "q": "I felt very bad and red in the face after dropping my tray of food in front of everyone.",
+   "options": [
+    "embarrassed",
+    "proud",
+    "relieved",
+    "excited"
+   ],
+   "answer": "embarrassed",
+   "explain": "embarrassed — uyalgan: hamma oldida ovqat solingan patnisni tushirib yuborib uyaldi."
+  },
+  {
+   "q": "She has lovely long locks that fall in soft, rounded curves down her back.",
+   "options": [
+    "wavy",
+    "straight",
+    "short",
+    "dark"
+   ],
+   "answer": "wavy",
+   "explain": "wavy — to'lqinsimon: uning sochlari uzun va to'lqinsimon shaklda edi."
+  },
+  {
+   "q": "We sat on the carpet in the living room and rolled dice to move our wooden pieces.",
+   "options": [
+    "board games",
+    "video games",
+    "chess",
+    "bowling"
+   ],
+   "answer": "board games",
+   "explain": "board games — stol o'yinlari: oila davrasida zarlar tashlab stol o'yini o'ynashdi."
+  },
+  {
+   "q": "My father wears a warm woolen knitted top with long sleeves during cold winter evenings.",
+   "options": [
+    "jumper",
+    "jacket",
+    "coat",
+    "shirt"
+   ],
+   "answer": "jumper",
+   "explain": "jumper — jemper: sovuq qish oqshomlarida u iliq jun jemper kiyib oldi."
+  },
+  {
+   "q": "The police officer looked at the open window and strange footprints with great doubt.",
+   "options": [
+    "suspicious",
+    "delighted",
+    "bored",
+    "tired"
+   ],
+   "answer": "suspicious",
+   "explain": "suspicious — shubhali: ochiq deraza va g'alati izlar politsiyada shubha uyg'otdi."
+  },
+  {
+   "q": "After losing my passport at the Tashkent airport, I panicked until a kind guard found it.",
+   "options": [
+    "anxious",
+    "bored",
+    "proud",
+    "satisfied"
+   ],
+   "answer": "anxious",
+   "explain": "anxious — xavotirli: pasportini yo'qotib qo'yib qattiq xavotirga tushdi."
+  },
+  {
+   "q": "My brother plays matches on his computer every evening using a keyboard and a mouse.",
+   "options": [
+    "video games",
+    "board games",
+    "chess",
+    "bowling"
+   ],
+   "answer": "video games",
+   "explain": "video games — video o'yinlar: u har oqshom kompyuterda video o'yinlar o'ynaydi."
+  },
+  {
+   "q": "The students played basketball and ran fast from one end of the large indoor hall to the other.",
+   "options": [
+    "gym",
+    "canteen",
+    "corridor",
+    "reception"
+   ],
+   "answer": "gym",
+   "explain": "gym — sport zali: o'quvchilar sport zalida basketbol o'ynab yugurishdi."
+  },
+  {
+   "q": "When I stepped on a sharp piece of glass in the garden, red liquid started coming out.",
+   "options": [
+    "bleed",
+    "burn",
+    "bruise",
+    "hurt"
+   ],
+   "answer": "bleed",
+   "explain": "bleed — qonashi: o'tkir shisha tegib oyog'idan qon oqishni boshladi."
+  },
+  {
+   "q": "The little girl wore a warm outer garment with buttons over her school dress outside.",
+   "options": [
+    "coat",
+    "jumper",
+    "shirt",
+    "trousers"
+   ],
+   "answer": "coat",
+   "explain": "coat — palto: maktab ko'ylagi ustidan iliq palto kiyib oldi."
+  },
+  {
+   "q": "We walked down the long passage inside the school building to reach the science laboratory.",
+   "options": [
+    "corridor",
+    "gym",
+    "canteen",
+    "reception"
+   ],
+   "answer": "corridor",
+   "explain": "corridor — yo'lak: laboratoriyaga borish uchun uzun maktab yo'lagidan yurishdi."
+  },
+  {
+   "q": "My sister was very glad when she heard that her lost cat came back home safely.",
+   "options": [
+    "relieved",
+    "annoyed",
+    "disappointed",
+    "upset"
+   ],
+   "answer": "relieved",
+   "explain": "relieved — yengil tortgan: yo'qolgan mushugi topilgach xotirjam bo'ldi."
+  },
+  {
+   "q": "The teacher told us to open our printed books and read page forty for our homework.",
+   "options": [
+    "textbook",
+    "laptop",
+    "interactive whiteboard",
+    "noticeboard"
+   ],
+   "answer": "textbook",
+   "explain": "textbook — darslik: o'qituvchi uy vazifasi uchun darslikni ochishni aytdi."
+  },
+  {
+   "q": "My father has dark facial hair growing only on the upper lip right beneath his nose.",
+   "options": [
+    "moustache",
+    "beard",
+    "hair",
+    "jumper"
+   ],
+   "answer": "moustache",
+   "explain": "moustache — mo'ylov: uning otasining burni ostida qora mo'ylovi bor."
+  },
+  {
+   "q": "We planted colorful flowers and painted the benches in the outdoor area behind the school.",
+   "options": [
+    "playing field",
+    "gym",
+    "corridor",
+    "canteen"
+   ],
+   "answer": "playing field",
+   "explain": "playing field — o'yin maydoni: maktab ortidagi o'yin maydonida ish qilishdi."
+  },
+  {
+   "q": "The museum guide shared so many fascinating historical stories that everyone listened with wide eyes.",
+   "options": [
+    "interesting",
+    "boring",
+    "tiring",
+    "confusing"
+   ],
+   "answer": "interesting",
+   "explain": "interesting — qiziqarli: muzey gidining hikoyalari barchaga juda qiziq tuyuldi."
+  },
+  {
+   "q": "My brother loves using his heavy wooden board with four small wheels to roll down hills.",
+   "options": [
+    "skateboarding",
+    "bowling",
+    "ice skating",
+    "dance"
+   ],
+   "answer": "skateboarding",
+   "explain": "skateboarding — skeytbordda uchish: u doim adirlikdan skeytbordda uchadi."
+  },
+  {
+   "q": "Teachers go to this quiet room during their break time to drink hot tea and rest.",
+   "options": [
+    "staff room",
+    "reception",
+    "canteen",
+    "gym"
+   ],
+   "answer": "staff room",
+   "explain": "staff room — o'qituvchilar xonasi: o'qituvchilar tanaffusda dam olish uchun shu yerga kirishadi."
+  },
+  {
+   "q": "She wore soft, tight stretchy trousers made of cotton for her morning fitness workout.",
+   "options": [
+    "leggings",
+    "trousers",
+    "shirt",
+    "jacket"
+   ],
+   "answer": "leggings",
+   "explain": "leggings — legins: ertalabki mashqlar uchun qulay legins kiyib oldi."
+  },
+  {
+   "q": "I have not slept for thirty hours because I had to finish my big geography project.",
+   "options": [
+    "exhausted",
+    "bored",
+    "interested",
+    "worried"
+   ],
+   "answer": "exhausted",
+   "explain": "exhausted — holdan toygan: ko‘p ish yoki o‘qish sababli quvvati qolmagan."
+  },
+  {
+   "q": "Nothing was happening on the stage during the long play and people started leaving early.",
+   "options": [
+    "exhausted",
+    "bored",
+    "interested",
+    "worried"
+   ],
+   "answer": "bored",
+   "explain": "bored — zerikkan: qiziqarsiz narsadan vaqt o‘tmayotgani uchun zerikdi."
+  },
+  {
+   "q": "I left my passport on the kitchen table just two hours before our flight to Tashkent.",
+   "options": [
+    "anxious",
+    "proud",
+    "relieved",
+    "satisfied"
+   ],
+   "answer": "anxious",
+   "explain": "anxious — xavotirli: muhim narsa uchun qattiq xavotirda."
+  },
+  {
+   "q": "My younger sister won the national piano competition after practicing every single day this year.",
+   "options": [
+    "anxious",
+    "proud",
+    "relieved",
+    "satisfied"
+   ],
+   "answer": "proud",
+   "explain": "proud — g‘ururlangan: yaqinining yutug‘idan boshi osmonga yetdi."
+  },
+  {
+   "q": "I finally found my lost wallet under the sofa cushions right before paying for lunch.",
+   "options": [
+    "anxious",
+    "proud",
+    "relieved",
+    "satisfied"
+   ],
+   "answer": "relieved",
+   "explain": "relieved — yengil tortgan: xavf o‘tib ketgach xotirjam bo‘ldi."
+  },
+  {
+   "q": "We finished cleaning the entire house and now it looks wonderfully neat and tidy everywhere.",
+   "options": [
+    "anxious",
+    "proud",
+    "relieved",
+    "satisfied"
+   ],
+   "answer": "satisfied",
+   "explain": "satisfied — qoniqqan: qilingan ish natijasidan mamnun bo‘ldi."
+  },
+  {
+   "q": "The documentary about deep ocean creatures was so fascinating that I watched it twice.",
+   "options": [
+    "interesting",
+    "boring",
+    "tiring",
+    "confusing"
+   ],
+   "answer": "interesting",
+   "explain": "interesting — qiziqarli: odamning e’tiborini o‘ziga tortadigan narsa."
+  }
+ ],
+ "b": [
+  {
+   "q": "During the short break between lessons, hungry students usually walk down to the school ______ to buy a warm snack.",
+   "options": [
+    "canteen",
+    "corridor",
+    "reception",
+    "gym"
+   ],
+   "answer": "canteen",
+   "explain": "canteen — oshxona: maktabda ovqatlanish zali va bufet joylashgan xona."
+  },
+  {
+   "q": "My younger brother loves science experiments so much that his favourite school subject this term is definitely ______.",
+   "options": [
+    "chemistry",
+    "geography",
+    "drama",
+    "music"
+   ],
+   "answer": "chemistry",
+   "explain": "chemistry — kimyo: moddalar va ularning o'zgarishini o'rganadigan fan."
+  },
+  {
+   "q": "When winter arrives in Tashkent and the local lake freezes completely, my friends and I love going ______.",
+   "options": [
+    "ice skating",
+    "bowling",
+    "skateboarding",
+    "board games"
+   ],
+   "answer": "ice skating",
+   "explain": "ice skating — muzda uchish: muz ustida maxsus konki bilan uchish sporti."
+  },
+  {
+   "q": "Our teacher wrote the difficult grammar rules clearly on the large ______ at the front of the room.",
+   "options": [
+    "interactive whiteboard",
+    "noticeboard",
+    "desk",
+    "laptop"
+   ],
+   "answer": "interactive whiteboard",
+   "explain": "interactive whiteboard — interaktiv doska: darsda foydalaniladigan zamonaviy elektron doska."
+  },
+  {
+   "q": "Before entering the quiet school library to read books, remember to hang your heavy winter ______ on the rack.",
+   "options": [
+    "coat",
+    "jumper",
+    "shirt",
+    "trousers"
+   ],
+   "answer": "coat",
+   "explain": "coat — palto: sovuq havoda kiyiladigan ustki kiyim turi."
+  },
+  {
+   "q": "My uncle has grown a thick dark ______ above his upper lip to look a bit more serious.",
+   "options": [
+    "moustache",
+    "beard",
+    "hair",
+    "hat"
+   ],
+   "answer": "moustache",
+   "explain": "moustache — mo'ylov: burun ostidagi lab ustida o'sadigan soch."
+  },
+  {
+   "q": "The young basketball player felt extremely ______ after winning the national championship match in Tashkent yesterday.",
+   "options": [
+    "proud",
+    "ashamed",
+    "anxious",
+    "confused"
+   ],
+   "answer": "proud",
+   "explain": "proud — faxrlanadigan: muvaffaqiyatdan g'ururlangan va mamnun holat."
+  },
+  {
+   "q": "After falling heavily from his bicycle on the concrete road, he began to cry because of the sharp ______ in his knee.",
+   "options": [
+    "pain",
+    "bruise",
+    "cut",
+    "injury"
+   ],
+   "answer": "pain",
+   "explain": "pain — og'riq: tananing biror joyida seziladigan noxush hissiyot."
+  },
+  {
+   "q": "She was absolutely ______ when her best friend unexpectedly arrived from Samarkand with wonderful birthday gifts.",
+   "options": [
+    "delighted",
+    "disappointed",
+    "disgusted",
+    "annoyed"
+   ],
+   "answer": "delighted",
+   "explain": "delighted — xursand: biror narsadan juda mamnun va shod bo'lgan."
+  },
+  {
+   "q": "My little sister felt very ______ when she accidentally dropped her ice cream on the busy pavement.",
+   "options": [
+    "embarrassed",
+    "frightened",
+    "suspicious",
+    "relieved"
+   ],
+   "answer": "embarrassed",
+   "explain": "embarrassed — uyalgan: noqulay ahvofga tushib qolgandagi holat."
+  },
+  {
+   "q": "Teachers often tell noisy students to stop talking and ______ the blackboard during an important lesson.",
+   "options": [
+    "look at",
+    "ask for",
+    "find out",
+    "put back"
+   ],
+   "answer": "look at",
+   "explain": "look at — qaramoq: biror narsaga diqqat bilan nazar solmoq."
+  },
+  {
+   "q": "When nobody confessed to breaking the window, the teacher asked the whole class to ______ the truth.",
+   "options": [
+    "own up",
+    "get over",
+    "talk about",
+    "put back"
+   ],
+   "answer": "own up",
+   "explain": "own up — tan olmoq: xato yoki aybni yashirmasdan oshkora aytmoq."
+  },
+  {
+   "q": "My grandfather reads the daily newspaper every morning while wearing his favourite black leather ______.",
+   "options": [
+    "jacket",
+    "jumper",
+    "sweatshirt",
+    "shirt"
+   ],
+   "answer": "jacket",
+   "explain": "jacket — kurtka: yengil ustki kiyim turi."
+  },
+  {
+   "q": "We need to check the school schedule on the main ______ near the entrance to find our new classroom.",
+   "options": [
+    "noticeboard",
+    "interactive whiteboard",
+    "desk",
+    "whiteboard"
+   ],
+   "answer": "noticeboard",
+   "explain": "noticeboard — e'lonlar taxtasi: muhim xabarlar osib qo'yiladigan joy."
+  },
+  {
+   "q": "After working hard on my English project all weekend, I felt very ______ with the final result.",
+   "options": [
+    "satisfied",
+    "annoyed",
+    "disappointed",
+    "shocked"
+   ],
+   "answer": "satisfied",
+   "explain": "satisfied — qoniqqan: xohlagan natijasiga erishib mamnun bo'lgan."
+  },
+  {
+   "q": "My little brother loves playing traditional indoor ______ like checkers and dominoes with our grandfather.",
+   "options": [
+    "board games",
+    "video games",
+    "chess",
+    "bowling"
+   ],
+   "answer": "board games",
+   "explain": "board games — stol o'yinlari: doskada yoki stol ustida o'ynaladigan o'yinlar."
+  },
+  {
+   "q": "Please remember to ______ your library books on the correct shelf before leaving the reading room.",
+   "options": [
+    "put back",
+    "find out",
+    "look at",
+    "ask for"
+   ],
+   "answer": "put back",
+   "explain": "put back — joyiga qo'yib qo'ymoq: olgan narsani o'z o'rniga qaytarmoq."
+  },
+  {
+   "q": "Aziza wore comfortable dark blue ______ during our long school hike through the mountains near Tashkent.",
+   "options": [
+    "leggings",
+    "shirt",
+    "coat",
+    "tie"
+   ],
+   "answer": "leggings",
+   "explain": "leggings — leggins: tor va qulay sport to'qima shim turi."
+  },
+  {
+   "q": "It takes time to ______ a bad cold, so you should stay in bed and drink hot tea.",
+   "options": [
+    "get over",
+    "own up",
+    "find out",
+    "put back"
+   ],
+   "answer": "get over",
+   "explain": "get over — tuzalib ketmoq: kasallik yoki qiyinchilikni yengib o'tmoq."
+  },
+  {
+   "q": "We need to ______ when the next fast train to Bukhara departs from the central railway station.",
+   "options": [
+    "find out",
+    "put back",
+    "look at",
+    "own up"
+   ],
+   "answer": "find out",
+   "explain": "find out — aniqlab bilmoq: yangi ma'lumotni o'rganib olmoq."
+  },
+  {
+   "q": "My sister has very long and naturally ______ hair that always looks wonderful in family photographs.",
+   "options": [
+    "wavy",
+    "short",
+    "straight",
+    "dark"
+   ],
+   "answer": "wavy",
+   "explain": "wavy — to'lqinsimon: ozgina egri-bugri bo'lib o'sadigan soch turi."
+  },
+  {
+   "q": "After missing three important penalty kicks, the football striker felt deeply ______ with his poor performance.",
+   "options": [
+    "disappointed",
+    "delighted",
+    "proud",
+    "excited"
+   ],
+   "answer": "disappointed",
+   "explain": "disappointed — ko'ngli qolgan: kutilgan natija bo'lmaganda tushkunlikka tushish."
+  },
+  {
+   "q": "After running for forty minutes in the summer heat, my little brother felt completely ______.",
+   "options": [
+    "exhausted",
+    "excited",
+    "annoyed",
+    "frightened"
+   ],
+   "answer": "exhausted",
+   "explain": "exhausted — juda charchagan: issiqda yugurib, u butunlay charchadi."
+  },
+  {
+   "q": "My best friend told me a very funny story that made me feel extremely ______.",
+   "options": [
+    "delighted",
+    "disgusted",
+    "anxious",
+    "confused"
+   ],
+   "answer": "delighted",
+   "explain": "delighted — xursand: do'stimning ajoyib hikoyasidan juda xursand bo'ldim."
+  },
+  {
+   "q": "She wants to learn how to mix chemicals safely during her next ______ lesson.",
+   "options": [
+    "chemistry",
+    "geography",
+    "drama",
+    "music"
+   ],
+   "answer": "chemistry",
+   "explain": "chemistry — kimyo: kimyo darsida xavfsiz tajribalar o'tkazishni o'rganmoqda."
+  },
+  {
+   "q": "My father has grown a thick dark ______ on his upper lip since last winter.",
+   "options": [
+    "moustache",
+    "beard",
+    "hair",
+    "jumper"
+   ],
+   "answer": "moustache",
+   "explain": "moustache — mo'ylov: u o'tgan qishdan beri lab ustida mo'ylov o'stirdi."
+  },
+  {
+   "q": "My little sister was ______ when she saw a huge spider crawling on her bed.",
+   "options": [
+    "frightened",
+    "bored",
+    "tired",
+    "interested"
+   ],
+   "answer": "frightened",
+   "explain": "frightened — qo'rqqan: o'rgimchakni ko'rib qizi qo'rqib ketdi."
+  },
+  {
+   "q": "He felt very ______ after failing his driving test for the second time today.",
+   "options": [
+    "disappointed",
+    "delighted",
+    "satisfied",
+    "relieved"
+   ],
+   "answer": "disappointed",
+   "explain": "disappointed — hafsalasi pir bo'lgan: imtihondan o'ta olmay, hafsalasi pir bo'ldi."
+  },
+  {
+   "q": "My grandmother likes to sit by the window and comb her long grey ______.",
+   "options": [
+    "hair",
+    "beard",
+    "moustache",
+    "hat"
+   ],
+   "answer": "hair",
+   "explain": "hair — soch: buvim uzun kulrang sochlarini taroqlashni yaxshi ko'radi."
+  },
+  {
+   "q": "The students played a noisy game of table tennis in the school sports ______.",
+   "options": [
+    "hall",
+    "corridor",
+    "canteen",
+    "classroom"
+   ],
+   "answer": "hall",
+   "explain": "hall — zal: o'quvchilar sport zalida stol tennisi o'ynashdi."
+  }
+ ],
+ "c": [
+  {
+   "q": "My cousin likes wearing comfortable cotton ______ when she goes jogging in the neighborhood park.",
+   "answer": "leggings",
+   "base": "leggings",
+   "explain": "leggings — legins: u parkda yugurganda qulay legins kiyishni yoqtiradi."
+  },
+  {
+   "q": "During the break, all students buy hot tea and tasty samsas in the school ______ together.",
+   "answer": "canteen",
+   "base": "canteen",
+   "explain": "canteen — oshxona: tanaffusda oquvchilar maktab oshxonasida ovqatlanadilar"
+  },
+  {
+   "q": "My younger brother has got very ______ hair that looks like little springs on his head.",
+   "answer": "curly",
+   "base": "curly",
+   "explain": "curly — jingalak: uning sochlari juda jingalak"
+  },
+  {
+   "q": "She wore a thick woollen ______ because the classroom was freezing cold this morning.",
+   "answer": "jumper",
+   "base": "jumper",
+   "explain": "jumper — jemper: sovuq kunda u jemper kiyib oldi"
+  },
+  {
+   "q": "Our teacher wrote the new grammar rules on the large ______ at the front.",
+   "answer": "whiteboard",
+   "base": "whiteboard",
+   "explain": "whiteboard — oq doska: oq doskaga qoidalar yozildi"
+  },
+  {
+   "q": "Aziz felt extremely ______ when he dropped his lunch tray in front of everyone.",
+   "answer": "embarrassed",
+   "base": "embarrassed",
+   "explain": "embarrassed — uyatga qolgan: u hamma oldida uyaldi"
+  },
+  {
+   "q": "My father has a thick dark ______ above his lip and a short beard.",
+   "answer": "moustache",
+   "base": "moustache",
+   "explain": "moustache — mo'ylov: otasining qora mo'ylovi bor"
+  },
+  {
+   "q": "Teachers drink coffee and talk about lessons during their short break in the ______ room.",
+   "answer": "staff",
+   "base": "staff room",
+   "explain": "staff room — o'qituvchilar xonasi: o'qituvchilar xonada dam olishmoqda"
+  },
+  {
+   "q": "Gulnora looked at her final exam results and felt totally ______ because she passed.",
+   "answer": "relieved",
+   "base": "relieved",
+   "explain": "relieved — xotirjam tortgan: imtihondan so'ng u xotirjam bo'ldi"
+  },
+  {
+   "q": "Please leave your heavy winter ______ on the hooks by the front door before entering.",
+   "answer": "coat",
+   "base": "coat",
+   "explain": "coat — palto: paltolarni koridorda qoldiring"
+  },
+  {
+   "q": "My little sister fell off her bicycle yesterday and got a nasty ______ on her knee.",
+   "answer": "bruze",
+   "base": "bruise",
+   "explain": "bruise — ko'karish: yiqilib tizzasini ko'kartirib oldi"
+  },
+  {
+   "q": "During our ______ lesson, we mixed different liquids in glass tubes to see what happens.",
+   "answer": "chemistry",
+   "base": "chemistry",
+   "explain": "chemistry — kimyo: kimyo darsida tajriba o'tkazdik"
+  },
+  {
+   "q": "Mansur was very ______ about his history presentation because he forgot his notes at home.",
+   "answer": "anxious",
+   "base": "anxious",
+   "explain": "anxious — xavotirli: taqdimot oldidan u xavotirda edi"
+  },
+  {
+   "q": "We use the school ______ on the third floor for playing basketball and indoor volleyball matches.",
+   "answer": "gym",
+   "base": "gym",
+   "explain": "gym — sport zali: sport zalida basketbol o'ynaymiz"
+  },
+  {
+   "q": "My mother uses her new ______ in the living room to check her work emails every evening.",
+   "answer": "laptop",
+   "base": "laptop",
+   "explain": "laptop — noutbuk: u noutbukda ishlaydi"
+  },
+  {
+   "q": "Zarina won the regional running competition, and her parents were extremely ______ of her success.",
+   "answer": "proud",
+   "base": "proud",
+   "explain": "proud — faxrlanadigan: qizining yutug'idan ota-onasi faxrlandi"
+  },
+  {
+   "q": "The school principal stood in the main ______ to welcome all new students and their parents.",
+   "answer": "hall",
+   "base": "hall",
+   "explain": "hall — zal: bayram uchun zalga yig'ildik"
+  },
+  {
+   "q": "During the geography test, Timur tried to ______ out the capital city of Australia quickly.",
+   "answer": "find",
+   "base": "find out",
+   "explain": "find out — aniqlamoq: u javobni aniqlashga harakat qildi"
+  },
+  {
+   "q": "My brother wears a dark blue ______ and black trousers as his standard school uniform.",
+   "answer": "shirt",
+   "base": "shirt",
+   "explain": "shirt — ko'ylak: uning maktab ko'ylagi ko'k rangda"
+  },
+  {
+   "q": "The long ______ outside our classroom can be very noisy when students change lessons.",
+   "answer": "corridor",
+   "base": "corridor",
+   "explain": "corridor — yo'lak: sinflar orasidagi yo'lak gavjum edi"
+  },
+  {
+   "q": "Aziza was ______ when she realized she left her favorite red notebook at home today.",
+   "answer": "upset",
+   "base": "upset",
+   "explain": "upset — hafsalasi pir bo'lgan: daftari yo'qligidan xafa bo'ldi"
+  },
+  {
+   "q": "That horror film about ghosts in an old house was really ______ for my little brother.",
+   "answer": "frightening",
+   "base": "frightening",
+   "explain": "frightening — qo'rqinchli: kino juda qo'rqinchli edi"
+  },
+  {
+   "q": "My uncle has short ______ hair that never stays in one place without plenty of gel.",
+   "answer": "wavy",
+   "base": "wavy",
+   "explain": "wavy — to'lqinsimon: uning sochlari biroz to'lqinsimon"
+  },
+  {
+   "q": "If you touch that hot pan on the stove, you will definitely ______ your hand badly.",
+   "answer": "burn",
+   "base": "burn",
+   "explain": "burn — kuydirmoq: issiq tovaga tegib qo'lini kuydirib oldi"
+  },
+  {
+   "q": "We played ______ on the old wooden board in the park and I won three games.",
+   "answer": "chess",
+   "base": "chess",
+   "explain": "chess — shaxmat: bog'da shaxmat o'ynadik"
+  },
+  {
+   "q": "The teacher asked us to open our English ______ to page forty-five for the listening task.",
+   "answer": "textbook",
+   "base": "textbook",
+   "explain": "textbook — darslik: darslikni ochib mashqni bajaring"
+  },
+  {
+   "q": "After running five kilometers in the morning heat, Rustam felt completely ______ and went to sleep.",
+   "answer": "exhausted",
+   "base": "exhausted",
+   "explain": "exhausted — holdan toygan: u yugurishdan so'ng charchadi"
+  },
+  {
+   "q": "My younger brother has got short dark hair and a small b______ on his chin.",
+   "answer": "beard",
+   "base": "Beard",
+   "explain": "beard — soqol: uning iyagida kichkina soqoli bor."
+  },
+  {
+   "q": "During the break we usually buy some hot tea and snacks at the school c______.",
+   "answer": "canteen",
+   "base": "canteen",
+   "explain": "canteen — oshxona: tanaffusda maktab oshxonasidan choy sotib olamiz."
+  },
+  {
+   "q": "We study atoms and molecules during our difficult Thursday morning c______ lesson.",
+   "answer": "chemistry",
+   "base": "chemistry",
+   "explain": "chemistry — kimyo: payshanba kuni qiyin kimyo darsini o'qiymiz."
+  }
+ ]
+}

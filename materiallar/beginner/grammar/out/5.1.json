@@ -1,0 +1,1179 @@
+{
+ "code": "5.1",
+ "model": "gemini-3.5-flash-lite",
+ "tr1": [
+  {
+   "part": 0,
+   "uz": "Men kofe yaxshi ko'raman.",
+   "en": [
+    "I like coffee."
+   ],
+   "rule": "Present Simple darak gap: I + fe'l."
+  },
+  {
+   "part": 0,
+   "uz": "Biz Londonda yashaymiz.",
+   "en": [
+    "We live in London."
+   ],
+   "rule": "Present Simple darak gap: We + fe'l."
+  },
+  {
+   "part": 0,
+   "uz": "Siz choy yaxshi ko'rasiz.",
+   "en": [
+    "You like tea."
+   ],
+   "rule": "Present Simple darak gap: You + fe'l."
+  },
+  {
+   "part": 0,
+   "uz": "Ular Yangi uyda yashaydilar.",
+   "en": [
+    "They live in a new house."
+   ],
+   "rule": "Present Simple darak gap: They + fe'l."
+  },
+  {
+   "part": 0,
+   "uz": "Men kitobni yaxshi ko'raman.",
+   "en": [
+    "I like the book."
+   ],
+   "rule": "I + fe'l + ot."
+  },
+  {
+   "part": 0,
+   "uz": "Biz shahar markazida yashaymiz.",
+   "en": [
+    "We live in the town centre."
+   ],
+   "rule": "We + live + in + joy."
+  },
+  {
+   "part": 0,
+   "uz": "Siz ingliz tilini yaxshi ko'rasiz.",
+   "en": [
+    "You like English."
+   ],
+   "rule": "You + fe'l + ot."
+  },
+  {
+   "part": 0,
+   "uz": "Ular o'sha yerda ishlaydilar.",
+   "en": [
+    "They work over there."
+   ],
+   "rule": "They + work + joy."
+  },
+  {
+   "part": 0,
+   "uz": "Men biskvitlarni yoqtiraman.",
+   "en": [
+    "I like biscuits."
+   ],
+   "rule": "I + like + ko'plikdagi ot."
+  },
+  {
+   "part": 0,
+   "uz": "Biz Toshkentda yashaymiz.",
+   "en": [
+    "We live in Tashkent."
+   ],
+   "rule": "We + live + in + shahar."
+  },
+  {
+   "part": 0,
+   "uz": "Siz shokolad yaxshi ko'rasiz.",
+   "en": [
+    "You like chocolate."
+   ],
+   "rule": "You + like + chocolate."
+  },
+  {
+   "part": 0,
+   "uz": "Ular O'zbekistonda yashaydilar.",
+   "en": [
+    "They live in Uzbekistan."
+   ],
+   "rule": "They + live + in + davlat."
+  },
+  {
+   "part": 0,
+   "uz": "Men har kuni ishlayman.",
+   "en": [
+    "I work everyday."
+   ],
+   "rule": "I + work + payt."
+  },
+  {
+   "part": 0,
+   "uz": "Biz tennis o'ynaymiz.",
+   "en": [
+    "We play tennis."
+   ],
+   "rule": "We + play + sport."
+  },
+  {
+   "part": 0,
+   "uz": "Siz musiqa tinglaysiz.",
+   "en": [
+    "You listen to music."
+   ],
+   "rule": "You + listen to + ot."
+  },
+  {
+   "part": 0,
+   "uz": "Ular restoranda ovqatlanadilar.",
+   "en": [
+    "They eat in a restaurant."
+   ],
+   "rule": "They + eat + in + joy."
+  },
+  {
+   "part": 0,
+   "uz": "Men bananni yaxshi ko'raman.",
+   "en": [
+    "I like bananas."
+   ],
+   "rule": "I + like + meva."
+  },
+  {
+   "part": 0,
+   "uz": "Biz kinoni yaxshi ko'ramiz.",
+   "en": [
+    "We like films."
+   ],
+   "rule": "We + like + ot."
+  },
+  {
+   "part": 0,
+   "uz": "Siz do'konda ishlaysiz.",
+   "en": [
+    "You work in a shop."
+   ],
+   "rule": "You + work + in + joy."
+  },
+  {
+   "part": 0,
+   "uz": "Ular futbol o'ynaydilar.",
+   "en": [
+    "They play football."
+   ],
+   "rule": "They + play + sport."
+  },
+  {
+   "part": 0,
+   "uz": "Men pitsa yaxshi ko'raman.",
+   "en": [
+    "I like pizza."
+   ],
+   "rule": "I + like + ovqat."
+  },
+  {
+   "part": 0,
+   "uz": "Biz yangi uyda yashaymiz.",
+   "en": [
+    "We live in a new house."
+   ],
+   "rule": "We + live + in + sifat + uy."
+  },
+  {
+   "part": 0,
+   "uz": "Siz bu kitobni yaxshi ko'rasiz.",
+   "en": [
+    "You like this book."
+   ],
+   "rule": "You + like + ko'rsatish olmoshi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular Samarqandda yashaydilar.",
+   "en": [
+    "They live in Samarkand."
+   ],
+   "rule": "They + live + in + shahar."
+  },
+  {
+   "part": 0,
+   "uz": "Men uyda ishlayman.",
+   "en": [
+    "I work at home."
+   ],
+   "rule": "I + work + at home."
+  },
+  {
+   "part": 0,
+   "uz": "Biz tarjimonmiz.",
+   "en": [
+    "We are translators."
+   ],
+   "rule": "Biz kasbimiz."
+  },
+  {
+   "part": 0,
+   "uz": "Siz ingliz tilida gapirasiz.",
+   "en": [
+    "You speak English."
+   ],
+   "rule": "You + speak + til."
+  },
+  {
+   "part": 0,
+   "uz": "Ular muzqaymoqni yaxshi ko'radilar.",
+   "en": [
+    "They like ice cream."
+   ],
+   "rule": "They + like + ice cream."
+  },
+  {
+   "part": 0,
+   "uz": "Men darsni yaxshi ko'raman.",
+   "en": [
+    "I like the lesson."
+   ],
+   "rule": "I + like + ot."
+  },
+  {
+   "part": 0,
+   "uz": "Biz do'stlarmiz.",
+   "en": [
+    "We are friends."
+   ],
+   "rule": "We + are + ko'plik ot."
+  },
+  {
+   "part": 0,
+   "uz": "Siz ofisda ishlaysiz.",
+   "en": [
+    "You work in an office."
+   ],
+   "rule": "You + work + in + office."
+  },
+  {
+   "part": 0,
+   "uz": "Ular har kuni keladilar.",
+   "en": [
+    "They come everyday."
+   ],
+   "rule": "They + come + everyday."
+  },
+  {
+   "part": 0,
+   "uz": "Men mashinani yoqtiraman.",
+   "en": [
+    "I like cars."
+   ],
+   "rule": "I + like + ko'plik."
+  },
+  {
+   "part": 0,
+   "uz": "Biz ko'p kitob o'qiymiz.",
+   "en": [
+    "We read a lot of books."
+   ],
+   "rule": "We + read + a lot of."
+  },
+  {
+   "part": 0,
+   "uz": "Siz mening do'stimsiz.",
+   "en": [
+    "You are my friend."
+   ],
+   "rule": "You + possessive + noun."
+  },
+  {
+   "part": 0,
+   "uz": "Ular studentlar.",
+   "en": [
+    "They are students."
+   ],
+   "rule": "They + are + students."
+  },
+  {
+   "part": 0,
+   "uz": "Men nonni yoqtiraman.",
+   "en": [
+    "I like bread."
+   ],
+   "rule": "I + like + bread."
+  },
+  {
+   "part": 0,
+   "uz": "Biz shahar markazidamiz.",
+   "en": [
+    "We are in the town centre."
+   ],
+   "rule": "We + are + joy."
+  },
+  {
+   "part": 0,
+   "uz": "Siz yaxshi ishlayapsiz.",
+   "en": [
+    "You work well."
+   ],
+   "rule": "You + work + well."
+  },
+  {
+   "part": 0,
+   "uz": "Ular universitetda o'qiydilar.",
+   "en": [
+    "They study at university."
+   ],
+   "rule": "They + study + at university."
+  },
+  {
+   "part": 1,
+   "uz": "Men kofe yoqtirmayman.",
+   "en": [
+    "I don't like coffee."
+   ],
+   "rule": "Present Simple inkor: I + don't + fe'l."
+  },
+  {
+   "part": 1,
+   "uz": "Biz Londonda yashamaymiz.",
+   "en": [
+    "We don't live in London."
+   ],
+   "rule": "Present Simple inkor: We + don't + fe'l."
+  },
+  {
+   "part": 1,
+   "uz": "Siz choy yoqtirmaysiz.",
+   "en": [
+    "You don't like tea."
+   ],
+   "rule": "Present Simple inkor: You + don't + fe'l."
+  },
+  {
+   "part": 1,
+   "uz": "Ular ishlamaydilar.",
+   "en": [
+    "They don't work."
+   ],
+   "rule": "Present Simple inkor: They + don't + fe'l."
+  },
+  {
+   "part": 1,
+   "uz": "Men televizor ko'rmayman.",
+   "en": [
+    "I don't watch television."
+   ],
+   "rule": "I + don't + watch."
+  },
+  {
+   "part": 1,
+   "uz": "Biz ingliz tilida gapirmaymiz.",
+   "en": [
+    "We don't speak English."
+   ],
+   "rule": "We + don't + speak."
+  },
+  {
+   "part": 1,
+   "uz": "Siz mashinada yurmaysiz.",
+   "en": [
+    "You don't drive a car."
+   ],
+   "rule": "You + don't + drive."
+  },
+  {
+   "part": 1,
+   "uz": "Ular Toshkentda yashamaydilar.",
+   "en": [
+    "They don't live in Tashkent."
+   ],
+   "rule": "They + don't + live."
+  },
+  {
+   "part": 1,
+   "uz": "Men pivo ichmayman.",
+   "en": [
+    "I don't drink beer."
+   ],
+   "rule": "I + don't + drink."
+  },
+  {
+   "part": 1,
+   "uz": "Biz restoranda ovqatlanmaymiz.",
+   "en": [
+    "We don't eat in a restaurant."
+   ],
+   "rule": "We + don't + eat."
+  }
+ ],
+ "intro": {
+  "what": "Present Simple zamoni I, you, we, they olmoshlari bilan doimiy takrorlanadigan ish-harakatlarni, odatlarni va oddiy haqiqatlarni bildirish uchun ishlatiladi.",
+  "when": [
+   "Kundalik takrorlanadigan ish-harakatlar",
+   "Doimiy holatlar va faktlar",
+   "Oddiy odatlar"
+  ],
+  "structures": [
+   {
+    "label": "(+)",
+    "formula": "S + V1 + OB",
+    "example_en": "I like coffee.",
+    "example_uz": "Men kofe yoqtiraman."
+   },
+   {
+    "label": "(-)",
+    "formula": "S + don't + V1 + OB",
+    "example_en": "We don't live in London.",
+    "example_uz": "Biz Londonda yashamaymiz."
+   },
+   {
+    "label": "(?)",
+    "formula": "Do + S + V1 + OB",
+    "example_en": "Do you like tea?",
+    "example_uz": "Siz choy yoqtirasizmi?"
+   },
+   {
+    "label": "Qisqa javob",
+    "formula": "Yes, S + do / No, S + don't",
+    "example_en": "Yes, I do.",
+    "example_uz": "Ha, yoqtiraman."
+   },
+   {
+    "label": "Wh-",
+    "formula": "Wh- + do + S + V1 + OB",
+    "example_en": "Where do you live?",
+    "example_uz": "Siz qayerda yashaysiz?"
+   }
+  ],
+  "rules": [
+   {
+    "title": "Fe'l o'zgarmaydi",
+    "text": "I, you, we, they olmoshlari bilan asosiy fe'l o'zining 1-shaklida (qo'shimchasiz) ishlatiladi.",
+    "examples": [
+     {
+      "en": "I live in Tashkent.",
+      "uz": "Men Toshkentda yashayman."
+     },
+     {
+      "en": "They work together.",
+      "uz": "Ular birga ishlaydilar."
+     }
+    ]
+   },
+   {
+    "title": "Inkor shakli",
+    "text": "Inkor gaplar yasash uchun do not (don't) yordamchi fe'li ishlatiladi.",
+    "examples": [
+     {
+      "en": "I don't drink coffee.",
+      "uz": "Men kofe ichmayman."
+     },
+     {
+      "en": "We don't speak Arabic.",
+      "uz": "Biz arab tilida gaplashmaymiz."
+     }
+    ]
+   }
+  ],
+  "signal_words": [
+   {
+    "en": "every day",
+    "uz": "har kuni"
+   },
+   {
+    "en": "always",
+    "uz": "har doim"
+   },
+   {
+    "en": "sometimes",
+    "uz": "ba'zan"
+   },
+   {
+    "en": "never",
+    "uz": "hech qachon"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I likes coffee.",
+    "right": "I like coffee.",
+    "why": "I, you, we, they olmoshlari bilan fe'lga -s qo'shilmaydi."
+   },
+   {
+    "wrong": "Do you lives here?",
+    "right": "Do you live here?",
+    "why": "So'roq gapda do ishlatilganda asosiy fe'l qo'shimchasiz keladi."
+   },
+   {
+    "wrong": "We no live here.",
+    "right": "We don't live here.",
+    "why": "Inkor shaklini yasash uchun don't ishlatish kerak."
+   }
+  ]
+ },
+ "test": [
+  {
+   "type": "fill",
+   "q": "I ______ coffee everyday. [like]",
+   "answer": "like",
+   "explain": "I olmoshidan keyin fe'l o'z holicha (qo'shimchasiz) ishlatiladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "We ______ in Tashkent. [live]",
+   "answer": "live",
+   "explain": "We olmoshidan keyin Present Simple'da fe'l o'zgarishsiz qoladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "They ______ work on Sunday. [not + do]",
+   "answer": "don't",
+   "explain": "They olmoshli inkor gapda don't yordamchi fe'li ishlatiladi.",
+   "accept": [
+    "do not"
+   ]
+  },
+  {
+   "type": "fill",
+   "q": "______ you like tea? [do]",
+   "answer": "Do",
+   "explain": "You olmoshi bilan so'roq gap boshida Do ishlatiladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "Yes, I ______. [do]",
+   "answer": "do",
+   "explain": "Do bilan berilgan qisqa savolga Yes, I do deb javob beriladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "Where ______ you live? [do]",
+   "answer": "do",
+   "explain": "Where so'rog'idan keyin you olmoshi uchun do yordamchi fe'li keladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "I ______ speak English. [not + do]",
+   "answer": "don't",
+   "explain": "I olmoshida inkor yasash uchun don't ishlatiladi.",
+   "accept": [
+    "do not"
+   ]
+  },
+  {
+   "type": "fill",
+   "q": "You ______ a good car. [have]",
+   "answer": "have",
+   "explain": "You olmoshi bilan have fe'li ishlatiladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "We ______ football on Monday. [play]",
+   "answer": "play",
+   "explain": "We olmoshidan keyin fe'l o'zgarishsiz keladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "They ______ know her name. [not + do]",
+   "answer": "don't",
+   "explain": "They uchun inkor shakli don't bo'ladi.",
+   "accept": [
+    "do not"
+   ]
+  },
+  {
+   "type": "fill",
+   "q": "______ they speak Arabic? [do]",
+   "answer": "Do",
+   "explain": "They olmoshli so'roq gap boshida Do keladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "No, we ______. [not + do]",
+   "answer": "don't",
+   "explain": "Qisqa inkor javob No, we don't shaklida bo'ladi.",
+   "accept": [
+    "do not"
+   ]
+  },
+  {
+   "type": "fill",
+   "q": "What ______ you want? [do]",
+   "answer": "do",
+   "explain": "What so'rog'idan keyin you olmoshiga do ishlatiladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "I ______ water. [drink]",
+   "answer": "drink",
+   "explain": "I olmoshidan keyin fe'l qo'shimchasiz keladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "You ______ work here. [not + do]",
+   "answer": "don't",
+   "explain": "You olmoshining inkor shakli don't bilan yasaladi.",
+   "accept": [
+    "do not"
+   ]
+  },
+  {
+   "type": "fill",
+   "q": "______ you work in an office? [do]",
+   "answer": "Do",
+   "explain": "You olmoshli so'roq gap Do bilan boshlanadi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "We ______ a big house. [have]",
+   "answer": "have",
+   "explain": "We olmoshidan keyin have fe'li o'zgarishsiz ishlatiladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "They ______ ice cream. [like]",
+   "answer": "like",
+   "explain": "They olmoshidan keyin fe'l oddiy shaklda keladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "Where ______ they live? [do]",
+   "answer": "do",
+   "explain": "They olmoshli maxsus so'roq gapda do ishlatiladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "I ______ read books. [read]",
+   "answer": "read",
+   "explain": "I olmoshidan keyin fe'l -s qo'shimchasisiz ishlatiladi.",
+   "accept": []
+  },
+  {
+   "type": "mc",
+   "q": "I ______ coffee.",
+   "answer": "like",
+   "explain": "I olmoshidan keyin fe'l qo'shimchasiz keladi.",
+   "options": [
+    "likes",
+    "like",
+    "to like"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "We ______ live in Samarkand.",
+   "answer": "don't",
+   "explain": "We olmoshli inkor gapda don't ishlatiladi.",
+   "options": [
+    "doesn't",
+    "don't",
+    "isn't"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ you speak English?",
+   "answer": "Do",
+   "explain": "You olmoshli so'roq gap Do bilan boshlanadi.",
+   "options": [
+    "Does",
+    "Are",
+    "Do"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "They ______ work in a bank.",
+   "answer": "work",
+   "explain": "They olmoshidan keyin fe'l o'zgarishsiz qoladi.",
+   "options": [
+    "works",
+    "work",
+    "working"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Where ______ you live?",
+   "answer": "do",
+   "explain": "You olmoshidan oldin do yordamchi fe'li ishlatiladi.",
+   "options": [
+    "does",
+    "are",
+    "do"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Do you like tea? - Yes, I ______.",
+   "answer": "do",
+   "explain": "Do bilan berilgan savolga Yes, I do deb javob beriladi.",
+   "options": [
+    "am",
+    "do",
+    "like"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "I ______ drink beer.",
+   "answer": "don't",
+   "explain": "I olmoshining inkor shakli don't bo'ladi.",
+   "options": [
+    "doesn't",
+    "don't",
+    "am not"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ they have a car?",
+   "answer": "Do",
+   "explain": "They olmoshli so'roq gap Do yordamchi fe'li bilan boshlanadi.",
+   "options": [
+    "Are",
+    "Do",
+    "Does"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "We ______ football every day.",
+   "answer": "play",
+   "explain": "We olmoshidan keyin fe'l o'zgarishsiz ishlatiladi.",
+   "options": [
+    "plays",
+    "play",
+    "playing"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "What ______ you want?",
+   "answer": "do",
+   "explain": "You olmoshli maxsus so'roq gapda do yordamchi fe'li ishlatiladi.",
+   "options": [
+    "does",
+    "are",
+    "do"
+   ]
+  }
+ ],
+ "tr51": [
+  {
+   "part": 1,
+   "uz": "Biz ofisda ishlamaymiz.",
+   "en": [
+    "We don't work in an office.",
+    "We do not work in an office."
+   ],
+   "rule": "Inkor: We don't + fe'l"
+  },
+  {
+   "part": 1,
+   "uz": "Men qahva yoqtirmayman.",
+   "en": [
+    "I don't like coffee."
+   ],
+   "rule": "Inkor: I don't + like"
+  },
+  {
+   "part": 1,
+   "uz": "Ular Londonda yashamaydi.",
+   "en": [
+    "They don't live in London."
+   ],
+   "rule": "Inkor: They don't + live"
+  },
+  {
+   "part": 1,
+   "uz": "Siz ingliz tilida gaplashmaysiz.",
+   "en": [
+    "You don't speak English."
+   ],
+   "rule": "Inkor: You don't + speak"
+  },
+  {
+   "part": 1,
+   "uz": "Biz futbol o'ynamaymiz.",
+   "en": [
+    "We don't play football."
+   ],
+   "rule": "Inkor: We don't + play"
+  },
+  {
+   "part": 1,
+   "uz": "Men pishloq yemasman.",
+   "en": [
+    "I don't eat cheese."
+   ],
+   "rule": "Inkor: I don't + eat"
+  },
+  {
+   "part": 1,
+   "uz": "Ular televizor ko'rishmaydi.",
+   "en": [
+    "They don't watch television."
+   ],
+   "rule": "Inkor: They don't + watch"
+  },
+  {
+   "part": 1,
+   "uz": "Siz kitob o'qimaysiz.",
+   "en": [
+    "You don't read a book.",
+    "You don't read books."
+   ],
+   "rule": "Inkor: You don't + read"
+  },
+  {
+   "part": 1,
+   "uz": "Biz bu mehmonxonada yashamaymiz.",
+   "en": [
+    "We don't live in this hotel."
+   ],
+   "rule": "Inkor: We don't + live"
+  },
+  {
+   "part": 1,
+   "uz": "Men shokolad yoqtirmayman.",
+   "en": [
+    "I don't like chocolate."
+   ],
+   "rule": "Inkor: I don't + like"
+  },
+  {
+   "part": 1,
+   "uz": "Ular Germaniyadan kelishmaydi.",
+   "en": [
+    "They don't come from Germany."
+   ],
+   "rule": "Inkor: They don't + come"
+  },
+  {
+   "part": 1,
+   "uz": "Siz pivo ichmaysiz.",
+   "en": [
+    "You don't drink beer."
+   ],
+   "rule": "Inkor: You don't + drink"
+  },
+  {
+   "part": 1,
+   "uz": "Biz shahar markazida ishlamaymiz.",
+   "en": [
+    "We don't work in the town centre."
+   ],
+   "rule": "Inkor: We don't + work"
+  },
+  {
+   "part": 1,
+   "uz": "Men bu mashinani istamayman.",
+   "en": [
+    "I don't want this car."
+   ],
+   "rule": "Inkor: I don't + want"
+  },
+  {
+   "part": 1,
+   "uz": "Ular suzishni yoqtirishmaydi.",
+   "en": [
+    "They don't like swimming."
+   ],
+   "rule": "Inkor: They don't + like"
+  },
+  {
+   "part": 1,
+   "uz": "Siz qahva ichmaysiz.",
+   "en": [
+    "You don't drink coffee."
+   ],
+   "rule": "Inkor: You don't + drink"
+  },
+  {
+   "part": 1,
+   "uz": "Biz bu restoranda ovqatlanmaymiz.",
+   "en": [
+    "We don't eat in this restaurant."
+   ],
+   "rule": "Inkor: We don't + eat"
+  },
+  {
+   "part": 1,
+   "uz": "Men o'yinlarni yoqtirmayman.",
+   "en": [
+    "I don't like games."
+   ],
+   "rule": "Inkor: I don't + like"
+  },
+  {
+   "part": 1,
+   "uz": "Ular Shveytsariyada yashashmaydi.",
+   "en": [
+    "They don't live in Switzerland."
+   ],
+   "rule": "Inkor: They don't + live"
+  },
+  {
+   "part": 1,
+   "uz": "Siz ko'p gapirmaysiz.",
+   "en": [
+    "You don't speak a lot."
+   ],
+   "rule": "Inkor: You don't + speak"
+  },
+  {
+   "part": 2,
+   "uz": "Siz qahva yoqtirasizmi?",
+   "en": [
+    "Do you like coffee?"
+   ],
+   "rule": "So'roq: Do you + fe'l?"
+  },
+  {
+   "part": 2,
+   "uz": "Ha, yoqtiraman.",
+   "en": [
+    "Yes, I do."
+   ],
+   "rule": "Qisqa javob: Yes, I do."
+  },
+  {
+   "part": 2,
+   "uz": "Yo'q, yoqtirmayman.",
+   "en": [
+    "No, I don't."
+   ],
+   "rule": "Qisqa javob: No, I don't."
+  },
+  {
+   "part": 2,
+   "uz": "Siz qayerda yashaysiz?",
+   "en": [
+    "Where do you live?"
+   ],
+   "rule": "So'roq: Where do you + fe'l?"
+  },
+  {
+   "part": 2,
+   "uz": "Biz Toshkentda yashaymiz.",
+   "en": [
+    "We live in Tashkent."
+   ],
+   "rule": "Darak: We + fe'l"
+  },
+  {
+   "part": 2,
+   "uz": "Siz ingliz tilida gaplashasizmi?",
+   "en": [
+    "Do you speak English?"
+   ],
+   "rule": "So'roq: Do you + speak?"
+  },
+  {
+   "part": 2,
+   "uz": "Ha, gaplashaman.",
+   "en": [
+    "Yes, I do."
+   ],
+   "rule": "Qisqa javob: Yes, I do."
+  },
+  {
+   "part": 2,
+   "uz": "Ular futbol o'ynashadimi?",
+   "en": [
+    "Do they play football?"
+   ],
+   "rule": "So'roq: Do they + play?"
+  },
+  {
+   "part": 2,
+   "uz": "Yo'q, o'ynashmaydi.",
+   "en": [
+    "No, they don't."
+   ],
+   "rule": "Qisqa javob: No, they don't."
+  },
+  {
+   "part": 2,
+   "uz": "Siz ofisda ishlaysizmi?",
+   "en": [
+    "Do you work in an office?"
+   ],
+   "rule": "So'roq: Do you + work?"
+  },
+  {
+   "part": 2,
+   "uz": "Ha, ishlaymiz.",
+   "en": [
+    "Yes, we do."
+   ],
+   "rule": "Qisqa javob: Yes, we do."
+  },
+  {
+   "part": 2,
+   "uz": "Siz nima yeysiz?",
+   "en": [
+    "What do you eat?"
+   ],
+   "rule": "So'roq: What do you + eat?"
+  },
+  {
+   "part": 2,
+   "uz": "Biz sendvich yeymiz.",
+   "en": [
+    "We eat a sandwich.",
+    "We eat sandwiches."
+   ],
+   "rule": "Darak: We + eat"
+  },
+  {
+   "part": 2,
+   "uz": "Ular Londondanmi?",
+   "en": [
+    "Are they from London?"
+   ],
+   "rule": "To be so'roq: Are they...?"
+  },
+  {
+   "part": 2,
+   "uz": "Ha, Londondan.",
+   "en": [
+    "Yes, they are."
+   ],
+   "rule": "To be qisqa javob: Yes, they are."
+  },
+  {
+   "part": 2,
+   "uz": "Sizda mashina bormi?",
+   "en": [
+    "Do you have a car?"
+   ],
+   "rule": "So'roq: Do you have...?"
+  },
+  {
+   "part": 2,
+   "uz": "Ha, bor.",
+   "en": [
+    "Yes, I do."
+   ],
+   "rule": "Qisqa javob: Yes, I do."
+  },
+  {
+   "part": 2,
+   "uz": "Siz choy ichasizmi?",
+   "en": [
+    "Do you drink tea?"
+   ],
+   "rule": "So'roq: Do you drink...?"
+  },
+  {
+   "part": 2,
+   "uz": "Yo'q, ichmaymiz.",
+   "en": [
+    "No, we don't."
+   ],
+   "rule": "Qisqa javob: No, we don't."
+  },
+  {
+   "part": 2,
+   "uz": "Ular qayerda ishlashadi?",
+   "en": [
+    "Where do they work?"
+   ],
+   "rule": "So'roq: Where do they...?"
+  },
+  {
+   "part": 2,
+   "uz": "Biz kasalxonada ishlaymiz.",
+   "en": [
+    "We work in a hospital."
+   ],
+   "rule": "Darak: We + work"
+  },
+  {
+   "part": 2,
+   "uz": "Siz televizor ko'rasizmi?",
+   "en": [
+    "Do you watch television?"
+   ],
+   "rule": "So'roq: Do you watch...?"
+  },
+  {
+   "part": 2,
+   "uz": "Ha, ko'ramiz.",
+   "en": [
+    "Yes, we do."
+   ],
+   "rule": "Qisqa javob: Yes, we do."
+  },
+  {
+   "part": 2,
+   "uz": "Siz pizza yoqtirasizmi?",
+   "en": [
+    "Do you like pizza?"
+   ],
+   "rule": "So'roq: Do you like...?"
+  },
+  {
+   "part": 2,
+   "uz": "Yo'q, yoqtirmaymiz.",
+   "en": [
+    "No, we don't."
+   ],
+   "rule": "Qisqa javob: No, we don't."
+  },
+  {
+   "part": 2,
+   "uz": "Siz kitob o'qiysizmi?",
+   "en": [
+    "Do you read books?",
+    "Do you read a book?"
+   ],
+   "rule": "So'roq: Do you read...?"
+  },
+  {
+   "part": 2,
+   "uz": "Ha, o'qiyman.",
+   "en": [
+    "Yes, I do."
+   ],
+   "rule": "Qisqa javob: Yes, I do."
+  },
+  {
+   "part": 2,
+   "uz": "Ular Germaniyadan kelishadimi?",
+   "en": [
+    "Do they come from Germany?"
+   ],
+   "rule": "So'roq: Do they come...?"
+  },
+  {
+   "part": 2,
+   "uz": "Yo'q, kelishmaydi.",
+   "en": [
+    "No, they don't."
+   ],
+   "rule": "Qisqa javob: No, they don't."
+  },
+  {
+   "part": 2,
+   "uz": "Siz nimani xohlaysiz?",
+   "en": [
+    "What do you want?"
+   ],
+   "rule": "So'roq: What do you want?"
+  }
+ ]
+}

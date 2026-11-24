@@ -1,0 +1,200 @@
+{
+ "exercises": [
+  {
+   "part": 1,
+   "exercise": 94,
+   "answers": {
+    "1": "park",
+    "2": "people",
+    "3": "school",
+    "4": "place",
+    "5": "students",
+    "6": "called"
+   }
+  },
+  {
+   "part": 1,
+   "exercise": 95,
+   "answers": {
+    "1": "diet",
+    "2": "nutrients",
+    "3": "meat",
+    "4": "found",
+    "5": "eat",
+    "6": "vegetarians"
+   }
+  },
+  {
+   "part": 1,
+   "exercise": 96,
+   "answers": {
+    "1": "TIME",
+    "2": "Zuckerberg",
+    "3": "student",
+    "4": "US",
+    "5": "Facebook",
+    "6": "users"
+   }
+  },
+  {
+   "part": 1,
+   "exercise": 97,
+   "answers": {
+    "1": "animals",
+    "2": "pod",
+    "3": "dolphins",
+    "4": "relation",
+    "5": "swimmers",
+    "6": "sharks"
+   }
+  },
+  {
+   "part": 1,
+   "exercise": 98,
+   "answers": {
+    "1": "april",
+    "2": "food",
+    "3": "jokes",
+    "4": "spaghetti",
+    "5": "BBC",
+    "6": "penguins"
+   }
+  },
+  {
+   "part": 1,
+   "exercise": 99,
+   "answers": {
+    "1": "countries",
+    "2": "job",
+    "3": "training",
+    "4": "astronauts",
+    "5": "Japanese",
+    "6": "space"
+   }
+  },
+  {
+   "part": 1,
+   "exercise": 100,
+   "answers": {
+    "1": "sad",
+    "2": "hotel",
+    "3": "music",
+    "4": "building",
+    "5": "pool",
+    "6": "swimming"
+   }
+  },
+  {
+   "part": 2,
+   "exercise": 1,
+   "answers": {
+    "1": "D",
+    "2": "J",
+    "3": "F",
+    "4": "A",
+    "5": "H",
+    "6": "C",
+    "7": "G",
+    "8": "B"
+   }
+  },
+  {
+   "part": 2,
+   "exercise": 2,
+   "answers": {
+    "1": "B",
+    "2": "F",
+    "3": "E",
+    "4": "J",
+    "5": "D",
+    "6": "H",
+    "7": "C",
+    "8": "A"
+   }
+  },
+  {
+   "part": 2,
+   "exercise": 3,
+   "answers": {
+    "1": "F",
+    "2": "A",
+    "3": "B",
+    "4": "D",
+    "5": "J",
+    "6": "C",
+    "7": "G",
+    "8": "E"
+   }
+  },
+  {
+   "part": 2,
+   "exercise": 4,
+   "answers": {
+    "1": "I",
+    "2": "F",
+    "3": "B",
+    "4": "A",
+    "5": "H",
+    "6": "E",
+    "7": "C",
+    "8": "G"
+   }
+  },
+  {
+   "part": 2,
+   "exercise": 5,
+   "answers": {
+    "1": "E",
+    "2": "G",
+    "3": "B",
+    "4": "H",
+    "5": "J",
+    "6": "C",
+    "7": "D",
+    "8": "A"
+   }
+  },
+  {
+   "part": 2,
+   "exercise": 6,
+   "answers": {
+    "1": "G",
+    "2": "I",
+    "3": "C",
+    "4": "D",
+    "5": "H",
+    "6": "F",
+    "7": "E",
+    "8": "B"
+   }
+  },
+  {
+   "part": 2,
+   "exercise": 7,
+   "answers": {
+    "1": "E",
+    "2": "D",
+    "3": "I",
+    "4": "A",
+    "5": "F",
+    "6": "J",
+    "7": "G",
+    "8": "C"
+   }
+  },
+  {
+   "part": 2,
+   "exercise": 8,
+   "answers": {
+    "1": "G",
+    "2": "D",
+    "3": "A",
+    "4": "E",
+    "5": "I",
+    "6": "J",
+    "7": "F",
+    "8": "B"
+   }
+  }
+ ]
+}

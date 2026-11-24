@@ -1,0 +1,35 @@
+{
+ "script": "Speaker: Good morning everyone, welcome to Fitness Week at our special health centre. I can promise you three things if you sign up for this course. Firstly, you will become healthier. Number two, you will learn lots of new exercise techniques, and number three, you will work very hard. Our gyms and swimming pools are all new and fully equipped. So all you need to take with you is a good pair of trainers, a tracksuit, shorts, and T-shirts for the gym. Don't forget also to take a swimming costume. We start on a Sunday, and the first day is an introduction. Each person will be weighed and fill in a quick health questionnaire. Then we will work out a plan with specific targets for each person based on their individual needs. For the rest of the week, we will have morning exercise sessions in the gym, where a personal trainer will ensure you are exercising correctly. After a healthy snack, the afternoon will consist of exercises in the pool and then relaxation in the spa. On the last day, you will all be individually weighed and assessed to determine how much progress you have made. Then there will be a talk about fitness strategies and how you can maintain your progress in everyday life. Book your place in the next two days, and you will get a 25% discount. You will pay only £15 a day, which works out at £100. No, I'm sorry, that's £105 for the whole week.",
+ "items": [
+  {
+   "n": 1,
+   "quote": "if you sign up for this course",
+   "uz": "Spiker agarda bu kursga yozilsangiz ('sign up'), salomatligingiz yaxshilanib, yangi narsalarni o'rganishingizni aytadi. Cümledagi 'should ... for this course' iborasiga 'sign' fe'li mos keladi."
+  },
+  {
+   "n": 2,
+   "quote": "Don't forget also to take a swimming costume",
+   "uz": "Audioyozuvda sport poyabzali va kiyimlaridan tashqari, cho'milish kiyimini ('swimming costume') ham olish eslatib o'tiladi. 'Swimming' so'zidan keyin 'costume' tushirib qoldirilgan."
+  },
+  {
+   "n": 3,
+   "quote": "based on their individual needs",
+   "uz": "Savolnoma to'ldirilgach, reja va aniq maqsadlar har bir a'zoning ehtiyojlariga ('needs' yoki 'individual needs') qarab belgilanishi aytiladi."
+  },
+  {
+   "n": 4,
+   "quote": "where a personal trainer will ensure you are exercising correctly",
+   "uz": "Har kuni ertalab mashqlarni to'g'ri bajarayotganingizni shaxsiy murabbiy ('personal trainer') kuzatib boradi. Matndagi 'personal' so'zidan keyin 'trainer' javob bo'ladi."
+  },
+  {
+   "n": 5,
+   "quote": "talk about fitness strategies and how you can maintain your progress",
+   "uz": "Hafta yakunida erishilgan natijani saqlab qolish uchun fitnes strategiyalari ('fitness strategies') haqida suhbat o'tkaziladi."
+  },
+  {
+   "n": 6,
+   "quote": "that's 105 pounds for the whole week",
+   "uz": "Spiker avval adashib 100 funt deydi, so'ngra tuzatish kiritib butun hafta (7 kun) uchun narx 105 funt ekanligini aytadi. Chalg'ituvchi '100' soniga emas, tuzatilgan '105' qiymatiga e'tibor berish kerak."
+  }
+ ]
+}

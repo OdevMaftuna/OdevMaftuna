@@ -1,0 +1,546 @@
+{
+ "code": "P4",
+ "course": "Pre-Intermediate",
+ "kind": "unit",
+ "unit": 4,
+ "price": 35000,
+ "title": "Unit 4 Test",
+ "subtitle": "Our planet · comparatives · too / enough",
+ "sections": [
+  {
+   "title": "A. Complete the sentences so that they are true. Use the comparative form + than.",
+   "items": [
+    {
+     "t": "text",
+     "q": "A car is ______ (fast) a bicycle.",
+     "a": [
+      "faster than"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Winter in Tashkent is ______ (cold) summer.",
+     "a": [
+      "colder than"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Breakfast is ______ (early) dinner.",
+     "a": [
+      "earlier than"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Mount Everest is ______ (high) Mont Blanc.",
+     "a": [
+      "higher than"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "A diamond is ______ (expensive) a stone.",
+     "a": [
+      "more expensive than"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Fire is much ______ (hot) ice.",
+     "a": [
+      "hotter than"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Walking is ______ (good) for your health than sitting all day. (Write one word.)",
+     "a": [
+      "better"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "B. Complete the sentences with the superlative form of the adjectives in the box.",
+   "box": [
+    "big",
+    "deep",
+    "dry",
+    "fast",
+    "high",
+    "long",
+    "old"
+   ],
+   "items": [
+    {
+     "t": "text",
+     "q": "The Atacama Desert in Chile is one of ______ places on Earth.",
+     "a": [
+      "the driest"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Jupiter is ______ planet in our solar system.",
+     "a": [
+      "the biggest"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The Nile is one of ______ rivers in the world.",
+     "a": [
+      "the longest"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Lake Baikal is ______ lake in the world.",
+     "a": [
+      "the deepest"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The cheetah is ______ land animal.",
+     "a": [
+      "the fastest"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Everest is ______ mountain in the world.",
+     "a": [
+      "the highest"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Samarkand is one of ______ cities in Central Asia.",
+     "a": [
+      "the oldest"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "C. Complete the answers. Use too or enough and the word in brackets.",
+   "items": [
+    {
+     "t": "text",
+     "q": "Why didn’t you make tea? — We didn’t have ______ (sugar).",
+     "a": [
+      "enough sugar"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Did you finish the test? — No, it was ______ (difficult).",
+     "a": [
+      "too difficult"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Can we swim today? — No, the water isn’t ______ (warm).",
+     "a": [
+      "warm enough"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Can I put the sofa here? — No, there isn’t ______ (space).",
+     "a": [
+      "enough space"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Why don’t we take the bus? — It’s ______ (slow). Let’s take a taxi.",
+     "a": [
+      "too slow"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Shall we walk to the lake? — No, I’m ______ (tired).",
+     "a": [
+      "too tired"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "D. Choose the correct answers.",
+   "items": [
+    {
+     "t": "mc",
+     "q": "It’s ___ today. Take your umbrella!",
+     "o": [
+      "raining",
+      "sunny",
+      "dry"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "There was a big ___ last night with lightning.",
+     "o": [
+      "frost",
+      "sunshine",
+      "thunderstorm"
+     ],
+     "a": 2
+    },
+    {
+     "t": "mc",
+     "q": "The car was covered with ___ this morning because it was so cold.",
+     "o": [
+      "hail",
+      "frost",
+      "fog"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "Small balls of ice fell from the sky. It was ___.",
+     "o": [
+      "hail",
+      "mist",
+      "breeze"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Be careful! The road is covered with ___.",
+     "o": [
+      "heat",
+      "sun",
+      "ice"
+     ],
+     "a": 2
+    },
+    {
+     "t": "mc",
+     "q": "If there’s a ___, don’t go outside — the wind is very dangerous.",
+     "o": [
+      "drizzle",
+      "hurricane",
+      "shower"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "___ makes a lot of people feel happy.",
+     "o": [
+      "Sunshine",
+      "Fog",
+      "Hail"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Children love playing in ___ weather — they can make a snowman.",
+     "o": [
+      "foggy",
+      "windy",
+      "snowy"
+     ],
+     "a": 2
+    },
+    {
+     "t": "mc",
+     "q": "It was hard to see the road in the ___.",
+     "o": [
+      "heat",
+      "fog",
+      "sun"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "Look at the ___ falling! Every one is different.",
+     "o": [
+      "snowflakes",
+      "raindrops",
+      "rainbows"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "title": "E. Write the natural disaster.",
+   "items": [
+    {
+     "t": "text",
+     "q": "A big fire in a forest when it is very hot and dry. → a ______ fire",
+     "a": [
+      "forest",
+      "wild",
+      "bush"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The ground shakes and buildings fall down. → an ______",
+     "a": [
+      "earthquake"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "A disease spreads quickly to many people. → an ______",
+     "a": [
+      "epidemic"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "A giant wave from the sea destroys towns. → a ______",
+     "a": [
+      "tsunami"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Wet earth moves down a hill after heavy rain. → a ______",
+     "a": [
+      "landslide",
+      "mudslide"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "F. Write the adjective for each temperature. There is one extra adjective.",
+   "box": [
+    "boiling",
+    "cold",
+    "cool",
+    "freezing",
+    "mild",
+    "warm"
+   ],
+   "items": [
+    {
+     "t": "text",
+     "q": "−10°C → ______",
+     "a": [
+      "freezing"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "4°C → ______",
+     "a": [
+      "cold"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "12°C → ______",
+     "a": [
+      "cool"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "22°C → ______",
+     "a": [
+      "warm"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "40°C → ______",
+     "a": [
+      "boiling"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "G. Complete the description of two photos with the words in the box.",
+   "box": [
+    "Both",
+    "common",
+    "contrast",
+    "difference",
+    "first",
+    "In",
+    "see",
+    "shows",
+    "Unlike",
+    "whereas"
+   ],
+   "items": [
+    {
+     "t": "text",
+     "q": "The ______ theme in the photos is the weather.",
+     "a": [
+      "common"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "______ photos show people outside.",
+     "a": [
+      "Both"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "You can ______ trees in both photos.",
+     "a": [
+      "see"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The first photo ______ a hot summer day.",
+     "a": [
+      "shows"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "…, ______ the second photo shows a snowy street.",
+     "a": [
+      "whereas"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "______ the first photo, people are wearing T-shirts.",
+     "a": [
+      "In"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "One obvious ______ is the clothes.",
+     "a": [
+      "difference"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "______ the first photo, the second photo is quite dark.",
+     "a": [
+      "Unlike"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "In ______ to the first photo, the people in the second one look cold.",
+     "a": [
+      "contrast"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "In the ______ photo the children are swimming.",
+     "a": [
+      "first"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Listening. Listen to five short recordings about weather and nature. Choose the correct answers.",
+   "audio": "preint/P4.mp3",
+   "script": "One.\nGood morning. Today will be dry and sunny in the south, but in the north there will be heavy snow this afternoon, so please drive carefully.\nTwo.\nAfter the earthquake, most buildings in the town were fine. The biggest problem was the water — the pipes broke and people had no clean water for three days.\nThree.\nI usually paint in the garden, but at the moment it's far too windy. Yesterday my painting flew over the fence into my neighbour's garden!\nFour.\nI couldn't sleep last night. It wasn't the heat — it was the thunder. It was so loud that the windows were shaking.\nFive.\nOur holiday was lovely, although the weather was a bit disappointing. It was cloudy almost every day, but at least it didn't rain.",
+   "items": [
+    {
+     "t": "mc",
+     "q": "1. Where will it snow today?",
+     "o": [
+      "In the south",
+      "In the north",
+      "Everywhere"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "2. What was the biggest problem after the earthquake?",
+     "o": [
+      "Broken buildings",
+      "No clean water",
+      "No electricity"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "3. Why isn't the woman painting outside?",
+     "o": [
+      "It's too windy.",
+      "It's too hot.",
+      "It's raining."
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "4. The man couldn't sleep because of",
+     "o": [
+      "the heat.",
+      "the thunder.",
+      "his neighbour."
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "5. What was the weather like on the woman's holiday?",
+     "o": [
+      "Rainy",
+      "Sunny",
+      "Cloudy"
+     ],
+     "a": 2
+    }
+   ]
+  },
+  {
+   "title": "H. Read the text. Are the sentences true or false?",
+   "passage": "Uzbekistan has a continental climate: summers are long, hot and dry, and winters can be surprisingly cold. In July, temperatures in Termez sometimes reach 45°C, while in January the mountains near Tashkent can be −20°C.\n\nSpring is the shortest and the most beautiful season. For a few weeks the hills turn green and red with tulips, and families go on picnics. But spring also brings sudden storms, and in the mountain valleys heavy rain can cause mudslides.\n\nThe biggest environmental problem in the region is water. The Aral Sea was once the fourth largest lake in the world, but it lost most of its water in the 20th century because rivers were used for cotton farms. Today, scientists and local people are planting trees on the old sea bed to stop the dust storms.",
+   "items": [
+    {
+     "t": "tf",
+     "q": "Summers in Uzbekistan are usually wet.",
+     "a": false
+    },
+    {
+     "t": "tf",
+     "q": "It can be −20°C in the mountains near Tashkent.",
+     "a": true
+    },
+    {
+     "t": "tf",
+     "q": "Spring is the longest season.",
+     "a": false
+    },
+    {
+     "t": "tf",
+     "q": "Heavy rain in spring can cause mudslides.",
+     "a": true
+    },
+    {
+     "t": "tf",
+     "q": "People are planting trees on the old bed of the Aral Sea.",
+     "a": true
+    }
+   ]
+  }
+ ]
+}

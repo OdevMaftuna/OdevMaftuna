@@ -1,0 +1,36 @@
+﻿71`t16`t83`tPort 2
+125`t18`t84`t1
+230`t17`t84`t3
+243`t18`t183`tSTUDENTS!
+266`t15`t138`tThese computers are not för
+287`t13`t140`tInternet or email use
+69`t17`t751`t79
+124`t16`t444`t2
+138`t16`t483`tDo not leave computers on after
+158`t15`t533`tLesson has finished
+227`t16`t444`t4
+237`t17`t486`tNo mobi'e phones. food or drinks in
+255`t17`t539`tComputer classroom
+465`t17`t86`t7
+467`t36`t182`tROAb±VdSEÖe
+632`t21`t116`tExercise 6
+462`t17`t447`t8
+479`t15`t546`tCITY AIRPORT
+501`t12`t557`tLEAVE YOUR LUGGAUE
+675`t17`t116`tRead the texts and the statements A -J. Decide which text matches
+706`t17`t116`twith the situation described in the statements.
+733`t20`t116`tEach statement can be used ONCE only. There are TWO extra
+764`t17`t116`tstatements which you do not need to use.
+797`t22`t117`tA) This club is for only elderly people.
+823`t21`t119`td) Younger children can participate one week earlier than older
+857`t17`t144`tchildren.
+881`t21`t119`tC) If you are studying at university, you can pay a half of the ticket
+915`t21`t146`tprice.
+939`t19`t120`tD) You can win a footwear il you are successful.
+967`t20`t120`tE) Add suggests you Which bus to take to come 'to the event.
+996`t20`t120`tF) If you are keen on atrip in woodland, this club suits you.
+1025`t21`t120`tG) There is age limit ot 12-18 years to join this clubm
+1053`t21`t120`tH) You can have a meal in a cafe at the end of the activity.
+1083`t21`t120`tl) There is a dress code to enter this place.
+1113`t20`t120`tJ) Join the club and earn money
+1195`t20`t690`tmytests_

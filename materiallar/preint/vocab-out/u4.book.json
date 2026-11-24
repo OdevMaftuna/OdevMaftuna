@@ -1,0 +1,257 @@
+[
+ {
+  "kind": "situation",
+  "q": "Little drops of water fell from the dark sky onto my umbrella during the heavy shower.",
+  "options": [
+   "raindrop",
+   "hail",
+   "snowflake",
+   "sun"
+  ],
+  "answer": "raindrop",
+  "why": "Bu so'z osmondan tushuvchi kichik suv tomchisini anglatadi. «Little drops of water» so'zlari buni ko'rsatib turibdi.",
+  "wrong": {
+   "hail": "Muz parchasi. Bu yerda suv tomchisi haqida gap ketmoqda.",
+   "snowflake": "Qor parchasi. Matnda suv tomchisi deyilgan.",
+   "sun": "Quyosh. Suv tomchisiga aloqasi yo'q."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Dark clouds covered the sky, strong winds started to blow, and heavy rain began to fall all at once.",
+  "options": [
+   "storm",
+   "sunny",
+   "rainbow",
+   "foggy"
+  ],
+  "answer": "storm",
+  "why": "Bu kuchli bo'ron yoki qattiq ob-havoni bildiradi. «strong winds» va «heavy rain» buni tasdiqlaydi.",
+  "wrong": {
+   "sunny": "Quyoshli. Matnda qorong'i bulutlar va yomg'ir haqida.",
+   "rainbow": "Kamalak. Bo'ron ob-havosi emas.",
+   "foggy": "Tumanli. Kuchli shamol va yomg'irni o'z ichiga olmaydi."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "Driving to school was difficult because it was very ______ and I could not see the road.",
+  "options": [
+   "foggy",
+   "sunny",
+   "rainy",
+   "windy"
+  ],
+  "answer": "foggy",
+  "why": "Tumanli ob-havo ko'rishni qiyinlashtiradi. «could not see the road» so'zlari buni ko'rsatadi.",
+  "wrong": {
+   "sunny": "Quyoshli. Yo'lni ko'rishga to'sqinlik qilmaydi.",
+   "rainy": "Yomg'irli. Ko'rishni biroz yomonlashtirishi mumkin, lekin tuman «could not see» uchun mos.",
+   "windy": "Shamolli. Yo'lni to'smaydi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "The trees were shaking violently and my cap flew off my head because the air was moving so fast.",
+  "options": [
+   "windy",
+   "foggy",
+   "rainy",
+   "sunny"
+  ],
+  "answer": "windy",
+  "why": "Shamolli ob-havo. «air was moving so fast» va qalpoq uchib ketishi buni ko'rsatadi.",
+  "wrong": {
+   "foggy": "Tumanli. Daraxtlarni qimirlatmaydi.",
+   "rainy": "Yomg'irli. Qalpoqni uchirib yubormaydi.",
+   "sunny": "Quyoshli. Shamol bilan bog'liq emas."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "The strong ______ blew my hat right off my head into the river.",
+  "options": [
+   "wind",
+   "rain",
+   "sun",
+   "snow"
+  ],
+  "answer": "wind",
+  "why": "Shamol. «blew my hat... off my head» so'zlari shamol kuchini ko'rsatadi.",
+  "wrong": {
+   "rain": "Yomg'ir. Shapkani uchirib yubormaydi.",
+   "sun": "Quyosh. Ob-havo hodisasi sifatida shlyapani uchirmaydi.",
+   "snow": "Qor. Bunday tarzda uchirmaydi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "We heard a terrifying loud rumble that shook the windows right after a flash of light.",
+  "options": [
+   "thunder",
+   "wind",
+   "rain",
+   "snow"
+  ],
+  "answer": "thunder",
+  "why": "Momaqaldiroq. «loud rumble that shook the windows» momaqaldiroq ovozidir.",
+  "wrong": {
+   "wind": "Shamol. Gumburlab ovoz chiqarmaydi.",
+   "rain": "Yomg'ir. Derazalarni qaltiratadigan shovqin qilmaydi.",
+   "snow": "Qor. Ovoz chiqarmaydi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "The sudden blinding white spark in the clouds was followed instantly by a huge bang.",
+  "options": [
+   "lightning",
+   "sunshine",
+   "rainbow",
+   "wind"
+  ],
+  "answer": "lightning",
+  "why": "Chaqmoq. «blinding white spark in the clouds» chaqmoq chaqishini bildiradi.",
+  "wrong": {
+   "sunshine": "Quyosh nuri. Portlash kabi portillamaydi.",
+   "rainbow": "Kamalak. Chaqnaydigan uchqun emas.",
+   "wind": "Shamol. Yorug'lik chiqarmaydi."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "We got completely soaked on our way to the shop because it was a very ______ afternoon.",
+  "options": [
+   "rainy",
+   "sunny",
+   "windy",
+   "foggy"
+  ],
+  "answer": "rainy",
+  "why": "Yomg'irli kun. «got completely soaked» hamma joy hovur yoki suv bo'lganini bildiradi.",
+  "wrong": {
+   "sunny": "Quyoshli. Isitib yuboradi, ho'l qilmaydi.",
+   "windy": "Shamolli. Ho'l qilmaydi.",
+   "foggy": "Tumanli. Suvga botirmaydi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Frozen white crystals blanketed the ground, making every rooftop look like winter wonderland.",
+  "options": [
+   "snowflake",
+   "raindrop",
+   "sunshine",
+   "storm"
+  ],
+  "answer": "snowflake",
+  "why": "Qor parchasi. «Frozen white crystals» qor ekanini bildiradi.",
+  "wrong": {
+   "raindrop": "Tomchi. Muzlagan kristallar emas.",
+   "sunshine": "Quyosh nuri. Qor qoplamasini hosil qilmaydi.",
+   "storm": "Bo'ron. Kristallarni o'zi emas."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Toshkentda osmon bir zumda qoraydi, osmonni to'q bulutlar qoplab, momaqaldiroq boshlanishini sezdingiz.",
+  "options": [
+   "storm clouds",
+   "drought",
+   "flood",
+   "earthquake"
+  ],
+  "answer": "storm clouds",
+  "why": "«Osmon qoraydi» va qalin bulutlar qoplashi bu «storm clouds» (bo'ron bulutlari) ekanini bildiradi.",
+  "wrong": {
+   "drought": "Qurg'oqchilik, bulutlarga aloqasi yo'q.",
+   "flood": "Suv toshqini, osmon holati emas.",
+   "earthquake": "Zilzila, ob-havoga aloqasi yo'q."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "The children laughed as a colorful ______ appeared across the sky after the morning shower.",
+  "options": [
+   "rainbow",
+   "avalanche",
+   "volcanic eruption",
+   "tsunami"
+  ],
+  "answer": "rainbow",
+  "why": "«Colorful» va osmonda paydo bo'lishi «rainbow» (kamalak) so'zini bildiradi.",
+  "wrong": {
+   "avalanche": "Qor ko'chkisi, osmonda ko'rinmaydi.",
+   "volcanic eruption": "Vulqon otilishi, osmondagi rangli kamar emas.",
+   "tsunami": "Tsunami, dengiz to'lqini."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Bahor kuni to'satdan muz bo'laklari yog'ib, mashinalarning oynasiga urila boshladi.",
+  "options": [
+   "hail",
+   "sunshine",
+   "mist",
+   "foggy"
+  ],
+  "answer": "hail",
+  "why": "«Muz bo'laklari yog'ib» degan qism «hail» (do'l) ekanini bildiradi.",
+  "wrong": {
+   "sunshine": "Quyosh nuri, muz yog'dirmaydi.",
+   "mist": "Tuman, muz bo'laklari emas.",
+   "foggy": "Tumanli, qattiq muz yog'maydi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Darsga ketayotganda qattiq yomg'ir boshlandi va soyaboningiz yo'qligi uchun butunlay ho'l bo'ldingiz.",
+  "options": [
+   "rain",
+   "snow",
+   "sun",
+   "frost"
+  ],
+  "answer": "rain",
+  "why": "«Ho'l bo'ldingiz» va yomg'ir yog'ishi «rain» so'ziga mos keladi.",
+  "wrong": {
+   "snow": "Qor, ho'l qilmaydi.",
+   "sun": "Quyosh, ho'l qilmaydi.",
+   "frost": "Qirov, yomg'ir emas."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Quyosh charaqlab turgan ochiq havoda bolalar hovlida toza havoda zavqlanib o'ynashmoqda.",
+  "options": [
+   "sunshine",
+   "storm",
+   "wind",
+   "hail storm"
+  ],
+  "answer": "sunshine",
+  "why": "«Quyosh charaqlab turgan» iborasi «sunshine» (quyosh nuri) ekanini bildiradi.",
+  "wrong": {
+   "storm": "Bo'ron, bolalar o'ynashiga to'sqinlik qiladi.",
+   "wind": "Shamol, quyosh nuri emas.",
+   "hail storm": "Do'l bo'roni, yaxshi ob-havo emas."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "Ertalab tashqariga chiqsak, butun yer yuzini oq qalin ______ qoplab olgan ekan.",
+  "options": [
+   "snow",
+   "rain",
+   "wind",
+   "lightning"
+  ],
+  "answer": "snow",
+  "why": "«Yer yuzini oq qalin» qoplagan narsa bu qor (snow).",
+  "wrong": {
+   "rain": "Yomg'ir yerda oq qatlam hosil qilmaydi.",
+   "wind": "Shamol yer yuzini qoplamaydi.",
+   "lightning": "Chaqmoq yerda qolmaydi."
+  }
+ }
+]

@@ -1,0 +1,528 @@
+{
+ "code": "P2",
+ "course": "Pre-Intermediate",
+ "kind": "unit",
+ "unit": 2,
+ "price": 35000,
+ "title": "Unit 2 Test",
+ "subtitle": "Adventure · past continuous · landscapes",
+ "sections": [
+  {
+   "title": "A. Complete the sentences. Use the past simple or past continuous.",
+   "items": [
+    {
+     "t": "text",
+     "q": "The girl ______ (wait) for the bus when it started to rain.",
+     "a": [
+      "was waiting"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The girl was waiting for the bus when it ______ (start) to rain.",
+     "a": [
+      "started"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Somebody ______ (steal) my bike while I was in the shop.",
+     "a": [
+      "stole"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "While we ______ (walk) in the mountains, we saw a bear.",
+     "a": [
+      "were walking"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I ______ (cut) my finger while I was cooking dinner.",
+     "a": [
+      "cut"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "What ______ (you / do) at 8 o’clock last night?",
+     "a": [
+      "were you doing"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The sun ______ (shine) and the birds were singing.",
+     "a": [
+      "was shining"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "He ______ (not listen) when the guide explained the rules.",
+     "a": [
+      "wasn't listening",
+      "was not listening"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "When we ______ (reach) the top of the hill, we had lunch.",
+     "a": [
+      "reached"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "They ______ (sail) across the lake when the storm began.",
+     "a": [
+      "were sailing"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "B. Each sentence has one mistake. Write the correct word.",
+   "items": [
+    {
+     "t": "text",
+     "q": "We was climbing the mountain when the snow started. → correct word: ______",
+     "a": [
+      "were"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I saw an eagle while I were walking. → correct word: ______",
+     "a": [
+      "was"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Did you saw the waterfall yesterday? → correct word: ______",
+     "a": [
+      "see"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "She didn’t went to the camp last year. → correct word: ______",
+     "a": [
+      "go"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "What you were doing when the phone rang? → correct word: ______",
+     "a": [
+      "were"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "He falled into the river but he was OK. → correct word: ______",
+     "a": [
+      "fell"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "They was sleeping when the bear came. → correct word: ______",
+     "a": [
+      "were"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "While I was swimming, I loses my sunglasses. → correct word: ______",
+     "a": [
+      "lost"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "C. Complete the sentences. The first letter of each word is given.",
+   "items": [
+    {
+     "t": "text",
+     "q": "The Atlantic O_____ is between Europe and America.",
+     "a": [
+      "Ocean"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "We climbed a small h___ behind the village to watch the sunset.",
+     "a": [
+      "hill"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Etna in Italy is an active v______ — it still erupts.",
+     "a": [
+      "volcano"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The Amudarya is the longest r____ in Central Asia.",
+     "a": [
+      "river"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "It was dark in the f_____ because the trees were so tall.",
+     "a": [
+      "forest"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The street was so n_____ that the car couldn’t go down it.",
+     "a": [
+      "narrow"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Be careful — the lake is very d___ in the middle.",
+     "a": [
+      "deep"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The river is 500 metres w___ here, so we need a boat.",
+     "a": [
+      "wide"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "D. Complete the sentences with the words in the box. There are two extra words.",
+   "box": [
+    "boots",
+    "compass",
+    "helmet",
+    "life jacket",
+    "paddle",
+    "rope",
+    "sleeping bag",
+    "tent"
+   ],
+   "items": [
+    {
+     "t": "text",
+     "q": "We climbed down the cliff on a long ______.",
+     "a": [
+      "rope"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I lost my ______ in the river, so I couldn’t steer the canoe.",
+     "a": [
+      "paddle"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Always wear a ______ in the boat in case you fall in.",
+     "a": [
+      "life jacket"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Wear strong ______ when you walk in the mountains.",
+     "a": [
+      "boots"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Without a ______ we didn’t know which way was north.",
+     "a": [
+      "compass"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "It was cold at night, but my ______ was very warm.",
+     "a": [
+      "sleeping bag"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "E. Replace the words in brackets with extreme adjectives. The first letter is given.",
+   "items": [
+    {
+     "t": "text",
+     "q": "The view from the top was f________ (very good).",
+     "a": [
+      "fantastic"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "After the long walk we were s_______ (very hungry).",
+     "a": [
+      "starving"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The hostel was f_____ (very dirty).",
+     "a": [
+      "filthy"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Grandma’s soup was d________ (very tasty).",
+     "a": [
+      "delicious"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The elephant was e_______ (very big).",
+     "a": [
+      "enormous"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The news was a_______ (very surprising).",
+     "a": [
+      "amazing",
+      "astonishing"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "F. Read the text and choose the correct answer A, B or C.",
+   "passage": "Last summer my friends and I (1) ___ a trip to the Chimgan mountains. (2) ___ morning we left very early. While we (3) ___ up the path, the weather changed. (4) ___ the foreground there were rocks, and in the background we could see dark clouds. It (5) ___ as if a storm was coming. Shall we go back? I asked. Let’s (6) ___ ,said Timur, (7) ___ we found a small cave. We waited there (8) ___ two hours. When the storm (9) ___ , we continued. It was the most (10) ___ day of my life!",
+   "items": [
+    {
+     "t": "mc",
+     "q": "(1)",
+     "o": [
+      "went",
+      "made",
+      "took"
+     ],
+     "a": 2
+    },
+    {
+     "t": "mc",
+     "q": "(2)",
+     "o": [
+      "On the",
+      "In the",
+      "At"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "(3)",
+     "o": [
+      "walked",
+      "were walking",
+      "are walking"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "(4)",
+     "o": [
+      "On",
+      "At",
+      "In"
+     ],
+     "a": 2
+    },
+    {
+     "t": "mc",
+     "q": "(5)",
+     "o": [
+      "looked",
+      "saw",
+      "watched"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "(6)",
+     "o": [
+      "not",
+      "no",
+      "don't"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "(7)",
+     "o": [
+      "but",
+      "so",
+      "because"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "(8)",
+     "o": [
+      "since",
+      "for",
+      "during"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "(9)",
+     "o": [
+      "was finishing",
+      "finished",
+      "finishes"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "(10)",
+     "o": [
+      "exciting",
+      "excited",
+      "excitement"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "title": "Listening. Listen to Dilnoza talking to her friend about a trip. Choose the correct answers.",
+   "audio": "preint/P2.mp3",
+   "script": "Jasur: Hi Dilnoza! How was your trip to the mountains?\nDilnoza: Amazing, but also a bit frightening! We were climbing to a lake at about three thousand metres.\nJasur: Wow. Did you get there?\nDilnoza: Yes, in the end. But while we were walking up the last part, a thick fog came down. We couldn't see more than five metres.\nJasur: That sounds dangerous. What did you do?\nDilnoza: Our guide told us to stop and wait. We sat on our rucksacks for about an hour and drank hot tea from a flask.\nJasur: Were you cold?\nDilnoza: Freezing! I had a warm jacket, but I forgot my gloves.\nJasur: And then?\nDilnoza: The fog disappeared and suddenly we saw the lake. It was absolutely stunning — bright blue, like a mirror.\nJasur: Would you go again?\nDilnoza: Definitely. But next time I'll pack better!",
+   "items": [
+    {
+     "t": "mc",
+     "q": "Where was Dilnoza going?",
+     "o": [
+      "To a lake in the mountains",
+      "To a waterfall",
+      "To the top of a volcano"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "What was the problem during the climb?",
+     "o": [
+      "A storm",
+      "Thick fog",
+      "Heavy snow"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "What did the group do?",
+     "o": [
+      "They went back down.",
+      "They waited for about an hour.",
+      "They called a helicopter."
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "What did Dilnoza forget?",
+     "o": [
+      "Her jacket",
+      "Her flask",
+      "Her gloves"
+     ],
+     "a": 2
+    },
+    {
+     "t": "mc",
+     "q": "How did she feel when she saw the lake?",
+     "o": [
+      "Disappointed",
+      "Amazed",
+      "Frightened"
+     ],
+     "a": 1
+    }
+   ]
+  },
+  {
+   "title": "G. Read the text and choose the correct answers.",
+   "passage": "In 2016 a young Uzbek climber, Bobur, tried to climb Khan Tengri, a 7,010-metre mountain on the border of Kazakhstan and Kyrgyzstan. He trained for two years, running in the Chimgan hills every morning.\n\nOn the third day of the climb, while he was crossing a glacier, a snowstorm hit the mountain. Bobur couldn’t see more than two metres in front of him. Instead of continuing, he built a small wall of snow, got into his sleeping bag and waited. He spent eighteen hours there, eating chocolate and melting snow for water.\n\nWhen the storm finished, he was cold and tired, and he decided to go down. ‘The mountain will still be there next year,’ he wrote in his diary. A year later he went back and reached the top. Today he gives talks at schools. ‘The most important skill in adventure,’ he tells students, ‘is knowing when to stop.’",
+   "items": [
+    {
+     "t": "mc",
+     "q": "What did Bobur do during the snowstorm?",
+     "o": [
+      "He continued to the top.",
+      "He stopped and waited in a snow shelter.",
+      "He called for a helicopter."
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "Why did Bobur go down after the storm?",
+     "o": [
+      "He was injured.",
+      "He was cold and tired.",
+      "His guide told him to."
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "What does Bobur tell students?",
+     "o": [
+      "Adventure is too dangerous.",
+      "You must always reach the top.",
+      "It is important to know when to stop."
+     ],
+     "a": 2
+    },
+    {
+     "t": "mc",
+     "q": "What is the writer’s purpose?",
+     "o": [
+      "To tell the story of a climber who made a good decision.",
+      "To advertise a climbing school.",
+      "To explain how glaciers are formed."
+     ],
+     "a": 0
+    },
+    {
+     "t": "tf",
+     "q": "Bobur reached the top of Khan Tengri on his first attempt.",
+     "a": false
+    }
+   ]
+  }
+ ]
+}

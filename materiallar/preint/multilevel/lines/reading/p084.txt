@@ -1,0 +1,53 @@
+﻿65`t16`t74`tPart 2
+120`t21`t103`tExercise 8
+66`t17`t743`t83
+168`t17`t102`tRead the texts and the statements A-J. Decide which text matches
+197`t18`t102`twith the situation described in the statements.
+225`t21`t102`tEach statement can be used ONCE only. There are TWO extra
+255`t17`t102`tstatements which you do not need to use.
+288`t21`t104`tA) You must have a special clothing on your head to attend this course.
+317`t21`t104`tB) You want to be a web developer and need a course for that,
+345`t21`t104`tC) You are interested in golf and want to learn to play it.
+374`t21`t105`tD) You want to take a music lesson without going out Of your home.
+402`t21`t105`tE) You are planning to go climbing in the mountain in April.
+429`t21`t105`tF) You can play drum at a beginner level and now you want to learn it
+461`t16`t132`tbetter.
+488`t22`t105`tG) You would like to learn Spanish language. You have free time after
+518`t17`t132`t18.00.
+545`t21`t105`tH) You want to learn biology to apply for university.
+573`t21`t107`tl) You want to goto a prep school in England.
+602`t21`t105`tJ) You need take your suitable footwear tc the lesson.
+657`t17`t84`t1
+912`t17`t86`t3
+664`t21`t164`tLanguage Courses
+708`t15`t117`tFrench.
+728`t13`t117`tGerman:
+747`t17`t117`tPortugese:
+767`t16`t117`tSpanish"
+708`t17`t252`tMonday evening
+727`t17`t251`tThursday evening
+746`t18`t253`tTuesday afternoon
+765`t18`t251`tWednesday evening
+804`t15`t117`tAfternoon Classes} 2 30-4.00 p _m.
+822`t16`t119`tEvening Classes: 6.30-8.30 p.m.
+656`t16`t434`t2
+660`t24`t474`tGUITAR LESSONS
+690`t12`t549`tLeam
+809`t10`t512`ta — atierrøx:üi
+909`t17`t435`t4
+920`t18`t126`tHORSE - RIDING LESSONS
+953`t16`t200`tBen Riding Schad
+971`t13`t227`tWest Road
+1032`t12`t320`tquiet horses
+1047`t14`t275`tCiasses every day
+828`t11`t599`tof
+866`t12`t524`tCh 'Idren B Okf
+917`t20`t504`tCAMP BELLAMY
+956`t15`t528`tSPRING ACTIVITIES
+995`t18`t648`tSailing
+996`t17`t507`tClimbing
+1014`t18`t489`t(Ages 13-16) (Ages 17-19)
+1074`t15`t501`tTimes: 8_30 am or 2.30 prn
+1115`t18`t548`tCourses begin:
+1134`t18`t530`t14 April and 21 April
+1194`t18`t546`tanirdosh mytestsuz

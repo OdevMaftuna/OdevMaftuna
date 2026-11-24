@@ -1,0 +1,34 @@
+﻿66`t17`t86`tPart 2
+75`t17`t746`t129
+122`t16`t86`t4
+137`t15`t126`tSaver
+177`t15`t126`tThis flexible ticket is valid every day and be bought 'the day or travel. Vaur ticket
+195`t14`t126`tStandard Class ani/ train between IO am NO Szeat fesen•ations
+212`t16`t126`tLondon to Glasgow Edinburgh $95,
+245`t12`t126`tPhone: 14528755 www.saver.com
+297`t17`t84`t5
+314`t15`t125`tSolo
+356`t16`t123`tSolo is an inclusive return ticket wyth Sleeper resegrvetions tor one or both directions-
+374`t16`t123`tOutward and return reservations should be made at 'he time of booking. The journey must
+392`t18`t123`tinchJda Saturday night away. S140 - S 150 London IOGdinburgtVGIesgo•w return
+428`t13`t123`tPhone : 745 6933
+479`t16`t83`t6
+489`t20`t122`tSpecial
+531`t17`t122`tSpetiar is an inclusive return travel peckege for two people including sioeper
+551`t14`t152`tor directions. ft can mean savings both of yoo. Outward and return reservations
+567`t16`t120`tshould be at the time booking. Frocn Si20
+602`t13`t174`t4758 9632
+690`t20`t110`tExercise 36
+738`t17`t108`tRead the texts and the statements A-F. Decide which text matches
+767`t17`t108`twith the situation described in the statements.
+795`t20`t108`tEach statement can be used ONCE only, There are TWO extra
+825`t17`t107`tstatements which you do not need to use.
+858`t21`t107`tA) This app can be used for more than one sport,
+886`t21`t108`tB) You have to pay if you want this app to suggest where you can go.
+915`t21`t107`tC) You have to pay if you want to turn on your GPS for tracking your jog-
+944`t21`t133`tging routes.
+972`t21`t107`tD) You do not have to pay any of the features on this app.
+1001`t21`t107`tE) This app provides information about calories burned it you buy a pre-
+1031`t16`t134`tmium version.
+1058`t21`t107`tF) You can pay to download true stories on this app.
+1203`t18`t677`tmytestsuz

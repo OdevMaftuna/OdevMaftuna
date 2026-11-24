@@ -1,0 +1,958 @@
+{
+ "a": [
+  {
+   "q": "My brother spends all day fixing broken teeth for children who visit his clinic.",
+   "options": [
+    "dentist",
+    "architect",
+    "engineer",
+    "builder"
+   ],
+   "answer": "dentist",
+   "explain": "dentist — tish shifokori: bolalarning tishlarini davolovchi shifokor."
+  },
+  {
+   "q": "She designs beautiful modern houses for rich families living in the capital city.",
+   "options": [
+    "architect",
+    "builder",
+    "cleaner",
+    "gardener"
+   ],
+   "answer": "architect",
+   "explain": "architect — me'mor: binolar va uylarni loyihalashtiruvchi mutaxassis."
+  },
+  {
+   "q": "We need someone to cut the grass and plant colorful flowers in our large garden.",
+   "options": [
+    "gardener",
+    "builder",
+    "cleaner",
+    "engineer"
+   ],
+   "answer": "gardener",
+   "explain": "gardener — bog'bon: bog'ni parvarish qiluvchi va gullar ekadigan shaxs."
+  },
+  {
+   "q": "My uncle builds strong stone walls and fixes broken roofs on new houses.",
+   "options": [
+    "builder",
+    "architect",
+    "engineer",
+    "gardener"
+   ],
+   "answer": "builder",
+   "explain": "builder — quruvchi: binolarni quruvchi va ta'mirlaydigan ishchi."
+  },
+  {
+   "q": "The young woman cleans all the hotel rooms every morning before guests arrive.",
+   "options": [
+    "cleaner",
+    "gardener",
+    "builder",
+    "architect"
+   ],
+   "answer": "cleaner",
+   "explain": "cleaner — farrosh: xonalarni tozolovchi va yig'ishtiruvchi xodim."
+  },
+  {
+   "q": "He designs complex computer systems and makes sure the local bridge is safe.",
+   "options": [
+    "engineer",
+    "architect",
+    "builder",
+    "programmer"
+   ],
+   "answer": "engineer",
+   "explain": "engineer — muhandis: texnika va inshootlarni loyihalashtiruvchi mutaxassis."
+  },
+  {
+   "q": "She writes interesting articles about local schools and youth clubs for newspapers.",
+   "options": [
+    "journalist",
+    "photographer",
+    "receptionist",
+    "travel agent"
+   ],
+   "answer": "journalist",
+   "explain": "journalist — jurnalist: gazetalar uchun maqolalar yozuvchi xodim."
+  },
+  {
+   "q": "My sister takes amazing pictures of weddings and mountains using her professional camera.",
+   "options": [
+    "photographer",
+    "journalist",
+    "receptionist",
+    "estate agent"
+   ],
+   "answer": "photographer",
+   "explain": "photographer — fotograf: suratga oluvchi professional mutaxassis."
+  },
+  {
+   "q": "He sits at the front desk in the hotel and welcomes every new visitor warmly.",
+   "options": [
+    "receptionist",
+    "waiter",
+    "sales assistant",
+    "travel agent"
+   ],
+   "answer": "receptionist",
+   "explain": "receptionist — qabulxona xodimi: mehmonlarni kutib oluvchi shaxs."
+  },
+  {
+   "q": "She helps customers find the right holiday packages and books cheap airplane tickets.",
+   "options": [
+    "travel agent",
+    "receptionist",
+    "sales assistant",
+    "journalist"
+   ],
+   "answer": "travel agent",
+   "explain": "travel agent — sayohat agenti: safar va chiptalarni bron qiluvchi mutaxassis."
+  },
+  {
+   "q": "The young man brings hot cheese pizzas right to customers' front doors every evening.",
+   "options": [
+    "pizza delivery man/woman",
+    "waiter",
+    "sales assistant",
+    "receptionist"
+   ],
+   "answer": "pizza delivery man/woman",
+   "explain": "pizza delivery man/woman — pitsa yetkazib beruvchi: buyurtmani olib keluvchi xodim."
+  },
+  {
+   "q": "He serves delicious traditional food to hungry people sitting at restaurant tables.",
+   "options": [
+    "waiter",
+    "sales assistant",
+    "receptionist",
+    "travel agent"
+   ],
+   "answer": "waiter",
+   "explain": "waiter — ofitsiant: restoran mijozlariga taom olib kelib beruvchi xodim."
+  },
+  {
+   "q": "She helps shoppers choose warm winter jackets in the busy clothing store downtown.",
+   "options": [
+    "sales assistant",
+    "waiter",
+    "receptionist",
+    "travel agent"
+   ],
+   "answer": "sales assistant",
+   "explain": "sales assistant — sotuvchi: do'konda xaridorlarga xizmat ko'rsatuvchi xodim."
+  },
+  {
+   "q": "My brother helps people buy and sell big houses in our noisy neighborhood.",
+   "options": [
+    "estate agent",
+    "travel agent",
+    "journalist",
+    "photographer"
+   ],
+   "answer": "estate agent",
+   "explain": "estate agent — ko'chmas mulk agenti: uylarni oldi-sotdi qiluvchi mutaxassis."
+  },
+  {
+   "q": "He works long hours picking fresh cotton and vegetables on his family farm.",
+   "options": [
+    "farm worker",
+    "gardener",
+    "builder",
+    "groundskeeper"
+   ],
+   "answer": "farm worker",
+   "explain": "farm worker — fermer ishchisi: qishloq xo'jaligida ishlaydigan inson."
+  },
+  {
+   "q": "She cuts and styles teenagers' hair to make them look cool for school.",
+   "options": [
+    "hairdresser",
+    "cleaner",
+    "dentist",
+    "photographer"
+   ],
+   "answer": "hairdresser",
+   "explain": "hairdresser — sartarosh: soch turmaklovchi va kesuvchi mutaxassis."
+  },
+  {
+   "q": "He jumps from tall burning buildings in Hollywood action films to earn money.",
+   "options": [
+    "stunt performer",
+    "pilot",
+    "police officer",
+    "paramedic"
+   ],
+   "answer": "stunt performer",
+   "explain": "stunt performer — kaskadyor: xavfli sahnalarda aktyor o'rniga harakat qiluvchi shaxs."
+  },
+  {
+   "q": "My cousin flies big passenger airplanes across continents for an international airline.",
+   "options": [
+    "pilot",
+    "stunt performer",
+    "paramedic",
+    "police officer"
+   ],
+   "answer": "pilot",
+   "explain": "pilot — uchuvchi: samolyotni boshqaruvchi mutaxassis."
+  },
+  {
+   "q": "She drives an ambulance very quickly to help sick people on the street.",
+   "options": [
+    "paramedic",
+    "police officer",
+    "pilot",
+    "stunt performer"
+   ],
+   "answer": "paramedic",
+   "explain": "paramedic — tez yordam xodimi: bemorlarga birinchi yordam ko'rsatuvchi shaxs."
+  },
+  {
+   "q": "He catches dangerous criminals and protects local citizens from street crimes daily.",
+   "options": [
+    "police officer",
+    "paramedic",
+    "pilot",
+    "stunt performer"
+   ],
+   "answer": "police officer",
+   "explain": "police officer — politsiyachi: tartibni saqlovchi va jinoyatchilarni ushlovchi xodim."
+  },
+  {
+   "q": "My uncle gives legal advice to business owners and represents them in court.",
+   "options": [
+    "solicitor",
+    "architect",
+    "engineer",
+    "journalist"
+   ],
+   "answer": "solicitor",
+   "explain": "solicitor — huquqshunos: sud ishlarida vakillik qiluvchi va maslahat beruvchi mutaxassis."
+  },
+  {
+   "q": "He trains the school football team every afternoon to win the regional cup.",
+   "options": [
+    "sports coach",
+    "surfing instructor",
+    "paramedic",
+    "police officer"
+   ],
+   "answer": "sports coach",
+   "explain": "sports coach — sport murabbiyi: jamoani musobaqalarga tayyorlovchi shaxs."
+  },
+  {
+   "q": "He opens locked doors for people who lost their house keys in the city.",
+   "options": [
+    "locksmith",
+    "builder",
+    "engineer",
+    "architect"
+   ],
+   "answer": "locksmith",
+   "explain": "locksmith — qulfchi: buzilgan qulflarni ochuvchi va tuzatuvchi usta."
+  },
+  {
+   "q": "The job pays very little money, so she cannot buy new clothes or shoes.",
+   "options": [
+    "badly-paid",
+    "well-paid",
+    "stressful",
+    "challenging"
+   ],
+   "answer": "badly-paid",
+   "explain": "badly-paid — kam maoshli: ko'p pul to'lanmaydigan ish turi."
+  },
+  {
+   "q": "He earns a huge salary every month and can buy expensive cars easily.",
+   "options": [
+    "well-paid",
+    "badly-paid",
+    "repetitive",
+    "challenging"
+   ],
+   "answer": "well-paid",
+   "explain": "well-paid — yuqori maoshli: ko'p pul to'lanadigan yaxshi ish."
+  },
+  {
+   "q": "Every single day she repeats the exact same boring tasks on the factory line.",
+   "options": [
+    "repetitive",
+    "varied",
+    "creative",
+    "flexible"
+   ],
+   "answer": "repetitive",
+   "explain": "repetitive — takrorlanuvchi: doim bir xil zerikarli ishni bajarish."
+  },
+  {
+   "q": "His daily work includes writing stories, meeting new people, and traveling abroad.",
+   "options": [
+    "varied",
+    "repetitive",
+    "stressful",
+    "badly-paid"
+   ],
+   "answer": "varied",
+   "explain": "varied — xilma-xil: turli xil vazifalardan iborat qiziqarli faoliyat."
+  },
+  {
+   "q": "She invents fantastic new painting ideas and beautiful art pieces for local galleries.",
+   "options": [
+    "creative",
+    "repetitive",
+    "stressful",
+    "challenging"
+   ],
+   "answer": "creative",
+   "explain": "creative — ijodiy: yangi va o'ziga xos g'oyalarni o'ylab topuvchi."
+  },
+  {
+   "q": "The math exam was extremely difficult, but he solved all the hard questions.",
+   "options": [
+    "challenging",
+    "repetitive",
+    "varied",
+    "flexible"
+   ],
+   "answer": "challenging",
+   "explain": "challenging — qiyin: kuch va mahorat talab qiladigan vazifa."
+  },
+  {
+   "q": "He gets very worried and tired because his office job has too much pressure.",
+   "options": [
+    "stressful",
+    "rewarding",
+    "flexible",
+    "well-paid"
+   ],
+   "answer": "stressful",
+   "explain": "stressful — stressli: ko'p asabiylashish va charchoq keltirib chiqaradigan."
+  },
+  {
+   "q": "Teaching poor children to read brings her amazing happiness and deep personal satisfaction.",
+   "options": [
+    "rewarding",
+    "stressful",
+    "repetitive",
+    "badly-paid"
+   ],
+   "answer": "rewarding",
+   "explain": "rewarding — foydali va quvonchli: insonni mamnun qiladigan yaxshi ish."
+  },
+  {
+   "q": "She can start work anytime she wants and work from home whenever needed.",
+   "options": [
+    "flexible",
+    "stressful",
+    "repetitive",
+    "challenging"
+   ],
+   "answer": "flexible",
+   "explain": "flexible — moslashuvchan: vaqti o'zgarib turadigan qulay shart-sharoit."
+  },
+  {
+   "q": "He always arrives at work on time and never breaks his important promises.",
+   "options": [
+    "reliable",
+    "hard-working",
+    "friendly",
+    "enthusiastic"
+   ],
+   "answer": "reliable",
+   "explain": "reliable — ishonganli, ishonchli: va'dasida turadigan va adashmaydigan inson."
+  },
+  {
+   "q": "She smiles at everyone and makes new students feel welcome in the classroom.",
+   "options": [
+    "friendly",
+    "reliable",
+    "hard-working",
+    "physically fit"
+   ],
+   "answer": "friendly",
+   "explain": "friendly — do'stona: boshqalar bilan samimiy munosabatda bo'ladigan inson."
+  },
+  {
+   "q": "He studies for ten hours every day and never stops trying to improve.",
+   "options": [
+    "hard-working",
+    "reliable",
+    "friendly",
+    "flexible"
+   ],
+   "answer": "hard-working",
+   "explain": "hard-working — mehnatkash: ko'p va qattiq ishlaydigan tirishqoq shaxs."
+  },
+  {
+   "q": "She runs ten kilometers every morning and lifts heavy weights at the gym.",
+   "options": [
+    "physically fit",
+    "hard-working",
+    "reliable",
+    "friendly"
+   ],
+   "answer": "physically fit",
+   "explain": "physically fit — jismonan baquvvat: sport bilan doimiy shug'ullanadigan sog'lom inson."
+  },
+  {
+   "q": "My sister designs beautiful new houses and tall modern buildings for big construction companies in Tashkent.",
+   "options": [
+    "architect",
+    "builder",
+    "engineer",
+    "cleaner"
+   ],
+   "answer": "architect",
+   "explain": "architect — me'mor: u Toshkentda binolarni loyihalashtiradi"
+  },
+  {
+   "q": "He spends all day cleaning teeth and helping patients in a busy dental clinic in Samarkand.",
+   "options": [
+    "dentist",
+    "paramedic",
+    "police officer",
+    "solicitor"
+   ],
+   "answer": "dentist",
+   "explain": "dentist — tish shifokori: u klinikalarda tishlarni davolaydi"
+  },
+  {
+   "q": "She plans and builds big bridges and roads for the government using advanced math and science.",
+   "options": [
+    "engineer",
+    "architect",
+    "builder",
+    "programmer"
+   ],
+   "answer": "engineer",
+   "explain": "engineer — muhandis: u ko'prik va yo'llarni loyihalaydi"
+  },
+  {
+   "q": "He writes interesting articles about local sports and cultural events for the local newspaper in Khiva.",
+   "options": [
+    "journalist",
+    "photographer",
+    "travel agent",
+    "estate agent"
+   ],
+   "answer": "journalist",
+   "explain": "journalist — jurnalist: u gazetalar uchun maqolalar yozadi"
+  }
+ ],
+ "b": [
+  {
+   "q": "The school needs a new ______ to plant flowers and look after the big green football field.",
+   "options": [
+    "gardener",
+    "architect",
+    "dentist",
+    "journalist"
+   ],
+   "answer": "gardener",
+   "explain": "gardener — bog'bon: u maktab bog'idagi gullarga qaraydi."
+  },
+  {
+   "q": "My brother writes articles for the city newspaper and wants to become a famous ______ soon.",
+   "options": [
+    "journalist",
+    "photographer",
+    "pilot",
+    "programmer"
+   ],
+   "answer": "journalist",
+   "explain": "journalist — jurnalist: u shahar gazetasi uchun maqolalar yozadi."
+  },
+  {
+   "q": "Being an emergency ______ means you must drive the ambulance very quickly to save people.",
+   "options": [
+    "paramedic",
+    "dentist",
+    "waiter",
+    "solicitor"
+   ],
+   "answer": "paramedic",
+   "explain": "paramedic — tez yordam xodimi: u bemorlarni shifoxonaga olib boradi."
+  },
+  {
+   "q": "If you love taking pictures of nature and weddings you can work as a professional ______.",
+   "options": [
+    "photographer",
+    "hairdresser",
+    "sales assistant",
+    "travel agent"
+   ],
+   "answer": "photographer",
+   "explain": "photographer — fotograf: u tabiat va to'ylarni suratga oladi."
+  },
+  {
+   "q": "Ordering hot food on rainy evenings is great when the local ______ brings pizza to your door.",
+   "options": [
+    "pizza delivery man/woman",
+    "waiter",
+    "sales assistant",
+    "farm worker"
+   ],
+   "answer": "pizza delivery man/woman",
+   "explain": "pizza delivery man/woman — pitsa yetkazib beruvchi: u uyingizga ovqat olib keladi."
+  },
+  {
+   "q": "When visitors arrive at the big hotel the friendly ______ welcomes them at the front desk.",
+   "options": [
+    "receptionist",
+    "waiter",
+    "sales assistant",
+    "dentist"
+   ],
+   "answer": "receptionist",
+   "explain": "receptionist — qabulxona xodimi: u mehmonlarni kutib oladi."
+  },
+  {
+   "q": "My cousin helps customers find clothes in the clothing shop where she works as a ______ assistant.",
+   "options": [
+    "sales assistant",
+    "waiter",
+    "travel agent",
+    "hairdresser"
+   ],
+   "answer": "sales assistant",
+   "explain": "sales assistant — sotuvchi: u do'konda xaridorlarga yordam beradi."
+  },
+  {
+   "q": "Teaching children how to swim safely in the deep pool makes her a fantastic sports ______.",
+   "options": [
+    "sports coach",
+    "surfing instructor",
+    "groundskeeper",
+    "gardener"
+   ],
+   "answer": "sports coach",
+   "explain": "sports coach — sport murabbiyi: u bolalarga suzishni o'rgatadi."
+  },
+  {
+   "q": "Jumping off tall buildings into safety nets for action movies is the job of a brave ______.",
+   "options": [
+    "stunt performer",
+    "pilot",
+    "paramedic",
+    "locksmith"
+   ],
+   "answer": "stunt performer",
+   "explain": "stunt performer — kaskadyor: u xavfli kinofilmlarda harakatlarni bajaradi."
+  },
+  {
+   "q": "Riding waves in the ocean and teaching tourists how to balance makes him a great surfing ______.",
+   "options": [
+    "surfing instructor",
+    "sports coach",
+    "groundskeeper",
+    "farm worker"
+   ],
+   "answer": "surfing instructor",
+   "explain": "surfing instructor — syorfing o'qituvchisi: u to'lqinda suzishni o'rgatadi."
+  },
+  {
+   "q": "Booking holidays and cheap flights for happy families is the daily job of a travel ______.",
+   "options": [
+    "travel agent",
+    "estate agent",
+    "journalist",
+    "sales assistant"
+   ],
+   "answer": "travel agent",
+   "explain": "travel agent — sayohat agenti: u mijozlarga dam olish maskanlarini topadi."
+  },
+  {
+   "q": "Serving delicious food to hungry customers in the busy restaurant is the main task of a ______.",
+   "options": [
+    "waiter",
+    "receptionist",
+    "sales assistant",
+    "farm worker"
+   ],
+   "answer": "waiter",
+   "explain": "waiter — ofitsiant: u mijozlarga taomlar va ichimliklar keltiradi."
+  },
+  {
+   "q": "Working underground in deep coal mines is extremely ______ because there is constant danger around.",
+   "options": [
+    "stressful",
+    "creative",
+    "varied",
+    "flexible"
+   ],
+   "answer": "stressful",
+   "explain": "stressful — stressli: xavfli va qiyin sharoitdagi ish turi."
+  },
+  {
+   "q": "Painting beautiful pictures and designing new clothes requires someone who is very ______ and imaginative.",
+   "options": [
+    "creative",
+    "challenging",
+    "hard-working",
+    "reliable"
+   ],
+   "answer": "creative",
+   "explain": "creative — ijodiy: yangi narsalarni o'ylab topishni yaxshi ko'radigan."
+  },
+  {
+   "q": "My mother loves her job at the hospital because helping sick people get better is very ______.",
+   "options": [
+    "rewarding",
+    "repetitive",
+    "stressful",
+    "badly-paid"
+   ],
+   "answer": "rewarding",
+   "explain": "rewarding — foydali va quvonchli: insonlarga yordam berishdan mamnuniyat."
+  },
+  {
+   "q": "Doing the exact same factory assembly task every single minute makes the job extremely ______.",
+   "options": [
+    "repetitive",
+    "varied",
+    "challenging",
+    "creative"
+   ],
+   "answer": "repetitive",
+   "explain": "repetitive — takrorlanuvchi: bir xil ishni tinimsiz bajarish."
+  },
+  {
+   "q": "Our office manager is very ______ because she always finishes all her important tasks on time.",
+   "options": [
+    "reliable",
+    "flexible",
+    "friendly",
+    "enthusiastic"
+   ],
+   "answer": "reliable",
+   "explain": "reliable — ishonchli: unga har doim tayanib bo'ladi."
+  },
+  {
+   "q": "If you want to sell houses and apartments to new families you should become an estate ______.",
+   "options": [
+    "estate agent",
+    "travel agent",
+    "sales assistant",
+    "journalist"
+   ],
+   "answer": "estate agent",
+   "explain": "estate agent — rieltor: u uylar va kvartiralarni sotish bilan shug'ullanadi."
+  },
+  {
+   "q": "Working on a tractor in the large green wheat fields is the normal life of a farm ______.",
+   "options": [
+    "farm worker",
+    "groundskeeper",
+    "gardener",
+    "builder"
+   ],
+   "answer": "farm worker",
+   "explain": "farm worker — dehqon: u qishloq xo'jaligida mehnat qiladi."
+  },
+  {
+   "q": "Opening locked doors when people lose their house keys is the daily job of a professional ______.",
+   "options": [
+    "locksmith",
+    "builder",
+    "engineer",
+    "architect"
+   ],
+   "answer": "locksmith",
+   "explain": "locksmith — chilangar: u qulflarni ochish va ta'mirlash bilan shug'ullanadi."
+  },
+  {
+   "q": "People who clean office windows high above the ground must be extremely ______ and healthy.",
+   "options": [
+    "physically fit",
+    "badly-paid",
+    "creative",
+    "stressful"
+   ],
+   "answer": "physically fit",
+   "explain": "physically fit — jismoniy baquvvat: badani sog'lom va kuchli bo'lgan."
+  },
+  {
+   "q": "Cutting and styling hair for customers who visit the local salon makes her a talented ______.",
+   "options": [
+    "hairdresser",
+    "gardener",
+    "receptionist",
+    "sales assistant"
+   ],
+   "answer": "hairdresser",
+   "explain": "hairdresser — sartarosh: u odamlarning sochlarini kesadi va turmaklaydi."
+  },
+  {
+   "q": "My father is a university professor and earns a really ______ salary that supports our family.",
+   "options": [
+    "well-paid",
+    "badly-paid",
+    "repetitive",
+    "stressful"
+   ],
+   "answer": "well-paid",
+   "explain": "well-paid — yaxshi maosh oladigan: daromadi yuqori bo'lgan kasb."
+  },
+  {
+   "q": "The new English teacher is always ______ about grammar games and makes every lesson really fun.",
+   "options": [
+    "enthusiastic",
+    "stressful",
+    "repetitive",
+    "badly-paid"
+   ],
+   "answer": "enthusiastic",
+   "explain": "enthusiastic — ishtiyoqli: darsga qiziqishi baland va g'ayratli."
+  },
+  {
+   "q": "My brother works as an ______ to design modern bridges and big buildings in Tashkent.",
+   "options": [
+    "architect",
+    "builder",
+    "cleaner",
+    "gardener"
+   ],
+   "answer": "architect",
+   "explain": "architect — me'mor: u bino loyihasini chizadi"
+  },
+  {
+   "q": "Working as a ______ at the local hospital can sometimes be very stressful during weekends.",
+   "options": [
+    "paramedic",
+    "solicitor",
+    "programmer",
+    "journalist"
+   ],
+   "answer": "paramedic",
+   "explain": "paramedic — tez yordam xodimi: bemorlarga birinchi yordam beradi"
+  },
+  {
+   "q": "She is very ______ because she always finishes her homework on time without complaints.",
+   "options": [
+    "hard-working",
+    "creative",
+    "badly-paid",
+    "repetitive"
+   ],
+   "answer": "hard-working",
+   "explain": "hard-working — mehnatkash: doim ishini o'z vaqtida bajaradi"
+  },
+  {
+   "q": "My sister wants to be a ______ to cut and style people's hair every day.",
+   "options": [
+    "hairdresser",
+    "dentist",
+    "waiter",
+    "receptionist"
+   ],
+   "answer": "hairdresser",
+   "explain": "hairdresser — sartarosh: odamlarning sochlarini turmaklaydi"
+  },
+  {
+   "q": "Being a ______ means you spend most of your day fixing broken locks and doors.",
+   "options": [
+    "locksmith",
+    "engineer",
+    "architect",
+    "builder"
+   ],
+   "answer": "locksmith",
+   "explain": "locksmith — chilangar: qulflar va eshiklarni tuzatadi"
+  },
+  {
+   "q": "He loves cooking, so he got a job as a ______ bringing food to houses.",
+   "options": [
+    "pizza delivery man/woman",
+    "sales assistant",
+    "farm worker",
+    "travel agent"
+   ],
+   "answer": "pizza delivery man/woman",
+   "explain": "pizza delivery man/woman — pitsa yetkazib beruvchi: buyurtmani olib keladi"
+  }
+ ],
+ "c": [
+  {
+   "q": "My brother works as an a______ designing modern office buildings in Tashkent.",
+   "answer": "architect",
+   "base": "architect",
+   "explain": "architect — me'mor: u Toshkentda yangi ofis binolarini loyihalashtiradi."
+  },
+  {
+   "q": "Working in a busy restaurant kitchen can sometimes be very s______.",
+   "answer": "stressful",
+   "base": "stressful",
+   "explain": "stressful — stressli: gavjum restoran oshxonasida ishlash ba'zan qiyin."
+  },
+  {
+   "q": "She wants to be a p______ because she loves flying airplanes around the world.",
+   "answer": "pilot",
+   "base": "pilot",
+   "explain": "pilot — uchuvchi: u butun dunyo bo'ylab samolyotda uchishni yaxshi ko'radi."
+  },
+  {
+   "q": "Being a d______ is important because people need healthy teeth every day.",
+   "answer": "dentist",
+   "base": "dentist",
+   "explain": "dentist — tish shifokori: odamlarga har kuni sog'lom tishlar kerak."
+  },
+  {
+   "q": "My uncle is a b______ who is building a new brick house for us.",
+   "answer": "builder",
+   "base": "builder",
+   "explain": "builder — quruvchi: amakim biz uchun yangi g'ishtli uy quryapti."
+  },
+  {
+   "q": "An e______ designs complex bridges and roads to connect different cities safely.",
+   "answer": "engineer",
+   "base": "engineer",
+   "explain": "engineer — muhandis: u shaharlarni bog'lash uchun ko'priklar loyihalaydi."
+  },
+  {
+   "q": "That c______ job gives me the opportunity to paint wonderful pictures daily.",
+   "answer": "creative",
+   "base": "creative",
+   "explain": "creative — ijodiy: bu ish menga har kuni ajoyib suratlar chizish imkonini beradi."
+  },
+  {
+   "q": "My friend is a r______ who answers phone calls at the hotel desk.",
+   "answer": "receptionist",
+   "base": "receptionist",
+   "explain": "receptionist — qabulxona xodimi: u mehmonxona stolida telefon qo'ng'iroqlariga javob beradi."
+  },
+  {
+   "q": "He works as a g______ and takes care of green trees in the park.",
+   "answer": "gardener",
+   "base": "gardener",
+   "explain": "gardener — bog'bon: u istirohat bog'idagi yashil daraxtlarga g'amxo'rlik qiladi."
+  },
+  {
+   "q": "The j______ wrote a very interesting article about local history for newspapers.",
+   "answer": "journalist",
+   "base": "journalist",
+   "explain": "journalist — jurnalist: u mahalliy tarix haqida qiziqarli maqola yozdi."
+  },
+  {
+   "q": "A good p______ must write difficult computer software codes very carefully.",
+   "answer": "programmer",
+   "base": "programmer",
+   "explain": "programmer — dasturchi: yaxshi dasturchi murakkab kompyuter kodlarini yozadi."
+  },
+  {
+   "q": "My father is a r______ car mechanic who always fixes problems quickly.",
+   "answer": "reliable",
+   "base": "reliable",
+   "explain": "reliable — ishonchli: dadam har doim muammolarni tezda hal qiladigan mexanik."
+  },
+  {
+   "q": "That c______ math problem took me two hours to solve completely today.",
+   "answer": "challenging",
+   "base": "challenging",
+   "explain": "challenging — qiyin: bu murakkab matematik masalani yechishga ikki soat ketdi."
+  },
+  {
+   "q": "The p______ helped people who were injured in the car accident quickly.",
+   "answer": "paramedic",
+   "base": "paramedic",
+   "explain": "paramedic — tez yordam xodimi: u avtohalokatda jarohatlanganlarga yordam berdi."
+  },
+  {
+   "q": "He is a f______ person who smiles at everyone in our local school.",
+   "answer": "friendly",
+   "base": "friendly",
+   "explain": "friendly — do'stona: u maktabimizdagi barchaga tabassum qiladigan inson."
+  },
+  {
+   "q": "The p______ took beautiful wedding pictures of my sister in Samarkand.",
+   "answer": "photographer",
+   "base": "photographer",
+   "explain": "photographer — fotograf: u opamning Samarqanddagi to'y suratlarini oldi."
+  },
+  {
+   "q": "He works as a w______ in a popular restaurant serving hot shashlik.",
+   "answer": "waiter",
+   "base": "waiter",
+   "explain": "waiter — aftsiant: u mashhur restoranda issiq shashlik tortiq qiladi."
+  },
+  {
+   "q": "A s______ helps clients with legal problems and gives them good advice.",
+   "answer": "solicitor",
+   "base": "solicitor",
+   "explain": "solicitor — huquqshunos: u mijozlarga huquqiy maslahatlar berib yordam beradi."
+  },
+  {
+   "q": "My job is v______ because every day I meet different people from abroad.",
+   "answer": "varied",
+   "base": "varied",
+   "explain": "varied — turlicha: mening ishim qiziqarli, chunki har kuni turli odamlarni uchrataman."
+  },
+  {
+   "q": "The c______ cleans the office windows and floors every morning before work.",
+   "answer": "cleaner",
+   "base": "cleaner",
+   "explain": "cleaner — farrosh: u har kuni ertalab ofis derazalari va pollarini tozalaydi."
+  },
+  {
+   "q": "She is e______ about her new English lessons and studies very hard.",
+   "answer": "enthusiastic",
+   "base": "enthusiastic",
+   "explain": "enthusiastic — g'ayratli: u yangi ingliz tili darslariga ishtiyoqi baland."
+  },
+  {
+   "q": "That r______ factory job is boring because I repeat the same action.",
+   "answer": "repetitive",
+   "base": "repetitive",
+   "explain": "repetitive — takrorlanuvchi: zavoddagi bu ish zerikarli, chunki bir xil ishni takrorlayman."
+  },
+  {
+   "q": "Teaching little children to read brings r______ moments to every teacher.",
+   "answer": "rewarding",
+   "base": "rewarding",
+   "explain": "rewarding — foydali: jajji bolalarga o'qishni o'rgatish katta quvonch keltiradi."
+  },
+  {
+   "q": "My older brother works as an a______ designing modern houses in the center of Tashkent.",
+   "answer": "architect",
+   "base": "architect",
+   "explain": "architect — me'mor: u Toshkent markazida zamonaviy uylarni loyihalashtiradi."
+  },
+  {
+   "q": "She wants to be a b______ because she really enjoys building new brick walls safely.",
+   "answer": "builder",
+   "base": "builder",
+   "explain": "builder — quruvchi: u g'isht devorlar qurishni yoqtirgani uchun quruvchi bo'lmoqchi."
+  },
+  {
+   "q": "Solving difficult math puzzles every morning is a very c______ task for students.",
+   "answer": "challenging",
+   "base": "challenging",
+   "explain": "challenging — qiyin va qiziqarli: matematik boshqotirmalarni yechish qiyin vazifa."
+  },
+  {
+   "q": "Our school hires a helpful c______ to clean all the classrooms every evening.",
+   "answer": "cleaner",
+   "base": "cleaner",
+   "explain": "cleaner — farrosh: maktabimiz har oqshom sinflarni tozalash uchun farrosh yollaydi."
+  },
+  {
+   "q": "My cousin is very c______ and paints beautiful portraits of people in Samarkand.",
+   "answer": "creative",
+   "base": "creative",
+   "explain": "creative — ijodkor: u Samarqanddagi odamlarning go'zal portretlarini chizadi."
+  },
+  {
+   "q": "You should visit the d______ immediately if your tooth hurts during your history class.",
+   "answer": "dentist",
+   "base": "dentist",
+   "explain": "dentist — tish shifokori: tishingiz og'risa, darhol tish shifokoriga boring."
+  },
+  {
+   "q": "My uncle is an e______ who fixes big machines at the factory near Bukhara.",
+   "answer": "engineer",
+   "base": "engineer",
+   "explain": "engineer — muhandis: u Buxoro yaqinidagi zavodda katta mashinalarni tuzatadi."
+  }
+ ]
+}

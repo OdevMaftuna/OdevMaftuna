@@ -1,0 +1,342 @@
+[
+ {
+  "kind": "situation",
+  "q": "Aziz designs modern buildings and draws plans for new houses in Tashkent.",
+  "options": [
+   "architect",
+   "engineer",
+   "builder",
+   "gardener"
+  ],
+  "answer": "architect",
+  "why": "«Designs modern buildings» iborasi bu kasb arxitektor ekanligini bildiradi.",
+  "wrong": {
+   "engineer": "Muhandis asosan mexanizm va tuzilmalar bilan ishlaydi, bino loyihalashtirmaydi.",
+   "builder": "Quruvchi loyihani chizmaydi, balki binoni quradi.",
+   "gardener": "Bog'bon binolar bilan emas, o'simliklar bilan shug'ullanadi."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "The office was very dirty, so the ______ cleaned the floors and desks.",
+  "options": [
+   "cleaner",
+   "receptionist",
+   "waiter",
+   "sales assistant"
+  ],
+  "answer": "cleaner",
+  "why": "«Cleaned the floors» so'zlari tozalovchi ishchiga ishora qiladi.",
+  "wrong": {
+   "receptionist": "Qabulxona xodimi pol yuvmaydi, balki mehmonlarni kutib oladi.",
+   "waiter": "Ofitsiant restoranda xizmat ko'rsatadi, tozalash bilan shug'ullanmaydi.",
+   "sales assistant": "Sotuvchi do'konda mollar bilan ishlaydi."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "As an ______, Jamshid designs and builds machines and bridges.",
+  "options": [
+   "engineer",
+   "architect",
+   "pilot",
+   "programmer"
+  ],
+  "answer": "engineer",
+  "why": "«Designs and builds machines» jumla muhandis kasbini bildiradi.",
+  "wrong": {
+   "architect": "Arxitektor mashinalar emas, faqat binolar loyihasini tuzadi.",
+   "pilot": "Uchuvchi samolyot boshqaradi, mashina yasamaydi.",
+   "programmer": "Dasturchi kompyuter kodlari bilan ishlaydi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "He works hard on a large farm in Samarkand, growing wheat and vegetables.",
+  "options": [
+   "farm worker",
+   "gardener",
+   "groundskeeper",
+   "builder"
+  ],
+  "answer": "farm worker",
+  "why": "«On a large farm» va sabzavot yetishtirish ferma ishchisiga mos keladi.",
+  "wrong": {
+   "gardener": "Bog'bon fermada emas, bog'da ishlaydi.",
+   "groundskeeper": "Maydonlar bo'yicha ishchi sport maydonlarini parvarish qiladi.",
+   "builder": "Quruvchi dehqonchilik qilmaydi."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "I need to visit the ______ to get a new haircut before the wedding.",
+  "options": [
+   "hairdresser",
+   "cleaner",
+   "receptionist",
+   "waiter"
+  ],
+  "answer": "hairdresser",
+  "why": "«New haircut» so'zi sartaroshga borish kerakligini bildiradi.",
+  "wrong": {
+   "cleaner": "Tozalovchi soch kesmaydi.",
+   "receptionist": "Qabulxona xodimi soch bilan ishlamaydi.",
+   "waiter": "Ofitsiant soch turmagini o'zgartirmaydi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "She gives first aid and drives the ambulance to the hospital very fast.",
+  "options": [
+   "paramedic",
+   "dentist",
+   "police officer",
+   "pilot"
+  ],
+  "answer": "paramedic",
+  "why": "«First aid» va «ambulance» so'zlari tez yordam xodimiga ishora qiladi.",
+  "wrong": {
+   "dentist": "Tish shifokori tez yordam mashinasida yurmaydi.",
+   "police officer": "Politsiyachi birinchi tibbiy yordam ko'rsatishga ixtisoslashmagan.",
+   "pilot": "Uchuvchi mashina haydamaydi."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "The ______ flies large airplanes to foreign countries every week.",
+  "options": [
+   "pilot",
+   "engineer",
+   "farm worker",
+   "stunt performer"
+  ],
+  "answer": "pilot",
+  "why": "«Flies large airplanes» jumla uchuvchi kasbini bildiradi.",
+  "wrong": {
+   "engineer": "Muhandis samolyot uchirmaydi.",
+   "farm worker": "Ferma ishchisi samolyot boshqarmaydi.",
+   "stunt performer": "Kaskadyor samolyot uchirmaydi, tryuklar bajaradi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "He writes computer code and creates new mobile applications all day.",
+  "options": [
+   "programmer",
+   "architect",
+   "engineer",
+   "journalist"
+  ],
+  "answer": "programmer",
+  "why": "«Computer code» va «mobile applications» dasturchiga tegishli.",
+  "wrong": {
+   "architect": "Arxitektor kod yozmaydi, bino chizadi.",
+   "engineer": "Muhandis dasturiy ta'minot bilan shug'ullanmaydi.",
+   "journalist": "Jurnalist maqola yozadi, kod yozmaydi."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "When you enter the hotel, the ______ welcomes you and gives your room key.",
+  "options": [
+   "receptionist",
+   "cleaner",
+   "waiter",
+   "sales assistant"
+  ],
+  "answer": "receptionist",
+  "why": "«Welcomes you and gives your room key» qabulxona xodimining vazifasi.",
+  "wrong": {
+   "cleaner": "Tozalovchi kalit bermaydi va mehmon kutib olmaydi.",
+   "waiter": "Ofitsiant mehmonxona xonasini band qilmaydi.",
+   "sales assistant": "Sotuvchi mehmonxonada ishlamaydi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "She helps customers find the right clothes and takes their money at the shop.",
+  "options": [
+   "sales assistant",
+   "waiter",
+   "travel agent",
+   "receptionist"
+  ],
+  "answer": "sales assistant",
+  "why": "«Helps customers find clothes» bu do'kon sotuvchisining ishi.",
+  "wrong": {
+   "waiter": "Ofitsiant kiyim sotmaydi, ovqat olib keladi.",
+   "travel agent": "Turagent kiyim do'konida ishlamaydi.",
+   "receptionist": "Qabulxona xodimi do'konda kiyim sotish bilan shug'ullanmaydi."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "If you have legal problems, you should talk to a ______.",
+  "options": [
+   "solicitor",
+   "dentist",
+   "paramedic",
+   "architect"
+  ],
+  "answer": "solicitor",
+  "why": "«Legal problems» huquqshunos yoki yurist yordamini talab qiladi.",
+  "wrong": {
+   "dentist": "Tish shifokori qonuniy masalalarni hal qilmaydi.",
+   "paramedic": "Paramedik tibbiyot xodimi, huquqshunos emas.",
+   "architect": "Arxitektor huquqiy masalalar bilan shug'ullanmaydi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "He trains the football team every evening to help them win the match.",
+  "options": [
+   "sports coach",
+   "surfing instructor",
+   "pilot",
+   "farm worker"
+  ],
+  "answer": "sports coach",
+  "why": "«Trains the football team» futbol murabbiyini bildiradi.",
+  "wrong": {
+   "surfing instructor": "Sorfing ustozi futbol jamoasini shug'ullantirmaydi.",
+   "pilot": "Uchuvchi sport bilan shug'ullanmaydi.",
+   "farm worker": "Ferma ishchisi sport jamoasiga murabbiylik qilmaydi."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "We booked our summer holiday in Turkey with the help of a ______.",
+  "options": [
+   "travel agent",
+   "sales assistant",
+   "receptionist",
+   "estate agent"
+  ],
+  "answer": "travel agent",
+  "why": "«Booked our summer holiday» sayyohlik agenti orqali amalga oshiriladi.",
+  "wrong": {
+   "sales assistant": "Sotuvchi sayohat chiptalarini band qilmaydi.",
+   "receptionist": "Qabulxona xodimi faqat o'z mehmonxonasi uchun ishlaydi.",
+   "estate agent": "Rieltor sayohatni emas, uy-joy sotishni tashkil qiladi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "She brings food and drinks to our table at the restaurant.",
+  "options": [
+   "waiter",
+   "cleaner",
+   "sales assistant",
+   "receptionist"
+  ],
+  "answer": "waiter",
+  "why": "«Brings food and drinks to our table» ofitsiantning vazifasi.",
+  "wrong": {
+   "cleaner": "Tozalovchi restoranda ovqat tashiydi degani emas.",
+   "sales assistant": "Sotuvchi do'konda ishlaydi, restoranda emas.",
+   "receptionist": "Qabulxona xodimi ovqat xizmatini ko'rsatmaydi."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "Painting and writing stories are very ______ jobs because you make new things.",
+  "options": [
+   "creative",
+   "repetitive",
+   "tiring",
+   "stressful"
+  ],
+  "answer": "creative",
+  "why": "«Make new things» ijodiy ishlarga xos xususiyatdir.",
+  "wrong": {
+   "repetitive": "Zerikarli bir xildagi ish ijodiy bo'la olmaydi.",
+   "tiring": "Charchatuvchi so'zi yaratish jarayonini to'liq ochib bermaydi.",
+   "stressful": "Stressli so'zi ijodkorlikni emas, qiyin bosimni bildiradi."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "Doing the exact same factory task every single minute feels very ______.",
+  "options": [
+   "repetitive",
+   "creative",
+   "varied",
+   "rewarding"
+  ],
+  "answer": "repetitive",
+  "why": "«Exact same factory task» bir xilda takrorlanuvchi ishni bildiradi.",
+  "wrong": {
+   "creative": "Bir xil ish ijodiy bo'la olmaydi.",
+   "varied": "Har xil ma'nosini beruvchi so'z bir xillikka mos kelmaydi.",
+   "rewarding": "Foydali yoki quvonchli ish bir xil zerikarli ishga to'g'ri kelmaydi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "Teaching poor children and seeing them smile makes me feel so happy and fulfilled.",
+  "options": [
+   "rewarding",
+   "stressful",
+   "tiring",
+   "repetitive"
+  ],
+  "answer": "rewarding",
+  "why": "«Makes me feel so happy and fulfilled» bu foydali va zavqli ish.",
+  "wrong": {
+   "stressful": "Stressli ish baxt keltirmaydi.",
+   "tiring": "Charchatuvchi so'zi bu yerda ijobiy tuyg'uni bildirmaydi.",
+   "repetitive": "Takrorlanuvchi ish quvonch olib kelishini anglatmaydi."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "Working as an air traffic controller is very ______ because one mistake can cause a disaster.",
+  "options": [
+   "stressful",
+   "rewarding",
+   "varied",
+   "creative"
+  ],
+  "answer": "stressful",
+  "why": "«One mistake can cause a disaster» bu ishning juda asabiy ekanligini ko'rsatadi.",
+  "wrong": {
+   "rewarding": "Xavfli vaziyat mukofotli emas, balki stressli bo'ladi.",
+   "varied": "Har xil ma'nosi xavf va mas'uliyatni tushuntirmaydi.",
+   "creative": "Ijodiy so'zi xavfli mas'uliyatga mos kelmaydi."
+  }
+ },
+ {
+  "kind": "situation",
+  "q": "After carrying heavy boxes all day long, my legs and arms hurt and I just want to sleep.",
+  "options": [
+   "tiring",
+   "rewarding",
+   "creative",
+   "varied"
+  ],
+  "answer": "tiring",
+  "why": "«Legs and arms hurt and I just want to sleep» bu charchatuvchi ish.",
+  "wrong": {
+   "rewarding": "Og'riq va charchoq mukofotli his-tuyg'uni bildirmaydi.",
+   "creative": "Jismoniy charchoq ijodkorlikka aloqador emas.",
+   "varied": "Har xil so'zi jismoniy charchoqni tushuntirmaydi."
+  }
+ },
+ {
+  "kind": "gap",
+  "q": "My job is very ______ because every day I do different tasks and meet new people.",
+  "options": [
+   "varied",
+   "repetitive",
+   "stressful",
+   "tiring"
+  ],
+  "answer": "varied",
+  "why": "«Every day I do different tasks» bu ishning turfa xilligini ko'rsatadi.",
+  "wrong": {
+   "repetitive": "Har xil vazifalar bajariladigan ish takrorlanuvchi bo'la olmaydi.",
+   "stressful": "Turfa vazifalar har doim ham stressli emas.",
+   "tiring": "Charchatuvchi so'zi turli xil vazifalarni bajarish ma'nosini bermaydi."
+  }
+ }
+]

@@ -1,0 +1,31 @@
+﻿81`t17`t594`tMultilevef Moster readi
+131`t21`t146`tA) Robots working together
+159`t21`t147`tB) Preparing LGVs for take-over
+188`t21`t147`tC) Newspapers superseded by technology
+216`t20`t147`tD) The LGVs' main functions
+244`t21`t147`tE) Split location for newspaper production
+273`t21`t147`tF) Getting the newspaper to the printing centre
+302`t21`t146`tG) Controlling the robots
+330`t20`t146`tH) Beware of robots!
+416`t21`t146`tThe newspaper production process has come long way from the old
+444`t21`t119`tdays when the paper was written, edited, typeset and ultimately printed
+473`t23`t120`tin one building With the journalists working on the upper floors and
+501`t21`t117`tthe printing presses going on the ground floor. These days the editor,
+530`t21`t119`tsub-editors and journalists Who put the paper together are likely to find
+558`t21`t118`tthemselves in a totally different building or maybe even in a different
+587`t21`t119`tcity, This is the situation Which now prevails in Sydneyq The daily paper is
+615`t22`t119`tcompiled at the editorial headquarters. known as the pre-press centre. in
+644`t21`t117`tthe heart Of the city. but printed far away in the suburbs at the printing
+673`t21`t117`tcentre. Here human beings are in the minority as much of the workis done
+701`t22`t119`tby automated machines controlled by computers.
+794`t22`t144`tOnce the finished newspaper has been created for the next morning's
+822`t21`t117`tedition, all the pages are transmitted electronically from the pre-press
+852`t21`t117`tcentre to the printing centre. The system of transmission is an update
+881`t21`t117`ton the sophisticated page facsimile system already in use on many other
+909`t21`t117`tnewspapers. An image-setter at the printing centre delivers the pages as
+938`t21`t116`tfilm. Each page takes less than a minute to produce, although for colour
+966`t20`t117`tpages four versions, once each for black, cyan, magenta and yellow are
+995`t21`t116`tsent, The pages are then processed into photographic negatives and the
+1023`t22`t116`tfilm is used to produce aluminium printing plates ready for the presses.
+1116`t22`t143`tA procession Of automated vehicles is busy at the new printing centre
+1145`t22`t116`twhere the Sydney Morning Herald is printed each day. With lights flashing

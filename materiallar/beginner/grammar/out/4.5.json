@@ -1,0 +1,1167 @@
+{
+ "code": "4.5",
+ "model": "gemini-3.5-flash-lite",
+ "tr1": [
+  {
+   "part": 0,
+   "uz": "Bu qahva meniki.",
+   "en": [
+    "This coffee is mine."
+   ],
+   "rule": "Meniki so'zi oxirida ot olmay keladi: mine"
+  },
+  {
+   "part": 0,
+   "uz": "Bu sumka seniki.",
+   "en": [
+    "This bag is yours."
+   ],
+   "rule": "Seniki egalik olmoshi: yours"
+  },
+  {
+   "part": 0,
+   "uz": "Bu kitob uniki (o'g'il bola uchun).",
+   "en": [
+    "This book is his."
+   ],
+   "rule": "Uniki (erkak): his"
+  },
+  {
+   "part": 0,
+   "uz": "Bu mashina uniki (qiz bola uchun).",
+   "en": [
+    "This car is hers."
+   ],
+   "rule": "Uniki (ayol): hers"
+  },
+  {
+   "part": 0,
+   "uz": "Bu kamera meniki.",
+   "en": [
+    "This camera is mine."
+   ],
+   "rule": "Egalik olmoshi oxirida keladi"
+  },
+  {
+   "part": 0,
+   "uz": "Bu telefon seniki.",
+   "en": [
+    "This phone is yours."
+   ],
+   "rule": "Seniki: yours"
+  },
+  {
+   "part": 0,
+   "uz": "Bu uy uniki (erkak).",
+   "en": [
+    "This house is his."
+   ],
+   "rule": "Erkak kishi uchun: his"
+  },
+  {
+   "part": 0,
+   "uz": "Bu kompyuter uniki (ayol).",
+   "en": [
+    "This computer is hers."
+   ],
+   "rule": "Ayol kishi uchun: hers"
+  },
+  {
+   "part": 0,
+   "uz": "Bu choy meniki.",
+   "en": [
+    "This tea is mine."
+   ],
+   "rule": "Meniki: mine"
+  },
+  {
+   "part": 0,
+   "uz": "Bu stul seniki.",
+   "en": [
+    "Bu stul seniki."
+   ],
+   "rule": "Seniki: yours"
+  },
+  {
+   "part": 1,
+   "uz": "Bu uy bizniki.",
+   "en": [
+    "This house is ours."
+   ],
+   "rule": "Bizniki egalik olmoshi: ours"
+  },
+  {
+   "part": 1,
+   "uz": "Bu mashina ularniki.",
+   "en": [
+    "This car is theirs."
+   ],
+   "rule": "Ularniki egalik olmoshi: theirs"
+  },
+  {
+   "part": 1,
+   "uz": "Bu kitob bizniki.",
+   "en": [
+    "This book is ours."
+   ],
+   "rule": "Bizniki: ours"
+  },
+  {
+   "part": 1,
+   "uz": "Bu kamera ularniki.",
+   "en": [
+    "This camera is theirs."
+   ],
+   "rule": "Ularniki: theirs"
+  },
+  {
+   "part": 1,
+   "uz": "Bu sumka bizniki.",
+   "en": [
+    "This bag is ours."
+   ],
+   "rule": "Bizniki uchun ours"
+  },
+  {
+   "part": 1,
+   "uz": "Bu telefon ularniki.",
+   "en": [
+    "This phone is theirs."
+   ],
+   "rule": "Ularniki uchun theirs"
+  },
+  {
+   "part": 1,
+   "uz": "Bu stul bizniki.",
+   "en": [
+    "This chair is ours."
+   ],
+   "rule": "Bizniki: ours"
+  },
+  {
+   "part": 1,
+   "uz": "Bu kompyuter ularniki.",
+   "en": [
+    "This computer is theirs."
+   ],
+   "rule": "Ularniki: theirs"
+  },
+  {
+   "part": 1,
+   "uz": "Bu qahva bizniki.",
+   "en": [
+    "This coffee is ours."
+   ],
+   "rule": "Bizniki: ours"
+  },
+  {
+   "part": 1,
+   "uz": "Bu xona ularniki.",
+   "en": [
+    "This room is theirs."
+   ],
+   "rule": "Ularniki: theirs"
+  },
+  {
+   "part": 2,
+   "uz": "Bu mening kitobim.",
+   "en": [
+    "This is my book."
+   ],
+   "rule": "Sifat + ot: my book"
+  },
+  {
+   "part": 2,
+   "uz": "Bu kitob meniki.",
+   "en": [
+    "This book is mine."
+   ],
+   "rule": "Olmosh yolg'iz keladi: mine"
+  },
+  {
+   "part": 2,
+   "uz": "Bu sening sumkang.",
+   "en": [
+    "This is your bag."
+   ],
+   "rule": "Sifat + ot: your bag"
+  },
+  {
+   "part": 2,
+   "uz": "Bu sumka seniki.",
+   "en": [
+    "This bag is yours."
+   ],
+   "rule": "Olmosh yolg'iz keladi: yours"
+  },
+  {
+   "part": 2,
+   "uz": "Bu uning mashinasi (erkak).",
+   "en": [
+    "This is his car."
+   ],
+   "rule": "Sifat + ot: his car"
+  },
+  {
+   "part": 2,
+   "uz": "Bu mashina uniki (erkak).",
+   "en": [
+    "Bu mashina uniki."
+   ],
+   "rule": "Olmosh oxirida: his"
+  },
+  {
+   "part": 2,
+   "uz": "Bu uning uyi (ayol).",
+   "en": [
+    "This is her house."
+   ],
+   "rule": "Sifat + ot: her house"
+  },
+  {
+   "part": 2,
+   "uz": "Bu uy uniki (ayol).",
+   "en": [
+    "This house is hers."
+   ],
+   "rule": "Olmosh oxirida: hers"
+  },
+  {
+   "part": 2,
+   "uz": "Bu bizning kameramiz.",
+   "en": [
+    "This is our camera."
+   ],
+   "rule": "Sifat + ot: our camera"
+  },
+  {
+   "part": 2,
+   "uz": "Bu kamera bizniki.",
+   "en": [
+    "This camera is ours."
+   ],
+   "rule": "Olmosh oxirida: ours"
+  },
+  {
+   "part": 2,
+   "uz": "Bu ularning telefoni.",
+   "en": [
+    "This is their phone."
+   ],
+   "rule": "Sifat + ot: their phone"
+  },
+  {
+   "part": 2,
+   "uz": "Bu telefon ularniki.",
+   "en": [
+    "This phone is theirs."
+   ],
+   "rule": "Olmosh oxirida: theirs"
+  },
+  {
+   "part": 0,
+   "uz": "Bu qahva meniki, seniki emas.",
+   "en": [
+    "This coffee is mine, not yours."
+   ],
+   "rule": "mine va yours taqqoslash"
+  },
+  {
+   "part": 0,
+   "uz": "Bu stul uniki (erkak), meniki emas.",
+   "en": [
+    "This chair is his, not mine."
+   ],
+   "rule": "his va mine ishlatish"
+  },
+  {
+   "part": 0,
+   "uz": "Bu sumka uniki (ayol).",
+   "en": [
+    "This bag is hers."
+   ],
+   "rule": "Ayol kishi uchun hers"
+  },
+  {
+   "part": 1,
+   "uz": "Bu uy bizniki, ularniki emas.",
+   "en": [
+    "This house is ours, not theirs."
+   ],
+   "rule": "ours va theirs solishtirish"
+  },
+  {
+   "part": 2,
+   "uz": "Bu mening stulim.",
+   "en": [
+    "This is my chair."
+   ],
+   "rule": "my so'zidan keyin ot keladi"
+  },
+  {
+   "part": 2,
+   "uz": "Bu stul meniki.",
+   "en": [
+    "This chair is mine."
+   ],
+   "rule": "mine oxirida ot olmaydi"
+  },
+  {
+   "part": 2,
+   "uz": "Bu sening uying.",
+   "en": [
+    "This is your house."
+   ],
+   "rule": "your sifatidan keyin ot"
+  },
+  {
+   "part": 2,
+   "uz": "Bu uy seniki.",
+   "en": [
+    "This house is yours."
+   ],
+   "rule": "yours yolg'iz keladi"
+  },
+  {
+   "part": 0,
+   "uz": "Bu kompyuter menikimi?",
+   "en": [
+    "Is this computer mine?"
+   ],
+   "rule": "Savol gapda olmosh oxirida"
+  },
+  {
+   "part": 0,
+   "uz": "Bu mashina senikimi?",
+   "en": [
+    "Is this car yours?"
+   ],
+   "rule": "yours oxirida kelgan savol"
+  },
+  {
+   "part": 0,
+   "uz": "Bu kitob unikiqmi (erkak)?",
+   "en": [
+    "Is this book his?"
+   ],
+   "rule": "his olmoshi savolda"
+  },
+  {
+   "part": 0,
+   "uz": "Bu sumka unikiqmi (ayol)?",
+   "en": [
+    "Is this bag hers?"
+   ],
+   "rule": "hers olmoshi savolda"
+  },
+  {
+   "part": 1,
+   "uz": "Bu uy biznikiqmi?",
+   "en": [
+    "Is this house ours?"
+   ],
+   "rule": "ours olmoshi savolda"
+  },
+  {
+   "part": 1,
+   "uz": "Bu kamera ularnikiqmi?",
+   "en": [
+    "Is this camera theirs?"
+   ],
+   "rule": "theirs olmoshi savolda"
+  },
+  {
+   "part": 2,
+   "uz": "Bu mening kameram.",
+   "en": [
+    "This is my camera."
+   ],
+   "rule": "my + ot"
+  },
+  {
+   "part": 2,
+   "uz": "Bu kamera mening kameram.",
+   "en": [
+    "This camera is my camera."
+   ],
+   "rule": "my sifatini takrorlash"
+  },
+  {
+   "part": 0,
+   "uz": "Bu choy meniki, rahmat.",
+   "en": [
+    "This tea is mine, thank you."
+   ],
+   "rule": "mine va tashakkur"
+  },
+  {
+   "part": 1,
+   "uz": "Bu uy ularniki, juda ajoyib.",
+   "en": [
+    "This house is theirs, really good."
+   ],
+   "rule": "theirs va sifat"
+  }
+ ],
+ "tr51": [
+  {
+   "part": 1,
+   "uz": "Bu uy bizniki.",
+   "en": [
+    "This house is ours."
+   ],
+   "rule": "Bizniki - ours olmoshi qo'llaniladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ushbu mashina ularniki.",
+   "en": [
+    "This car is theirs."
+   ],
+   "rule": "Ularniki - theirs olmoshi ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu kitob bizniki.",
+   "en": [
+    "This book is ours."
+   ],
+   "rule": "Otsiz kelgan egalik uchun ours."
+  },
+  {
+   "part": 1,
+   "uz": "Ushbu kamera ularniki.",
+   "en": [
+    "This camera is theirs."
+   ],
+   "rule": "Ularniki so'zi theirs bo'ladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu xona bizniki.",
+   "en": [
+    "This room is ours."
+   ],
+   "rule": "Ours olmoshi oxirida keladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ushbu telefon ularniki.",
+   "en": [
+    "This phone is theirs."
+   ],
+   "rule": "Theirs egalik olmoshi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu sumka bizniki.",
+   "en": [
+    "This bag is ours."
+   ],
+   "rule": "Bizniki - ours."
+  },
+  {
+   "part": 1,
+   "uz": "Ushbu uy ularniki.",
+   "en": [
+    "That house is theirs."
+   ],
+   "rule": "Ularniki - theirs."
+  },
+  {
+   "part": 1,
+   "uz": "Bu mashinalar bizniki.",
+   "en": [
+    "These cars are ours."
+   ],
+   "rule": "Ko'plik shaklida ours ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ushbu kitoblar ularniki.",
+   "en": [
+    "These books are theirs."
+   ],
+   "rule": "Ko'plikdagi olmosh theirs."
+  },
+  {
+   "part": 1,
+   "uz": "Bu stollar bizniki.",
+   "en": [
+    "These tables are ours."
+   ],
+   "rule": "Ours olmoshi."
+  },
+  {
+   "part": 1,
+   "uz": "Ushbu stullar ularniki.",
+   "en": [
+    "These chairs are theirs."
+   ],
+   "rule": "Theirs olmoshi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu uy bizning uyimiz.",
+   "en": [
+    "This house is our house."
+   ],
+   "rule": "Sifat va ot bilan our ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu mashina ularning mashinasi.",
+   "en": [
+    "This car is their car."
+   ],
+   "rule": "Their sifat sifatida keladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ushbu ofis bizniki.",
+   "en": [
+    "This office is ours."
+   ],
+   "rule": "Ours yolg'iz ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu maktab ularniki.",
+   "en": [
+    "This school is theirs."
+   ],
+   "rule": "Theirs so'zi ot olmaydi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu hotel bizniki.",
+   "en": [
+    "This hotel is ours."
+   ],
+   "rule": "Bizniki - ours."
+  },
+  {
+   "part": 1,
+   "uz": "Ushbu do'kon ularniki.",
+   "en": [
+    "This shop is theirs."
+   ],
+   "rule": "Ularniki - theirs."
+  },
+  {
+   "part": 1,
+   "uz": "Bu kompyuter bizniki.",
+   "en": [
+    "This computer is ours."
+   ],
+   "rule": "Ours olmoshi."
+  },
+  {
+   "part": 1,
+   "uz": "Ushbu stansiya ularniki.",
+   "en": [
+    "This station is theirs."
+   ],
+   "rule": "Theirs olmoshi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu mening kitobim.",
+   "en": [
+    "This is my book."
+   ],
+   "rule": "My egalik sifati ot bilan keladi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu kitob meniki.",
+   "en": [
+    "This book is mine."
+   ],
+   "rule": "Mine olmoshi otni talab qilmaydi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu sening sumkang.",
+   "en": [
+    "This is your bag."
+   ],
+   "rule": "Your egalik sifati."
+  },
+  {
+   "part": 2,
+   "uz": "Bu sumka seniki.",
+   "en": [
+    "This bag is yours."
+   ],
+   "rule": "Yours yolg'iz ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu uning mashinasi.",
+   "en": [
+    "This is his car."
+   ],
+   "rule": "His sifat sifatida."
+  },
+  {
+   "part": 2,
+   "uz": "Bu mashina uniki.",
+   "en": [
+    "This car is his."
+   ],
+   "rule": "His olmosh sifatida ham ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu uning kamerasi.",
+   "en": [
+    "This is her camera."
+   ],
+   "rule": "Her egalik sifati."
+  },
+  {
+   "part": 2,
+   "uz": "Bu kamera uniki.",
+   "en": [
+    "This camera is hers."
+   ],
+   "rule": "Hers olmoshi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu bizning uyimiz.",
+   "en": [
+    "This is our house."
+   ],
+   "rule": "Our egalik sifati."
+  },
+  {
+   "part": 2,
+   "uz": "Bu uy bizniki.",
+   "en": [
+    "This house is ours."
+   ],
+   "rule": "Ours olmoshi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu ularning uyi.",
+   "en": [
+    "This is their house."
+   ],
+   "rule": "Their egalik sifati."
+  },
+  {
+   "part": 2,
+   "uz": "Bu uy ularniki.",
+   "en": [
+    "This house is theirs."
+   ],
+   "rule": "Theirs olmoshi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu mening stollarim.",
+   "en": [
+    "These are my tables."
+   ],
+   "rule": "My ko'plikdagi ot bilan."
+  },
+  {
+   "part": 2,
+   "uz": "Bu stollar meniki.",
+   "en": [
+    "These tables are mine."
+   ],
+   "rule": "Mine ko'plik ot bilan ham keladi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu sening stullaring.",
+   "en": [
+    "These are your chairs."
+   ],
+   "rule": "Your sifati."
+  },
+  {
+   "part": 2,
+   "uz": "Bu stullar seniki.",
+   "en": [
+    "These chairs are yours."
+   ],
+   "rule": "Yours olmoshi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu uning do'stlari.",
+   "en": [
+    "These are his friends."
+   ],
+   "rule": "His sifat."
+  },
+  {
+   "part": 2,
+   "uz": "Bu do'stlar uniki.",
+   "en": [
+    "These friends are his."
+   ],
+   "rule": "His olmosh."
+  },
+  {
+   "part": 2,
+   "uz": "Bu uning mushugi.",
+   "en": [
+    "This is her cat."
+   ],
+   "rule": "Her sifat."
+  },
+  {
+   "part": 2,
+   "uz": "Bu mushuk uniki.",
+   "en": [
+    "This cat is hers."
+   ],
+   "rule": "Hers olmosh."
+  },
+  {
+   "part": 2,
+   "uz": "Bu mening telefonim.",
+   "en": [
+    "This is my phone."
+   ],
+   "rule": "My - egalik sifati."
+  },
+  {
+   "part": 2,
+   "uz": "Bu telefon meniki.",
+   "en": [
+    "This phone is mine."
+   ],
+   "rule": "Mine - egalik olmoshi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu sening kompyutering.",
+   "en": [
+    "This is your computer."
+   ],
+   "rule": "Your - egalik sifati."
+  },
+  {
+   "part": 2,
+   "uz": "Bu kompyuter seniki.",
+   "en": [
+    "This computer is yours."
+   ],
+   "rule": "Yours - egalik olmoshi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu uning uyi.",
+   "en": [
+    "This is his house."
+   ],
+   "rule": "His - egalik sifati."
+  },
+  {
+   "part": 2,
+   "uz": "Bu uy uniki.",
+   "en": [
+    "This house is his."
+   ],
+   "rule": "His - egalik olmoshi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu uning xonasi.",
+   "en": [
+    "This is her room."
+   ],
+   "rule": "Her - egalik sifati."
+  },
+  {
+   "part": 2,
+   "uz": "Bu xona uniki.",
+   "en": [
+    "This room is hers."
+   ],
+   "rule": "Hers - egalik olmoshi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu bizning ofisimiz.",
+   "en": [
+    "This is our office."
+   ],
+   "rule": "Our - egalik sifati."
+  },
+  {
+   "part": 2,
+   "uz": "Bu ofis bizniki.",
+   "en": [
+    "This office is ours."
+   ],
+   "rule": "Ours - egalik olmoshi."
+  }
+ ],
+ "intro": {
+  "what": "Egalik olmoshlari (Possessive pronouns: mine, yours, his, hers, ours, theirs) narsa kimga tegishli ekanini bildiradi. Ular yolg'iz ishlatiladi va o'zidan keyin ot olmaydi.",
+  "when": [
+   "Narsaning egasini ko'rsatish va gapni oxirida ishlatish uchun",
+   "Egalik sifatini qisqartirib, otni tushirib qoldirganda",
+   "Kimning narsasi ekanini so'rash va javob berishda"
+  ],
+  "structures": [
+   {
+    "label": "(+)",
+    "formula": "S + TOBE + POSSESSIVE PRONOUN",
+    "example_en": "This book is mine.",
+    "example_uz": "Bu kitob meniki."
+   },
+   {
+    "label": "(-)",
+    "formula": "S + TOBE + NOT + POSSESSIVE PRONOUN",
+    "example_en": "This bag isn't yours.",
+    "example_uz": "Bu sumka seniki emas."
+   },
+   {
+    "label": "(?)",
+    "formula": "TOBE + S + POSSESSIVE PRONOUN?",
+    "example_en": "Is this car hers?",
+    "example_uz": "Bu mashina uniki (qizniki)mi?"
+   },
+   {
+    "label": "(Wh-)",
+    "formula": "Whose + OB + TOBE + S?",
+    "example_en": "Whose camera is this?",
+    "example_uz": "Bu kimning kamerasidir?"
+   }
+  ],
+  "rules": [
+   {
+    "title": "Egalik sifati va olmoshi farqi",
+    "text": "Egalik sifatidan (my, your) keyin ot keladi (my book). Egalik olmoshidan (mine, yours) keyin esa hech qanday ot kelmaydi va ular yolg'iz keladi.",
+    "examples": [
+     {
+      "en": "This is my car.",
+      "uz": "Bu mening mashinam."
+     },
+     {
+      "en": "This car is mine.",
+      "uz": "Bu mashina meniki."
+     }
+    ]
+   },
+   {
+    "title": "His olmoshi o'zgarmaydi",
+    "text": "Erkak kishi uchun 'his' so'zi ham egalik sifati, ham egalik olmoshi sifatida bir xil yoziladi.",
+    "examples": [
+     {
+      "en": "This is his bag.",
+      "uz": "Bu uning sumkasi."
+     },
+     {
+      "en": "This bag is his.",
+      "uz": "Bu sumka uniki."
+     }
+    ]
+   }
+  ],
+  "signal_words": [
+   {
+    "en": "Whose",
+    "uz": "Kimning"
+   },
+   {
+    "en": "Mine",
+    "uz": "Meniki"
+   },
+   {
+    "en": "Yours",
+    "uz": "Seniki / Sizniki"
+   },
+   {
+    "en": "Hers",
+    "uz": "Uniki (qizniki)"
+   },
+   {
+    "en": "Ours",
+    "uz": "Bizniki"
+   },
+   {
+    "en": "Theirs",
+    "uz": "Ularniki"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "This book is my.",
+    "right": "This book is mine.",
+    "why": "Gap oxirida egalik sifati (my) emas, egalik olmoshi (mine) ishlatiladi."
+   },
+   {
+    "wrong": "This is mine book.",
+    "right": "This is my book.",
+    "why": "Otdan oldin egalik olmoshi (mine) emas, egalik sifati (my) keladi."
+   },
+   {
+    "wrong": "Is this bag your?",
+    "right": "Is this bag yours?",
+    "why": "Yolg'iz kelganda 'your' emas, 'yours' ishlatiladi."
+   }
+  ]
+ },
+ "test": [
+  {
+   "type": "fill",
+   "q": "This book is ______.",
+   "answer": "mine",
+   "explain": "Meniki ma'nosini bildirish uchun gap oxirida 'mine' olmoshi ishlatiladi.",
+   "hint": "I"
+  },
+  {
+   "type": "fill",
+   "q": "Is this bag ______?",
+   "answer": "yours",
+   "explain": "Savol oxirida egalik olmoshi 'yours' (seniki/sizniki) ishlatiladi.",
+   "hint": "you"
+  },
+  {
+   "type": "fill",
+   "q": "The red car is ______.",
+   "answer": "hers",
+   "explain": "Qiz bolaga tegishli ekanini bildirish uchun 'hers' ishlatiladi.",
+   "hint": "she"
+  },
+  {
+   "type": "fill",
+   "q": "This phone is ______.",
+   "answer": "his",
+   "explain": "Erkak kishi uchun egalik olmoshi 'his' shaklida o'zgarmay qoladi.",
+   "hint": "he"
+  },
+  {
+   "type": "fill",
+   "q": "The big house is ______.",
+   "answer": "ours",
+   "explain": "Bizga tegishli ekanini bildirish uchun 'ours' ishlatiladi.",
+   "hint": "we"
+  },
+  {
+   "type": "fill",
+   "q": "Those computers are ______.",
+   "answer": "theirs",
+   "explain": "Ularga tegishli ko'plik ma'nosida 'theirs' ishlatiladi.",
+   "hint": "they"
+  },
+  {
+   "type": "fill",
+   "q": "______ book is this?",
+   "answer": "Whose",
+   "explain": "Kimning degan savolni berish uchun 'Whose' so'zi ishlatiladi.",
+   "hint": "what / whose"
+  },
+  {
+   "type": "fill",
+   "q": "This coffee is not ______.",
+   "answer": "mine",
+   "explain": "Inkor gapda meniki ma'nosi uchun 'mine' ishlatiladi.",
+   "hint": "I"
+  },
+  {
+   "type": "fill",
+   "q": "Is this cup ______?",
+   "answer": "yours",
+   "explain": "Stakan seniki ekanini so'rash uchun 'yours' ishlatiladi.",
+   "hint": "you"
+  },
+  {
+   "type": "fill",
+   "q": "That television is ______.",
+   "answer": "his",
+   "explain": "Televizor uniki (o'g'il bolniki) demoqchi bo'lsak 'his' yozamiz.",
+   "hint": "he"
+  },
+  {
+   "type": "fill",
+   "q": "This camera isn't ______.",
+   "answer": "hers",
+   "explain": "Kamera uniki (qizniki) emas demoqchi bo'lsak 'hers' ishlatiladi.",
+   "hint": "she"
+  },
+  {
+   "type": "fill",
+   "q": "______ car is this? It's Ali's.",
+   "answer": "Whose",
+   "explain": "Egasi kimligini so'rash uchun 'Whose' so'roq so'zi kerak.",
+   "hint": "what / whose"
+  },
+  {
+   "type": "fill",
+   "q": "The new school is ______.",
+   "answer": "ours",
+   "explain": "Maktab bizniki ekanini bildirish uchun 'ours' qo'yiladi.",
+   "hint": "we"
+  },
+  {
+   "type": "fill",
+   "q": "Those small houses are ______.",
+   "answer": "theirs",
+   "explain": "Uylar ularniki ekanini aytish uchun 'theirs' ishlatiladi.",
+   "hint": "they"
+  },
+  {
+   "type": "fill",
+   "q": "This sandwich is ______.",
+   "answer": "mine",
+   "explain": "Sendvich meniki ma'nosida 'mine' ishlatiladi.",
+   "hint": "I"
+  },
+  {
+   "type": "fill",
+   "q": "Is this bus ______?",
+   "answer": "theirs",
+   "explain": "Avtobus ularniki ekanini so'rash uchun 'theirs' ishlatiladi.",
+   "hint": "they"
+  },
+  {
+   "type": "fill",
+   "q": "The cup of tea is ______.",
+   "answer": "hers",
+   "explain": "Choy uniki (qizniki) ma'nosini bildirish uchun 'hers' yoziladi.",
+   "hint": "she"
+  },
+  {
+   "type": "fill",
+   "q": "This big bag is ______.",
+   "answer": "his",
+   "explain": "Sumka uniki (o'g'il bolniki) ma'nosida 'his' ishlatiladi.",
+   "hint": "he"
+  },
+  {
+   "type": "fill",
+   "q": "Are these phones ______?",
+   "answer": "yours",
+   "explain": "Telefonlar sizniki ekanini so'rashda 'yours' ishlatiladi.",
+   "hint": "you"
+  },
+  {
+   "type": "fill",
+   "q": "That old car is ______.",
+   "answer": "mine",
+   "explain": "Mashina meniki ekanini aytish uchun 'mine' ishlatiladi.",
+   "hint": "I"
+  },
+  {
+   "type": "mc",
+   "q": "This book is ______.",
+   "answer": "mine",
+   "explain": "Gap oxirida 'mine' egalik olmoshi ishlatiladi.",
+   "options": [
+    "my",
+    "mine",
+    "me"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Is this bag ______?",
+   "answer": "yours",
+   "explain": "Savol gap oxirida 'yours' ishlatiladi.",
+   "options": [
+    "your",
+    "yours",
+    "you"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "The red car is ______.",
+   "answer": "hers",
+   "explain": "Qiz bola uchun gap oxirida 'hers' ishlatiladi.",
+   "options": [
+    "hers",
+    "her",
+    "she"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ camera is this?",
+   "answer": "Whose",
+   "explain": "Kimning ekanini so'rash uchun 'Whose' ishlatiladi.",
+   "options": [
+    "What",
+    "Where",
+    "Whose"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "This house is ______.",
+   "answer": "ours",
+   "explain": "Bizniki ma'nosini bildirish uchun 'ours' ishlatiladi.",
+   "options": [
+    "our",
+    "ours",
+    "us"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Those phones are ______.",
+   "answer": "theirs",
+   "explain": "Ularniki ma'nosida 'theirs' ishlatiladi.",
+   "options": [
+    "their",
+    "theirs",
+    "they"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "This is ______ book.",
+   "answer": "my",
+   "explain": "Otdan oldin egalik sifati 'my' ishlatiladi.",
+   "options": [
+    "my",
+    "mine",
+    "I"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Is this computer ______?",
+   "answer": "his",
+   "explain": "Erkak kishi uchun egalik olmoshi 'his' ishlatiladi.",
+   "options": [
+    "he",
+    "his",
+    "him"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "This cup of coffee is ______.",
+   "answer": "mine",
+   "explain": "Chashka meniki ma'nosida 'mine' ishlatiladi.",
+   "options": [
+    "mine",
+    "my",
+    "me"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ bag is this? It's Tom's.",
+   "answer": "Whose",
+   "explain": "Kimning sumkasi ekanini so'rash uchun 'Whose' ishlatiladi.",
+   "options": [
+    "What",
+    "Whose",
+    "Where"
+   ]
+  }
+ ]
+}

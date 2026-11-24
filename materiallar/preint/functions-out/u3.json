@@ -1,0 +1,1124 @@
+{
+ "unit": 3,
+ "parts": [
+  [
+   {
+    "kind": "abc",
+    "q": "Aziza: What about going to the new café? Malika: I quite ______ going there, let's go.",
+    "hint": "",
+    "options": [
+     "fancy",
+     "hate",
+     "mind"
+    ],
+    "answer": "fancy",
+    "accept": [],
+    "phrase": "I quite fancy ...",
+    "explain": "Bu ibora «I quite fancy ...» yoqtirishni bildiradi. «let's go» so'zlari bu yerda o'rinli ekanini ko'rsatadi.",
+    "wrong": {
+     "hate": "Salbiy ma'noni bildiradi, ammo keyingi «let's go» ijobiy javobni talab qiladi.",
+     "mind": "Bu fe'l bu yerda yordamchi ma'noda ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Jasur: Shall we watch a horror film? Timurbek: I don't really ______ watching scary movies at night.",
+    "hint": "",
+    "options": [
+     "fancy",
+     "like",
+     "want"
+    ],
+    "answer": "fancy",
+    "accept": [],
+    "phrase": "I don't really fancy ...",
+    "explain": "Bu ibora «I don't really fancy ...» yoqtirmaslikni bildiradi. «scary movies at night» bu yerda salbiy munosabatni talab qiladi.",
+    "wrong": {
+     "like": "Bu holatda grammatik jihatdan mos kelmaydi.",
+     "want": "«don't really want» ma'nosi mos kelgani bilan, berilgan funksional iboraga kirmaydi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Madina: Have you heard the new album by Jamik? Nigina: Yes, I'm a big ______ of his music!",
+    "hint": "",
+    "options": [
+     "fan",
+     "lover",
+     "follower"
+    ],
+    "answer": "fan",
+    "accept": [],
+    "phrase": "I'm a big fan of ...",
+    "explain": "Bu ibora «I'm a big fan of ...» kuchli qiziqishni bildiradi. «his music» bu yerda uning ashaddiy muxlisi ekanini ko'rsatadi.",
+    "wrong": {
+     "lover": "Ma'nosi to'g'ri bo'lsa ham, berilgan bazadagi iboraga kirmaydi.",
+     "follower": "Ijtimoiy tarmoqlar uchun ishlatiladi, bu iboraga mos kelmaydi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Bekzod: Do you want to play football in this heat? Sardor: No, I'm not a big ______ of playing sports when it's hot.",
+    "hint": "",
+    "options": [
+     "fan",
+     "supporter",
+     "friend"
+    ],
+    "answer": "fan",
+    "accept": [],
+    "phrase": "I'm not a big fan of ...",
+    "explain": "Bu ibora «I'm not a big fan of ...» unchalik yoqtirmaslikni bildiradi. «in this heat» rad etishni ko'rsatadi.",
+    "wrong": {
+     "supporter": "Sport jamoalariga nisbatan ishlatiladi, bu yerda ma'nosi mos emas.",
+     "friend": "Odamlarga nisbatan ishlatiladi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Zebo: Are you going to join the art club? Dilnoza: Yes, I'm ______ on painting and drawing.",
+    "hint": "",
+    "options": [
+     "keen",
+     "interested",
+     "fond"
+    ],
+    "answer": "keen",
+    "accept": [],
+    "phrase": "I'm keen on ...",
+    "explain": "Bu ibora «I'm keen on ...» biror narsaga qiziqishni bildiradi. «painting and drawing» bu yerda ijobiy tanlovni talab qiladi.",
+    "wrong": {
+     "interested": "«interested in» bo'lishi kerak, shuning uchun bu yerda xato.",
+     "fond": "«fond of» ishlatiladi, bu yerda «on» so'zi turibdi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Otabek: Let's read this physics book together. Sanjar: Sorry, I'm not ______ on heavy textbooks.",
+    "hint": "",
+    "options": [
+     "keen",
+     "fond",
+     "good"
+    ],
+    "answer": "keen",
+    "accept": [],
+    "phrase": "I'm not keen on ...",
+    "explain": "Bu ibora «I'm not keen on ...» yoqtirmaslikni bildiradi. «Sorry» so'zi rad etishni ko'rsatib turibdi.",
+    "wrong": {
+     "fond": "«fond on» emas, «fond of» ishlatiladi.",
+     "good": "Ma'nosi mos kelmaydi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Sevara: What do you think of traditional Uzbek pilaf? Kamola: I ______ it, I could eat it every day!",
+    "hint": "",
+    "options": [
+     "adore",
+     "hate",
+     "dislike"
+    ],
+    "answer": "adore",
+    "accept": [],
+    "phrase": "I adore ...",
+    "explain": "Bu ibora «I adore ...» juda yaxshi ko'rishni bildiradi. «I could eat it every day» iborasi buni tasdiqlaydi.",
+    "wrong": {
+     "hate": "Salbiy ma'no bildiradi, lekin keyingi jumla ijobiy.",
+     "dislike": "Yoqtirmaslikni bildiradi, ammo kontekstga zid."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Shaxzod: Should we walk home or take a bus? Farhod: I'd ______ walk, the weather is nice.",
+    "hint": "",
+    "options": [
+     "rather",
+     "prefer",
+     "better"
+    ],
+    "answer": "rather",
+    "accept": [],
+    "phrase": "I'd rather ...",
+    "explain": "Bu ibora «I'd rather ...» afzal ko'rishni bildiradi. «the weather is nice» piyoda yurish yaxshiroq ekanini ko'rsatadi.",
+    "wrong": {
+     "prefer": "«I'd prefer to» bo'lishi kerak edi, bu yerda to yo'q.",
+     "better": "Grammatik jihatdan bu yerga to'g'ri kelmaydi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Akmal: Which film should we choose for tonight? Shavkat: I think the comedy will be ______ or more fun.",
+    "hint": "",
+    "options": [
+     "better",
+     "best",
+     "good"
+    ],
+    "answer": "better",
+    "accept": [],
+    "phrase": "I'm think ... will be better / more fun.",
+    "explain": "Bu ibora «I think ... will be better / more fun» fikr bildirish uchun ishlatiladi. «more fun» so'zi bilan birga keladi.",
+    "wrong": {
+     "best": "Qiyosiy daraja emas, orttirma daraja ishlatilmayapti.",
+     "good": "Ijobiy ma'noda bo'lsa ham, bu yerga qiyosiy daraja kerak."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Munisa: Let's do our homework at the library. Nozima: Shall we settle ______ that?",
+    "hint": "",
+    "options": [
+     "on",
+     "at",
+     "with"
+    ],
+    "answer": "on",
+    "accept": [],
+    "phrase": "Shall we settle on ...?",
+    "explain": "Bu ibora «Shall we settle on ...?» kelishuvga erishish uchun taklif bildiradi. «on» predlogi talab qilinadi.",
+    "wrong": {
+     "at": "Bu predlog bunday birikmada ishlatilmaydi.",
+     "with": "Ma'nosi to'g'ri kelmaydi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Jasur: Let's meet at 5 p.m. by the park. Timur: OK, I ______.",
+    "hint": "",
+    "options": [
+     "agree",
+     "accept",
+     "approve"
+    ],
+    "answer": "agree",
+    "accept": [],
+    "phrase": "OK, I agree.",
+    "explain": "Bu ibora «OK, I agree» rozilik bildirish uchun ishlatiladi. «OK» so'zidan keyin keladi.",
+    "wrong": {
+     "accept": "Bu fe'l yolg'iz o'zi bu kontekstda ishlatilmaydi.",
+     "approve": "Ma'nosi boshqacharoq, bu yerda rozilik bildirish fe'li kerak."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Noila: I brought some fresh apples from our garden. Malika: That's a great ______.",
+    "hint": "",
+    "options": [
+     "idea",
+     "thought",
+     "plan"
+    ],
+    "answer": "idea",
+    "accept": [],
+    "phrase": "That's a great idea.",
+    "explain": "Bu ibora «That's a great idea» yaxshi taklifni ma'qullash uchun ishlatiladi. «great» so'zidan keyin keladi.",
+    "wrong": {
+     "thought": "Barqaror birikma emas.",
+     "plan": "Ma'nosi yaqin bo'lsa ham, iboradagi so'z boshqa."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Alisher: Do you like playing computer games? Jamshid: I quite ______ playing strategy games with my friends.",
+    "hint": "",
+    "options": [
+     "fancy",
+     "enjoy",
+     "love"
+    ],
+    "answer": "fancy",
+    "accept": [],
+    "phrase": "I quite fancy ...",
+    "explain": "Bu ibora «I quite fancy ...» yoqtirishni bildiradi. «playing» gerundiy shakli bilan keladi.",
+    "wrong": {
+     "enjoy": "Garchi ma'nosi bir xil bo'lsa ham, bu iboraga kirmaydi.",
+     "love": "«quite» so'zi bilan «love» ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Komila: Do you want to go to the mountains this weekend? Umid: I don't really ______ walking long distances in the cold.",
+    "hint": "",
+    "options": [
+     "fancy",
+     "want",
+     "wish"
+    ],
+    "answer": "fancy",
+    "accept": [],
+    "phrase": "I don't really fancy ...",
+    "explain": "Bu ibora «I don't really fancy ...» xohlamaslikni bildiradi. Salbiy fikrni bildirish uchun ishlatiladi.",
+    "wrong": {
+     "want": "Grammatik jihatdan to'g'ri kelgani bilan, kerakli ibora emas.",
+     "wish": "Tilak bildirishda ishlatiladi, bu yerga noto'g'ri."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Farangiz: Do you like reading sci-fi books? Diyor: Yes, I'm a big ______ of science fiction novels!",
+    "hint": "",
+    "options": [
+     "fan",
+     "admirer",
+     "lover"
+    ],
+    "answer": "fan",
+    "accept": [],
+    "phrase": "I'm a big fan of ...",
+    "explain": "Bu ibora «I'm a big fan of ...» muxlis ekanini bildiradi. «science fiction novels» bu yerda obyektdir.",
+    "wrong": {
+     "admirer": "Ma'nosi biroz boshqacha, odatda odamlarga nisbatan ishlatiladi.",
+     "lover": "Ro'yxatdagi to'g'ri so'z emas."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Sardor: Shall we eat fast food today? Bobur: No, I'm not a big ______ of burgers and chips.",
+    "hint": "",
+    "options": [
+     "fan",
+     "friend",
+     "supporter"
+    ],
+    "answer": "fan",
+    "accept": [],
+    "phrase": "I'm not a big fan of ...",
+    "explain": "Bu ibora «I'm not a big fan of ...» yoqtirmaslikni bildiradi. «burgers and chips» ga nisbatan qo'llanilgan.",
+    "wrong": {
+     "friend": "Odamlarga nisbatan ishlatiladi.",
+     "supporter": "Sportda ishlatiladi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Aziz: Do you want to play tennis or chess? Otabek: I'd ______ to play chess because it's quiet.",
+    "hint": "",
+    "options": [
+     "prefer",
+     "rather",
+     "want"
+    ],
+    "answer": "prefer",
+    "accept": [],
+    "phrase": "I'd prefer (to) ...",
+    "explain": "Bu ibora «I'd prefer (to) ...» afzal ko'rishni bildiradi. «to play» fe'li ishlatilyapti.",
+    "wrong": {
+     "rather": "«rather» dan keyin «to» ishlatilmaydi.",
+     "want": "Ma'nosi o'xshash bo'lsa ham, kerakli ibora emas."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Azamat: Do you want to take the bus to Samarkand? Lola: No, I ______ sitting in traffic for hours!",
+    "hint": "",
+    "options": [
+     "can't stand",
+     "don't mind",
+     "would prefer"
+    ],
+    "answer": "can't stand",
+    "accept": [],
+    "phrase": "I can't stand ...",
+    "explain": "Ushbu gapda «I can't stand ...» iborasi qo'llangan, bu «chiday olmayman» degan ma'noni anglatadi va Lola tiqilinchda o'tirishni yomon ko'rishini bildiradi.",
+    "wrong": {
+     "don't mind": "«don't mind» (qarshi emasman) mazmunga to'g'ri kelmaydi, chunki Lola «No» degan.",
+     "would prefer": "«would prefer» dan so'ng «to» ishlatilishi kerak va ma'nosi to'g'ri kelmaydi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Nodir: Should we watch a movie at home or go to the cinema? Laylo: I think going to the cinema will be ______ or more fun.",
+    "hint": "",
+    "options": [
+     "better",
+     "good",
+     "best"
+    ],
+    "answer": "better",
+    "accept": [],
+    "phrase": "I think ... will be better / more fun.",
+    "explain": "Ushbu ibora «I think ... will be better / more fun» bo'lib, «yaxshiroq yoki qiziqroq bo'ladi» degan ma'noni anglatadi.",
+    "wrong": {
+     "good": "Iborada taqqoslash darajasi «better» ishlatilishi kerak.",
+     "best": "«best» ortirma daraja bo'lib, bu iboraga grammatik jihatdan mos kelmaydi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Rustam: So we will meet outside the museum at 10 a.m.? Anora: That's ______, then. See you tomorrow!",
+    "hint": "",
+    "options": [
+     "agreed",
+     "agrees",
+     "agreeing"
+    ],
+    "answer": "agreed",
+    "accept": [],
+    "phrase": "That's agreed, then.",
+    "explain": "Kelishuvni tasdiqlash uchun «That's agreed, then» («Demak, kelishdik») iborasi ishlatiladi.",
+    "wrong": {
+     "agrees": "Bu yerda fe'lning hozirgi zamon shakli «agrees» iborani buzadi.",
+     "agreeing": "Sifatdosh shakli «agreeing» iborada ishlatilmaydi."
+    }
+   }
+  ],
+  [
+   {
+    "kind": "word",
+    "q": "Sherzod: Do you want to go to the swimming pool after school?\nDildora: Yes, I quite ______ going for a swim today.",
+    "hint": "",
+    "options": [],
+    "answer": "fancy",
+    "accept": [
+     "like",
+     "enjoy"
+    ],
+    "phrase": "I quite fancy ...",
+    "explain": "«I quite fancy ...» birikmasi biror narsa qilishni xohlashni bildiradi, «going for a swim» jumlasi buni ko'rsatadi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Davron: How about buying some spicy chips?\nNilufar: No thanks, I don't really ______ eating spicy food.",
+    "hint": "",
+    "options": [],
+    "answer": "fancy",
+    "accept": [
+     "like",
+     "enjoy"
+    ],
+    "phrase": "I don't really fancy ...",
+    "explain": "«I don't really fancy ...» birikmasi «spicy food» yeyishni unchalik xohlamaslikni anglatadi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Bekzod: Are you going to the concert of Shahzoda tonight?\nMadina: Absolutely! I'm a big ______ of her pop music.",
+    "hint": "",
+    "options": [],
+    "answer": "fan",
+    "accept": [],
+    "phrase": "I'm a big fan of ...",
+    "explain": "«I'm a big fan of ...» iborasi muayyan xonandaning ashaddiy ishqibozi ekanlikni ko'rsatadi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Javohir: Let's play video games all evening.\nSardor: Sorry, I'm not a big ______ of playing games for hours.",
+    "hint": "",
+    "options": [],
+    "answer": "fan",
+    "accept": [],
+    "phrase": "I'm not a big fan of ...",
+    "explain": "«I'm not a big fan of ...» birikmasi «playing games» mashg'ulotining ishqibozi emaslikni bildiradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Shohruh: Do you want to join our photography club?\nZuhra: Yes, I'm very ______ on taking pictures of nature.",
+    "hint": "",
+    "options": [],
+    "answer": "keen",
+    "accept": [],
+    "phrase": "I'm keen on ...",
+    "explain": "«I'm keen on ...» iborasi «taking pictures» bilan shug'ullanishga qiziqishni bildiradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Rustam: Would you like to go ice skating with us?\nNigora: No, I'm not ______ on winter sports at all.",
+    "hint": "",
+    "options": [],
+    "answer": "keen",
+    "accept": [],
+    "phrase": "I'm not keen on ...",
+    "explain": "«I'm not keen on ...» iborasi «winter sports» turiga qiziqmaslikni anglatadi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Umid: Do you want to stay in the classroom during break?\nSabina: No, I can't ______ noisy classrooms, let me go outside.",
+    "hint": "",
+    "options": [],
+    "answer": "stand",
+    "accept": [
+     "bear"
+    ],
+    "phrase": "I can't stand ...",
+    "explain": "«I can't stand ...» iborasi «noisy classrooms» muhitiga umuman chiday olmaslikni bildiradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Botir: Should we order pizza or pasta for lunch?\nZiyoda: I'd ______ order pizza, it is much faster.",
+    "hint": "",
+    "options": [],
+    "answer": "rather",
+    "accept": [],
+    "phrase": "I'd rather ...",
+    "explain": "«I'd rather ...» birikmasi pitssani pastadan afzal ko'rishni ifodalaydi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Khurshid: Do you want to ride a bike or take a taxi?\nDilshod: I'd ______ to ride a bike because of the fresh air.",
+    "hint": "",
+    "options": [],
+    "answer": "prefer",
+    "accept": [],
+    "phrase": "I'd prefer (to) ...",
+    "explain": "«I'd prefer (to) ...» iborasi velosipedda yurishni afzal ko'rishni bildiradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Sanjar: We can watch the documentary or the comedy film.\nLola: I think the comedy film will be ______ than the documentary.",
+    "hint": "",
+    "options": [],
+    "answer": "better",
+    "accept": [
+     "funnier",
+     "more entertaining",
+     "more interesting"
+    ],
+    "phrase": "I think ... will be better / more fun.",
+    "explain": "«will be better» birikmasi komediya filmi hujjatli filmdan yaxshiroq bo'lishini bildiradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Mansur: We should meet early in the morning to avoid heat.\nNargiza: OK, I ______. Let's meet at 8 a.m.",
+    "hint": "",
+    "options": [],
+    "answer": "agree",
+    "accept": [],
+    "phrase": "OK, I agree.",
+    "explain": "«OK, I agree.» birikmasi taklif qilingan vaqtga rozi bo'lishni ko'rsatadi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Firuza: So, we are buying the tickets online tonight, right?\nShahzod: That's ______, then. I will buy them at 7 p.m.",
+    "hint": "",
+    "options": [],
+    "answer": "agreed",
+    "accept": [
+     "settled"
+    ],
+    "phrase": "That's agreed, then.",
+    "explain": "«That's agreed, then.» iborasi chipta sotib olish boyicha kelishib olinganini bildiradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Vali: Let me invite our whole group to the picnic on Saturday.\nSami: That's a great ______! Everyone will be happy.",
+    "hint": "",
+    "options": [],
+    "answer": "idea",
+    "accept": [],
+    "phrase": "That's a great idea.",
+    "explain": "«That's a great idea.» birikmasi ajoyib taklifni qo'llab-quvvatlash uchun ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Asilbek: Which track do you want to listen to first?\nMalika: I quite ______ listening to the acoustic song.",
+    "hint": "",
+    "options": [],
+    "answer": "fancy",
+    "accept": [
+     "like",
+     "enjoy"
+    ],
+    "phrase": "I quite fancy ...",
+    "explain": "«I quite fancy ...» birikmasi «acoustic song» eshitish istagini bildiradi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Doniyor: Do you want to go to the rock festival?\nSohiba: Honestly, I'm not a big ______ of rock music.",
+    "hint": "",
+    "options": [],
+    "answer": "fan",
+    "accept": [],
+    "phrase": "I'm not a big fan of ...",
+    "explain": "«I'm not a big fan of ...» birikmasi «rock music» ishqibozi emaslikni bildiradi.",
+    "wrong": {}
+   }
+  ],
+  [
+   {
+    "kind": "abctext",
+    "q": "Look at this picture of my cousin playing football in the rain. He looks so tired and wet! Personally, I can't ______ playing sports in bad weather.",
+    "hint": "",
+    "options": [
+     "stand",
+     "stay",
+     "stop"
+    ],
+    "answer": "stand",
+    "accept": [],
+    "phrase": "I can't stand ...",
+    "explain": "Ushbu gapda «I can't stand ...» (yomon ko'raman / chiday olmayman) iborasi qo'llangan. «bad weather» kelgani uchun shu birikma mos keladi.",
+    "wrong": {
+     "stay": "«Stay» fe'li «can't stand» iborasi o'rnida ishlatilmaydi va ma'noga to'g'ri kelmaydi.",
+     "stop": "«Stop» bu yerda yoqtirmaslik ma'nosini beruvchi iborani hosil qilmaydi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "My family is planning our summer trip to Charvak lake. My brother wants to sleep in a tent, but I'd ______ stay in a comfortable hotel.",
+    "hint": "",
+    "options": [
+     "rather",
+     "prefer",
+     "better"
+    ],
+    "answer": "rather",
+    "accept": [],
+    "phrase": "I'd rather ...",
+    "explain": "Bu gap afzallik bildirish uchun «I'd rather ...» (ma'qul ko'rardim) iborasidan foydalanadi. «stay» fe'li to'g'ridan-to'g'ri to-siz kelgani uchun «rather» mos keladi.",
+    "wrong": {
+     "prefer": "«Prefer» fe'lidan keyin «to stay» bo'lishi kerak edi.",
+     "better": "«I'd better» maslahat berishda qo'llanadi, afzallik bildirishda emas."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "My sister bought a couple of kittens yesterday. They are so tiny and fluffy that I ______ them already!",
+    "hint": "",
+    "options": [
+     "adore",
+     "enjoy",
+     "prefer"
+    ],
+    "answer": "adore",
+    "accept": [],
+    "phrase": "I adore ...",
+    "explain": "Juda yoqtirish va mehr qo'yishni bildirish uchun «I adore ...» (juda yaxshi ko'raman) iborasi ishlatiladi. «tiny and fluffy» iborasi buni tasdiqlaydi.",
+    "wrong": {
+     "enjoy": "«Enjoy» odatda jarayondan rohatlanish uchun ishlatiladi, hayvonlarga nisbatan «adore» mosroq.",
+     "prefer": "«Prefer» solishtirish bo'lganda afzal ko'rishni bildiradi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Jasur wants us to hike up the hill this Sunday morning. I don't really ______ waking up at 6 a.m. on my day off.",
+    "hint": "",
+    "options": [
+     "fancy",
+     "want",
+     "wish"
+    ],
+    "answer": "fancy",
+    "accept": [],
+    "phrase": "I don't really fancy ...",
+    "explain": "Xohlamaslikni va yoqtirmaslikni muloyim aytish uchun «I don't really fancy ...» (unchalik xohlamayman) iborasi qo'llanadi. «waking up early» buni ko'rsatadi.",
+    "wrong": {
+     "want": "«I don't really want» deyish mumkin, lekin berilgan iboradagi gerund «waking» bilan «fancy» mos keladi.",
+     "wish": "«Wish» bu yerda grammatik va strukturaviy jihatdan noto'g'ri."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Look at these photos from our trip to Bukhara. I think travelling by train will be ______ than taking a hot minibus.",
+    "hint": "",
+    "options": [
+     "better",
+     "best",
+     "good"
+    ],
+    "answer": "better",
+    "accept": [],
+    "phrase": "I think ... will be better / more fun.",
+    "explain": "Afzallikni solishtirib aytishda «I think ... will be better» (yaxshiroq bo'ladi deb o'ylayman) iborasi ishlatiladi. Gapdagi «than» buni ko'rsatadi.",
+    "wrong": {
+     "best": "«Best» orttirma daraja bo'lib, «than» bilan ishlatilmaydi.",
+     "good": "«Good» oddiy daraja bo'lib, «than» solishtirishida «better»ga o'zgaradi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "My friend invited me to a chess tournament after classes. To be honest, I'm not very ______ on playing board games.",
+    "hint": "",
+    "options": [
+     "keen",
+     "fond",
+     "interested"
+    ],
+    "answer": "keen",
+    "accept": [],
+    "phrase": "I'm not keen on ...",
+    "explain": "Qiziqmaslikni bildirish uchun «I'm not keen on ...» (ishqibozi emasman / qiziqmayman) iborasi qo'llanadi. Keyin kelgan «on» predlogi buni belgilaydi.",
+    "wrong": {
+     "fond": "«Fond» sifati «of» predlogi bilan ishlatiladi.",
+     "interested": "«Interested» sifati «in» predlogini talab qiladi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Look at this old photo of my grandfather playing the rubab. I'm a big ______ of traditional Uzbek music.",
+    "hint": "",
+    "options": [
+     "fan",
+     "group",
+     "member"
+    ],
+    "answer": "fan",
+    "accept": [],
+    "phrase": "I'm a big fan of ...",
+    "explain": "Musiqa yoki san'at turining muhlisi ekanlikni bildirishda «I'm a big fan of ...» (ashaddiy muhlisi) iborasi ishlatiladi.",
+    "wrong": {
+     "group": "«Big group of» iborasi insonning qiziqishini ifodalamaydi.",
+     "member": "«Member» a'zo degani, bu yerda musiqa muhlisligi haqida gap ketmoqda."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Nodira wants to meet at the park entrance at 4 p.m. OK, I ______. That gives us plenty of time.",
+    "hint": "",
+    "options": [
+     "agree",
+     "accept",
+     "allow"
+    ],
+    "answer": "agree",
+    "accept": [],
+    "phrase": "OK, I agree.",
+    "explain": "Taklifga rozilik bildirish uchun «OK, I agree» (Mayli, roziman) iborasi ishlatiladi. «That gives us time» bu fikrni tasdiqlaydi.",
+    "wrong": {
+     "accept": "«I accept» taklifni qabul qilishda yakka holda bunday ibora bo'lib kelmaydi.",
+     "allow": "«I allow» ruxsat berishni bildiradi, kelishuvni emas."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "So we are going to prepare the presentation together tomorrow after school. That's ______, then. See you in the library!",
+    "hint": "",
+    "options": [
+     "agreed",
+     "done",
+     "fixed"
+    ],
+    "answer": "agreed",
+    "accept": [],
+    "phrase": "That's agreed, then.",
+    "explain": "Suhbat oxirida qarorni yakunlash va kelishish uchun «That's agreed, then» (Kelishdik unda) iborasi ishlatiladi.",
+    "wrong": {
+     "done": "«That's done» ish bajarib bo'linganini bildiradi, kelishuv iborasi emas.",
+     "fixed": "«That's fixed» so'zlashuv iboralarida kelishuv uchun barqaror funktsional fraza emas."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Look at this selfie of my class at the amusement park. I think taking the roller coaster will be more ______ than the Ferris wheel.",
+    "hint": "",
+    "options": [
+     "fun",
+     "funny",
+     "enjoy"
+    ],
+    "answer": "fun",
+    "accept": [],
+    "phrase": "I think ... will be better / more fun.",
+    "explain": "Biror faoliyatning qiziqroq bo'lishini taqqoslash uchun «will be more fun» (qiziqroq bo'ladi) iborasi ishlatiladi.",
+    "wrong": {
+     "funny": "«Funny» kulgili degani, atraksion esa «fun» (maroqli) bo'ladi.",
+     "enjoy": "«More enjoy» grammatik jihatdan noto'g'ri shakl."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "My uncle invited us to visit his farm in Fergana. I'm really ______ on feeding the horses and riding them.",
+    "hint": "",
+    "options": [
+     "keen",
+     "fond",
+     "happy"
+    ],
+    "answer": "keen",
+    "accept": [],
+    "phrase": "I'm keen on ...",
+    "explain": "Biror mashg'ulotga qiziqishni bildirish uchun «I'm keen on ...» (juda qiziqaman / ishqiboziman) iborasi ishlatiladi. «on» predlogi buni tasdiqlaydi.",
+    "wrong": {
+     "fond": "«Fond» sifati bilan «of» ishlatiladi, «on» emas.",
+     "happy": "«Happy on» iborasi bu grammatik tuzilmaga to'g'ri kelmaydi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Look at this drawing of a cartoon character made by my little sister. I ______ her talent for drawing!",
+    "hint": "",
+    "options": [
+     "adore",
+     "fancy",
+     "stand"
+    ],
+    "answer": "adore",
+    "accept": [],
+    "phrase": "I adore ...",
+    "explain": "Birovlarning qobiliyatiga qoyil qolish va yoqtirishni ifodalashda «I adore ...» (juda yaxshi ko'raman / tan beraman) iborasi qo'llanadi.",
+    "wrong": {
+     "fancy": "«Fancy» fe'li inson qobiliyatiga nisbatan baho berganda «adore»chalik mos emas.",
+     "stand": "«Stand» bu kontekstda «can't stand» bo'lmasa ma'no bermaydi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "We have two options: watch an action movie or read a comic book. I'd ______ watch the movie.",
+    "hint": "",
+    "options": [
+     "rather",
+     "prefer",
+     "better"
+    ],
+    "answer": "rather",
+    "accept": [],
+    "phrase": "I'd rather ...",
+    "explain": "Ikki narsadan birini afzal ko'rganda va fe'l to-siz kelganda «I'd rather ...» (ma'qul ko'rardim) iborasi ishlatiladi.",
+    "wrong": {
+     "prefer": "«Prefer»dan keyin «to watch» bo'lishi kerak edi.",
+     "better": "«I'd better» maslahat berishda ishlatiladi, afzallik bildirishda emas."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Our class wanted to go somewhere on Saturday. Some people wanted the zoo, others wanted the cinema. In the end we said: “Shall we ______ on the cinema?” and everybody agreed.",
+    "hint": "",
+    "options": [
+     "settle",
+     "decide",
+     "stay"
+    ],
+    "answer": "settle",
+    "accept": [],
+    "phrase": "Shall we settle on ...?",
+    "explain": "«Shall we settle on ...?» — «...ga kelishib olamizmi?». Bahsdan keyin bitta variantni tanlashni taklif qilganda aytiladi; «settle» faqat «on» bilan shu ma'noni beradi.",
+    "wrong": {
+     "decide": "«decide on» ham mavjud, lekin Functions Bank iborasi aynan «settle on»; «Shall we decide on» kelishuvga erishish iborasi sifatida o'rganilmagan.",
+     "stay": "«stay on» — «qolmoq, davom etmoq», kelishish ma'nosini bermaydi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Bobur's message: “I'd ______ stay at home tonight than go to the party. I'm really tired after football.”",
+    "hint": "",
+    "options": [
+     "rather",
+     "prefer",
+     "better"
+    ],
+    "answer": "rather",
+    "accept": [],
+    "phrase": "I'd rather ...",
+    "explain": "«I'd rather ... than ...» — «...dan ko'ra ...ni afzal ko'raman». Undan keyin fe'l «to»siz keladi (stay), gapda «than» ham bor.",
+    "wrong": {
+     "prefer": "«I'd prefer» dan keyin «to stay» bo'lishi kerak edi; bu yerda «to» yo'q.",
+     "better": "«I'd better» — «...ganim ma'qul» (maslahat), «than» bilan ishlatilmaydi."
+    }
+   }
+  ]
+ ],
+ "guide": {
+  "topics": [
+   {
+    "name": "Expressing likes and dislikes",
+    "name_uz": "Yoqtirish va yoqtirmaslikni ifodalash",
+    "summary": "Bu iboralar narsalarga, mashg'ulotlarga yoki odamlarga bo'lgan shaxsiy munosabatimizni bildirish uchun ishlatiladi.",
+    "usage": [
+     {
+      "text": "I quite fancy — «... yoqadi, xohishim bor». Nimadir qilishni yoqtirganimizda ishlatiladi.",
+      "example": {
+       "en": "I quite fancy going to the cinema tonight.",
+       "uz": "Bugun kechqurun kinoga borishni xohlayman."
+      }
+     },
+     {
+      "text": "I don't really fancy — «... unchalik xohlamayapman». Biror ishni qilishga uncha ishqiboz bo'lmaganda deyiladi.",
+      "example": {
+       "en": "I don't really fancy doing homework right now.",
+       "uz": "Hozir uy vazifasini qilishni uncha xohlamayapman."
+      }
+     },
+     {
+      "text": "I'm a big fan of — «... ning ashaddiy muxlisiman». Biror narsani juda qattiq yoqtirganda ishlatiladi.",
+      "example": {
+       "en": "I'm a big fan of Marvel movies.",
+       "uz": "Men Marvel kinolarining ashaddiy muxlisiman."
+      }
+     },
+     {
+      "text": "I'm not a big fan of — «... unchalik yoqmaydi». Biror narsaning muxlisi emasligimizni ko'rsatadi.",
+      "example": {
+       "en": "I'm not a big fan of spicy food.",
+       "uz": "Men achchiq ovqatlarning ashaddiy muxlisi emasman."
+      }
+     },
+     {
+      "text": "I'm keen on — «... ga qiziqaman». Biror narsa bilan shug'ullanishni yoqtirganda aytiladi.",
+      "example": {
+       "en": "I'm keen on playing football after school.",
+       "uz": "Maktabdan keyin futbol o'ynashga qiziqaman."
+      }
+     },
+     {
+      "text": "I'm not keen on — «... unchalik qiziqtirmaydi». Biror narsaga ishqiboz emasligimizni bildiradi.",
+      "example": {
+       "en": "I'm not keen on getting up early.",
+       "uz": "Erta turishni unchalik yoqtirmayman."
+      }
+     },
+     {
+      "text": "I adore — «... ni juda yaxshi ko'raman/pajurman». Kuchli mehr yoki muhabbatni bildiradi.",
+      "example": {
+       "en": "I adore spending time with my friends.",
+       "uz": "Do'stlarim bilan vaqt o'tkazishni juda yaxshi ko'raman."
+      }
+     },
+     {
+      "text": "I can't stand — «... ga chiday olmayman». Biror narsani butunlay yomon ko'rganda ishlatiladi.",
+      "example": {
+       "en": "I can't stand waiting in long queues.",
+       "uz": "Uzun navbatlarda kutishga chiday olmayman."
+      }
+     }
+    ],
+    "structure": [
+     {
+      "type": "+",
+      "formula": "I adore / I'm keen on + noun / V-ing",
+      "example": {
+       "en": "I'm keen on learning English.",
+       "uz": "Ingliz tilini o'rganishga qiziqaman."
+      }
+     },
+     {
+      "type": "-",
+      "formula": "I can't stand / I don't fancy + noun / V-ing",
+      "example": {
+       "en": "I can't stand listening to loud music.",
+       "uz": "Baland musiqani tinglashga chiday olmayman."
+      }
+     },
+     {
+      "type": "+",
+      "formula": "I'm a big fan of + noun / pronoun",
+      "example": {
+       "en": "I'm a big fan of this singer.",
+       "uz": "Men bu xonandaning ashaddiy muxlisiman."
+      }
+     }
+    ],
+    "signals": [
+     {
+      "en": "adore",
+      "uz": "juda yaxshi ko'rmoq"
+     },
+     {
+      "en": "fancy",
+      "uz": "xohlamoq"
+     },
+     {
+      "en": "keen on",
+      "uz": "qiziqqan"
+     },
+     {
+      "en": "fan",
+      "uz": "muxlis"
+     },
+     {
+      "en": "stand",
+      "uz": "chidamoq"
+     }
+    ],
+    "tip": "«I can't stand» va «I adore» so'zlaridan keyin fe'l kelsa, unga -ing qo'shimchasi qo'shilishini unutmang."
+   },
+   {
+    "name": "Expressing a preference",
+    "name_uz": "Afzallikni (tanlovni) ifodalash",
+    "summary": "Biror narsani boshqasidan ustun qo'yganimizda yoki yaxshiroq deb hisoblaganimizda ishlatiladi.",
+    "usage": [
+     {
+      "text": "I'd rather — «Afzal ko'raman». Biror ishni boshqasidan ko'ra ko'proq qilishni xohlaganda ishlatiladi.",
+      "example": {
+       "en": "I'd rather stay at home today.",
+       "uz": "Bugun uyda qolishni afzal ko'rardim."
+      }
+     },
+     {
+      "text": "I'd prefer (to) — «... ni afzal ko'raman». Tanlov qilishda qo'llaniladi.",
+      "example": {
+       "en": "I'd prefer to drink tea instead of coffee.",
+       "uz": "Qahva o'rniga choy ichishni afzal ko'raman."
+      }
+     },
+     {
+      "text": "I think ... will be better / more fun — «... yaxshiroq / qiziqarliroq bo'ladi deb o'ylayman». Fikr bildirganda ishlatiladi.",
+      "example": {
+       "en": "I think going to the park will be more fun.",
+       "uz": "Bog'ga borish qiziqarliroq bo'ladi deb o'ylayman."
+      }
+     }
+    ],
+    "structure": [
+     {
+      "type": "+",
+      "formula": "I'd rather + verb (bare infinitive)",
+      "example": {
+       "en": "I'd rather go by bus.",
+       "uz": "Avtobusda borishni afzal ko'rardim."
+      }
+     },
+     {
+      "type": "+",
+      "formula": "I'd prefer to + verb",
+      "example": {
+       "en": "I'd prefer to walk there.",
+       "uz": "U yerga piyoda borishni afzal ko'raman."
+      }
+     },
+     {
+      "type": "+",
+      "formula": "I think + clause + will be better",
+      "example": {
+       "en": "I think this film will be better.",
+       "uz": "Bu kino yaxshiroq bo'ladi deb o'ylayman."
+      }
+     }
+    ],
+    "signals": [
+     {
+      "en": "rather",
+      "uz": "afzalroq"
+     },
+     {
+      "en": "prefer",
+      "uz": "afzal ko'rmoq"
+     },
+     {
+      "en": "better",
+      "uz": "yaxshiroq"
+     },
+     {
+      "en": "fun",
+      "uz": "qiziqarli"
+     }
+    ],
+    "tip": "«I'd rather» dan keyin fe'l «to» qo'shimchasisiz keladi, lekin «I'd prefer» dan keyin «to» ishlatiladi."
+   },
+   {
+    "name": "Reaching an agreement",
+    "name_uz": "Kelishuvga erishish",
+    "summary": "Biror qarorga kelish yoki suhbatdoshning fikriga qo'shilish paytida ishlatiladigan iboralar.",
+    "usage": [
+     {
+      "text": "Shall we settle on ...? — «... ga to'xtalsak qanday bo'ladi?». Umumiy qaror qabul qilishda taklif sifatida aytiladi.",
+      "example": {
+       "en": "Shall we settle on pizza for dinner?",
+       "uz": "Kechki ovqatga pitsa tanlasak qanday bo'ladi?"
+      }
+     },
+     {
+      "text": "OK, I agree. — «Xo'p, roziyman». Fikrga qo'shilishni bildiradi.",
+      "example": {
+       "en": "OK, I agree, let's watch this comedy.",
+       "uz": "Xo'p, roziyman, keling bu komediyani ko'ramiz."
+      }
+     },
+     {
+      "text": "That's agreed, then. — «Kelishdik, unda». Qaror tasdiqlanganda ishlatiladi.",
+      "example": {
+       "en": "That's agreed, then. We meet at 5 PM.",
+       "uz": "Kelishdik, unda. Soat 5 da uchrashamiz."
+      }
+     },
+     {
+      "text": "That's a great idea. — «Bu zo'r fikr!». Taklif juda yoqqanda bildiriladi.",
+      "example": {
+       "en": "That's a great idea, I'd love to go!",
+       "uz": "Bu zo'r fikr, borishni juda xohlayman!"
+      }
+     }
+    ],
+    "structure": [
+     {
+      "type": "?",
+      "formula": "Shall we settle on + noun / V-ing?",
+      "example": {
+       "en": "Shall we settle on buying this phone?",
+       "uz": "Bu telefonni sotib olishga to'xtalsak qanday bo'ladi?"
+      }
+     },
+     {
+      "type": "+",
+      "formula": "OK, I agree.",
+      "example": {
+       "en": "OK, I agree with your plan.",
+       "uz": "Xo'p, seni rejangga roziyman."
+      }
+     },
+     {
+      "type": "+",
+      "formula": "That's a great idea!",
+      "example": {
+       "en": "That's a great idea, let's do it.",
+       "uz": "Bu zo'r fikr, keling buni qilamiz."
+      }
+     }
+    ],
+    "signals": [
+     {
+      "en": "settle on",
+      "uz": "to'xtalmoq, qaror qilmoq"
+     },
+     {
+      "en": "agree",
+      "uz": "rozi bo'lmoq"
+     },
+     {
+      "en": "agreed",
+      "uz": "kelishildi"
+     },
+     {
+      "en": "idea",
+      "uz": "fikr"
+     }
+    ],
+    "tip": "«Shall we settle on» iborasidan keyin ot yoki -ing qo'shimchali fe'l kelishini yodda saqlang."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I'm keen in music.",
+    "right": "I'm keen on music.",
+    "why": "«Keen» so'zi doimo «on» predlogi bilan ishlatiladi, «in» bilan emas."
+   },
+   {
+    "wrong": "I can't stand to wait.",
+    "right": "I can't stand waiting.",
+    "why": "«Can't stand» iborasidan keyin fe'lga -ing qo'shiladi, «to» bilan kelmaydi."
+   },
+   {
+    "wrong": "I'd rather to go home.",
+    "right": "I'd rather go home.",
+    "why": "«I'd rather» dan keyin «to» ishlatilmaydi, faqat fe'lning o'zi keladi."
+   },
+   {
+    "wrong": "I'd prefer go by train.",
+    "right": "I'd prefer to go by train.",
+    "why": "«I'd prefer» o'zidan keyin «to» oladi, shuning uchun «to go» bo'lishi kerak."
+   },
+   {
+    "wrong": "I'm a big fan on football.",
+    "right": "I'm a big fan of football.",
+    "why": "«A big fan» iborasidan keyin «of» predlogi ishlatiladi."
+   },
+   {
+    "wrong": "Shall we settle in this plan?",
+    "right": "Shall we settle on this plan?",
+    "why": "«Settle on» biror qaror yoki rejaga to'xtalish ma'nosini bildiradi, shuning uchun «on» ishlatiladi."
+   }
+  ]
+ }
+}

@@ -1,0 +1,1166 @@
+{
+ "code": "1.2",
+ "model": "gemini-3.5-flash-lite",
+ "tr1": [
+  {
+   "part": 0,
+   "uz": "Mening sumkam.",
+   "en": [
+    "My bag."
+   ],
+   "rule": "Egalik olmoshi: my + ot."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mening kitobim.",
+   "en": [
+    "This is my book."
+   ],
+   "rule": "Bu — This is + my + ot."
+  },
+  {
+   "part": 0,
+   "uz": "Mening mashinam.",
+   "en": [
+    "My car."
+   ],
+   "rule": "Egalik olmoshi: my + ot."
+  },
+  {
+   "part": 0,
+   "uz": "Mening ismim Ali.",
+   "en": [
+    "My name is Ali."
+   ],
+   "rule": "My name is +ism."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mening uyim.",
+   "en": [
+    "This is my house."
+   ],
+   "rule": "This is + my + house."
+  },
+  {
+   "part": 0,
+   "uz": "Mening kompyuterim.",
+   "en": [
+    "My computer."
+   ],
+   "rule": "Egalik olmoshi: my + ot."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mening kameram.",
+   "en": [
+    "This is my camera."
+   ],
+   "rule": "This is + my + camera."
+  },
+  {
+   "part": 0,
+   "uz": "Mening choyim.",
+   "en": [
+    "My tea."
+   ],
+   "rule": "Egalik olmoshi: my + ot."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mening kofem.",
+   "en": [
+    "This is my coffee."
+   ],
+   "rule": "This is + my + coffee."
+  },
+  {
+   "part": 0,
+   "uz": "Mening telefoni.",
+   "en": [
+    "My phone."
+   ],
+   "rule": "Egalik olmoshi: my + ot."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mening stulim.",
+   "en": [
+    "This is my chair."
+   ],
+   "rule": "This is + my + chair."
+  },
+  {
+   "part": 0,
+   "uz": "Mening stolim.",
+   "en": [
+    "My table."
+   ],
+   "rule": "Egalik olmoshi: my + ot."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mening suvim.",
+   "en": [
+    "This is my water."
+   ],
+   "rule": "This is + my + water."
+  },
+  {
+   "part": 0,
+   "uz": "Mening olmam.",
+   "en": [
+    "My apple."
+   ],
+   "rule": "Egalik olmoshi: my + ot."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mening mushugim.",
+   "en": [
+    "This is my cat."
+   ],
+   "rule": "This is + my + cat."
+  },
+  {
+   "part": 0,
+   "uz": "Mening itim.",
+   "en": [
+    "My dog."
+   ],
+   "rule": "Egalik olmoshi: my + ot."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mening qizim.",
+   "en": [
+    "This is my girl."
+   ],
+   "rule": "This is + my + girl."
+  },
+  {
+   "part": 0,
+   "uz": "Mening do'stim.",
+   "en": [
+    "My friend."
+   ],
+   "rule": "Egalik olmoshi: my + ot."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mening o'qituvchim.",
+   "en": [
+    "This is my teacher."
+   ],
+   "rule": "This is + my + teacher."
+  },
+  {
+   "part": 0,
+   "uz": "Mening talabam.",
+   "en": [
+    "My student."
+   ],
+   "rule": "Egalik olmoshi: my + ot."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mening xonam.",
+   "en": [
+    "This is my room."
+   ],
+   "rule": "This is + my + room."
+  },
+  {
+   "part": 0,
+   "uz": "Mening eshigim.",
+   "en": [
+    "My door."
+   ],
+   "rule": "Egalik olmoshi: my + ot."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mening derazam.",
+   "en": [
+    "This is my window."
+   ],
+   "rule": "This is + my + window."
+  },
+  {
+   "part": 0,
+   "uz": "Mening nonim.",
+   "en": [
+    "My bread."
+   ],
+   "rule": "Egalik olmoshi: my + ot."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mening sendvichim.",
+   "en": [
+    "This is my sandwich."
+   ],
+   "rule": "This is + my + sandwich."
+  },
+  {
+   "part": 0,
+   "uz": "Mening gamburgerim.",
+   "en": [
+    "My hamburger."
+   ],
+   "rule": "Egalik olmoshi: my + ot."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mening televizorim.",
+   "en": [
+    "This is my television."
+   ],
+   "rule": "This is + my + television."
+  },
+  {
+   "part": 0,
+   "uz": "Mening suratim.",
+   "en": [
+    "My photograph."
+   ],
+   "rule": "Egalik olmoshi: my + ot."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mening avtobusim.",
+   "en": [
+    "This is my bus."
+   ],
+   "rule": "This is + my + bus."
+  },
+  {
+   "part": 0,
+   "uz": "Mening familiyam.",
+   "en": [
+    "My surname."
+   ],
+   "rule": "Egalik olmoshi: my + ot."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mening ismim.",
+   "en": [
+    "This is my first name."
+   ],
+   "rule": "This is + my + first name."
+  },
+  {
+   "part": 0,
+   "uz": "Mening ingliz tilim.",
+   "en": [
+    "My English."
+   ],
+   "rule": "Egalik olmoshi: my + ot."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mening uyim Toshkentda.",
+   "en": [
+    "This is my house in Tashkent."
+   ],
+   "rule": "Uyim Toshkentda: my house in Tashkent."
+  },
+  {
+   "part": 0,
+   "uz": "Mening do'stim Aziz.",
+   "en": [
+    "My friend is Aziz."
+   ],
+   "rule": "Do'stim ...: My friend is ..."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mening mashinam.",
+   "en": [
+    "This is my car."
+   ],
+   "rule": "Ko'rsatish olmoshi + my."
+  },
+  {
+   "part": 0,
+   "uz": "Mening chashkam.",
+   "en": [
+    "My cup."
+   ],
+   "rule": "Egalik olmoshi: my + ot."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mening kitobim.",
+   "en": [
+    "This is my book."
+   ],
+   "rule": "Kitobim: my book."
+  },
+  {
+   "part": 0,
+   "uz": "Mening sumkam juda yaxshi.",
+   "en": [
+    "My bag is very good."
+   ],
+   "rule": "Sumkam yaxshi: My bag is good."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mening qalamim.",
+   "en": [
+    "This is my pen."
+   ],
+   "rule": "This is + my + pen."
+  },
+  {
+   "part": 0,
+   "uz": "Mening xonam katta.",
+   "en": [
+    "My room is big."
+   ],
+   "rule": "Xonam katta: My room is big."
+  },
+  {
+   "part": 1,
+   "uz": "Sening sumkang.",
+   "en": [
+    "Your bag."
+   ],
+   "rule": "Sening egalik olmosi: your + ot."
+  },
+  {
+   "part": 1,
+   "uz": "Bu sening kitobing.",
+   "en": [
+    "This is your book."
+   ],
+   "rule": "Bu — This is + your + ot."
+  },
+  {
+   "part": 1,
+   "uz": "Sening mashinang.",
+   "en": [
+    "Your car."
+   ],
+   "rule": "Sening egalik olmosi: your + ot."
+  },
+  {
+   "part": 1,
+   "uz": "Sening isming nima?",
+   "en": [
+    "What is your name?"
+   ],
+   "rule": "Savol: What is your name?"
+  },
+  {
+   "part": 1,
+   "uz": "Bu sening uying.",
+   "en": [
+    "This is your house."
+   ],
+   "rule": "This is + your + house."
+  },
+  {
+   "part": 1,
+   "uz": "Sening kompyutering.",
+   "en": [
+    "Your computer."
+   ],
+   "rule": "Sening egalik olmosi: your + ot."
+  },
+  {
+   "part": 1,
+   "uz": "Bu sening kamerang.",
+   "en": [
+    "This is your camera."
+   ],
+   "rule": "This is + your + camera."
+  },
+  {
+   "part": 1,
+   "uz": "Sening choying.",
+   "en": [
+    "Your tea."
+   ],
+   "rule": "Sening egalik olmosi: your + ot."
+  },
+  {
+   "part": 1,
+   "uz": "Bu sening kofeng.",
+   "en": [
+    "This is your coffee."
+   ],
+   "rule": "This is + your + coffee."
+  },
+  {
+   "part": 1,
+   "uz": "Sening telefoning.",
+   "en": [
+    "Your phone."
+   ],
+   "rule": "Sening egalik olmosi: your + ot."
+  }
+ ],
+ "tr51": [
+  {
+   "part": 1,
+   "uz": "Bu mening sumkam.",
+   "en": [
+    "This is my bag."
+   ],
+   "rule": "Egalik olmoshi: my + ot."
+  },
+  {
+   "part": 1,
+   "uz": "Bu sening kitobing.",
+   "en": [
+    "This is your book."
+   ],
+   "rule": "Egalik olmoshi: your + ot."
+  },
+  {
+   "part": 1,
+   "uz": "Mening telefonim bu.",
+   "en": [
+    "This is my phone."
+   ],
+   "rule": "Egalik olmoshi: my + ot."
+  },
+  {
+   "part": 1,
+   "uz": "Sening uying bu.",
+   "en": [
+    "This is your house."
+   ],
+   "rule": "Egalik olmoshi: your + ot."
+  },
+  {
+   "part": 1,
+   "uz": "Bu mening kompyuterim.",
+   "en": [
+    "This is my computer."
+   ],
+   "rule": "Egalik olmoshi: my + ot."
+  },
+  {
+   "part": 1,
+   "uz": "Bu sening kamerang.",
+   "en": [
+    "This is your camera."
+   ],
+   "rule": "Egalik olmoshi: your + ot."
+  },
+  {
+   "part": 1,
+   "uz": "Mening choyim bu.",
+   "en": [
+    "This is my tea."
+   ],
+   "rule": "Egalik olmoshi: my + ot."
+  },
+  {
+   "part": 1,
+   "uz": "Sening kofeing bu.",
+   "en": [
+    "This is your coffee."
+   ],
+   "rule": "Egalik olmoshi: your + ot."
+  },
+  {
+   "part": 1,
+   "uz": "Bu mening moshinasi.",
+   "en": [
+    "This is my car."
+   ],
+   "rule": "Egalik olmoshi: my + ot."
+  },
+  {
+   "part": 1,
+   "uz": "Bu sening avtobusing.",
+   "en": [
+    "This is your bus."
+   ],
+   "rule": "Egalik olmoshi: your + ot."
+  },
+  {
+   "part": 1,
+   "uz": "Mening sendvichim bu.",
+   "en": [
+    "This is my sandwich."
+   ],
+   "rule": "Egalik olmoshi: my + ot."
+  },
+  {
+   "part": 1,
+   "uz": "Sening gamburgering bu.",
+   "en": [
+    "This is your hamburger."
+   ],
+   "rule": "Egalik olmoshi: your + ot."
+  },
+  {
+   "part": 1,
+   "uz": "Bu mening suratim.",
+   "en": [
+    "This is my photograph."
+   ],
+   "rule": "Egalik olmoshi: my + ot."
+  },
+  {
+   "part": 1,
+   "uz": "Bu sening stuling.",
+   "en": [
+    "This is your chair."
+   ],
+   "rule": "Egalik olmoshi: your + ot."
+  },
+  {
+   "part": 1,
+   "uz": "Mening stolim bu.",
+   "en": [
+    "This is my table."
+   ],
+   "rule": "Egalik olmoshi: my + ot."
+  },
+  {
+   "part": 1,
+   "uz": "Sening eshiging bu.",
+   "en": [
+    "This is your door."
+   ],
+   "rule": "Egalik olmoshi: your + ot."
+  },
+  {
+   "part": 1,
+   "uz": "Bu mening derazam.",
+   "en": [
+    "This is my window."
+   ],
+   "rule": "Egalik olmoshi: my + ot."
+  },
+  {
+   "part": 1,
+   "uz": "Bu sening xonang.",
+   "en": [
+    "This is your room."
+   ],
+   "rule": "Egalik olmoshi: your + ot."
+  },
+  {
+   "part": 1,
+   "uz": "Mening mushugim bu.",
+   "en": [
+    "This is my cat."
+   ],
+   "rule": "Egalik olmoshi: my + ot."
+  },
+  {
+   "part": 1,
+   "uz": "Sening iting bu.",
+   "en": [
+    "This is your dog."
+   ],
+   "rule": "Egalik olmoshi: your + ot."
+  },
+  {
+   "part": 2,
+   "uz": "Ismingiz nima?",
+   "en": [
+    "What is your name?",
+    "What's your name?"
+   ],
+   "rule": "Savol: What is your name?"
+  },
+  {
+   "part": 2,
+   "uz": "Mening ismim Ali.",
+   "en": [
+    "My name is Ali."
+   ],
+   "rule": "Javob: My name is ..."
+  },
+  {
+   "part": 2,
+   "uz": "Familiyangiz nima?",
+   "en": [
+    "What is your surname?",
+    "What's your surname?"
+   ],
+   "rule": "Savol: What is your surname?"
+  },
+  {
+   "part": 2,
+   "uz": "Mening familiyam Karimov.",
+   "en": [
+    "My surname is Karimov."
+   ],
+   "rule": "Javob: My surname is ..."
+  },
+  {
+   "part": 2,
+   "uz": "Ismingiz nima, janob?",
+   "en": [
+    "What is your name?",
+    "What's your name?"
+   ],
+   "rule": "Savol: Ism so'rash."
+  },
+  {
+   "part": 2,
+   "uz": "Mening ismim Malika.",
+   "en": [
+    "My name is Malika."
+   ],
+   "rule": "Javob: Ismni aytish."
+  },
+  {
+   "part": 2,
+   "uz": "Sening isming nima?",
+   "en": [
+    "What is your name?",
+    "What's your name?"
+   ],
+   "rule": "Suhbatda ism so'rash."
+  },
+  {
+   "part": 2,
+   "uz": "Mening ismim Tom.",
+   "en": [
+    "My name is Tom."
+   ],
+   "rule": "Mening ismim..."
+  },
+  {
+   "part": 2,
+   "uz": "Sening familiyang nima?",
+   "en": [
+    "What is your surname?",
+    "What's your surname?"
+   ],
+   "rule": "Familiya so'rash."
+  },
+  {
+   "part": 2,
+   "uz": "Mening familiyam Smit.",
+   "en": [
+    "My name is Smith.",
+    "My surname is Smith."
+   ],
+   "rule": "Familiyani aytish."
+  },
+  {
+   "part": 2,
+   "uz": "Ismingiz nima, Anna?",
+   "en": [
+    "What is your name?",
+    "What's your name?"
+   ],
+   "rule": "Ism so'rash."
+  },
+  {
+   "part": 2,
+   "uz": "Mening ismim Anna.",
+   "en": [
+    "My name is Anna."
+   ],
+   "rule": "Ismni aytish."
+  },
+  {
+   "part": 2,
+   "uz": "Sening isming Aziz.",
+   "en": [
+    "My name is Aziz."
+   ],
+   "rule": "O'zini tanishtirish."
+  },
+  {
+   "part": 2,
+   "uz": "Mening ismim Aziz.",
+   "en": [
+    "My name is Aziz."
+   ],
+   "rule": "Mening ismim..."
+  },
+  {
+   "part": 2,
+   "uz": "Ismingiz nima, do'stim?",
+   "en": [
+    "What is your name?",
+    "What's your name?"
+   ],
+   "rule": "Do'stdan ism so'rash."
+  },
+  {
+   "part": 2,
+   "uz": "Mening ismim Alisher.",
+   "en": [
+    "My name is Alisher."
+   ],
+   "rule": "Javob berish."
+  },
+  {
+   "part": 2,
+   "uz": "Sening kitobing bu yerda.",
+   "en": [
+    "This is your book."
+   ],
+   "rule": "Your + ot birikmasi."
+  },
+  {
+   "part": 2,
+   "uz": "Mening sumkam bu yerda.",
+   "en": [
+    "This is my bag."
+   ],
+   "rule": "My + ot birikmasi."
+  },
+  {
+   "part": 2,
+   "uz": "Sening qahvang bu.",
+   "en": [
+    "This is your coffee."
+   ],
+   "rule": "Your + ot."
+  },
+  {
+   "part": 2,
+   "uz": "Mening choyim bu.",
+   "en": [
+    "This is my tea."
+   ],
+   "rule": "My + ot."
+  },
+  {
+   "part": 2,
+   "uz": "Sening uying juda yaxshi.",
+   "en": [
+    "Your house is very good."
+   ],
+   "rule": "Your + ot va sifat."
+  },
+  {
+   "part": 2,
+   "uz": "Mening uyim Toshkentda.",
+   "en": [
+    "My house is in Tashkent."
+   ],
+   "rule": "My + ot va joy."
+  },
+  {
+   "part": 2,
+   "uz": "Sening moshinang katta.",
+   "en": [
+    "Your car is big."
+   ],
+   "rule": "Your + ot va sifat."
+  },
+  {
+   "part": 2,
+   "uz": "Mening moshinamsi kichik.",
+   "en": [
+    "My car is small."
+   ],
+   "rule": "My + ot va sifat."
+  },
+  {
+   "part": 2,
+   "uz": "Sening telefoning qani?",
+   "en": [
+    "Where is your phone?"
+   ],
+   "rule": "Your + ot bilan savol."
+  },
+  {
+   "part": 2,
+   "uz": "Mening telefonim bu yerda.",
+   "en": [
+    "This is my phone."
+   ],
+   "rule": "My + ot bilan javob."
+  },
+  {
+   "part": 2,
+   "uz": "Sening kompyutering yaxshi.",
+   "en": [
+    "Your computer is good."
+   ],
+   "rule": "Your + ot."
+  },
+  {
+   "part": 2,
+   "uz": "Mening kameram juda yaxshi.",
+   "en": [
+    "My camera is very good."
+   ],
+   "rule": "My + ot."
+  },
+  {
+   "part": 2,
+   "uz": "Ismingiz nima, iltimos?",
+   "en": [
+    "What is your name, please?",
+    "What's your name, please?"
+   ],
+   "rule": "Iltimos so'zi bilan ism so'rash."
+  },
+  {
+   "part": 2,
+   "uz": "Mening ismim Nodira.",
+   "en": [
+    "My name is Nodira."
+   ],
+   "rule": "Ismni aniq aytish."
+  }
+ ],
+ "intro": {
+  "what": "Egalik sifatlari (my, your) narsaning kimgacha tegishli ekanligini bildiradi. Ular doim ot so'z turkumidan oldin ishlatiladi.",
+  "when": [
+   "O'zimizga tegishli narsalar haqida gapirganda (my bag)",
+   "Suhbatdoshimizga tegishli narsalar haqida gapirganda (your book)",
+   "Ism va familiya so'raganda va aytganda (What's your name? My name is ...)",
+   "Kundalik tanishuv va muloqotda"
+  ],
+  "structures": [
+   {
+    "label": "(+)",
+    "formula": "S + TOBE + POSSESSIVE ADJECTIVE + OB",
+    "example_en": "My name is Tom.",
+    "example_uz": "Mening ismim Tom."
+   },
+   {
+    "label": "(?)",
+    "formula": "WHAT + TOBE + POSSESSIVE ADJECTIVE + NAME?",
+    "example_en": "What is your name?",
+    "example_uz": "Sizning ismingiz nima?"
+   },
+   {
+    "label": "(+) Your",
+    "formula": "POSSESSIVE ADJECTIVE + OB",
+    "example_en": "This is your book.",
+    "example_uz": "Bu sizning kitobingiz."
+   }
+  ],
+  "rules": [
+   {
+    "title": "Ot-oldidan kelishi",
+    "text": "Egalik sifatlari (my, your) doim o'zidan keyin ot so'z turkumini talab qiladi va ulardan keyin boshqa so'z qo'shilmaydi.",
+    "examples": [
+     {
+      "en": "My bag",
+      "uz": "Mening sumkam"
+     },
+     {
+      "en": "Your car",
+      "uz": "Sizning mashinangiz"
+     }
+    ]
+   },
+   {
+    "title": "What is qisqartmasi",
+    "text": "Og'zaki nutqda va yozuvda 'What is' ko'pincha 'What's' tarzida qisqartiriladi.",
+    "examples": [
+     {
+      "en": "What's your name?",
+      "uz": "Ismingiz nima?"
+     },
+     {
+      "en": "What's this?",
+      "uz": "Bu nima?"
+     }
+    ]
+   }
+  ],
+  "signal_words": [],
+  "mistakes": [
+   {
+    "wrong": "This is mine book.",
+    "right": "This is my book.",
+    "why": "Egalik sifatidan keyin ot kelsa 'my' ishlatiladi, 'mine' esa ot kelmaganda ishlatiladi."
+   },
+   {
+    "wrong": "What is you name?",
+    "right": "What is your name?",
+    "why": "Sizning demoqchi bo'lsak 'you' emas, 'your' egalik sifatini qo'llashimiz kerak."
+   },
+   {
+    "wrong": "My is Ali.",
+    "right": "My name is Ali.",
+    "why": "Egalik sifatidan keyin albatta ot (name) kelishi shart."
+   }
+  ]
+ },
+ "test": [
+  {
+   "type": "fill",
+   "q": "______ name is Ali.",
+   "answer": "My",
+   "explain": "O'zimiz haqimizda gapirganda 'my' (mening) egalik sifatidan foydalanamiz.",
+   "accept": [],
+   "hint": "I"
+  },
+  {
+   "type": "fill",
+   "q": "What is ______ name?",
+   "answer": "your",
+   "explain": "Suhbatdoshimizning ismini so'raganda 'your' (sizning) ishlatiladi.",
+   "accept": [],
+   "hint": "you"
+  },
+  {
+   "type": "fill",
+   "q": "This is ______ book.",
+   "answer": "my",
+   "explain": "Kitob menga tegishli bo'lgani uchun 'my' yoziladi.",
+   "accept": [],
+   "hint": "I"
+  },
+  {
+   "type": "fill",
+   "q": "Is this ______ bag?",
+   "answer": "your",
+   "explain": "Sizning sumkangizmi deb so'raganda 'your' ishlatiladi.",
+   "accept": [],
+   "hint": "you"
+  },
+  {
+   "type": "fill",
+   "q": "______ name is Malika.",
+   "answer": "My",
+   "explain": "O'z ismini aytishda 'My' so'zi ishlatiladi.",
+   "accept": [],
+   "hint": "I"
+  },
+  {
+   "type": "fill",
+   "q": "What's ______ first name?",
+   "answer": "your",
+   "explain": "Ism so'rash qolipida 'your' ishlatiladi.",
+   "accept": [],
+   "hint": "you"
+  },
+  {
+   "type": "fill",
+   "q": "______ car is red.",
+   "answer": "My",
+   "explain": "Mening mashinam demoqchi bo'lsak 'My' yozamiz.",
+   "accept": [],
+   "hint": "I"
+  },
+  {
+   "type": "fill",
+   "q": "Where is ______ computer?",
+   "answer": "your",
+   "explain": "Sizning kompyuteringiz so'ralganda 'your' ishlatiladi.",
+   "accept": [],
+   "hint": "you"
+  },
+  {
+   "type": "fill",
+   "q": "This is ______ phone.",
+   "answer": "my",
+   "explain": "Telefonim demoqchi bo'lsak 'my' ishlatiladi.",
+   "accept": [],
+   "hint": "I"
+  },
+  {
+   "type": "fill",
+   "q": "Open ______ book, please.",
+   "answer": "your",
+   "explain": "Buyruq gaplarda kitobingizni oching ma'nosida 'your' ishlatiladi.",
+   "accept": [],
+   "hint": "you"
+  },
+  {
+   "type": "fill",
+   "q": "______ camera is new.",
+   "answer": "My",
+   "explain": "Mening kameram so'z birikmasi uchun 'My' qo'yiladi.",
+   "accept": [],
+   "hint": "I"
+  },
+  {
+   "type": "fill",
+   "q": "What is ______ surname?",
+   "answer": "your",
+   "explain": "Familyangiz nima deb so'raganda 'your' ishlatiladi.",
+   "accept": [],
+   "hint": "you"
+  },
+  {
+   "type": "fill",
+   "q": "______ house is big.",
+   "answer": "My",
+   "explain": "Mening uyim so'zi uchun 'My' ishlatiladi.",
+   "accept": [],
+   "hint": "I"
+  },
+  {
+   "type": "fill",
+   "q": "Is ______ coffee hot?",
+   "answer": "your",
+   "explain": "Kofeingiz issiqmi demoqchi bo'lsak 'your' ishlatiladi.",
+   "accept": [],
+   "hint": "you"
+  },
+  {
+   "type": "fill",
+   "q": "This is ______ cup.",
+   "answer": "my",
+   "explain": "Mening chashkam demoqchi bo'lsak 'my' yoziladi.",
+   "accept": [],
+   "hint": "I"
+  },
+  {
+   "type": "fill",
+   "q": "Close ______ book.",
+   "answer": "your",
+   "explain": "Kitobingizni yoping degan ma'noda 'your' ishlatiladi.",
+   "accept": [],
+   "hint": "you"
+  },
+  {
+   "type": "fill",
+   "q": "______ English is fine.",
+   "answer": "My",
+   "explain": "Mening ingliz tilim yaxshi demoqchi bo'lsak 'My' ishlatiladi.",
+   "accept": [],
+   "hint": "I"
+  },
+  {
+   "type": "fill",
+   "q": "What is ______ telephone number?",
+   "answer": "your",
+   "explain": "Telefon raqamingiz so'ralganda 'your' ishlatiladi.",
+   "accept": [],
+   "hint": "you"
+  },
+  {
+   "type": "fill",
+   "q": "______ photograph is nice.",
+   "answer": "My",
+   "explain": "Mening suratim demoqchi bo'lsak 'My' ishlatiladi.",
+   "accept": [],
+   "hint": "I"
+  },
+  {
+   "type": "fill",
+   "q": "Thank ______.",
+   "answer": "you",
+   "explain": "Bu yerda egalik sifati emas, to'ldiruvchi shakli ishlatiladi: 'Thank you'.",
+   "accept": [],
+   "hint": "you"
+  },
+  {
+   "type": "mc",
+   "q": "______ name is Tom.",
+   "answer": "My",
+   "explain": "O'z ismimizni aytganda 'My' ishlatiladi.",
+   "options": [
+    "My",
+    "Your",
+    "You"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "What is ______ name?",
+   "answer": "your",
+   "explain": "Suhbatdoshning ismini so'raganda 'your' ishlatiladi.",
+   "options": [
+    "my",
+    "your",
+    "I"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "This is ______ bag.",
+   "answer": "my",
+   "explain": "Sumka menga tegishli bo'lsa 'my' ishlatiladi.",
+   "options": [
+    "your",
+    "my",
+    "you"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Is this ______ car?",
+   "answer": "your",
+   "explain": "Sizning mashinangizmi deb so'rayotganda 'your' ishlatiladi.",
+   "options": [
+    "my",
+    "your",
+    "I"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ book is small.",
+   "answer": "My",
+   "explain": "Mening kitobim demoqchi bo'lsak 'My' ishlatiladi.",
+   "options": [
+    "Your",
+    "My",
+    "You"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Nice to meet ______, Ali.",
+   "answer": "you",
+   "explain": "Tanishganimdan xursandman qolipida 'you' ishlatiladi.",
+   "options": [
+    "your",
+    "my",
+    "you"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "What's ______ surname?",
+   "answer": "your",
+   "explain": "Familyangiz nima deb so'raganda 'your' ishlatiladi.",
+   "options": [
+    "my",
+    "your",
+    "I"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ coffee is very good.",
+   "answer": "My",
+   "explain": "Mening kofeyim demoqchi bo'lsak 'My' ishlatiladi.",
+   "options": [
+    "Your",
+    "My",
+    "You"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Open ______ computer.",
+   "answer": "your",
+   "explain": "Kompyuteringizni oching deganda 'your' ishlatiladi.",
+   "options": [
+    "my",
+    "your",
+    "I"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ house is in Tashkent.",
+   "answer": "My",
+   "explain": "Mening uyim Toshkentda demoqchi bo'lsak 'My' ishlatiladi.",
+   "options": [
+    "Your",
+    "My",
+    "You"
+   ]
+  }
+ ]
+}

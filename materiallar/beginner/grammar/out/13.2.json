@@ -1,0 +1,1200 @@
+{
+ "code": "13.2",
+ "intro": {
+  "what": "Present Simple odatiy va doimiy ish-harakatlar uchun ishlatiladi. Present Continuous esa ayni damda, hozir sodir bo'layotgan ish-harakatlarni bildiradi.",
+  "when": [
+   "Present Simple: doimiy odatlar va qaytariladigan ishlar uchun (He usually wears jeans.)",
+   "Present Simple: 100% to'g'ri faktlar uchun (She works in a bank.)",
+   "Present Continuous: ayni damda, hozir bo'layotgan ishlar uchun (Today he's wearing a suit.)",
+   "Present Continuous: vaqtinchalik holatlar uchun (She's working at home today.)"
+  ],
+  "structures": [
+   {
+    "label": "(+) Present Simple",
+    "formula": "[ S + V / V-s + OB ]",
+    "example_en": "He usually wears jeans.",
+    "example_uz": "U odatda jinshpim kiyadi."
+   },
+   {
+    "label": "(-) Present Simple",
+    "formula": "[ S + do/does + NOT + V + OB ]",
+    "example_en": "She doesn't work in a bank today.",
+    "example_uz": "U bugun bankda ishlamayapti."
+   },
+   {
+    "label": "(+) Present Continuous",
+    "formula": "[ S + am/is/are + V-ing + OB ]",
+    "example_en": "He is wearing a suit now.",
+    "example_uz": "U hozir kostyum kiyib turibdi."
+   },
+   {
+    "label": "(-) Present Continuous",
+    "formula": "[ S + am/is/are + NOT + V-ing + OB ]",
+    "example_en": "I am not wearing jeans today.",
+    "example_uz": "Men bugun jinshpim kiymayapman."
+   },
+   {
+    "label": "(?) Present Continuous",
+    "formula": "[ Am/Is/Are + S + V-ing + OB ]",
+    "example_en": "Are you working at home today?",
+    "example_uz": "Siz bugun uyda ishlayapsizmi?"
+   }
+  ],
+  "rules": [
+   {
+    "title": "Present Simple vaqt so'zlari",
+    "text": "Odatdagi ishlarni ko'rsatish uchun usually, every day so'zlari ishlatiladi.",
+    "examples": [
+     {
+      "en": "He usually wears a shirt.",
+      "uz": "U odatda ko'ylak kiyadi."
+     },
+     {
+      "en": "I work every day.",
+      "uz": "Men har kuni ishlayman."
+     }
+    ]
+   },
+   {
+    "title": "Present Continuous vaqt so'zlari",
+    "text": "Hozirgi vaqtinchalik ishlarni ko'rsatish uchun now, today, at the moment so'zlari keladi.",
+    "examples": [
+     {
+      "en": "She is working at home today.",
+      "uz": "U bugun uyda ishlayapti."
+     },
+     {
+      "en": "Look! He is wearing a suit.",
+      "uz": "Qarang! U kostyum kiyib turibdi."
+     }
+    ]
+   }
+  ],
+  "signal_words": [
+   {
+    "en": "usually",
+    "uz": "odatda"
+   },
+   {
+    "en": "every day",
+    "uz": "har kuni"
+   },
+   {
+    "en": "now",
+    "uz": "hozir"
+   },
+   {
+    "en": "today",
+    "uz": "bugun"
+   },
+   {
+    "en": "at the moment",
+    "uz": "ayni damda"
+   },
+   {
+    "en": "Look!",
+    "uz": "Qarang!"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "He is wear a suit today.",
+    "right": "He is wearing a suit today.",
+    "why": "Present Continuous zamonida fe'lga -ing qo'shimchasi qo'shilishi shart."
+   },
+   {
+    "wrong": "She usually wearing jeans.",
+    "right": "She usually wears jeans.",
+    "why": "Odatdagi ishlar uchun Present Simple ishlatiladi va he/she/it da fe'lga -s qo'shiladi."
+   },
+   {
+    "wrong": "I working at home now.",
+    "right": "I am working at home now.",
+    "why": "Present Continuous uchun tobe fe'li (am/is/are) tushib qolmasligi kerak."
+   }
+  ]
+ },
+ "test": [
+  {
+   "type": "fill",
+   "q": "He usually ______ jeans at home. [wear]",
+   "answer": "wears",
+   "explain": "He olmoshi bilan Present Simple zamonida fe'lga -s qo'shiladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "Today he ______ a suit. [wear]",
+   "answer": "is wearing",
+   "explain": "Today so'zi va bugungi holat uchun Present Continuous (is wearing) ishlatiladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "She ______ in a bank every day. [work]",
+   "answer": "works",
+   "explain": "Every day so'zi Present Simple zamonini bildiradi, she uchun -s qo'shiladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "She ______ at home today. [work]",
+   "answer": "is working",
+   "explain": "Today va vaqtinchalik ish uchun Present Continuous (is working) ishlatiladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "Look! Aziz ______ a red T-shirt. [wear]",
+   "answer": "is wearing",
+   "explain": "Look! buyrug'i Present Continuous zamonini talab qiladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "Ali usually ______ a blue shirt. [wear]",
+   "answer": "wears",
+   "explain": "Usually so'zi odatni bildiradi, shuning uchun Present Simple (wears) ishlatamiz.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "I ______ in Tashkent every year. [live]",
+   "answer": "live",
+   "explain": "I olmoshi bilan Present Simple'da fe'l o'zgarmasdan qoladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "At the moment, I ______ in a hotel. [live]",
+   "answer": "am living",
+   "explain": "At the moment so'zi ayni damdagi davomiy ish-harakatni bildiradi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "They usually ______ coffee in the morning. [drink]",
+   "answer": "drink",
+   "explain": "They olmoshi bilan Present Simple'da fe'l o'z holicha qoladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "Right now, she ______ tea. [drink]",
+   "answer": "is drinking",
+   "explain": "Right now iborasi Present Continuous zamonini talab qiladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "He ______ jeans today. [not + wear]",
+   "answer": "isn't wearing",
+   "explain": "Today va vaqtinchalik inkor holat uchun Present Continuous (isn't wearing) kerak.",
+   "accept": [
+    "is not wearing"
+   ]
+  },
+  {
+   "type": "fill",
+   "q": "She usually ______ jeans. [not + wear]",
+   "answer": "doesn't wear",
+   "explain": "Present Simple inkor shaklida she uchun doesn't va asosiy fe'l keladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "You ______ a suit now. [not + wear]",
+   "answer": "aren't wearing",
+   "explain": "You olmoshi bilan Present Continuous inkor shakli aren't wearing bo'ladi.",
+   "accept": [
+    "are not wearing"
+   ]
+  },
+  {
+   "type": "fill",
+   "q": "We usually ______ meat on Sundays. [eat]",
+   "answer": "eat",
+   "explain": "Usually odatni bildiradi, shuning uchun Present Simple ishlatiladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "Today we ______ a nice fish. [eat]",
+   "answer": "are eating",
+   "explain": "Today so'zi bilan bugungi vaqtinchalik ish-harakat uchun Present Continuous ishlatiladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "______ you wear a tie every day? [do]",
+   "answer": "Do",
+   "explain": "Present Simple so'roq gapida you olmoshi uchun Do yordamchi fe'li ishlatiladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "______ you wearing a tie today? [be]",
+   "answer": "Are",
+   "explain": "Present Continuous so'roq gapida you oldidan Are fe'li keladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "What ______ she wearing today? [be]",
+   "answer": "is",
+   "explain": "Present Continuous so'roq gapida she oldidan is fe'li keladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "What ______ she usually wear? [do]",
+   "answer": "does",
+   "explain": "Present Simple so'roq gapida she uchun does yordamchi fe'li ishlatiladi.",
+   "accept": []
+  },
+  {
+   "type": "fill",
+   "q": "Look! The dog ______ in the garden. [run]",
+   "answer": "is running",
+   "explain": "Look! so'zi bilan hozir sodir bo'layotgan ish-harakat uchun Present Continuous ishlatiladi.",
+   "accept": []
+  },
+  {
+   "type": "mc",
+   "q": "He usually ______ a black coat in winter.",
+   "answer": "wears",
+   "explain": "Usually so'zi Present Simple zamonini bildiradi va he uchun wears to'g'ri keladi.",
+   "options": [
+    "wear",
+    "wears",
+    "is wearing"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Look! She ______ a beautiful red dress today.",
+   "answer": "is wearing",
+   "explain": "Look! so'zi hozirgi davomiy zamon (Present Continuous) ishlatilishini ko'rsatadi.",
+   "options": [
+    "wears",
+    "wear",
+    "is wearing"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "My brother works in a bank, but today he ______ at home.",
+   "answer": "is working",
+   "explain": "Today so'zi va vaqtinchalik holat uchun Present Continuous (is working) ishlatiladi.",
+   "options": [
+    "works",
+    "is working",
+    "work"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "We usually ______ coffee, but now we ______ tea.",
+   "answer": "drink / are drinking",
+   "explain": "Odatdagi ishga Present Simple (drink), hozirgi ishga Present Continuous (are drinking) ishlatiladi.",
+   "options": [
+    "drink / are drinking",
+    "are drinking / drink",
+    "drinks / is drinking"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ you wear jeans to school every day?",
+   "answer": "Do",
+   "explain": "Every day va Present Simple so'roq gapi uchun Do yordamchi fe'li ishlatiladi.",
+   "options": [
+    "Are",
+    "Do",
+    "Does"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ you wearing a jacket right now?",
+   "answer": "Are",
+   "explain": "Right now so'zi Present Continuous zamonini bildiradi va you uchun Are ishlatiladi.",
+   "options": [
+    "Do",
+    "Are",
+    "Is"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Aziz ______ a blue shirt today. He is wearing a white T-shirt.",
+   "answer": "isn't wearing",
+   "explain": "Bugungi vaqtinchalik inkor holat uchun Present Continuous inkor shakli (isn't wearing) kerak.",
+   "options": [
+    "doesn't wear",
+    "isn't wearing",
+    "aren't wearing"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Malika doesn't wear jeans. She always ______ a skirt.",
+   "answer": "wears",
+   "explain": "Always va Present Simple doimiy ish-harakati uchun she olmoshi bilan wears ishlatiladi.",
+   "options": [
+    "wears",
+    "wear",
+    "is wearing"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Listen! The baby ______ in the bedroom.",
+   "answer": "is sleeping",
+   "explain": "Listen! buyrug'i ayni damda davom etayotgan ish-harakatni (Present Continuous) bildiradi.",
+   "options": [
+    "sleeps",
+    "is sleeping",
+    "sleep"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "What ______ you doing at the moment?",
+   "answer": "are",
+   "explain": "At the moment va Present Continuous so'roq gapida you oldidan are tobe fe'li ishlatiladi.",
+   "options": [
+    "do",
+    "are",
+    "is"
+   ]
+  }
+ ],
+ "model": "gemini-3.5-flash-lite",
+ "tr1": [
+  {
+   "part": 0,
+   "uz": "U odatda ko'k jinsi kiyadi.",
+   "en": [
+    "He usually wears blue jeans."
+   ],
+   "rule": "Odatdagi ishlar uchun Present Simple islatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular bankda ishlaydi.",
+   "en": [
+    "They work in a bank."
+   ],
+   "rule": "Doimiy holat uchun Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "Men har kuni choy ichaman.",
+   "en": [
+    "I drink tea every day."
+   ],
+   "rule": "Har kunlik odat: Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "U har kuni nonushta qiladi.",
+   "en": [
+    "She has breakfast every day."
+   ],
+   "rule": "Uchinchi shaxs birlikda -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Biz har kuni ingliz tilini o'rganamiz.",
+   "en": [
+    "We learn English every day."
+   ],
+   "rule": "Takrorlanadigan harakat uchun Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "U qora kostyum kiyadi.",
+   "en": [
+    "He wears a black suit."
+   ],
+   "rule": "Doimiy kiyim odati uchun Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "Mening do'stim har kuni ishga boradi.",
+   "en": [
+    "My friend goes to work every day."
+   ],
+   "rule": "Odatdagi harakat: Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "Ular har kuni uyda ovqat eydi.",
+   "en": [
+    "They eat food at home every day."
+   ],
+   "rule": "Kundalik ishlar uchun Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "U har kuni qahva ichadi.",
+   "en": [
+    "He drinks coffee every day.",
+    "She drinks coffee every day."
+   ],
+   "rule": "Odatni bildirish uchun Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "Men har kuni kechqurun televizor ko'raman.",
+   "en": [
+    "I watch TV every evening."
+   ],
+   "rule": "Doimiy takrorlanuvchi ish: Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "U qiz har kuni xona tozalaydi.",
+   "en": [
+    "She cleans the room every day."
+   ],
+   "rule": "Odatdagi ish: Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "Biz har kuni maktabga boramiz.",
+   "en": [
+    "We go to school every day."
+   ],
+   "rule": "Doimiy harakat: Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "U har kuni ertalab turadi.",
+   "en": [
+    "He gets up early every morning.",
+    "She gets up early every morning."
+   ],
+   "rule": "Kunlik tartib uchun Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "Mening ukam har kuni kitob o'qiydi.",
+   "en": [
+    "My brother reads a book every day."
+   ],
+   "rule": "Odatdagi ish: Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "Ular har kuni do'konga boradi.",
+   "en": [
+    "They go to the shop every day."
+   ],
+   "rule": "Takroriy harakat: Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "U odatda oq ko'ylak kiyadi.",
+   "en": [
+    "He usually wears a white shirt.",
+    "She usually wears a white shirt."
+   ],
+   "rule": "Odatni ko'rsatish uchun Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "Men har kuni olma yeyman.",
+   "en": [
+    "I eat an apple every day."
+   ],
+   "rule": "Oddiy haqiqat va odat: Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "Ular Toshkentda yashaydi.",
+   "en": [
+    "They live in Tashkent."
+   ],
+   "rule": "Doimiy yashash joyi: Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "U ingliz tilida gapiradi.",
+   "en": [
+    "He speaks English.",
+    "She speaks English."
+   ],
+   "rule": "Qobiliyat va odat: Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "Biz har kuni kechki ovqatni yeymiz.",
+   "en": [
+    "We eat dinner every day."
+   ],
+   "rule": "Kundalik odat: Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "Ular har kuni parkda sayr qiladi.",
+   "en": [
+    "They walk in the park every day."
+   ],
+   "rule": "Takroriy harakat: Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "Mening singlim har kuni musiqa tinglaydi.",
+   "en": [
+    "My sister listens to music every day."
+   ],
+   "rule": "Odatdagi ish uchun Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "U har kuni qizil jinsi kiyadi.",
+   "en": [
+    "He usually wears red jeans.",
+    "She wears red jeans every day."
+   ],
+   "rule": "Odatlar uchun Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "Men har kuni suv ichaman.",
+   "en": [
+    "I drink water every day."
+   ],
+   "rule": "Oddiy holat: Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "Ular har kuni ofisda ishlaydi.",
+   "en": [
+    "They work in the office every day."
+   ],
+   "rule": "Doimiy ish joyi: Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "U har kuni muzqaymoq yeydi.",
+   "en": [
+    "He eats ice cream every day.",
+    "She eats ice cream every day."
+   ],
+   "rule": "Odatdagi ish: Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "Biz har kuni shahar markaziga boramiz.",
+   "en": [
+    "We go to the town centre every day."
+   ],
+   "rule": "Takroriy harakat: Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "U har kuni taksida yuradi.",
+   "en": [
+    "He goes by taxi every day.",
+    "She goes by taxi every day."
+   ],
+   "rule": "Odat uchun Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "Mening do'stlarim futbol o'ynaydi.",
+   "en": [
+    "My friends play football."
+   ],
+   "rule": "Odatdagi sport: Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "Ular har kuni kechasi dam oladi.",
+   "en": [
+    "They relax at night every day."
+   ],
+   "rule": "Kundalik odat: Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "U har kuni qora sumka olib yuradi.",
+   "en": [
+    "He carries a black bag every day.",
+    "She carries a black bag every day."
+   ],
+   "rule": "Doimiy holat: Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "Men har kuni o'quv markaziga boraman.",
+   "en": [
+    "I go to the school every day."
+   ],
+   "rule": "Odatdagi harakat: Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "U har kuni shokolad yeydi.",
+   "en": [
+    "He eats chocolate every day.",
+    "She eats chocolate every day."
+   ],
+   "rule": "Odat uchun Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "Biz har kuni inglizcha kitob o'qiymiz.",
+   "en": [
+    "We read English books every day."
+   ],
+   "rule": "Takroriy ish: Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "Ular har kuni ertalab non sotib oladi.",
+   "en": [
+    "They buy bread every morning."
+   ],
+   "rule": "Odatdagi ish: Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "U odatda sariq ko'ylak kiyadi.",
+   "en": [
+    "She usually wears a yellow dress."
+   ],
+   "rule": "Odat uchun Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "Men har kuni pishloq yeyman.",
+   "en": [
+    "I eat cheese every day."
+   ],
+   "rule": "Oddiy odat: Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "Ular har kuni issiq choy ichadi.",
+   "en": [
+    "They drink hot tea every day."
+   ],
+   "rule": "Odatdagi holat: Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "U har kuni yangi so'zlar yozadi.",
+   "en": [
+    "He writes new words every day.",
+    "She writes new words every day."
+   ],
+   "rule": "Doimiy harakat: Present Simple."
+  },
+  {
+   "part": 0,
+   "uz": "Mening dadam bankda ishlaydi.",
+   "en": [
+    "My dad works in a bank."
+   ],
+   "rule": "Doimiy ish: Present Simple."
+  },
+  {
+   "part": 1,
+   "uz": "U bugun kostyum kiyib olgan.",
+   "en": [
+    "He is wearing a suit today."
+   ],
+   "rule": "Hozirgi vaqtinchalik holat uchun Present Continuous."
+  },
+  {
+   "part": 1,
+   "uz": "U bugun uyda ishlayapti.",
+   "en": [
+    "She is working at home today."
+   ],
+   "rule": "Bugungi vaqtinchalik ish: Present Continuous."
+  },
+  {
+   "part": 1,
+   "uz": "Men hozir choy ichyapman.",
+   "en": [
+    "I am drinking tea now."
+   ],
+   "rule": "Hozir sodir bo'layotgan ish: Present Continuous."
+  },
+  {
+   "part": 1,
+   "uz": "Ular hozir parkda o'ynayapti.",
+   "en": [
+    "They are playing in the park now."
+   ],
+   "rule": "Hozirgi harakat uchun Present Continuous."
+  },
+  {
+   "part": 1,
+   "uz": "Qarang! U yuguryapti.",
+   "en": [
+    "Look! He is running.",
+    "Look! She is running."
+   ],
+   "rule": "Ayni paytdagi ish: Present Continuous."
+  },
+  {
+   "part": 1,
+   "uz": "Biz hozir ingliz tilini o'rganyapmiz.",
+   "en": [
+    "We are learning English now."
+   ],
+   "rule": "Hozirgi jarayon uchun Present Continuous."
+  },
+  {
+   "part": 1,
+   "uz": "U bugun qora jinsi kiygan.",
+   "en": [
+    "He is wearing black jeans today.",
+    "She is wearing black jeans today."
+   ],
+   "rule": "Bugungi vaqtinchalik kiyim: Present Continuous."
+  },
+  {
+   "part": 1,
+   "uz": "Mening do'stim hozir kitob o'qiyapti.",
+   "en": [
+    "My friend is reading a book now."
+   ],
+   "rule": "Hozirgi vaqtdagi harakat: Present Continuous."
+  },
+  {
+   "part": 1,
+   "uz": "Ular hozir tushlik qilyapti.",
+   "en": [
+    "They are having lunch now."
+   ],
+   "rule": "Ayni damdagi ish: Present Continuous."
+  },
+  {
+   "part": 1,
+   "uz": "Men bugun uyda dam olyapman.",
+   "en": [
+    "I am relaxing at home today."
+   ],
+   "rule": "Bugungi vaqtinchalik holat: Present Continuous."
+  }
+ ],
+ "tr51": [
+  {
+   "part": 1,
+   "uz": "U hozir kostyum kiyib olmoqda.",
+   "en": [
+    "He is wearing a suit now."
+   ],
+   "rule": "Hozirgi vaqt uchun Present Continuous ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular bugun ishda ishlamayapti.",
+   "en": [
+    "They are not working at work today."
+   ],
+   "rule": "Hozirgi paytda bajarilmayotgan ish uchun inkor shakli."
+  },
+  {
+   "part": 1,
+   "uz": "Men hozir qahva ichyapman.",
+   "en": [
+    "I am drinking coffee now."
+   ],
+   "rule": "Ayni paytda sodir bo'layotgan harakat."
+  },
+  {
+   "part": 1,
+   "uz": "Sen hozir nima kiyib olgansan?",
+   "en": [
+    "What are you wearing now?"
+   ],
+   "rule": "Hozirgi davom etayotgan zamonda savol."
+  },
+  {
+   "part": 1,
+   "uz": "U bugun uyda ishlayapti.",
+   "en": [
+    "She is working at home today."
+   ],
+   "rule": "Bugungi vaqtinchalik harakat uchun Present Continuous."
+  },
+  {
+   "part": 1,
+   "uz": "Qarang! Ular ko'chada yuguryapti.",
+   "en": [
+    "Look! They are running on the road.",
+    "Look! They are running in the street."
+   ],
+   "rule": "Look! so'zi kelganda Present Continuous ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ali hozir yangi mashina haydayapti.",
+   "en": [
+    "Ali is driving a new car now."
+   ],
+   "rule": "Hozir bajarilayotgan harakat."
+  },
+  {
+   "part": 1,
+   "uz": "Biz hozir ingliz tilini o'rganayapmiz.",
+   "en": [
+    "We are learning English now."
+   ],
+   "rule": "Hozirgi paytdagi jarayon."
+  },
+  {
+   "part": 1,
+   "uz": "Qizlar hozir do'konda ko'ylak sotib olyapti.",
+   "en": [
+    "The girls are buying a dress at the shop now."
+   ],
+   "rule": "Hozir sodir bo'layotgan ish-harakat."
+  },
+  {
+   "part": 1,
+   "uz": "Ular hozir maktabda o'qiyaptimi?",
+   "en": [
+    "Are they studying at school now?"
+   ],
+   "rule": "Hozirgi zamon savol shakli."
+  },
+  {
+   "part": 1,
+   "uz": "O'g'il bola hozir ovqat yeyapti.",
+   "en": [
+    "The boy is eating food now."
+   ],
+   "rule": "Hozirgi davom etayotgan ish."
+  },
+  {
+   "part": 1,
+   "uz": "Men hozir xat yozyapman.",
+   "en": [
+    "I am writing a letter now."
+   ],
+   "rule": "Ayni damdagi harakat."
+  },
+  {
+   "part": 1,
+   "uz": "Ular hozir parkda o'ynayapti.",
+   "en": [
+    "They are playing in the park now."
+   ],
+   "rule": "Hozirgi zamon fe'li."
+  },
+  {
+   "part": 1,
+   "uz": "Sen bugun qayerga boryapsan?",
+   "en": [
+    "Where are you going today?"
+   ],
+   "rule": "Bugungi harakat uchun savol."
+  },
+  {
+   "part": 1,
+   "uz": "Ular hozir televizor ko'ryapti.",
+   "en": [
+    "They are watching TV now."
+   ],
+   "rule": "Hozirgi paytda davom etayotgan harakat."
+  },
+  {
+   "part": 1,
+   "uz": "Oyi, men hozir uxlayotganim yo'q.",
+   "en": [
+    "Mum, I am not sleeping now."
+   ],
+   "rule": "Hozirgi zamon inkor shakli."
+  },
+  {
+   "part": 1,
+   "uz": "Qarang, yomg'ir yog'yapti!",
+   "en": [
+    "Look, it is raining!"
+   ],
+   "rule": "Look! so'zidan keyin Present Continuous keladi."
+  },
+  {
+   "part": 1,
+   "uz": "Biz bugun kechki ovqatni restoranda yeyapmiz.",
+   "en": [
+    "We are eating dinner at a restaurant today."
+   ],
+   "rule": "Bugungi vaqtinchalik reja."
+  },
+  {
+   "part": 1,
+   "uz": "U hozir musiqa tinglayapti.",
+   "en": [
+    "He is listening to music now."
+   ],
+   "rule": "Hozir bajarilayotgan harakat."
+  },
+  {
+   "part": 1,
+   "uz": "Mushuk hozir stul ostida uxlayapti.",
+   "en": [
+    "The cat is sleeping under the chair now."
+   ],
+   "rule": "Hozirgi davom etayotgan ish."
+  },
+  {
+   "part": 2,
+   "uz": "U odatda jinsi kiyadi, lekin bugun u kostyum kiyib olgan.",
+   "en": [
+    "He usually wears jeans, but today he is wearing a suit."
+   ],
+   "rule": "Odat uchun Present Simple, hozirgi kun uchun Present Continuous."
+  },
+  {
+   "part": 2,
+   "uz": "U bankda ishlaydi, lekin bugun u uyda ishlayapti.",
+   "en": [
+    "She works in a bank, but today she is working at home."
+   ],
+   "rule": "Doimiy holat va bugungi vaqtinchalik holat."
+  },
+  {
+   "part": 2,
+   "uz": "Men har kuni qahva ichaman, lekin hozir choy ichyapman.",
+   "en": [
+    "I usually drink coffee every day, but now I am drinking tea.",
+    "I drink coffee every day, but now I am drinking tea."
+   ],
+   "rule": "Har kunlik odat va hozirgi harakat solishtiruvi."
+  },
+  {
+   "part": 2,
+   "uz": "Ular odatda mashinada boradi, lekin bugun poezdda ketyapti.",
+   "en": [
+    "They usually go by car, but today they are going by train."
+   ],
+   "rule": "Odat va hozirgi jarayon farqi."
+  },
+  {
+   "part": 2,
+   "uz": "Siz har kuni ingliz tilini o'rganasizmi? – Yo'q, hozir televizor ko'ryapman.",
+   "en": [
+    "Do you learn English every day? - No, I am watching TV now.",
+    "Do you study English every day? - No, I am watching TV now."
+   ],
+   "rule": "Present Simple savoli va Present Continuous javobi."
+  },
+  {
+   "part": 2,
+   "uz": "U har kuni soat 7 da turadi, lekin bugun kechroq turyapti.",
+   "en": [
+    "He usually gets up at 7 o'clock, but today he is getting up later.",
+    "He gets up at 7 o'clock every day, but today he is getting up later."
+   ],
+   "rule": "Odatdagi ish va hozirgi o'zgarish."
+  },
+  {
+   "part": 2,
+   "uz": "Sen har kuni nonushta qilasanmi? – Ha, lekin hozir ishlayapman.",
+   "en": [
+    "Do you have breakfast every day? - Yes, but now I am working."
+   ],
+   "rule": "Odat va hozirgi zamonni birga ishlatish."
+  },
+  {
+   "part": 2,
+   "uz": "Ular yakshanba kunlari futbol o'ynaydi, lekin hozir dam olyapti.",
+   "en": [
+    "They play football on Sundays, but now they are relaxing."
+   ],
+   "rule": "Doimiy odat va hozirgi holat."
+  },
+  {
+   "part": 2,
+   "uz": "Aziz har kuni ko'ylak kiyadi, lekin bugun kurtka kiyib olgan.",
+   "en": [
+    "Aziz usually wears a shirt, but today he is wearing a jacket.",
+    "Aziz wears a shirt every day, but today he is wearing a jacket."
+   ],
+   "rule": "Odatdagi kiyim va bugungi tanlov."
+  },
+  {
+   "part": 2,
+   "uz": "Biz odatda Toshkentda yashaymiz, lekin bu hafta Samarqandda turibmiz.",
+   "en": [
+    "We usually live in Tashkent, but this week we are staying in Samarkand."
+   ],
+   "rule": "Doimiy yashash joyi va vaqtinchalik joy."
+  },
+  {
+   "part": 2,
+   "uz": "U har kuni kitob o'qiydi, lekin hozir xat yozyapti.",
+   "en": [
+    "He usually reads a book every day, but now he is writing a letter.",
+    "He reads a book every day, but now he is writing a letter."
+   ],
+   "rule": "Odat va hozirgi jarayon."
+  },
+  {
+   "part": 2,
+   "uz": "Sen har kuni choy ichasanmi? – Ha, lekin hozir suv ichyapman.",
+   "en": [
+    "Do you drink tea every day? - Yes, but now I am drinking water."
+   ],
+   "rule": "Odat so'rovi va hozirgi harakat."
+  },
+  {
+   "part": 2,
+   "uz": "Ular har kuni maktabga boradi, lekin bugun uyda dam olyapti.",
+   "en": [
+    "They usually go to school every day, but today they are relaxing at home.",
+    "They go to school every day, but today they are relaxing at home."
+   ],
+   "rule": "Har kunlik maktab va bugungi dam olish."
+  },
+  {
+   "part": 2,
+   "uz": "U odatda shahar markazida ishlaydi, lekin hozir uyda ishlayapti.",
+   "en": [
+    "She usually works in the town centre, but now she is working at home."
+   ],
+   "rule": "Doimiy ish joyi va ayni paytdagi joy."
+  },
+  {
+   "part": 2,
+   "uz": "Mushuklar sut ichadi, lekin bu mushuk hozir suv ichyapti.",
+   "en": [
+    "Cats drink milk, but this cat is drinking water now."
+   ],
+   "rule": "Umumiy fakt va hozirgi aniq harakat."
+  },
+  {
+   "part": 2,
+   "uz": "U odatda kechasi uxlaydi, lekin bugun tungi smenada ishlayapti.",
+   "en": [
+    "He usually sleeps at night, but today he is working at night."
+   ],
+   "rule": "Odat va bugungi o'zgarish."
+  },
+  {
+   "part": 2,
+   "uz": "Men har kuni ertalab yuguraman, lekin bugun yomg'ir yog'yapti.",
+   "en": [
+    "I usually run every morning, but today it is raining.",
+    "I run every morning, but today it is raining."
+   ],
+   "rule": "Odat va hozirgi ob-havo holati."
+  },
+  {
+   "part": 2,
+   "uz": "Ular har shanba xarid qiladi, lekin bugun uyda o'tiribdi.",
+   "en": [
+    "They usually go shopping every Saturday, but today they are sitting at home."
+   ],
+   "rule": "Haftalik odat va bugungi holat."
+  },
+  {
+   "part": 2,
+   "uz": "Sen odatda nima yeysan? – Men hozir olma yeyapman.",
+   "en": [
+    "What do you usually eat? - I am eating an apple now."
+   ],
+   "rule": "Odat haqidagi savol va hozirgi javob."
+  },
+  {
+   "part": 2,
+   "uz": "Qizlar odatda raqsga tushadi, lekin hozir musiqa tinglayapti.",
+   "en": [
+    "The girls usually dance, but now they are listening to music."
+   ],
+   "rule": "Odatdagi ish va hozirgi mashg'ulot."
+  },
+  {
+   "part": 2,
+   "uz": "U har kuni kechki ovqatni pishiradi, lekin bugun restoranda yeyapti.",
+   "en": [
+    "She usually cooks dinner every day, but today she is eating at a restaurant.",
+    "She cooks dinner every day, but today she is eating at a restaurant."
+   ],
+   "rule": "Kundalik uy ishi va bugungi tashrif."
+  },
+  {
+   "part": 2,
+   "uz": "Biz odatda inglizcha gaplashamiz, lekin hozir o'zbekcha gaplashyapmiz.",
+   "en": [
+    "We usually speak English, but now we are speaking Uzbek."
+   ],
+   "rule": "Odatdagi til va hozirgi til."
+  },
+  {
+   "part": 2,
+   "uz": "Ular har yili yozda dengizga boradi, lekin bu yil tog'ga ketyapti.",
+   "en": [
+    "They usually go to the sea in summer, but this year they are going to the mountains."
+   ],
+   "rule": "Odatdagi ta'til va bu yilgi reja."
+  },
+  {
+   "part": 2,
+   "uz": "Tom odatda ko'zoynak taqadi, lekin hozir taqmagan.",
+   "en": [
+    "Tom usually wears glasses, but now he is not wearing them."
+   ],
+   "rule": "Odat va hozirgi inkor holat."
+  },
+  {
+   "part": 2,
+   "uz": "Siz har kuni musiqa tinglaysizmi? – Yo'q, hozir kitob o'qiyapman.",
+   "en": [
+    "Do you listen to music every day? - No, I am reading a book now."
+   ],
+   "rule": "Odat so'rovi va hozirgi jarayon."
+  },
+  {
+   "part": 2,
+   "uz": "Ular odatda ertalab qahva ichadi, lekin hozir choy ichyapti.",
+   "en": [
+    "They usually drink coffee in the morning, but now they are drinking tea."
+   ],
+   "rule": "Tonggi odat va hozirgi ichimlik."
+  },
+  {
+   "part": 2,
+   "uz": "Men har kuni soat 8 da ishga boraman, lekin bugun uyda ishlayapman.",
+   "en": [
+    "I usually go to work at 8 o'clock, but today I am working at home.",
+    "I go to work at 8 o'clock every day, but today I am working at home."
+   ],
+   "rule": "Har kunlik ishga borish va bugungi uy."
+  },
+  {
+   "part": 2,
+   "uz": "Ular odatda parkda sayr qiladi, lekin hozir yomg'ir yog'yapti.",
+   "en": [
+    "They usually walk in the park, but now it is raining."
+   ],
+   "rule": "Odat va hozirgi ob-havo."
+  },
+  {
+   "part": 2,
+   "uz": "Sen har kuni dars tayyorlaysanmi? – Ha, lekin hozir dam olyapman.",
+   "en": [
+    "Do you do your homework every day? - Yes, but now I am relaxing."
+   ],
+   "rule": "Kundalik vazifa va hozirgi dam olish."
+  },
+  {
+   "part": 2,
+   "uz": "Ular odatda ingliz tilini o'rganadi, lekin hozir o'yin o'ynayapti.",
+   "en": [
+    "They usually learn English, but now they are playing games."
+   ],
+   "rule": "Doimiy o'qish va hozirgi o'yin."
+  }
+ ]
+}

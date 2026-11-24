@@ -1,0 +1,76 @@
+{
+  "code": "U8", "kind": "unit", "unit": 8, "price": 20000,
+  "title": "Unit 8 Test",
+  "subtitle": "There is / There are · some / any · prepositions · rooms & furniture · places in town",
+  "sections": [
+    {
+      "title": "A. Write There’s, There are, There isn’t, or There aren’t.",
+      "items": [
+        { "t": "mc", "q": "______ a sofa in the living room. (✓)", "o": ["There’s", "There are", "There isn’t", "There aren’t"], "a": 0 },
+        { "t": "mc", "q": "______ two beds in my bedroom. (✓)", "o": ["There’s", "There are", "There isn’t", "There aren’t"], "a": 1 },
+        { "t": "mc", "q": "______ a garden. We live in a flat. (✗)", "o": ["There’s", "There are", "There isn’t", "There aren’t"], "a": 2 },
+        { "t": "mc", "q": "______ any shops in my village. (✗)", "o": ["There’s", "There are", "There isn’t", "There aren’t"], "a": 3 },
+        { "t": "mc", "q": "______ a lot of books on the shelf. (✓)", "o": ["There’s", "There are", "There isn’t", "There aren’t"], "a": 1 },
+        { "t": "mc", "q": "______ a microwave in the kitchen. (✗)", "o": ["There’s", "There are", "There isn’t", "There aren’t"], "a": 2 }
+      ]
+    },
+    {
+      "title": "B. Write questions with Is there or Are there.",
+      "items": [
+        { "t": "text", "q": "______ a bank near here?", "a": ["Is there"] },
+        { "t": "text", "q": "______ any chairs in the room?", "a": ["Are there"] },
+        { "t": "text", "q": "______ a shower in the bathroom?", "a": ["Is there"] },
+        { "t": "text", "q": "______ any good restaurants in your town?", "a": ["Are there"] }
+      ]
+    },
+    {
+      "title": "C. Complete the sentences. Write some or any.",
+      "items": [
+        { "t": "text", "q": "There are ______ cups on the table.", "a": ["some"] },
+        { "t": "text", "q": "Are there ______ pictures on the wall?", "a": ["any"] },
+        { "t": "text", "q": "There aren’t ______ plants in my office.", "a": ["any"] },
+        { "t": "text", "q": "I have ______ photos of my holiday.", "a": ["some"] },
+        { "t": "text", "q": "We don’t have ______ eggs.", "a": ["any"] }
+      ]
+    },
+    {
+      "title": "D. Choose the correct preposition.",
+      "items": [
+        { "t": "mc", "q": "The cat is ______ the bed. (karavot ostida)", "o": ["on", "under", "in", "next"], "a": 1 },
+        { "t": "mc", "q": "The lamp is ______ the table. (stol ustida)", "o": ["on", "in", "under", "opposite"], "a": 0 },
+        { "t": "mc", "q": "The bank is ______ to the post office.", "o": ["opposite", "next", "near of", "in front"], "a": 1 },
+        { "t": "mc", "q": "My keys are ______ my bag.", "o": ["in", "on", "at", "under of"], "a": 0 },
+        { "t": "mc", "q": "The café is ______ the park — just across the road.", "o": ["next", "opposite", "in", "on"], "a": 1 }
+      ]
+    },
+    {
+      "title": "E. Which room is it? Write the room.",
+      "items": [
+        { "t": "text", "q": "You cook here. → the ______", "a": ["kitchen"] },
+        { "t": "text", "q": "You sleep here. → the ______", "a": ["bedroom"] },
+        { "t": "text", "q": "You have a shower here. → the ______", "a": ["bathroom"] },
+        { "t": "text", "q": "You watch TV and relax here. → the ______", "a": ["living room", "sitting room", "lounge"] }
+      ]
+    },
+    {
+      "title": "F. Where do you go? Choose the place.",
+      "items": [
+        { "t": "mc", "q": "You want to buy medicine.", "o": ["a chemist’s", "a bank", "a cinema", "a park"], "a": 0 },
+        { "t": "mc", "q": "You want to see a film.", "o": ["a post office", "a cinema", "a supermarket", "a hospital"], "a": 1 },
+        { "t": "mc", "q": "You want to change money.", "o": ["a bank", "a library", "a church", "a school"], "a": 0 },
+        { "t": "mc", "q": "You want to send a letter.", "o": ["a café", "a post office", "a park", "a pub"], "a": 1 }
+      ]
+    },
+    {
+      "title": "G. Read the text. Are the sentences true or false?",
+      "passage": "I live in a small house in Nukus. Downstairs there’s a kitchen and a living room. There isn’t a dining room, so we eat in the kitchen. Upstairs there are two bedrooms and a bathroom. My bedroom is small, but there’s a big window. There aren’t any pictures on the walls, but there are a lot of books. Next to our house there’s a little garden with some apple trees.",
+      "items": [
+        { "t": "tf", "q": "The house is in Nukus.", "a": true },
+        { "t": "tf", "q": "There’s a dining room downstairs.", "a": false },
+        { "t": "tf", "q": "There are two bedrooms.", "a": true },
+        { "t": "tf", "q": "There are a lot of pictures in the bedroom.", "a": false },
+        { "t": "tf", "q": "There are apple trees in the garden.", "a": true }
+      ]
+    }
+  ]
+}

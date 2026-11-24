@@ -1,0 +1,38 @@
+﻿86`t20`t210`t96
+153`t24`t244`tExercise 24
+77`t33`t798`tMultilevel Moster listening
+204`t26`t243`tYou will hear someone giving a talk. Label the places (1-5) on the map
+240`t26`t240`t(A-G). There are TWO extra options which you do not need to use.
+288`t20`t426`tHigh Stroot
+345`t16`t396`tc
+358`t16`t206`tLondon Road
+437`t15`t379`tMain
+459`t20`t362`tCampus
+499`t16`t206`tPark Lano
+621`t21`t234`t1. student centre
+657`t27`t233`t4. public library
+739`t22`t196`tn
+739`t24`t232`tExercise 25
+284`t18`t634`tSheep Street
+622`t26`t543`t2. police station
+658`t26`t542`t5. park hotel
+622`t25`t892`t3. victoria park
+798`t27`t230`tYou will hear someone giving a talk. Label the places (1-5) on the map
+833`t26`t227`t(A-H). There are THREE extra options which you do not need to use.
+884`t20`t593`tNorth gate
+989`t18`t723`tFootball field
+1106`t20`t244`tWest
+1135`t22`t243`tgate
+1176`t19`t425`tPond
+1416`t24`t196`t1. information board
+1454`t23`t193`t4. fitness area
+1161`t20`t673`tTennis
+1189`t18`t673`tcourts
+1372`t20`t584`tSouth gate
+1421`t29`t520`t2. children's playground
+1459`t23`t519`t5. fountain
+1097`t19`t957`tEast
+1125`t21`t956`tgate
+1337`t19`t867`ts
+1432`t29`t880`t3. dog zone
+1653`t9`t1022`tScanned With

@@ -1,0 +1,1185 @@
+{
+ "code": "9.2",
+ "intro": {
+  "what": "Past Simple (o'tgan oddiy zamon) o'tmishda tugagan ish-harakatlar uchun ishlatiladi. Noto'g'ri fe'llar (irregular verbs) o'tgan zamon darak gaplarida o'ziga xos shaklga ega bo'ladi va ularga -ed qo'shimchasi qo'shilmaydi.",
+  "when": [
+   "O'tmishda aniq bir vaqtda tugagan ish-harakatlarni ifodalashda.",
+   "O'tmishdagi odatiy holatlar yoki ketma-ket sodir bo'lgan voqealar haqida gapirganda.",
+   "Yesterday, last week, ago kabi signal so'zlari bilan ishlatiladi."
+  ],
+  "structures": [
+   {
+    "label": "(+)",
+    "formula": "[ S + V2 (irregular) + OB ]",
+    "example_en": "I went to the cinema yesterday.",
+    "example_uz": "Men kecha kinoga bordim."
+   },
+   {
+    "label": "(-)",
+    "formula": "[ S + did + not + V1 + OB ]",
+    "example_en": "She didn't have breakfast this morning.",
+    "example_uz": "U bugun ertalab nonushta qilmadi."
+   },
+   {
+    "label": "(?)",
+    "formula": "[ Did + S + V1 + OB? ]",
+    "example_en": "Did you see that film last week?",
+    "example_uz": "Siz o'tgan hafta anavi filmni ko'rdingizmi?"
+   },
+   {
+    "label": "Wh-",
+    "formula": "[ Wh-word + did + S + V1 + OB? ]",
+    "example_en": "Where did they go on holiday?",
+    "example_uz": "Ular ta'tilga qayerga borishdi?"
+   }
+  ],
+  "rules": [
+   {
+    "title": "Maxsus shakllar",
+    "text": "Noto'g'ri fe'llar o'tgan zamonda butunlay o'zgaradi, ularga -ed qo'shib bo'lmaydi. Har birini yodlash kerak.",
+    "examples": [
+     {
+      "en": "I buy - I bought",
+      "uz": "Sotib olaman - Sotib oldim"
+     },
+     {
+      "en": "He leaves - He left",
+      "uz": "U ketadi - U ketdi"
+     }
+    ]
+   },
+   {
+    "title": "Inkor va so'roq gaplar",
+    "text": "Inkor (-) va so'roq (?) gaplarda 'did' yordamchi fe'li ishlatilgani uchun asosiy fe'l o'zining lug'atdagi (V1) shakliga qaytadi.",
+    "examples": [
+     {
+      "en": "I didn't see (NOT didn't saw)",
+      "uz": "Men ko'rmadim"
+     },
+     {
+      "en": "Did you go? (NOT Did you went?)",
+      "uz": "Bordingizmi?"
+     }
+    ]
+   }
+  ],
+  "signal_words": [
+   {
+    "en": "yesterday",
+    "uz": "kecha"
+   },
+   {
+    "en": "last week",
+    "uz": "o'tgan hafta"
+   },
+   {
+    "en": "last month",
+    "uz": "o'tgan oy"
+   },
+   {
+    "en": "last year",
+    "uz": "o'tgan yili"
+   },
+   {
+    "en": "two days ago",
+    "uz": "ikki kun oldin"
+   },
+   {
+    "en": "three years ago",
+    "uz": "uch yil oldin"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I seed him yesterday.",
+    "right": "I saw him yesterday.",
+    "why": "See noto'g'ri fe'l, unga -ed qo'shilmaydi, u saw shakliga o'zgaradi."
+   },
+   {
+    "wrong": "Did you went to school?",
+    "right": "Did you go to school?",
+    "why": "So'roq gapda 'did' ishlatilganda fe'l o'zining birinchi (V1) shakliga qaytishi shart."
+   },
+   {
+    "wrong": "We didn't had lunch.",
+    "right": "We didn't have lunch.",
+    "why": "Inkor gaplarda 'didn't' dan keyin fe'lning o'tgan zamon shakli emas, asliga (have) qaytgan shakli ishlatiladi."
+   }
+  ]
+ },
+ "test": [
+  {
+   "type": "fill",
+   "q": "I ______ to the park yesterday.",
+   "answer": "went",
+   "explain": "O'tgan zamon darak gapida 'go' fe'li 'went' shakliga o'zgaradi.",
+   "hint": "go"
+  },
+  {
+   "type": "fill",
+   "q": "We ______ breakfast at 8 o'clock this morning.",
+   "answer": "had",
+   "explain": "Have fe'li o'tgan zamon darak gapida 'had' bo'ladi.",
+   "hint": "have"
+  },
+  {
+   "type": "fill",
+   "q": "She ______ a beautiful dress last week.",
+   "answer": "bought",
+   "explain": "Buy (sotib olmoq) fe'li o'tgan zamonda 'bought' bo'lib o'zgaradi.",
+   "hint": "buy"
+  },
+  {
+   "type": "fill",
+   "q": "I ______ my friend in the city centre two days ago.",
+   "answer": "met",
+   "explain": "Meet (uchratmoq) fe'lining o'tgan zamon shakli 'met' hisoblanadi.",
+   "hint": "meet"
+  },
+  {
+   "type": "fill",
+   "q": "They ______ to our house last night.",
+   "answer": "came",
+   "explain": "Come fe'li o'tgan zamon darak gapida 'came' shakliga kiradi.",
+   "hint": "come"
+  },
+  {
+   "type": "fill",
+   "q": "I ______ (not + see) you at school yesterday.",
+   "answer": "didn't see",
+   "explain": "Inkor gapda 'didn't' ishlatiladi va fe'l birinchi shaklda (see) qoladi.",
+   "accept": [
+    "did not see"
+   ],
+   "hint": "not + see"
+  },
+  {
+   "type": "fill",
+   "q": "He ______ a taxi to the airport yesterday.",
+   "answer": "took",
+   "explain": "Take fe'li o'tgan zamonda 'took' shaklini oladi.",
+   "hint": "take"
+  },
+  {
+   "type": "fill",
+   "q": "We ______ a lot of pizza at the party.",
+   "answer": "ate",
+   "explain": "Eat (yemoq) fe'li o'tgan zamonda 'ate' bo'ladi.",
+   "hint": "eat"
+  },
+  {
+   "type": "fill",
+   "q": "The bus ______ the station at 9:00.",
+   "answer": "left",
+   "explain": "Leave (ketmoq/tark etmoq) fe'li o'tgan zamonda 'left' shaklida bo'ladi.",
+   "hint": "leave"
+  },
+  {
+   "type": "fill",
+   "q": "My brother ______ me a new book for my birthday.",
+   "answer": "gave",
+   "explain": "Give (bermoq) fe'li o'tgan zamon darak gapida 'gave' ga o'zgaradi.",
+   "hint": "give"
+  },
+  {
+   "type": "fill",
+   "q": "I ______ the answer to the teacher's question.",
+   "answer": "knew",
+   "explain": "Know (bilmoq) fe'lining o'tgan zamon shakli 'knew' dir.",
+   "hint": "know"
+  },
+  {
+   "type": "fill",
+   "q": "What ______ you eat for lunch yesterday?",
+   "answer": "did",
+   "explain": "O'tgan zamon so'roq gaplarida 'did' yordamchi fe'li gap boshida ishlatiladi.",
+   "hint": "did / do / does"
+  },
+  {
+   "type": "fill",
+   "q": "We ______ (not + go) shopping last weekend.",
+   "answer": "didn't go",
+   "explain": "Inkor gapda 'didn't' yordamchi fe'li ishlatiladi va asosiy fe'l o'zgarmaydi.",
+   "accept": [
+    "did not go"
+   ],
+   "hint": "not + go"
+  },
+  {
+   "type": "fill",
+   "q": "She ______ \"Hello\" and walked into the room.",
+   "answer": "said",
+   "explain": "Say (aytmoq) fe'li o'tgan zamonda 'said' bo'ladi.",
+   "hint": "say"
+  },
+  {
+   "type": "fill",
+   "q": "I ______ a new computer last month.",
+   "answer": "got",
+   "explain": "Get (olmoq) fe'li o'tgan zamon darak gapida 'got' shakliga o'zgaradi.",
+   "hint": "get"
+  },
+  {
+   "type": "fill",
+   "q": "My mother ______ a delicious cake yesterday.",
+   "answer": "made",
+   "explain": "Make (tayyorlamoq/qilmoq) fe'li o'tgan zamonda 'made' bo'ladi.",
+   "hint": "make"
+  },
+  {
+   "type": "fill",
+   "q": "Did you ______ your car keys?",
+   "answer": "find",
+   "explain": "So'roq gapda 'did' bo'lgani uchun fe'lning birinchi shakli (find) ishlatiladi.",
+   "hint": "find / found"
+  },
+  {
+   "type": "fill",
+   "q": "They went to Samarkand three years ______.",
+   "answer": "ago",
+   "explain": "Vaqt o'tganligini bildirish uchun gap oxirida 'ago' (oldin) so'zi ishlatiladi.",
+   "hint": "ago / last"
+  },
+  {
+   "type": "fill",
+   "q": "I saw a great film ______ night.",
+   "answer": "last",
+   "explain": "Kecha oqshom demoqchi bo'lsak 'last night' iborasini ishlatamiz.",
+   "hint": "last / yesterday"
+  },
+  {
+   "type": "fill",
+   "q": "Where ______ they meet last week?",
+   "answer": "did",
+   "explain": "Maxsus so'roq gaplarda so'roq so'zidan keyin 'did' yordamchi fe'li keladi.",
+   "hint": "do / did"
+  },
+  {
+   "type": "mc",
+   "q": "I ______ a big hamburger for dinner.",
+   "answer": "ate",
+   "explain": "O'tgan zamon darak gapda 'eat' fe'lining noto'g'ri shakli 'ate' ishlatiladi.",
+   "options": [
+    "eat",
+    "ate",
+    "eated"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "They ______ to London last year.",
+   "answer": "went",
+   "explain": "Go fe'li o'tgan zamonda 'went' ga o'zgaradi.",
+   "options": [
+    "went",
+    "go",
+    "goed"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Did you ______ the teacher yesterday?",
+   "answer": "see",
+   "explain": "So'roq gapda 'did' borligi sababli fe'l o'zgarmasdan 'see' shaklida qoladi.",
+   "options": [
+    "saw",
+    "seen",
+    "see"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "We ______ a very good time on holiday.",
+   "answer": "had",
+   "explain": "Have fe'lining o'tgan zamon shakli 'had' hisoblanadi.",
+   "options": [
+    "had",
+    "have",
+    "has"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "She ______ the house at 7:30 this morning.",
+   "answer": "left",
+   "explain": "Leave fe'li o'tgan zamonda 'left' shaklida ishlatiladi.",
+   "options": [
+    "leaved",
+    "left",
+    "leave"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "I ______ my homework yesterday afternoon.",
+   "answer": "did",
+   "explain": "Do fe'li bu yerda asosiy fe'l bo'lib, o'tgan zamonda 'did' shaklini oladi.",
+   "options": [
+    "do",
+    "done",
+    "did"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "He ______ me a beautiful present.",
+   "answer": "gave",
+   "explain": "Give fe'lining o'tgan zamon shakli 'gave' dir.",
+   "options": [
+    "give",
+    "gave",
+    "gived"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "We ______ some new clothes yesterday.",
+   "answer": "bought",
+   "explain": "Buy fe'li o'tgan zamonda 'bought' shakliga kiradi.",
+   "options": [
+    "bought",
+    "buy",
+    "buyed"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "I ______ the answer to the question.",
+   "answer": "knew",
+   "explain": "Know fe'li o'tgan zamon darak gapida 'knew' shaklida bo'ladi.",
+   "options": [
+    "know",
+    "knowed",
+    "knew"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "They ______ to the party together.",
+   "answer": "came",
+   "explain": "Come fe'lining o'tgan zamon shakli 'came' hisoblanadi.",
+   "options": [
+    "come",
+    "came",
+    "comed"
+   ]
+  }
+ ],
+ "model": "gemini-3-flash-preview",
+ "tr1": [
+  {
+   "part": 0,
+   "uz": "Men kecha kinoga bordim.",
+   "en": [
+    "I went to the cinema yesterday."
+   ],
+   "rule": "O'tgan zamon: go fe'lining shakli - went"
+  },
+  {
+   "part": 0,
+   "uz": "Bizda o'tgan haftada dars bo'ldi.",
+   "en": [
+    "We had a lesson last week."
+   ],
+   "rule": "O'tgan zamon: have fe'lining shakli - had"
+  },
+  {
+   "part": 0,
+   "uz": "Men seni stansiyada ko'rdim.",
+   "en": [
+    "I saw you at the station."
+   ],
+   "rule": "O'tgan zamon: see fe'lining shakli - saw"
+  },
+  {
+   "part": 0,
+   "uz": "U kecha uyga soat 10 da keldi.",
+   "en": [
+    "He came home at 10 o'clock yesterday."
+   ],
+   "rule": "O'tgan zamon: come fe'lining shakli - came"
+  },
+  {
+   "part": 0,
+   "uz": "Ular o'tgan yili Londonga borishdi.",
+   "en": [
+    "They went to London last year."
+   ],
+   "rule": "O'tgan zamon: go fe'lining shakli - went"
+  },
+  {
+   "part": 0,
+   "uz": "Bizda kecha nonushtaga tuxum bor edi.",
+   "en": [
+    "We had eggs for breakfast yesterday."
+   ],
+   "rule": "O'tgan zamon: have fe'lining shakli - had"
+  },
+  {
+   "part": 0,
+   "uz": "Men do'stimni ko'chada ko'rdim.",
+   "en": [
+    "I saw my friend in the street."
+   ],
+   "rule": "O'tgan zamon: see fe'lining shakli - saw"
+  },
+  {
+   "part": 0,
+   "uz": "O'qituvchi sinfga keldi.",
+   "en": [
+    "The teacher came to the class."
+   ],
+   "rule": "O'tgan zamon: come fe'lining shakli - came"
+  },
+  {
+   "part": 0,
+   "uz": "Men kecha do'konga bordim.",
+   "en": [
+    "I went to the shop yesterday."
+   ],
+   "rule": "O'tgan zamon: go fe'lining shakli - went"
+  },
+  {
+   "part": 0,
+   "uz": "Bolalarda o'tgan hafta futbol o'yini bo'ldi.",
+   "en": [
+    "The children had a football game last week."
+   ],
+   "rule": "O'tgan zamon: have fe'lining shakli - had"
+  },
+  {
+   "part": 0,
+   "uz": "Men parkda chiroyli qushni ko'rdim.",
+   "en": [
+    "I saw a beautiful bird in the park."
+   ],
+   "rule": "O'tgan zamon: see fe'lining shakli - saw"
+  },
+  {
+   "part": 0,
+   "uz": "Mening dadam soat 7 da keldi.",
+   "en": [
+    "My dad came at 7 o'clock."
+   ],
+   "rule": "O'tgan zamon: come fe'lining shakli - came"
+  },
+  {
+   "part": 0,
+   "uz": "Ular dushanba kuni maktabga borishdi.",
+   "en": [
+    "They went to school on Monday."
+   ],
+   "rule": "O'tgan zamon: go fe'lining shakli - went"
+  },
+  {
+   "part": 0,
+   "uz": "Men kecha tushlikka sendvich yedim.",
+   "en": [
+    "I had a sandwich for lunch yesterday."
+   ],
+   "rule": "O'tgan zamon: have fe'lining shakli - had"
+  },
+  {
+   "part": 0,
+   "uz": "Biz televizorda yaxshi film ko'rdik.",
+   "en": [
+    "We saw a good film on TV."
+   ],
+   "rule": "O'tgan zamon: see fe'lining shakli - saw"
+  },
+  {
+   "part": 0,
+   "uz": "Mening do'stlarim partiyaga kelishdi.",
+   "en": [
+    "My friends came to the party."
+   ],
+   "rule": "O'tgan zamon: come fe'lining shakli - came"
+  },
+  {
+   "part": 0,
+   "uz": "U kecha ishga bordi.",
+   "en": [
+    "She went to work yesterday."
+   ],
+   "rule": "O'tgan zamon: go fe'lining shakli - went"
+  },
+  {
+   "part": 0,
+   "uz": "Bizda o'tgan yakshanbada ajoyib vaqt bo'ldi.",
+   "en": [
+    "We had a good time last Sunday."
+   ],
+   "rule": "O'tgan zamon: have fe'lining shakli - had"
+  },
+  {
+   "part": 0,
+   "uz": "Men uni shifoxonada ko'rdim.",
+   "en": [
+    "I saw him in the hospital."
+   ],
+   "rule": "O'tgan zamon: see fe'lining shakli - saw"
+  },
+  {
+   "part": 0,
+   "uz": "Avtobus soat 9 da keldi.",
+   "en": [
+    "The bus came at 9 o'clock."
+   ],
+   "rule": "O'tgan zamon: come fe'lining shakli - came"
+  },
+  {
+   "part": 0,
+   "uz": "Ular dengiz bo'yiga borishdi.",
+   "en": [
+    "They went to the seaside."
+   ],
+   "rule": "O'tgan zamon: go fe'lining shakli - went"
+  },
+  {
+   "part": 0,
+   "uz": "Mening akamda yangi ish bor edi.",
+   "en": [
+    "My brother had a new job."
+   ],
+   "rule": "O'tgan zamon: have fe'lining shakli - had"
+  },
+  {
+   "part": 0,
+   "uz": "Biz ko'chada eski mashinani ko'rdik.",
+   "en": [
+    "We saw an old car in the street."
+   ],
+   "rule": "O'tgan zamon: see fe'lining shakli - saw"
+  },
+  {
+   "part": 0,
+   "uz": "Mehmonlar uyimizga kelishdi.",
+   "en": [
+    "The guests came to our house."
+   ],
+   "rule": "O'tgan zamon: come fe'lining shakli - came"
+  },
+  {
+   "part": 0,
+   "uz": "Men kecha shahar markaziga bordim.",
+   "en": [
+    "I went to the city centre yesterday."
+   ],
+   "rule": "O'tgan zamon: go fe'lining shakli - went"
+  },
+  {
+   "part": 0,
+   "uz": "Menda kecha juda ko'p ish bor edi.",
+   "en": [
+    "I had a lot of work yesterday."
+   ],
+   "rule": "O'tgan zamon: have fe'lining shakli - had"
+  },
+  {
+   "part": 0,
+   "uz": "Ular muzeyda chiroyli rasmlarni ko'rishdi.",
+   "en": [
+    "They saw beautiful pictures in the museum."
+   ],
+   "rule": "O'tgan zamon: see fe'lining shakli - saw"
+  },
+  {
+   "part": 0,
+   "uz": "U kecha kechasi keldi.",
+   "en": [
+    "He came late last night."
+   ],
+   "rule": "O'tgan zamon: come fe'lining shakli - came"
+  },
+  {
+   "part": 0,
+   "uz": "Biz o'tgan yili Amerikaga bordik.",
+   "en": [
+    "We went to America last year."
+   ],
+   "rule": "O'tgan zamon: go fe'lining shakli - went"
+  },
+  {
+   "part": 0,
+   "uz": "Uning kecha tug'ilgan kuni edi.",
+   "en": [
+    "She had a birthday yesterday."
+   ],
+   "rule": "O'tgan zamon: have fe'lining shakli - had"
+  },
+  {
+   "part": 0,
+   "uz": "Men uni bankda ko'rdim.",
+   "en": [
+    "I saw her in the bank."
+   ],
+   "rule": "O'tgan zamon: see fe'lining shakli - saw"
+  },
+  {
+   "part": 0,
+   "uz": "Dadam soat 6 da uyga keldi.",
+   "en": [
+    "Dad came home at 6 o'clock."
+   ],
+   "rule": "O'tgan zamon: come fe'lining shakli - came"
+  },
+  {
+   "part": 0,
+   "uz": "Biz kecha restoranga bordik.",
+   "en": [
+    "We went to a restaurant yesterday."
+   ],
+   "rule": "O'tgan zamon: go fe'lining shakli - went"
+  },
+  {
+   "part": 0,
+   "uz": "Kecha menda muammo bor edi.",
+   "en": [
+    "I had a problem yesterday."
+   ],
+   "rule": "O'tgan zamon: have fe'lining shakli - had"
+  },
+  {
+   "part": 0,
+   "uz": "Men kecha yangi o'qituvchini ko'rdim.",
+   "en": [
+    "I saw the new teacher yesterday."
+   ],
+   "rule": "O'tgan zamon: see fe'lining shakli - saw"
+  },
+  {
+   "part": 0,
+   "uz": "Ular kecha bizning qishlog'imizga kelishdi.",
+   "en": [
+    "They came to our village yesterday."
+   ],
+   "rule": "O'tgan zamon: come fe'lining shakli - came"
+  },
+  {
+   "part": 0,
+   "uz": "U o'tgan hafta xarid qilishga bordi.",
+   "en": [
+    "She went shopping last week."
+   ],
+   "rule": "O'tgan zamon: go fe'lining shakli - went"
+  },
+  {
+   "part": 0,
+   "uz": "Bizda kecha katta pizza bor edi.",
+   "en": [
+    "We had a large pizza yesterday."
+   ],
+   "rule": "O'tgan zamon: have fe'lining shakli - had"
+  },
+  {
+   "part": 0,
+   "uz": "Men bog'da mushukni ko'rdim.",
+   "en": [
+    "I saw a cat in the garden."
+   ],
+   "rule": "O'tgan zamon: see fe'lining shakli - saw"
+  },
+  {
+   "part": 0,
+   "uz": "Ular kecha ertalab kelishdi.",
+   "en": [
+    "They came yesterday morning."
+   ],
+   "rule": "O'tgan zamon: come fe'lining shakli - came"
+  },
+  {
+   "part": 1,
+   "uz": "Men yangi kompyuter sotib oldim.",
+   "en": [
+    "I bought a new computer."
+   ],
+   "rule": "O'tgan zamon: buy fe'lining shakli - bought"
+  },
+  {
+   "part": 1,
+   "uz": "U kecha do'stidan sovg'a oldi.",
+   "en": [
+    "He got a present from his friend."
+   ],
+   "rule": "O'tgan zamon: get fe'lining shakli - got"
+  },
+  {
+   "part": 1,
+   "uz": "Onam kecha nonushta tayyorladi.",
+   "en": [
+    "My mother made breakfast yesterday."
+   ],
+   "rule": "O'tgan zamon: make fe'lining shakli - made"
+  },
+  {
+   "part": 1,
+   "uz": "U shahar markaziga taksi tutdi.",
+   "en": [
+    "He took a taxi to the city centre."
+   ],
+   "rule": "O'tgan zamon: take fe'lining shakli - took"
+  },
+  {
+   "part": 1,
+   "uz": "Biz o'tgan hafta yangi mashina sotib oldik.",
+   "en": [
+    "We bought a new car last week."
+   ],
+   "rule": "O'tgan zamon: buy fe'lining shakli - bought"
+  },
+  {
+   "part": 1,
+   "uz": "Men soat 7 da uyga yetib keldim.",
+   "en": [
+    "I got home at 7 o'clock."
+   ],
+   "rule": "O'tgan zamon: get fe'lining shakli - got"
+  },
+  {
+   "part": 1,
+   "uz": "U mazali kofe tayyorladi.",
+   "en": [
+    "She made a delicious coffee."
+   ],
+   "rule": "O'tgan zamon: make fe'lining shakli - made"
+  },
+  {
+   "part": 1,
+   "uz": "Men sumkamni va kitobimni oldim.",
+   "en": [
+    "I took my bag and my book."
+   ],
+   "rule": "O'tgan zamon: take fe'lining shakli - took"
+  },
+  {
+   "part": 1,
+   "uz": "Ular kecha chiptalar sotib olishdi.",
+   "en": [
+    "They bought tickets yesterday."
+   ],
+   "rule": "O'tgan zamon: buy fe'lining shakli - bought"
+  },
+  {
+   "part": 1,
+   "uz": "Men kecha ko'p xatlar oldim.",
+   "en": [
+    "I got a lot of letters yesterday."
+   ],
+   "rule": "O'tgan zamon: get fe'lining shakli - got"
+  }
+ ],
+ "tr51": [
+  {
+   "part": 1,
+   "uz": "Men yangi kitob sotib oldim.",
+   "en": [
+    "I bought a new book."
+   ],
+   "rule": "O'tgan zamon: noto'g'ri fe'l buy -> bought"
+  },
+  {
+   "part": 1,
+   "uz": "Onam mazali kofe tayyorladi.",
+   "en": [
+    "My mother made a delicious coffee.",
+    "My mom made delicious coffee."
+   ],
+   "rule": "O'tgan zamon: noto'g'ri fe'l make -> made"
+  },
+  {
+   "part": 1,
+   "uz": "Biz kecha taksi oldik.",
+   "en": [
+    "We took a taxi yesterday."
+   ],
+   "rule": "O'tgan zamon: noto'g'ri fe'l take -> took"
+  },
+  {
+   "part": 1,
+   "uz": "U yangi telefon oldi.",
+   "en": [
+    "He got a new phone.",
+    "She got a new phone."
+   ],
+   "rule": "O'tgan zamon: noto'g'ri fe'l get -> got"
+  },
+  {
+   "part": 1,
+   "uz": "Dadang non sotib oldimi?",
+   "en": [
+    "Did your dad buy bread?",
+    "Did your father buy bread?"
+   ],
+   "rule": "So'roq shakli: Did + ega + fe'l"
+  },
+  {
+   "part": 1,
+   "uz": "Men ertalab dush qabul qildim.",
+   "en": [
+    "I took a shower in the morning."
+   ],
+   "rule": "Ibora: take a shower -> took a shower"
+  },
+  {
+   "part": 1,
+   "uz": "Ular chiroyli surat yasashdi.",
+   "en": [
+    "They made a beautiful photograph.",
+    "They made a beautiful picture."
+   ],
+   "rule": "O'tgan zamon: noto'g'ri fe'l make -> made"
+  },
+  {
+   "part": 1,
+   "uz": "Sen yangi lug'at oldingmi?",
+   "en": [
+    "Did you get a new dictionary?"
+   ],
+   "rule": "So'roq shakli: Did + ega + fe'l"
+  },
+  {
+   "part": 1,
+   "uz": "Biz supermarketdan olma sotib oldik.",
+   "en": [
+    "We bought apples from the supermarket."
+   ],
+   "rule": "O'tgan zamon: noto'g'ri fe'l buy -> bought"
+  },
+  {
+   "part": 1,
+   "uz": "O'qituvchi kitoblarimizni oldi.",
+   "en": [
+    "The teacher took our books."
+   ],
+   "rule": "O'tgan zamon: noto'g'ri fe'l take -> took"
+  },
+  {
+   "part": 1,
+   "uz": "Malika mazali pitsa tayyorladi.",
+   "en": [
+    "Malika made a delicious pizza."
+   ],
+   "rule": "O'tgan zamon: noto'g'ri fe'l make -> made"
+  },
+  {
+   "part": 1,
+   "uz": "Men do'stimdan sovg'a oldim.",
+   "en": [
+    "I got a present from my friend."
+   ],
+   "rule": "O'tgan zamon: noto'g'ri fe'l get -> got"
+  },
+  {
+   "part": 1,
+   "uz": "Ular yangi mashina sotib olishdi.",
+   "en": [
+    "They bought a new car."
+   ],
+   "rule": "O'tgan zamon: noto'g'ri fe'l buy -> bought"
+  },
+  {
+   "part": 1,
+   "uz": "Biz avtobusga chiqdik.",
+   "en": [
+    "We took a bus."
+   ],
+   "rule": "Transport uchun: take -> took fe'li"
+  },
+  {
+   "part": 1,
+   "uz": "Sen kecha nonushta tayyorladingmi?",
+   "en": [
+    "Did you make breakfast yesterday?"
+   ],
+   "rule": "So'roq shakli: Did + ega + fe'l"
+  },
+  {
+   "part": 1,
+   "uz": "Men xonamdan sumkamni oldim.",
+   "en": [
+    "I took my bag from my room."
+   ],
+   "rule": "O'tgan zamon: noto'g'ri fe'l take -> took"
+  },
+  {
+   "part": 1,
+   "uz": "U yangi kiyimlar sotib oldi.",
+   "en": [
+    "She bought new clothes.",
+    "He bought new clothes."
+   ],
+   "rule": "O'tgan zamon: noto'g'ri fe'l buy -> bought"
+  },
+  {
+   "part": 1,
+   "uz": "Biz kecha ko'p rasmga tushdik.",
+   "en": [
+    "We took a lot of photographs yesterday."
+   ],
+   "rule": "Ibora: take photographs -> took photographs"
+  },
+  {
+   "part": 1,
+   "uz": "Aziz yangi ish oldi.",
+   "en": [
+    "Aziz got a new job."
+   ],
+   "rule": "O'tgan zamon: noto'g'ri fe'l get -> got"
+  },
+  {
+   "part": 1,
+   "uz": "Men bugun ertalab choy damladim.",
+   "en": [
+    "I made tea this morning."
+   ],
+   "rule": "O'tgan zamon: noto'g'ri fe'l make -> made"
+  },
+  {
+   "part": 2,
+   "uz": "Men kecha do'stimni ko'rdim.",
+   "en": [
+    "I saw my friend yesterday."
+   ],
+   "rule": "O'tgan zamon: see -> saw"
+  },
+  {
+   "part": 2,
+   "uz": "Biz ikki kun oldin keldik.",
+   "en": [
+    "We came two days ago."
+   ],
+   "rule": "Vaqt iborasi: miqdor + ago"
+  },
+  {
+   "part": 2,
+   "uz": "U o'tgan hafta Londonga bordi.",
+   "en": [
+    "He went to London last week.",
+    "She went to London last week."
+   ],
+   "rule": "Vaqt iborasi: last week"
+  },
+  {
+   "part": 2,
+   "uz": "Siz kecha tushlik qildingizmi?",
+   "en": [
+    "Did you have lunch yesterday?"
+   ],
+   "rule": "Ovqatlanish: have lunch -> had lunch"
+  },
+  {
+   "part": 2,
+   "uz": "Men uch soat oldin uydan ketdim.",
+   "en": [
+    "I left home three hours ago."
+   ],
+   "rule": "O'tgan zamon: leave -> left"
+  },
+  {
+   "part": 2,
+   "uz": "Ular o'tgan yili yangi uy sotib olishdi.",
+   "en": [
+    "They bought a new house last year."
+   ],
+   "rule": "Vaqt iborasi: last year"
+  },
+  {
+   "part": 2,
+   "uz": "Men kecha ertalab nonushta yedim.",
+   "en": [
+    "I ate breakfast yesterday morning."
+   ],
+   "rule": "O'tgan zamon: eat -> ate"
+  },
+  {
+   "part": 2,
+   "uz": "Malika o'tgan dushanba kuni keldi.",
+   "en": [
+    "Malika came last Monday."
+   ],
+   "rule": "O'tgan zamon: come -> came"
+  },
+  {
+   "part": 2,
+   "uz": "Sen uni qachon ko'rding?",
+   "en": [
+    "When did you see him?",
+    "When did you see her?"
+   ],
+   "rule": "Maxsus so'roq: When + did + ega"
+  },
+  {
+   "part": 2,
+   "uz": "Biz bir soat oldin kofe ichdik.",
+   "en": [
+    "We had coffee an hour ago."
+   ],
+   "rule": "O'tgan zamon: have -> had"
+  },
+  {
+   "part": 2,
+   "uz": "U kecha menga kitob berdi.",
+   "en": [
+    "She gave me a book yesterday.",
+    "He gave me a book yesterday."
+   ],
+   "rule": "O'tgan zamon: give -> gave"
+  },
+  {
+   "part": 2,
+   "uz": "Men uni o'tgan oy tanidim.",
+   "en": [
+    "I knew him last month.",
+    "I knew her last month."
+   ],
+   "rule": "O'tgan zamon: know -> knew"
+  },
+  {
+   "part": 2,
+   "uz": "Ular ikki soat oldin ketishdi.",
+   "en": [
+    "They left two hours ago."
+   ],
+   "rule": "Vaqt iborasi: two hours ago"
+  },
+  {
+   "part": 2,
+   "uz": "Sen kecha nima deding?",
+   "en": [
+    "What did you say yesterday?"
+   ],
+   "rule": "O'tgan zamon: say -> said"
+  },
+  {
+   "part": 2,
+   "uz": "Biz o'tgan hafta kinoga bordik.",
+   "en": [
+    "We went to the cinema last week."
+   ],
+   "rule": "O'tgan zamon: go -> went"
+  },
+  {
+   "part": 2,
+   "uz": "Men kecha olma yedim.",
+   "en": [
+    "I ate an apple yesterday."
+   ],
+   "rule": "O'tgan zamon: eat -> ate"
+  },
+  {
+   "part": 2,
+   "uz": "Dadang senga nima berdi?",
+   "en": [
+    "What did your dad give you?",
+    "What did your father give you?"
+   ],
+   "rule": "O'tgan zamon: give -> gave"
+  },
+  {
+   "part": 2,
+   "uz": "Ular bir hafta oldin uchrashishdi.",
+   "en": [
+    "They met a week ago."
+   ],
+   "rule": "O'tgan zamon: meet -> met"
+  },
+  {
+   "part": 2,
+   "uz": "Men kecha soat o'nda uxladim.",
+   "en": [
+    "I went to bed at ten o'clock yesterday."
+   ],
+   "rule": "Ibora: go to bed -> went to bed"
+  },
+  {
+   "part": 2,
+   "uz": "Biz o'tgan yakshanba kuni xarid qildik.",
+   "en": [
+    "We went shopping last Sunday."
+   ],
+   "rule": "Ibora: go shopping -> went shopping"
+  },
+  {
+   "part": 2,
+   "uz": "U kecha maktabga bormadi.",
+   "en": [
+    "He didn't go to school yesterday.",
+    "She didn't go to school yesterday."
+   ],
+   "rule": "Inkor shakli: didn't + asosiy fe'l"
+  },
+  {
+   "part": 2,
+   "uz": "Sen qachon kelding?",
+   "en": [
+    "When did you come?"
+   ],
+   "rule": "O'tgan zamon: come -> came"
+  },
+  {
+   "part": 2,
+   "uz": "Men besh minut oldin choy ichdim.",
+   "en": [
+    "I had tea five minutes ago."
+   ],
+   "rule": "Vaqt iborasi: five minutes ago"
+  },
+  {
+   "part": 2,
+   "uz": "Ular o'tgan yili Samarqandga borishdi.",
+   "en": [
+    "They went to Samarkand last year."
+   ],
+   "rule": "O'tgan zamon: go -> went"
+  },
+  {
+   "part": 2,
+   "uz": "Men kecha yangi o'qituvchi bilan uchrashdim.",
+   "en": [
+    "I met a new teacher yesterday."
+   ],
+   "rule": "O'tgan zamon: meet -> met"
+  },
+  {
+   "part": 2,
+   "uz": "Biz ikki kun oldin pitsa yedik.",
+   "en": [
+    "We ate pizza two days ago."
+   ],
+   "rule": "O'tgan zamon: eat -> ate"
+  },
+  {
+   "part": 2,
+   "uz": "Sen o'tgan hafta qayerga bording?",
+   "en": [
+    "Where did you go last week?"
+   ],
+   "rule": "Maxsus so'roq: Where + did + ega"
+  },
+  {
+   "part": 2,
+   "uz": "U kecha sendvich tayyorladi.",
+   "en": [
+    "She made a sandwich yesterday.",
+    "He made a sandwich yesterday."
+   ],
+   "rule": "O'tgan zamon: make -> made"
+  },
+  {
+   "part": 2,
+   "uz": "Men bir soat oldin sumkamni oldim.",
+   "en": [
+    "I took my bag an hour ago."
+   ],
+   "rule": "O'tgan zamon: take -> took"
+  },
+  {
+   "part": 2,
+   "uz": "Ular kecha uyda tushlik qilishdi.",
+   "en": [
+    "They had lunch at home yesterday."
+   ],
+   "rule": "O'tgan zamon: have -> had"
+  }
+ ]
+}

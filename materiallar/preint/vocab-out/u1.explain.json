@@ -1,0 +1,675 @@
+[
+ {
+  "why": "«bruise» — ko'karish, qon talash. Gapda «dark and purple» bor: tizza terisi to'q binafsha rang bo'lib qolgani shuni bildiradi.",
+  "wrong": {
+   "pain": "«pain» — og'riq; bu yerda terining rangi haqida gap ketmoqda.",
+   "blood": "«blood» — qon; bu yerda teri ostidagi ko'karish haqida.",
+   "injury": "«injury» — jarohat; «bruise» aniqroq rangni ko'rsatadi."
+  }
+ },
+ {
+  "why": "«exhausted» — juda charchagan. Gapda «without energy» bor: ikki soat yugurgandan keyin butun tana quvvatsiz qoladi.",
+  "wrong": {
+   "bored": "«bored» — zerikkan; bu yerda issiqda yugurish natijasidagi jismoniy holsizlik.",
+   "annoyed": "«annoyed» — jahli chiqqan; gap jismoniy charchoq haqida.",
+   "frightened": "«frightened» — qo'rqqan; bu yerda energiya yo'qligi aytilyapti."
+  }
+ },
+ {
+  "why": "«delighted» — juda xursand, mamnun. Gapda «highest grade» bor: eng yuqori baho olgan o'quvchi xursand bo'ladi.",
+  "wrong": {
+   "disappointed": "«disappointed» — ko'ngli qolgan; eng yaxshi baho uchun bu mos kelmaydi.",
+   "confused": "«confused» — dovdirab qolgan; yuqori baho xursandchilik keltiradi.",
+   "suspicious": "«suspicious» — gumonsiragan; bu yerda faqat ijobiy quvonch bor."
+  }
+ },
+ {
+  "why": "«burn» — kuyish. Gapda «hot oil» va «very red» bor: issiq moy barmoqni qizartirib kuydiradi.",
+  "wrong": {
+   "cut": "«cut» — kesish; bu yerda issiq moy haqida gap ketmoqda.",
+   "bleed": "«bleed» — qonash; moydan teri qizaradi, qonamaydi.",
+   "hurt": "«hurt» — og'ritmoq; «burn» kuyganini aniqroq bildiradi."
+  }
+ },
+ {
+  "why": "«disappointed» — hafsalasi pir bo'lgan. Gapda «forgot my birthday» bor: do'st tug'ilgan kunni unutsa, ko'ngil qoladi.",
+  "wrong": {
+   "delighted": "«delighted» — xursand; unutish yaxshi emas.",
+   "relieved": "«relieved» — xotirjam bo'lgan; bu yerda xafa holat bor.",
+   "satisfied": "«satisfied» — qoniqqan; xabar kelmagani uchun qoniqish yo'q."
+  }
+ },
+ {
+  "why": "«frightened» — qo'rqqan. Gapda «tremble with sudden fear» bor: qorong'u bog'da titrash qo'rquvni bildiradi.",
+  "wrong": {
+   "bored": "«bored» — zerikkan; titrash zerikishdan bo'lmaydi.",
+   "tired": "«tired» — charchagan; bu yerda aniq qo'rquv bor.",
+   "interested": "«interested» — qiziqqan; qo'rquv holatiga mos emas."
+  }
+ },
+ {
+  "why": "«boring» — zerikarli. Gapda «fell asleep» bor: hujjatli film shunchalik zerikarli ediki, uxlab qoldi.",
+  "wrong": {
+   "interesting": "«interesting» — qiziqarli; qiziqarli kinoda uxlab qolishmaydi.",
+   "surprising": "«surprising» — ajablanarli; uxlashga sabab emas.",
+   "confusing": "«confusing» — tushunarsiz; film zerikarli bo'lgani aytilgan."
+  }
+ },
+ {
+  "why": "«picnic» — piknik, sayr qilib ovqatlanish. Gapda «eating sandwiches and fruit» by the river bor.",
+  "wrong": {
+   "walk": "«walk» — piyoda sayr; faqat ovqatlanish haqida ham gap bor.",
+   "dance": "«dance» — raqs; daryo bo'yida ovqatlanish bu piknik.",
+   "chess": "«chess» — shaxmat; ovqatlanishga mos kelmaydi."
+  }
+ },
+ {
+  "why": "«interactive whiteboard» — interaktiv doska. Gapda «wrote important dates on... screen» bor.",
+  "wrong": {
+   "noticeboard": "«noticeboard» — e'lonlar taxtasi; darsda unga yozilmaydi.",
+   "desk": "«desk» — parta; ekran emas.",
+   "canteen": "«canteen» — oshxona; dars o'tiladigan joy emas."
+  }
+ },
+ {
+  "why": "«beard» — soqol. Gapda «facial hair growing on his chin» bor: iyakdagi soqol nazarda tutilmoqda.",
+  "wrong": {
+   "moustache": "«moustache» — mo'ylov; u faqat burun ostida bo'ladi.",
+   "hair": "«hair» — boshdagi soch; bu yerda yuz haqida.",
+   "jumper": "«jumper» — jemper, kiyim; soqol kiyim emas."
+  }
+ },
+ {
+  "why": "«confused» — tushunmay dovdirab qolgan. Gapda «made no sense» bor: qoidalar mantiqsiz bo'lsa, odam tushunmay qoladi.",
+  "wrong": {
+   "satisfied": "«satisfied» — qoniqqan; tushunarsiz narsadan qoniqish hosil bo'lmaydi.",
+   "proud": "«proud» — faxrlangan; bu yerda tushunmovchilik bor.",
+   "relieved": "«relieved» — xotirjam tortgan; qoidalar qiyin bo'lsa xotirjam bo'lmaydi."
+  }
+ },
+ {
+  "why": "«canteen» — maktab oshxonasi. Gapda «where students eat lunch» bor.",
+  "wrong": {
+   "gym": "«gym» — sport zali; u yerda ovqat yeyilmaydi.",
+   "corridor": "«corridor» — yo'lak; ovqatlanish joyi emas.",
+   "reception": "«reception» — qabulxona; ovqatlanilmaydi."
+  }
+ },
+ {
+  "why": "«chemistry» — kimyo fani. Gapda «mixing colorful liquids in glass tubes» bor: probirkalarda suyuqlik aralashtirish kimyoda bo'ladi.",
+  "wrong": {
+   "geography": "«geography» — geografiya; suyuqliklar aralashtirilmaydi.",
+   "drama": "«drama» — drama to'garagi; bu fan emas.",
+   "music": "«music» — musiqa; suyuqliklarga aloqasi yo'q."
+  }
+ },
+ {
+  "why": "«sprain» — to'piqni qayirib olish, cho'zish. Gapda «tripped... and hurt his ankle» bor: yurayotganda to'piqqa ziyon yetishi sprain bo'ladi.",
+  "wrong": {
+   "burn": "«burn» — kuyish; qadam bosish bilan kuyish bo'lmaydi.",
+   "cut": "«cut» — kesish; oyoq kiyim ichida kesilish kam bo'ladi.",
+   "bruise": "«bruise» — ko'karish; to'piq chiqishi yoki qayrilishi sprain deyiladi."
+  }
+ },
+ {
+  "why": "«embarrassed» — uyalib qolgan. Gapda «red in the face after dropping my tray» bor: hamma oldida patnisni tushirib yuborgan odam uyalib qizaradi.",
+  "wrong": {
+   "proud": "«proud» — faxrlangan; patnis tushib ketishidan faxrlanmaydi.",
+   "relieved": "«relieved» — xotirjam; noqulay vaziyatda xotirjam bo'lmaydi.",
+   "excited": "«excited» — hayajonlangan; uyatdan yuz qizarishi boshqa narsa."
+  }
+ },
+ {
+  "why": "«wavy» — to‘lqinsimon, to‘lqinli. Gapda «soft, rounded curves» bor: yumshoq va egri chiziqlar sochlarning to‘lqinli ekanini bildiradi.",
+  "wrong": {
+   "straight": "«straight» — tekis, to‘g‘ri; bu yerda yumshoq egri chiziqlar haqida ketmoqda.",
+   "short": "«short» — kalta; gapda sochlar orqaga tushishi haqida aytilgan, demak ular uzun.",
+   "dark": "«dark» — to‘q rangli; bu so‘z sochning shaklini emas, rangini bildiradi."
+  }
+ },
+ {
+  "why": "«board games» — stol o'yinlari. Gapda «rolled dice to move our wooden pieces» bor: zar tashlab o'ynaladigan o'yinlar.",
+  "wrong": {
+   "video games": "«video games» — kompyuter o'yinlari; bu yerda yog'och o'yinchoq va gilam bor.",
+   "chess": "«chess» — shaxmat; faqat shaxmat emas, zar tashlash ham bor.",
+   "bowling": "«bowling» — bouling; gilamda o'ynalmaydi."
+  }
+ },
+ {
+  "why": "«jumper» — jemper, to'qima issiq kiyim. Gapda «warm woolen knitted top with long sleeves» bor.",
+  "wrong": {
+   "jacket": "«jacket» — jaket; knitted top so'ziga to'liq mos kelmaydi.",
+   "coat": "«coat» — palto; uyda o'tirishga og'irlik qiladi.",
+   "shirt": "«shirt» — ko'ylak; jun bo'lmasligi mumkin."
+  }
+ },
+ {
+  "why": "«suspicious» — shubhali. Gapda «with great doubt» va «strange footprints» bor: g'alati izlarga shubha bilan qarashadi.",
+  "wrong": {
+   "delighted": "«delighted» — xursand; g'alati izlardan xursand bo'lishmaydi.",
+   "bored": "«bored» — zerikkan; politsiya ishida zerikishmaydi.",
+   "tired": "«tired» — charchagan; bu yerda shubha hissi muhim."
+  }
+ },
+ {
+  "why": "«anxious» — xavotirli, sarosimaga tushgan. Gapda «panicked» bor: pasport yo'qolganda odam xavotir olib vahima qiladi.",
+  "wrong": {
+   "bored": "«bored» — zerikkan; pasport yo'qolsa zerikib o'tirilmaydi.",
+   "proud": "«proud» — faxrlangan; yo'qotishdan faxrlanib bo'lmaydi.",
+   "satisfied": "«satisfied» — qoniqqan; vahima tushgan odam qoniqmaydi."
+  }
+ },
+ {
+  "why": "«video games» — kompyuter o'yinlari. Gapda «computer», «keyboard and a mouse» bor: bu narsalar kompyuter o'yinlari uchun kerak.",
+  "wrong": {
+   "board games": "«board games» — stol o'yinlari; kompyuterda o'ynalmaydi.",
+   "chess": "«chess» — shaxmat; bu kompyuter o'yini emas.",
+   "bowling": "«bowling» — bouleng o'yini; kompyuterda o'ynalmaydi."
+  }
+ },
+ {
+  "why": "«gym» — sport zali. Gapda «played basketball and ran fast» bor: bu harakatlar sport zalida bajariladi.",
+  "wrong": {
+   "canteen": "«canteen» — oshxona; bu yerda ovqatlanishadi, yugurishmaydi.",
+   "corridor": "«corridor» — yo'lak; bu yerda sport o'ynalmaydi.",
+   "reception": "«reception» — qabulxona; bu yerda sport bilan shug'ullanilmaydi."
+  }
+ },
+ {
+  "why": "«bleed» — qon oqmoq. Gapda «red liquid started coming out» bor: qizil suyuqlik bu qon.",
+  "wrong": {
+   "burn": "«burn» — kuyish; bu yerda shisha qizil suyuqlik chiqargani haqida gap ketmoqda.",
+   "bruise": "«bruise» — ko'karish; bu qizil suyuqlik oqishi emas.",
+   "hurt": "«hurt» — og'ritmoq; suyuqlik chiqishini bildirmaydi."
+  }
+ },
+ {
+  "why": "«coat» — palto. Gapda «warm outer garment with buttons over her school dress» bor: ustki kiyim bu palto.",
+  "wrong": {
+   "jumper": "«jumper» — jemper; bu qalin ustki kiyim emas.",
+   "shirt": "«shirt» — ko'ylak; u ustki issiq kiyim emas.",
+   "trousers": "«trousers» — shim; u ko'ylak ustidan kiyilmaydi."
+  }
+ },
+ {
+  "why": "«corridor» — yo'lak. Gapda «long passage inside the school building» bor: uzun o'tish joyi bu yo'lak.",
+  "wrong": {
+   "gym": "«gym» — sport zali; bu o'tish yo'lagi emas.",
+   "canteen": "«canteen» — oshxona; bu uzun yo'lak emas.",
+   "reception": "«reception» — qabulxona; bu bino ichidagi yo'lak emas."
+  }
+ },
+ {
+  "why": "«relieved» — xotirjam bo'lgan, tashvishdan qutulgan. Gapda «cat came back home safely» bor: mushuk sog'-salomat kelgani uchun ko'ngli xotirjam bo'ladi.",
+  "wrong": {
+   "annoyed": "«annoyed» — jahli chiqqan; yaxshi xabardan jahli chiqmaydi.",
+   "disappointed": "«disappointed» — ko'ngli qolgan; bu ijobiy xabar.",
+   "upset": "«upset» — hafa bo'lgan; mushuk topilgani uchun xafa bo'lmaydi."
+  }
+ },
+ {
+  "why": "«textbook» — darslik. Gapda «printed books and read page forty» bor: bosma kitob bu darslik.",
+  "wrong": {
+   "laptop": "«laptop» — noutbuk; bu bosma kitob emas.",
+   "interactive whiteboard": "«interactive whiteboard» — interaktiv doska; u sahifalari bor kitob emas.",
+   "noticeboard": "«noticeboard» — e'lonlar taxtasi; bu darslik emas."
+  }
+ },
+ {
+  "why": "«moustache» — mo'ylov. Gapda «upper lip right beneath his nose» bor: burun tagidagi soch bu mo'ylov.",
+  "wrong": {
+   "beard": "«beard» — soqol; u jag'da bo'ladi, burun tagida emas.",
+   "hair": "«hair» — soch; bu lab ustidagi sochlarga ishlatilmaydi.",
+   "jumper": "«jumper» — jemper; bu yuzdagi tuklar emas."
+  }
+ },
+ {
+  "why": "«playing field» — o'yin maydoni. Gapda «outdoor area behind the school» va «flowers and benches» bor: maktab ortidagi ochiq maydon.",
+  "wrong": {
+   "gym": "«gym» — sport zali; u binoning ichida bo'ladi.",
+   "corridor": "«corridor» — yo'lak; u bino ichida bo'ladi.",
+   "canteen": "«canteen» — oshxona; u gul ekiladigan ochiq maydon emas."
+  }
+ },
+ {
+  "why": "«interesting» — qiziqarli. Gapda «fascinating historical stories» bor: ajoyib hikoyalar odamga qiziq tuyuladi.",
+  "wrong": {
+   "boring": "«boring» — zerikarli; qiziqarli hikoyalar zerikarli bo'lmaydi.",
+   "tiring": "«tiring» — charchatadigan; hikoyalar haqida bunday deyilmagan.",
+   "confusing": "«confusing» — tushunarsiz; hamma ko'zini katta ochib tinglagani uchun bu to'g'ri kelmaydi."
+  }
+ },
+ {
+  "why": "«skateboarding» — skeytbord uchish. Gapda «wooden board with four small wheels» bor: to'rt g'ildirakli taxta bu skeytbord.",
+  "wrong": {
+   "bowling": "«bowling» — bouleng; u taxta va g'ildiraklardan iborat emas.",
+   "ice skating": "«ice skating» — muzda uchish; bu g'ildirakli taxta emas.",
+   "dance": "«dance» — raqs; u g'ildirakli taxtaga aloqador emas."
+  }
+ },
+ {
+  "why": "«staff room» — o'qituvchilar xonasi. Gapda «Teachers go to this quiet room... to rest» bor: o'qituvchilar dam oladigan xona.",
+  "wrong": {
+   "reception": "«reception» — qabulxona; bu faqat o'qituvchilar dam oladigan xona emas.",
+   "canteen": "«canteen» — oshxona; bu tinchgina dam oladigan xona emas.",
+   "gym": "«gym» — sport zali; u choy ichib dam oladigan joy emas."
+  }
+ },
+ {
+  "why": "«leggings» — legins (tor ishton). Gapda «tight stretchy trousers made of cotton for fitness» bor: jismoniy mashq uchun tor ishton.",
+  "wrong": {
+   "trousers": "«trousers» — oddiy shim; u juda tor va egiluvchan bo'lmaydi.",
+   "shirt": "«shirt» — ko'ylak; bu oyoqqa kiyiladigan shim emas.",
+   "jacket": "«jacket» — kurtka; bu tana uchun, oyoq uchun emas."
+  }
+ },
+ {
+  "why": "«exhausted» — juda charchagan. Gapda «not slept for thirty hours» bor: o'ttiz soat uxlamagan odam juda charchaydi.",
+  "wrong": {
+   "bored": "«bored» — zerikkan; uxlamagani uchun emas, ish ko'pligidan charchagan.",
+   "interested": "«interested» — qiziqqan; bu holat uyqusizlikka mos kelmaydi.",
+   "worried": "«worried» — xavotirlangan; asosiy muammo charchoq."
+  }
+ },
+ {
+  "why": "«bored» — zerikkan. Gapda «Nothing was happening... people started leaving early» bor: qiziq voqea bo'lmagani uchun odamlar zerikkan.",
+  "wrong": {
+   "exhausted": "«exhausted» — holdan toygan; odamlar ishlagani uchun emas, tomosha zerikarli bo'lgani uchun ketishgan.",
+   "interested": "«interested» — qiziqqan; agar qiziqqanida ketishmas edi.",
+   "worried": "«worried» — tashvishlangan; bu yerda qo'rqinchli holat yo'q."
+  }
+ },
+ {
+  "why": "«anxious» — xavotirga tushgan. Gapda «left my passport... just two hours before our flight» bor: parvoz oldidan pasportni unutish bu xavotir.",
+  "wrong": {
+   "proud": "«proud» — faxrlangan; pasportni unutib xursand bo'linmaydi.",
+   "relieved": "«relieved» — xotirjam bo'lgan; bu yoqimsiz vaziyat.",
+   "satisfied": "«satisfied» — mamnun; xato tufayli qoniqish hosil qilinmaydi."
+  }
+ },
+ {
+  "why": "«proud» — faxrlangan. Gapda «won the national piano competition» bor: tanlovda g'olib chiqqan odam o'zi bilan faxrlanadi.",
+  "wrong": {
+   "anxious": "«anxious» — xavotirlangan; yutib chiqqach xavotir olinmaydi.",
+   "relieved": "«relieved» — xotirjam bo'lgan; g'alaba faxr tuyg'usini beradi.",
+   "satisfied": "«satisfied» — mamnun; yirik g'alaba uchun «proud» so'zi aniqroq mos keladi."
+  }
+ },
+ {
+  "why": "«relieved» — xotirjam bo'lgan. Gapda «finally found my lost wallet... right before paying» bor: yo'qolgan narsa topilganda odam xotirjam bo'ladi.",
+  "wrong": {
+   "anxious": "«anxious» — xavotirlangan; hamyon topilgandan keyin xavotir ketadi.",
+   "proud": "«proud» — faxrlangan; bu yerda yutuq emas, yo'qotib topish haqida.",
+   "satisfied": "«satisfied» — mamnun; xavotirdan qutulish hissi bu «relieved»."
+  }
+ },
+ {
+  "why": "«satisfied» — mamnun, ko'ngli to'q. Gapda «finished cleaning... looks wonderfully neat and tidy» bor: tozalikdan keyingi holatdan odam mamnun bo'ladi.",
+  "wrong": {
+   "anxious": "«anxious» — xavotirlangan; ish tugagach xavotir bo'lmaydi.",
+   "proud": "«proud» — faxrlangan; uy tozalash uchun bu so'z biroz baland keladi.",
+   "relieved": "«relieved» — qo'rquv yoki yomon narsadan xalos bo'lgandagi xotirjamlik."
+  }
+ },
+ {
+  "why": "«interesting» — qiziqarli. Gapda «fascinating... watched it twice» bor: juda ajoyib bo'lgani uchun uni ikki marta ko'rgan, demak u qiziqarli.",
+  "wrong": {
+   "boring": "«boring» — zerikarli; kimdir zerikarli narsani ikki marta ko'rmaydi.",
+   "tiring": "«tiring» — charchatadigan; bu maqtovli holatga mos kelmaydi.",
+   "confusing": "«confusing» — tushunarsiz; tushunarsiz narsani qayta ko'rishmaydi."
+  }
+ },
+ {
+  "why": "«canteen» — oshxona. Gapda «buy a warm snack» bor: issiq tamaddi sotib oladigan joy bu maktab oshxonasi.",
+  "wrong": {
+   "corridor": "«corridor» — yo‘lak; bu yerda ovqat sotib olinmaydi.",
+   "reception": "«reception» — qabulxona; u ovqatlanish joyi emas.",
+   "gym": "«gym» — sport zali; bu yerda ovqat sotilmaydi."
+  }
+ },
+ {
+  "why": "«chemistry» — kimyo fani. Gapda «science experiments» bor: ilmiy tajribalar aynan kimyo fanida o‘tkaziladi.",
+  "wrong": {
+   "geography": "«geography» — geografiya; bu yerda tajribalar o‘tkazilmaydi.",
+   "drama": "«drama» — aktyorlik yoki teatr fani; tajribalarga aloqasi yo‘q.",
+   "music": "«music» — musiqa; bu fanda ilmiy tajribalar qilinmaydi."
+  }
+ },
+ {
+  "why": "«ice skating» — muzda uchish. Gapda «lake freezes completely» bor: muzlagan ko‘lda muzda uchish bilan shug‘ullaniladi.",
+  "wrong": {
+   "bowling": "«bowling» — bouling o‘yini; u muz ustida o‘ynalmaydi.",
+   "skateboarding": "«skateboarding» — skeytbordda uchish; bu qishda muzda bajarilmaydi.",
+   "board games": "«board games» — stol o‘yinlari; ular muz ustida o‘ynalmaydi."
+  }
+ },
+ {
+  "why": "«interactive whiteboard» — interaktiv doska. Gapda «wrote the difficult grammar rules clearly» va «front of the room» bor: qoidalar sinfdagi katta doskaga yoziladi.",
+  "wrong": {
+   "noticeboard": "«noticeboard» — e'lonlar taxtasi; unga darsda qoidalar yozilmaydi.",
+   "desk": "«desk» — parta; o‘qituvchi unga dars qoidalarini yozmaydi.",
+   "laptop": "«laptop» — noutbuk; bu xonaning old qismida osig‘liq bo‘ladigan doska emas."
+  }
+ },
+ {
+  "why": "«coat» — palto. Gapda «heavy winter ... on the rack» bor: qishda kiyiladigan og‘ir kiyim bu palto.",
+  "wrong": {
+   "jumper": "«jumper» — jemper; u odatda qishki palto kabi ilib qo‘yiladigan tashqi kiyim emas.",
+   "shirt": "«shirt» — ko‘ylak; u qishda osib qo‘yiladigan og‘ir tashqi kiyim emas.",
+   "trousers": "«trousers» — shim; uni ilmoqqa ilishmaydi."
+  }
+ },
+ {
+  "why": "«moustache» — mo‘ylov. Gapda «above his upper lip» bor: yuqori lab ustida o‘sadigan tuk bu mo‘ylov.",
+  "wrong": {
+   "beard": "«beard» — soqol; u lab ustida emas, iyakda o‘sadi.",
+   "hair": "«hair» — soch; u boshda bo‘ladi.",
+   "hat": "«hat» — bosh kiyim; u lab ustida o‘smaydi."
+  }
+ },
+ {
+  "why": "«proud» — faxrlangan. Gapda «winning the national championship» bor: chempionatda g‘alaba qozongan o‘yinchi o‘zi bilan faxrlanadi.",
+  "wrong": {
+   "ashamed": "«ashamed» — uyalgan; g‘alaba qozongan odam uyalmaydi.",
+   "anxious": "«anxious» — xavotirlangan; yutgan odam xavotir olmaydi.",
+   "confused": "«confused» — sarosimaga tushgan; bu g‘alaba quvonchiga mos kelmaydi."
+  }
+ },
+ null,
+ {
+  "why": "«delighted» — juda xursand. Gapda «wonderful birthday gifts» va «unexpectedly arrived» bor: ajoyib sovg‘alar olgan odam juda xursand bo‘ladi.",
+  "wrong": {
+   "disappointed": "«disappointed» — hafsalasi pir bo‘lgan; ajoyib sovg‘adan hafsala pir bo‘lmaydi.",
+   "disgusted": "«disgusted» — jig‘iri chiqqan yoki nafratlangan; bu ijobiy vaziyatga mos emas.",
+   "annoyed": "«annoyed» — jahli chiqqan; sovg‘a olgan odam jahri chiqmaydi."
+  }
+ },
+ {
+  "why": "«embarrassed» — uyalib qolgan. Gapda «accidentally dropped her ice cream» bor: muzqaymoqni tushirib yuborgan qiz uyalib qoladi.",
+  "wrong": {
+   "frightened": "«frightened» — qo‘rqqan; muzqaymoq tushishidan qo‘rqishmaydi.",
+   "suspicious": "«suspicious» — shubhali; bu holatga mos kelmaydi.",
+   "relieved": "«relieved» — yengil tortgan; xatodan keyin bu tuyg‘u bo‘lmaydi."
+  }
+ },
+ {
+  "why": "«look at» — qaramoq. Gapda «stop talking and ... the blackboard» bor: darsda doskaga qarash kerak.",
+  "wrong": {
+   "ask for": "«ask for» — so‘ramoq; doskani so‘rab bo‘lmaydi.",
+   "find out": "«find out» — aniqlamoq; doskani aniqlab bo‘lmaydi.",
+   "put back": "«put back» — joyiga qo‘ymoq; doska joyiga qo‘yilmaydi."
+  }
+ },
+ {
+  "why": "«own up» — tan olmoq. Gapda «nobody confessed» va «the truth» bor: haqiqatni tan olish kerak.",
+  "wrong": {
+   "get over": "«get over» — yengib o‘tmoq; haqiqatni yengib o‘tilmaydi.",
+   "talk about": "«talk about» — haqida gapirmoq; bu yerda aybni tan olish talab qilinyapti.",
+   "put back": "«put back» — joyiga qo‘ymoq; ma'nosi to‘g‘ri kelmaydi."
+  }
+ },
+ {
+  "why": "«jacket» — kurtka. Gapda «black leather» va «morning» bor: charm kurtka tongda kiyishga mos keladi.",
+  "wrong": {
+   "jumper": "«jumper» — jemper; u charm bo‘lmaydi.",
+   "sweatshirt": "«sweatshirt» — sport sviteri; u charm materialdan tikilmaydi.",
+   "shirt": "«shirt» — ko‘ylak; u charm bo‘lmaydi."
+  }
+ },
+ {
+  "why": "«noticeboard» — e'lonlar taxtasi. Gapda «check the school schedule» va «near the entrance» bor: jadval e'lonlar taxtasiga osiladi.",
+  "wrong": {
+   "interactive whiteboard": "«interactive whiteboard» — interaktiv doska; dars jadvali unga yozilmaydi.",
+   "desk": "«desk» — parta; unga jadval qo‘yilmaydi.",
+   "whiteboard": "«whiteboard» — oq doska; jadval odatda e'lonlar taxtasida bo‘ladi."
+  }
+ },
+ {
+  "why": "«satisfied» — mamnun. Gapda «working hard» va «final result» bor: yaxshi ishlagan loyiha natijasidan odam mamnun bo‘ladi.",
+  "wrong": {
+   "annoyed": "«annoyed» — jahli chiqqan; yaxshi natijadan jahil chiqmaydi.",
+   "disappointed": "«disappointed» — hafsalasi pir bo‘lgan; ko‘p mehnat qilgandan keyin natija yomon bo‘lmasa, bu his bo‘lmaydi.",
+   "shocked": "«shocked» — shokka tushgan; bu yerda mehnat natijasidagi ijobiy tuyg‘u kerak."
+  }
+ },
+ {
+  "why": "«board games» — stol o‘yinlari. Gapda «checkers and dominoes» bor: shashka va domino bu stol o‘yinlari.",
+  "wrong": {
+   "video games": "«video games» — video o‘yinlar; ular shashka va domino kabi an'anaviy emas.",
+   "chess": "«chess» — shaxmat; bu ko‘plikdagi umumiy o‘yin turi emas, aniq bitta o‘yin.",
+   "bowling": "«bowling» — bouling; u uy ichidagi stol o‘yini emas."
+  }
+ },
+ {
+  "why": "«put back» — joyiga qo‘ymoq. Gapda «library books on the correct shelf» bor: kitoblarni o‘z javoniga qaytarib qo‘yish kerak.",
+  "wrong": {
+   "find out": "«find out» — aniqlamoq; kitobni javonga aniqlab qo‘yilmaydi.",
+   "look at": "«look at» — qaramoq; kitob javonga qaralmaydi.",
+   "ask for": "«ask for» — so‘ramoq; ma'nosi mos kelmaydi."
+  }
+ },
+ {
+  "why": "«leggings» — leggins (tor shim). Gapda «school hike through the mountains» bor: tog‘ga yurganda qulay kiyim bu leggins.",
+  "wrong": {
+   "shirt": "«shirt» — ko‘ylak; u turinga kiyilmaydi.",
+   "coat": "«coat» — palto; tog‘ yurishiga mos emas.",
+   "tie": "«tie» — galstuk; bu yurish uchun qulay kiyim emas."
+  }
+ },
+ {
+  "why": "«get over» — tuzalib ketmoq. Gapda «bad cold» va «stay in bed and drink hot tea» bor: shamollashdan tuzalish uchun vaqt kerak.",
+  "wrong": {
+   "own up": "«own up» — tan olmoq; kasallik tan olinmaydi.",
+   "find out": "«find out» — aniqlamoq; kasallik aniqlab qo‘yilmaydi.",
+   "put back": "«put back» — joyiga qo‘ymoq; ma'nosi noto‘g‘ri."
+  }
+ },
+ {
+  "why": "«find out» — bilib olmoq (aniqlamoq). Gapda «when the next fast train ... departs» bor: poyezd qachon ketishini bilib olishimiz kerak.",
+  "wrong": {
+   "put back": "«put back» — joyiga qo‘ymoq; vaqtni joyiga qo‘yib bo‘lmaydi.",
+   "look at": "«look at» — qaramoq; faqat qarash yetarli emas, poyezd vaqtini aniqlash kerak.",
+   "own up": "«own up» — tan olmoq; bu yerda ma'no mos kelmaydi."
+  }
+ },
+ {
+  "why": "«wavy» — to‘lqinsimon. Gapda «long and naturally» va «wonderful in family photographs» bor: fotosuratdagi chiroyli uzun soch to‘lqinsimon bo‘ladi.",
+  "wrong": {
+   "short": "«short» — kalta; gapda soch juda uzun ekanligi aytilgan.",
+   "straight": "«straight» — tekis; matnda soch tabiatan to‘lqinsimon ekani ko‘rsatilgan.",
+   "dark": "«dark» — qora; bu yerda sochning tuzilishi haqida so‘z bormoqda."
+  }
+ },
+ {
+  "why": "«disappointed» — hafsalasi pir bo‘lgan. Gapda «missing three important penalty kicks» bor: penaltilarni gol ura olmagan futbolchining hafsalasi pir bo‘ladi.",
+  "wrong": {
+   "delighted": "«delighted» — xursand; uchta penaltini o‘tkazib yuborgan odam xursand bo‘lmaydi.",
+   "proud": "«proud» — faxrlangan; yomon o‘yin uchun odam faxrlanmaydi.",
+   "excited": "«excited» — hayajonlangan; bu yerda yomon natijadan keyingi xafa holat kerak."
+  }
+ },
+ {
+  "why": "«exhausted» — juda charchagan. Gapda «running for forty minutes in the summer heat» bor: issiqda qirq daqiqa yugurgan bola butunlay charchaydi.",
+  "wrong": {
+   "excited": "«excited» — hayajonlangan; uzoq yugurish odamni xursand qilmaydi, balki toliqtiradi.",
+   "annoyed": "«annoyed» — jahli chiqqan; bu yerda jismoniy charchoq haqida gap ketmoqda.",
+   "frightened": "«frightened» — qo‘rqqan; yugurishdan qo‘rqishmaydi."
+  }
+ },
+ {
+  "why": "«delighted» — xursand, mamnun. Gapda «very funny story» bor: juda kulgili hikoya tinglovchini xursand qiladi.",
+  "wrong": {
+   "disgusted": "«disgusted» — jirkanch; kulgili hikoya jirkanish keltirib chiqarmaydi.",
+   "anxious": "«anxious» — xavotirli; kulgili voqea xavotir uyg‘otmaydi.",
+   "confused": "«confused» — gangigan; hikoya juda kulgili bo‘lgani uchun tushunarsiz emas."
+  }
+ },
+ {
+  "why": "«chemistry» — kimyo fani. Gapda «mix chemicals safely» bor: kimyoviy moddalar kimyo darsida aralashtiriladi.",
+  "wrong": {
+   "geography": "«geography» — geografiya; bu darsda xaritalar o‘rganiladi, kimyoviy moddalar emas.",
+   "drama": "«drama» — drama yoki aktyorlik; bu yerda kimyo haqida gap ketmoqda.",
+   "music": "«music» — musiqa; bu darsda qo‘shiq aytiladi."
+  }
+ },
+ {
+  "why": "«moustache» — mo‘ylov. Gapda «on her upper lip» bor: yuqori labda faqat mo‘ylov o‘sadi.",
+  "wrong": {
+   "beard": "«beard» — soqol; u jag‘ va pastki yuz qismida bo‘ladi.",
+   "hair": "«hair» — soch; u labda emas, boshda o‘sadi.",
+   "jumper": "«jumper» — jemper; bu kiyim turi, labga o‘smaydi."
+  }
+ },
+ {
+  "why": "«frightened» — qo‘rqqan. Gapda «saw a huge spider crawling on her bed» bor: o‘rnida ulkan o‘rgimchakni ko‘rgan qiz qo‘rqib ketadi.",
+  "wrong": {
+   "bored": "«bored» — zerikkan; o‘rgimchakni ko‘rib zerikishmaydi.",
+   "tired": "«tired» — charchagan; bu holat qo‘rquvga bog‘liq.",
+   "interested": "«interested» — qiziqqan; dahshatli o‘rgimchak qo‘rquv uyg‘otadi."
+  }
+ },
+ {
+  "why": "«disappointed» — hafsalasi pir bo‘lgan. Gapda «failing his driving test for the second time» bor: imtihondan yiqilgan odamning hafsalasi pir bo‘ladi.",
+  "wrong": {
+   "delighted": "«delighted» — xursand; imtihondan yiqilsa xursand bo‘lmaydi.",
+   "satisfied": "«satisfied» — qoniqqan; ikkinchi marta yiqilish qoniqish keltirmaydi.",
+   "relieved": "«relieved» — yengil tortgan; muvaffaqiyatsizlikdan yengillik sezilmaydi."
+  }
+ },
+ {
+  "why": "«hair» — soch. Gapda «comb her long grey» va «sit by the window» bor: buvilar o‘zining uzun kulrang sochlarini taroqlashadi.",
+  "wrong": {
+   "beard": "«beard» — soqol; buvilar soqol qo‘yishmaydi.",
+   "moustache": "«moustache» — mo‘ylov; ayollar mo‘ylov tarashmaydi.",
+   "hat": "«hat» — bosh kiyim; uni taroqlab bo‘lmaydi."
+  }
+ },
+ {
+  "why": "«hall» — sport zali. Gapda «played a noisy game of table tennis» bor: stol tennisi odatda maktabning sport zalida o‘ynaladi.",
+  "wrong": {
+   "corridor": "corridor — yo‘lak; u yerda sport o‘yinlarini o‘ynash taqiqlanadi.",
+   "canteen": "canteen — oshxona; u yerda ovqatlanishadi, stol tennisi o‘ynashmaydi.",
+   "classroom": "classroom — sinf xonasi; u yerda dars o‘tiladi."
+  }
+ },
+ {
+  "why": "«leggings» — lo‘ng‘i, legins shim. Gapda «comfortable cotton» va «goes jogging» bor: yugurish uchun qulay paxtali kiyim bu legins.",
+  "wrong": {}
+ },
+ {
+  "why": "«canteen» — maktab oshxonasi. Gapda «buy hot tea and tasty samsas» bor: issiq choy va somsa oshxonadan sotib olinadi.",
+  "wrong": {}
+ },
+ {
+  "why": "«curly» — jingalak. Gapda «looks like little springs» bor: kichik purjinalarga o‘xshash soch bu jingalak sochdir.",
+  "wrong": {}
+ },
+ {
+  "why": "«jumper» — jemper, issiq sviter. Gapda «thick woollen» va «freezing cold» bor: sovuq sinfda qalin jun jemper kiyiladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«whiteboard» — oq taxta. Gapda «wrote the new grammar rules on the large» bor: o‘qituvchi qoidalarni sinfdagi katta oq taxtaga yozadi.",
+  "wrong": {}
+ },
+ {
+  "why": "«embarased» — uyalib qolgan. Gapda «dropped his lunch tray in front of everyone» bor: hamma oldida tushlik patnisini tushirib yuborgan odam uyalib qoladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«moustache» — mo‘ylov. Gapda «above his lip» bor: lab ustidagi qism bu mo‘ylovdir.",
+  "wrong": {}
+ },
+ {
+  "why": "«staff» — o‘qituvchilar xonasi («staff room»). Gapda «Teachers drink coffee» bor: o‘qituvchilar dam olish xonasida qahva ichishadi.",
+  "wrong": {}
+ },
+ {
+  "why": "«relieved» — yengil tortgan, xotirjam bo‘lgan. Gapda «because she passed» bor: imtihondan o‘tgan o‘quvchi xotirjamlik va yengillik his qiladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«coat» — qishki palto. Gapda «heavy winter» va «on the hooks by the front door» bor: kirishdagi ilmoqlarga og‘ir qishki palto osiladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«bruise» — ko'karish, shilinish. Gapda «fell off her bicycle» va «on her knee» bor: velosipeddan yiqilganda tizzada ko'karish hosil bo'ladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«chemistry» — kimyo fani. Gapda «mixed different liquids in glass tubes» bor: suyuqliklar va naychalar kimyo darsida ishlatiladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«anxious» — xavotir olgan, havotirdagi. Gapda «forgot his notes at home» bor: uyda daftarni unutsangiz, taqdimot uchun xavotir olasiz.",
+  "wrong": {}
+ },
+ {
+  "why": "«gym» — sport zali. Gapda «playing basketball and indoor volleyball matches» bor: bu o'yinlar maktab sport zalida o'ynaladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«laptop» — noutbuk. Gapda «check her work emails» bor: elektron pochtani tekshirish uchun ko'chma kompyuter mos keladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«proud» — faxrlangan. Gapda «won the regional running competition» bor: musobaqada g'olib chiqqan farzandidan ota-onalar faxrlanishadi.",
+  "wrong": {}
+ },
+ {
+  "why": "«hall» — zal, dahliz. Gapda «welcome all new students» va «main» so'zlari bor: yangi o'quvchilar asosiy kirish zalida kutib olinadi.",
+  "wrong": {}
+ },
+ {
+  "why": "«find» — topmoq («find out» birikmasi). Gapda «capital city... quickly» bor: poytaxt shahrini tezda topib aniqlash kerak edi.",
+  "wrong": {}
+ },
+ {
+  "why": "«shirt» — ko'ylak. Gapda «school uniform» va «black trousers» bor: shim bilan birga maktab formasi sifatida ko'ylak kiyiladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«corridor» — yo'lak, koridor. Gapda «outside our classroom» va «noisy when students change lessons» bor: sinf tashqarisidagi yo'lak tanaffusda shovqinli bo'ladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«upset» — hafa, ranjigan. Gapda «left her favorite red notebook at home» bor: kerakli narsani uyda unutib qoldirsangiz, hafa bo'lasiz.",
+  "wrong": {}
+ },
+ {
+  "why": "«frightening» — qo'rqinchli. Gapda «horror film about ghosts» bor: arvohlar haqidagi dahshatli kino kichik bola uchun qo'rqinchli bo'ladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«wavy» — to'lqinsimon, jingalak. Gapda «hair that never stays... without gel» bor: jel yordamida tur sifatida tartibga solinadigan soch to'lqinsimon bo'ladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«burn» — kuydirmoq. Gapda «hot pan on the stove» bor: issiq tovachaga tegsangiz, qo'lingizni qattiq kuydirib olasiz.",
+  "wrong": {}
+ },
+ {
+  "why": "«chess» — shaxmat. Gapda «old wooden board» va «won three games» bor: doskada o'ynaladigan va o'yin deyiladigan narsa bu shaxmat.",
+  "wrong": {}
+ },
+ {
+  "why": "«textbook» — darslik. Gapda «listening task» va «page forty-five» bor: topshiriq bajarish uchun ingliz tili darslik kitobi ochiladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«exhausted» — juda charchagan, holdan toygan. Gapda «running five kilometers in the morning heat» bor: issiqda besh kilometr yugurgan odam qattiq charchaydi.",
+  "wrong": {}
+ },
+ {
+  "why": "«beard» — soqol. Gapda «on his chin» va «short dark hair» bor: jag'da o'sadigan sochlarning qismi bu soqol hisoblanadi.",
+  "wrong": {}
+ },
+ {
+  "why": "«canteen» — oshxona, bufet. Gapda «buy some hot tea and snacks» va «break» so'zlari bor: tanaffusda choy va yeguliklar maktab oshxonasidan sotib olinadi.",
+  "wrong": {}
+ },
+ {
+  "why": "«chemistry» — kimyo fani. Gapda «atoms and molecules» bor: atomlar va molekulalar faqat kimyo darsida o'rganiladi.",
+  "wrong": {}
+ }
+]

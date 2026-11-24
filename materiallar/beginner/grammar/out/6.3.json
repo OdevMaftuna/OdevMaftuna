@@ -1,0 +1,1211 @@
+{
+ "code": "6.3",
+ "intro": {
+  "what": "Soat (vaqtni aytish) ingliz tilida vaqtni aniq ko'rsatish va soat necha bo'lganini aytish uchun ishlatiladi.",
+  "when": [
+   "Aniq soatni aytishda ('o'clock')",
+   "Soatdan o'tgan daqiqalarni aytishda ('past')",
+   "Keyingi soatga qolgan daqiqalarni aytishda ('to')",
+   "15 daqiqa (chorak) o'tgan yoki qolganini aytishda ('quarter')",
+   "30 daqiqa (yarim) o'tganini aytishda ('half')"
+  ],
+  "structures": [
+   {
+    "label": "Aniq vaqt",
+    "formula": "It + is + [raqam] + o'clock",
+    "example_en": "It is ten o'clock.",
+    "example_uz": "Soat o'n bo'ldi."
+   },
+   {
+    "label": "O'tgan vaqt (past)",
+    "formula": "It + is + [daqiqa] + past + [soat]",
+    "example_en": "It is five past ten.",
+    "example_uz": "O'ndan besh daqiqa o'tdi."
+   },
+   {
+    "label": "Qolgan vaqt (to)",
+    "formula": "It + is + [daqiqa] + to + [soat]",
+    "example_en": "It is ten to eleven.",
+    "example_uz": "O'n birga o'n daqiqa qoldi."
+   },
+   {
+    "label": "Vaqtni so'rash",
+    "formula": "What time is it?",
+    "example_en": "What time is it?",
+    "example_uz": "Soat necha bo'ldi?"
+   },
+   {
+    "label": "Aniq paytda (at)",
+    "formula": "at + [vaqt]",
+    "example_en": "I get up at seven o'clock.",
+    "example_uz": "Men soat yettida turaman."
+   }
+  ],
+  "rules": [
+   {
+    "title": "Aniq soat qoidasi",
+    "text": "Faqat butun soatlarni aytganda 'o'clock' so'zi ishlatiladi.",
+    "examples": [
+     {
+      "en": "It is eight o'clock.",
+      "uz": "Soat sakkiz bo'ldi."
+     },
+     {
+      "en": "It is two o'clock.",
+      "uz": "Soat ikki bo'ldi."
+     }
+    ]
+   },
+   {
+    "title": "Chorak va yarim qoidasi",
+    "text": "15 daqiqa uchun 'quarter' va 30 daqiqa uchun 'half' so'zlari ishlatiladi.",
+    "examples": [
+     {
+      "en": "It is quarter past ten.",
+      "uz": "O'ndan chorak o'tdi."
+     },
+     {
+      "en": "It is half past ten.",
+      "uz": "O'ndan yarim o'tdi (o'n yarim)."
+     }
+    ]
+   },
+   {
+    "title": "'At' predlogi",
+    "text": "Aniq bir vaqtni aytganda 'at' so'zi vaqt oldidan qo'yiladi.",
+    "examples": [
+     {
+      "en": "I have breakfast at seven o'clock.",
+      "uz": "Men soat yettida nonushta qilaman."
+     },
+     {
+      "en": "The lesson starts at nine o'clock.",
+      "uz": "Dars soat to'qqizda boshlanadi."
+     }
+    ]
+   }
+  ],
+  "signal_words": [
+   {
+    "en": "What time?",
+    "uz": "Soat necha?"
+   },
+   {
+    "en": "o'clock",
+    "uz": "soat (butun)"
+   },
+   {
+    "en": "past",
+    "uz": "o'tdi"
+   },
+   {
+    "en": "to",
+    "uz": "qoldi"
+   },
+   {
+    "en": "quarter",
+    "uz": "chorak (15 min)"
+   },
+   {
+    "en": "half",
+    "uz": "yarim (30 min)"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "It is ten past eleven o'clock.",
+    "right": "It is ten past eleven.",
+    "why": "'Past' yoki 'to' ishlatilganda 'o'clock' so'zi qo'shilmaydi."
+   },
+   {
+    "wrong": "It is five to ten.",
+    "right": "It is five past ten.",
+    "why": "Agar daqiqa soatdan o'tgan bo'lsa 'past', qolgan bo'lsa 'to' ishlatiladi."
+   },
+   {
+    "wrong": "I get up in seven o'clock.",
+    "right": "I get up at seven o'clock.",
+    "why": "Aniq vaqtlar oldidan 'in' emas, 'at' predlogi ishlatiladi."
+   }
+  ]
+ },
+ "test": [
+  {
+   "type": "fill",
+   "q": "It is ten ______.",
+   "answer": "o'clock",
+   "explain": "Butun soatlarni aytganda 'o'clock' so'zi ishlatiladi.",
+   "accept": [
+    "oclock"
+   ],
+   "hint": "o'c___"
+  },
+  {
+   "type": "fill",
+   "q": "What ______ is it?",
+   "answer": "time",
+   "explain": "Vaqtni so'rash uchun 'What time is it?' qolipi ishlatiladi.",
+   "accept": [],
+   "hint": "t___"
+  },
+  {
+   "type": "fill",
+   "q": "It is five ______ ten.",
+   "answer": "past",
+   "explain": "O'ndan besh daqiqa o'tganini aytish uchun 'past' ishlatiladi.",
+   "accept": [],
+   "hint": "p___"
+  },
+  {
+   "type": "fill",
+   "q": "It is quarter ______ ten.",
+   "answer": "past",
+   "explain": "15 daqiqa o'tganini aytish uchun 'quarter past' ishlatiladi.",
+   "accept": [],
+   "hint": "p___"
+  },
+  {
+   "type": "fill",
+   "q": "It is half ______ ten.",
+   "answer": "past",
+   "explain": "30 daqiqa o'tganini aytish uchun 'half past' ishlatiladi.",
+   "accept": [],
+   "hint": "p___"
+  },
+  {
+   "type": "fill",
+   "q": "It is ten ______ eleven.",
+   "answer": "to",
+   "explain": "O'n birga o'n daqiqa qolganini aytish uchun 'to' ishlatiladi.",
+   "accept": [],
+   "hint": "t_"
+  },
+  {
+   "type": "fill",
+   "q": "I get up ______ seven o'clock.",
+   "answer": "at",
+   "explain": "Aniq vaqtni ko'rsatishda 'at' predlogi ishlatiladi.",
+   "accept": [],
+   "hint": "a_"
+  },
+  {
+   "type": "fill",
+   "q": "It is quarter ______ eleven.",
+   "answer": "to",
+   "explain": "O'n birga chorak (15 daqiqa) qolganini aytish uchun 'quarter to' ishlatiladi.",
+   "accept": [],
+   "hint": "t_"
+  },
+  {
+   "type": "fill",
+   "q": "She goes to work ______ eight o'clock.",
+   "answer": "at",
+   "explain": "Aniq soatdan oldin 'at' predlogi ishlatiladi.",
+   "accept": [],
+   "hint": "a_"
+  },
+  {
+   "type": "fill",
+   "q": "It is twenty ______ eleven.",
+   "answer": "to",
+   "explain": "Keyingi soatga daqiqa qolganda 'to' so'zi ishlatiladi.",
+   "accept": [],
+   "hint": "t_"
+  },
+  {
+   "type": "fill",
+   "q": "It is twenty ______ ten.",
+   "answer": "past",
+   "explain": "Soatdan daqiqa o'tganda 'past' so'zi ishlatiladi.",
+   "accept": [],
+   "hint": "p___"
+  },
+  {
+   "type": "fill",
+   "q": "My lesson starts ______ nine o'clock.",
+   "answer": "at",
+   "explain": "Aniq vaqt oldidan 'at' ishlatiladi.",
+   "accept": [],
+   "hint": "a_"
+  },
+  {
+   "type": "fill",
+   "q": "It is ______ o'clock.",
+   "answer": "eight",
+   "explain": "Soat sakkizligini bildirish uchun 'eight' raqami ishlatiladi.",
+   "accept": [],
+   "hint": "e____"
+  },
+  {
+   "type": "fill",
+   "q": "We have lunch ______ twelve o'clock.",
+   "answer": "at",
+   "explain": "Aniq vaqtni aytish uchun 'at' predlogi ishlatiladi.",
+   "accept": [],
+   "hint": "a_"
+  },
+  {
+   "type": "fill",
+   "q": "It is ______ past ten.",
+   "answer": "ten",
+   "explain": "O'ndan o'n daqiqa o'tganini aytish uchun 'ten past ten' deyiladi.",
+   "accept": [],
+   "hint": "t__"
+  },
+  {
+   "type": "fill",
+   "q": "It is five ______ eight.",
+   "answer": "to",
+   "explain": "Sakkizga besh daqiqa qolganini bildirish uchun 'to' ishlatiladi.",
+   "accept": [],
+   "hint": "t_"
+  },
+  {
+   "type": "fill",
+   "q": "He goes to bed ______ ten o'clock.",
+   "answer": "at",
+   "explain": "Aniq soatni ko'rsatish uchun 'at' predlogi ishlatiladi.",
+   "accept": [],
+   "hint": "a_"
+  },
+  {
+   "type": "fill",
+   "q": "It is ______ past five.",
+   "answer": "quarter",
+   "explain": "15 daqiqani bildirish uchun 'quarter' so'zi ishlatiladi.",
+   "accept": [],
+   "hint": "q______"
+  },
+  {
+   "type": "fill",
+   "q": "It is ______ past four.",
+   "answer": "half",
+   "explain": "30 daqiqani bildirish uchun 'half' so'zi ishlatiladi.",
+   "accept": [],
+   "hint": "h___"
+  },
+  {
+   "type": "fill",
+   "q": "What time ______ it?",
+   "answer": "is",
+   "explain": "Vaqtni so'rash qolipida 'is' fe'li ishlatiladi.",
+   "accept": [],
+   "hint": "i_"
+  },
+  {
+   "type": "mc",
+   "q": "It is ten ______.",
+   "answer": "o'clock",
+   "explain": "Butun soatni aytishda 'o'clock' ishlatiladi.",
+   "options": [
+    "past",
+    "o'clock",
+    "to"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "I get up ______ seven o'clock.",
+   "answer": "at",
+   "explain": "Aniq vaqtdan oldin 'at' predlogi qo'yiladi.",
+   "options": [
+    "at",
+    "in",
+    "on"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "It is five ______ ten.",
+   "answer": "past",
+   "explain": "O'tgan daqiqalar uchun 'past' so'zi ishlatiladi.",
+   "options": [
+    "to",
+    "past",
+    "at"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "It is quarter ______ eleven.",
+   "answer": "to",
+   "explain": "Qolgan vaqtni (chorak kam) bildirish uchun 'to' ishlatiladi.",
+   "options": [
+    "past",
+    "to",
+    "clock"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ time is it?",
+   "answer": "What",
+   "explain": "Soatni so'rash uchun 'What time is it?' qolipi ishlatiladi.",
+   "options": [
+    "Where",
+    "What",
+    "How"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "It is half ______ ten.",
+   "answer": "past",
+   "explain": "Yarim soat o'tganini aytish uchun 'half past' ishlatiladi.",
+   "options": [
+    "to",
+    "past",
+    "at"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "The lesson starts ______ nine o'clock.",
+   "answer": "at",
+   "explain": "Aniq soatni bildirish uchun 'at' predlogi kerak.",
+   "options": [
+    "in",
+    "at",
+    "on"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "It is ten ______ eleven.",
+   "answer": "to",
+   "explain": "Keyingi soatga o'n daqiqa qolganini bildirish uchun 'to' ishlatiladi.",
+   "options": [
+    "past",
+    "to",
+    "at"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "It is ______ past ten.",
+   "answer": "quarter",
+   "explain": "15 daqiqa o'tganini bildirish uchun 'quarter' ishlatiladi.",
+   "options": [
+    "half",
+    "quarter",
+    "ten"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "She goes home ______ five o'clock.",
+   "answer": "at",
+   "explain": "Aniq soatdan oldin 'at' predlogi ishlatiladi.",
+   "options": [
+    "at",
+    "in",
+    "to"
+   ]
+  }
+ ],
+ "model": "gemini-3.5-flash-lite",
+ "tr1": [
+  {
+   "part": 0,
+   "uz": "Soat yetti.",
+   "en": [
+    "It is seven o'clock."
+   ],
+   "rule": "Aniq vaqtni aytish uchun o'clock so'zi ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Soat sakkiz.",
+   "en": [
+    "It is eight o'clock."
+   ],
+   "rule": "Aniq soatni aytishda It is ... o'clock ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Soat to'qqiz.",
+   "en": [
+    "It is nine o'clock."
+   ],
+   "rule": "To'qqiz bo'lganini bildirish uchun o'clock ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Soat o'n.",
+   "en": [
+    "It is ten o'clock."
+   ],
+   "rule": "O'n to'la bo'lgan vaqt."
+  },
+  {
+   "part": 0,
+   "uz": "Soat o'n bir.",
+   "en": [
+    "It is eleven o'clock."
+   ],
+   "rule": "Soat o'n bir bo'ldi."
+  },
+  {
+   "part": 0,
+   "uz": "Soat o'n ikki.",
+   "en": [
+    "It is twelve o'clock."
+   ],
+   "rule": "Tush payti yoki tun soat o'n ikki."
+  },
+  {
+   "part": 0,
+   "uz": "Soat olti.",
+   "en": [
+    "It is six o'clock."
+   ],
+   "rule": "Ertalabki yoki kechki soat olti aniq vaqt."
+  },
+  {
+   "part": 0,
+   "uz": "Soat besh.",
+   "en": [
+    "It is five o'clock."
+   ],
+   "rule": "Besh o'clock - aniq soat."
+  },
+  {
+   "part": 0,
+   "uz": "Soat to'rt.",
+   "en": [
+    "It is four o'clock."
+   ],
+   "rule": "Soat to'rt bo'ldi."
+  },
+  {
+   "part": 0,
+   "uz": "Soat uch.",
+   "en": [
+    "It is three o'clock."
+   ],
+   "rule": "Aniq soat uch."
+  },
+  {
+   "part": 0,
+   "uz": "Soat ikki.",
+   "en": [
+    "It is two o'clock."
+   ],
+   "rule": "Soat ikki to'la."
+  },
+  {
+   "part": 0,
+   "uz": "Soat bir.",
+   "en": [
+    "It is one o'clock."
+   ],
+   "rule": "Bir soat bo'lganini bildiradi."
+  },
+  {
+   "part": 0,
+   "uz": "Soat yetti bo'ldi.",
+   "en": [
+    "It is seven o'clock."
+   ],
+   "rule": "O'clock so'zi faqat aniq soatlarga ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U yerda soat o'n.",
+   "en": [
+    "It is ten o'clock there."
+   ],
+   "rule": "Joyni ko'rsatish uchun there so'zi qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Mening darsim soat sakkiz.",
+   "en": [
+    "My lesson is at eight o'clock."
+   ],
+   "rule": "Vaqtdan oldin at ko'makchisi ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Uning darsi soat to'qqiz.",
+   "en": [
+    "His lesson is at nine o'clock."
+   ],
+   "rule": "Aniq vaqt oldidan at ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bizning darsimiz soat o'n.",
+   "en": [
+    "Our lesson is at ten o'clock."
+   ],
+   "rule": "Aniq soatni bildirish uchun at ... o'clock."
+  },
+  {
+   "part": 0,
+   "uz": "Sizning darsingiz soat o'n bir.",
+   "en": [
+    "Your lesson is at eleven o'clock."
+   ],
+   "rule": "Vaqtdan oldin at qo'yiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ularning darsi soat o'n ikki.",
+   "en": [
+    "Their lesson is at twelve o'clock."
+   ],
+   "rule": "Aniq soat at bilan keladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ali soat oltida turadi.",
+   "en": [
+    "Ali gets up at six o'clock."
+   ],
+   "rule": "Kundalik ish-harakat va aniq vaqt."
+  },
+  {
+   "part": 0,
+   "uz": "Anna soat yettida ishga boradi.",
+   "en": [
+    "Anna goes to work at seven o'clock."
+   ],
+   "rule": "Vaqtni ko'rsatishda at so'zi shart."
+  },
+  {
+   "part": 0,
+   "uz": "Tom soat sakkizda nonushta qiladi.",
+   "en": [
+    "Tom has breakfast at eight o'clock."
+   ],
+   "rule": "Nonushta vaqti at bilan aytiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Aziz soat to'qqizda ishlaydi.",
+   "en": [
+    "Aziz works at nine o'clock."
+   ],
+   "rule": "Aniq vaqt at bilan keladi."
+  },
+  {
+   "part": 0,
+   "uz": "Malika soat o'nda uxlashga yotadi.",
+   "en": [
+    "Malika goes to bed at ten o'clock."
+   ],
+   "rule": "Kechki vaqtni at bilan beramiz."
+  },
+  {
+   "part": 0,
+   "uz": "Soat beshdan besh daqiqa o'tdi.",
+   "en": [
+    "It is five past five."
+   ],
+   "rule": "Daqiqa o'tganini bildirish uchun past ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Soat oltidan o'n daqiqa o'tdi.",
+   "en": [
+    "It is ten past six."
+   ],
+   "rule": "O'tgan daqiqa pastdan oldin aytiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Soat yettidan yigirma daqiqa o'tdi.",
+   "en": [
+    "It is twenty past seven."
+   ],
+   "rule": "Yigirma daqiqa o'tdi: twenty past."
+  },
+  {
+   "part": 0,
+   "uz": "Soat sakkizdan yigirma besh daqiqa o'tdi.",
+   "en": [
+    "It is twenty-five past eight."
+   ],
+   "rule": "25 daqiqa o'tganini past yordamida aytamiz."
+  },
+  {
+   "part": 0,
+   "uz": "Soat to'qqizdan besh daqiqa o'tdi.",
+   "en": [
+    "It is five past nine."
+   ],
+   "rule": "Daqiqa oldin, soat keyin keladi."
+  },
+  {
+   "part": 0,
+   "uz": "Soat o'ndan o'n daqiqa o'tdi.",
+   "en": [
+    "It is ten past ten."
+   ],
+   "rule": "O'n daqiqa o'tganini bildiradi."
+  },
+  {
+   "part": 0,
+   "uz": "Soat o'n biridan yigirma daqiqa o'tdi.",
+   "en": [
+    "It is twenty past eleven."
+   ],
+   "rule": "O'tgan vaqt past so'zi bilan yasaladi."
+  },
+  {
+   "part": 0,
+   "uz": "Soat ikkidan besh daqiqa o'tdi.",
+   "en": [
+    "It is five past two."
+   ],
+   "rule": "Besh daqiqa o'tdi."
+  },
+  {
+   "part": 0,
+   "uz": "Soat uchtan o'n daqiqa o'tdi.",
+   "en": [
+    "It is ten past three."
+   ],
+   "rule": "O'n daqiqa o'tishi ten past."
+  },
+  {
+   "part": 0,
+   "uz": "Soat to'rtdan yigirma daqiqa o'tdi.",
+   "en": [
+    "It is twenty past four."
+   ],
+   "rule": "Yigirma daqiqa o'tgan vaqt."
+  },
+  {
+   "part": 0,
+   "uz": "Soat birdan besh daqiqa o'tdi.",
+   "en": [
+    "It is five past one."
+   ],
+   "rule": "Birdan besh o'tdi."
+  },
+  {
+   "part": 0,
+   "uz": "U soat to'rtdan o'n daqiqa o'tganda keladi.",
+   "en": [
+    "He comes at ten past four."
+   ],
+   "rule": "Vaqt oldidan at ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Biz soat beshdan yigirma o'tganda ketamiz.",
+   "en": [
+    "We leave at twenty past five."
+   ],
+   "rule": "Harakat vaqti at bilan keladi."
+  },
+  {
+   "part": 0,
+   "uz": "Mening darsim o'ntadan besh o'tganda boshlanadi.",
+   "en": [
+    "My lesson is at five past ten."
+   ],
+   "rule": "Dars vaqti at yordamida ko'rsatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Uning darsi ikkidan o'n o'tganda.",
+   "en": [
+    "His lesson is at ten past two."
+   ],
+   "rule": "Aniq vaqt oldidan at keladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ularning darsi uchtan yigirma o'tganda.",
+   "en": [
+    "Their lesson is at twenty past three."
+   ],
+   "rule": "Vaqtni at bilan ifodalaymiz."
+  },
+  {
+   "part": 1,
+   "uz": "Soat to'qqizdan o'n besh daqiqa o'tdi.",
+   "en": [
+    "It is quarter past nine."
+   ],
+   "rule": "O'n besh daqiqa quarter past deb aytiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Soat o'ndan o'n besh daqiqa o'tdi.",
+   "en": [
+    "It is quarter past ten."
+   ],
+   "rule": "Chorak o'tdi ma'nosi quarter past."
+  },
+  {
+   "part": 1,
+   "uz": "Soat o'n birdan chorak o'tdi.",
+   "en": [
+    "It is quarter past eleven."
+   ],
+   "rule": "Chorak o'tishi quarter past orqali beriladi."
+  },
+  {
+   "part": 1,
+   "uz": "Soat ikkidan chorak o'tdi.",
+   "en": [
+    "It is quarter past two."
+   ],
+   "rule": "Ikkidan o'n besh daqiqa o'tdi."
+  },
+  {
+   "part": 1,
+   "uz": "Soat uchtan chorak o'tdi.",
+   "en": [
+    "It is quarter past three."
+   ],
+   "rule": "Uchdan chorak o'tdi."
+  },
+  {
+   "part": 1,
+   "uz": "Soat to'rtdan chorak o'tdi.",
+   "en": [
+    "It is quarter past four."
+   ],
+   "rule": "To'rtdan o'n besh daqiqa o'tdi."
+  },
+  {
+   "part": 1,
+   "uz": "Soat beshdan chorak o'tdi.",
+   "en": [
+    "It is quarter past five."
+   ],
+   "rule": "Beshdan chorak o'tdi."
+  },
+  {
+   "part": 1,
+   "uz": "Soat oltidan chorak o'tdi.",
+   "en": [
+    "It is quarter past six."
+   ],
+   "rule": "Oltidan chorak o'tdi."
+  },
+  {
+   "part": 1,
+   "uz": "Soat yettidan chorak o'tdi.",
+   "en": [
+    "It is quarter past seven."
+   ],
+   "rule": "Yettidan chorak o'tdi."
+  },
+  {
+   "part": 1,
+   "uz": "Soat sakkizdan chorak o'tdi.",
+   "en": [
+    "It is quarter past eight."
+   ],
+   "rule": "Sakkizdan chorak o'tdi."
+  }
+ ],
+ "tr51": [
+  {
+   "part": 1,
+   "uz": "Soat o'n birdan o'n besh daqiqa o'tdi",
+   "en": [
+    "It is a quarter past eleven."
+   ],
+   "rule": "15 daqiqa uchun quarter past so'zi ishlatiladi"
+  },
+  {
+   "part": 1,
+   "uz": "Soat sakkizdan o'ttiz daqiqa o'tdi",
+   "en": [
+    "It is half past eight."
+   ],
+   "rule": "Yarim soat uchun half past so'zi ishlatiladi"
+  },
+  {
+   "part": 1,
+   "uz": "Soat oltidan o'n besh daqiqa o'tdi",
+   "en": [
+    "It is a quarter past six."
+   ],
+   "rule": "Chorak o'tdi deyish uchun a quarter past ishlatiladi"
+  },
+  {
+   "part": 1,
+   "uz": "Soat birdan o'ttiz daqiqa o'tdi",
+   "en": [
+    "It is half past one."
+   ],
+   "rule": "Yarim soat o'tdi uchun half past bir ishlatiladi"
+  },
+  {
+   "part": 1,
+   "uz": "Soat ikkidan o'n besh daqiqa o'tdi",
+   "en": [
+    "It is a quarter past two."
+   ],
+   "rule": "15 daqiqa o'tdi deganda quarter past qo'llaniladi"
+  },
+  {
+   "part": 1,
+   "uz": "Soat to'rtdan o'ttiz daqiqa o'tdi",
+   "en": [
+    "It is half past four."
+   ],
+   "rule": "30 daqiqa o'tganini bildirish uchun half past ishlatiladi"
+  },
+  {
+   "part": 1,
+   "uz": "Soat beshdan o'n besh daqiqa o'tdi",
+   "en": [
+    "It is a quarter past five."
+   ],
+   "rule": "Chorak o'tdi iborasi a quarter past bo'ladi"
+  },
+  {
+   "part": 1,
+   "uz": "Soat o'ndan o'ttiz daqiqa o'tdi",
+   "en": [
+    "It is half past ten."
+   ],
+   "rule": "Yarim soat o'tganda half past ishlatiladi"
+  },
+  {
+   "part": 1,
+   "uz": "Soat to'qqizdan o'n besh daqiqa o'tdi",
+   "en": [
+    "It is a quarter past nine."
+   ],
+   "rule": "15 daqiqa uchun a quarter past ishlatiladi"
+  },
+  {
+   "part": 1,
+   "uz": "Soat yettidan o'ttiz daqiqa o'tdi",
+   "en": [
+    "It is half past seven."
+   ],
+   "rule": "30 daqiqa o'tganda half past qo'llaniladi"
+  },
+  {
+   "part": 1,
+   "uz": "Soat o'n ikkidan o'n besh daqiqa o'tdi",
+   "en": [
+    "It is a quarter past twelve."
+   ],
+   "rule": "Chorak o'tganini a quarter past orqali aytamiz"
+  },
+  {
+   "part": 1,
+   "uz": "Soat uchdan o'ttiz daqiqa o'tdi",
+   "en": [
+    "It is half past three."
+   ],
+   "rule": "Yarim soat uchun half past ishlatiladi"
+  },
+  {
+   "part": 1,
+   "uz": "Uchdan chorak o'tdi",
+   "en": [
+    "It is a quarter past three."
+   ],
+   "rule": "Chorak o'tdi qoidasi a quarter past"
+  },
+  {
+   "part": 1,
+   "uz": "Beshdan yarim o'tdi",
+   "en": [
+    "It is half past five."
+   ],
+   "rule": "Yarim o'tdi qoidasi half past"
+  },
+  {
+   "part": 1,
+   "uz": "O'ntadan chorak o'tdi",
+   "en": [
+    "It is a quarter past ten."
+   ],
+   "rule": "15 daqiqa o'tdi a quarter past"
+  },
+  {
+   "part": 1,
+   "uz": "Ekkidan yarim o'tdi",
+   "en": [
+    "It is half past two."
+   ],
+   "rule": "30 daqiqa o'tdi half past"
+  },
+  {
+   "part": 1,
+   "uz": "O'n birdan chorak o'tdi",
+   "en": [
+    "It is a quarter past eleven."
+   ],
+   "rule": "Chorak o'tdi qoidasi"
+  },
+  {
+   "part": 1,
+   "uz": "To'rtdan yarim o'tdi",
+   "en": [
+    "It is half past four."
+   ],
+   "rule": "Yarim soat o'tdi qoidasi"
+  },
+  {
+   "part": 1,
+   "uz": "Oltidan chorak o'tdi",
+   "en": [
+    "It is a quarter past six."
+   ],
+   "rule": "A quarter past qo'llanilishi"
+  },
+  {
+   "part": 1,
+   "uz": "Yettidan yarim o'tdi",
+   "en": [
+    "It is half past seven."
+   ],
+   "rule": "Half past ishlatilishi"
+  },
+  {
+   "part": 1,
+   "uz": "Sakkizdan chorak o'tdi",
+   "en": [
+    "It is a quarter past eight."
+   ],
+   "rule": "Chorak o'tdi qoidasi"
+  },
+  {
+   "part": 1,
+   "uz": "To'qqizdan yarim o'tdi",
+   "en": [
+    "It is half past nine."
+   ],
+   "rule": "Yarim soat qoidasi"
+  },
+  {
+   "part": 1,
+   "uz": "Berdan chorak o'tdi",
+   "en": [
+    "It is a quarter past one."
+   ],
+   "rule": "A quarter past ishlatish"
+  },
+  {
+   "part": 1,
+   "uz": "O'n ikkidan yarim o'tdi",
+   "en": [
+    "It is half past twelve."
+   ],
+   "rule": "Half past twelve"
+  },
+  {
+   "part": 1,
+   "uz": "Darsda soat o'ndan chorak o'tdi",
+   "en": [
+    "It is a quarter past ten in the lesson."
+   ],
+   "rule": "Vaqtni aytish va dars so'zi"
+  },
+  {
+   "part": 1,
+   "uz": "Uyda soat o'n birdan yarim o'tdi",
+   "en": [
+    "It is half past eleven at home."
+   ],
+   "rule": "Uyda at home va half past"
+  },
+  {
+   "part": 1,
+   "uz": "Bugun soat birdan chorak o'tdi",
+   "en": [
+    "It is a quarter past one today."
+   ],
+   "rule": "Bugun today so'zi bilan vaqt"
+  },
+  {
+   "part": 1,
+   "uz": "Hozir soat ikkidan yarim o'tdi",
+   "en": [
+    "It is half past two now."
+   ],
+   "rule": "Hozir now so'zi ishlatiladi"
+  },
+  {
+   "part": 1,
+   "uz": "Mehmonxonada soat uchdan chorak o'tdi",
+   "en": [
+    "It is a quarter past three in the hotel."
+   ],
+   "rule": "Mehmonxona in the hotel"
+  },
+  {
+   "part": 1,
+   "uz": "Oshxonada soat to'rtdan yarim o'tdi",
+   "en": [
+    "It is half past four in the kitchen."
+   ],
+   "rule": "Oshxona in the kitchen"
+  },
+  {
+   "part": 2,
+   "uz": "O'n birga o'n besh daqiqa qoldi",
+   "en": [
+    "It is a quarter to eleven."
+   ],
+   "rule": "15 daqiqa kam (qoldi) uchun quarter to ishlatiladi"
+  },
+  {
+   "part": 2,
+   "uz": "O'n ikkiga o'n besh daqiqa qoldi",
+   "en": [
+    "It is a quarter to twelve."
+   ],
+   "rule": "Chorak kam deganda quarter to ishlatiladi"
+  },
+  {
+   "part": 2,
+   "uz": "O'nga o'n besh daqiqa qoldi",
+   "en": [
+    "It is a quarter to ten."
+   ],
+   "rule": "Qoldi ma'nosida to so'zi ishlatiladi"
+  },
+  {
+   "part": 2,
+   "uz": "To'qqizga o'n besh daqiqa qoldi",
+   "en": [
+    "It is a quarter to nine."
+   ],
+   "rule": "15 daqiqa qoldi a quarter to"
+  },
+  {
+   "part": 2,
+   "uz": "Sakkizga o'n besh daqiqa qoldi",
+   "en": [
+    "It is a quarter to eight."
+   ],
+   "rule": "Quarter to qoidasi"
+  },
+  {
+   "part": 2,
+   "uz": "Yettiga o'n besh daqiqa qoldi",
+   "en": [
+    "It is a quarter to seven."
+   ],
+   "rule": "Yettiga chorak qoldi"
+  },
+  {
+   "part": 2,
+   "uz": "Oltiga o'n besh daqiqa qoldi",
+   "en": [
+    "It is a quarter to six."
+   ],
+   "rule": "Oltiga chorak kam"
+  },
+  {
+   "part": 2,
+   "uz": "Beshga o'n besh daqiqa qoldi",
+   "en": [
+    "It is a quarter to five."
+   ],
+   "rule": "Beshga chorak qoldi"
+  },
+  {
+   "part": 2,
+   "uz": "To'rtga o'n besh daqiqa qoldi",
+   "en": [
+    "It is a quarter to four."
+   ],
+   "rule": "To'rtga chorak kam"
+  },
+  {
+   "part": 2,
+   "uz": "Uchga o'n besh daqiqa qoldi",
+   "en": [
+    "It is a quarter to three."
+   ],
+   "rule": "Uchga chorak qoldi"
+  },
+  {
+   "part": 2,
+   "uz": "Ekkiga o'n besh daqiqa qoldi",
+   "en": [
+    "It is a quarter to two."
+   ],
+   "rule": "Ekkiga chorak kam"
+  },
+  {
+   "part": 2,
+   "uz": "Birga o'n besh daqiqa qoldi",
+   "en": [
+    "It is a quarter to one."
+   ],
+   "rule": "Birga chorak qoldi"
+  },
+  {
+   "part": 2,
+   "uz": "O'n birga chorak qoldi",
+   "en": [
+    "It is a quarter to eleven."
+   ],
+   "rule": "Chorak qoldi a quarter to"
+  },
+  {
+   "part": 2,
+   "uz": "O'n ikkiga chorak qoldi",
+   "en": [
+    "It is a quarter to twelve."
+   ],
+   "rule": "A quarter to twelve"
+  },
+  {
+   "part": 2,
+   "uz": "O'nga chorak qoldi",
+   "en": [
+    "It is a quarter to ten."
+   ],
+   "rule": "O'nga chorak qoldi"
+  },
+  {
+   "part": 2,
+   "uz": "To'qqizga chorak qoldi",
+   "en": [
+    "It is a quarter to nine."
+   ],
+   "rule": "To'qqizga chorak qoldi"
+  },
+  {
+   "part": 2,
+   "uz": "Sakkizga chorak qoldi",
+   "en": [
+    "It is a quarter to eight."
+   ],
+   "rule": "Sakkizga chorak qoldi"
+  },
+  {
+   "part": 2,
+   "uz": "Yettiga chorak qoldi",
+   "en": [
+    "It is a quarter to seven."
+   ],
+   "rule": "Yettiga chorak qoldi"
+  },
+  {
+   "part": 2,
+   "uz": "Oltiga chorak qoldi",
+   "en": [
+    "It is a quarter to six."
+   ],
+   "rule": "Oltiga chorak qoldi"
+  },
+  {
+   "part": 2,
+   "uz": "Beshga chorak qoldi",
+   "en": [
+    "It is a quarter to five."
+   ],
+   "rule": "Beshga chorak qoldi"
+  }
+ ]
+}

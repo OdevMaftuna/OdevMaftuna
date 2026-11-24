@@ -1,0 +1,901 @@
+{
+ "unit": 9,
+ "parts": [
+  [
+   {
+    "kind": "fix",
+    "q": "Customer: Hello. I bought this tablet last week, but there has a problem with the charger.\n→ Correct word: ______",
+    "hint": "",
+    "options": [],
+    "answer": "is",
+    "accept": [
+     "'s",
+     "there's"
+    ],
+    "phrase": "There's a problem / something wrong with ...",
+    "explain": "«There is (There's) a problem with ...» — «bor» ma'nosida «is», «has» emas.",
+    "wrong": {}
+   },
+   {
+    "kind": "fix",
+    "q": "Customer: Excuse me. There is something problem with these speakers.\n→ Correct word: ______",
+    "hint": "",
+    "options": [],
+    "answer": "wrong",
+    "accept": [],
+    "phrase": "There's a problem / something wrong with ...",
+    "explain": "«something wrong with ...» — «problem» emas, «wrong».",
+    "wrong": {}
+   },
+   {
+    "kind": "fix",
+    "q": "Assistant: I see. And what is wrong of the battery?\n→ Correct word: ______",
+    "hint": "",
+    "options": [],
+    "answer": "with",
+    "accept": [],
+    "phrase": "There's a problem / something wrong with ...",
+    "explain": "«wrong with» — predlog «with».",
+    "wrong": {}
+   },
+   {
+    "kind": "fix",
+    "q": "Customer: I bought this kettle on Monday and it has stopped work.\n→ Correct word: ______",
+    "hint": "",
+    "options": [],
+    "answer": "working",
+    "accept": [],
+    "phrase": "It doesn't work. / It has stopped working.",
+    "explain": "«stop + V-ing» — «stopped working».",
+    "wrong": {}
+   },
+   {
+    "kind": "fix",
+    "q": "Customer: I'm sorry, but this radio don't work.\n→ Correct word: ______",
+    "hint": "",
+    "options": [],
+    "answer": "doesn't",
+    "accept": [
+     "does not"
+    ],
+    "phrase": "It doesn't work. / It has stopped working.",
+    "explain": "«It» — birlik, shuning uchun «doesn't work».",
+    "wrong": {}
+   },
+   {
+    "kind": "fix",
+    "q": "Customer: Can I have my money return, please?\n→ Correct word: ______",
+    "hint": "",
+    "options": [],
+    "answer": "back",
+    "accept": [],
+    "phrase": "Can I have my money back, please?",
+    "explain": "«have my money back» — «return» emas, «back».",
+    "wrong": {}
+   },
+   {
+    "kind": "fix",
+    "q": "Customer: Can you exchanging it, please?\n→ Correct word: ______",
+    "hint": "",
+    "options": [],
+    "answer": "exchange",
+    "accept": [],
+    "phrase": "Can you exchange / repair it?",
+    "explain": "«Can you + fe'lning asl shakli» — «exchange», -ing emas.",
+    "wrong": {}
+   },
+   {
+    "kind": "fix",
+    "q": "Customer: Can you repaired it by Friday?\n→ Correct word: ______",
+    "hint": "",
+    "options": [],
+    "answer": "repair",
+    "accept": [],
+    "phrase": "Can you exchange / repair it?",
+    "explain": "«Can you repair it?» — «can» dan keyin fe'lning asl shakli.",
+    "wrong": {}
+   },
+   {
+    "kind": "fix",
+    "q": "Customer: Can I look to the manager, please?\n→ Correct word: ______",
+    "hint": "",
+    "options": [],
+    "answer": "see",
+    "accept": [
+     "speak"
+    ],
+    "phrase": "Can I see / speak to the manager, please?",
+    "explain": "«Can I see / speak to the manager?» — «look to» emas.",
+    "wrong": {}
+   },
+   {
+    "kind": "fix",
+    "q": "Customer: Can I speak with to the manager, please?\n→ Correct word: ______",
+    "hint": "",
+    "options": [],
+    "answer": "to",
+    "accept": [],
+    "phrase": "Can I see / speak to the manager, please?",
+    "explain": "«speak to the manager» — ortiqcha «with» kerak emas; to'g'ri predlog «to».",
+    "wrong": {}
+   },
+   {
+    "kind": "fix",
+    "q": "Customer: Look at the screen. It's break.\n→ Correct word: ______",
+    "hint": "",
+    "options": [],
+    "answer": "broken",
+    "accept": [],
+    "phrase": "It's broken.",
+    "explain": "«It's broken» — sifat shakli «broken».",
+    "wrong": {}
+   },
+   {
+    "kind": "fix",
+    "q": "Customer: These headphones are broke. I only bought them yesterday.\n→ Correct word: ______",
+    "hint": "",
+    "options": [],
+    "answer": "broken",
+    "accept": [],
+    "phrase": "It's broken.",
+    "explain": "«broken» — «buzilgan». «broke» — «pulsiz» yoki o'tgan zamon.",
+    "wrong": {}
+   },
+   {
+    "kind": "fix",
+    "q": "Customer: Can you repair it or exchange for a new one?\n→ Correct word: ______",
+    "hint": "",
+    "options": [],
+    "answer": "it",
+    "accept": [],
+    "phrase": "Can you exchange / repair it?",
+    "explain": "«exchange it for a new one» — «it» tushib qolgan.",
+    "wrong": {}
+   },
+   {
+    "kind": "fix",
+    "q": "Customer: Can I has my money back, please?\n→ Correct word: ______",
+    "hint": "",
+    "options": [],
+    "answer": "have",
+    "accept": [],
+    "phrase": "Can I have my money back, please?",
+    "explain": "«Can I have ...?» — «can» dan keyin «have», «has» emas.",
+    "wrong": {}
+   },
+   {
+    "kind": "fix",
+    "q": "Emma: I agrees that plastic bags should be banned.\n→ Correct word: ______",
+    "hint": "",
+    "options": [],
+    "answer": "agree",
+    "accept": [],
+    "phrase": "I agree that ...",
+    "explain": "«I agree that ...» — «I» bilan fe'lga -s qo'shilmaydi.",
+    "wrong": {}
+   },
+   {
+    "kind": "fix",
+    "q": "Leo: I not agree that glass bottles are better.\n→ Correct word: ______",
+    "hint": "",
+    "options": [],
+    "answer": "don't",
+    "accept": [
+     "do not"
+    ],
+    "phrase": "I don't agree that ...",
+    "explain": "«I don't agree that ...» — inkor uchun «don't».",
+    "wrong": {}
+   },
+   {
+    "kind": "fix",
+    "q": "Mia: I'm not sure what recycling is enough.\n→ Correct word: ______",
+    "hint": "",
+    "options": [],
+    "answer": "that",
+    "accept": [],
+    "phrase": "I'm not sure that ...",
+    "explain": "«I'm not sure that ...» — «what» emas, «that».",
+    "wrong": {}
+   },
+   {
+    "kind": "fix",
+    "q": "Sam: I won't say that it's terrible, just a bit old.\n→ Correct word: ______",
+    "hint": "",
+    "options": [],
+    "answer": "wouldn't",
+    "accept": [
+     "would not"
+    ],
+    "phrase": "I wouldn't say that ...",
+    "explain": "«I wouldn't say that ...» — yumshoq rad: «wouldn't».",
+    "wrong": {}
+   },
+   {
+    "kind": "fix",
+    "q": "Ali: I agree what wood is a good material for furniture.\n→ Correct word: ______",
+    "hint": "",
+    "options": [],
+    "answer": "that",
+    "accept": [],
+    "phrase": "I agree that ...",
+    "explain": "«I agree that + gap» — «that».",
+    "wrong": {}
+   },
+   {
+    "kind": "fix",
+    "q": "Customer: Its stopped working after one day.\n→ Correct word: ______",
+    "hint": "",
+    "options": [],
+    "answer": "It's",
+    "accept": [
+     "it has",
+     "It has"
+    ],
+    "phrase": "It doesn't work. / It has stopped working.",
+    "explain": "«It's (It has) stopped working» — apostrof kerak: «It's».",
+    "wrong": {}
+   }
+  ],
+  [
+   {
+    "kind": "abc",
+    "q": "Customer: Excuse me. There's something ______ with this jacket. The zip is broken.\nAssistant: Oh, I'm sorry.",
+    "hint": "",
+    "options": [
+     "wrong",
+     "bad",
+     "problem"
+    ],
+    "answer": "wrong",
+    "accept": [],
+    "phrase": "There's a problem / something wrong with ...",
+    "explain": "«something wrong with» — nosozlik.",
+    "wrong": {
+     "bad": "«something bad with» — g'ayritabiiy.",
+     "problem": "«something problem» — xato; «a problem with» bo'ladi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Customer: There's a ______ with my order. You sent the wrong size.\nAssistant: Let me check.",
+    "hint": "",
+    "options": [
+     "problem",
+     "wrong",
+     "broken"
+    ],
+    "answer": "problem",
+    "accept": [],
+    "phrase": "There's a problem / something wrong with ...",
+    "explain": "«There's a problem with ...».",
+    "wrong": {
+     "wrong": "«a wrong with» — xato.",
+     "broken": "«a broken with» — xato."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Assistant: What's the problem?\nCustomer: The screen is ______. Look, there's a big crack.",
+    "hint": "",
+    "options": [
+     "broken",
+     "breaking",
+     "break"
+    ],
+    "answer": "broken",
+    "accept": [],
+    "phrase": "It's broken.",
+    "explain": "«is broken» — singan.",
+    "wrong": {
+     "breaking": "«is breaking» — hozir sinmoqda (jarayon).",
+     "break": "«is break» — xato."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Customer: My new watch doesn't ______.\nAssistant: Have you changed the battery?",
+    "hint": "",
+    "options": [
+     "work",
+     "works",
+     "working"
+    ],
+    "answer": "work",
+    "accept": [],
+    "phrase": "It doesn't work. / It has stopped working.",
+    "explain": "«doesn't + fe'l (asl shakl)» — doesn't work.",
+    "wrong": {
+     "works": "«doesn't works» — xato.",
+     "working": "«doesn't working» — xato."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Customer: The printer worked for two days and then it ______ working.\nAssistant: I see.",
+    "hint": "",
+    "options": [
+     "stopped",
+     "stops to",
+     "stopping"
+    ],
+    "answer": "stopped",
+    "accept": [],
+    "phrase": "It doesn't work. / It has stopped working.",
+    "explain": "«stopped working» — ishlamay qoldi.",
+    "wrong": {
+     "stops to": "«stops to working» — xato.",
+     "stopping": "«it stopping» — xato."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Customer: I don't want another one. Can I have my money ______, please?",
+    "hint": "",
+    "options": [
+     "back",
+     "again",
+     "return"
+    ],
+    "answer": "back",
+    "accept": [],
+    "phrase": "Can I have my money back, please?",
+    "explain": "«have my money back».",
+    "wrong": {
+     "again": "«money again» — ma'nosiz.",
+     "return": "«money return» — xato."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Customer: Can you ______ it for a different colour?\nAssistant: Yes, of course.",
+    "hint": "",
+    "options": [
+     "exchange",
+     "change to",
+     "return"
+    ],
+    "answer": "exchange",
+    "accept": [],
+    "phrase": "Can you exchange / repair it?",
+    "explain": "«exchange it for» — almashtirmoq.",
+    "wrong": {
+     "change to": "«change to it for» — xato.",
+     "return": "«return it for a colour» — ma'nosiz."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Customer: The heel came off my shoe. Can you ______ it?\nAssistant: Yes, it'll take a day.",
+    "hint": "",
+    "options": [
+     "repair",
+     "exchange for",
+     "back"
+    ],
+    "answer": "repair",
+    "accept": [],
+    "phrase": "Can you exchange / repair it?",
+    "explain": "Tuzatish — «repair».",
+    "wrong": {
+     "exchange for": "Tugallanmagan.",
+     "back": "Fe'l emas."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Customer: This is the third time! Can I ______ to the manager, please?",
+    "hint": "",
+    "options": [
+     "speak",
+     "say",
+     "tell"
+    ],
+    "answer": "speak",
+    "accept": [],
+    "phrase": "Can I see / speak to the manager, please?",
+    "explain": "«speak to the manager».",
+    "wrong": {
+     "say": "«say to the manager» — gapdan keyin narsa kerak.",
+     "tell": "«tell to» — xato."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Customer: I'm not happy with your answer. Can I ______ the manager, please?",
+    "hint": "",
+    "options": [
+     "see",
+     "look",
+     "watch"
+    ],
+    "answer": "see",
+    "accept": [],
+    "phrase": "Can I see / speak to the manager, please?",
+    "explain": "«see the manager» — menejer bilan uchrashish.",
+    "wrong": {
+     "look": "«look the manager» — xato.",
+     "watch": "«watch the manager» — kuzatmoq, ma'nosiz."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Emma: Paper bags are better than plastic ones.\nLeo: I ______ that. They use a lot of trees.",
+    "hint": "",
+    "options": [
+     "don't agree",
+     "not agree",
+     "am not agree"
+    ],
+    "answer": "don't agree",
+    "accept": [],
+    "phrase": "I don't agree that ...",
+    "explain": "Inkor: «I don't agree».",
+    "wrong": {
+     "not agree": "«I not agree» — xato.",
+     "am not agree": "«am not agree» — xato."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Mia: Recycling is easy.\nTom: I ______ that it's easy. It takes a lot of time.",
+    "hint": "",
+    "options": [
+     "wouldn't say",
+     "wouldn't tell",
+     "won't speak"
+    ],
+    "answer": "wouldn't say",
+    "accept": [],
+    "phrase": "I wouldn't say that ...",
+    "explain": "«I wouldn't say that ...» — yumshoq rad.",
+    "wrong": {
+     "wouldn't tell": "«tell» dan keyin odam kerak.",
+     "won't speak": "Ma'nosiz."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Ali: Metal will replace plastic one day.\nVali: I'm not ______ that. Metal is too heavy.",
+    "hint": "",
+    "options": [
+     "sure",
+     "agree",
+     "right"
+    ],
+    "answer": "sure",
+    "accept": [],
+    "phrase": "I'm not sure that ...",
+    "explain": "«I'm not sure (that)» — ishonchim komil emas.",
+    "wrong": {
+     "agree": "«I'm not agree» — xato.",
+     "right": "«I'm not right that» — xato."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Teacher: Do you think glass is a useful material?\nNodira: Yes, I ______ that it's very useful.",
+    "hint": "",
+    "options": [
+     "agree",
+     "am agree",
+     "agreeing"
+    ],
+    "answer": "agree",
+    "accept": [],
+    "phrase": "I agree that ...",
+    "explain": "«I agree that ...».",
+    "wrong": {
+     "am agree": "Xato.",
+     "agreeing": "«I agreeing» — xato."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Assistant: Have you got the receipt?\nCustomer: Yes, here it is. It ______ work at all!",
+    "hint": "",
+    "options": [
+     "doesn't",
+     "don't",
+     "isn't"
+    ],
+    "answer": "doesn't",
+    "accept": [],
+    "phrase": "It doesn't work. / It has stopped working.",
+    "explain": "«It doesn't work» — birlik.",
+    "wrong": {
+     "don't": "«It don't» — xato.",
+     "isn't": "«It isn't work» — xato."
+    }
+   }
+  ],
+  [
+   {
+    "kind": "word",
+    "q": "Customer: Hello. There's something wrong ______ this camera.",
+    "hint": "",
+    "options": [],
+    "answer": "with",
+    "accept": [],
+    "phrase": "There's a problem / something wrong with ...",
+    "explain": "«wrong with».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Customer: There's a ______ with the lid. It doesn't close.",
+    "hint": "",
+    "options": [],
+    "answer": "problem",
+    "accept": [],
+    "phrase": "There's a problem / something wrong with ...",
+    "explain": "«a problem with».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Customer: Look — it's ______. The handle has come off.",
+    "hint": "",
+    "options": [],
+    "answer": "broken",
+    "accept": [],
+    "phrase": "It's broken.",
+    "explain": "«It's broken».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Customer: I switched it on yesterday, and today it doesn't ______.",
+    "hint": "",
+    "options": [],
+    "answer": "work",
+    "accept": [],
+    "phrase": "It doesn't work. / It has stopped working.",
+    "explain": "«It doesn't work».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Customer: It has stopped ______. Can you check it?",
+    "hint": "",
+    "options": [],
+    "answer": "working",
+    "accept": [],
+    "phrase": "It doesn't work. / It has stopped working.",
+    "explain": "«stopped working».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Customer: I'd like a refund. Can I have my ______ back, please?",
+    "hint": "",
+    "options": [],
+    "answer": "money",
+    "accept": [],
+    "phrase": "Can I have my money back, please?",
+    "explain": "«my money back».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Customer: Can I have my money ______, please?",
+    "hint": "",
+    "options": [],
+    "answer": "back",
+    "accept": [],
+    "phrase": "Can I have my money back, please?",
+    "explain": "«money back».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Customer: It's the wrong size. Can you ______ it for a bigger one?",
+    "hint": "",
+    "options": [],
+    "answer": "exchange",
+    "accept": [
+     "change"
+    ],
+    "phrase": "Can you exchange / repair it?",
+    "explain": "«exchange it for».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Customer: The strap is broken. Can you ______ it?",
+    "hint": "",
+    "options": [],
+    "answer": "repair",
+    "accept": [
+     "fix"
+    ],
+    "phrase": "Can you exchange / repair it?",
+    "explain": "«repair it» — tuzatmoq.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Customer: Can I speak ______ the manager, please?",
+    "hint": "",
+    "options": [],
+    "answer": "to",
+    "accept": [],
+    "phrase": "Can I see / speak to the manager, please?",
+    "explain": "«speak to».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Customer: Can I ______ the manager, please?",
+    "hint": "",
+    "options": [],
+    "answer": "see",
+    "accept": [],
+    "phrase": "Can I see / speak to the manager, please?",
+    "explain": "«see the manager».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Emma: Cars should be made of lighter materials.\nLeo: I ______ that they should. They'd use less fuel.",
+    "hint": "",
+    "options": [],
+    "answer": "agree",
+    "accept": [],
+    "phrase": "I agree that ...",
+    "explain": "Qo'shilish — «I agree that».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Mia: Wood is the best material for houses.\nSam: I don't ______ that. It can burn easily.",
+    "hint": "",
+    "options": [],
+    "answer": "agree",
+    "accept": [],
+    "phrase": "I don't agree that ...",
+    "explain": "«I don't agree that».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Tom: Cotton clothes last forever.\nZara: I'm not ______ that's true.",
+    "hint": "",
+    "options": [],
+    "answer": "sure",
+    "accept": [],
+    "phrase": "I'm not sure that ...",
+    "explain": "«I'm not sure that».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Ben: This phone is rubbish!\nAnna: I wouldn't ______ that it's rubbish. It's just old.",
+    "hint": "",
+    "options": [],
+    "answer": "say",
+    "accept": [],
+    "phrase": "I wouldn't say that ...",
+    "explain": "«I wouldn't say that».",
+    "wrong": {}
+   }
+  ]
+ ],
+ "guide": {
+  "topics": [
+   {
+    "name": "Agreeing and disagreeing",
+    "name_uz": "Qo'shilish va qo'shilmaslik",
+    "summary": "Birovning fikriga qo'shilganingizni yoki qo'shilmaganingizni muloyim tarzda aytish uchun. «that» dan keyin to'liq gap keladi.",
+    "usage": [
+     {
+      "text": "I agree that ... — «... degan fikrga qo'shilaman».",
+      "example": {
+       "en": "I agree that plastic is a big problem.",
+       "uz": "Plastik katta muammo degan fikrga qo'shilaman."
+      }
+     },
+     {
+      "text": "I don't agree that ... — «... degan fikrga qo'shilmayman».",
+      "example": {
+       "en": "I don't agree that glass is better than plastic.",
+       "uz": "Shisha plastikdan yaxshi degan fikrga qo'shilmayman."
+      }
+     },
+     {
+      "text": "I'm not sure that ... — «...ga ishonchim komil emas». Muloyim, yumshoq qo'shilmaslik.",
+      "example": {
+       "en": "I'm not sure that recycling solves everything.",
+       "uz": "Qayta ishlash hamma muammoni hal qilishiga ishonchim komil emas."
+      }
+     },
+     {
+      "text": "I wouldn't say that ... — «Men ... demagan bo'lardim». Yumshoq rad etish.",
+      "example": {
+       "en": "I wouldn't say that the new phone is bad, just expensive.",
+       "uz": "Yangi telefonni yomon demagan bo'lardim, faqat qimmat."
+      }
+     }
+    ],
+    "structure": [
+     {
+      "type": "+",
+      "formula": "I agree that + gap",
+      "example": {
+       "en": "I agree that it's too expensive.",
+       "uz": "Juda qimmat degan fikrga qo'shilaman."
+      }
+     },
+     {
+      "type": "-",
+      "formula": "I don't agree that / I'm not sure that + gap",
+      "example": {
+       "en": "I'm not sure that it will work.",
+       "uz": "Ishlashiga ishonchim komil emas."
+      }
+     },
+     {
+      "type": "-",
+      "formula": "I wouldn't say that + gap",
+      "example": {
+       "en": "I wouldn't say that it's easy.",
+       "uz": "Oson demagan bo'lardim."
+      }
+     }
+    ],
+    "signals": [
+     {
+      "en": "agree",
+      "uz": "qo'shilmoq"
+     },
+     {
+      "en": "not sure",
+      "uz": "ishonchim komil emas"
+     },
+     {
+      "en": "wouldn't say",
+      "uz": "demagan bo'lardim"
+     },
+     {
+      "en": "that",
+      "uz": "...degan (gap boshlaydi)"
+     }
+    ],
+    "tip": "«I am agree» — xato! «agree» fe'l: «I agree», «I don't agree»."
+   },
+   {
+    "name": "Making a complaint",
+    "name_uz": "Shikoyat qilish",
+    "summary": "Do'konda sotib olgan narsangiz buzuq chiqsa, sotuvchiga muloyim shikoyat qilish uchun.",
+    "usage": [
+     {
+      "text": "There's a problem / something wrong with ... — «...da muammo / nosozlik bor». Shikoyatni shu bilan boshlaysiz.",
+      "example": {
+       "en": "There's something wrong with this laptop.",
+       "uz": "Bu noutbukda nosozlik bor."
+      }
+     },
+     {
+      "text": "It's broken. — «U singan / buzilgan».",
+      "example": {
+       "en": "The screen is broken.",
+       "uz": "Ekrani singan."
+      }
+     },
+     {
+      "text": "It doesn't work. / It has stopped working. — «Ishlamayapti / Ishlamay qoldi».",
+      "example": {
+       "en": "I bought it last week and it has stopped working.",
+       "uz": "O'tgan hafta oldim, ishlamay qoldi."
+      }
+     },
+     {
+      "text": "Can I have my money back, please? — «Pulimni qaytarib bera olasizmi?»",
+      "example": {
+       "en": "It's the second time. Can I have my money back, please?",
+       "uz": "Bu ikkinchi marta. Pulimni qaytarasizmi?"
+      }
+     },
+     {
+      "text": "Can you exchange / repair it? — «Almashtirib / tuzatib bera olasizmi?»",
+      "example": {
+       "en": "Can you exchange it for a new one?",
+       "uz": "Yangisiga almashtirib bera olasizmi?"
+      }
+     },
+     {
+      "text": "Can I see / speak to the manager, please? — «Menejer bilan gaplashsam bo'ladimi?»",
+      "example": {
+       "en": "Can I speak to the manager, please?",
+       "uz": "Menejer bilan gaplashsam bo'ladimi?"
+      }
+     }
+    ],
+    "structure": [
+     {
+      "type": "+",
+      "formula": "There's a problem / something wrong + with + ot",
+      "example": {
+       "en": "There's a problem with my order.",
+       "uz": "Buyurtmamda muammo bor."
+      }
+     },
+     {
+      "type": "-",
+      "formula": "It doesn't work. / It has stopped + V-ing",
+      "example": {
+       "en": "It has stopped charging.",
+       "uz": "Quvvatlanmay qoldi."
+      }
+     },
+     {
+      "type": "?",
+      "formula": "Can I have / see / speak to ...? · Can you exchange / repair it?",
+      "example": {
+       "en": "Can you repair it, please?",
+       "uz": "Tuzatib bera olasizmi?"
+      }
+     }
+    ],
+    "signals": [
+     {
+      "en": "wrong with",
+      "uz": "...da nosozlik"
+     },
+     {
+      "en": "broken",
+      "uz": "singan"
+     },
+     {
+      "en": "money back",
+      "uz": "pulni qaytarish"
+     },
+     {
+      "en": "exchange",
+      "uz": "almashtirmoq"
+     },
+     {
+      "en": "repair",
+      "uz": "tuzatmoq"
+     },
+     {
+      "en": "manager",
+      "uz": "menejer, rahbar"
+     },
+     {
+      "en": "receipt",
+      "uz": "chek"
+     }
+    ],
+    "tip": "«There is a problem WITH ...» — predlog «with». «It has stopped work» emas — «stopped working» (-ing)."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "There has a problem with it.",
+    "right": "There's (There is) a problem with it.",
+    "why": "«bor» ma'nosida «there is», «has» emas."
+   },
+   {
+    "wrong": "What's wrong of it?",
+    "right": "What's wrong with it?",
+    "why": "«wrong with» — predlog «with»."
+   },
+   {
+    "wrong": "It has stopped work.",
+    "right": "It has stopped working.",
+    "why": "«stop» dan keyin -ing."
+   },
+   {
+    "wrong": "Can I to exchange it?",
+    "right": "Can I exchange it?",
+    "why": "«can» dan keyin «to» qo'yilmaydi."
+   },
+   {
+    "wrong": "I am agree that ...",
+    "right": "I agree that ...",
+    "why": "«agree» — fe'l, «am» kerak emas."
+   }
+  ]
+ }
+}

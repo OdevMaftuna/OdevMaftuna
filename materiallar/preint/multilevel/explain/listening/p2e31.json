@@ -1,0 +1,35 @@
+{
+ "script": "Announcer: You will hear someone talking on the radio about taxis and private hire vehicles in London. Speaker: Travelling by taxi or private hire is one of the most flexible ways to travel around London. Services operate across the capital 24 hours a day, 365 days a year, subject to local availability. All taxis and private hire operators take cash, and some accept credit and debit cards. Historically, taxis have been referred to as black cabs, even though many are not black. These are the only vehicles that should be stopped on the street or picked up at cab ranks, although taxis can also be booked in advance through a telephone service. Taxi fares have been simplified. Fares depend on three things: the time of day, the distance travelled, and time taken. There are three different tariffs for the time of day. 1 mile will cost you about £4 on Tariff 1, £4.60 on Tariff 2, and about £5.20 on Tariff 3. The first applies from Monday to Friday from 6 am to 8 pm. The second tariff is from Monday to Friday between 8 pm and 10 pm, as well as Saturday and Sunday 6 am to 10 pm. The third comes into effect every night between 10 pm and 6 am, and on public holidays. In London, there are over 24,000 licensed taxi drivers, all of whom have to pass certain tests. Complete background criminal record checks are carried out, as well as a full medical examination, and an exam-style test of their knowledge of London streets. They must know all of London's major roads and the quickest ways to certain destinations. Private hire vehicles include both limousines and chauffeur services, or minicabs as they are often called, and have to be booked in advance, either by visiting a licensed operator's office, or by telephone.",
+ "items": [
+  {
+   "n": 1,
+   "quote": "take cash, and some accept credit and debit cards",
+   "uz": "Javob: cash (naqd pul). Audioda barcha taksi va ijara mashina operatorlari naqd pul qabul qilishi, ba'zilari esa karta qabul qilishi aytiladi."
+  },
+  {
+   "n": 2,
+   "quote": "stopped on the street or picked up at cab ranks",
+   "uz": "Javob: street (ko'cha). Matnda taksilarni ko'chada (on the street) to'xtatish yoki bekatda o'tirish mumkinligi ta'kidlangan."
+  },
+  {
+   "n": 3,
+   "quote": "Saturday and Sunday 6 am to 10 pm",
+   "uz": "Javob: Sunday (yakshanba). Audio yozuvda Tarif 2 shanba va yakshanba (Saturday & Sunday) kunlari 6:00 dan 22:00 gacha amal qilishi uqtiriladi."
+  },
+  {
+   "n": 4,
+   "quote": "every night between 10 pm and 6 am, and on public holidays",
+   "uz": "Javob: holidays (bayramlar). Audioda Tarif 3 tunda va rasmiy bayramlarda (public holidays) amal qilishi aytiladi."
+  },
+  {
+   "n": 5,
+   "quote": "as well as a full medical examination",
+   "uz": "Javob: medical (tibbiy) yoki full medical. Taksi haydovchilari to'liq tibbiy ko'rikdan (full medical examination) o'tishlari shartligi ta'kidlanadi."
+  },
+  {
+   "n": 6,
+   "quote": "have to be booked in advance",
+   "uz": "Javob: booked (buyurtma qilingan). Xususiy ijara mashinalari har doim oldindan buyurtma qilinishi (booked) shartligi uqtiriladi."
+  }
+ ]
+}

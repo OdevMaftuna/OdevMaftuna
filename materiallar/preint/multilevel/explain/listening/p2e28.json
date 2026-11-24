@@ -1,0 +1,35 @@
+{
+ "script": "Teacher: Well, today I want to share with you some amazing ideas for our school trip next month. I've been looking into a new holiday company called Exodus, which promises the traveler an unforgettable experience. So let's start with their walking holiday on the Great Wall of China. It took over 2,000 years to build and is 5,500 miles long. Okay, you won't walk all of that, but it will take you far away from the crowds and the amazing views really make it worth it. There is also another extreme walking and climbing experience on Everest. This is a 10-day extreme holiday only for experienced walkers. You join a group and climb to the base camp of the highest mountain on Earth. However, this does not happen in the summer months due to the rainy season, so the last one leaves on the 15th of April. Until last year, there was another one on the 25th of April, but there isn't anymore. But if walking is not your thing, how about a food holiday on a Vietnam or China food adventure tour? Both holidays have cookery classes and you will get a chance to shop for ingredients at the food markets, which are an amazing experience. For me, the best part is going to the Panda Rescue Centre. You know, those lovely black and white bears that you only find in China. You can have a cookery class there and learn to make panda rice balls. Great for kids' parties. By the way, if you are chocolate mad, then the Mexico food adventure is the one for you. You get to go to the chocolate museum and see how it is produced, plus lots of chocolate cookery classes. If you want, I'll give you the website address to have a look at all the amazing experiences they offer both you and your parents. It's www.exodus.holiday.com. I'll spell that for you. It's E-X-O-D-U-S.",
+ "items": [
+  {
+   "n": 1,
+   "quote": "the amazing views really make it worth it",
+   "uz": "Ajoyib manzaralar (views) sayohatni arziydigan qiladi. Matnda 'excellent' so'zi o'rniga 'amazing' ishlatilgan."
+  },
+  {
+   "n": 2,
+   "quote": "the last one leaves on the 15th of April",
+   "uz": "Yomg'irlar mavsumi sababli oxirgi sayohat 15-aprelda bo'ladi. 25-aprel sanasi bilan adashtirmang, u o'tgan yilgi ma'lumot."
+  },
+  {
+   "n": 3,
+   "quote": "shop for ingredients at the food markets",
+   "uz": "Masalliqlar xarid qilish uchun oziq-ovqat bozorlariga (markets) boriladi."
+  },
+  {
+   "n": 4,
+   "quote": "learn to make panda rice balls",
+   "uz": "Panda markazida guruchli koptokchalar (balls) tayyorlash o'rgatiladi."
+  },
+  {
+   "n": 5,
+   "quote": "go to the chocolate museum",
+   "uz": "Meksikadagi oziq-ovqat sarguzashtida shokolad muzeyiga (chocolate museum) tashrif buyuriladi."
+  },
+  {
+   "n": 6,
+   "quote": "It's E-X-O-D-U-S",
+   "uz": "Veb-sayt nomi Exodus bo'lib, u audio oxirida harflab aytib berildi."
+  }
+ ]
+}

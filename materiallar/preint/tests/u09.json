@@ -1,0 +1,561 @@
+{
+ "code": "P9",
+ "course": "Pre-Intermediate",
+ "kind": "unit",
+ "unit": 9,
+ "price": 35000,
+ "title": "Unit 9 Test",
+ "subtitle": "Science · the passive · materials · gadgets",
+ "sections": [
+  {
+   "title": "A. Rewrite the sentences in the passive. Do not include the agent.",
+   "items": [
+    {
+     "t": "text",
+     "q": "People make bottles from glass. → Bottles ______",
+     "a": [
+      "are made from glass"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Someone stole my bike yesterday. → My bike ______",
+     "a": [
+      "was stolen yesterday"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "They will build a new school next year. → A new school ______",
+     "a": [
+      "will be built next year"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "People speak Uzbek in Uzbekistan. → Uzbek ______",
+     "a": [
+      "is spoken in Uzbekistan"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Someone has broken the window. → The window ______",
+     "a": [
+      "has been broken"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "They invented the telephone in 1876. → The telephone ______",
+     "a": [
+      "was invented in 1876"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "People grow cotton in this region. → Cotton ______",
+     "a": [
+      "is grown in this region"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "B. Write questions in the passive.",
+   "items": [
+    {
+     "t": "text",
+     "q": "When / the light bulb / invent? → ______",
+     "a": [
+      "When was the light bulb invented"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Where / tea / grow? → ______",
+     "a": [
+      "Where is tea grown"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "How many languages / speak / in India? → ______",
+     "a": [
+      "How many languages are spoken in India"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Who / the Mona Lisa / paint / by? → ______",
+     "a": [
+      "Who was the Mona Lisa painted by"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Where / the first computer / build? → ______",
+     "a": [
+      "Where was the first computer built"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "C. Choose the correct answers.",
+   "items": [
+    {
+     "t": "mc",
+     "q": "This bridge ___ in 1990.",
+     "o": [
+      "built",
+      "was built",
+      "is building"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "English ___ all over the world.",
+     "o": [
+      "is spoken",
+      "speaks",
+      "is speaking"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "The results ___ tomorrow.",
+     "o": [
+      "will announce",
+      "will be announced",
+      "are announce"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "My phone ___ — I can’t find it anywhere!",
+     "o": [
+      "has been stolen",
+      "has stolen",
+      "was steal"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Paper ___ from wood.",
+     "o": [
+      "makes",
+      "is made",
+      "made"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "The robot was designed ___ a team of students.",
+     "o": [
+      "from",
+      "by",
+      "with"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "Many emails ___ every second.",
+     "o": [
+      "are sent",
+      "send",
+      "are sending"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "When ___ the radio invented?",
+     "o": [
+      "is",
+      "was",
+      "did"
+     ],
+     "a": 1
+    }
+   ]
+  },
+  {
+   "title": "D. Complete the materials. The first letter is given.",
+   "items": [
+    {
+     "t": "text",
+     "q": "Most boxes are made of c________.",
+     "a": [
+      "cardboard"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Roads and buildings are made of c_______.",
+     "a": [
+      "concrete"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Bank cards are made of p______.",
+     "a": [
+      "plastic"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Windows are made of g____.",
+     "a": [
+      "glass"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Shoes and bags are often made of l______.",
+     "a": [
+      "leather"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Coins are usually made of m____.",
+     "a": [
+      "metal"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "My favourite T-shirt is 100% c_____.",
+     "a": [
+      "cotton"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Tables and chairs are often made of w___.",
+     "a": [
+      "wood"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "E. Choose the correct words.",
+   "items": [
+    {
+     "t": "mc",
+     "q": "Turn up the ___ — I can’t hear the music.",
+     "o": [
+      "power lead",
+      "volume control"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "My phone is dead. Where’s my ___?",
+     "o": [
+      "charger",
+      "keyboard"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Press the ___ button to turn it on.",
+     "o": [
+      "volume",
+      "power"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "Plug the cable into the ___.",
+     "o": [
+      "USB port",
+      "screen"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Type your password on the ___.",
+     "o": [
+      "speaker",
+      "keyboard"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "Put on your ___ so you don’t disturb anyone.",
+     "o": [
+      "headphones",
+      "batteries"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Touch the ___ to open the app.",
+     "o": [
+      "plug",
+      "screen"
+     ],
+     "a": 1
+    }
+   ]
+  },
+  {
+   "title": "F. Complete the sentences with the words in the box. There is one extra word.",
+   "box": [
+    "design",
+    "discovery",
+    "experiment",
+    "invention",
+    "research",
+    "scientists"
+   ],
+   "items": [
+    {
+     "t": "text",
+     "q": "The internet is the most important ______ of the last fifty years.",
+     "a": [
+      "invention"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The ______ of penicillin saved millions of lives.",
+     "a": [
+      "discovery"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "In the lab, we did an ______ with water and salt.",
+     "a": [
+      "experiment"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "______ are trying to find a cure for the disease.",
+     "a": [
+      "Scientists"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The university is doing ______ into clean energy.",
+     "a": [
+      "research"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "G. Each sentence has one mistake. Write the correct word.",
+   "items": [
+    {
+     "t": "text",
+     "q": "Customer: Hi. There has a problem with my new tablet. → correct: ______",
+     "a": [
+      "is",
+      "'s"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Assistant: When did you bought it? → correct: ______",
+     "a": [
+      "buy"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Customer: Last week. It stopped work yesterday. → correct: ______",
+     "a": [
+      "working"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Assistant: What’s wrong of it? → correct: ______",
+     "a": [
+      "with"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Customer: The screen is broke. → correct: ______",
+     "a": [
+      "broken"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Assistant: We can to repair it. → correct: ______",
+     "a": [
+      "repair"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Customer: Can I have my money return? → correct: ______",
+     "a": [
+      "back"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Assistant: Have you got the recipe? → correct: ______",
+     "a": [
+      "receipt"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Customer: Can I speak at the manager? → correct: ______",
+     "a": [
+      "to"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Assistant: Sorry, the manager is at lunch on the moment. → correct: ______",
+     "a": [
+      "at"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Listening. Listen to five people talking about a science project. What is each speaker's main aim?",
+   "audio": "preint/P9.mp3",
+   "script": "One. The teacher.\nThis year I want my students to stop just reading about science. I want them to design something real that solves a problem at our school.\nTwo. The girl.\nOur team is making a machine that sorts plastic bottles from paper. I really hope we win the competition, because the prize is a trip to a science museum in Moscow.\nThree. The man.\nI work for a recycling company. I'm here to find young engineers — maybe one of these students will work for us one day.\nFour. The woman.\nI'm a journalist. I'm writing an article about how schools teach science differently today, so I'm interviewing teachers and students.\nFive. The boy.\nHonestly, I just want to learn how to use the 3D printer. Winning doesn't matter to me — I want to make my own phone case!",
+   "items": [
+    {
+     "t": "mc",
+     "q": "1. The teacher's main aim is to",
+     "o": [
+      "win a prize.",
+      "help students solve a real problem.",
+      "write an article."
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "2. The girl's main aim is to",
+     "o": [
+      "win the competition.",
+      "find a job.",
+      "make a phone case."
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "3. The man's main aim is to",
+     "o": [
+      "sell machines.",
+      "find future workers.",
+      "judge the competition."
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "4. The woman's main aim is to",
+     "o": [
+      "teach science.",
+      "write about science education.",
+      "start a company."
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "5. The boy's main aim is to",
+     "o": [
+      "learn a new skill.",
+      "win the trip.",
+      "interview teachers."
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "title": "H. Read the forum posts. Which person (A–D) says each thing? One person matches two questions.",
+   "passage": "A — Madina: I can’t live without my smartwatch. It counts my steps and reminds me to drink water. My grandmother thinks it’s silly!\n\nB — Otabek: I think the best invention is the washing machine. Before it, people spent a whole day washing clothes by hand.\n\nC — Zarina: Phones are useful, but I’m worried about how much time we spend on them. Last month I turned mine off every evening, and I slept much better.\n\nD — Bekzod: My dream is to design robots that help old people at home. I’m studying engineering now, and I’ve already built a small robot that can carry a cup of tea.",
+   "items": [
+    {
+     "t": "mc",
+     "q": "Who wants to invent something?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "a": 3
+    },
+    {
+     "t": "mc",
+     "q": "Who chose an old invention as the most important?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "Who changed a habit?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "a": 2
+    },
+    {
+     "t": "mc",
+     "q": "Whose relative doesn’t understand their gadget?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Who has already made something?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "a": 3
+    }
+   ]
+  }
+ ]
+}

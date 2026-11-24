@@ -1,0 +1,958 @@
+{
+ "a": [
+  {
+   "q": "My best friend refused to share his snacks with anyone during our long bus trip.",
+   "options": [
+    "selfish",
+    "foolish",
+    "childish",
+    "cowardly"
+   ],
+   "answer": "selfish",
+   "explain": "selfish — xudbin: boshqalar bilan narsalarini bo'lishni xohlamaydigan inson."
+  },
+  {
+   "q": "Someone broke the glass windows of the school library and painted red graffiti on the walls.",
+   "options": [
+    "vandalise",
+    "steal",
+    "rob",
+    "burgle"
+   ],
+   "answer": "vandalise",
+   "explain": "vandalise — buzib tashlamoq: jamoat mulkiga qasddan zarar yetkazish."
+  },
+  {
+   "q": "A masked criminal entered the jewelry shop at night and took all the expensive gold rings.",
+   "options": [
+    "burglar",
+    "shoplifter",
+    "mugger",
+    "smuggler"
+   ],
+   "answer": "burglar",
+   "explain": "burglar — o'g'ri: uyinga yoki do'konga yashirincha kirib o'g'rilik qiluvchi."
+  },
+  {
+   "q": "Police officers walk slowly down our neighborhood street every evening to keep everyone completely safe.",
+   "options": [
+    "patrol",
+    "search",
+    "interview",
+    "identify"
+   ],
+   "answer": "patrol",
+   "explain": "patrol — patrul qilmoq: xavfsizlikni ta'minlash uchun hududni qo'riqlab yurish."
+  },
+  {
+   "q": "My little brother cried loudly because he dropped his ice cream onto the dusty ground.",
+   "options": [
+    "furious",
+    "hopeful",
+    "lucky",
+    "helpful"
+   ],
+   "answer": "furious",
+   "explain": "furious — g'azablangan: qattiq jahli chiqqan holatni bildiradi."
+  },
+  {
+   "q": "We bought a small apartment near the city center because the monthly rent was very cheap.",
+   "options": [
+    "affordable",
+    "enjoyable",
+    "painful",
+    "tasteless"
+   ],
+   "answer": "affordable",
+   "explain": "affordable — hamyonbop: narxi arzon va sotib olishga qulay bo'lgan."
+  },
+  {
+   "q": "The detectives found strange blue marks on the wooden door handle after the crime.",
+   "options": [
+    "fingerprints",
+    "dental records",
+    "secret code",
+    "telephone number"
+   ],
+   "answer": "fingerprints",
+   "explain": "fingerprints — barmoq izlari: jinoyat joyida qoladigan shaxsiy izlar."
+  },
+  {
+   "q": "That new action movie in the cinema had too many boring moments and bad actors.",
+   "options": [
+    "appeal",
+    "launch",
+    "study",
+    "lean"
+   ],
+   "answer": "appeal",
+   "explain": "appeal — jalb qilmoq: odamlarga yoqish yoki qiziq tuyulish ma'nosida."
+  },
+  {
+   "q": "Someone threw a heavy stone through the expensive glass window of the clothing store downtown.",
+   "options": [
+    "damage",
+    "grab",
+    "pull",
+    "kill"
+   ],
+   "answer": "damage",
+   "explain": "damage — zarar yetkazmoq: biror narsaning butunligini buzish."
+  },
+  {
+   "q": "The dark criminal secretly brought illegal boxes across the border without paying any taxes.",
+   "options": [
+    "smuggle",
+    "loot",
+    "shoplift",
+    "mug"
+   ],
+   "answer": "smuggle",
+   "explain": "smuggle — kontrabanda qilmoq: tovarlarni yashirincha mamlakatga olib kirish."
+  },
+  {
+   "q": "We sat together on the carpet and played Monopoly for hours during the rainy afternoon.",
+   "options": [
+    "board game",
+    "subway",
+    "water park",
+    "open-top car"
+   ],
+   "answer": "board game",
+   "explain": "board game — stol o'yini: doska va figuralar yordamida o'ynaladigan o'yin."
+  },
+  {
+   "q": "The clever detective used a magnifying glass to look carefully for clues in the grass.",
+   "options": [
+    "search",
+    "patrol",
+    "interview",
+    "identify"
+   ],
+   "answer": "search",
+   "explain": "search — qidirmoq: biror narsani topish uchun sinchiklab ko'zdan kechirish."
+  },
+  {
+   "q": "My sister loves chewing sweet peppermint flavor while she finishes her difficult mathematics homework.",
+   "options": [
+    "chewing gum",
+    "table tennis",
+    "train ticket",
+    "weekly"
+   ],
+   "answer": "chewing gum",
+   "explain": "chewing gum — saqich: chaynab yurish uchun mo'ljallangan shirin mahsulot."
+  },
+  {
+   "q": "The terrible person started a big dangerous fire inside the empty wooden warehouse last night.",
+   "options": [
+    "arson",
+    "burglary",
+    "theft",
+    "mugging"
+   ],
+   "answer": "arson",
+   "explain": "arson — qasddan o't qo'yish: mol-mulkni yoqib yuborish jinoyati."
+  },
+  {
+   "q": "A young man wearing a woolen knitted cap over his face entered the local bank.",
+   "options": [
+    "balaclava",
+    "handbag",
+    "strap",
+    "subway"
+   ],
+   "answer": "balaclava",
+   "explain": "balaclava — niqob: butun yuzni yopib turadigan bosh kiyim turi."
+  },
+  {
+   "q": "The police inspector asked the frightened witness many questions about the strange street robbery.",
+   "options": [
+    "interview",
+    "search",
+    "patrol",
+    "identify"
+   ],
+   "answer": "interview",
+   "explain": "interview — so'roq qilmoq: guvohdan ma'lumot olish uchun savollar berish."
+  },
+  {
+   "q": "That silly boy jumped from the high garden wall just to show off to his friends.",
+   "options": [
+    "foolish",
+    "selfish",
+    "childish",
+    "cowardly"
+   ],
+   "answer": "foolish",
+   "explain": "foolish — ahmoqona: o'ylab ish qilmaydigan, aqlsiz harakat."
+  },
+  {
+   "q": "The dentist pulled out my bad tooth quickly using special tools without hurting me at all.",
+   "options": [
+    "painless",
+    "painful",
+    "tasteless",
+    "drinkable"
+   ],
+   "answer": "painless",
+   "explain": "painless — og'riqsiz: hech qanday og'riq keltirmaydigan jarayon."
+  },
+  {
+   "q": "Someone took my mother's leather purse from her shopping cart while she was buying fruit.",
+   "options": [
+    "steal",
+    "rob",
+    "burgle",
+    "shoplift"
+   ],
+   "answer": "steal",
+   "explain": "steal — o'g'irlamoq: birovning buyumini ruxsatsiz olib qo'yish."
+  },
+  {
+   "q": "A criminal suddenly attacked an old man on the dark pavement and took his watch.",
+   "options": [
+    "mug",
+    "steal",
+    "rob",
+    "burgle"
+   ],
+   "answer": "mug",
+   "explain": "mug — ko'chada hujum qilib o'g'irlamoq: odamga kish o'g'irlik qilish."
+  },
+  {
+   "q": "We visited a wonderful place with huge swimming pools and tall water slides during summer.",
+   "options": [
+    "water park",
+    "board game",
+    "subway",
+    "open-top car"
+   ],
+   "answer": "water park",
+   "explain": "water park — akvapark: suv o'yinlari va basseynlar joylashgan dam olish maskani."
+  },
+  {
+   "q": "Please wait a moment on the phone while I ask my father about the timetable.",
+   "options": [
+    "hold on",
+    "run away",
+    "break into something",
+    "set fire to something"
+   ],
+   "answer": "hold on",
+   "explain": "hold on — kuting: telefon orqali gaplashganda biroz toshib turishni so'rash."
+  },
+  {
+   "q": "The local police department started a big investigation to find the person who broke the door.",
+   "options": [
+    "murder investigation",
+    "dental records",
+    "secret code",
+    "telephone number"
+   ],
+   "answer": "murder investigation",
+   "explain": "murder investigation — qotillik tergovi: jinoyatni ochish bo'yicha olib boriladigan ish."
+  },
+  {
+   "q": "My little sister acted very immaturely when she threw her toys across the messy room.",
+   "options": [
+    "childish",
+    "selfish",
+    "foolish",
+    "cowardly"
+   ],
+   "answer": "childish",
+   "explain": "childish — bolakaylarcha: yosh bolaga xos bo'lgan yetuk bo'lmagan xatti-harakat."
+  },
+  {
+   "q": "The cold water from the mountain stream was completely safe and very nice to drink.",
+   "options": [
+    "drinkable",
+    "tasteless",
+    "painful",
+    "enjoyable"
+   ],
+   "answer": "drinkable",
+   "explain": "drinkable — ichishga yaroqli: iste'mol qilish uchun xavfsiz bo'lgan suv."
+  },
+  {
+   "q": "The thief took my leather bag from my shoulder while I was walking home from school.",
+   "options": [
+    "snatch",
+    "grab",
+    "pull",
+    "lean"
+   ],
+   "answer": "snatch",
+   "explain": "snatch — yulqib olmoq: birdaniga tez tortib olib qo'yish."
+  },
+  {
+   "q": "A criminal broke the front glass door of the electronics store and stole many laptops.",
+   "options": [
+    "burglary",
+    "arson",
+    "theft",
+    "mugging"
+   ],
+   "answer": "burglary",
+   "explain": "burglary — uy yoki binoga o'g'rilikka tushish jinoyati."
+  },
+  {
+   "q": "That criminal set fire to the old wooden barn in the village late at night.",
+   "options": [
+    "set fire to something",
+    "break into something",
+    "run away",
+    "hold on"
+   ],
+   "answer": "set fire to something",
+   "explain": "set fire to something — biror narsaga o'q qo'ymoq: qasddan yondirib yuborish."
+  },
+  {
+   "q": "The police caught the person who started the huge destructive fire in the central market.",
+   "options": [
+    "arsonist",
+    "burglar",
+    "shoplifter",
+    "mugger"
+   ],
+   "answer": "arsonist",
+   "explain": "arsonist — o't qo'yuvchi: qasddan yong'in sodir etuvchi jinoyatchi."
+  },
+  {
+   "q": "A man stole expensive jackets from the clothing store by hiding them inside his big coat.",
+   "options": [
+    "shoplift",
+    "steal",
+    "rob",
+    "burgle"
+   ],
+   "answer": "shoplift",
+   "explain": "shoplift — do'kondan narsa o'g'irlamoq: xaridor qiyofasida kirib o'g'rilik qilish."
+  },
+  {
+   "q": "The young man illegally sold illegal substances to teenagers near the old city park.",
+   "options": [
+    "deal drugs",
+    "mug",
+    "loot",
+    "smuggle"
+   ],
+   "answer": "deal drugs",
+   "explain": "deal drugs — giyohvand moddalar savdosi bilan shug'ullanish."
+  },
+  {
+   "q": "We travelled across the amazing historic city on a bus with no roof on a sunny day.",
+   "options": [
+    "open-top car",
+    "subway",
+    "water park",
+    "board game"
+   ],
+   "answer": "open-top car",
+   "explain": "open-top car — ochiq tomli mashina: asosan sayyohlar uchun mo'ljallangan avtomobil."
+  },
+  {
+   "q": "My kind friend helped me carry all my heavy books to the classroom without complaining.",
+   "options": [
+    "helpful",
+    "selfish",
+    "foolish",
+    "childish"
+   ],
+   "answer": "helpful",
+   "explain": "helpful — yordam berishni xush ko'radigan, ko'makdosh inson."
+  },
+  {
+   "q": "The victim could not recognize the criminal because it was very dark in the alley.",
+   "options": [
+    "identify",
+    "search",
+    "patrol",
+    "interview"
+   ],
+   "answer": "identify",
+   "explain": "identify — tanib olmoq: kim yoki nima ekanligini aniqlash."
+  },
+  {
+   "q": "We read the school newspaper every seven days to catch up with all important student news.",
+   "options": [
+    "weekly",
+    "national",
+    "mysterious",
+    "greenish"
+   ],
+   "answer": "weekly",
+   "explain": "weekly — haftalik: har haftada bir marta chiqadigan yoki sodir bo'ladigan."
+  },
+  {
+   "q": "The soup had no salt or spices at all, so it tasted like warm water.",
+   "options": [
+    "tasteless",
+    "painful",
+    "drinkable",
+    "enjoyable"
+   ],
+   "answer": "tasteless",
+   "explain": "tasteless — mazasiz: hech qanday ta'mga ega bo'lmagan ovqat."
+  },
+  {
+   "q": "The heavy box fell on my foot, and now my toes hurt very much when I walk.",
+   "options": [
+    "painful",
+    "painless",
+    "tasteless",
+    "drinkable"
+   ],
+   "answer": "painful",
+   "explain": "painful — og'riqli: jismoniy azob yoki og'riq keltiradigan holat."
+  },
+  {
+   "q": "My little brother refuses to share his toys with our cousins and only thinks about himself.",
+   "options": [
+    "selfish",
+    "selfless",
+    "childish",
+    "foolish"
+   ],
+   "answer": "selfish",
+   "explain": "selfish — xudbin: boshqalarni o'ylamaydigan, faqat o'zini o'ylaydigan bola."
+  },
+  {
+   "q": "Someone entered our empty house through the kitchen window last night and stole our television.",
+   "options": [
+    "break into something",
+    "rob",
+    "steal",
+    "mug"
+   ],
+   "answer": "break into something",
+   "explain": "break into something — bostirib kirish: uyga ruxsatsiz kuch bilan kirish."
+  },
+  {
+   "q": "My father was extremely angry when he discovered that someone had smashed our new family car.",
+   "options": [
+    "furious",
+    "careless",
+    "foolish",
+    "childish"
+   ],
+   "answer": "furious",
+   "explain": "furious — qahri kelgan, g'azablangan: qattiq g'azablangan holat."
+  }
+ ],
+ "b": [
+  {
+   "q": "My little brother is very ______ because he always refuses to share his toys with anyone.",
+   "options": [
+    "selfish",
+    "helpful",
+    "careless",
+    "foolish"
+   ],
+   "answer": "selfish",
+   "explain": "selfish — xudbin: boshqalar bilan o'yinchoqlarini bo'lishishni xohlamaydi."
+  },
+  {
+   "q": "We usually play a fun ______ together on Friday evenings when all my cousins visit our grandparents.",
+   "options": [
+    "board game",
+    "chewing gum",
+    "subway",
+    "train ticket"
+   ],
+   "answer": "board game",
+   "explain": "board game — stol o'yini: barcha amakivachchalarim kelganda o'ynaladigan o'yin."
+  },
+  {
+   "q": "It was extremely ______ of him to leave his front door wide open when he went to Tashkent.",
+   "options": [
+    "careless",
+    "helpful",
+    "hopeful",
+    "lucky"
+   ],
+   "answer": "careless",
+   "explain": "careless — e'tiborsiz: Toshkentga ketayotganda eshikni ochiq qoldirgani uchun."
+  },
+  {
+   "q": "The clever detective wanted to ______ the main suspect in the city police station yesterday morning.",
+   "options": [
+    "interview",
+    "launch",
+    "patrol",
+    "lean"
+   ],
+   "answer": "interview",
+   "explain": "interview — so'roq qilmoq: kecha ertalab asosiy gumon qilinuvchini so'roq qilmoqchi edi."
+  },
+  {
+   "q": "That old hotel near the railway station is surprisingly cheap and very ______ for students on holiday.",
+   "options": [
+    "affordable",
+    "painful",
+    "tasteless",
+    "foolish"
+   ],
+   "answer": "affordable",
+   "explain": "affordable — hamyonbop: talabalar uchun narxi juda qulay bo'lgan mehmonxona."
+  },
+  {
+   "q": "My younger sister hates eating medicine because she thinks the liquid tastes completely ______ and awful.",
+   "options": [
+    "tasteless",
+    "enjoyable",
+    "magical",
+    "greenish"
+   ],
+   "answer": "tasteless",
+   "explain": "tasteless — mazasiz: dori suvi umuman mazasiz va yomon ekanini aytmoqda."
+  },
+  {
+   "q": "Local teenagers love spending their hot summer afternoons swimming and relaxing at the big city ______ .",
+   "options": [
+    "water park",
+    "subway",
+    "table tennis",
+    "open-top car"
+   ],
+   "answer": "water park",
+   "explain": "water park — akvapark: issiq yoz kunlarida o'smirlar dam oladigan joy."
+  },
+  {
+   "q": "Someone decided to ______ the historic monument in the centre of Samarkand by painting ugly graffiti.",
+   "options": [
+    "vandalise",
+    "study",
+    "launch",
+    "patrol"
+   ],
+   "answer": "vandalise",
+   "explain": "vandalise — vayron qilmoq: Samarqanddagi tarixiy yodgorlikni bo'yoq bilan bulg'amoqchi bo'lishdi."
+  },
+  {
+   "q": "Walking alone through the dark street at midnight made her feel terribly ______ and unsafe.",
+   "options": [
+    "furious",
+    "lucky",
+    "hopeful",
+    "helpful"
+   ],
+   "answer": "furious",
+   "explain": "furious — qattiq g'azablangan: qorong'u ko'chada yolg'iz yurishdan g'azablandi."
+  },
+  {
+   "q": "My grandfather likes to sit on the comfortable wooden bench and ______ against the old apple tree.",
+   "options": [
+    "lean",
+    "grab",
+    "pull",
+    "search"
+   ],
+   "answer": "lean",
+   "explain": "lean — suyanmoq: bobom eski olma daraxtiga suyanib o'tirishni yaxshi ko'radi."
+  },
+  {
+   "q": "The criminal wore a black woolen ______ over his face so nobody could recognize him on CCTV.",
+   "options": [
+    "balaclava",
+    "handbag",
+    "strap",
+    "subway"
+   ],
+   "answer": "balaclava",
+   "explain": "balaclava — niqob: yuzini yashirish uchun kiygan qora jun niqob."
+  },
+  {
+   "q": "We need to buy a fast ______ before we can travel from Bukhara to Samarkand by railway.",
+   "options": [
+    "train ticket",
+    "telephone number",
+    "board game",
+    "chewing gum"
+   ],
+   "answer": "train ticket",
+   "explain": "train ticket — poyezd chiptasi: Buxorodan Samarqandga borish uchun sotib olish kerak."
+  },
+  {
+   "q": "The police started a serious ______ after someone stole three expensive golden paintings from the art gallery.",
+   "options": [
+    "murder investigation",
+    "water park",
+    "open-top car",
+    "table tennis"
+   ],
+   "answer": "murder investigation",
+   "explain": "murder investigation — qotillik tergovi: galereyadan qimmatbaho rasmlar o'g'irlangach boshlangan ish."
+  },
+  {
+   "q": "That mysterious crime story had a really ______ ending that surprised every reader in our English class.",
+   "options": [
+    "magical",
+    "tasteless",
+    "painful",
+    "careless"
+   ],
+   "answer": "magical",
+   "explain": "magical — sehrli: sinfimizdagi barcha o'quvchilarni hayratda qoldirgan sehrli yakun."
+  },
+  {
+   "q": "She forgot her expensive leather ______ on the crowded bus and never saw it again.",
+   "options": [
+    "handbag",
+    "balaclava",
+    "strap",
+    "subway"
+   ],
+   "answer": "handbag",
+   "explain": "handbag — ayollar sumkasi: gavjum avtobusda qolib ketgan qimmatbaho charm sumka."
+  },
+  {
+   "q": "Our school football team won the important ______ championship after beating their rivals last Saturday.",
+   "options": [
+    "national",
+    "weekly",
+    "greenish",
+    "affordable"
+   ],
+   "answer": "national",
+   "explain": "national — milliy: o'tgan shanba kuni g'alaba qozonilgan milliy chempionat."
+  },
+  {
+   "q": "It was extremely ______ to cross the busy highway without looking carefully at the oncoming traffic.",
+   "options": [
+    "foolish",
+    "helpful",
+    "hopeful",
+    "lucky"
+   ],
+   "answer": "foolish",
+   "explain": "foolish — ahmoqona: mashinalarga qaramasdan gavjum yo'lni kesib o'tish ahmoqlik edi."
+  },
+  {
+   "q": "My mother asked me to buy a fresh pack of mint ______ from the corner shop near our school.",
+   "options": [
+    "chewing gum",
+    "board game",
+    "train ticket",
+    "subway"
+   ],
+   "answer": "chewing gum",
+   "explain": "chewing gum — saqich: maktab yaqinidagi do'kondan sotib olish kerak bo'lgan saqich."
+  },
+  {
+   "q": "That amazing science fiction film was so ______ that we watched the whole thing twice without stopping.",
+   "options": [
+    "enjoyable",
+    "tasteless",
+    "painful",
+    "foolish"
+   ],
+   "answer": "enjoyable",
+   "explain": "enjoyable — maroqli: to'xtatmasdan ikki marta ko'rilgan juda qiziqarli film."
+  },
+  {
+   "q": "My little sister picked a pretty ______ leaf from the garden bush to show our grandmother.",
+   "options": [
+    "greenish",
+    "tasteless",
+    "painful",
+    "affordable"
+   ],
+   "answer": "greenish",
+   "explain": "greenish — yashilroq: buvimizga ko'rsatish uchun bog'dan terilgan yashil barg."
+  },
+  {
+   "q": "The brave firefighter acted in a truly ______ way by rushing into the burning building to save children.",
+   "options": [
+    "selfless",
+    "selfish",
+    "foolish",
+    "careless"
+   ],
+   "answer": "selfless",
+   "explain": "selfless — fidoyi: bolalarni qutqarish uchun yong'inga kirgan o't o'chiruvchining harakati."
+  },
+  {
+   "q": "My younger brother is very ______ because he always cries when he does not get his favourite toy.",
+   "options": [
+    "childish",
+    "careless",
+    "foolish",
+    "selfish"
+   ],
+   "answer": "childish",
+   "explain": "childish — bolakaylarga xos: ukasi o'yinchoq ololmasa doim yig'laydi va bolalarcha qiliq qiladi."
+  },
+  {
+   "q": "The brave police officer managed to catch the dangerous ______ who broke into the local jewellery shop.",
+   "options": [
+    "burglar",
+    "arsonist",
+    "vandal",
+    "smuggler"
+   ],
+   "answer": "burglar",
+   "explain": "burglar — o'g'ri: politsiyachi zargarlik do'koniga tushgan xavfli o'g'rini ushladi."
+  },
+  {
+   "q": "It is very ______ to leave your front door wide open when you go on a long holiday.",
+   "options": [
+    "foolish",
+    "helpful",
+    "hopeful",
+    "lucky"
+   ],
+   "answer": "foolish",
+   "explain": "foolish — ahmoqona: uzoq ta'tilga ketganda eshikni ochiq qoldirish juda ahmoqona ish."
+  },
+  {
+   "q": "The detective asked the frightened witness to ______ the suspect from the group of four men.",
+   "options": [
+    "identify",
+    "search",
+    "interview",
+    "launch"
+   ],
+   "answer": "identify",
+   "explain": "identify — aniqlamoqda: tergovchi guvohdan gumonlanuvchini tanib olishni so'radi."
+  },
+  {
+   "q": "Local teenagers love to play exciting matches of ______ in the school sports hall every single Friday.",
+   "options": [
+    "table tennis",
+    "board game",
+    "open-top car",
+    "subway"
+   ],
+   "answer": "table tennis",
+   "explain": "table tennis — stol tennisi: o'smirlar har juma maktabda stol tennisi o'ynashni yoqtirishadi."
+  },
+  {
+   "q": "The clever detective checked the window sill very carefully to find any hidden ______ left by the thief.",
+   "options": [
+    "fingerprints",
+    "dental records",
+    "telephone number",
+    "strap"
+   ],
+   "answer": "fingerprints",
+   "explain": "fingerprints — barmoq izlari: izquvar o'g'ri qoldirgan barmoq izlarini diqqat bilan tekshirdi."
+  },
+  {
+   "q": "That famous fashion designer will soon ______ a brand new collection of summer clothes for teenagers.",
+   "options": [
+    "launch",
+    "study",
+    "patrol",
+    "lean"
+   ],
+   "answer": "launch",
+   "explain": "launch — taqdim etmoqda: mashhur dizayner yozgi kiyimlar kolleksiyasini tez orada namoyish etadi."
+  },
+  {
+   "q": "The kind shop assistant was extremely ______ and helped me find a suitable jacket for my school party.",
+   "options": [
+    "helpful",
+    "careless",
+    "selfish",
+    "cowardly"
+   ],
+   "answer": "helpful",
+   "explain": "helpful — yordam beruvchi: do'kon xodimi maktab ziyofati uchun kurtka tanlashga yordam berdi."
+  },
+  {
+   "q": "Someone decided to ______ the historic wooden bridge by painting rude words on its ancient walls yesterday.",
+   "options": [
+    "vandalise",
+    "rob",
+    "mug",
+    "smuggle"
+   ],
+   "answer": "vandalise",
+   "explain": "vandalise — buzib shikastlamoq: kimdir tarixiy ko'prik devorlariga yomon so'zlarni yozib ketdi."
+  }
+ ],
+ "c": [
+  {
+   "q": "The smart ______ broke into our neighbor's house last night and stole a television.",
+   "answer": "burglar",
+   "base": "burglar",
+   "explain": "burglar — o'g'ri: kecha kechasi uyni o'g'irlab ketgan shaxs."
+  },
+  {
+   "q": "My little brother is very ______ and cries when he cannot get a toy.",
+   "answer": "childish",
+   "base": "childish",
+   "explain": "childish — bolakaycha: kattalarga xos bo'lmagan xatti-harakat."
+  },
+  {
+   "q": "They used a heavy hammer to ______ the glass window of the clothing shop.",
+   "answer": "vandalise",
+   "base": "vandalise",
+   "explain": "vandalise — buzib tashlamoq: jamoat mulkiga qasddan zarar yetkazish."
+  },
+  {
+   "q": "Please ______ the hot pan carefully so you do not burn your fingers today.",
+   "answer": "grab",
+   "base": "grab",
+   "explain": "grab — ushlab olmoq: biror narsani tezda qo'lga olish."
+  },
+  {
+   "q": "Police found many ______ on the stolen car door after the bank robbery.",
+   "answer": "fingerprints",
+   "base": "fingerprints",
+   "explain": "fingerprints — barmoq izlari: jinoyat joyida qoladigan inson izi."
+  },
+  {
+   "q": "That dark blue jacket is very ______ and fits into my small student budget.",
+   "answer": "affordable",
+   "base": "affordable",
+   "explain": "affordable — hamyonbop: narxi unchalik qimmat bo'lmagan narsa."
+  },
+  {
+   "q": "A dangerous ______ threw a burning match into the dry wooden forest.",
+   "answer": "arsonist",
+   "base": "arsonist",
+   "explain": "arsonist — o't qo'yuvchi: qasddan yong'in sodir etuvchi jinoyatchi."
+  },
+  {
+   "q": "The teacher looked ______ when all the students passed their difficult math test.",
+   "answer": "hopeful",
+   "base": "hopeful",
+   "explain": "hopeful — umidvor: yaxshi natijadan xursand va ishonchli."
+  },
+  {
+   "q": "She bought a new leather ______ to carry her books and lunch to school.",
+   "answer": "handbag",
+   "base": "handbag",
+   "explain": "handbag — ayollar sumkasi: kundalik buyumlarni olib yurish uchun."
+  },
+  {
+   "q": "The young boy was ______ because he refused to share his candies with friends.",
+   "answer": "selfish",
+   "base": "selfish",
+   "explain": "selfish — xudbin: faqat o'zini o'ylaydigan inson."
+  },
+  {
+   "q": "He wore a black ______ over his face so nobody could recognize him.",
+   "answer": "balaclava",
+   "base": "balaclava",
+   "explain": "balaclava — niqob: yuzni yashiradigan issiq bosh kiyim turi."
+  },
+  {
+   "q": "That small electric car is very ______ and uses very little petrol daily.",
+   "answer": "economical",
+   "base": "economical",
+   "explain": "economical — tejamkor: kam energiya yoki mablag' sarflaydigan."
+  },
+  {
+   "q": "The kind shop assistant was very ______ when I looked for a dictionary.",
+   "answer": "helpful",
+   "base": "helpful",
+   "explain": "helpful — yordam beruvchi: boshqalarga ko'maklashishni yoqtiradigan."
+  },
+  {
+   "q": "Detectives need to ______ the witness to find out what happened last night.",
+   "answer": "interview",
+   "base": "interview",
+   "explain": "interview — so'roq qilmoq: guvohdan ma'lumot olish jarayoni."
+  },
+  {
+   "q": "That colorful shirt has a strange ______ shade that looks like lime fruit.",
+   "answer": "greenish",
+   "base": "greenish",
+   "explain": "greenish — yashilroq: yashil rangga moyil bo'lgan tus."
+  },
+  {
+   "q": "An angry ______ snatched my phone from my hand near the crowded station.",
+   "answer": "mugger",
+   "base": "mugger",
+   "explain": "mugger — qaroqchi: ko'chada odamlarni talaydigan jinoyatchi."
+  },
+  {
+   "q": "The heavy rain did serious ______ to the farmers' crops in the village.",
+   "answer": "damage",
+   "base": "damage",
+   "explain": "damage — zarar: biror narsaning buzilishi yoki shikastlanishi."
+  },
+  {
+   "q": "He felt ______ after losing his wallet with all his money and cards.",
+   "answer": "furious",
+   "base": "furious",
+   "explain": "furious — g'azablangan: qattiq jahl chiqqan holat."
+  },
+  {
+   "q": "A clever ______ stole expensive paintings from the museum during the night.",
+   "answer": "thief",
+   "base": "thief [pl thieves]",
+   "explain": "thief — o'g'ri: o'zgalar mulkini yashirincha olib ketuvchi shaxs."
+  },
+  {
+   "q": "The clever detective tried to ______ the mystery of the missing diamond ring.",
+   "answer": "study",
+   "base": "study",
+   "explain": "study — o'rganmoq: biror narsani diqqat bilan tahlil qilish."
+  },
+  {
+   "q": "That terrible horror movie was so ______ that I could not sleep at all.",
+   "answer": "painful",
+   "base": "painful",
+   "explain": "painful — og'riqli: jismoniy yoki ruhiy azob beruvchi narsa."
+  },
+  {
+   "q": "We need to ______ our new winter clothing line on television next Monday.",
+   "answer": "launch",
+   "base": "launch",
+   "explain": "launch — ishga tushirmoq: yangi mahsulotni ommaga taqdim etish."
+  },
+  {
+   "q": "The brave soldier received a medal for his ______ rescue of the child.",
+   "answer": "selfless",
+   "base": "selfless",
+   "explain": "selfless — fidokor: boshqalar uchun o'zini ayamaydigan inson."
+  },
+  {
+   "q": "They took the underground ______ to get across the busy city center quickly.",
+   "answer": "subway",
+   "base": "subway",
+   "explain": "subway — metropoliten: yer ostida harakatlanadigan tezkor transport."
+  },
+  {
+   "q": "Yesterday, a masked ______ broke into the local jewellery shop and stole expensive watches.",
+   "answer": "burglar",
+   "base": "burglar",
+   "explain": "burglar — o'g'ri: uy yoki do'konga tushuvchi o'g'ri"
+  },
+  {
+   "q": "The criminal was caught because police found his ______ on the broken window glass.",
+   "answer": "fingerprints",
+   "base": "fingerprints",
+   "explain": "fingerprints — barmoq izlari: jinoyat joyida qoladigan izlar"
+  },
+  {
+   "q": "My little brother was so ______ that he cried loudly when he lost his toy.",
+   "answer": "childish",
+   "base": "childish",
+   "explain": "childish — bolakaylarcha: kattalarga xos bo'lmagan bola qilig'i"
+  },
+  {
+   "q": "That new electric car is very ______ because it uses very little electricity.",
+   "answer": "economical",
+   "base": "economical",
+   "explain": "economical — tejamkor: kam xarajat talab qiladigan narsa"
+  },
+  {
+   "q": "That old wooden bridge looks completely ______ after the heavy storm last night.",
+   "answer": "dangerous",
+   "base": "dangerous",
+   "explain": "dangerous — xavfli: zarar yetkazishi mumkin bo'lgan holat"
+  },
+  {
+   "q": "Please wait a moment and ______ on the phone while I ask my mother.",
+   "answer": "hold",
+   "base": "hold on",
+   "explain": "hold on — kutib turish: telefonda kuting ma'nosida"
+  }
+ ]
+}

@@ -1,0 +1,1182 @@
+{
+ "unit": 4,
+ "parts": [
+  [
+   {
+    "kind": "abc",
+    "q": "Teacher: What do you think about mobile phones in class?\nLaylo: In my ______, they should be switched off.",
+    "hint": "",
+    "options": [
+     "opinion",
+     "idea",
+     "mind"
+    ],
+    "answer": "opinion",
+    "accept": [],
+    "phrase": "In my opinion, ...",
+    "explain": "«In my opinion, ...» — «Mening fikrimcha». Belgilangan ibora, faqat «opinion» so'zi bilan.",
+    "wrong": {
+     "idea": "«In my idea» degan ibora ingliz tilida yo'q.",
+     "mind": "«In my mind» — «xayolimda», fikr bildirish iborasi emas."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Ali: Do you think the new park is nice?\nSardor: To be ______, I don't like it very much.",
+    "hint": "",
+    "options": [
+     "honest",
+     "true",
+     "real"
+    ],
+    "answer": "honest",
+    "accept": [],
+    "phrase": "To be honest, ...",
+    "explain": "«To be honest, ...» — «Rostini aytsam». Ochiq fikr oldidan, ayniqsa yoqmasa.",
+    "wrong": {
+     "true": "«To be true» deyilmaydi; «It's true that ...» boshqa ibora.",
+     "real": "«To be real» rasmiy ingliz tilida ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Madina: Is the city centre safe at night?\nKamola: It ______ to me that it's quite safe now.",
+    "hint": "",
+    "options": [
+     "seems",
+     "looks",
+     "thinks"
+    ],
+    "answer": "seems",
+    "accept": [],
+    "phrase": "It seems to me that ...",
+    "explain": "«It seems to me that ...» — «Menga shunday tuyuladiki». «seem to me» bilan keladi.",
+    "wrong": {
+     "looks": "«It looks to me» — rasmda ko'rinishni tasvirlashda, fikr iborasi emas.",
+     "thinks": "«It thinks» — «u o'ylaydi», ma'noga to'g'ri kelmaydi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Jasur: Why are young people so tired?\nNodir: As I ______ it, they go to bed too late.",
+    "hint": "",
+    "options": [
+     "see",
+     "look",
+     "watch"
+    ],
+    "answer": "see",
+    "accept": [],
+    "phrase": "As I see it, ...",
+    "explain": "«As I see it, ...» — «Men qanday ko'rsam». Fiksirlangan ibora, faqat «see».",
+    "wrong": {
+     "look": "«As I look it» — grammatik xato.",
+     "watch": "«watch» — tomosha qilmoq, bu iborada ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Zarina: How did people travel 200 years ago?\nDilnoza: I ______ that it was very slow and uncomfortable.",
+    "hint": "",
+    "options": [
+     "imagine",
+     "agree",
+     "seem"
+    ],
+    "answer": "imagine",
+    "accept": [],
+    "phrase": "I imagine that ...",
+    "explain": "«I imagine that ...» — «Tasavvurimcha». Aniq bilmagan narsani taxmin qilganda.",
+    "wrong": {
+     "agree": "«I agree» — birovga qo'shilish; bu yerda hech kim fikr aytmadi.",
+     "seem": "«I seem that» — grammatik xato; to'g'risi «It seems to me that»."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Otabek: Will it be easy to find a job?\nAziz: I don't ______ that it will be easy. There aren't many jobs.",
+    "hint": "",
+    "options": [
+     "think",
+     "agree",
+     "say"
+    ],
+    "answer": "think",
+    "accept": [],
+    "phrase": "I think / don't think that ...",
+    "explain": "«I don't think that ...» — «Menimcha ... emas». Inkor «think»ga qo'yiladi.",
+    "wrong": {
+     "agree": "«I don't agree that» — birovning fikriga qarshi chiqish; bu yerda savolga o'z fikr aytilyapti.",
+     "say": "«I don't say that» — «buni aytmayman», fikr iborasi emas."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Malika: Can money make people happy?\nShahzoda: I ______ that money can't buy happiness.",
+    "hint": "",
+    "options": [
+     "believe",
+     "seem",
+     "imagine to"
+    ],
+    "answer": "believe",
+    "accept": [],
+    "phrase": "I believe / don't believe that ...",
+    "explain": "«I believe that ...» — «...ga ishonaman». Qattiq ishongan fikr.",
+    "wrong": {
+     "seem": "«I seem that» — xato tuzilma.",
+     "imagine to": "«imagine to that» — grammatik xato."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Emma: I think homework is useful.\nYou: I agree ______ Emma that homework helps us remember.",
+    "hint": "",
+    "options": [
+     "with",
+     "to",
+     "on"
+    ],
+    "answer": "with",
+    "accept": [],
+    "phrase": "I agree / disagree with (Emma) that ...",
+    "explain": "Odamga qo'shilganda — «agree with + odam».",
+    "wrong": {
+     "to": "«agree to» — rozilik berish (taklifga), odamga emas.",
+     "on": "«agree on» — biror narsa bo'yicha kelishish, odamdan oldin emas."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Tom: Cycling to school is dangerous.\nYou: Tom is ______ to say that, because there are a lot of cars.",
+    "hint": "",
+    "options": [
+     "right",
+     "true",
+     "agree"
+    ],
+    "answer": "right",
+    "accept": [],
+    "phrase": "(Tom) is right / wrong to say that ... because ...",
+    "explain": "«(Tom) is right to say that ... because ...» — «Tom ... deb to'g'ri aytyapti, chunki ...».",
+    "wrong": {
+     "true": "«Tom is true» deyilmaydi — odam haqida «right».",
+     "agree": "«Tom is agree» — xato, «agree» fe'l."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Tom: Video games are a waste of time.\nYou: I think Tom is ______ to say that, because some games teach you things.",
+    "hint": "",
+    "options": [
+     "wrong",
+     "false",
+     "bad"
+    ],
+    "answer": "wrong",
+    "accept": [],
+    "phrase": "(Tom) is right / wrong to say that ... because ...",
+    "explain": "Qo'shilmasak — «is wrong to say that». Keyingi «because some games teach» qarshi fikrni ko'rsatadi.",
+    "wrong": {
+     "false": "«false» — narsa/gap haqida, odam haqida «wrong» deyiladi.",
+     "bad": "«is bad to say» — iboraga to'g'ri kelmaydi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Sam: Fast food is cheap.\nYou: It's ______ that it's cheap, but it isn't healthy.",
+    "hint": "",
+    "options": [
+     "true",
+     "right",
+     "real"
+    ],
+    "answer": "true",
+    "accept": [],
+    "phrase": "It's true that ...",
+    "explain": "«It's true that ..., but ...» — qisman qo'shilish: «To'g'ri, ..., lekin ...».",
+    "wrong": {
+     "right": "«It's right that» — «adolatli» ma'nosiga yaqin, qisman qo'shilish iborasi «It's true that».",
+     "real": "«It's real that» — ingliz tilida bunday ibora yo'q."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Teacher: Compare the two photos, please.\nAnvar: The common ______ in the photos is sport.",
+    "hint": "",
+    "options": [
+     "theme",
+     "thing",
+     "topic of"
+    ],
+    "answer": "theme",
+    "accept": [],
+    "phrase": "The common theme in the photos is ...",
+    "explain": "«The common theme in the photos is ...» — «Rasmlardagi umumiy mavzu — ...».",
+    "wrong": {
+     "thing": "«common thing» — tushunarli, lekin bu Functions Bank iborasi emas va rasmiy emas.",
+     "topic of": "«common topic of in the photos» — grammatik xato."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Examiner: What can you see?\nLola: ______ photos show people working outside.",
+    "hint": "",
+    "options": [
+     "Both",
+     "All",
+     "Two"
+    ],
+    "answer": "Both",
+    "accept": [],
+    "phrase": "Both photos show ...",
+    "explain": "Ikki rasm haqida — «Both photos show ...».",
+    "wrong": {
+     "All": "«All» — uch yoki undan ko'p narsa uchun.",
+     "Two": "«Two photos show» — ma'nosi tushunarli, ammo o'xshashlikni bildiradigan ibora «Both»."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Examiner: Is there anything the same?\nSanjar: Yes, in both photos ______ are children.",
+    "hint": "",
+    "options": [
+     "there",
+     "they",
+     "it"
+    ],
+    "answer": "there",
+    "accept": [],
+    "phrase": "In both photos there are ...",
+    "explain": "«In both photos there are + ko'plik» — «Ikkala rasmda ham ... bor».",
+    "wrong": {
+     "they": "«they are children» — «ular bolalar», «bor» ma'nosi emas.",
+     "it": "«it are» — grammatik xato."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Examiner: How are the photos different?\nMohira: The first photo shows a beach, ______ the second photo shows mountains.",
+    "hint": "",
+    "options": [
+     "whereas",
+     "unlike",
+     "both"
+    ],
+    "answer": "whereas",
+    "accept": [],
+    "phrase": "The first photo shows ..., whereas the second photo shows ...",
+    "explain": "«whereas» — «...esa». Ikki gapni qarama-qarshi qilib bog'laydi.",
+    "wrong": {
+     "unlike": "«unlike» dan keyin ot keladi, gap emas (Unlike the first photo, ...).",
+     "both": "«both» o'xshashlikni bildiradi, farqni emas."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Examiner: Any differences?\nTimur: One obvious ______ is that the first photo is in winter.",
+    "hint": "",
+    "options": [
+     "difference",
+     "different",
+     "contrast to"
+    ],
+    "answer": "difference",
+    "accept": [],
+    "phrase": "One obvious difference is (that) ...",
+    "explain": "«One obvious difference is (that) ...» — ot kerak: «difference».",
+    "wrong": {
+     "different": "«different» — sifat, «one obvious different» xato.",
+     "contrast to": "«contrast to is» — grammatik xato."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Examiner: Now the second photo.\nShoira: ______ the first photo, the second photo shows a very busy street.",
+    "hint": "",
+    "options": [
+     "Unlike",
+     "Whereas",
+     "Both"
+    ],
+    "answer": "Unlike",
+    "accept": [],
+    "phrase": "Unlike the first photo, the second photo shows ...",
+    "explain": "«Unlike + ot, ...» — «...dan farqli ravishda». Gap boshida, keyin vergul.",
+    "wrong": {
+     "Whereas": "«whereas» ikki gap o'rtasida keladi va undan keyin ot emas, gap kerak.",
+     "Both": "«Both the first photo» — ma'nosiz, o'xshashlik so'zi."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Emma: Learning a second language is easy for children.\nYou: I ______ with Emma that children learn languages quickly.",
+    "hint": "",
+    "options": [
+     "agree",
+     "think",
+     "say"
+    ],
+    "answer": "agree",
+    "accept": [],
+    "phrase": "I agree / disagree with (Emma) that ...",
+    "explain": "«I agree with + odam + that ...» — birovning fikriga qo'shilish.",
+    "wrong": {
+     "think": "«I think with Emma» — xato.",
+     "say": "«I say with Emma» — xato."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Tom: Public transport is too expensive.\nYou: I think Tom is right ______ say that, because tickets cost a lot.",
+    "hint": "",
+    "options": [
+     "to",
+     "for",
+     "that"
+    ],
+    "answer": "to",
+    "accept": [],
+    "phrase": "(Tom) is right / wrong to say that ... because ...",
+    "explain": "«is right to say that» — «to» + fe'l.",
+    "wrong": {
+     "for": "«right for say» — xato.",
+     "that": "«right that say» — xato."
+    }
+   },
+   {
+    "kind": "abc",
+    "q": "Examiner: How are the photos different?\nAziza: ______ the first photo, the second photo shows people indoors.",
+    "hint": "",
+    "options": [
+     "Unlike",
+     "Like",
+     "Both"
+    ],
+    "answer": "Unlike",
+    "accept": [],
+    "phrase": "Unlike the first photo, the second photo shows ...",
+    "explain": "Farq — «Unlike the first photo, ...».",
+    "wrong": {
+     "Like": "«Like» — o'xshashlikni bildiradi.",
+     "Both": "«Both» — o'xshashlik, farq emas."
+    }
+   }
+  ],
+  [
+   {
+    "kind": "abctext",
+    "q": "Look at these picture options for our school project. ______ my opinion, the first one is much more interesting for teenagers.",
+    "hint": "",
+    "options": [
+     "In",
+     "On",
+     "At"
+    ],
+    "answer": "In",
+    "accept": [],
+    "phrase": "In my opinion, ...",
+    "explain": "Bu yerda «In my opinion,» (Mening fikrimcha) iborasi ishlatilgan.",
+    "wrong": {
+     "On": "«On my opinion» deyilmaydi, to'g'ri ko'rinishi «In my opinion».",
+     "At": "«At my opinion» grammatik jihatdan noto'g'ri ibora."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Look at the student in the picture. It ______ to me that he is preparing for his exams in Tashkent.",
+    "hint": "",
+    "options": [
+     "seems",
+     "looks",
+     "feels"
+    ],
+    "answer": "seems",
+    "accept": [],
+    "phrase": "It seems to me that ...",
+    "explain": "«It seems to me that...» (Menga shunday tuyuladiki...) iborasida «seems» fe'li ishlatiladi.",
+    "wrong": {
+     "looks": "«It looks to me» bu yerda standart ibora o'rniga mos kelmaydi.",
+     "feels": "«It feels to me» bu fikr bildirish iborasida qo'llanilmaydi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "We need to choose a holiday destination. To ______ honest, I prefer going to Samarkand rather than staying at home.",
+    "hint": "",
+    "options": [
+     "be",
+     "make",
+     "get"
+    ],
+    "answer": "be",
+    "accept": [],
+    "phrase": "To be honest, ...",
+    "explain": "«To be honest,» (Rostini aytsam) iborasida «be» fe'li keladi.",
+    "wrong": {
+     "make": "«To make honest» iborasi ingliz tilida mavjud emas.",
+     "get": "«To get honest» bu kontekstda noto'g'ri ishlatilgan."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Both pictures show teenagers working hard. As I ______ it, spending time on study is very important.",
+    "hint": "",
+    "options": [
+     "see",
+     "watch",
+     "look"
+    ],
+    "answer": "see",
+    "accept": [],
+    "phrase": "As I see it, ...",
+    "explain": "«As I see it,» (Mening qarashimcha) iborasida «see» fe'li ishlatiladi.",
+    "wrong": {
+     "watch": "«As I watch it» iborasi bu ma'noni bermaydi.",
+     "look": "«As I look it» grammatik xato hisoblanadi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Look at the people in the second photo. I ______ that they are having a great time at the birthday party.",
+    "hint": "",
+    "options": [
+     "imagine",
+     "know",
+     "wonder"
+    ],
+    "answer": "imagine",
+    "accept": [],
+    "phrase": "I imagine that ...",
+    "explain": "«I imagine that...» (Tassavur qilishimcha / O'ylashimcha...) iborasi taxmin bildiradi.",
+    "wrong": {
+     "know": "Fotosuratga qarab aniq bilib bo'lmaydi, faqat taxmin qilinadi.",
+     "wonder": "«I wonder that» o'rniga taxmin uchun «imagine» mos keladi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "I ______ think that doing homework on Sunday is a good idea. We need rest.",
+    "hint": "",
+    "options": [
+     "don't",
+     "not",
+     "aren't"
+    ],
+    "answer": "don't",
+    "accept": [],
+    "phrase": "I think / don't think that ...",
+    "explain": "Fikrni inkor qilishda «I don't think that...» (Men shunday deb o'ylamayman) iborasi ishlatiladi.",
+    "wrong": {
+     "not": "«I not think» grammatik jihatdan noto'g'ri.",
+     "aren't": "«I aren't think» shaxs va zamonga mos kelmaydi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "I ______ that teenagers should help their parents around the house every weekend.",
+    "hint": "",
+    "options": [
+     "believe",
+     "hope",
+     "desire"
+    ],
+    "answer": "believe",
+    "accept": [],
+    "phrase": "I believe / don't believe that ...",
+    "explain": "Fikr bildirish uchun «I believe that...» (Men ishonamanki...) iborasi qo'llaniladi.",
+    "wrong": {
+     "hope": "Umumiy fikr-qarash bildirish uchun «believe» ko'proq mos.",
+     "desire": "«I desire that» iborasi bu kontekstga mos tushmaydi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Anvar says online learning is convenient. I agree ______ Anvar that it saves a lot of time.",
+    "hint": "",
+    "options": [
+     "with",
+     "to",
+     "for"
+    ],
+    "answer": "with",
+    "accept": [],
+    "phrase": "I agree / disagree with (Emma) that ...",
+    "explain": "Biror kishining fikriga qo'shilishda «agree with (someone)» ishlatiladi.",
+    "wrong": {
+     "to": "«Agree to» taklifga rozi bo'lishda ishlatiladi, shaxs bilan emas.",
+     "for": "«Agree for» predlogi bu iborada ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Lola is ______ to say that learning foreign languages is useful because it opens up career opportunities.",
+    "hint": "",
+    "options": [
+     "right",
+     "correctly",
+     "true"
+    ],
+    "answer": "right",
+    "accept": [],
+    "phrase": "(Tom) is right / wrong to say that ... because ...",
+    "explain": "«(Someone) is right to say that...» (Kimdir buni aytib haq) iborasi ishlatiladi.",
+    "wrong": {
+     "correctly": "«is» fe'lidan so'ng ravish («correctly») emas, sifat keladi.",
+     "true": "Kishi haqida gapirganda «is true» emas, «is right» deyiladi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "It's ______ that living in a big city like Tashkent is quite exciting for teenagers.",
+    "hint": "",
+    "options": [
+     "true",
+     "right",
+     "sure"
+    ],
+    "answer": "true",
+    "accept": [],
+    "phrase": "It's true that ...",
+    "explain": "«It's true that...» (Haqiqatan ham...) iborasida «true» sifati qo'llaniladi.",
+    "wrong": {
+     "right": "«It's right that» bu yerda holat haqiqatligini bildirish uchun ishlatilmaydi.",
+     "sure": "«It's sure that» bu konstruktsiyada mos kelmaydi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "The common ______ in the photos is outdoor summer activities with family.",
+    "hint": "",
+    "options": [
+     "theme",
+     "topic",
+     "subject"
+    ],
+    "answer": "theme",
+    "accept": [],
+    "phrase": "The common theme in the photos is ...",
+    "explain": "Rasm taqqoslashda umumiy mavzuni ko'rsatuvchi «The common theme in the photos is...» iborasi qo'llaniladi.",
+    "wrong": {
+     "topic": "Rasmlarni taqqoslash standart iborasida «theme» so'zi ishlatiladi.",
+     "subject": "«Common subject» bu funktsional iborada qo'llanilmaydi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "You can see a group of happy teenagers ______ both photos.",
+    "hint": "",
+    "options": [
+     "in",
+     "on",
+     "at"
+    ],
+    "answer": "in",
+    "accept": [],
+    "phrase": "You can see ... in both photos.",
+    "explain": "«in both photos» (har ikkala suratda) iborasida «in» predlogi ishlatiladi.",
+    "wrong": {
+     "on": "Surat ichidagi narsalar haqida gapirganda «in photo» deyiladi.",
+     "at": "«at both photos» predlogi xato hisoblanadi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Essay: Many people say that cities are dangerous. It's ______ that there is more crime in cities, but there are also more police.",
+    "hint": "",
+    "options": [
+     "true",
+     "right",
+     "agree"
+    ],
+    "answer": "true",
+    "accept": [],
+    "phrase": "It's true that ...",
+    "explain": "«It's true that ..., but ...» — qisman qo'shilish.",
+    "wrong": {
+     "right": "«It's right that» — boshqa ma'no.",
+     "agree": "«It's agree» — xato."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Exam answer: The common ______ in the photos is family life. Both photos show parents and children.",
+    "hint": "",
+    "options": [
+     "theme",
+     "thing",
+     "different"
+    ],
+    "answer": "theme",
+    "accept": [],
+    "phrase": "The common theme in the photos is ...",
+    "explain": "«The common theme in the photos is ...» — umumiy mavzu.",
+    "wrong": {
+     "thing": "Kitob iborasi emas.",
+     "different": "Sifat — xato."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Exam answer: In the first photo the family is eating at home, ______ in the second photo they are in a restaurant.",
+    "hint": "",
+    "options": [
+     "but",
+     "both",
+     "unlike"
+    ],
+    "answer": "but",
+    "accept": [],
+    "phrase": "In the first photo ..., but in the second photo ...",
+    "explain": "Ikki gapni farq bilan bog'lash — «but».",
+    "wrong": {
+     "both": "O'xshashlik so'zi.",
+     "unlike": "Keyin ot keladi, gap emas."
+    }
+   }
+  ],
+  [
+   {
+    "kind": "word",
+    "q": "Examiner: Look at the photos.\nAkmal: In ______ to the first photo, the second photo is very quiet.",
+    "hint": "",
+    "options": [],
+    "answer": "contrast",
+    "accept": [],
+    "phrase": "In contrast to the first photo, the second photo ...",
+    "explain": "«In contrast to ...» — «...dan farqli o'laroq». Bo'shliqqa «contrast» so'zi kerak.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Examiner: What's different?\nNilufar: In the first photo the people are happy, ______ in the second photo they look sad.",
+    "hint": "",
+    "options": [],
+    "answer": "but",
+    "accept": [],
+    "phrase": "In the first photo ..., but in the second photo ...",
+    "explain": "«In the first photo ..., but in the second photo ...» — farqni oddiy «but» bilan bog'laymiz.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Examiner: Is there anything the same?\nOdil: You can ______ young people in both photos.",
+    "hint": "",
+    "options": [],
+    "answer": "see",
+    "accept": [],
+    "phrase": "You can see ... in both photos.",
+    "explain": "«You can see ... in both photos.» — «Ikkala rasmda ham ...ni ko'rish mumkin».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Examiner: Tell me about the photos.\nGulnora: The common theme ______ the photos is travelling.",
+    "hint": "",
+    "options": [],
+    "answer": "in",
+    "accept": [],
+    "phrase": "The common theme in the photos is ...",
+    "explain": "«The common theme in the photos is ...» — rasmlar «ichida», shuning uchun «in».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Lola: What do you think about the new school rules?\nMalika: ______ my opinion, they are fair.",
+    "hint": "",
+    "options": [],
+    "answer": "In",
+    "accept": [],
+    "phrase": "In my opinion, ...",
+    "explain": "«In my opinion, ...» — har doim «in» predlogi bilan.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Diyor: Is your city getting better?\nJamshid: It seems to ______ that it's getting cleaner.",
+    "hint": "",
+    "options": [],
+    "answer": "me",
+    "accept": [],
+    "phrase": "It seems to me that ...",
+    "explain": "«It seems to me that ...» — «menga tuyuladi»; bo'shliqqa «me».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Sevara: Do you like the new café?\nBarno: To be ______, the food is not very good.",
+    "hint": "",
+    "options": [],
+    "answer": "honest",
+    "accept": [],
+    "phrase": "To be honest, ...",
+    "explain": "«To be honest, ...» — «Rostini aytsam». Bo'shliq — «honest».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Teacher: Why do people move to cities?\nRustam: As I ______ it, they want better jobs.",
+    "hint": "",
+    "options": [],
+    "answer": "see",
+    "accept": [],
+    "phrase": "As I see it, ...",
+    "explain": "«As I see it, ...» — «Men ko'rishimcha». Fe'l — «see».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Emma: Zoos are cruel.\nAziza: I ______ with Emma that animals need more space.",
+    "hint": "",
+    "options": [],
+    "answer": "agree",
+    "accept": [],
+    "phrase": "I agree / disagree with (Emma) that ...",
+    "explain": "Gapda qo'shilish ma'nosi bor (animals need more space) — «I agree with Emma that ...».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Ben: Reading is boring.\nMadina: I ______ with Ben. Books can be really exciting!",
+    "hint": "",
+    "options": [],
+    "answer": "disagree",
+    "accept": [],
+    "phrase": "I agree / disagree with (Emma) that ...",
+    "explain": "Keyingi gap qarshi fikr bildiradi — «I disagree with Ben».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Kevin: Football is the best sport.\nIslom: It's ______ that it's popular, but I prefer tennis.",
+    "hint": "",
+    "options": [],
+    "answer": "true",
+    "accept": [],
+    "phrase": "It's true that ...",
+    "explain": "«It's true that ..., but ...» — qisman qo'shilish.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Teacher: Will robots do all our jobs?\nFarrux: I don't ______ that robots will do all jobs. People are still important.",
+    "hint": "",
+    "options": [],
+    "answer": "believe",
+    "accept": [
+     "think"
+    ],
+    "phrase": "I believe / don't believe that ...",
+    "explain": "«I don't believe / don't think that ...» — «...ga ishonmayman / menimcha ... emas». Ikkalasi ham to'g'ri.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Examiner: Compare the photos.\nZiyoda: The first photo ______ a family at home, whereas the second photo shows friends in a park.",
+    "hint": "",
+    "options": [],
+    "answer": "shows",
+    "accept": [],
+    "phrase": "The first photo shows ..., whereas the second photo shows ...",
+    "explain": "«The first photo shows ...» — birlikda, shuning uchun «shows» (-s bilan).",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Examiner: Is there anything the same?\nDoniyor: In ______ photos there are animals.",
+    "hint": "",
+    "options": [],
+    "answer": "both",
+    "accept": [],
+    "phrase": "In both photos there are ...",
+    "explain": "«In both photos there are ...».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Teacher: What's your opinion about homework?\nSabina: I ______ that homework is useful, but we have too much.",
+    "hint": "",
+    "options": [],
+    "answer": "think",
+    "accept": [
+     "believe"
+    ],
+    "phrase": "I think / don't think that ...",
+    "explain": "«I think that ...» — fikr bildirish.",
+    "wrong": {}
+   }
+  ]
+ ],
+ "guide": {
+  "topics": [
+   {
+    "name": "Expressing opinions",
+    "name_uz": "Fikr bildirish",
+    "summary": "O'z fikringizni aytayotganda gapni shu iboralardan boshlang — gapingiz yumshoq va tabiiy eshitiladi.",
+    "usage": [
+     {
+      "text": "I think / don't think that ... — «Menimcha ... / Menimcha ... emas». Eng oddiy, har joyda ishlatiladi.",
+      "example": {
+       "en": "I don't think that homework is useless.",
+       "uz": "Menimcha, uy vazifasi foydasiz emas."
+      }
+     },
+     {
+      "text": "In my opinion, ... — «Mening fikrimcha, ...». Gap boshida, keyin vergul.",
+      "example": {
+       "en": "In my opinion, teenagers spend too much time online.",
+       "uz": "Mening fikrimcha, o'smirlar internetda juda ko'p vaqt o'tkazadi."
+      }
+     },
+     {
+      "text": "I believe / don't believe that ... — «...ga ishonaman / ishonmayman». Fikringizga qattiq ishonganda.",
+      "example": {
+       "en": "I believe that sport makes people happier.",
+       "uz": "Sport odamlarni baxtliroq qilishiga ishonaman."
+      }
+     },
+     {
+      "text": "It seems to me that ... — «Menga shunday tuyuladiki, ...». Ehtiyotkorona fikr.",
+      "example": {
+       "en": "It seems to me that the city is getting busier.",
+       "uz": "Menga shahar gavjumlashib borayotgandek tuyuladi."
+      }
+     },
+     {
+      "text": "To be honest, ... — «Rostini aytsam, ...». Ochiq, ba'zan kutilmagan fikr oldidan.",
+      "example": {
+       "en": "To be honest, I didn't like the film.",
+       "uz": "Rostini aytsam, film menga yoqmadi."
+      }
+     },
+     {
+      "text": "As I see it, ... — «Men qanday ko'rsam, ...». O'z nuqtai nazaringizni ta'kidlaydi.",
+      "example": {
+       "en": "As I see it, the problem is money.",
+       "uz": "Men ko'rishimcha, muammo — pul."
+      }
+     },
+     {
+      "text": "I imagine that ... — «Tasavvur qilishimcha, ...». Aniq bilmaganda taxmin.",
+      "example": {
+       "en": "I imagine that life was harder 100 years ago.",
+       "uz": "Tasavvurimcha, 100 yil oldin hayot qiyinroq bo'lgan."
+      }
+     }
+    ],
+    "structure": [
+     {
+      "type": "+",
+      "formula": "I think / I believe / I imagine + that + gap",
+      "example": {
+       "en": "I think that cars are too expensive.",
+       "uz": "Menimcha, mashinalar juda qimmat."
+      }
+     },
+     {
+      "type": "-",
+      "formula": "I don't think / I don't believe + that + ijobiy gap",
+      "example": {
+       "en": "I don't think that it's a good idea.",
+       "uz": "Menimcha, bu yaxshi fikr emas."
+      }
+     },
+     {
+      "type": "short",
+      "formula": "In my opinion, / To be honest, / As I see it, + gap",
+      "example": {
+       "en": "To be honest, I'm bored.",
+       "uz": "Rostini aytsam, zerikdim."
+      }
+     }
+    ],
+    "signals": [
+     {
+      "en": "opinion",
+      "uz": "fikr"
+     },
+     {
+      "en": "honest",
+      "uz": "rostgo'y, ochiq"
+     },
+     {
+      "en": "seems",
+      "uz": "tuyuladi"
+     },
+     {
+      "en": "as I see it",
+      "uz": "men ko'rishimcha"
+     },
+     {
+      "en": "imagine",
+      "uz": "tasavvur qilmoq"
+     }
+    ],
+    "tip": "Inglizlar «I think it isn't ...» emas, «I don't think it is ...» deyishadi — inkorni «think»ga qo'ying."
+   },
+   {
+    "name": "Agreeing and disagreeing",
+    "name_uz": "Qo'shilish va qo'shilmaslik",
+    "summary": "Birovning fikriga qo'shilganda yoki qarshi chiqqanda, sababini ham aytib, shu iboralarni ishlatasiz.",
+    "usage": [
+     {
+      "text": "I agree / disagree with (Emma) that ... — «(Emma)ning ... degan fikriga qo'shilaman / qo'shilmayman». Odamdan keyin «with».",
+      "example": {
+       "en": "I agree with Emma that the test was hard.",
+       "uz": "Testning qiyin bo'lgani haqida Emmaga qo'shilaman."
+      }
+     },
+     {
+      "text": "(Tom) is right / wrong to say that ... because ... — «(Tom) ... deb to'g'ri / noto'g'ri aytyapti, chunki ...».",
+      "example": {
+       "en": "Tom is right to say that buses are slow because there is a lot of traffic.",
+       "uz": "Tom avtobuslar sekin deb to'g'ri aytyapti, chunki tirbandlik ko'p."
+      }
+     },
+     {
+      "text": "It's true that ... — «To'g'ri, ...». Qisman qo'shilish, ko'pincha keyin «but».",
+      "example": {
+       "en": "It's true that phones are useful, but they are also distracting.",
+       "uz": "Telefonlar foydali, to'g'ri, lekin chalg'itadi ham."
+      }
+     }
+    ],
+    "structure": [
+     {
+      "type": "+",
+      "formula": "I agree with + odam + that + gap",
+      "example": {
+       "en": "I agree with you that it's expensive.",
+       "uz": "Qimmat degan fikringizga qo'shilaman."
+      }
+     },
+     {
+      "type": "-",
+      "formula": "I disagree with + odam + that + gap",
+      "example": {
+       "en": "I disagree with Sam that the film was boring.",
+       "uz": "Film zerikarli bo'lgan degan fikrda Semga qo'shilmayman."
+      }
+     },
+     {
+      "type": "short",
+      "formula": "Odam + is right / wrong + to say that ... because ...",
+      "example": {
+       "en": "Ali is wrong to say that it's easy because ...",
+       "uz": "Ali buni oson deb noto'g'ri aytyapti, chunki ..."
+      }
+     }
+    ],
+    "signals": [
+     {
+      "en": "agree with",
+      "uz": "qo'shilmoq"
+     },
+     {
+      "en": "disagree",
+      "uz": "qo'shilmaslik"
+     },
+     {
+      "en": "right / wrong to say",
+      "uz": "to'g'ri / noto'g'ri aytmoq"
+     },
+     {
+      "en": "it's true",
+      "uz": "to'g'ri"
+     },
+     {
+      "en": "because",
+      "uz": "chunki"
+     }
+    ],
+    "tip": "«I am agree» deb bo'lmaydi! «agree» — fe'l: «I agree», «I don't agree»."
+   },
+   {
+    "name": "Comparing photos: similarities",
+    "name_uz": "Rasmlarni taqqoslash: o'xshashliklar",
+    "summary": "Ikki rasmni solishtirganda avval ulardagi umumiy narsani aytasiz.",
+    "usage": [
+     {
+      "text": "The common theme in the photos is ... — «Rasmlardagi umumiy mavzu — ...». Javobni shu bilan boshlash qulay.",
+      "example": {
+       "en": "The common theme in the photos is free time.",
+       "uz": "Rasmlardagi umumiy mavzu — bo'sh vaqt."
+      }
+     },
+     {
+      "text": "You can see ... in both photos. — «Ikkala rasmda ham ...ni ko'rish mumkin».",
+      "example": {
+       "en": "You can see young people in both photos.",
+       "uz": "Ikkala rasmda ham yoshlarni ko'rish mumkin."
+      }
+     },
+     {
+      "text": "Both photos show ... — «Ikkala rasm ham ...ni ko'rsatadi». «Both» dan keyin ko'plik (photos) va «show» (-s siz).",
+      "example": {
+       "en": "Both photos show people eating.",
+       "uz": "Ikkala rasm ham ovqatlanayotgan odamlarni ko'rsatadi."
+      }
+     },
+     {
+      "text": "In both photos there are ... — «Ikkala rasmda ham ... bor». Keyin ko'plikdagi ot.",
+      "example": {
+       "en": "In both photos there are trees.",
+       "uz": "Ikkala rasmda ham daraxtlar bor."
+      }
+     }
+    ],
+    "structure": [
+     {
+      "type": "+",
+      "formula": "Both photos show + ot / V-ing",
+      "example": {
+       "en": "Both photos show a family.",
+       "uz": "Ikkala rasm ham oilani ko'rsatadi."
+      }
+     },
+     {
+      "type": "+",
+      "formula": "In both photos there are + ko'plik ot",
+      "example": {
+       "en": "In both photos there are cars.",
+       "uz": "Ikkala rasmda ham mashinalar bor."
+      }
+     }
+    ],
+    "signals": [
+     {
+      "en": "both",
+      "uz": "ikkalasi ham"
+     },
+     {
+      "en": "common theme",
+      "uz": "umumiy mavzu"
+     },
+     {
+      "en": "in both photos",
+      "uz": "ikkala rasmda"
+     }
+    ],
+    "tip": "«Both photos shows» — xato. «Both» ko'plik, shuning uchun «show»."
+   },
+   {
+    "name": "Comparing photos: differences",
+    "name_uz": "Rasmlarni taqqoslash: farqlar",
+    "summary": "O'xshashlikdan keyin rasmlar orasidagi farqni aytasiz.",
+    "usage": [
+     {
+      "text": "The first photo shows ..., whereas the second photo shows ... — «Birinchi rasmda ..., ikkinchisida esa ...».",
+      "example": {
+       "en": "The first photo shows a city, whereas the second photo shows a village.",
+       "uz": "Birinchi rasmda shahar, ikkinchisida esa qishloq."
+      }
+     },
+     {
+      "text": "In the first photo ..., but in the second photo ... — oddiyroq variant «but» bilan.",
+      "example": {
+       "en": "In the first photo it's sunny, but in the second photo it's raining.",
+       "uz": "Birinchi rasmda quyoshli, ammo ikkinchisida yomg'ir yog'yapti."
+      }
+     },
+     {
+      "text": "One obvious difference is (that) ... — «Eng aniq farqlardan biri — ...».",
+      "example": {
+       "en": "One obvious difference is that the first photo is indoors.",
+       "uz": "Eng aniq farq — birinchi rasm bino ichida."
+      }
+     },
+     {
+      "text": "Unlike the first photo, the second photo shows ... — «Birinchi rasmdan farqli ravishda ...».",
+      "example": {
+       "en": "Unlike the first photo, the second photo shows a big crowd.",
+       "uz": "Birinchi rasmdan farqli ravishda ikkinchisida katta olomon bor."
+      }
+     },
+     {
+      "text": "In contrast to the first photo, the second photo ... — «Birinchi rasmdan farqli o'laroq ...». «contrast» dan keyin «to».",
+      "example": {
+       "en": "In contrast to the first photo, the second photo is very quiet.",
+       "uz": "Birinchi rasmdan farqli o'laroq ikkinchisi juda sokin."
+      }
+     }
+    ],
+    "structure": [
+     {
+      "type": "+",
+      "formula": "The first photo shows ..., whereas the second photo shows ...",
+      "example": {
+       "en": "The first photo shows a boy, whereas the second photo shows a girl.",
+       "uz": "Birinchi rasmda bola, ikkinchisida esa qiz."
+      }
+     },
+     {
+      "type": "short",
+      "formula": "Unlike / In contrast to + the first photo, the second photo ...",
+      "example": {
+       "en": "Unlike the first photo, the second one is dark.",
+       "uz": "Birinchisidan farqli, ikkinchisi qorong'i."
+      }
+     },
+     {
+      "type": "+",
+      "formula": "One obvious difference is (that) + gap",
+      "example": {
+       "en": "One obvious difference is the weather.",
+       "uz": "Aniq farq — ob-havo."
+      }
+     }
+    ],
+    "signals": [
+     {
+      "en": "whereas",
+      "uz": "...esa"
+     },
+     {
+      "en": "unlike",
+      "uz": "...dan farqli"
+     },
+     {
+      "en": "in contrast to",
+      "uz": "farqli o'laroq"
+     },
+     {
+      "en": "difference",
+      "uz": "farq"
+     },
+     {
+      "en": "obvious",
+      "uz": "aniq, ko'zga tashlanadigan"
+     }
+    ],
+    "tip": "«In contrast with» emas, kitobdagi ibora — «In contrast to». «Unlike» dan keyin predlog kerak emas."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I am agree with you.",
+    "right": "I agree with you.",
+    "why": "«agree» — fe'l, oldiga «am» qo'yilmaydi."
+   },
+   {
+    "wrong": "I think it isn't a good idea.",
+    "right": "I don't think it's a good idea.",
+    "why": "Inglizchada inkor «think»ga qo'yiladi."
+   },
+   {
+    "wrong": "Both photos shows people.",
+    "right": "Both photos show people.",
+    "why": "«Both photos» — ko'plik, fe'lga -s qo'shilmaydi."
+   },
+   {
+    "wrong": "In my opinion, I think that ...",
+    "right": "In my opinion, ...",
+    "why": "Ikki ibora bir xil ma'noni beradi — bittasini ishlating."
+   },
+   {
+    "wrong": "Unlike to the first photo ...",
+    "right": "Unlike the first photo ...",
+    "why": "«Unlike» dan keyin «to» kelmaydi; «to» faqat «in contrast to» da."
+   }
+  ]
+ }
+}

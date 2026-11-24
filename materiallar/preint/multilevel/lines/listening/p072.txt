@@ -1,0 +1,51 @@
+﻿94`t23`t104`tport 3
+155`t29`t133`t1. Speaker 1.
+190`t28`t133`t2. Speaker 2 .
+226`t29`t132`t3. Speaker 3
+266`t28`t132`t4. Speaker .
+300`t28`t132`t5. Speaker 5
+411`t28`t133`tExercise 27
+85`t20`t963`t73
+154`t25`t476`tA) feels enthusiastic
+190`t26`t477`tB) feels bored with it
+226`t27`t476`tC) feels upset by it
+263`t27`t477`tD) feels unappreciated
+300`t26`t477`tE) feels satisfied
+337`t27`t478`tF) feels happier than expected
+472`t26`t133`tYou will hear five different people talking about exercise. For
+509`t29`t131`tquestions 1-5, choose from the list (A — F) which statement applies
+546`t27`t132`tto each person. Use the letters only once. Use the letters only once.
+583`t22`t133`tThere is ONE EXTRA letter which you do not need to use.
+666`t27`t132`t1. Speaker 1 .
+702`t27`t132`t2. Speaker 2 ..
+740`t27`t132`t3. Speaker 3 ..
+777`t27`t132`t4 Speaker 4
+814`t26`t132`t5. Speaker 5 ...
+999`t27`t134`tExercise 28
+628`t27`t343`tA) This person spends most of their free time
+666`t26`t380`texercising.
+700`t26`t345`tB) This person is made to do exercise against their
+739`t21`t379`twill.
+772`t26`t344`tC) This person does a lot of exercise in spite of their
+818`t22`t380`tage.
+844`t26`t345`tD) This person does exercise as part of their job.
+880`t26`t345`tE) This person does exercise as part of a social event.
+917`t29`t344`tF) This person's good health depends on exercise.
+1051`t28`t134`tYou will hear five different people talking about the business that
+1087`t28`t133`teach runs. For questions 1-5, choose from the list (A - F) which
+1124`t27`t133`tbusiness each person is describing. Use the letters only once. Use the
+1161`t27`t133`tletters only once. There is ONE EXTRA letter which you do not need to
+1212`t18`t133`tuse.
+1251`t27`t134`t1. Speaker 1 .
+1287`t28`t134`t2. Speaker 2 ...
+1324`t28`t134`t3. Speaker 3 .
+1361`t28`t134`t4. Speaker 4 .
+1398`t28`t134`t5. Speaker 5 .
+1244`t27`t508`tA) a second-hand bookshop
+1283`t26`t509`tB) a driving school
+1322`t26`t509`tC) an antique shop
+1360`t26`t510`tD) a fitness centre
+1398`t26`t510`tE) a travel agency
+1432`t26`t510`tF) a computer shop
+1534`t26`t558`tDarajangizni aniqlash uchun: mytests.uz
+1653`t9`t1022`tScanned With

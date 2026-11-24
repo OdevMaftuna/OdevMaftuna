@@ -1,0 +1,1171 @@
+{
+ "code": "5.2",
+ "intro": {
+  "what": "Artikllar ingliz tilida otlardan oldin keladi. Birlikdagi sanaladigan otlar oldidan 'a' yoki 'an' artikli ishlatiladi.",
+  "when": [
+   "Undosh harf bilan boshlanadigan birlikdagi otlar oldidan 'a' ishlatiladi.",
+   "Unli harf bilan boshlanadigan birlikdagi otlar oldidan 'an' ishlatiladi.",
+   "Kasblar va unvonlarni aytishda ishlatiladi.",
+   "Ko'plikdagi otlar va sanalmaydigan otlar oldidan hech qanday artikl ishlatilmaydi."
+  ],
+  "structures": [
+   {
+    "label": "(+)",
+    "formula": "S + TOBE + A / AN + JOB / NOUN",
+    "example_en": "He is a doctor.",
+    "example_uz": "U shifokor."
+   },
+   {
+    "label": "(+)",
+    "formula": "S + TOBE + AN + NOUN (VOWEL)",
+    "example_en": "She is an actor.",
+    "example_uz": "U aktrisa."
+   },
+   {
+    "label": "(-)",
+    "formula": "S + TOBE + NOT + A / AN + NOUN",
+    "example_en": "This is not a book.",
+    "example_uz": "Bu kitob emas."
+   },
+   {
+    "label": "(?)",
+    "formula": "TOBE + S + A / AN + NOUN?",
+    "example_en": "Is this a bag?",
+    "example_uz": "Bu sumkami?"
+   }
+  ],
+  "rules": [
+   {
+    "title": "Undosh tovush (a)",
+    "text": "Agar ot undosh harf va undosh tovush bilan boshlansa 'a' ishlatiladi. Universitet so'zi 'y' tovushi bilan boshlangani uchun 'a university' bo'ladi.",
+    "examples": [
+     {
+      "en": "This is a book.",
+      "uz": "Bu kitob."
+     },
+     {
+      "en": "He is a builder.",
+      "uz": "U quruvchi."
+     }
+    ]
+   },
+   {
+    "title": "Unli tovush (an)",
+    "text": "Agar ot unli tovush bilan boshlansa 'an' ishlatiladi. 'Hour' so'zida 'h' o'qilmagani uchun unli tovush bilan boshlanadi va 'an hour' bo'ladi.",
+    "examples": [
+     {
+      "en": "This is an apple.",
+      "uz": "Bu olma."
+     },
+     {
+      "en": "She is an engineer.",
+      "uz": "U muhandis."
+     }
+    ]
+   },
+   {
+    "title": "Ko'plik shakli va artikl",
+    "text": "Ko'plikdagi otlar oldidan hech qachon 'a' yoki 'an' ishlatilmaydi.",
+    "examples": [
+     {
+      "en": "These are books.",
+      "uz": "Bular kitoblar."
+     },
+     {
+      "en": "They are doctors.",
+      "uz": "Ular shifokorlar."
+     }
+    ]
+   }
+  ],
+  "signal_words": [],
+  "mistakes": [
+   {
+    "wrong": "He is doctor.",
+    "right": "He is a doctor.",
+    "why": "Birlikdagi sanaladigan kasb otlari oldidan doimo 'a' yoki 'an' ishlatilishi shart."
+   },
+   {
+    "wrong": "This is a apple.",
+    "right": "This is an apple.",
+    "why": "'Apple' so'zi unli tovush bilan boshlangani uchun 'an' ishlatiladi."
+   },
+   {
+    "wrong": "They are a students.",
+    "right": "They are students.",
+    "why": "Ko'plikdagi otlar oldidan 'a' yoki 'an' artikli qo'yilmaydi."
+   }
+  ]
+ },
+ "test": [
+  {
+   "type": "fill",
+   "q": "This is ______ book.",
+   "answer": "a",
+   "explain": "'Book' so'zi undosh harf bilan boshlangani uchun 'a' ishlatiladi.",
+   "hint": "a / an"
+  },
+  {
+   "type": "fill",
+   "q": "She is ______ doctor.",
+   "answer": "a",
+   "explain": "Birlikdagi kasb oti undosh tovush bilan boshlansa 'a' ishlatiladi.",
+   "hint": "a / an"
+  },
+  {
+   "type": "fill",
+   "q": "This is ______ apple.",
+   "answer": "an",
+   "explain": "'Apple' so'zi unli tovush bilan boshlangani uchun 'an' ishlatiladi.",
+   "hint": "a / an"
+  },
+  {
+   "type": "fill",
+   "q": "He is ______ actor.",
+   "answer": "an",
+   "explain": "'Actor' so'zi unli harf bilan boshlangani uchun 'an' ishlatiladi.",
+   "hint": "a / an"
+  },
+  {
+   "type": "fill",
+   "q": "This is ______ house.",
+   "answer": "a",
+   "explain": "'House' so'zi undosh harf bilan boshlangani uchun 'a' ishlatiladi.",
+   "hint": "a / an"
+  },
+  {
+   "type": "fill",
+   "q": "That is ______ car.",
+   "answer": "a",
+   "explain": "'Car' so'zi undosh tovush bilan boshlangani uchun 'a' ishlatiladi.",
+   "hint": "a / an"
+  },
+  {
+   "type": "fill",
+   "q": "She is ______ nurse.",
+   "answer": "a",
+   "explain": "'Nurse' so'zi undosh tovush bilan boshlangani uchun 'a' ishlatiladi.",
+   "hint": "a / an"
+  },
+  {
+   "type": "fill",
+   "q": "He is ______ engineer.",
+   "answer": "an",
+   "explain": "'Engineer' so'zi unli tovush bilan boshlangani uchun 'an' ishlatiladi.",
+   "hint": "a / an"
+  },
+  {
+   "type": "fill",
+   "q": "This is ______ university.",
+   "answer": "a",
+   "explain": "'University' so'zi 'y' tovushi (undosh) bilan boshlangani uchun 'a' ishlatiladi.",
+   "hint": "a / an"
+  },
+  {
+   "type": "fill",
+   "q": "He is ______ builder.",
+   "answer": "a",
+   "explain": "'Builder' so'zi undosh tovush bilan boshlangani uchun 'a' ishlatiladi.",
+   "hint": "a / an"
+  },
+  {
+   "type": "fill",
+   "q": "She is ______ singer.",
+   "answer": "a",
+   "explain": "'Singer' so'zi undosh tovush bilan boshlangani uchun 'a' ishlatiladi.",
+   "hint": "a / an"
+  },
+  {
+   "type": "fill",
+   "q": "This is ______ hotel.",
+   "answer": "a",
+   "explain": "'Hotel' so'zi undosh tovush bilan boshlangani uchun 'a' ishlatiladi.",
+   "hint": "a / an"
+  },
+  {
+   "type": "fill",
+   "q": "That is ______ office.",
+   "answer": "an",
+   "explain": "'Office' so'zi unli tovush bilan boshlangani uchun 'an' ishlatiladi.",
+   "hint": "a / an"
+  },
+  {
+   "type": "fill",
+   "q": "He is ______ accountant.",
+   "answer": "an",
+   "explain": "'Accountant' so'zi unli tovush bilan boshlangani uchun 'an' ishlatiladi.",
+   "hint": "a / an"
+  },
+  {
+   "type": "fill",
+   "q": "She is ______ waiter.",
+   "answer": "a",
+   "explain": "'Waiter' so'zi undosh tovush bilan boshlangani uchun 'a' ishlatiladi.",
+   "hint": "a / an"
+  },
+  {
+   "type": "fill",
+   "q": "This is ______ dictionary.",
+   "answer": "a",
+   "explain": "'Dictionary' so'zi undosh tovush bilan boshlangani uchun 'a' ishlatiladi.",
+   "hint": "a / an"
+  },
+  {
+   "type": "fill",
+   "q": "That is ______ ice cream.",
+   "answer": "an",
+   "explain": "'Ice cream' so'zi unli tovush bilan boshlangani uchun 'an' ishlatiladi.",
+   "hint": "a / an"
+  },
+  {
+   "type": "fill",
+   "q": "He is ______ bus driver.",
+   "answer": "a",
+   "explain": "'Bus driver' so'zi undosh tovush bilan boshlangani uchun 'a' ishlatiladi.",
+   "hint": "a / an"
+  },
+  {
+   "type": "fill",
+   "q": "She is ______ shop assistant.",
+   "answer": "a",
+   "explain": "'Shop assistant' so'zi undosh tovush bilan boshlangani uchun 'a' ishlatiladi.",
+   "hint": "a / an"
+  },
+  {
+   "type": "fill",
+   "q": "This is ______ orange.",
+   "answer": "an",
+   "explain": "'Orange' so'zi unli tovush bilan boshlangani uchun 'an' ishlatiladi.",
+   "hint": "a / an"
+  },
+  {
+   "type": "mc",
+   "q": "He is ______ teacher.",
+   "answer": "a",
+   "explain": "'Teacher' so'zi undosh tovush bilan boshlangani uchun 'a' ishlatiladi.",
+   "options": [
+    "a",
+    "an",
+    "-"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "This is ______ egg.",
+   "answer": "an",
+   "explain": "'Egg' so'zi unli tovush bilan boshlangani uchun 'an' ishlatiladi.",
+   "options": [
+    "a",
+    "an",
+    "-"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "They are ______ students.",
+   "answer": "—",
+   "explain": "Ko'plikdagi otlar oldidan 'a' yoki 'an' artikli ishlatilmaydi.",
+   "options": [
+    "a",
+    "an",
+    "—"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "She is ______ police officer.",
+   "answer": "a",
+   "explain": "'Police officer' so'zi undosh tovush bilan boshlangani uchun 'a' ishlatiladi.",
+   "options": [
+    "an",
+    "a",
+    "—"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "This is ______ hamburger.",
+   "answer": "a",
+   "explain": "'Hamburger' so'zi undosh tovush bilan boshlangani uchun 'a' ishlatiladi.",
+   "options": [
+    "an",
+    "—",
+    "a"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "He is ______ actor.",
+   "answer": "an",
+   "explain": "'Actor' so'zi unli tovush bilan boshlangani uchun 'an' ishlatiladi.",
+   "options": [
+    "a",
+    "an",
+    "—"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "These are ______ books.",
+   "answer": "—",
+   "explain": "Ko'plikdagi otlar oldidan artikl qo'yilmaydi.",
+   "options": [
+    "a",
+    "an",
+    "—"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "This is ______ sandwich.",
+   "answer": "a",
+   "explain": "'Sandwich' so'zi undosh tovush bilan boshlangani uchun 'a' ishlatiladi.",
+   "options": [
+    "an",
+    "a",
+    "—"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "She is ______ architect.",
+   "answer": "an",
+   "explain": "'Architect' so'zi unli tovush bilan boshlangani uchun 'an' ishlatiladi.",
+   "options": [
+    "a",
+    "an",
+    "—"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "We are ______ friends.",
+   "answer": "—",
+   "explain": "'Friends' so'zi ko'plikda bo'lgani uchun hech qanday artikl talab qilmaydi.",
+   "options": [
+    "a",
+    "an",
+    "—"
+   ]
+  }
+ ],
+ "model": "gemini-3.5-flash-lite",
+ "tr1": [
+  {
+   "part": 0,
+   "uz": "Bu kitob.",
+   "en": [
+    "This is a book."
+   ],
+   "rule": "Undosh tovushdan oldin 'a' ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu yangi mashina.",
+   "en": [
+    "This is a new car."
+   ],
+   "rule": "Undosh tovush 'new' so'zi oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "Mening sumkam bor.",
+   "en": [
+    "I have a bag."
+   ],
+   "rule": "Undosh tovushli ot oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "Bu katta uy.",
+   "en": [
+    "This is a big house."
+   ],
+   "rule": "Undosh tovush 'big' oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "Menda kompyuter bor.",
+   "en": [
+    "I have a computer."
+   ],
+   "rule": "Undosh tovush 'computer' oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "U yerda avtobus bor.",
+   "en": [
+    "There is a bus."
+   ],
+   "rule": "Undosh tovush 'bus' oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "Menda telefon bor.",
+   "en": [
+    "I have a phone."
+   ],
+   "rule": "Undosh tovush 'phone' oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "Bu chiroyli surat.",
+   "en": [
+    "This is a beautiful photograph.",
+    "This is a beautiful picture."
+   ],
+   "rule": "Undosh tovush bilan boshlangan so'z oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "Menda yangi lug'at bor.",
+   "en": [
+    "I have a new dictionary."
+   ],
+   "rule": "Undosh tovush 'new' so'zi oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "Bu kichkina xona.",
+   "en": [
+    "This is a small room."
+   ],
+   "rule": "Undosh tovush 'small' oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "Menda shokolad bor.",
+   "en": [
+    "I have a chocolate."
+   ],
+   "rule": "Undosh tovush 'chocolate' oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "Menda qahva bor.",
+   "en": [
+    "I have a coffee."
+   ],
+   "rule": "Undosh tovush 'coffee' oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "Menda sendvich bor.",
+   "en": [
+    "I have a sandwich."
+   ],
+   "rule": "Undosh tovush 'sandwich' oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "Menda muzqaymoq bor.",
+   "en": [
+    "I have an ice cream."
+   ],
+   "rule": "Unli tovush oldidan 'an' ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Menda kamera bor.",
+   "en": [
+    "I have a camera."
+   ],
+   "rule": "Undosh tovush 'camera' oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "U yerda stul bor.",
+   "en": [
+    "There is a chair."
+   ],
+   "rule": "Undosh tovush 'chair' oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "U yerda stol bor.",
+   "en": [
+    "There is a table."
+   ],
+   "rule": "Undosh tovush 'table' oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "Bu yaxshi kun.",
+   "en": [
+    "This is a good day."
+   ],
+   "rule": "Undosh tovush 'good' oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "Menda do'st bor.",
+   "en": [
+    "I have a friend."
+   ],
+   "rule": "Undosh tovush 'friend' oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "Unda kuchukcha bor.",
+   "en": [
+    "He has a dog.",
+    "She has a dog."
+   ],
+   "rule": "Undosh tovush 'dog' oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "Bu kichkina mushuk.",
+   "en": [
+    "This is a small cat."
+   ],
+   "rule": "Undosh tovush 'small' oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "Bu qiziqarli kitob.",
+   "en": [
+    "This is an interesting book."
+   ],
+   "rule": "Unli tovush 'interesting' oldidan 'an'."
+  },
+  {
+   "part": 0,
+   "uz": "Menda muzlatkich bor.",
+   "en": [
+    "I have a fridge."
+   ],
+   "rule": "Undosh tovush 'fridge' oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "Menda siyoh qalam bor.",
+   "en": [
+    "I have a pen."
+   ],
+   "rule": "Undosh tovush 'pen' oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "U yerda deraza bor.",
+   "en": [
+    "There is a window."
+   ],
+   "rule": "Undosh tovush 'window' oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "U yerda eshik bor.",
+   "en": [
+    "There is a door."
+   ],
+   "rule": "Undosh tovush 'door' oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "Menda kichkina xalta bor.",
+   "en": [
+    "I have a small bag."
+   ],
+   "rule": "Undosh tovush 'small' oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "Bu qimmat mashina.",
+   "en": [
+    "This is a big car.",
+    "This is a nice car."
+   ],
+   "rule": "Undosh tovush bilan boshlangan sifat oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "Menda chashka bor.",
+   "en": [
+    "I have a cup."
+   ],
+   "rule": "Undosh tovush 'cup' oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "Unda yangi velosiped bor.",
+   "en": [
+    "He has a new bike.",
+    "She has a new bike."
+   ],
+   "rule": "Undosh tovush 'new' oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "Bu muhim xat.",
+   "en": [
+    "This is a good letter."
+   ],
+   "rule": "Undosh tovush 'good' oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "Menda qalam bor.",
+   "en": [
+    "I have a pencil."
+   ],
+   "rule": "Undosh tovush 'pencil' oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "Bu universitet katta.",
+   "en": [
+    "This is a big university."
+   ],
+   "rule": "'University' so'zi 'y' tovushi bilan boshlanadi, shuning uchun 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "Menda yangi ko'ylak bor.",
+   "en": [
+    "I have a new shirt."
+   ],
+   "rule": "Undosh tovush 'new' oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "Menda yangi sumka bor.",
+   "en": [
+    "I have a new bag."
+   ],
+   "rule": "Undosh tovush 'new' oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "Bu yangi uy.",
+   "en": [
+    "This is a new house."
+   ],
+   "rule": "Undosh tovush 'new' oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "Menda yashil olma bor.",
+   "en": [
+    "I have a green apple."
+   ],
+   "rule": "Sifat undosh tovush ('green') bilan boshlansa 'a' ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U yerda qora mushuk bor.",
+   "en": [
+    "There is a black cat."
+   ],
+   "rule": "Undosh tovush 'black' oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "Menda shirin choy bor.",
+   "en": [
+    "I have a sweet tea."
+   ],
+   "rule": "Undosh tovush 'sweet' oldidan 'a'."
+  },
+  {
+   "part": 0,
+   "uz": "Bu yaxshi uy.",
+   "en": [
+    "This is a good house."
+   ],
+   "rule": "Undosh tovush 'good' oldidan 'a'."
+  },
+  {
+   "part": 1,
+   "uz": "Menda olma bor.",
+   "en": [
+    "I have an apple."
+   ],
+   "rule": "Unli tovush 'apple' oldidan 'an'."
+  },
+  {
+   "part": 1,
+   "uz": "Menda apelsin bor.",
+   "en": [
+    "I have an orange."
+   ],
+   "rule": "Unli tovush 'orange' oldidan 'an'."
+  },
+  {
+   "part": 1,
+   "uz": "Bu qiyin ish.",
+   "en": [
+    "This is an interesting job."
+   ],
+   "rule": "Unli tovush 'interesting' oldidan 'an'."
+  },
+  {
+   "part": 1,
+   "uz": "Unda eski mashina bor.",
+   "en": [
+    "He has an old car.",
+    "She has an old car."
+   ],
+   "rule": "Unli tovush 'old' oldidan 'an'."
+  },
+  {
+   "part": 1,
+   "uz": "Bu kichkina kvartira.",
+   "en": [
+    "This is an apartment."
+   ],
+   "rule": "Unli tovush 'apartment' oldidan 'an'."
+  },
+  {
+   "part": 1,
+   "uz": "Menda qizil olma bor.",
+   "en": [
+    "I have a red apple."
+   ],
+   "rule": "Sifat undosh tovush ('red') bilan boshlansa 'a' bo'ladi."
+  },
+  {
+   "part": 1,
+   "uz": "Unda eski sumka bor.",
+   "en": [
+    "He has an old bag.",
+    "She has an old bag."
+   ],
+   "rule": "Unli tovush 'old' oldidan 'an'."
+  },
+  {
+   "part": 1,
+   "uz": "Bu juda yaxshi kun.",
+   "en": [
+    "This is an awesome day."
+   ],
+   "rule": "Unli tovush 'awesome' oldidan 'an'."
+  },
+  {
+   "part": 1,
+   "uz": "Menda shirin apelsin bor.",
+   "en": [
+    "I have a sweet orange."
+   ],
+   "rule": "Sifat undosh tovush ('sweet') bilan boshlansa 'a' ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "U yerda eski uy bor.",
+   "en": [
+    "There is an old house."
+   ],
+   "rule": "Unli tovush 'old' oldidan 'an'."
+  }
+ ],
+ "tr51": [
+  {
+   "part": 1,
+   "uz": "Bu olma.",
+   "en": [
+    "This is an apple."
+   ],
+   "rule": "unli tovush oldidan an ishlatiladi"
+  },
+  {
+   "part": 1,
+   "uz": "Bu qiziqarli kitob.",
+   "en": [
+    "This is an interesting book."
+   ],
+   "rule": "unli tovush oldidan an ishlatiladi"
+  },
+  {
+   "part": 1,
+   "uz": "U yerda bino bor.",
+   "en": [
+    "There is a building over there."
+   ],
+   "rule": "bunda b undosh tovush"
+  },
+  {
+   "part": 1,
+   "uz": "Mening akam muhandis.",
+   "en": [
+    "My brother is an engineer."
+   ],
+   "rule": "e unli tovush oldidan an"
+  },
+  {
+   "part": 1,
+   "uz": "U kichkina xona.",
+   "en": [
+    "It is a small room."
+   ],
+   "rule": "s undosh tovush"
+  },
+  {
+   "part": 1,
+   "uz": "Bu eski uy.",
+   "en": [
+    "This is an old house."
+   ],
+   "rule": "o unli tovush oldidan an"
+  },
+  {
+   "part": 1,
+   "uz": "U yaxshi talaba.",
+   "en": [
+    "He is a good student."
+   ],
+   "rule": "g undosh tovush"
+  },
+  {
+   "part": 1,
+   "uz": "Mening opam aktrisa.",
+   "en": [
+    "My sister is an actor."
+   ],
+   "rule": "a unli tovush oldidan an"
+  },
+  {
+   "part": 1,
+   "uz": "Bu ajoyib kun.",
+   "en": [
+    "This is a lovely day."
+   ],
+   "rule": "d undosh tovush"
+  },
+  {
+   "part": 1,
+   "uz": "U yerda universitet bor.",
+   "en": [
+    "There is a university over there."
+   ],
+   "rule": "university harfi yu tovushi bilan boshlanadi shuning uchun a"
+  },
+  {
+   "part": 1,
+   "uz": "Bu qora mashina.",
+   "en": [
+    "This is a black car."
+   ],
+   "rule": "c undosh tovush"
+  },
+  {
+   "part": 1,
+   "uz": "U katta otel.",
+   "en": [
+    "It is a big hotel."
+   ],
+   "rule": "h undosh tovush"
+  },
+  {
+   "part": 1,
+   "uz": "Bu yangi lug'at.",
+   "en": [
+    "This is a new dictionary."
+   ],
+   "rule": "n undosh tovush"
+  },
+  {
+   "part": 1,
+   "uz": "Mening do'stim buxgalter.",
+   "en": [
+    "My friend is an accountant."
+   ],
+   "rule": "a unli tovush oldidan an"
+  },
+  {
+   "part": 1,
+   "uz": "Bu chiroyli rasm.",
+   "en": [
+    "This is a beautiful photograph."
+   ],
+   "rule": "p undosh tovush"
+  },
+  {
+   "part": 1,
+   "uz": "U yaxshi ofitsiant.",
+   "en": [
+    "He is a good waiter."
+   ],
+   "rule": "g undosh tovush"
+  },
+  {
+   "part": 1,
+   "uz": "Bu sovuq suv.",
+   "en": [
+    "This is cold water."
+   ],
+   "rule": "suv sanalmaydigan ot shuning uchun artikl yo'q"
+  },
+  {
+   "part": 1,
+   "uz": "U baxtli bola.",
+   "en": [
+    "He is a happy boy."
+   ],
+   "rule": "b undosh tovush"
+  },
+  {
+   "part": 1,
+   "uz": "Bu kichkina uy.",
+   "en": [
+    "It is a small house."
+   ],
+   "rule": "s undosh tovush"
+  },
+  {
+   "part": 1,
+   "uz": "Mening onam o'qituvchi.",
+   "en": [
+    "My mother is a teacher."
+   ],
+   "rule": "t undosh tovush"
+  },
+  {
+   "part": 2,
+   "uz": "U shifokor.",
+   "en": [
+    "He is a doctor.",
+    "She is a doctor."
+   ],
+   "rule": "d undosh tovush"
+  },
+  {
+   "part": 2,
+   "uz": "U aktrisa.",
+   "en": [
+    "She is an actor."
+   ],
+   "rule": "a unli tovush oldidan an"
+  },
+  {
+   "part": 2,
+   "uz": "U muhandis.",
+   "en": [
+    "He is an engineer.",
+    "She is an engineer."
+   ],
+   "rule": "e unli tovush oldidan an"
+  },
+  {
+   "part": 2,
+   "uz": "U hamshira.",
+   "en": [
+    "She is a nurse."
+   ],
+   "rule": "n undosh tovush"
+  },
+  {
+   "part": 2,
+   "uz": "U biznesmen.",
+   "en": [
+    "He is a businessman."
+   ],
+   "rule": "b undosh tovush"
+  },
+  {
+   "part": 2,
+   "uz": "U ofitsiant.",
+   "en": [
+    "He is a waiter.",
+    "She is a waiter."
+   ],
+   "rule": "w undosh tovush"
+  },
+  {
+   "part": 2,
+   "uz": "U buxgalter.",
+   "en": [
+    "He is an accountant.",
+    "She is an accountant."
+   ],
+   "rule": "a unli tovush oldidan an"
+  },
+  {
+   "part": 2,
+   "uz": "U xonanda.",
+   "en": [
+    "He is a singer.",
+    "She is a singer."
+   ],
+   "rule": "s undosh tovush"
+  },
+  {
+   "part": 2,
+   "uz": "U quruvchi.",
+   "en": [
+    "He is a builder."
+   ],
+   "rule": "b undosh tovush"
+  },
+  {
+   "part": 2,
+   "uz": "U militsiya xodimi.",
+   "en": [
+    "He is a police officer.",
+    "She is a police officer."
+   ],
+   "rule": "p undosh tovush"
+  },
+  {
+   "part": 2,
+   "uz": "U do'kon xodimi.",
+   "en": [
+    "He is a shop assistant.",
+    "She is a shop assistant."
+   ],
+   "rule": "s undosh tovush"
+  },
+  {
+   "part": 2,
+   "uz": "U avtobus haydovchisi.",
+   "en": [
+    "He is a bus driver."
+   ],
+   "rule": "b undosh tovush"
+  },
+  {
+   "part": 2,
+   "uz": "U bank menejeri.",
+   "en": [
+    "He is a bank manager.",
+    "She is a bank manager."
+   ],
+   "rule": "b undosh tovush"
+  },
+  {
+   "part": 2,
+   "uz": "Sen talabamisan?",
+   "en": [
+    "Are you a student?"
+   ],
+   "rule": "s undosh tovush"
+  },
+  {
+   "part": 2,
+   "uz": "Ular o'qituvchilarmi?",
+   "en": [
+    "Are they teachers?"
+   ],
+   "rule": "ko'plikda a yoki an ishlatilmaydi"
+  },
+  {
+   "part": 2,
+   "uz": "Mening otam shifokor.",
+   "en": [
+    "My father is a doctor."
+   ],
+   "rule": "d undosh tovush"
+  },
+  {
+   "part": 2,
+   "uz": "Mening akam muhandis.",
+   "en": [
+    "My brother is an engineer."
+   ],
+   "rule": "e unli tovush oldidan an"
+  },
+  {
+   "part": 2,
+   "uz": "Ular biznesmenlar.",
+   "en": [
+    "They are businessmen."
+   ],
+   "rule": "ko'plikda noaniq artikl qo'yilmaydi"
+  },
+  {
+   "part": 2,
+   "uz": "U yaxshi xonanda.",
+   "en": [
+    "She is a good singer."
+   ],
+   "rule": "g undosh tovush"
+  },
+  {
+   "part": 2,
+   "uz": "Mening do'stim aktyor.",
+   "en": [
+    "My friend is an actor."
+   ],
+   "rule": "a unli tovush oldidan an"
+  },
+  {
+   "part": 2,
+   "uz": "U taniqli shifokor.",
+   "en": [
+    "He is a good doctor."
+   ],
+   "rule": "g undosh tovush"
+  },
+  {
+   "part": 2,
+   "uz": "U yosh hamshira.",
+   "en": [
+    "She is a young nurse."
+   ],
+   "rule": "y undosh tovush"
+  },
+  {
+   "part": 2,
+   "uz": "Ular shifokorlar.",
+   "en": [
+    "They are doctors."
+   ],
+   "rule": "ko'plik otlar bilan a yoki an ishlatilmaydi"
+  },
+  {
+   "part": 2,
+   "uz": "Ular talabalar.",
+   "en": [
+    "They are students."
+   ],
+   "rule": "ko'plikda artikl bo'lmaydi"
+  },
+  {
+   "part": 2,
+   "uz": "Ular aktyorlar.",
+   "en": [
+    "They are actors."
+   ],
+   "rule": "ko'plik ot bilan artikl ishlatilmaydi"
+  },
+  {
+   "part": 2,
+   "uz": "Ular muhandislar.",
+   "en": [
+    "They are engineers."
+   ],
+   "rule": "ko'plikda an ishlatilmaydi"
+  },
+  {
+   "part": 2,
+   "uz": "Ular o'qituvchilar.",
+   "en": [
+    "They are teachers."
+   ],
+   "rule": "ko'plik shakl"
+  },
+  {
+   "part": 2,
+   "uz": "Ular do'stlar.",
+   "en": [
+    "They are friends."
+   ],
+   "rule": "ko'plik ot"
+  },
+  {
+   "part": 2,
+   "uz": "Ular bolalar.",
+   "en": [
+    "They are children."
+   ],
+   "rule": "noto'g'ri ko'plik shakli"
+  },
+  {
+   "part": 2,
+   "uz": "Ular ishchilar.",
+   "en": [
+    "They are builders."
+   ],
+   "rule": "ko'plikdagi ot"
+  }
+ ]
+}

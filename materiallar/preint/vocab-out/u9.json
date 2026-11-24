@@ -1,0 +1,958 @@
+{
+ "a": [
+  {
+   "q": "My grandfather has no hair on his head now because he is getting older.",
+   "options": [
+    "bald",
+    "baldness",
+    "deaf",
+    "deafness"
+   ],
+   "answer": "bald",
+   "explain": "bald — kal: uning boshida umuman soch qolmagan"
+  },
+  {
+   "q": "He cannot hear anything because his ears do not work well.",
+   "options": [
+    "bald",
+    "baldness",
+    "deaf",
+    "deafness"
+   ],
+   "answer": "deaf",
+   "explain": "deaf — kar: u hech qanday tovushni eshita olmaydi"
+  },
+  {
+   "q": "This metal is very heavy, grey, and used to make strong bridges.",
+   "options": [
+    "aluminium",
+    "copper",
+    "gold",
+    "iron"
+   ],
+   "answer": "iron",
+   "explain": "iron — temir: bu og'ir va mustahkam metall turi"
+  },
+  {
+   "q": "This soft material comes from cows and is used for making shoes.",
+   "options": [
+    "cardboard",
+    "glass",
+    "leather",
+    "wood"
+   ],
+   "answer": "leather",
+   "explain": "leather — teri: pabuk va chidamli tabiiy material"
+  },
+  {
+   "q": "It is a shiny yellow precious metal that people use for expensive rings.",
+   "options": [
+    "aluminium",
+    "copper",
+    "gold",
+    "iron"
+   ],
+   "answer": "gold",
+   "explain": "gold — oltin: qimmatbaho sariq metall turi"
+  },
+  {
+   "q": "This light metal is silver-coloured and used to make soft drink cans.",
+   "options": [
+    "aluminium",
+    "copper",
+    "gold",
+    "iron"
+   ],
+   "answer": "aluminium",
+   "explain": "aluminium — alyuminiy: engil va kumush rangli metall"
+  },
+  {
+   "q": ";My little brother broke his phone screen and now it does not work.",
+   "options": [
+    "broken",
+    "cordless",
+    "rechargeable",
+    "solar-powered"
+   ],
+   "answer": "broken",
+   "explain": "broken — singan: uning telefoni ishlamayapti chunki u shikastlangan"
+  },
+  {
+   "q": "You do not need to plug this vacuum cleaner into the wall because it uses batteries.",
+   "options": [
+    "broken",
+    "cordless",
+    "rechargeable",
+    "solar-powered"
+   ],
+   "answer": "cordless",
+   "explain": "cordless — simsiz: u elektr simisiz ishlaydigan moslama"
+  },
+  {
+   "q": "This table has four equal straight sides and four ninety-degree corners.",
+   "options": [
+    "circular",
+    "rectangular",
+    "spherical",
+    "square"
+   ],
+   "answer": "square",
+   "explain": "square — kvadrat: uning to'rtta teng tomoni bor"
+  },
+  {
+   "q": "The football is perfectly round like a ball in every direction.",
+   "options": [
+    "circular",
+    "rectangular",
+    "spherical",
+    "square"
+   ],
+   "answer": "spherical",
+   "explain": "spherical — shar shaklidagi: to'p kabi dumaloq jism"
+  },
+  {
+   "q": "My mother asked the shop assistant to give her money back for the ruined shirt.",
+   "options": [
+    "apologise",
+    "complain",
+    "enquire",
+    "warn"
+   ],
+   "answer": "complain",
+   "explain": "complain — shikoyat qilish: xaridor xizmatdan noroziligini aytdi"
+  },
+  {
+   "q": "Please say sorry to your sister because you took her book without asking.",
+   "options": [
+    "apologise",
+    "complain",
+    "enquire",
+    "warn"
+   ],
+   "answer": "apologise",
+   "explain": "apologise — kechirishni so'rash: xato uchun uzr so'zini aytish"
+  },
+  {
+   "q": "The teacher told the students to be careful near the deep river.",
+   "options": [
+    "apologise",
+    "complain",
+    "enquire",
+    "warn"
+   ],
+   "answer": "warn",
+   "explain": "warn — ogohlantirmoqda: xavf haqida oldindan xabar berish"
+  },
+  {
+   "q": "She wanted to know when the next train to Tashkent leaves the station.",
+   "options": [
+    "apologise",
+    "complain",
+    "enquire",
+    "warn"
+   ],
+   "answer": "enquire",
+   "explain": "enquire — so'rab surishtirmoq: kerakli ma'lumotni bilish uchun savol berish"
+  },
+  {
+   "q": "Can you tell me which restaurant in Samarkand has the best plov?",
+   "options": [
+    "demonstrate",
+    "invent",
+    "persuade",
+    "recommend"
+   ],
+   "answer": "recommend",
+   "explain": "recommend — tavsiya qilmoq: yaxshi narsani maslahat berish"
+  },
+  {
+   "q": "He showed the new science experiment to the whole class step by step.",
+   "options": [
+    "demonstrate",
+    "invent",
+    "persuade",
+    "recommend"
+   ],
+   "answer": "demonstrate",
+   "explain": "demonstrate — namoyish etish: qanday ishlashini amalda ko'rsatib berish"
+  },
+  {
+   "q": "I tried to make my friend change his mind and come with us to the mountains.",
+   "options": [
+    "demonstrate",
+    "invent",
+    "persuade",
+    "recommend"
+   ],
+   "answer": "persuade",
+   "explain": "persuade — ko'ndirmoq: biror ishni qilishga rozilik oldirmoq"
+  },
+  {
+   "q": "Thomas Edison is the famous person who created the first electric light bulb.",
+   "options": [
+    "arrangement",
+    "inventor",
+    "problem",
+    "treatment"
+   ],
+   "answer": "inventor",
+   "explain": "inventor — ixtirochi: yangi narsalarni o'ylab topuvchi mutaxassis"
+  },
+  {
+   "q": "The doctor gave my grandmother some special medicine for her cough.",
+   "options": [
+    "arrangement",
+    "inventor",
+    "problem",
+    "treatment"
+   ],
+   "answer": "treatment",
+   "explain": "treatment — davolash: kasallikka qarshi tibbiy yordam ko'rsatish"
+  },
+  {
+   "q": "We made a plan to meet at the cinema at six o'clock this evening.",
+   "options": [
+    "arrangement",
+    "inventor",
+    "problem",
+    "treatment"
+   ],
+   "answer": "arrangement",
+   "explain": "arrangement — kelishuv: uchrashuv uchun oldindan qilingan reja"
+  },
+  {
+   "q": "Doing this difficult math homework is a big challenge for little children.",
+   "options": [
+    "arrangement",
+    "inventor",
+    "problem",
+    "treatment"
+   ],
+   "answer": "problem",
+   "explain": "problem — muammo: hal qilinishi kerak bo'lgan qiyin masala"
+  },
+  {
+   "q": "He used a hard grey powder mixed with water to build the garden wall.",
+   "options": [
+    "cardboard",
+    "cement",
+    "glass",
+    "stone"
+   ],
+   "answer": "cement",
+   "explain": "cement — sement: qurilishda ishlatiladigan kulrang kukunsimon material"
+  },
+  {
+   "q": "We keep our jam inside a clear jar that is made from melted sand.",
+   "options": [
+    "cardboard",
+    "cement",
+    "glass",
+    "stone"
+   ],
+   "answer": "glass",
+   "explain": "glass — shisha: tiniq va sindiruvchi material"
+  },
+  {
+   "q": "The delivery box for my new shoes is made from thick brown folded paper.",
+   "options": [
+    "cardboard",
+    "cement",
+    "glass",
+    "stone"
+   ],
+   "answer": "cardboard",
+   "explain": "cardboard — qog'oz quti: qalin va pishiq qadoq materiali"
+  },
+  {
+   "q": "The old castle walls are built from very heavy grey rocks from the mountain.",
+   "options": [
+    "cardboard",
+    "cement",
+    "glass",
+    "stone"
+   ],
+   "answer": "stone",
+   "explain": "stone — tosh: qattiq tabiiy tog' jinsining bo'lagi"
+  },
+  {
+   "q": "Please tell me what your new English teacher looks like in detail.",
+   "options": [
+    "describe",
+    "tell a story",
+    "thank",
+    "welcome"
+   ],
+   "answer": "describe",
+   "explain": "describe — tasvirlab bermoq: narsaning ko'rinishini so'zlar bilan tushuntirmoq"
+  },
+  {
+   "q": "The hotel manager greeted the foreign guests with a warm smile at the door.",
+   "options": [
+    "describe",
+    "tell a story",
+    "thank",
+    "welcome"
+   ],
+   "answer": "welcome",
+   "explain": "welcome — kutib olmoq: mehmonlarga hurmat ko'rsatib qarshi olmoq"
+  },
+  {
+   "q": "The mechanic fixed my bicycle because the chain was broken.",
+   "options": [
+    "comfort",
+    "repair",
+    "treat",
+    "warn"
+   ],
+   "answer": "repair",
+   "explain": "repair — tuzatish: buzilgan narsani qayta ishga tushirish"
+  },
+  {
+   "q": "My mother hugged me gently and said everything would be fine after I failed the test.",
+   "options": [
+    "comfort",
+    "repair",
+    "treat",
+    "warn"
+   ],
+   "answer": "comfort",
+   "explain": "comfort — tasalli bermoq: g'amgin odamning ko'nglini ko'tarmoq"
+  },
+  {
+   "q": "The doctor gave the sick boy some sweet medicine to help him feel better.",
+   "options": [
+    "comfort",
+    "repair",
+    "treat",
+    "warn"
+   ],
+   "answer": "treat",
+   "explain": "treat — davolamoq: bemorga shifobaxsh yordam ko'rsatmoq"
+  },
+  {
+   "q": "My grandfather can remember many old songs from when he was young.",
+   "options": [
+    "challenge",
+    "record",
+    "reconstruct",
+    "rediscover"
+   ],
+   "answer": "record",
+   "explain": "record — yozib olmoq: tovush yoki tasvirni saqlab qo'ymoq"
+  },
+  {
+   "q": "The museum workers tried to build the broken ancient vase again very carefully.",
+   "options": [
+    "challenge",
+    "record",
+    "reconstruct",
+    "rediscover"
+   ],
+   "answer": "reconstruct",
+   "explain": "reconstruct — qayta tiklamoq: buzilgan qadimiy buyumni asl holiga keltirmoq"
+  },
+  {
+   "q": "Archeologists found an old lost city hidden deep under the desert sand.",
+   "options": [
+    "challenge",
+    "record",
+    "reconstruct",
+    "rediscover"
+   ],
+   "answer": "rediscover",
+   "explain": "rediscover — qaytadan topmoq: unutilgan yoki yo'qolgan narsani yana topish"
+  },
+  {
+   "q": "Climbing the highest mountain in our region was a very hard test for us.",
+   "options": [
+    "challenge",
+    "record",
+    "reconstruct",
+    "rediscover"
+   ],
+   "answer": "challenge",
+   "explain": "challenge — sinov: bajarish qiyin bo'lgan muhim vazifa"
+  },
+  {
+   "q": "My kitchen pan is made from a reddish-brown metal that conducts heat very well.",
+   "options": [
+    "copper",
+    "nylon",
+    "plastic",
+    "rubber"
+   ],
+   "answer": "copper",
+   "explain": "copper — mis: qizg'ish-qo'ng'ir rangli metall turi"
+  },
+  {
+   "q": "My warm winter jacket is made from strong artificial fabric that dries quickly.",
+   "options": [
+    "copper",
+    "nylon",
+    "plastic",
+    "rubber"
+   ],
+   "answer": "nylon",
+   "explain": "nylon — neylon: sun'iy pishiq mato turi"
+  },
+  {
+   "q": "My new smartphone runs on electricity stored inside a small internal cell.",
+   "options": [
+    "battery",
+    "mains",
+    "handle",
+    "lid"
+   ],
+   "answer": "battery",
+   "explain": "battery — akkumulyator: telefonim ichidagi kichik quvvat manbai."
+  },
+  {
+   "q": "We need to make plans for our weekend trip to Samarkand.",
+   "options": [
+    "arrange",
+    "comfort",
+    "warn",
+    "treat"
+   ],
+   "answer": "arrange",
+   "explain": "arrange — rejalashtirmoq: dam olish kuni sayohatimizni uyushtirmoqchimiz."
+  },
+  {
+   "q": "I bought a strong grey metal box made from a heavy alloy.",
+   "options": [
+    "steel",
+    "paper",
+    "cardboard",
+    "wood"
+   ],
+   "answer": "steel",
+   "explain": "steel — po'lat: qattiq va og'ir qotishmadan yasalgan quti."
+  },
+  {
+   "q": "The old man has no hair on his head at all.",
+   "options": [
+    "bald",
+    "circular",
+    "deaf",
+    "spherical"
+   ],
+   "answer": "bald",
+   "explain": "bald — kal: keksa odamning boshida umuman sochi yo'q."
+  }
+ ],
+ "b": [
+  {
+   "q": "My grandfather is completely ______ because he lost his hearing when he was young.",
+   "options": [
+    "deaf",
+    "bald",
+    "broken",
+    "curved"
+   ],
+   "answer": "deaf",
+   "explain": "deaf — kar: bobosi yoshligida eshitish qobiliyatini yo'qotgan"
+  },
+  {
+   "q": "Please put the metal ______ back onto the cooking pot before it starts boiling.",
+   "options": [
+    "lid",
+    "handle",
+    "base",
+    "battery"
+   ],
+   "answer": "lid",
+   "explain": "lid — qopqoq: ovqat qaynashidan oldin idishga qopqog'ini yoping"
+  },
+  {
+   "q": "We need some strong brown ______ boxes to pack our heavy books for moving.",
+   "options": [
+    "cardboard",
+    "plastic",
+    "glass",
+    "ceramic"
+   ],
+   "answer": "cardboard",
+   "explain": "cardboard — qog'oz quti: kitoblarni ko'chirish uchun qog'oz qutilar kerak"
+  },
+  {
+   "q": "My father wears a woolen hat because he has suffered from severe ______ for years.",
+   "options": [
+    "baldness",
+    "deafness",
+    "movement",
+    "arrangement"
+   ],
+   "answer": "baldness",
+   "explain": "baldness — kallik: yillar davomida qattiq kallikdan aziyat chekmoqda"
+  },
+  {
+   "q": "Can you ______ the wonderful traditional meal we ate yesterday in Tashkent city?",
+   "options": [
+    "describe",
+    "apologise",
+    "complain",
+    "comfort"
+   ],
+   "answer": "describe",
+   "explain": "describe — tasvirlash: kecha Toshkentda yegan an'anaviy taomni tasvirlay olasizmi"
+  },
+  {
+   "q": "Thomas Edison was a brilliant ______ who created the first working electric light bulb.",
+   "options": [
+    "inventor",
+    "invent",
+    "challenge",
+    "demonstrate"
+   ],
+   "answer": "inventor",
+   "explain": "inventor — ixtirochi: Tomas Edison birinchi elektr lampochkasini yaratgan ixtirochi"
+  },
+  {
+   "q": "This modern building has a very unusual ______ shape like a big round ball.",
+   "options": [
+    "spherical",
+    "rectangular",
+    "triangular",
+    "square"
+   ],
+   "answer": "spherical",
+   "explain": "spherical — sharsimon: bu bino katta dumaloq to'pdek sharsimon shaklga ega"
+  },
+  {
+   "q": "The ancient city walls were built using heavy grey ______ blocks from the nearby mountains.",
+   "options": [
+    "stone",
+    "copper",
+    "aluminium",
+    "iron"
+   ],
+   "answer": "stone",
+   "explain": "stone — tosh: qadimiy shahar devorlari yaqin tog'lardan toshlar bilan qurilgan"
+  },
+  {
+   "q": "My little brother broke his favorite plastic toy car so we need to ______ it.",
+   "options": [
+    "repair",
+    "reconstruct",
+    "record",
+    "treat"
+   ],
+   "answer": "repair",
+   "explain": "repair — tuzatish: ukamning o'yinchoq mashinasini tuzatib qo'yishimiz kerak"
+  },
+  {
+   "q": "She bought a new ______ phone that allows her to walk around the house while talking.",
+   "options": [
+    "cordless",
+    "rechargeable",
+    "solar-powered",
+    "circular"
+   ],
+   "answer": "cordless",
+   "explain": "cordless — simsiz: uyda gaplashib yura oladigan simsiz telefon oldi"
+  },
+  {
+   "q": "Please remember to ______ your phone battery every night before you go to sleep.",
+   "options": [
+    "rechargeable",
+    "cordless",
+    "circular",
+    "spherical"
+   ],
+   "answer": "rechargeable",
+   "explain": "rechargeable — quvvatlanadigan: uxlashdan oldin telefon batareyasini quvvatlab qo'ying"
+  },
+  {
+   "q": "We used strong ______ pipes to carry clean water through our new village garden.",
+   "options": [
+    "plastic",
+    "cardboard",
+    "paper",
+    "glass"
+   ],
+   "answer": "plastic",
+   "explain": "plastic — plastmassa: qishloq bog'iga toza suv olib borish uchun plastmassa quvurlar ishlatdik"
+  },
+  {
+   "q": "The teacher asked the clever students to ______ how the solar system moves around.",
+   "options": [
+    "demonstrate",
+    "enquire",
+    "complain",
+    "apologise"
+   ],
+   "answer": "demonstrate",
+   "explain": "demonstrate — namoyish qilish: o'qituvchi quyosh tizimi harakatini namoyish qilishni so'radi"
+  },
+  {
+   "q": "My mother loves wearing genuine ______ shoes because they are very soft and comfortable.",
+   "options": [
+    "leather",
+    "nylon",
+    "aluminium",
+    "copper"
+   ],
+   "answer": "leather",
+   "explain": "leather — charm: onam yumshoq va qulay bo'lgani uchun charm poyabzal kiyishni yaxshi ko'radi"
+  },
+  {
+   "q": "Uzbekistan has large mountains that contain rich deposits of gold and red ______.",
+   "options": [
+    "copper",
+    "glass",
+    "paper",
+    "cardboard"
+   ],
+   "answer": "copper",
+   "explain": "copper — mis: O'zbekistonda oltin va mis konlari juda ko'p"
+  },
+  {
+   "q": "The old wooden chair had a ______ leg so my uncle fixed it with glue.",
+   "options": [
+    "broken",
+    "bald",
+    "deaf",
+    "curved"
+   ],
+   "answer": "broken",
+   "explain": "broken — singan: eski yog'och stulning oyog'i singan edi"
+  },
+  {
+   "q": "Always ______ the waiter if the soup is too cold or lacks enough salt.",
+   "options": [
+    "complain",
+    "apologise",
+    "comfort",
+    "warn"
+   ],
+   "answer": "complain",
+   "explain": "complain — shikoyat qilish: sho'rva sovuq bo'lsa ofitsiantga shikoyat qiling"
+  },
+  {
+   "q": "You must ______ to your friend immediately if you break his favorite red pencil.",
+   "options": [
+    "apologise",
+    "complain",
+    "enquire",
+    "treat"
+   ],
+   "answer": "apologise",
+   "explain": "apologise — kechirim so'rash: do'stingizning qalamini sindirsangiz darhol kechirim so'rashingiz kerak"
+  },
+  {
+   "q": "My older sister will ______ a wonderful birthday party for our little twins next week.",
+   "options": [
+    "arrange",
+    "comfort",
+    "warn",
+    "inform"
+   ],
+   "answer": "arrange",
+   "explain": "arrange — uyushtirish: opam keyingi hafta egizaklar uchun tug'ilgan kun ziyofatini uyushtiradi"
+  },
+  {
+   "q": "The museum guide made an interesting ______ about the ancient history of Samarkand.",
+   "options": [
+    "recording",
+    "demonstration",
+    "reconstruction",
+    "arrangement"
+   ],
+   "answer": "recording",
+   "explain": "recording — yozuv: muzey gidining Samarqand tarixi haqida qiziqarli yozuvi bor edi"
+  },
+  {
+   "q": "Scientists continue to ______ new facts about historical events through modern archaeological digs.",
+   "options": [
+    "rediscover",
+    "reconstruct",
+    "demonstrate",
+    "inform"
+   ],
+   "answer": "rediscover",
+   "explain": "rediscover — qaytadan kashf qilish: olimlar yangi qazishmalar orqali tarixiy voqealarni qaytadan kashf etmoqda"
+  },
+  {
+   "q": "Please hold the heavy wooden door by its metal ______ to open it safely.",
+   "options": [
+    "handle",
+    "lid",
+    "base",
+    "battery"
+   ],
+   "answer": "handle",
+   "explain": "handle — tutqich: eshikni ochish uchun uning temir tutqichidan ushlang"
+  },
+  {
+   "q": "My grandfather likes to ______ an exciting story about his youth in the mountains.",
+   "options": [
+    "tell a story",
+    "apologise",
+    "complain",
+    "comfort"
+   ],
+   "answer": "tell a story",
+   "explain": "tell a story — hikoya aytib bermoq: bobom tog'dagi yoshligi haqida hikoya aytib berishni yoqtiradi"
+  },
+  {
+   "q": "The art teacher used a piece of ______ to make a beautiful drawing for class.",
+   "options": [
+    "paper",
+    "plastic",
+    "cardboard",
+    "glass"
+   ],
+   "answer": "paper",
+   "explain": "paper — qog'oz: rasm o'qituvchisi sinf uchun chiroyli chizma tayyorlashda qog'oz ishlatdi"
+  },
+  {
+   "q": "You can save money on electricity bills by installing a ______ water heater system.",
+   "options": [
+    "solar-powered",
+    "cordless",
+    "rechargeable",
+    "circular"
+   ],
+   "answer": "solar-powered",
+   "explain": "solar-powered — quyosh energiyasida ishlaydigan: quyosh energiyasida ishlaydigan suv isitgich orqali pulni tejashingiz mumkin"
+  },
+  {
+   "q": "The local doctor will ______ the sick child with new medicine from the city pharmacy.",
+   "options": [
+    "treat",
+    "comfort",
+    "warn",
+    "inform"
+   ],
+   "answer": "treat",
+   "explain": "treat — davolash: shifokor kasal bolani shahar dorixonasidan olib kelingan dori bilan davolaydi"
+  },
+  {
+   "q": "We had to walk carefully because the path was full of slippery mud and wet ______.",
+   "options": [
+    "stone",
+    "copper",
+    "iron",
+    "aluminium"
+   ],
+   "answer": "stone",
+   "explain": "stone — tosh: yo'l sirpanchiq loy va ho'l toshlarga to'la bo'lgani uchun ehtiyotkorlik bilan yurdik"
+  },
+  {
+   "q": "Every modern car needs strong rubber ______ to run smoothly on the asphalt road.",
+   "options": [
+    "wheels",
+    "lid",
+    "handle",
+    "base"
+   ],
+   "answer": "wheels",
+   "explain": "wheels — g'ildiraklar: har bir zamonaviy mashinaga asfalt yo'lda yurish uchun rezina g'ildiraklar kerak"
+  },
+  {
+   "q": "The clever detective wanted to ______ about the missing painting at the art gallery.",
+   "options": [
+    "enquire",
+    "complain",
+    "apologise",
+    "comfort"
+   ],
+   "answer": "enquire",
+   "explain": "enquire — surishtirmoq: aqlli detektiv san'at galereyasidagi yo'qolgan rasm haqida surishtirmoqchi edi"
+  },
+  {
+   "q": "Our English teacher tried to ______ all shy students to speak clearly during lessons.",
+   "options": [
+    "encourage",
+    "comfort",
+    "complain",
+    "apologise"
+   ],
+   "answer": "encourage",
+   "explain": "encourage — rag'batlantirish: ingliz tili o'qituvchisi barcha uyatchan o'quvchilarni darsda aniq gapirishga rag'batlantirdi"
+  }
+ ],
+ "c": [
+  {
+   "q": "My grandfather is completely ______ because he lost all his hair years ago.",
+   "answer": "bald",
+   "base": "bald",
+   "explain": "bald — kal: sochi yo'q kishi"
+  },
+  {
+   "q": "The old castle needs a major ______ to look safe for visitors.",
+   "answer": "reconstruction",
+   "base": "reconstruction",
+   "explain": "reconstruction — qayta tiklash: eski binoni yangilash"
+  },
+  {
+   "q": "You should always ______ if you make a mistake to your friend.",
+   "answer": "apologise",
+   "base": "apologise",
+   "explain": "apologise — kechrim so'rash: xato uchun uzr aytish"
+  },
+  {
+   "q": "Please put the ______ back on the boiling pot of soup carefully.",
+   "answer": "lid",
+   "base": "lid",
+   "explain": "lid — qopqoq: idishning ustini yopuvchi narsa"
+  },
+  {
+   "q": "My father wears a strong belt made of genuine brown ______.",
+   "answer": "leather",
+   "base": "leather",
+   "explain": "leather — charm: hayvon terisidan tayyorlangan material"
+  },
+  {
+   "q": "We need to buy some thick brown ______ boxes for our move.",
+   "answer": "cardboard",
+   "base": "cardboard",
+   "explain": "cardboard — qalin qog'oz quti: karton material"
+  },
+  {
+   "q": "My phone is dead because I forgot to charge its internal ______.",
+   "answer": "battery",
+   "base": "battery",
+   "explain": "battery — akkumulyator: quvvat saqlovchi qurilma"
+  },
+  {
+   "q": "My uncle works hard to ______ old houses in our village.",
+   "answer": "reconstruct",
+   "base": "reconstruct",
+   "explain": "reconstruct — qayta tiklamoq: vayrona uylarni tuzatish"
+  },
+  {
+   "q": "The ancient builders used heavy blocks of ______ to build walls.",
+   "answer": "stone",
+   "base": "stone",
+   "explain": "stone — tosh: qattiq tabiiy material"
+  },
+  {
+   "q": "That modern kitchen table has a smooth ______ glass top.",
+   "answer": "circular",
+   "base": "circular",
+   "explain": "circular — dumaloq shakldagi: aylana ko'rinish"
+  },
+  {
+   "q": "She bought a new ______ phone so she can walk around.",
+   "answer": "cordless",
+   "base": "cordless",
+   "explain": "cordless — simsiz: kabeli yo'q telefon"
+  },
+  {
+   "q": "We can ______ our meeting time if Thursday does not suit.",
+   "answer": "arrange",
+   "base": "arrange",
+   "explain": "arrange — rejalashtirmoq: uchrashuv vaqtini kelishish"
+  },
+  {
+   "q": "The artist will ______ how to paint portraits using bright colors.",
+   "answer": "demonstrate",
+   "base": "demonstrate",
+   "explain": "demonstrate — namoyish etish: qanday qilishni ko'rsatish"
+  },
+  {
+   "q": "My brother loves to ______ science facts to his younger classmates.",
+   "answer": "describe",
+   "base": "describe",
+   "explain": "describe — tasvirlab bermoq: narsalarni tushuntirish"
+  },
+  {
+   "q": "Please do not ______ about the cold weather during our trip.",
+   "answer": "complain",
+   "base": "complain",
+   "explain": "complain — shikoyat qilish: norozilik bildirish"
+  },
+  {
+   "q": "Can you ______ the teacher for helping you with your homework?",
+   "answer": "thank",
+   "base": "thank",
+   "explain": "thank — minnatdorchilik bildirish: rahmat aytish"
+  },
+  {
+   "q": "The engineer will ______ the broken bicycle in his small garage.",
+   "answer": "repair",
+   "base": "repair",
+   "explain": "repair — ta'mirlash: buzilgan narsani tuzatish"
+  },
+  {
+   "q": "My mother used a strong wooden ______ to carry the heavy tray.",
+   "answer": "handle",
+   "base": "handle",
+   "explain": "handle — tutqich: ushlab ko'tarish uchun moslama"
+  },
+  {
+   "q": "This kitchen pot is made of light ______ which heats very fast.",
+   "answer": "aluminium",
+   "base": "aluminium",
+   "explain": "aluminium — alyuminiy: yengil metall turi"
+  },
+  {
+   "q": "The smart students made a brilliant ______ for the science fair.",
+   "answer": "invention",
+   "base": "invention",
+   "explain": "invention — ixtiro: yangi yaratilgan narsa"
+  },
+  {
+   "q": "We need to ______ our teacher about the change in our timetable.",
+   "answer": "inform",
+   "base": "inform",
+   "explain": "inform — xabardor qilish: ma'lumot berish"
+  },
+  {
+   "q": "The famous ______ explained how he built his new flying machine.",
+   "answer": "inventor",
+   "base": "inventor",
+   "explain": "inventor — ixtirochi: yangi narsa yaratuvchi shaxs"
+  },
+  {
+   "q": "Our local shop sells fresh milk in bottles made of strong ______.",
+   "answer": "glass",
+   "base": "glass",
+   "explain": "glass — shisha: tiniq material"
+  },
+  {
+   "q": "The old bicycle has two small ______ that turn very fast.",
+   "answer": "wheels",
+   "base": "wheels",
+   "explain": "wheels — g'ildiraklar: harakatlanish uchun aylana qismlar"
+  },
+  {
+   "q": "The teacher tried to ______ the shy boy to speak in class.",
+   "answer": "encourage",
+   "base": "encourage",
+   "explain": "encourage — ruhlantirish: dalda berish"
+  },
+  {
+   "q": "We need to ______ about train tickets to Samarkand this weekend.",
+   "answer": "enquire",
+   "base": "enquire",
+   "explain": "enquire — so'rab surishtirmoq: ma'lumot olish"
+  },
+  {
+   "q": "This beautiful necklace is made of pure yellow ______ from Tashkent.",
+   "answer": "gold",
+   "base": "gold",
+   "explain": "gold — oltin: qimmatbaho sariq metall"
+  },
+  {
+   "q": "My father decided to ______ for breaking his promise to my mother yesterday.",
+   "answer": "apologise",
+   "base": "apologise",
+   "explain": "apologise — kechirim so'ramoq: u xatosi uchun kechirim so'radi"
+  },
+  {
+   "q": "Please put the ______ back on the boiling pot of soup immediately.",
+   "answer": "lid",
+   "base": "lid",
+   "explain": "lid — qopqoq: qaynayotgan sho'rva qopqog'ini yoping"
+  },
+  {
+   "q": "You should always ______ your little brother when he feels lonely.",
+   "answer": "comfort",
+   "base": "comfort",
+   "explain": "comfort — taskin bermoq: yolg'iz ukasiga taskin berdi"
+  }
+ ]
+}

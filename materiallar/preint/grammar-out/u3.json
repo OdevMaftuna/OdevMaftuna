@@ -1,0 +1,1718 @@
+{
+ "unit": 3,
+ "parts": [
+  [
+   {
+    "kind": "choose",
+    "q": "You ______ wear a school uniform at our school; it is a strict rule.",
+    "hint": "",
+    "options": [
+     "have to",
+     "don't have to",
+     "mustn't"
+    ],
+    "answer": "have to",
+    "accept": [],
+    "explain": "Gapda qat'iy qoida haqida gap ketmoqda va «it is a strict rule» so'zi yordam beradi, shuning uchun have to ishlatiladi.",
+    "wrong": {
+     "don't have to": "Bu majburiyat yo'qligini bildiradi, lekin qoidada shart deyilgan.",
+     "mustn't": "Bu taqiqni bildiradi, lekin bu yerda majburiyat kerak."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Tomorrow is Sunday, so I ______ get up early.",
+    "hint": "",
+    "options": [
+     "don't have to",
+     "have to",
+     "must"
+    ],
+    "answer": "don't have to",
+    "accept": [],
+    "explain": "Gapda «Tomorrow is Sunday» bor, ya'ni ertaga dam olish kuni, shuning uchun majburiyat yo'q: don't have to.",
+    "wrong": {
+     "have to": "Dam olish kuni erta turish shart emas.",
+     "must": "Bu kuchli majburiyatni bildiradi, dam olish kuniga mos emas."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "You ______ touch this dangerous machine! It is broken.",
+    "hint": "",
+    "options": [
+     "mustn't",
+     "don't have to",
+     "have to"
+    ],
+    "answer": "mustn't",
+    "accept": [],
+    "explain": "Gapda «dangerous machine» va «It is broken» bor, bu aniq taqiqni bildiradi: mustn't.",
+    "wrong": {
+     "don't have to": "Bu majburiyat yo'qligini bildiradi, xavfli narsaga nisbatan ishlatilmaydi.",
+     "have to": "Bu majburiyatni bildiradi, taqiq uchun noto'g'ri."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "We ______ buy tickets online; we can also buy them at the station.",
+    "hint": "",
+    "options": [
+     "needn't",
+     "mustn't",
+     "have to"
+    ],
+    "answer": "needn't",
+    "accept": [],
+    "explain": "Gapda «we can also buy them at the station» klue so'zi bor, ya'ni majburiyat yo'q: needn't.",
+    "wrong": {
+     "mustn't": "Bu taqiqni bildiradi, chipta olishni taqiqlab bo'lmaydi.",
+     "have to": "Bu qat'iy majburiyatni bildiradi, lekin stansiyada ham olsa bo'ladi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Aziz ______ finish his project by Friday because the teacher asked for it.",
+    "hint": "",
+    "options": [
+     "has to",
+     "doesn't have to",
+     "needn't"
+    ],
+    "answer": "has to",
+    "accept": [],
+    "explain": "Gapda o'qituvchining talabi borligi uchun «has to» majburiyatni bildiradi.",
+    "wrong": {
+     "doesn't have to": "Bu majburiyat yo'qligini bildiradi, lekin loyihani topshirish kerak.",
+     "needn't": "Kerak emas degan ma'noni beradi, vazifa uchun noto'g'ri."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "You ______ eat in the library; it is against the rules.",
+    "hint": "",
+    "options": [
+     "mustn't",
+     "don't have to",
+     "needn't"
+    ],
+    "answer": "mustn't",
+    "accept": [],
+    "explain": "Gapda «against the rules» bor — bu qoida bo'yicha taqiqni bildiradi: mustn't.",
+    "wrong": {
+     "don't have to": "Bu shart emasligini bildiradi, kutubxonada ovqatlanish taqiqlangan.",
+     "needn't": "Bu ham harakat majburiy emasligini bildiradi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "I have plenty of time, so I ______ run to catch the bus.",
+    "hint": "",
+    "options": [
+     "don't have to",
+     "mustn't",
+     "have to"
+    ],
+    "answer": "don't have to",
+    "accept": [],
+    "explain": "Gapda «plenty of time» bor, ya'ni vaqt ko'p va shoshilish shart emas: don't have to.",
+    "wrong": {
+     "mustn't": "Yugurishni taqiqlab bo'lmaydi, faqat shart emas.",
+     "have to": "Vaqt ko'p bo'lsa, majburiyat bo'lmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Students ______ be quiet during the English exam.",
+    "hint": "",
+    "options": [
+     "must",
+     "needn't",
+     "don't have to"
+    ],
+    "answer": "must",
+    "accept": [],
+    "explain": "Gapda imtixon payti haqida gap ketmoqda, shuning uchun shaxsiy bo'lmagan qat'iy qoida: must.",
+    "wrong": {
+     "needn't": "Jim o'tirish shart emas degani xato bo'ladi.",
+     "don't have to": "Imtihonda jim o'tirish majburiy."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "You ______ bring your umbrella; it is a sunny day.",
+    "hint": "",
+    "options": [
+     "needn't",
+     "mustn't",
+     "have to"
+    ],
+    "answer": "needn't",
+    "accept": [],
+    "explain": "Gapda «sunny day» klue so'zi bor, shuning uchun soyabon olish shart emas: needn't.",
+    "wrong": {
+     "mustn't": "Soyabon olib kelishni taqiqlab bo'lmaydi.",
+     "have to": "Quyoshli kunda soyabon shart emas."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "My little brother ______ go to bed early on school nights.",
+    "hint": "",
+    "options": [
+     "has to",
+     "doesn't have to",
+     "mustn't"
+    ],
+    "answer": "has to",
+    "accept": [],
+    "explain": "Maktab kunlari erta uxlash majburiyati borligi uchun «has to» ishlatiladi.",
+    "wrong": {
+     "doesn't have to": "Maktab kunlari erta yotish majburiyati mavjud.",
+     "mustn't": "Bu taqiqni bildiradi, mantiqqa to'g'ri kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "We ______ park our car here; there is a 'No Parking' sign.",
+    "hint": "",
+    "options": [
+     "mustn't",
+     "don't have to",
+     "needn't"
+    ],
+    "answer": "mustn't",
+    "accept": [],
+    "explain": "Gapda «No Parking sign» bor, shuning uchun bu yerda to'xtash taqiqlangan: mustn't.",
+    "wrong": {
+     "don't have to": "Belgi taqiqni bildiradi, shunchaki xohish emas.",
+     "needn't": "Bu majburiyat yo'qligini bildiradi, taqiqqa to'g'ri kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Gulnora ______ wash the dishes because her sister did it already.",
+    "hint": "",
+    "options": [
+     "doesn't have to",
+     "has to",
+     "mustn't"
+    ],
+    "answer": "doesn't have to",
+    "accept": [],
+    "explain": "Gapda «her sister did it already» bor, shuning uchun idish yuvish shart emas: doesn't have to.",
+    "wrong": {
+     "has to": "Opasi yuvib bo'lgani uchun bu majburiyat yo'q.",
+     "mustn't": "Idish yuvishni taqiqlab bo'lmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "You ______ tell anyone my secret; it is very important.",
+    "hint": "",
+    "options": [
+     "mustn't",
+     "don't have to",
+     "needn't"
+    ],
+    "answer": "mustn't",
+    "accept": [],
+    "explain": "Gapda «it is very important» sirni aytmaslik taqiqini bildiradi: mustn't.",
+    "wrong": {
+     "don't have to": "Sirni umuman aytmaslik kerak, bu taqiq.",
+     "needn't": "Kerak emas degan ma'no bu yerga mos emas."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "We ______ leave now if we want to catch the train.",
+    "hint": "",
+    "options": [
+     "have to",
+     "don't have to",
+     "mustn't"
+    ],
+    "answer": "have to",
+    "accept": [],
+    "explain": "Gapda «if we want to catch the train» sharti bor, shuning uchun hozir ketish majburiy: have to.",
+    "wrong": {
+     "don't have to": "Poyezdga ulgurish uchun ketish shart.",
+     "mustn't": "Bu taqiqni bildiradi, harakatni cheklaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "You ______ pay for the museum tour; today it is completely free.",
+    "hint": "",
+    "options": [
+     "needn't",
+     "mustn't",
+     "have to"
+    ],
+    "answer": "needn't",
+    "accept": [],
+    "explain": "Gapda «completely free» so'zi bor, shuning uchun pul to'lash shart emas: needn't.",
+    "wrong": {
+     "mustn't": "To'lov qilmaslik taqiqlangan emas, u bepul.",
+     "have to": "Bepul bo'lgani uchun majburiyat yo'q."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Drivers ______ stop when the traffic light is red.",
+    "hint": "",
+    "options": [
+     "must",
+     "needn't",
+     "don't have to"
+    ],
+    "answer": "must",
+    "accept": [],
+    "explain": "Yo'q qoidasiga ko'ra qizil chiroqda to'xtash majburiy: must.",
+    "wrong": {
+     "needn't": "To'xtamaslik mumkin emas.",
+     "don't have to": "Bu qoida shart emasligini bildirmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Timur ______ clean his room before he goes out to play.",
+    "hint": "",
+    "options": [
+     "has to",
+     "doesn't have to",
+     "needn't"
+    ],
+    "answer": "has to",
+    "accept": [],
+    "explain": "Gapda xonani tozalash talabi borligi uchun «has to» ishlatiladi.",
+    "wrong": {
+     "doesn't have to": "O‘ynashdan oldin tozalash majburiyati bor.",
+     "needn't": "Bu majburiyat yo'qligini bildiradi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "You ______ bring food to the museum; it is strictly forbidden.",
+    "hint": "",
+    "options": [
+     "mustn't",
+     "don't have to",
+     "needn't"
+    ],
+    "answer": "mustn't",
+    "accept": [],
+    "explain": "Gapda «strictly forbidden» so'zi taqiqni bildiradi: mustn't.",
+    "wrong": {
+     "don't have to": "Oziq-ovqat olib kelish shunchaki istak emas, taqiqlangan.",
+     "needn't": "Bu harakatning majburiy emasligini bildiradi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "I ______ go to the supermarket now because we have plenty of food.",
+    "hint": "",
+    "options": [
+     "don't have to",
+     "have to",
+     "must"
+    ],
+    "answer": "don't have to",
+    "accept": [],
+    "explain": "Gapda «we have plenty of food» bor, shuning uchun hozir bozorga borish shart emas.",
+    "wrong": {
+     "have to": "Oziq-ovqat yetarli bo'lsa, majburiyat yo'q.",
+     "must": "Kuchli majburiyat bu vaziyatda o'rinli emas."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "You ______ listen carefully to the teacher's instructions.",
+    "hint": "",
+    "options": [
+     "must",
+     "needn't",
+     "don't have to"
+    ],
+    "answer": "must",
+    "accept": [],
+    "explain": "Muhim ko'rsatmalarni tinglash uchun qat'iy tavsiya va qoida: must.",
+    "wrong": {
+     "needn't": "Tinglash shart emas degan ma'no xato.",
+     "don't have to": "Bu yerda majburiyat yo'qligi haqida gap ketmayapti."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Zarina ______ cook dinner tonight because her parents are taking her to a cafe.",
+    "hint": "",
+    "options": [
+     "doesn't have to",
+     "has to",
+     "mustn't"
+    ],
+    "answer": "doesn't have to",
+    "accept": [],
+    "explain": "Gapda ota-onasi kafelarga olib ketishi aytilgan, shuning uchun kechki ovqat pishirish shart emas.",
+    "wrong": {
+     "has to": "Kafe borishganda ovqat pishirish shart emas.",
+     "mustn't": "Ovqat pishirishni taqiqlab bo'lmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "You ______ feed the zoo animals; it is dangerous and prohibited.",
+    "hint": "",
+    "options": [
+     "mustn't",
+     "don't have to",
+     "needn't"
+    ],
+    "answer": "mustn't",
+    "accept": [],
+    "explain": "Gapda «prohibited» so'zi taqiqni anglatadi: mustn't.",
+    "wrong": {
+     "don't have to": "Hayvonlarni boqish shart emas emas, balki qat'iyan taqiqlangan.",
+     "needn't": "Bu shunchaki majburiyat yo'qligini bildiradi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "We ______ catch the early bus; we can take the later one.",
+    "hint": "",
+    "options": [
+     "don't have to",
+     "have to",
+     "must"
+    ],
+    "answer": "don't have to",
+    "accept": [],
+    "explain": "Gapda «we can take the later one» klue so'zi bor, shuning uchun erta avtobusga ulgurish shart emas.",
+    "wrong": {
+     "have to": "Keyingi avtobusga chiqish imkoni borligi uchun bu shart emas.",
+     "must": "Bu kuchli majburiyatni bildiradi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "You ______ use your mobile phone during the test.",
+    "hint": "",
+    "options": [
+     "mustn't",
+     "don't have to",
+     "needn't"
+    ],
+    "answer": "mustn't",
+    "accept": [],
+    "explain": "Test paytida telefon ishlatish qat'iy taqiqlangan: mustn't.",
+    "wrong": {
+     "don't have to": "Telefon ishlatish taqiqlangan, shunchaki xohish emas.",
+     "needn't": "Bu majburiyat yo'qligini bildiradi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Jasur ______ wake up early on Sundays because he has no classes.",
+    "hint": "",
+    "options": [
+     "doesn't have to",
+     "has to",
+     "mustn't"
+    ],
+    "answer": "doesn't have to",
+    "accept": [],
+    "explain": "Gapda «he has no classes» dam olish kuni dars yo'qligini va erta turish shart emasligini bildiradi.",
+    "wrong": {
+     "has to": "Dars bo'lmagani uchun erta turish majburiyati yo'q.",
+     "mustn't": "Erta turishni taqiqlab bo'lmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "You ______ wear a jacket; it is warm outside.",
+    "hint": "",
+    "options": [
+     "needn't",
+     "mustn't",
+     "have to"
+    ],
+    "answer": "needn't",
+    "accept": [],
+    "explain": "Gapda «it is warm outside» klue so'zi bor, shuning uchun kurtka kiyish shart emas: needn't.",
+    "wrong": {
+     "mustn't": "Kurtka kiyishni taqiqlab bo'lmaydi.",
+     "have to": "Issiq havoda kurtka kiyish shart emas."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Tourists ______ show their passports at the border control.",
+    "hint": "",
+    "options": [
+     "have to",
+     "don't have to",
+     "needn't"
+    ],
+    "answer": "have to",
+    "accept": [],
+    "explain": "Chegara nazoratida pasport ko'rsatish majburiy qoida: have to.",
+    "wrong": {
+     "don't have to": "Chegarada pasport ko'rsatmaslik mumkin emas.",
+     "needn't": "Bu majburiy emas degan ma'noni beradi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "You ______ speak loudly in the hospital ward.",
+    "hint": "",
+    "options": [
+     "mustn't",
+     "don't have to",
+     "needn't"
+    ],
+    "answer": "mustn't",
+    "accept": [],
+    "explain": "Kasalxona palatasida baqirib gapirish taqiqlangan: mustn't.",
+    "wrong": {
+     "don't have to": "Shovqin qilish qat'iyan taqiqlangan.",
+     "needn't": "Bu shart emasligini bildiradi, lekin bu yerda taqiq bor."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Malika ______ buy a new notebook because she has an empty one.",
+    "hint": "",
+    "options": [
+     "doesn't have to",
+     "has to",
+     "mustn't"
+    ],
+    "answer": "doesn't have to",
+    "accept": [],
+    "explain": "Gapda «she has an empty one» bor, shuning uchun yangi daftar sotib olish shart emas.",
+    "wrong": {
+     "has to": "Bo'sh daftari borligi uchun yangisi majburiy emas.",
+     "mustn't": "Sotib olishni taqiqlab bo'lmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "We ______ wear helmets when riding bicycles for our safety.",
+    "hint": "",
+    "options": [
+     "must",
+     "needn't",
+     "don't have to"
+    ],
+    "answer": "must",
+    "accept": [],
+    "explain": "Xavfsizlik uchun velosiped haydashda dubulg'a kiyish qat'iy qoida: must.",
+    "wrong": {
+     "needn't": "Xavfsizlik uchun dubulg'a kerak.",
+     "don't have to": "Bu qoida shart emasligini bildirmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "You ______ bring any snacks; I have prepared plenty of food.",
+    "hint": "",
+    "options": [
+     "needn't",
+     "mustn't",
+     "have to"
+    ],
+    "answer": "needn't",
+    "accept": [],
+    "explain": "Gapda «I have prepared plenty of food» bor, shuning uchun gazak olib kelish shart emas: needn't.",
+    "wrong": {
+     "mustn't": "Ovqat olib kelish taqiqlanmagan, shunchaki kerak emas.",
+     "have to": "Oziq-ovqat tayyorlab qo'yilgan."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Workers ______ wear safety glasses in this factory zone.",
+    "hint": "",
+    "options": [
+     "have to",
+     "don't have to",
+     "mustn't"
+    ],
+    "answer": "have to",
+    "accept": [],
+    "explain": "Zavod zonasida xavfsizlik ko'zoynagini taqish majburiy qoida: have to.",
+    "wrong": {
+     "don't have to": "Zavodda xavfsizlik qoidasi majburiy.",
+     "mustn't": "Bu taqiqni bildiradi, taqish taqiqlanmagan."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "You ______ drop litter on the school playground.",
+    "hint": "",
+    "options": [
+     "mustn't",
+     "don't have to",
+     "needn't"
+    ],
+    "answer": "mustn't",
+    "accept": [],
+    "explain": "Maktab maydonchasiga axlat tashlash qat'iy taqiqlangan: mustn't.",
+    "wrong": {
+     "don't have to": "Axlat tashlash shunchaki tavsiya emas, taqiqlangan.",
+     "needn't": "Bu majburiyat yo'qligini bildiradi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Sardor ______ finish his homework now; he can do it tomorrow morning.",
+    "hint": "",
+    "options": [
+     "doesn't have to",
+     "has to",
+     "mustn't"
+    ],
+    "answer": "doesn't have to",
+    "accept": [],
+    "explain": "Gapda «he can do it tomorrow morning» klue so'zi bor, shuning uchun hozir bajarish shart emas.",
+    "wrong": {
+     "has to": "Ertalab qilish imkoni borligi uchun hozir shart emas.",
+     "mustn't": "Uy vazifasini qilishni taqiqlab bo'lmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "You ______ cross the road when the pedestrian light is red.",
+    "hint": "",
+    "options": [
+     "mustn't",
+     "don't have to",
+     "needn't"
+    ],
+    "answer": "mustn't",
+    "accept": [],
+    "explain": "Qizil chiroqda yo'lni kesib o'tish taqiqlangan: mustn't.",
+    "wrong": {
+     "don't have to": "Bu harakat shart emas emas, balki xavfli va taqiqlangan.",
+     "needn't": "Bu majburiyat yo'qligini bildiradi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "We ______ book our hotel in advance because it is peak holiday season.",
+    "hint": "",
+    "options": [
+     "have to",
+     "don't have to",
+     "needn't"
+    ],
+    "answer": "have to",
+    "accept": [],
+    "explain": "Dam olish mavsumi bo'lgani uchun oldindan mehmonxona band qilish majburiy: have to.",
+    "wrong": {
+     "don't have to": "Mavsumda oldindan band qilish muhim.",
+     "needn't": "Bu kerak emas degan ma'noni beradi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "You ______ worry about the history test; it is very easy.",
+    "hint": "",
+    "options": [
+     "needn't",
+     "mustn't",
+     "have to"
+    ],
+    "answer": "needn't",
+    "accept": [],
+    "explain": "Gapda «it is very easy» bor, shuning uchun tashvishlanish shart emas: needn't.",
+    "wrong": {
+     "mustn't": "Tashvishlanishni taqiqlab bo'lmaydi.",
+     "have to": "Oson imtihon uchun tashvishlanish majburiy emas."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Passengers ______ fasten their seatbelts during takeoff.",
+    "hint": "",
+    "options": [
+     "must",
+     "needn't",
+     "don't have to"
+    ],
+    "answer": "must",
+    "accept": [],
+    "explain": "Samolyot uchishi paytida kamar taqish qat'iy xavfsizlik qoidasi: must.",
+    "wrong": {
+     "needn't": "Kamar taqish majburiy.",
+     "don't have to": "Bu qoida barcha uchun shart."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Nodira ______ wash the car today because it is already clean.",
+    "hint": "",
+    "options": [
+     "doesn't have to",
+     "has to",
+     "mustn't"
+    ],
+    "answer": "doesn't have to",
+    "accept": [],
+    "explain": "Gapda «it is already clean» bor, shuning uchun mashina yuvish shart emas.",
+    "wrong": {
+     "has to": "Mashina toza bo'lsa, yuvish majburiyati yo'q.",
+     "mustn't": "Mashina yuvishni taqiqlab bo'lmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "You ______ leave your bicycle unlocked; someone might steal it.",
+    "hint": "",
+    "options": [
+     "mustn't",
+     "don't have to",
+     "needn't"
+    ],
+    "answer": "mustn't",
+    "accept": [],
+    "explain": "Gapda «someone might steal it» xavfi borligi uchun velosipedni qulflamasdan qoldirish taqiqlangan: mustn't.",
+    "wrong": {
+     "don't have to": "Velosipedni ochiq qoldirish qat'iyan taqiqlangan.",
+     "needn't": "Bu shart emasligini bildiradi."
+    }
+   }
+  ],
+  [
+   {
+    "kind": "rewrite",
+    "q": "It is prohibited to smoke inside the hospital. → You ______",
+    "hint": "",
+    "options": [],
+    "answer": "mustn't smoke inside the hospital",
+    "accept": [
+     "cannot smoke inside the hospital.",
+     "can't smoke inside the hospital."
+    ],
+    "explain": "Gapda taqiq bor, shuning uchun «mustn't» ishlatiladi: «It is prohibited».",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "It is not necessary for you to bring your camera. → You ______",
+    "hint": "",
+    "options": [],
+    "answer": "don't have to bring your camera",
+    "accept": [
+     "don't need to bring your camera.",
+     "needn't bring your camera."
+    ],
+    "explain": "Gapda majburiyat yo'qligi bildirilyapti, shuning uchun «don't have to» ishlatiladi: «It is not necessary».",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "It is forbidden to take photos in the art gallery. → You ______",
+    "hint": "",
+    "options": [],
+    "answer": "mustn't take photos in the art gallery",
+    "accept": [
+     "cannot take photos in the art gallery.",
+     "can't take photos in the art gallery."
+    ],
+    "explain": "Gapda qat'iy taqiq bor, shuning uchun «mustn't» ishlatiladi: «It is forbidden».",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "It is not necessary for Dilshod to buy a ticket. → Dilshod ______",
+    "hint": "",
+    "options": [],
+    "answer": "doesn't have to buy a ticket",
+    "accept": [
+     "doesn't need to buy a ticket.",
+     "needn't buy a ticket."
+    ],
+    "explain": "Harakat majburiy emas, shuning uchun «doesn't have to» ishlatiladi: «It is not necessary».",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "It is crucial that you be on time for the meeting. → You ______",
+    "hint": "",
+    "options": [],
+    "answer": "must be on time for the meeting",
+    "accept": [
+     "have to be on time for the meeting.",
+     "need to be on time for the meeting."
+    ],
+    "explain": "Muhim majburiyat bildirilgani uchun «must» ishlatiladi: «It is crucial».",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "There is no obligation for me to work on Saturday. → I ______",
+    "hint": "",
+    "options": [],
+    "answer": "don't have to work on Saturday",
+    "accept": [
+     "don't need to work on Saturday.",
+     "needn't work on Saturday."
+    ],
+    "explain": "Majburiyat yo'qligi sababli «don't have to» ishlatiladi: «There is no obligation».",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "It is against the rules to run in the corridors. → You ______",
+    "hint": "",
+    "options": [],
+    "answer": "mustn't run in the corridors",
+    "accept": [
+     "cannot run in the corridors.",
+     "can't run in the corridors."
+    ],
+    "explain": "Qoidaga ko'ra taqiqlangan, shuning uchun «mustn't» ishlatiladi: «It is against the rules».",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "It is essential for us to protect nature. → We ______",
+    "hint": "",
+    "options": [],
+    "answer": "must protect nature",
+    "accept": [
+     "have to protect nature.",
+     "need to protect nature."
+    ],
+    "explain": "Muhim va zarur qoida uchun «must» ishlatiladi: «It is essential».",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "It is not necessary for the girls to clean the board. → The girls ______",
+    "hint": "",
+    "options": [],
+    "answer": "don't have to clean the board",
+    "accept": [
+     "don't need to clean the board.",
+     "needn't clean the board."
+    ],
+    "explain": "Harakat talab etilmaydi, shuning uchun «don't have to» ishlatiladi: «It is not necessary».",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "It is strictly prohibited to enter this room. → You ______",
+    "hint": "",
+    "options": [],
+    "answer": "mustn't enter this room",
+    "accept": [
+     "cannot enter this room.",
+     "can't enter this room."
+    ],
+    "explain": "Qat'iy taqiq uchun «mustn't» ishlatiladi: «It is strictly prohibited».",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "It is necessary for Jamila to study hard for the exam. → Jamila ______",
+    "hint": "",
+    "options": [],
+    "answer": "has to study hard for the exam",
+    "accept": [
+     "must study hard for the exam.",
+     "needs to study hard for the exam."
+    ],
+    "explain": "Uchinchi shaxs birlik uchun «has to» ishlatiladi: «It is necessary».",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "It is not required for us to wear formal clothes today. → We ______",
+    "hint": "",
+    "options": [],
+    "answer": "don't have to wear formal clothes today",
+    "accept": [
+     "don't need to wear formal clothes today.",
+     "needn't wear formal clothes today."
+    ],
+    "explain": "Talab qilinmasligi uchun «don't have to» ishlatiladi: «It is not required».",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "It is important that you remember this rule. → You ______",
+    "hint": "",
+    "options": [],
+    "answer": "must remember this rule",
+    "accept": [
+     "have to remember this rule.",
+     "need to remember this rule."
+    ],
+    "explain": "Muhim tavsiya va majburiyat uchun «must» ishlatiladi: «It is important».",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "It is unnecessary for him to bring extra money. → He ______",
+    "hint": "",
+    "options": [],
+    "answer": "doesn't have to bring extra money",
+    "accept": [
+     "doesn't need to bring extra money.",
+     "needn't bring extra money."
+    ],
+    "explain": "Kerak emasligi sababli «doesn't have to» ishlatiladi: «It is unnecessary».",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "It is forbidden to touch the museum exhibits. → Visitors ______",
+    "hint": "",
+    "options": [],
+    "answer": "mustn't touch the museum exhibits",
+    "accept": [
+     "cannot touch the museum exhibits.",
+     "can't touch the museum exhibits."
+    ],
+    "explain": "Taqiqlangani uchun «mustn't» ishlatiladi: «It is forbidden».",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "It is not necessary for us to wake up early tomorrow. → We ______",
+    "hint": "",
+    "options": [],
+    "answer": "don't have to wake up early tomorrow",
+    "accept": [
+     "don't need to wake up early tomorrow.",
+     "needn't wake up early tomorrow."
+    ],
+    "explain": "Ertalab shart emasligi uchun «don't have to» ishlatiladi: «It is not necessary».",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "It is a rule that students switch off their phones in class. → Students ______",
+    "hint": "",
+    "options": [],
+    "answer": "must switch off their phones in class",
+    "accept": [
+     "have to switch off their phones in class.",
+     "need to switch off their phones in class."
+    ],
+    "explain": "Qoida bo'yicha majburiyat uchun «must» ishlatiladi: «It is a rule».",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "It is prohibited to park here. → Drivers ______",
+    "hint": "",
+    "options": [],
+    "answer": "mustn't park here",
+    "accept": [
+     "cannot park here.",
+     "can't park here."
+    ],
+    "explain": "Taqiq uchun «mustn't» ishlatiladi: «It is prohibited».",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "It is not required for Nargiza to cook lunch today. → Nargiza ______",
+    "hint": "",
+    "options": [],
+    "answer": "doesn't have to cook lunch today",
+    "accept": [
+     "doesn't need to cook lunch today.",
+     "needn't cook lunch today."
+    ],
+    "explain": "Majburiyat yo'q, shuning uchun «doesn't have to» ishlatiladi: «It is not required».",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "It is against the law to drive without a license. → You ______",
+    "hint": "",
+    "options": [],
+    "answer": "mustn't drive without a license",
+    "accept": [
+     "cannot drive without a license.",
+     "can't drive without a license."
+    ],
+    "explain": "Qonun bilan taqiqlangani uchun «mustn't» ishlatiladi: «It is against the law».",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "It is not necessary for them to wait for us. → They ______",
+    "hint": "",
+    "options": [],
+    "answer": "don't have to wait for us",
+    "accept": [
+     "don't need to wait for us.",
+     "needn't wait for us."
+    ],
+    "explain": "Kerak emasligi uchun «don't have to» ishlatiladi: «It is not necessary».",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "It is vital that we follow the safety instructions. → We ______",
+    "hint": "",
+    "options": [],
+    "answer": "must follow the safety instructions",
+    "accept": [
+     "have to follow the safety instructions.",
+     "need to follow the safety instructions."
+    ],
+    "explain": "Juda muhim qoida uchun «must» ishlatiladi: «It is vital».",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "It is not compulsory for you to join the club. → You ______",
+    "hint": "",
+    "options": [],
+    "answer": "don't have to join the club",
+    "accept": [
+     "don't need to join the club.",
+     "needn't join the club."
+    ],
+    "explain": "Majburiy emasligi uchun «don't have to» ishlatiladi: «It is not compulsory».",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "It is prohibited to feed the animals at the zoo. → Visitors ______",
+    "hint": "",
+    "options": [],
+    "answer": "mustn't feed the animals at the zoo",
+    "accept": [
+     "cannot feed the animals at the zoo.",
+     "can't feed the animals at the zoo."
+    ],
+    "explain": "Taqiq uchun «mustn't» ishlatiladi: «It is prohibited».",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "It is necessary for Rustam to finish his work today. → Rustam ______",
+    "hint": "",
+    "options": [],
+    "answer": "has to finish his work today",
+    "accept": [
+     "must finish his work today.",
+     "needs to finish his work today."
+    ],
+    "explain": "Uchinchi shaxs birlik uchun «has to» ishlatiladi: «It is necessary».",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "It is not necessary for me to buy a new dictionary. → I ______",
+    "hint": "",
+    "options": [],
+    "answer": "don't have to buy a new dictionary",
+    "accept": [
+     "don't need to buy a new dictionary.",
+     "needn't buy a new dictionary."
+    ],
+    "explain": "Ehtiyoj yo'q, shuning uchun «don't have to» ishlatiladi: «It is not necessary».",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "It is imperative that you tell the truth. → You ______",
+    "hint": "",
+    "options": [],
+    "answer": "must tell the truth",
+    "accept": [
+     "have to tell the truth.",
+     "need to tell the truth."
+    ],
+    "explain": "Qat'iy zaruriyat uchun «must» ishlatiladi: «It is imperative».",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "It is forbidden to ride a bike on this footpath. → You ______",
+    "hint": "",
+    "options": [],
+    "answer": "mustn't ride a bike on this footpath",
+    "accept": [
+     "cannot ride a bike on this footpath.",
+     "can't ride a bike on this footpath."
+    ],
+    "explain": "Taqiqlangani uchun «mustn't» ishlatiladi: «It is forbidden».",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "It is not required for the students to wear ties. → The students ______",
+    "hint": "",
+    "options": [],
+    "answer": "don't have to wear ties",
+    "accept": [
+     "don't need to wear ties.",
+     "needn't wear ties."
+    ],
+    "explain": "Talab etilmaydi, shuning uchun «don't have to» ishlatiladi: «It is not required».",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "It is not necessary for Umida to iron her dress. → Umida ______",
+    "hint": "",
+    "options": [],
+    "answer": "doesn't have to iron her dress",
+    "accept": [
+     "doesn't need to iron her dress.",
+     "needn't iron her dress."
+    ],
+    "explain": "Shart emasligi uchun «doesn't have to» ishlatiladi: «It is not necessary».",
+    "wrong": {}
+   }
+  ],
+  [
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "You must to wear a helmet when riding a bike.",
+     "You must wear a helmet when riding a bike.",
+     "You must wearing a helmet when riding a bike."
+    ],
+    "answer": "You must wear a helmet when riding a bike.",
+    "accept": [],
+    "explain": "Majburiyatni bildirish uchun «must» fe'lidan keyin «to» ishlatilmaydi, shuning uchun «must wear» to'g'ri.",
+    "wrong": {
+     "You must to wear a helmet when riding a bike.": "«Must» modal fe'lidan keyin «to» qo'shimchasi ishlatilmaydi.",
+     "You must wearing a helmet when riding a bike.": "«Must» fe'lidan keyin fe'lning 1-shakli kelishi kerak, -ing qo'shimchasi xato."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "You must to study hard for the final exam.",
+     "You must study hard for the final exam.",
+     "You must studying hard for the final exam."
+    ],
+    "answer": "You must study hard for the final exam.",
+    "accept": [],
+    "explain": "\"Must\" so'zidan keyin fe'l to'g'ridan-to'g'ri «study» shaklida keladi, «to» qo'shimchasi ishlatilmaydi.",
+    "wrong": {
+     "You must to study hard for the final exam.": "\"Must\" modal fe'lidan keyin hech qachon «to» ishlatilmaydi.",
+     "You must studying hard for the final exam.": "\"Must\" so'zidan keyin fe'lning -ing shakli kelmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Aziza have to clean her room today.",
+     "Aziza has to clean her room today.",
+     "Aziza has to cleans her room today."
+    ],
+    "answer": "Aziza has to clean her room today.",
+    "accept": [],
+    "explain": "Uchinchi shaxs birlik «Aziza» uchun «have to» emas, «has to» ishlatiladi.",
+    "wrong": {
+     "Aziza have to clean her room today.": "\"Aziza\" birlikda bo'lgani uchun «have» emas, «has» kerak.",
+     "Aziza has to cleans her room today.": "\"Has to\" dan keyin fe'lga -s qo'shimchasi qo'shilmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "We doesn't have to buy tickets online.",
+     "We don't have to buy tickets online.",
+     "We haven't to buy tickets online."
+    ],
+    "answer": "We don't have to buy tickets online.",
+    "accept": [],
+    "explain": "Inkor shaklda «don't have to» to'g'ri ishlatilgan, chunki subyekt «We» olmoshidir.",
+    "wrong": {
+     "We doesn't have to buy tickets online.": "\"We\" olmoshi bilan «doesn't» emas, «don't» ishlatiladi.",
+     "We haven't to buy tickets online.": "Majburiyat yo'qligini bildirish uchun «haven't to» emas, «don't have to» ishlatiladi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "You mustn't to touch that hot pan.",
+     "You don't must touch that hot pan.",
+     "You mustn't touch that hot pan."
+    ],
+    "answer": "You mustn't touch that hot pan.",
+    "accept": [],
+    "explain": "Taqiqlash ma'nosini bildirish uchun «mustn't» ishlatiladi va undan keyin fe'l keladi.",
+    "wrong": {
+     "You mustn't to touch that hot pan.": "\"Mustn't\" dan keyin «to» ishlatilmaydi.",
+     "You don't must touch that hot pan.": "\"Must\" o'zi inkor yasaydi, «don't» qo'shilmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Timur needn't bring extra snacks.",
+     "Timur needn't to bring extra snacks.",
+     "Timur needn't brings extra snacks."
+    ],
+    "answer": "Timur needn't bring extra snacks.",
+    "accept": [],
+    "explain": "\"Needn't\" so'zidan keyin to'g'ridan-to'g'ri «bring» fe'li keladi.",
+    "wrong": {
+     "Timur needn't to bring extra snacks.": "\"Needn't\" dan keyin «to» qo'shimchasi ishlatilmaydi.",
+     "Timur needn't brings extra snacks.": "\"Needn't\" dan keyin fe'lga -s qo'shilmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Have we to submit the project tomorrow?",
+     "Do we have to submit the project tomorrow?",
+     "Does we have to submit the project tomorrow?"
+    ],
+    "answer": "Do we have to submit the project tomorrow?",
+    "accept": [],
+    "explain": "So'roq gapda «Do» yordamchi fe'li va «have to» to'g'ri qo'llanilgan.",
+    "wrong": {
+     "Have we to submit the project tomorrow?": "Hozirgi zamonda savol berish uchun boshiga «Do» qo'yilishi kerak.",
+     "Does we have to submit the project tomorrow?": "\"We\" olmoshi bilan «Does» emas, «Do» ishlatiladi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "She don't have to wake up early.",
+     "She doesn't have to wake up early.",
+     "She doesn't has to wake up early."
+    ],
+    "answer": "She doesn't have to wake up early.",
+    "accept": [],
+    "explain": "Uchinchi shaxs birlik uchun inkor shaklda «doesn't have to» ishlatiladi.",
+    "wrong": {
+     "She don't have to wake up early.": "\"She\" olmoshi uchun «don't» emas, «doesn't» ishlatiladi.",
+     "She doesn't has to wake up early.": "\"Does\" so'zidan keyin fe'l o'zining asosiy «have» shakliga qaytadi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Students must to listen to the teacher.",
+     "Students must listening to the teacher.",
+     "Students must listen to the teacher."
+    ],
+    "answer": "Students must listen to the teacher.",
+    "accept": [],
+    "explain": "Majburiyatni bildirish uchun «must» fe'li to'g'ri qo'llanilgan.",
+    "wrong": {
+     "Students must to listen to the teacher.": "\"Must\" dan keyin «to» ishlatilmaydi.",
+     "Students must listening to the teacher.": "\"Must\" dan keyin -ing shakli ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Does he has to wear a suit?",
+     "Does he have to wear a suit?",
+     "Has he to wear a suit?"
+    ],
+    "answer": "Does he have to wear a suit?",
+    "accept": [],
+    "explain": "Savol tuzishda «Does» ishlatilib, asosiy fe'l «have to» ko'rinishida kelgan.",
+    "wrong": {
+     "Does he has to wear a suit?": "\"Does\" ishlatilganda «has» emas, «have» ishlatilishi kerak.",
+     "Has he to wear a suit?": "Zamonaviy ingliz tilida bu shakl o'rniga «Does he have to» ishlatiladi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "You needn't to worry about the rain.",
+     "You needn't worry about the rain.",
+     "You don't needn't worry about the rain."
+    ],
+    "answer": "You needn't worry about the rain.",
+    "accept": [],
+    "explain": "Kerak emasligini bildirish uchun «needn't» to'g'ri kelgan.",
+    "wrong": {
+     "You needn't to worry about the rain.": "\"Needn't\" dan keyin «to» ishlatilmaydi.",
+     "You don't needn't worry about the rain.": "Ikki marta inkor so'z birga ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Zarina musted to leave the party early.",
+     "Zarina had to leave the party early.",
+     "Zarina have to leave the party early."
+    ],
+    "answer": "Zarina had to leave the party early.",
+    "accept": [],
+    "explain": "O'tgan zamonda majburiyatni bildirish uchun «had to» ishlatiladi.",
+    "wrong": {
+     "Zarina musted to leave the party early.": "\"Must\" fe'lining o'tgan zamon shakli yo'q, «had to» ishlatiladi.",
+     "Zarina have to leave the party early.": "Ism birlikda bo'lgani va zamon o'tgan bo'lgani uchun «had to» kerak."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "We didn't have to pay for the museum.",
+     "We needn't had to pay for the museum.",
+     "We didn't had to pay for the museum."
+    ],
+    "answer": "We didn't have to pay for the museum.",
+    "accept": [],
+    "explain": "O'tgan zamonda majburiyat yo'qligi «didn't have to» orqali bildiriladi.",
+    "wrong": {
+     "We needn't had to pay for the museum.": "O'tgan zamonda «needn't have» ishlatiladi, «needn't had» emas.",
+     "We didn't had to pay for the museum.": "\"Did\" yordamchi fe'lidan keyin «have» o'zining asosiy shaklida kelishi kerak."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Babur musts to practice football every day.",
+     "Babur has to practice football every day.",
+     "Babur have to practice football every day."
+    ],
+    "answer": "Babur has to practice football every day.",
+    "accept": [],
+    "explain": "Uchinchi shaxs birlikdagi shaxs uchun «has to» to'g'ri qo'llanilgan.",
+    "wrong": {
+     "Babur musts to practice football every day.": "\"Must\" so'ziga -s qo'shilmaydi va «to» ishlatilmaydi.",
+     "Babur have to practice football every day.": "Birlikdagi ism uchun «have» emas, «has» ishlatiladi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "I mustn't wear a uniform on Sundays.",
+     "I don't have to wear a uniform on Sundays.",
+     "I haven't wear a uniform on Sundays."
+    ],
+    "answer": "I don't have to wear a uniform on Sundays.",
+    "accept": [],
+    "explain": "Yakshanba kuni forma kiyish shart emasligini «don't have to» bildiradi.",
+    "wrong": {
+     "I mustn't wear a uniform on Sundays.": "Bu taqiqni bildiradi, lekin yakshanba kuni kiyish shart emasligi ma'nosi uchun «don't have to» kerak.",
+     "I haven't wear a uniform on Sundays.": "Bu tuzilma grammatik jihatdan xato."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Will we have to take another test?",
+     "Will we must take another test?",
+     "Will we has to take another test?"
+    ],
+    "answer": "Will we have to take another test?",
+    "accept": [],
+    "explain": "Kelasi zamonda majburiyat haqida so'rash uchun «Will... have to» ishlatiladi.",
+    "wrong": {
+     "Will we must take another test?": "Ikki modal fe'l («will» va «must») birga kelmaydi.",
+     "Will we has to take another test?": "\"Will\" dan keyin fe'l o'zining asosiy «have» shaklida keladi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Children must to wash their hands before eating.",
+     "Children must wash their hands before eating.",
+     "Children must washing their hands before eating."
+    ],
+    "answer": "Children must wash their hands before eating.",
+    "accept": [],
+    "explain": "Muhim qoida va majburiyat uchun «must» ishlatiladi.",
+    "wrong": {
+     "Children must to wash their hands before eating.": "\"Must\" dan keyin «to» qo'shimchasi ishlatilmaydi.",
+     "Children must washing their hands before eating.": "\"Must\" dan keyin -ing shakli kelmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "He mustn't pay right now.",
+     "He doesn't have to pay right now.",
+     "He don't have to pay right now."
+    ],
+    "answer": "He doesn't have to pay right now.",
+    "accept": [],
+    "explain": "Hozir to'lash shart emasligi «doesn't have to» orqali ifodalanadi.",
+    "wrong": {
+     "He mustn't pay right now.": "\"Mustn't\" taqiqlashni bildiradi, shart emasligini bildirish uchun «doesn't have to» kerak.",
+     "He don't have to pay right now.": "\"He\" olmoshi bilan «don't» emas, «doesn't» ishlatiladi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "You must to be quiet during the lesson.",
+     "You must be quiet during the lesson.",
+     "You must being quiet during the lesson."
+    ],
+    "answer": "You must be quiet during the lesson.",
+    "accept": [],
+    "explain": "Dars paytida jim o'tirish majburiyati «must» yordamida beriladi.",
+    "wrong": {
+     "You must to be quiet during the lesson.": "\"Must\" dan keyin «to» ishlatilmaydi.",
+     "You must being quiet during the lesson.": "\"Must\" dan keyin -ing shakli kelmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Do we have to bring our dictionaries?",
+     "Do we must bring our dictionaries?",
+     "Are we have to bring our dictionaries?"
+    ],
+    "answer": "Do we have to bring our dictionaries?",
+    "accept": [],
+    "explain": "So'roq gapda «Do» va «have to» to'g'ri joylashgan.",
+    "wrong": {
+     "Do we must bring our dictionaries?": "\"Do\" va «must» birgalikda savol yasashda ishlatilmaydi.",
+     "Are we have to bring our dictionaries?": "Bu tuzilma noto'g'ri, «Do» yordamchi fe'li ishlatilishi kerak."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Madina needn't to buy a new notebook.",
+     "Madina needn't buy a new notebook.",
+     "Madina needn't buying a new notebook."
+    ],
+    "answer": "Madina needn't buy a new notebook.",
+    "accept": [],
+    "explain": "Sotib olish shart emasligini bildirish uchun «needn't» ishlatiladi.",
+    "wrong": {
+     "Madina needn't to buy a new notebook.": "\"Needn't\" dan keyin «to» ishlatilmaydi.",
+     "Madina needn't buying a new notebook.": "\"Needn't\" dan keyin fe'lning -ing shakli kelmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Visitors don't have to feed the wild animals.",
+     "Visitors mustn't feed the wild animals.",
+     "Visitors mustn't to feed the wild animals."
+    ],
+    "answer": "Visitors mustn't feed the wild animals.",
+    "accept": [],
+    "explain": "Hayvonlarni boqish taqiqlanganligi uchun «mustn't» to'g'ri keladi.",
+    "wrong": {
+     "Visitors don't have to feed the wild animals.": "Bu ularni shunchaki boqish majburiy emasligini bildiradi, lekin bu qat'iy taqiq.",
+     "Visitors mustn't to feed the wild animals.": "\"Mustn't\" dan keyin «to» qo'shimchasi ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Did you had to wait a long time?",
+     "Did you have to wait a long time?",
+     "Had you to wait a long time?"
+    ],
+    "answer": "Did you have to wait a long time?",
+    "accept": [],
+    "explain": "O'tgan zamonda savol berish uchun «Did» va «have to» ishlatiladi.",
+    "wrong": {
+     "Did you had to wait a long time?": "\"Did\" dan keyin fe'lning birinchi shakli «have» ishlatilishi kerak.",
+     "Had you to wait a long time?": "O'tgan zamonda savol berish uchun «Did... have to» ishlatiladi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Shoira have to finish her report tonight.",
+     "Shoira has to finish her report tonight.",
+     "Shoira musts finish her report tonight."
+    ],
+    "answer": "Shoira has to finish her report tonight.",
+    "accept": [],
+    "explain": "Uchinchi shaxs birlik uchun «has to» to'g'ri ishlatilgan.",
+    "wrong": {
+     "Shoira have to finish her report tonight.": "\"Shoira\" birlikda bo'lgani uchun «has to» ishlatilishi kerak.",
+     "Shoira musts finish her report tonight.": "\"Must\" so'ziga -s qo'shimchasi qo'shilmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "We must to protect our historical monuments.",
+     "We must protect our historical monuments.",
+     "We must protecting our historical monuments."
+    ],
+    "answer": "We must protect our historical monuments.",
+    "accept": [],
+    "explain": "Qattiq tavsiya va majburiyatni bildirish uchun «must» ishlatiladi.",
+    "wrong": {
+     "We must to protect our historical monuments.": "\"Must\" dan keyin «to» ishlatilmaydi.",
+     "We must protecting our historical monuments.": "\"Must\" dan keyin -ing shakli ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "You mustn't wear a tie to the party.",
+     "You don't have to wear a tie to the party.",
+     "You don't has to wear a tie to the party."
+    ],
+    "answer": "You don't have to wear a tie to the party.",
+    "accept": [],
+    "explain": "Galyustuk taqish majburiy emasligini bildirish uchun «don't have to» ishlatiladi.",
+    "wrong": {
+     "You mustn't wear a tie to the party.": "Bu taqiqni bildiradi, ya'ni taqish umuman mumkin emas deb tushuniladi.",
+     "You don't has to wear a tie to the party.": "\"You\" olmoshi bilan «don't have» ishlatiladi, «has» emas."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Does she has to cook dinner tonight?",
+     "Does she have to cook dinner tonight?",
+     "Has she to cook dinner tonight?"
+    ],
+    "answer": "Does she have to cook dinner tonight?",
+    "accept": [],
+    "explain": "Savol tuzishda «Does» yordamchi fe'li va «have to» to'g'ri qo'llanilgan.",
+    "wrong": {
+     "Does she has to cook dinner tonight?": "\"Does\" dan keyin «have» so'zi ishlatilishi kerak.",
+     "Has she to cook dinner tonight?": "Hozirgi zamonda savol uchun «Does... have to» ishlatiladi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Drivers don't have to use mobile phones while driving.",
+     "Drivers mustn't use mobile phones while driving.",
+     "Drivers mustn't to use mobile phones while driving."
+    ],
+    "answer": "Drivers mustn't use mobile phones while driving.",
+    "accept": [],
+    "explain": "Haydash paytida telefon ishlatish taqiqlanganligi uchun «mustn't» to'g'ri keladi.",
+    "wrong": {
+     "Drivers don't have to use mobile phones while driving.": "Bu shart emasligini bildiradi, lekin bu qat'iy qonuniy taqiq.",
+     "Drivers mustn't to use mobile phones while driving.": "\"Mustn't\" dan keyin «to» ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "I musted to buy a new umbrella yesterday.",
+     "I had to buy a new umbrella yesterday.",
+     "I have to buy a new umbrella yesterday."
+    ],
+    "answer": "I had to buy a new umbrella yesterday.",
+    "accept": [],
+    "explain": "O'tgan zamonda majburiyatni bildirish uchun «had to» ishlatiladi.",
+    "wrong": {
+     "I musted to buy a new umbrella yesterday.": "\"Must\" so'zining o'tgan zamon shakli yo'q.",
+     "I have to buy a new umbrella yesterday.": "Gapda «yesterday» so'zi bor, shuning uchun o'tgan zamon «had to» kerak."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "We needn't to wait for the bus; we can walk.",
+     "We needn't wait for the bus; we can walk.",
+     "We don't needn't wait for the bus; we can walk."
+    ],
+    "answer": "We needn't wait for the bus; we can walk.",
+    "accept": [],
+    "explain": "Avtobusni kutish shart emasligi «needn't» yordamida ko'rsatilgan.",
+    "wrong": {
+     "We needn't to wait for the bus; we can walk.": "\"Needn't\" dan keyin «to» ishlatilmaydi.",
+     "We don't needn't wait for the bus; we can walk.": "Bir gapda ikkita inkor so'z birga ishlatilmaydi."
+    }
+   }
+  ]
+ ],
+ "intro": {
+  "what": "Biz bu modal fe'llardan majburiyat, taqiq va zarurat yo'qligini bildirish uchun foydalanamiz. Ular kundalik hayotda qoidalarni tushuntirish va maslahat berishda juda muhimdir.",
+  "when": [
+   "Majburiy qoidalarni aytish",
+   "Biror ishni qilishni taqiqlash",
+   "Zarurat yo'qligini bildirish",
+   "Maktab yoki uy qoidalarini muhokama qilish"
+  ],
+  "structures": [
+   {
+    "label": "Must (Majburiyat)",
+    "formula": "Subject + must + V1",
+    "example_en": "You must do your homework.",
+    "example_uz": "Siz uy vazifangizni bajarishingiz shart."
+   },
+   {
+    "label": "Mustn't (Taqiq)",
+    "formula": "Subject + mustn't + V1",
+    "example_en": "You mustn't use your phone in class.",
+    "example_uz": "Darsda telefoningizni ishlatmasligingiz kerak."
+   },
+   {
+    "label": "Don't have to (Zarurat yo'q)",
+    "formula": "Subject + don't/doesn't have to + V1",
+    "example_en": "I don't have to wear a uniform on Sunday.",
+    "example_uz": "Men yakshanba kuni forma kiyishim shart emas."
+   },
+   {
+    "label": "Needn't (Kerak emas)",
+    "formula": "Subject + needn't + V1",
+    "example_en": "You needn't bring an umbrella today.",
+    "example_uz": "Bugun soyabon olib kelishingiz shart emas."
+   }
+  ],
+  "rules": [
+   {
+    "title": "Must qoidasi",
+    "text": "Gapiruvchining shaxsiy fikriga ko'ra bajarilishi shart bo'lgan ishlar uchun ishlatiladi.",
+    "examples": [
+     {
+      "en": "We must arrive at school on time.",
+      "uz": "Biz maktabga o'z vaqtida kelishimiz shart."
+     },
+     {
+      "en": "She must help her mother.",
+      "uz": "U onasiga yordam berishi kerak."
+     }
+    ]
+   },
+   {
+    "title": "Mustn't taqiqi",
+    "text": "Biror ishni qilish qat'iyan taqiqlanganini bildiradi. Ma'nosi 'mumkin emas' deganidir.",
+    "examples": [
+     {
+      "en": "You mustn't smoke here.",
+      "uz": "Bu yerda chekish taqiqlangan."
+     },
+     {
+      "en": "Students mustn't run in the corridor.",
+      "uz": "O'quvchilar yo'lakda yugurmasliklari kerak."
+     }
+    ]
+   },
+   {
+    "title": "Don't have to va Needn't",
+    "text": "Bu so'zlar harakatning majburiy emasligini, xohlasangiz qilishingiz mumkinligini bildiradi.",
+    "examples": [
+     {
+      "en": "You don't have to cook dinner tonight.",
+      "uz": "Bugun kechki ovqatni pishirishingiz shart emas."
+     },
+     {
+      "en": "He needn't buy a new ticket.",
+      "uz": "U yangi chipta sotib olishi shart emas."
+     }
+    ]
+   }
+  ],
+  "signal_words": [
+   {
+    "en": "It is compulsory",
+    "uz": "Majburiy"
+   },
+   {
+    "en": "It is forbidden",
+    "uz": "Taqiqlangan"
+   },
+   {
+    "en": "Not necessary",
+    "uz": "Kerak emas"
+   },
+   {
+    "en": "School rules",
+    "uz": "Maktab qoidalari"
+   },
+   {
+    "en": "Always",
+    "uz": "Doim"
+   },
+   {
+    "en": "Never",
+    "uz": "Hech qachon"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "You must to go now.",
+    "right": "You must go now.",
+    "why": "Must so'zidan keyin 'to' ishlatilmaydi, fe'l o'z holatida keladi."
+   },
+   {
+    "wrong": "She musts helps.",
+    "right": "She must help.",
+    "why": "Modal fe'llarga 's' qo'shimchasi qo'shilmaydi."
+   },
+   {
+    "wrong": "You don't must run.",
+    "right": "You mustn't run.",
+    "why": "Inkor shaklida 'don't must' emas, 'mustn't' ishlatiladi."
+   },
+   {
+    "wrong": "He hasn't to work.",
+    "right": "He doesn't have to work.",
+    "why": "Present Simple zamirida inkor uchun 'doesn't have to' ishlatiladi."
+   }
+  ]
+ }
+}

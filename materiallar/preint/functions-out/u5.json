@@ -1,0 +1,908 @@
+{
+ "unit": 5,
+ "parts": [
+  [
+   {
+    "kind": "rewrite",
+    "q": "The job is well paid. I don't want to work in an office.\n→ Although the job ______",
+    "hint": "although",
+    "options": [],
+    "answer": "is well paid, I don't want to work in an office",
+    "accept": [
+     "is well paid, I do not want to work in an office"
+    ],
+    "phrase": "Although it's ..., it will be very ...",
+    "explain": "«Although + gap 1, gap 2» — gap boshida «although» bo'lsa, birinchi qismdan keyin vergul qo'yiladi; «but» kerak emas.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The hours are long. I'm sure I'll enjoy the job.\n→ I'm sure I'll enjoy the job ______",
+    "hint": "even though",
+    "options": [],
+    "answer": "even though the hours are long",
+    "accept": [],
+    "phrase": "I'm sure I'll enjoy it even though ...",
+    "explain": "«even though» gapning o'rtasida keladi: «I'm sure I'll enjoy the job even though the hours are long.»",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The pay isn't very good. I'm choosing this job because I love animals.\n→ The pay isn't very good. ______",
+    "hint": "nevertheless",
+    "options": [],
+    "answer": "Nevertheless, I'm choosing this job because I love animals",
+    "accept": [
+     "Nevertheless I'm choosing this job because I love animals"
+    ],
+    "phrase": "The ... isn't very good. Nevertheless, I'm choosing this job because ...",
+    "explain": "«Nevertheless» yangi gapni boshlaydi va keyin vergul: «Nevertheless, I'm choosing ...».",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The work is quite hard. It's very interesting.\n→ The work is quite hard. ______",
+    "hint": "however",
+    "options": [],
+    "answer": "However, it's very interesting",
+    "accept": [
+     "However it's very interesting",
+     "However, it is very interesting"
+    ],
+    "phrase": "The job is quite ... . However, I really don't want to work in a ...",
+    "explain": "«However, ...» — yangi gap boshida «Biroq», keyin vergul.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "It was raining. We played football.\n→ Although ______",
+    "hint": "although",
+    "options": [],
+    "answer": "it was raining, we played football",
+    "accept": [],
+    "phrase": "Although it's ..., it will be very ...",
+    "explain": "«Although it was raining, we played football.» — gap boshida although, o'rtada vergul.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "She was tired. She finished her homework.\n→ She finished her homework ______",
+    "hint": "even though",
+    "options": [],
+    "answer": "even though she was tired",
+    "accept": [],
+    "phrase": "I'm sure I'll enjoy it even though ...",
+    "explain": "«even though» ikkinchi qismda: «... even though she was tired.»",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The hotel was expensive. We stayed there for a week.\n→ The hotel was expensive. ______",
+    "hint": "nevertheless",
+    "options": [],
+    "answer": "Nevertheless, we stayed there for a week",
+    "accept": [
+     "Nevertheless we stayed there for a week"
+    ],
+    "phrase": "The ... isn't very good. Nevertheless, I'm choosing this job because ...",
+    "explain": "«Nevertheless,» — «Shunga qaramay», yangi gapda va vergul bilan.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The job is in a big city. I don't want to live in a city.\n→ The job is in a big city. ______",
+    "hint": "however",
+    "options": [],
+    "answer": "However, I don't want to live in a city",
+    "accept": [
+     "However I don't want to live in a city",
+     "However, I do not want to live in a city"
+    ],
+    "phrase": "The job is quite ... . However, I really don't want to work in a ...",
+    "explain": "«However, ...» — ikkinchi, qarama-qarshi fikr yangi gapda.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The salary is low. It will be a very useful experience.\n→ Although the salary ______",
+    "hint": "although",
+    "options": [],
+    "answer": "is low, it will be a very useful experience",
+    "accept": [],
+    "phrase": "Although it's ..., it will be very ...",
+    "explain": "«Although the salary is low, it will be a very useful experience.» — «but» qo'shilmaydi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "I don't have much experience. I'm sure I can do this job.\n→ I'm sure I can do this job ______",
+    "hint": "even though",
+    "options": [],
+    "answer": "even though I don't have much experience",
+    "accept": [
+     "even though I do not have much experience"
+    ],
+    "phrase": "I'm sure I'll enjoy it even though ...",
+    "explain": "«... even though I don't have much experience.» — «garchi tajribam ko'p bo'lmasa ham».",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The weather was terrible. The climbers reached the top.\n→ The weather was terrible. ______",
+    "hint": "nevertheless",
+    "options": [],
+    "answer": "Nevertheless, the climbers reached the top",
+    "accept": [
+     "Nevertheless the climbers reached the top"
+    ],
+    "phrase": "The ... isn't very good. Nevertheless, I'm choosing this job because ...",
+    "explain": "«Nevertheless, the climbers reached the top.» — qiyinchilikka qaramay natija.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "Working with children is tiring. I love it.\n→ Working with children is tiring. ______",
+    "hint": "however",
+    "options": [],
+    "answer": "However, I love it",
+    "accept": [
+     "However I love it"
+    ],
+    "phrase": "The job is quite ... . However, I really don't want to work in a ...",
+    "explain": "«However, I love it.» — qarama-qarshi fikr yangi gapda, vergul bilan.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "He's very young. He's an excellent doctor.\n→ Although ______",
+    "hint": "although",
+    "options": [],
+    "answer": "he's very young, he's an excellent doctor",
+    "accept": [
+     "he is very young, he is an excellent doctor",
+     "he's very young, he is an excellent doctor",
+     "he is very young, he's an excellent doctor"
+    ],
+    "phrase": "Although it's ..., it will be very ...",
+    "explain": "«Although he's very young, he's an excellent doctor.»",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The uniform is uncomfortable. I'm sure I'll like working at the café.\n→ I'm sure I'll like working at the café ______",
+    "hint": "even though",
+    "options": [],
+    "answer": "even though the uniform is uncomfortable",
+    "accept": [],
+    "phrase": "I'm sure I'll enjoy it even though ...",
+    "explain": "«... even though the uniform is uncomfortable.»",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The first attempt was a failure. They tried again.\n→ The first attempt was a failure. ______",
+    "hint": "nevertheless",
+    "options": [],
+    "answer": "Nevertheless, they tried again",
+    "accept": [
+     "Nevertheless they tried again"
+    ],
+    "phrase": "The ... isn't very good. Nevertheless, I'm choosing this job because ...",
+    "explain": "«Nevertheless, they tried again.» — «Shunga qaramay, yana urinishdi».",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The work is outdoors. It's sometimes very cold.\n→ The work is outdoors. ______",
+    "hint": "however",
+    "options": [],
+    "answer": "However, it's sometimes very cold",
+    "accept": [
+     "However it's sometimes very cold",
+     "However, it is sometimes very cold"
+    ],
+    "phrase": "The job is quite ... . However, I really don't want to work in a ...",
+    "explain": "«However, it's sometimes very cold.»",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "It's a part-time job. It will be very good experience.\n→ Although it's ______",
+    "hint": "although",
+    "options": [],
+    "answer": "a part-time job, it will be very good experience",
+    "accept": [],
+    "phrase": "Although it's ..., it will be very ...",
+    "explain": "«Although it's a part-time job, it will be very good experience.» — kitobdagi «Although it's ..., it will be very ...» qolipi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "I'm scared of heights. I want to try rock climbing.\n→ I want to try rock climbing ______",
+    "hint": "even though",
+    "options": [],
+    "answer": "even though I'm scared of heights",
+    "accept": [
+     "even though I am scared of heights"
+    ],
+    "phrase": "I'm sure I'll enjoy it even though ...",
+    "explain": "«... even though I'm scared of heights.»",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The shop is far from my home. I'm choosing this job because I'm interested in fashion.\n→ The shop is far from my home. ______",
+    "hint": "nevertheless",
+    "options": [],
+    "answer": "Nevertheless, I'm choosing this job because I'm interested in fashion",
+    "accept": [
+     "Nevertheless I'm choosing this job because I'm interested in fashion",
+     "Nevertheless, I am choosing this job because I am interested in fashion"
+    ],
+    "phrase": "I'm interested in ...",
+    "explain": "«Nevertheless, ...» + «I'm interested in + ot» — ikkala ibora birga.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The job is quite stressful. I really don't want to work in a hospital.\n→ The job is quite stressful. ______",
+    "hint": "however",
+    "options": [],
+    "answer": "However, I really don't want to work in a hospital",
+    "accept": [
+     "However I really don't want to work in a hospital",
+     "However, I really do not want to work in a hospital"
+    ],
+    "phrase": "The job is quite ... . However, I really don't want to work in a ...",
+    "explain": "Kitobdagi qolip: «The job is quite ... . However, I really don't want to work in a ...».",
+    "wrong": {}
+   }
+  ],
+  [
+   {
+    "kind": "abctext",
+    "q": "Job advert: Dog walker wanted. You must walk five dogs every day. ______ the pay is low, it's a great job for animal lovers.",
+    "hint": "",
+    "options": [
+     "Although",
+     "However",
+     "Nevertheless"
+    ],
+    "answer": "Although",
+    "accept": [],
+    "phrase": "Although it's ..., it will be very ...",
+    "explain": "Bo'shliqdan keyin ikki qism vergul bilan bitta gapda — «Although + gap 1, gap 2».",
+    "wrong": {
+     "However": "«However» yangi gapni boshlaydi va undan keyin vergul kerak; bu yerda bitta gap ichida ikki qism bor.",
+     "Nevertheless": "«Nevertheless» ham yangi gap boshida, vergul bilan keladi — bu tuzilmaga mos emas."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Sanjar's email: I got the job at the museum! The hours are long. ______, I'm really happy because I love history.",
+    "hint": "",
+    "options": [
+     "However",
+     "Although",
+     "Even though"
+    ],
+    "answer": "However",
+    "accept": [],
+    "phrase": "The job is quite ... . However, I really don't want to work in a ...",
+    "explain": "Yangi gap boshida, keyin vergul — «However,».",
+    "wrong": {
+     "Although": "«Although,» dan keyin vergul qo'yilmaydi va u bitta gap ichida ishlatiladi.",
+     "Even though": "«Even though,» — bu yerda vergul bilan ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Diary: I'm sure I'll enjoy my summer job ______ I have to start at 6 a.m.",
+    "hint": "",
+    "options": [
+     "even though",
+     "however",
+     "nevertheless"
+    ],
+    "answer": "even though",
+    "accept": [],
+    "phrase": "I'm sure I'll enjoy it even though ...",
+    "explain": "Gapning o'rtasida, vergulsiz — «even though».",
+    "wrong": {
+     "however": "«however» gap o'rtasida shunday bog'lovchi bo'lib kelmaydi.",
+     "nevertheless": "«nevertheless» ikki gapni bog'lovchi sifatida ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Report: The café job isn't very well paid. ______, Kamola is choosing it because it's close to her home.",
+    "hint": "",
+    "options": [
+     "Nevertheless",
+     "Although",
+     "Even though"
+    ],
+    "answer": "Nevertheless",
+    "accept": [],
+    "phrase": "The ... isn't very good. Nevertheless, I'm choosing this job because ...",
+    "explain": "«Nevertheless,» — «Shunga qaramay». Yangi gapda, vergul bilan.",
+    "wrong": {
+     "Although": "«Although,» — vergul bilan gap boshlamaydi.",
+     "Even though": "«Even though,» ham shunday — bu yerga mos emas."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Application letter: Dear Sir, I would like to apply for the job at the bookshop. I'm interested ______ books and I love talking to customers.",
+    "hint": "",
+    "options": [
+     "in",
+     "on",
+     "at"
+    ],
+    "answer": "in",
+    "accept": [],
+    "phrase": "I'm interested in ...",
+    "explain": "«interested in» — doim «in» predlogi bilan.",
+    "wrong": {
+     "on": "«interested on» — xato predlog.",
+     "at": "«interested at» — xato predlog."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "News: The team finished the bridge in 2020. The ______ of the bridge made travel much faster.",
+    "hint": "",
+    "options": [
+     "completion",
+     "complete",
+     "completed"
+    ],
+    "answer": "completion",
+    "accept": [],
+    "phrase": "complete → completion",
+    "explain": "«The ... of» — ot kerak: complete → completion.",
+    "wrong": {
+     "complete": "«complete» — fe'l/sifat, «The complete of» xato.",
+     "completed": "«completed» — o'tgan zamon fe'li, ot emas."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Profile: Climbing Mount Everest was the greatest ______ of her life.",
+    "hint": "",
+    "options": [
+     "achievement",
+     "achieve",
+     "achieved"
+    ],
+    "answer": "achievement",
+    "accept": [],
+    "phrase": "achieve → achievement",
+    "explain": "«the greatest ... of» — ot kerak: achieve → achievement.",
+    "wrong": {
+     "achieve": "«achieve» — fe'l, «the greatest» dan keyin ot kerak.",
+     "achieved": "«achieved» — fe'lning o'tgan shakli."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Story: The first rocket was a ______. It exploded after ten seconds.",
+    "hint": "",
+    "options": [
+     "failure",
+     "fail",
+     "failed"
+    ],
+    "answer": "failure",
+    "accept": [],
+    "phrase": "fail → failure",
+    "explain": "«a ...» — ot kerak: fail → failure.",
+    "wrong": {
+     "fail": "«fail» — fe'l (ot sifatida faqat «without fail» iborasida).",
+     "failed": "«failed» — fe'l shakli, «a failed» dan keyin ot kerak bo'lardi."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Science magazine: Space ______ is very expensive, but it teaches us a lot about our planet.",
+    "hint": "",
+    "options": [
+     "exploration",
+     "explore",
+     "explorer"
+    ],
+    "answer": "exploration",
+    "accept": [],
+    "phrase": "explore → exploration",
+    "explain": "«Space exploration» — «koinotni tadqiq qilish» (jarayon). Ot: exploration.",
+    "wrong": {
+     "explore": "«explore» — fe'l.",
+     "explorer": "«explorer» — tadqiqotchi (odam); «is very expensive» jarayon haqida."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Sports news: It was his third ______ to break the world record, and this time he did it!",
+    "hint": "",
+    "options": [
+     "attempt",
+     "attempted",
+     "attempting"
+    ],
+    "answer": "attempt",
+    "accept": [],
+    "phrase": "attempt → attempt",
+    "explain": "«his third ...» — ot kerak; «attempt» ham fe'l, ham ot.",
+    "wrong": {
+     "attempted": "«attempted» — fe'lning o'tgan shakli.",
+     "attempting": "«attempting» — fe'l shakli, «his third» dan keyin ot kerak."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Blog: Working abroad was an amazing ______. I learned so much about other cultures.",
+    "hint": "",
+    "options": [
+     "experience",
+     "experienced",
+     "experiences to"
+    ],
+    "answer": "experience",
+    "accept": [],
+    "phrase": "experience → experience",
+    "explain": "«an amazing ...» — birlikdagi ot: experience (tajriba).",
+    "wrong": {
+     "experienced": "«experienced» — sifat (tajribali), «an amazing experienced» xato.",
+     "experiences to": "Grammatik xato."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Weather report: Last night there was a loud storm with lightning and ______.",
+    "hint": "",
+    "options": [
+     "thunder",
+     "thundered",
+     "thundering to"
+    ],
+    "answer": "thunder",
+    "accept": [],
+    "phrase": "thunder → thunder",
+    "explain": "«lightning and ...» — ot kerak: thunder (momaqaldiroq).",
+    "wrong": {
+     "thundered": "«thundered» — fe'l o'tgan zamonda.",
+     "thundering to": "Grammatik xato."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Hospital news: There is a big ______ for more nurses in our city.",
+    "hint": "",
+    "options": [
+     "need",
+     "needed",
+     "needing"
+    ],
+    "answer": "need",
+    "accept": [],
+    "phrase": "need → need",
+    "explain": "«a big ... for» — ot: need (ehtiyoj).",
+    "wrong": {
+     "needed": "«needed» — fe'l/sifat shakli.",
+     "needing": "«needing» — fe'l shakli."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Interview: “My ______ is to become a pilot one day,” says 15-year-old Aziz.",
+    "hint": "",
+    "options": [
+     "dream",
+     "dreamed",
+     "dreaming"
+    ],
+    "answer": "dream",
+    "accept": [],
+    "phrase": "dream → dream",
+    "explain": "«My ...» — ot kerak: dream (orzu).",
+    "wrong": {
+     "dreamed": "«dreamed» — o'tgan zamon fe'li.",
+     "dreaming": "«My dreaming is» — g'ayritabiiy, ot «dream»."
+    }
+   },
+   {
+    "kind": "abctext",
+    "q": "Safety notice: Be careful on the stairs. A ______ can be very dangerous for old people.",
+    "hint": "",
+    "options": [
+     "fall",
+     "fell",
+     "falling to"
+    ],
+    "answer": "fall",
+    "accept": [],
+    "phrase": "fall → fall",
+    "explain": "«A ...» — ot: fall (yiqilish).",
+    "wrong": {
+     "fell": "«fell» — fe'lning o'tgan zamoni.",
+     "falling to": "Grammatik xato."
+    }
+   }
+  ],
+  [
+   {
+    "kind": "word",
+    "q": "Malika: Do you want the job at the zoo?\nNodira: Yes. ______ the work is hard, it will be very exciting.",
+    "hint": "",
+    "options": [],
+    "answer": "Although",
+    "accept": [
+     "Even though",
+     "Though"
+    ],
+    "phrase": "Although it's ..., it will be very ...",
+    "explain": "Gap boshida, vergul bilan ikki qism — «Although ..., ...». «Even though» ham to'g'ri.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Ota: Are you sure about the new job?\nJasur: Yes, I'm sure I'll enjoy it even ______ it's far from home.",
+    "hint": "",
+    "options": [],
+    "answer": "though",
+    "accept": [],
+    "phrase": "I'm sure I'll enjoy it even though ...",
+    "explain": "«even though» — «even» faqat «though» bilan birikadi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Aziza: Is the job well paid?\nLola: It's quite well paid. ______, I don't want to work at night.",
+    "hint": "",
+    "options": [],
+    "answer": "However",
+    "accept": [
+     "Nevertheless"
+    ],
+    "phrase": "The job is quite ... . However, I really don't want to work in a ...",
+    "explain": "Yangi gap, keyin vergul — «However,» (yoki «Nevertheless,»).",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Teacher: Why do you want this job?\nShahzod: I'm interested ______ working with computers.",
+    "hint": "",
+    "options": [],
+    "answer": "in",
+    "accept": [],
+    "phrase": "I'm interested in ...",
+    "explain": "«interested in + V-ing» — doim «in».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Kamron: The salary isn't very good.\nBobur: I know. ______, I'm choosing this job because I love the sea.",
+    "hint": "",
+    "options": [],
+    "answer": "Nevertheless",
+    "accept": [
+     "However"
+    ],
+    "phrase": "The ... isn't very good. Nevertheless, I'm choosing this job because ...",
+    "explain": "«Nevertheless,» — «Shunga qaramay». «However,» ham mos keladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Reporter: What was your biggest success?\nAthlete: Winning the Olympics was my biggest ______.",
+    "hint": "",
+    "options": [],
+    "answer": "achievement",
+    "accept": [],
+    "phrase": "achieve → achievement",
+    "explain": "«my biggest ...» — ot: achieve → achievement.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Coach: Don't worry about losing.\nPlayer: But it was a complete ______! We lost 5–0.",
+    "hint": "",
+    "options": [],
+    "answer": "failure",
+    "accept": [],
+    "phrase": "fail → failure",
+    "explain": "«a complete ...» — ot: fail → failure.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Guide: The ______ of the Moon started in the 1960s.",
+    "hint": "",
+    "options": [],
+    "answer": "exploration",
+    "accept": [],
+    "phrase": "explore → exploration",
+    "explain": "«The ... of» — ot: explore → exploration.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Builder: When will the new school be ready?\nManager: The ______ of the building is planned for June.",
+    "hint": "",
+    "options": [],
+    "answer": "completion",
+    "accept": [],
+    "phrase": "complete → completion",
+    "explain": "«The ... of the building» — ot: complete → completion.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Mum: Did you pass your driving test?\nSon: No, but I'll make another ______ next month.",
+    "hint": "",
+    "options": [],
+    "answer": "attempt",
+    "accept": [],
+    "phrase": "attempt → attempt",
+    "explain": "«make an attempt» — «urinish qilmoq». Ot va fe'l bir xil.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Grandpa: I worked as a teacher for forty years.\nGirl: Wow, that's a lot of ______!",
+    "hint": "",
+    "options": [],
+    "answer": "experience",
+    "accept": [],
+    "phrase": "experience → experience",
+    "explain": "«a lot of ...» — sanalmaydigan ot: experience (tajriba).",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Nigora: What's your ______ for the future?\nDilnoza: I want to open my own café.",
+    "hint": "",
+    "options": [],
+    "answer": "dream",
+    "accept": [
+     "plan"
+    ],
+    "phrase": "dream → dream",
+    "explain": "«your ... for the future» — ot: dream (orzu).",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Doctor: There is no ______ to worry. You're fine.",
+    "hint": "",
+    "options": [],
+    "answer": "need",
+    "accept": [],
+    "phrase": "need → need",
+    "explain": "«There is no need to ...» — «...ga hojat yo'q». Ot: need.",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Sevinch: Why are you choosing this job?\nMadina: Although the hours are long, it ______ be very useful for my future.",
+    "hint": "",
+    "options": [],
+    "answer": "will",
+    "accept": [],
+    "phrase": "Although it's ..., it will be very ...",
+    "explain": "Kitobdagi qolip: «Although it's ..., it will be very ...» — kelajak, «will».",
+    "wrong": {}
+   },
+   {
+    "kind": "word",
+    "q": "Ali: Did you hear that noise?\nVali: Yes, it was ______. A storm is coming.",
+    "hint": "",
+    "options": [],
+    "answer": "thunder",
+    "accept": [],
+    "phrase": "thunder → thunder",
+    "explain": "Bo'ron oldidan eshitiladigan ovoz — thunder (momaqaldiroq).",
+    "wrong": {}
+   }
+  ]
+ ],
+ "guide": {
+  "topics": [
+   {
+    "name": "Making contrasts",
+    "name_uz": "Qarama-qarshilikni ifodalash",
+    "summary": "Bir gapda ham yaxshi, ham yomon tomonni aytish uchun although / even though / however / nevertheless ishlatiladi. Ish tanlash haqida gapirganda juda kerak.",
+    "usage": [
+     {
+      "text": "even though ... — «garchi ... bo'lsa ham». Kuchliroq «although». Gapning o'rtasida yoki boshida.",
+      "example": {
+       "en": "I'm sure I'll enjoy it even though the hours are long.",
+       "uz": "Ish soatlari uzun bo'lsa ham, menga yoqishiga ishonaman."
+      }
+     },
+     {
+      "text": "Although ..., ... — «Garchi ... bo'lsa ham, ...». Gap boshida bo'lsa, vergul qo'yiladi.",
+      "example": {
+       "en": "Although it's hard work, it will be very interesting.",
+       "uz": "Garchi og'ir ish bo'lsa ham, juda qiziq bo'ladi."
+      }
+     },
+     {
+      "text": "... . However, ... — «Biroq, ...». Yangi gap boshida, keyin vergul.",
+      "example": {
+       "en": "The job is quite well paid. However, I really don't want to work in an office.",
+       "uz": "Ish ancha yaxshi to'lanadi. Biroq men ofisda ishlashni umuman xohlamayman."
+      }
+     },
+     {
+      "text": "... . Nevertheless, ... — «Shunga qaramay, ...». «However»ga o'xshash, rasmiyroq.",
+      "example": {
+       "en": "The pay isn't very good. Nevertheless, I'm choosing this job because I love animals.",
+       "uz": "Maosh unchalik yaxshi emas. Shunga qaramay, bu ishni tanlayapman, chunki hayvonlarni yaxshi ko'raman."
+      }
+     },
+     {
+      "text": "I'm interested in ... — «Men ...ga qiziqaman». Nega bu ishni tanlaganingizni tushuntirish uchun. Keyin ot yoki V-ing.",
+      "example": {
+       "en": "I'm interested in working with children.",
+       "uz": "Bolalar bilan ishlashga qiziqaman."
+      }
+     }
+    ],
+    "structure": [
+     {
+      "type": "+",
+      "formula": "Although / Even though + gap 1, gap 2",
+      "example": {
+       "en": "Although it's cold, I'll go out.",
+       "uz": "Sovuq bo'lsa ham, chiqaman."
+      }
+     },
+     {
+      "type": "+",
+      "formula": "Gap 2 + although / even though + gap 1",
+      "example": {
+       "en": "I'll go out even though it's cold.",
+       "uz": "Sovuq bo'lsa ham chiqaman."
+      }
+     },
+     {
+      "type": "short",
+      "formula": "Gap 1. However, / Nevertheless, + gap 2",
+      "example": {
+       "en": "It's cold. However, I'll go out.",
+       "uz": "Sovuq. Biroq, chiqaman."
+      }
+     },
+     {
+      "type": "+",
+      "formula": "I'm interested in + ot / V-ing",
+      "example": {
+       "en": "I'm interested in design.",
+       "uz": "Dizaynga qiziqaman."
+      }
+     }
+    ],
+    "signals": [
+     {
+      "en": "although",
+      "uz": "garchi"
+     },
+     {
+      "en": "even though",
+      "uz": "garchi ... bo'lsa ham"
+     },
+     {
+      "en": "however",
+      "uz": "biroq"
+     },
+     {
+      "en": "nevertheless",
+      "uz": "shunga qaramay"
+     },
+     {
+      "en": "interested in",
+      "uz": "qiziqmoq"
+     }
+    ],
+    "tip": "Although / even though bilan «but» birga ishlatilmaydi: «Although it's cold, but ...» — xato. However / Nevertheless esa yangi gapni boshlaydi va keyin vergul qo'yiladi."
+   },
+   {
+    "name": "Related verbs and nouns",
+    "name_uz": "Bog'liq fe'l va otlar",
+    "summary": "Ko'p fe'llardan ot yasaladi (-ion, -ment, -ure), ba'zilarida esa fe'l va ot bir xil yoziladi.",
+    "usage": [
+     {
+      "text": "-ion / -ation: complete → completion, explore → exploration.",
+      "example": {
+       "en": "The completion of the bridge took five years.",
+       "uz": "Ko'prikni qurib tugatish besh yil oldi."
+      }
+     },
+     {
+      "text": "-ment: achieve → achievement.",
+      "example": {
+       "en": "Winning the prize was a great achievement.",
+       "uz": "Mukofotni yutish katta yutuq bo'ldi."
+      }
+     },
+     {
+      "text": "-ure: fail → failure.",
+      "example": {
+       "en": "The first attempt was a failure.",
+       "uz": "Birinchi urinish muvaffaqiyatsiz bo'ldi."
+      }
+     },
+     {
+      "text": "Bir xil shakl: attempt, dream, thunder, fall, experience, need — ham fe'l, ham ot.",
+      "example": {
+       "en": "I need help. There is a need for more teachers.",
+       "uz": "Menga yordam kerak. Ko'proq o'qituvchiga ehtiyoj bor."
+      }
+     }
+    ],
+    "structure": [
+     {
+      "type": "+",
+      "formula": "a / the + ot (achievement, failure, attempt)",
+      "example": {
+       "en": "It was her first attempt.",
+       "uz": "Bu uning birinchi urinishi edi."
+      }
+     },
+     {
+      "type": "+",
+      "formula": "Ega + fe'l (achieve, fail, attempt)",
+      "example": {
+       "en": "She attempted to climb the mountain.",
+       "uz": "U toqqa chiqishga urindi."
+      }
+     }
+    ],
+    "signals": [
+     {
+      "en": "a / an / the / his / her",
+      "uz": "otdan oldin"
+     },
+     {
+      "en": "-ion, -ment, -ure",
+      "uz": "ot qo'shimchalari"
+     },
+     {
+      "en": "to / will / can",
+      "uz": "fe'ldan oldin"
+     }
+    ],
+    "tip": "Bo'shliqdan oldin a / the / my kabi so'z bo'lsa — ot kerak; to / can / will bo'lsa — fe'l kerak."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "Although it was cold, but we went out.",
+    "right": "Although it was cold, we went out.",
+    "why": "«Although» bilan «but» birga ishlatilmaydi."
+   },
+   {
+    "wrong": "It's raining, however I'm going out.",
+    "right": "It's raining. However, I'm going out.",
+    "why": "«However» odatda yangi gapni boshlaydi va undan keyin vergul qo'yiladi."
+   },
+   {
+    "wrong": "I'm interested on music.",
+    "right": "I'm interested in music.",
+    "why": "«interested» doim «in» bilan."
+   },
+   {
+    "wrong": "It was a great achieve.",
+    "right": "It was a great achievement.",
+    "why": "«a great» dan keyin ot kerak — achievement."
+   },
+   {
+    "wrong": "Even although it's hard ...",
+    "right": "Even though it's hard ...",
+    "why": "«even» faqat «though» bilan birikadi."
+   }
+  ]
+ }
+}

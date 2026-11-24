@@ -1,0 +1,1636 @@
+{
+ "unit": 6,
+ "parts": [
+  [
+   {
+    "kind": "verb",
+    "q": "I ______ to Samarkand three times this year.",
+    "hint": "be",
+    "options": [],
+    "answer": "have been",
+    "accept": [],
+    "explain": "Gapda «this year» va tajriba nazarda tutilgani uchun Present Perfect ishlatiladi: have been.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Bekzod ______ English since 2021.",
+    "hint": "study",
+    "options": [],
+    "answer": "has studied",
+    "accept": [
+     "has been studying"
+    ],
+    "explain": "Gapda boshlanish vaqtini ko‘rsatuvchi «since» so‘zi bor, shuning uchun Present Perfect: has studied.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "We ______ our lunch five minutes ago.",
+    "hint": "finish",
+    "options": [],
+    "answer": "finished",
+    "accept": [],
+    "explain": "Gapda «five minutes ago» — aniq o‘tgan zamon payti bor, shuning uchun Past Simple: finished.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "My father ______ a new car last month.",
+    "hint": "buy",
+    "options": [],
+    "answer": "bought",
+    "accept": [],
+    "explain": "Gapda «last month» — aniq o‘tgan zamon belgisi bor, shuning uchun Past Simple: bought.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "She ______ her homework yet.",
+    "hint": "not finish",
+    "options": [],
+    "answer": "hasn't finished",
+    "accept": [
+     "has not finished"
+    ],
+    "explain": "Inkor gap va oxirida «yet» so‘zi bor, shuning uchun Present Perfect ishlatiladi: hasn't finished.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "They ______ to London last summer.",
+    "hint": "go",
+    "options": [],
+    "answer": "went",
+    "accept": [],
+    "explain": "Gapda «last summer» — aniq o‘tgan zamon payti bor, shuning uchun Past Simple: went.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "He ______ sick for two weeks.",
+    "hint": "be",
+    "options": [],
+    "answer": "has been",
+    "accept": [],
+    "explain": "Ikki haftadan beri davom etayotgan holat uchun «for» bilan Present Perfect ishlatiladi: has been.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "We ______ to Bukhara in 2022.",
+    "hint": "travel",
+    "options": [],
+    "answer": "travelled",
+    "accept": [
+     "traveled",
+     "travelled"
+    ],
+    "explain": "Gapda «in 2022» — o‘tgan zamondagi aniq sana bor, shuning uchun Past Simple: travelled.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "I ______ my keys yesterday and I can't find them.",
+    "hint": "lose",
+    "options": [],
+    "answer": "lost",
+    "accept": [],
+    "explain": "Aniq bir vaqtda sodir bo‘lgani uchun Past Simple ishlatiladi: lost.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "She ______ in this school for three years.",
+    "hint": "study",
+    "options": [],
+    "answer": "has studied",
+    "accept": [
+     "has been studying"
+    ],
+    "explain": "Davomiylikni ko‘rsatish uchun «for» va Present Perfect ishlatiladi: has studied.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "They ______ dinner yet.",
+    "hint": "not eat",
+    "options": [],
+    "answer": "haven't eaten",
+    "accept": [
+     "have not eaten"
+    ],
+    "explain": "Oxirida «yet» kelgani uchun inkor shakldagi Present Perfect ishlatiladi: haven't eaten.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Timur is not here. He ______ to the supermarket.",
+    "hint": "go",
+    "options": [],
+    "answer": "has gone",
+    "accept": [],
+    "explain": "Hali qaytib kelmaganini bildirish uchun «has gone» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "I ______ this book twice.",
+    "hint": "read",
+    "options": [],
+    "answer": "have read",
+    "accept": [],
+    "explain": "Qilingan ishlar soni va tajriba uchun Present Perfect ishlatiladi: have read.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "My friends ______ a great party last Saturday.",
+    "hint": "have",
+    "options": [],
+    "answer": "had",
+    "accept": [],
+    "explain": "Gapda «last Saturday» — o‘tgan zamon payti bor, shuning uchun Past Simple: had.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "We ______ English since we were seven.",
+    "hint": "learn",
+    "options": [],
+    "answer": "have learned",
+    "accept": [
+     "have learnt",
+     "have been learning"
+    ],
+    "explain": "Boshlanish nuqtasi «since» bilan berilgani uchun Present Perfect ishlatiladi: have learned.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "He ______ a famous actor when he was young.",
+    "hint": "be",
+    "options": [],
+    "answer": "was",
+    "accept": [],
+    "explain": "O‘tgan zamondagi holat va «when he was young» uchun Past Simple: was.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "They ______ football for two hours.",
+    "hint": "play",
+    "options": [],
+    "answer": "have played",
+    "accept": [
+     "have been playing"
+    ],
+    "explain": "Davomiylik «for two hours» orqali ko‘rsatilgani uchun Present Perfect ishlatiladi: have played.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Shoxruh ______ the car wash five minutes ago.",
+    "hint": "leave",
+    "options": [],
+    "answer": "left",
+    "accept": [],
+    "explain": "Gapda «ago» so‘zi borligi uchun Past Simple ishlatiladi: left.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "My sister ______ a delicious cake yesterday.",
+    "hint": "bake",
+    "options": [],
+    "answer": "baked",
+    "accept": [],
+    "explain": "Gapda «yesterday» — aniq o‘tgan zamon belgisi bor, shuning uchun Past Simple: baked.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "He ______ in London from 2018 to 2020.",
+    "hint": "live",
+    "options": [],
+    "answer": "lived",
+    "accept": [],
+    "explain": "O‘tgan zamonda boshlanib tugagan aniq davr uchun Past Simple ishlatiladi: lived.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "They ______ to the museum and came back an hour ago.",
+    "hint": "go",
+    "options": [],
+    "answer": "went",
+    "accept": [],
+    "explain": "Qaytib kelgani aytilgani uchun Past Simple ishlatiladi: went.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Gulnora ______ her phone number last week.",
+    "hint": "change",
+    "options": [],
+    "answer": "changed",
+    "accept": [],
+    "explain": "Gapda «last week» — o‘tgan zamon belgisi bor, shuning uchun Past Simple: changed.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "We ______ living here for ten years.",
+    "hint": "be",
+    "options": [],
+    "answer": "have been",
+    "accept": [],
+    "explain": "O‘n yildan beri davom etayotgan holat uchun Present Perfect ishlatiladi: have been.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Aziza ______ her room and now it looks very clean.",
+    "hint": "clean",
+    "options": [],
+    "answer": "has cleaned",
+    "accept": [],
+    "explain": "Gapda «now» natijasi ko‘rinib turibdi — bu Present perfect: has cleaned.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "My brother ______ in Tashkent all his life.",
+    "hint": "live",
+    "options": [],
+    "answer": "has lived",
+    "accept": [
+     "has been living"
+    ],
+    "explain": "Gapda «all his life» davomiylikni bildiradi — bu Present perfect: has lived.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "We ______ our grandparents in Khiva last summer.",
+    "hint": "visit",
+    "options": [],
+    "answer": "visited",
+    "accept": [],
+    "explain": "Gapda «last summer» aniq vaqt ko‘rsatkichi bor — bu Past Simple: visited.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Jasur ______ to the USA twice in his life.",
+    "hint": "be",
+    "options": [],
+    "answer": "has been",
+    "accept": [],
+    "explain": "Borib qaytganlik tajribasi uchun «has been» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "They ______ dinner when I arrived at their house.",
+    "hint": "have",
+    "options": [],
+    "answer": "were having",
+    "accept": [],
+    "explain": "Gapda boshqa harakat to‘sqinlik qilgan paytdagi davomiy jarayon — bu Past Continuous: were having.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "I ______ this movie three times already this month.",
+    "hint": "watch",
+    "options": [],
+    "answer": "have watched",
+    "accept": [
+     "have seen"
+    ],
+    "explain": "Gapda «already» va «this month» bor — bu Present perfect: have watched.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Malika ______ a blue dress at the party yesterday.",
+    "hint": "wear",
+    "options": [],
+    "answer": "wore",
+    "accept": [],
+    "explain": "Gapda «yesterday» aniq o‘tgan zamon belgisi — bu Past Simple: wore.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Sanjar ______ to the station ten minutes ago.",
+    "hint": "go",
+    "options": [],
+    "answer": "went",
+    "accept": [],
+    "explain": "Gapda «ten minutes ago» aniq o‘tgan zamon — bu Past Simple: went.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Our teacher ______ us a very difficult test last Friday.",
+    "hint": "give",
+    "options": [],
+    "answer": "gave",
+    "accept": [],
+    "explain": "Gapda «last Friday» aniq o‘tgan zamon belgisi — bu Past Simple: gave.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Where is Madina? She ______ to the library to study.",
+    "hint": "go",
+    "options": [],
+    "answer": "has gone",
+    "accept": [],
+    "explain": "Hozir u yerda ekanligini bildirish uchun «has gone» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "We ______ mathematics at this university since 2022.",
+    "hint": "study",
+    "options": [],
+    "answer": "have studied",
+    "accept": [
+     "have been studying"
+    ],
+    "explain": "Gapda «since 2022» boshlanish vaqtini ko‘rsatadi — bu Present perfect: have studied.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "My uncle ______ a new tractor for his farm last week.",
+    "hint": "buy",
+    "options": [],
+    "answer": "bought",
+    "accept": [],
+    "explain": "Gapda «last week» aniq o‘tgan zamon — bu Past Simple: bought.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Nodira ______ her coffee just a minute ago.",
+    "hint": "finish",
+    "options": [],
+    "answer": "finished",
+    "accept": [
+     "has finished"
+    ],
+    "explain": "Gapda «just a minute ago» o‘tgan zamonni bildiradi — bu Past Simple: finished.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "I ______ any interesting books for a long time.",
+    "hint": "not read",
+    "options": [],
+    "answer": "haven't read",
+    "accept": [
+     "have not read"
+    ],
+    "explain": "Gapda «for a long time» davomiylikni bildiradi — bu Present perfect: haven't read.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Rustam ______ a gold medal in the competition in 2021.",
+    "hint": "win",
+    "options": [],
+    "answer": "won",
+    "accept": [],
+    "explain": "Gapda «in 2021» aniq o‘tgan zamon — bu Past Simple: won.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "They ______ in that old house for ten years.",
+    "hint": "live",
+    "options": [],
+    "answer": "have lived",
+    "accept": [
+     "have been living"
+    ],
+    "explain": "Gapda «for ten years» davomiylikni bildiradi — bu Present perfect: have lived.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "She ______ her grandmother last weekend.",
+    "hint": "visit",
+    "options": [],
+    "answer": "visited",
+    "accept": [],
+    "explain": "Gapda «last weekend» aniq o‘tgan zamon — bu Past Simple: visited.",
+    "wrong": {}
+   }
+  ],
+  [
+   {
+    "kind": "choose",
+    "q": "______ have you lived in this cozy mahalla?",
+    "hint": "",
+    "options": [
+     "How long",
+     "When",
+     "What time"
+    ],
+    "answer": "How long",
+    "accept": [],
+    "explain": "Davomiylikni so'rash uchun «How long» ishlatiladi, chunki javobda «for» yoki «since» keladi.",
+    "wrong": {
+     "When": "«When» aniq o'tgan zamondagi vaqtni so'raydi, bu yerda esa davomiylik bor.",
+     "What time": "«What time» soat nechadaligini aniq so'rash uchun ishlatiladi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Dilshod ______ played tennis at the new stadium.",
+    "hint": "",
+    "options": [
+     "has never",
+     "never",
+     "didn't never"
+    ],
+    "answer": "has never",
+    "accept": [],
+    "explain": "Tajribani inkor etish uchun «has never» ishlatiladi, bu Present Perfect zamonidir.",
+    "wrong": {
+     "never": "Faqat «never» o'zicha yordamchi fe'lsiz ishlatilmaydi.",
+     "didn't never": "Ingliz tilida ikki marta inkor so'z bitta gapda ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "We have known our math teacher ______ five years.",
+    "hint": "",
+    "options": [
+     "for",
+     "since",
+     "from"
+    ],
+    "answer": "for",
+    "accept": [],
+    "explain": "Vaqt oralig'ining davomiyligi uchun «for» ishlatiladi («five years»).",
+    "wrong": {
+     "since": "«Since» aniq boshlanish nuqtasini ko'rsatadi, masalan, yil yoki oy.",
+     "from": "«From» odatda «to» bilan birga vaqt chegarasini ko'rsatadi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Jasur isn't at home. He ______ to the Kokcha bazaar.",
+    "hint": "",
+    "options": [
+     "has gone",
+     "has been",
+     "went"
+    ],
+    "answer": "has gone",
+    "accept": [],
+    "explain": "U hozir ham o'sha yerda va hali qaytmagan, shuning uchun «has gone».",
+    "wrong": {
+     "has been": "«Has been» borgan va qaytib kelgan ma'nosini beradi.",
+     "went": "Past Simple bu kontekstdagi natijani ko'rsatmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Have you ______ seen a real snow leopard in the mountains?",
+    "hint": "",
+    "options": [
+     "ever",
+     "never",
+     "just"
+    ],
+    "answer": "ever",
+    "accept": [],
+    "explain": "Savolda tajribani so'rash uchun «ever» ishlatiladi.",
+    "wrong": {
+     "never": "«Never» odatda tasdiq shaklidagi fe'l bilan inkor ma'nosini beradi.",
+     "just": "«Just» yaqinda sodir bo'lgan ishlar uchun ishlatiladi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Ziyoda has lived in Tashkent ______ 2015.",
+    "hint": "",
+    "options": [
+     "since",
+     "for",
+     "from"
+    ],
+    "answer": "since",
+    "accept": [],
+    "explain": "Aniq boshlanish vaqti berilgani uchun «since» ishlatiladi («2015»).",
+    "wrong": {
+     "for": "«For» vaqt davomiyligini bildiradi, masalan, «for 10 years».",
+     "from": "«From» bu yerda mos kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "The children ______ eaten all the apples already.",
+    "hint": "",
+    "options": [
+     "have",
+     "has",
+     "had"
+    ],
+    "answer": "have",
+    "accept": [],
+    "explain": "Egasi ko'plikda («The children»), shuning uchun Present Perfect uchun «have» ishlatiladi.",
+    "wrong": {
+     "has": "«Has» faqat birlikdagi uchinchi shaxs uchun ishlatiladi.",
+     "had": "«Had» o'tgan zamon uchun ishlatiladi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Have they finished their English project ______?",
+    "hint": "",
+    "options": [
+     "yet",
+     "already",
+     "just"
+    ],
+    "answer": "yet",
+    "accept": [],
+    "explain": "So'roq gapning oxirida «yet» ishlatiladi.",
+    "wrong": {
+     "already": "«Already» odatda darak gaplarda ishlatiladi.",
+     "just": "«Just» fe'ldan oldin keladi va oxirida kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "I ______ already cleaned my desk this morning.",
+    "hint": "",
+    "options": [
+     "have",
+     "has",
+     "am"
+    ],
+    "answer": "have",
+    "accept": [],
+    "explain": "Subject «I» uchun Present Perfect darak gapida «have» ishlatiladi.",
+    "wrong": {
+     "has": "«Has» faqat he/she/it olmoshlari bilan keladi.",
+     "am": "«Am» bu zamonda ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "______ did you visit Samarkand for the first time?",
+    "hint": "",
+    "options": [
+     "When",
+     "How long",
+     "Since when"
+    ],
+    "answer": "When",
+    "accept": [],
+    "explain": "Aniq bir vaqtni so'raganda «When» ishlatiladi va fe'l Past Simple'da keladi.",
+    "wrong": {
+     "How long": "«How long» davomiylikni so'raydi.",
+     "Since when": "«Since when» boshlanish nuqtasini so'raydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "My uncle has worked at this factory ______ twenty years.",
+    "hint": "",
+    "options": [
+     "for",
+     "since",
+     "at"
+    ],
+    "answer": "for",
+    "accept": [],
+    "explain": "Vaqt uzunligi «twenty years» bo'lgani uchun «for» ishlatiladi.",
+    "wrong": {
+     "since": "Aniq yil yoki sana kerak bo'lardi.",
+     "at": "«At» vaqt uchun bu yerda ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Has the lesson started ______? No, not yet.",
+    "hint": "",
+    "options": [
+     "yet",
+     "already",
+     "ever"
+    ],
+    "answer": "yet",
+    "accept": [],
+    "explain": "So'roq gapda oxirida «yet» ishlatiladi.",
+    "wrong": {
+     "already": "«Already» so'roq gap oxirida odatda ishlatilmaydi.",
+     "ever": "«Ever» boshqa ma'noga ega."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "We ______ already bought tickets for the concert.",
+    "hint": "",
+    "options": [
+     "have",
+     "has",
+     "are"
+    ],
+    "answer": "have",
+    "accept": [],
+    "explain": "«We» olmoshidan keyin Present Perfect'da «have» keladi.",
+    "wrong": {
+     "has": "«Has» faqat he/she/it bilan keladi.",
+     "are": "Present Continuous zamoni emas."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Gulnora ______ English since she was seven years old.",
+    "hint": "",
+    "options": [
+     "has studied",
+     "studied",
+     "studies"
+    ],
+    "answer": "has studied",
+    "accept": [],
+    "explain": "Gapda «since» bor, shuning uchun Present Perfect: has studied.",
+    "wrong": {
+     "studied": "«Since» borligi uchun Past Simple ishlatib bo'lmaydi.",
+     "studies": "Present Simple o'tmishdan boshlangan harakatga mos kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "______ have you known your best friend?",
+    "hint": "",
+    "options": [
+     "How long",
+     "When",
+     "How many"
+    ],
+    "answer": "How long",
+    "accept": [],
+    "explain": "Do'stlik davomiyligini so'rash uchun «How long» ishlatiladi.",
+    "wrong": {
+     "When": "«When» vaqtni so'raydi, davomiylikni emas.",
+     "How many": "Sanraldigan narsalar uchun ishlatiladi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Timur ______ eaten Plov yet. He is still hungry.",
+    "hint": "",
+    "options": [
+     "hasn't",
+     "haven't",
+     "didn't"
+    ],
+    "answer": "hasn't",
+    "accept": [],
+    "explain": "Inkor gapda «yet» bilan «hasn't» ishlatiladi.",
+    "wrong": {
+     "haven't": "«Timur» birlikda, shuning uchun «haven't» xato.",
+     "didn't": "Past Simple bu yerda «yet» bilan ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "I ______ never tasted horse meat sausage (kazy).",
+    "hint": "",
+    "options": [
+     "have",
+     "has",
+     "did"
+    ],
+    "answer": "have",
+    "accept": [],
+    "explain": "Inkor ma'nodagi tajriba uchun «have never» ishlatiladi.",
+    "wrong": {
+     "has": "«I» olmoshidan keyin «has» ishlatilmaydi.",
+     "did": "Past Simple zamoni bu yerga to'g'ri kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Have you ______ been to the mountains in winter?",
+    "hint": "",
+    "options": [
+     "ever",
+     "never",
+     "just"
+    ],
+    "answer": "ever",
+    "accept": [],
+    "explain": "Savolda tajribani so'rash uchun «ever» ishlatiladi.",
+    "wrong": {
+     "never": "Savol gaplarda «never» o'rniga «ever» ishlatiladi.",
+     "just": "Ma'nosi to'g'ri kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Aziza has lived in this apartment ______ last winter.",
+    "hint": "",
+    "options": [
+     "since",
+     "for",
+     "from"
+    ],
+    "answer": "since",
+    "accept": [],
+    "explain": "Aniq vaqt nuqtasi «last winter» uchun «since» ishlatiladi.",
+    "wrong": {
+     "for": "«For» davomiylik uchun kerak.",
+     "from": "«From» bu yerda ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Look! The rain ______ stopped and the sun is shining.",
+    "hint": "",
+    "options": [
+     "has",
+     "have",
+     "is"
+    ],
+    "answer": "has",
+    "accept": [],
+    "explain": "Natija hozir ko'rinib turibdi («the sun is shining»), shuning uchun «has stopped».",
+    "wrong": {
+     "have": "«The rain» birlikda, shuning uchun «has» bo'lishi kerak.",
+     "is": "Present Continuous ma'nosini bildirmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "My grandparents ______ married for fifty years.",
+    "hint": "",
+    "options": [
+     "have been",
+     "were",
+     "are"
+    ],
+    "answer": "have been",
+    "accept": [],
+    "explain": "Holat hozirgacha davom etayotgani uchun «have been» ishlatiladi.",
+    "wrong": {
+     "were": "Past Simple oilaviy holat hozirgacha davom etayotganini ko'rsatmaydi.",
+     "are": "«For fifty years» borligi uchun Present Simple ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "______ did you buy this traditional hat (tubeteika)?",
+    "hint": "",
+    "options": [
+     "When",
+     "How long",
+     "Since when"
+    ],
+    "answer": "When",
+    "accept": [],
+    "explain": "Aniq harakat vaqti so'ralganda «When» va Past Simple ishlatiladi.",
+    "wrong": {
+     "How long": "Davomiylikni so'ramayapti.",
+     "Since when": "«Since when» Present Perfect bilan ishlatiladi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "We ______ just arrived at the railway station.",
+    "hint": "",
+    "options": [
+     "have",
+     "has",
+     "had"
+    ],
+    "answer": "have",
+    "accept": [],
+    "explain": "«We» olmoshidan keyin «have» keladi.",
+    "wrong": {
+     "has": "«We» ko'plikda.",
+     "had": "O'tgan zamon emas."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Has your brother ______ a new job?",
+    "hint": "",
+    "options": [
+     "found",
+     "find",
+     "finding"
+    ],
+    "answer": "found",
+    "accept": [],
+    "explain": "Present Perfect so'roq shaklida fe'lning uchinchi shakli («found») ishlatiladi.",
+    "wrong": {
+     "find": "Birinchi shakl xato.",
+     "finding": "Ing qo'shimchasi kerak emas."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "I ______ seen that new Uzbek film yet.",
+    "hint": "",
+    "options": [
+     "haven't",
+     "hasn't",
+     "didn't"
+    ],
+    "answer": "haven't",
+    "accept": [],
+    "explain": "Inkor gapda «yet» bilan «haven't» ishlatiladi.",
+    "wrong": {
+     "hasn't": "«I» olmoshiga «hasn't» mos kelmaydi.",
+     "didn't": "Past Simple «yet» bilan ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Shavkat ______ to the museum and he will be back soon.",
+    "hint": "",
+    "options": [
+     "has gone",
+     "has been",
+     "went"
+    ],
+    "answer": "has gone",
+    "accept": [],
+    "explain": "Hali qaytib kelmagani uchun «has gone» ishlatiladi.",
+    "wrong": {
+     "has been": "«Has been» borib kelganini bildiradi.",
+     "went": "Natija uchun Present Perfect kerak."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "They ______ known each other since childhood.",
+    "hint": "",
+    "options": [
+     "have",
+     "has",
+     "had"
+    ],
+    "answer": "have",
+    "accept": [],
+    "explain": "«They» olmoshidan keyin «have» ishlatiladi.",
+    "wrong": {
+     "has": "Ko'plik uchun «has» ishlatilmaydi.",
+     "had": "Ma'nosi mos kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Bekzod is not in his room. He ______ to the school gym to play basketball.",
+    "hint": "",
+    "options": [
+     "has gone",
+     "has been"
+    ],
+    "answer": "has gone",
+    "accept": [],
+    "explain": "Gapda «not in his room» bor — bu uning ketgani va hali qaytmaganini bildiradi, shuning uchun has gone.",
+    "wrong": {
+     "has been": "«Has been» u yerda bo‘lib qaytganini bildiradi, Bekzod esa hozir xonasida yo‘q."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Have you ______ tried sweet melon from Khorezm?",
+    "hint": "",
+    "options": [
+     "ever",
+     "never"
+    ],
+    "answer": "ever",
+    "accept": [],
+    "explain": "Savol gapida tajriba haqida so‘ralmoqda va «ever» ishlatiladi.",
+    "wrong": {
+     "never": "«Never» inkor gaplarda qo‘llaniladi, bu esa savol gap."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "My sister has cooked tasty shashlik ______ three hours.",
+    "hint": "",
+    "options": [
+     "for",
+     "since"
+    ],
+    "answer": "for",
+    "accept": [],
+    "explain": "Gapda «three hours» — vaqt oralig‘i, shuning uchun for ishlatiladi.",
+    "wrong": {
+     "since": "«Since» aniq boshlanish vaqtini ko‘rsatadi, bu yerda esa vaqt davomiyligi."
+    }
+   }
+  ],
+  [
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "I have lost my keys.",
+     "I has lost my keys.",
+     "I lost have my keys."
+    ],
+    "answer": "I have lost my keys.",
+    "accept": [],
+    "explain": "Natijasi hozir ham muhim bo'lgan ish uchun Present Perfect ishlatiladi («I have lost» klusi).",
+    "wrong": {
+     "I has lost my keys.": "«I» olmoshidan keyin «has» emas, «have» kelishi kerak.",
+     "I lost have my keys.": "So'z tartibi noto'g'ri: «have» fe'ldan oldin kelishi shart."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "I visited Bukhara last year.",
+     "I have visited Bukhara last year.",
+     "I visit Bukhara last year."
+    ],
+    "answer": "I visited Bukhara last year.",
+    "accept": [],
+    "explain": "Gapda «last year» aniq o'tgan zamon vaqti, shuning uchun Past Simple ishlatiladi.",
+    "wrong": {
+     "I have visited Bukhara last year.": "«Last year» aniq vaqt bo'lgani uchun Present perfect ishlatilmaydi.",
+     "I visit Bukhara last year.": "Fe'l o'tgan zamonda bo'lishi kerak, chunki «last year» o'tib ketgan."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "She has lost her phone.",
+     "She lost her phone already.",
+     "She have lost her phone."
+    ],
+    "answer": "She has lost her phone.",
+    "accept": [],
+    "explain": "Natijasi hozir ham muhim bo'lgan ish-harakat uchun Present Perfect ishlatiladi.",
+    "wrong": {
+     "She lost her phone already.": "Past simple «already» so'zi bilan ishlatilmaydi.",
+     "She have lost her phone.": "Uchinchi shaxs birlik uchun «has» bo'lishi kerak."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Did you see Sardor yesterday?",
+     "Have you seen Sardor yesterday?",
+     "You saw Sardor yesterday?"
+    ],
+    "answer": "Did you see Sardor yesterday?",
+    "accept": [],
+    "explain": "Aniq o'tgan zamon «yesterday» so'zi kelgani uchun Past Simple va «Did» yordamchi fe'li ishlatiladi.",
+    "wrong": {
+     "Have you seen Sardor yesterday?": "«Yesterday» aniq vaqti bilan Present perfect ishlatilmaydi.",
+     "You saw Sardor yesterday?": "So'roq gapda «Did» yordamchi fe'li kerak."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "I have never eaten sushi.",
+     "I never ate sushi in my life.",
+     "I have never ate sushi."
+    ],
+    "answer": "I have never eaten sushi.",
+    "accept": [],
+    "explain": "Hayotiy tajribani bildirish uchun «never» bilan Present Perfect ishlatiladi.",
+    "wrong": {
+     "I never ate sushi in my life.": "Hayotiy tajriba uchun odatda Present perfect ishlatiladi.",
+     "I have never ate sushi.": "Present perfect uchun fe'lning 3-shakli «eaten» ishlatilishi kerak."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "When did you buy this bicycle?",
+     "When have you bought this bicycle?",
+     "When you bought this bicycle?"
+    ],
+    "answer": "When did you buy this bicycle?",
+    "accept": [],
+    "explain": "«When» so'roq so'zi o'tgan zamondagi aniq vaqtni so'raydi, shuning uchun Past Simple ishlatiladi.",
+    "wrong": {
+     "When have you bought this bicycle?": "«When» bilan Present perfect ishlatilmaydi.",
+     "When you bought this bicycle?": "So'roq gapda «did» yordamchi fe'li yetishmayapti."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "They have lived here since 2010.",
+     "They live here since 2010.",
+     "They are living here since 2010."
+    ],
+    "answer": "They have lived here since 2010.",
+    "accept": [],
+    "explain": "Ish-harakat o'tmishda boshlanib hozirgacha davom etayotgani uchun «since» bilan Present Perfect ishlatiladi.",
+    "wrong": {
+     "They live here since 2010.": "«Since» davomiylikni ko'rsatgani uchun Present Simple noto'g'ri.",
+     "They are living here since 2010.": "Present Continuous «since» bilan ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Have you ever been to Samarkand?",
+     "Did you ever been to Samarkand?",
+     "Do you ever been to Samarkand?"
+    ],
+    "answer": "Have you ever been to Samarkand?",
+    "accept": [],
+    "explain": "Tajribani so'rash uchun «Ever» bilan Present Perfect savol shakli ishlatiladi.",
+    "wrong": {
+     "Did you ever been to Samarkand?": "«Did» dan keyin fe'lning 3-shakli kelmaydi.",
+     "Do you ever been to Samarkand?": "Tajriba so'rashda «Do» emas, «Have» ishlatiladi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "My brother has just arrived home.",
+     "My brother just arrived home yet.",
+     "My brother is just arrived home."
+    ],
+    "answer": "My brother has just arrived home.",
+    "accept": [],
+    "explain": "Yaqingina sodir bo'lgan voqea uchun «just» bilan Present Perfect ishlatiladi.",
+    "wrong": {
+     "My brother just arrived home yet.": "«Just» va «yet» bir gapda ishlatilmaydi.",
+     "My brother is just arrived home.": "Majhul nisbat emas, faol fe'l kerak."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "She hasn't finished her homework yet.",
+     "She didn't finish her homework yet.",
+     "She hasn't finish her homework yet."
+    ],
+    "answer": "She hasn't finished her homework yet.",
+    "accept": [],
+    "explain": "Inkor gapning oxirida hali bajarilmagan ish uchun «yet» bilan Present Perfect ishlatiladi.",
+    "wrong": {
+     "She didn't finish her homework yet.": "Past simple odatda «yet» bilan ishlatilmaydi.",
+     "She hasn't finish her homework yet.": "Hasn't dan keyin fe'lning 3-shakli kelishi kerak."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "I bought a new jacket yesterday.",
+     "I have bought a new jacket yesterday.",
+     "I buy a new jacket yesterday."
+    ],
+    "answer": "I bought a new jacket yesterday.",
+    "accept": [],
+    "explain": "Gapda «yesterday» bor — bu aniq o'tgan zamon belgisi, shuning uchun Past Simple ishlatiladi.",
+    "wrong": {
+     "I have bought a new jacket yesterday.": "«Yesterday» bilan Present perfect ishlatilmaydi.",
+     "I buy a new jacket yesterday.": "Fe'l o'tgan zamonda bo'lishi shart."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Have you cleaned your room?",
+     "Did you have cleaned your room?",
+     "Do you cleaned your room?"
+    ],
+    "answer": "Have you cleaned your room?",
+    "accept": [],
+    "explain": "Natijasi muhim bo'lgan harakat haqida so'rash uchun Present Perfect ishlatiladi.",
+    "wrong": {
+     "Did you have cleaned your room?": "«Did» va «have» birga bitta fe'l uchun ishlatilmaydi.",
+     "Do you cleaned your room?": "«Do» yordamchi fe'li o'tgan zamon yoki natijali ish uchun mos kelmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "He has already read that book.",
+     "He already read that book yet.",
+     "He is already read that book."
+    ],
+    "answer": "He has already read that book.",
+    "accept": [],
+    "explain": "Ish-harakat bajarib bo'linganini bildirish uchun «already» bilan Present Perfect ishlatiladi.",
+    "wrong": {
+     "He already read that book yet.": "«Already» va «yet» bir gapda ishlatilmaydi.",
+     "He is already read that book.": "Present Perfect uchun «is» emas, «has» kerak."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "We went to Khiva last summer.",
+     "We have gone to Khiva last summer.",
+     "We have been to Khiva last summer."
+    ],
+    "answer": "We went to Khiva last summer.",
+    "accept": [],
+    "explain": "Aniq vaqt «last summer» ko'rsatilgani uchun Past Simple ishlatiladi.",
+    "wrong": {
+     "We have gone to Khiva last summer.": "Aniq o'tgan zamon payti bilan Present perfect ishlatib bo'lmaydi.",
+     "We have been to Khiva last summer.": "«Last summer» o'tgan zamon bo'lgani uchun Past Simple ma'qul."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "I have known my best friend for five years.",
+     "I know my best friend for five years.",
+     "I am knowing my best friend for five years."
+    ],
+    "answer": "I have known my best friend for five years.",
+    "accept": [],
+    "explain": "Vaqt oralig'ini ko'rsatish uchun «for» bilan Present Perfect ishlatiladi.",
+    "wrong": {
+     "I know my best friend for five years.": "Davomiylikni bildirish uchun Present simple yetarli emas.",
+     "I am knowing my best friend for five years.": "«Know» fe'li davomiy zamonda ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Aziza isn't here. She has gone to the shop.",
+     "Aziza isn't here. She has been to the shop.",
+     "Aziza isn't here. She went to the shop yesterday."
+    ],
+    "answer": "Aziza isn't here. She has gone to the shop.",
+    "accept": [],
+    "explain": "Hali qaytib kelmaganini bildirish uchun «has gone» ishlatiladi.",
+    "wrong": {
+     "Aziza isn't here. She has been to the shop.": "«Has been» allaqachon borib kelganini bildiradi.",
+     "Aziza isn't here. She went to the shop yesterday.": "Gapda «yesterday» so'zi ma'noga mos kelmayapti."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Did you enjoy the party last night?",
+     "Have you enjoyed the party last night?",
+     "Do you enjoyed the party last night?"
+    ],
+    "answer": "Did you enjoy the party last night?",
+    "accept": [],
+    "explain": "Aniq o'tgan zamon «last night» uchun Past Simple va «Did» ishlatiladi.",
+    "wrong": {
+     "Have you enjoyed the party last night?": "«Last night» o'tgan zamon aniq payti, Present perfect xato.",
+     "Do you enjoyed the party last night?": "«Do» yordamchi fe'li o'tgan zamon uchun ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "I have lived in Tashkent since 2018.",
+     "I lived in Tashkent since 2018.",
+     "I am living in Tashkent since 2018."
+    ],
+    "answer": "I have lived in Tashkent since 2018.",
+    "accept": [],
+    "explain": "Boshlanish vaqtini ko'rsatish uchun «since» bilan Present Perfect ishlatiladi.",
+    "wrong": {
+     "I lived in Tashkent since 2018.": "«Since» so'zi Past simple bilan ishlatilmaydi.",
+     "I am living in Tashkent since 2018.": "Hozirgacha davom etayotgan ish uchun Present continuous ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Have you ever eaten national lagman?",
+     "Did you ever eat national lagman in your life?",
+     "Do you ever eaten national lagman?"
+    ],
+    "answer": "Have you ever eaten national lagman?",
+    "accept": [],
+    "explain": "Tajribani so'rash uchun «ever» bilan Present Perfect ishlatiladi.",
+    "wrong": {
+     "Did you ever eat national lagman in your life?": "Hayotiy tajriba uchun odatda Present perfect ishlatiladi.",
+     "Do you ever eaten national lagman?": "Grammatik jihatdan noto'g'ri tuzilgan."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "My father started his job two years ago.",
+     "My father has started his job two years ago.",
+     "My father starts his job two years ago."
+    ],
+    "answer": "My father started his job two years ago.",
+    "accept": [],
+    "explain": "Aniq o'tgan zamon «two years ago» uchun Past Simple ishlatiladi.",
+    "wrong": {
+     "My father has started his job two years ago.": "«Ago» so'zi bor joyda Present perfect ishlatilmaydi.",
+     "My father starts his job two years ago.": "O'tgan zamon uchun Present simple xato."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "We have just finished our English lesson.",
+     "We just finished our English lesson already.",
+     "We are just finished our English lesson."
+    ],
+    "answer": "We have just finished our English lesson.",
+    "accept": [],
+    "explain": "Yaqingina tugagan ish uchun «just» bilan Present Perfect ishlatiladi.",
+    "wrong": {
+     "We just finished our English lesson already.": "«Just» va «already» birga ishlatilmaydi.",
+     "We are just finished our English lesson.": "Majhul nisbat shakli bu yerda noto'g'ri."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "She has been to London twice.",
+     "She has gone to London twice.",
+     "She went to London twice in her life."
+    ],
+    "answer": "She has been to London twice.",
+    "accept": [],
+    "explain": "Borib kelgan tajribani bildirish uchun «has been» ishlatiladi.",
+    "wrong": {
+     "She has gone to London twice.": "«Has gone» hozir ham o'sha yerda ekanini bildiradi.",
+     "She went to London twice in her life.": "Hayotiy tajriba uchun Present perfect mosroq."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "I haven't seen my cousin this morning.",
+     "I didn't see my cousin this morning while it's still morning.",
+     "I haven't saw my cousin this morning."
+    ],
+    "answer": "I haven't seen my cousin this morning.",
+    "accept": [],
+    "explain": "Hozirgi vaqtgacha bo'lgan davr uchun Present Perfect ishlatiladi.",
+    "wrong": {
+     "I didn't see my cousin this morning while it's still morning.": "Gap juda ortiqcha so'zlar bilan to'ldirilgan.",
+     "I haven't saw my cousin this morning.": "Haven't dan keyin fe'lning 3-shakli «seen» bo'lishi kerak."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Columbus discovered America in 1492.",
+     "Columbus has discovered America in 1492.",
+     "Columbus discovers America in 1492."
+    ],
+    "answer": "Columbus discovered America in 1492.",
+    "accept": [],
+    "explain": "Tarixiy sana «in 1492» uchun Past Simple ishlatiladi.",
+    "wrong": {
+     "Columbus has discovered America in 1492.": "O'tmishdagi aniq tarix uchun Present perfect ishlatilmaydi.",
+     "Columbus discovers America in 1492.": "Tarixiy voqea uchun Present simple xato."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "She read an interesting book last week.",
+     "She has read an interesting book last week.",
+     "She reads an interesting book last week."
+    ],
+    "answer": "She read an interesting book last week.",
+    "accept": [],
+    "explain": "Aniq vaqt «last week» ko'rsatilgani uchun Past Simple ishlatiladi.",
+    "wrong": {
+     "She has read an interesting book last week.": "«Last week» bilan Present perfect ishlatilmaydi.",
+     "She reads an interesting book last week.": "O'tgan zamon uchun Present simple ishlatib bo'lmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "I have never ridden a camel.",
+     "I never rode a camel in my whole life.",
+     "I have never ride a camel."
+    ],
+    "answer": "I have never ridden a camel.",
+    "accept": [],
+    "explain": "Tajribasizlikni ko'rsatish uchun «never» bilan Present Perfect ishlatiladi.",
+    "wrong": {
+     "I never rode a camel in my whole life.": "Hayotiy tajriba uchun Present perfect ishlatish yaxshiroq.",
+     "I have never ride a camel.": "Present perfect uchun fe'lning 3-shakli «ridden» kerak."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Where did you go for your holidays?",
+     "Where have you gone for your holidays last year?",
+     "Where you went for your holidays?"
+    ],
+    "answer": "Where did you go for your holidays?",
+    "accept": [],
+    "explain": "O'tgan zamondagi dam olish haqida so'rash uchun Past Simple ishlatiladi.",
+    "wrong": {
+     "Where have you gone for your holidays last year?": "«Last year» bilan Present perfect xato.",
+     "Where you went for your holidays?": "So'roq gapda yordamchi fe'l yetishmayapti."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "He has worked at the hospital for three years.",
+     "He worked at the hospital since three years.",
+     "He is working at the hospital for three years."
+    ],
+    "answer": "He has worked at the hospital for three years.",
+    "accept": [],
+    "explain": "Vaqt davomiyligi uchun «for» bilan Present Perfect ishlatiladi.",
+    "wrong": {
+     "He worked at the hospital since three years.": "«Since» davomiylik uchun emas, aniq boshlanish vaqti uchun ishlatiladi.",
+     "He is working at the hospital for three years.": "Davomiylikni bildirish uchun Present continuous mos kelmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "I lost my keys yesterday morning.",
+     "I have lost my keys yesterday morning.",
+     "I lose my keys yesterday morning."
+    ],
+    "answer": "I lost my keys yesterday morning.",
+    "accept": [],
+    "explain": "Aniq o'tgan zamon payti «yesterday morning» uchun Past Simple ishlatiladi.",
+    "wrong": {
+     "I have lost my keys yesterday morning.": "Aniq vaqt «yesterday» sababli Present perfect xato.",
+     "I lose my keys yesterday morning.": "Fe'l o'tgan zamonda bo'lishi shart."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Have you ever met a famous singer?",
+     "Did you ever met a famous singer?",
+     "Do you ever met a famous singer?"
+    ],
+    "answer": "Have you ever met a famous singer?",
+    "accept": [],
+    "explain": "Tajribani so'rash uchun «ever» bilan Present Perfect ishlatiladi.",
+    "wrong": {
+     "Did you ever met a famous singer?": "«Did» dan keyin fe'lning 2-shakli kelmaydi.",
+     "Do you ever met a famous singer?": "«Do» yordamchi fe'li bu yerda grammatik noto'g'ri."
+    }
+   }
+  ]
+ ],
+ "intro": {
+  "what": "Present Perfect zamoni o'tmishda boshlangan, ammo hozirgi paytda ham muhim bo'lgan harakatlarni bildiradi. Biz uni asosan hayotdagi tajribalar va o'tmishdagi ishlarning hozirgi natijasidan gapirish uchun ishlatamiz. U Have/Has va fe'ning 3-shakli (V3) yordamida yasaladi.",
+  "when": [
+   "Hayotiy tajribalar haqida gapirganda",
+   "Hozirgina sodir bo'lgan ish-harakatlar uchun",
+   "Natijasi hozir ham ko'rinib turgan ishlar uchun",
+   "Ma'lum vaqtdan beri davom etayotgan ishlar haqida",
+   "Aniq vaqti ko'rsatilmagan o'tmishdagi ishlar uchun"
+  ],
+  "structures": [
+   {
+    "label": "Darak gap",
+    "formula": "Subject + have/has + V3",
+    "example_en": "I have visited Samarkand twice.",
+    "example_uz": "Men Samarqandga ikki marta borganman."
+   },
+   {
+    "label": "Inkor gap",
+    "formula": "Subject + haven't/hasn't + V3",
+    "example_en": "She hasn't eaten lunch yet.",
+    "example_uz": "U hali tushlik qilmadi."
+   },
+   {
+    "label": "So'roq gap",
+    "formula": "Have/Has + subject + V3?",
+    "example_en": "Have you ever played cricket?",
+    "example_uz": "Siz ilgari kriket o'ynaganmisiz?"
+   },
+   {
+    "label": "For va Since bilan",
+    "formula": "Subject + have/has + V3 + for/since + time",
+    "example_en": "We have lived here for five years.",
+    "example_uz": "Biz bu yerda besh yildan beri yashaymiz."
+   },
+   {
+    "label": "How long so'roq",
+    "formula": "How long + have/has + subject + V3?",
+    "example_en": "How long have you known Bekzod?",
+    "example_uz": "Bekzodni taniganingizga qancha bo'ldi?"
+   }
+  ],
+  "rules": [
+   {
+    "title": "Ever va Never ishlatilishi",
+    "text": "Ever so'zi savol gaplarda tajribani so'rash uchun ishlatiladi, never esa darak gapda inkor ma'noni beradi.",
+    "examples": [
+     {
+      "en": "Have you ever seen a bear?",
+      "uz": "Siz hech ayiq ko'rganmisiz?"
+     },
+     {
+      "en": "I have never flown in a helicopter.",
+      "uz": "Men hech qachon vertolyotda uchmaganman."
+     }
+    ]
+   },
+   {
+    "title": "Just, Already va Yet",
+    "text": "Just yaqinda tugagan ishga, already oldinroq bajarilgan ishga, yet esa inkor va so'roq gaplarda oxirida qo'llaniladi.",
+    "examples": [
+     {
+      "en": "Dad has just washed his car.",
+      "uz": "Dadam mashinasini hozirgina yuvdi."
+     },
+     {
+      "en": "Has the lesson finished yet?",
+      "uz": "Dars hali tugadimi?"
+     }
+    ]
+   },
+   {
+    "title": "For va Since farqi",
+    "text": "For davomiylik vaqtini (masalan, 3 years), since esa ish boshlangan aniq vaqtni (masalan, 2015) ko'rsatadi.",
+    "examples": [
+     {
+      "en": "Aziza has studied English for two months.",
+      "uz": "Aziza ikki oydan beri ingliz tilini o'rganmoqda."
+     },
+     {
+      "en": "Aziza has studied English since September.",
+      "uz": "Aziza sentyabrdan beri ingliz tilini o'rganmoqda."
+     }
+    ]
+   },
+   {
+    "title": "Been va Gone farqi",
+    "text": "Been – borib kelganligini, gone – ketib hali qaytib kelmaganini bildiradi.",
+    "examples": [
+     {
+      "en": "Timur has been to Bukhara.",
+      "uz": "Timur Buxoroda bo'lgan (borib kelgan)."
+     },
+     {
+      "en": "Timur has gone to Bukhara.",
+      "uz": "Timur Buxoroga ketgan (hali qaytmagan)."
+     }
+    ]
+   },
+   {
+    "title": "Present Perfect va Past Simple",
+    "text": "Present Perfect natijaga e'tibor qaratadi, Past Simple esa aniq o'tmish vaqti bilan ishlatiladi.",
+    "examples": [
+     {
+      "en": "I lost my pen yesterday.",
+      "uz": "Men ruchkamni kecha yo'qotdim."
+     },
+     {
+      "en": "I have lost my pen.",
+      "uz": "Men ruchkamni yo'qotib qo'ydim (hozir ham yo'q)."
+     }
+    ]
+   }
+  ],
+  "signal_words": [
+   {
+    "en": "ever",
+    "uz": "hech qachon / qachondir"
+   },
+   {
+    "en": "never",
+    "uz": "hech qachon"
+   },
+   {
+    "en": "just",
+    "uz": "hozirgina"
+   },
+   {
+    "en": "already",
+    "uz": "allaqachon"
+   },
+   {
+    "en": "yet",
+    "uz": "hali"
+   },
+   {
+    "en": "for",
+    "uz": "...dan beri (davomiylik)"
+   },
+   {
+    "en": "since",
+    "uz": "...dan buyon (aniq vaqt)"
+   },
+   {
+    "en": "how long",
+    "uz": "qancha vaqtdan beri"
+   },
+   {
+    "en": "recently",
+    "uz": "yaqinda"
+   },
+   {
+    "en": "so far",
+    "uz": "shu paytgacha"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I have went to Tashkent.",
+    "right": "I have gone to Tashkent.",
+    "why": "Present Perfect zamonida fe'lning 3-shakli (gone) ishlatiladi, 2-shakli (went) emas."
+   },
+   {
+    "wrong": "She has arrive home.",
+    "right": "She has arrived home.",
+    "why": "To'g'ri fe'llarga -ed qo'shimchasi qo'shilishi shart."
+   },
+   {
+    "wrong": "I have lived here since three years.",
+    "right": "I have lived here for three years.",
+    "why": "Davomiylik vaqti (three years) uchun 'since' emas, 'for' ishlatiladi."
+   },
+   {
+    "wrong": "Did you ever eat sushi?",
+    "right": "Have you ever eaten sushi?",
+    "why": "Hayotiy tajribani so'rashda Past Simple emas, Present Perfect ishlatiladi."
+   },
+   {
+    "wrong": "He have finished his test.",
+    "right": "He has finished his test.",
+    "why": "He, she, it olmoshlari bilan 'have' emas, 'has' yordamchi fe'li ishlatiladi."
+   }
+  ]
+ }
+}

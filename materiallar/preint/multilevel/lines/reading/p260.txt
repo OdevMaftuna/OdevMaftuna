@@ -1,0 +1,33 @@
+﻿72`t17`t66`tPort 3
+77`t16`t726`t259
+128`t23`t66`tand warning horns honking, the robots (to give them their correct name,
+158`t21`t66`tthe LGVs or laser guided vehicles) look for all the world like enthusiastic
+186`t21`t68`tmachines from a science fiction movie, as they follow their own random
+216`t21`t69`tpaths around the plant busily getting on with their jobs. Automation of
+244`t20`t68`tthis kind is now standard in all modem newspaper pZnts. The robots can
+273`t23`t68`tdetect unauthorised personnel and alert security Staff immediately it they
+300`t22`t68`tfind an "intruder"; not surprisingly, tall tales are already being told about
+329`t21`t68`tthe machines starting to take on personalities Of their own.
+422`t21`t96`tThe robots' principal job, however, is to shift the newsprint (the printing
+450`t23`t69`tpaper) that arrives at the plant in huge reels and emerges at the other end
+479`t21`t69`tsome time later as newspapers, Once the size Of the day'S paper and the
+507`t21`t71`tpublishing order are determined at head office, the information is punched
+536`t22`t71`tinto the computer and the LGVs are programmed to go about their work
+565`t21`t69`tThe LGVs collect the appropriate size paper reels and take them where they
+593`t21`t71`thave to go. When the press needs another reel its computer alerts the LGV
+621`t23`t71`tsystem. The Sydney LGVS move busily around the press room fulfilling their
+651`t21`t69`ttwo key functions - to collect reels of newsprint either from the reel strip-
+680`t21`t71`tping stations, or from the racked supplies in the newsprint storage area.
+708`t21`t71`tAt the stripping station the tough wrapping that helps to protect a reel of
+735`t21`t71`tpaper from rough handling is removed. Any damaged paper is peeled off
+767`t21`t71`tand the reel is then weighed
+857`t22`t98`tThen one of the four paster robots moves in. Specifically designed
+885`t21`t72`tfor the job, it trims the paper neatly and prepares the reel for the press,
+914`t21`t72`tIf required the reel can be loaded directly onto the press; if not needed
+944`t21`t72`timmediately, an LGV takes it to the storage area. When the press computer
+972`t21`t72`tcalls for a reel, an LGV takes it to the reel loading area Of the presses,
+1001`t21`t74`tIt lifts the reel into the loading position and places it in the correct spot
+1028`t21`t72`twith complete accuracyx As each reel is used up, the press drops the heavy
+1058`t19`t72`tcardboard core into a waste bin. When the bin is full, another LGV collects
+1086`t21`t73`tit and deposits the cores into a shredder for recycling.
+1204`t19`t429`tDorayongiZfi\ oniqfastl uchun_ mytests.uz

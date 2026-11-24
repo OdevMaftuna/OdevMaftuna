@@ -1,0 +1,35 @@
+{
+ "script": "Woman: Good morning and welcome to our seminar on the toy industry. I'd like to start by saying a few words about what you can expect from this seminar, since some of the details on the original plan have changed. After the introduction by Sally Connor, Kenji Nakamura will give a talk. That's from 10:00 a.m. to 11:00 a.m. He will tell you about the most recent developments in the toy industry in Japan and will show a short film. This will be followed by half an hour of questions. Then at 12:00, we'll have a break for lunch. This will be a buffet meal served in Victoria Hall, which is on the opposite side of the building, next to the library. After lunch, we'll return here for 'Toys in Britain: Success and Failure'. This talk will be given by Robert Price, who, as you know, is the owner of a chain of over 200 toy shops in the UK. The next talk, 'What's Next for Toys?', will take place immediately after this at 3:30. This will be given by Sarah Smith, who is, of course, our sales manager. Sarah's talk will finish at 5:00 p.m. After that, tea and juice will be served in the Green Room, which is on the first floor. Please join us there, as this will be a chance for everyone to chat...",
+ "items": [
+  {
+   "n": 1,
+   "quote": "After the introduction by Sally Connor",
+   "uz": "So'zlovchi 9:30 va 10:00 oralig'ida Sally Connor tomonidan kirish qismi ('introduction') bo'lishini aytadi."
+  },
+  {
+   "n": 2,
+   "quote": "This will be followed by half an hour of questions.",
+   "uz": "11:00 dan 11:30 gacha bo'lgan yarim soat (half an hour) savollar ('questions') berish uchun ajratilgan."
+  },
+  {
+   "n": 3,
+   "quote": "next to the library",
+   "uz": "Tushlik beriladigan Victoria Hall binosi kutubxona yonida ('next to the library') joylashgani aytiladi."
+  },
+  {
+   "n": 4,
+   "quote": "owner of a chain of over 200 toy shops",
+   "uz": "Robert Price 200 dan ortiq ('200' yoki 'two hundred') o'yinchoq do'konlari egasi ekanligi ta'kidlanadi."
+  },
+  {
+   "n": 5,
+   "quote": "Sarah Smith, who is, of course, our sales manager",
+   "uz": "Sarah Smith sotuv bo'limi menejeri ('sales manager') ekani aytiladi."
+  },
+  {
+   "n": 6,
+   "quote": "tea and juice will be served in the Green Room",
+   "uz": "Seminar yakunida Green Room zali ichida choy va sharbat ('Juice') berilishi ma'lum qilinadi."
+  }
+ ]
+}

@@ -1,0 +1,1214 @@
+{
+ "code": "3.1",
+ "model": "gemini-3.5-flash-lite",
+ "tr1": [
+  {
+   "part": 0,
+   "uz": "Men o'qituvchi emasman.",
+   "en": [
+    "I am not a teacher."
+   ],
+   "rule": "I + am not + ot"
+  },
+  {
+   "part": 0,
+   "uz": "Men doktor emasman.",
+   "en": [
+    "I am not a doctor."
+   ],
+   "rule": "I + am not + kasb"
+  },
+  {
+   "part": 0,
+   "uz": "Men Ispaniyadan emasman.",
+   "en": [
+    "I am not from Spain."
+   ],
+   "rule": "I + am not + from + davlat"
+  },
+  {
+   "part": 0,
+   "uz": "Men bu yerda emasman.",
+   "en": [
+    "I am not here."
+   ],
+   "rule": "I + am not + joy"
+  },
+  {
+   "part": 0,
+   "uz": "Men Toshkentdan emasman.",
+   "en": [
+    "I am not from Tashkent."
+   ],
+   "rule": "I + am not + from + shahar"
+  },
+  {
+   "part": 0,
+   "uz": "Men band emasman.",
+   "en": [
+    "I am not busy."
+   ],
+   "rule": "I + am not + sifat"
+  },
+  {
+   "part": 0,
+   "uz": "Men charchagan emasman.",
+   "en": [
+    "I am not tired."
+   ],
+   "rule": "I + am not + sifat"
+  },
+  {
+   "part": 0,
+   "uz": "Men xursand emasman.",
+   "en": [
+    "I am not happy."
+   ],
+   "rule": "I + am not + sifat"
+  },
+  {
+   "part": 0,
+   "uz": "Men talaba emasman.",
+   "en": [
+    "I am not a student."
+   ],
+   "rule": "I + am not + student"
+  },
+  {
+   "part": 0,
+   "uz": "Men Amerika'dan emasman.",
+   "en": [
+    "I am not from America."
+   ],
+   "rule": "I + am not + from + America"
+  },
+  {
+   "part": 0,
+   "uz": "Men Shotlandiyadan emasman.",
+   "en": [
+    "I am not from Scotland."
+   ],
+   "rule": "I + am not + from + Scotland"
+  },
+  {
+   "part": 0,
+   "uz": "Men Irlandiyadan emasman.",
+   "en": [
+    "I am not from Ireland."
+   ],
+   "rule": "I + am not + from + Ireland"
+  },
+  {
+   "part": 0,
+   "uz": "Men shvetsariyalik emasman.",
+   "en": [
+    "I am not from Sweden."
+   ],
+   "rule": "I + am not + from + Sweden"
+  },
+  {
+   "part": 0,
+   "uz": "Men quruvchi emasman.",
+   "en": [
+    "I am not a builder."
+   ],
+   "rule": "I + am not + kasb"
+  },
+  {
+   "part": 0,
+   "uz": "Men haydovchi emasman.",
+   "en": [
+    "I am not a bus driver."
+   ],
+   "rule": "I + am not + kasb"
+  },
+  {
+   "part": 0,
+   "uz": "Men biznesmen emasman.",
+   "en": [
+    "I am not a businessman."
+   ],
+   "rule": "I + am not + kasb"
+  },
+  {
+   "part": 0,
+   "uz": "Men hamshira emasman.",
+   "en": [
+    "I am not a nurse."
+   ],
+   "rule": "I + am not + kasb"
+  },
+  {
+   "part": 0,
+   "uz": "Men politsiyachi emasman.",
+   "en": [
+    "I am not a police officer."
+   ],
+   "rule": "I + am not + kasb"
+  },
+  {
+   "part": 0,
+   "uz": "Men xonanda emasman.",
+   "en": [
+    "I am not a singer."
+   ],
+   "rule": "I + am not + kasb"
+  },
+  {
+   "part": 0,
+   "uz": "Men sotuvchi emasman.",
+   "en": [
+    "I am not a shop assistant."
+   ],
+   "rule": "I + am not + kasb"
+  },
+  {
+   "part": 0,
+   "uz": "Men uyda emasman.",
+   "en": [
+    "I am not at home."
+   ],
+   "rule": "I + am not + joy"
+  },
+  {
+   "part": 0,
+   "uz": "Men maktabda emasman.",
+   "en": [
+    "I am not at school."
+   ],
+   "rule": "I + am not + joy"
+  },
+  {
+   "part": 0,
+   "uz": "Men shifoxonada emasman.",
+   "en": [
+    "I am not at the hospital."
+   ],
+   "rule": "I + am not + joy"
+  },
+  {
+   "part": 0,
+   "uz": "Men shaharda emasman.",
+   "en": [
+    "I am not in the town centre."
+   ],
+   "rule": "I + am not + joy"
+  },
+  {
+   "part": 0,
+   "uz": "Men stansiyada emasman.",
+   "en": [
+    "I am not at the station."
+   ],
+   "rule": "I + am not + joy"
+  },
+  {
+   "part": 0,
+   "uz": "Men ta'tilda emasman.",
+   "en": [
+    "I am not on holiday."
+   ],
+   "rule": "I + am not + holat"
+  },
+  {
+   "part": 0,
+   "uz": "Men turda emasman.",
+   "en": [
+    "I am not on tour."
+   ],
+   "rule": "I + am not + holat"
+  },
+  {
+   "part": 0,
+   "uz": "Men g'olib emasman.",
+   "en": [
+    "I am not a winner."
+   ],
+   "rule": "I + am not + ot"
+  },
+  {
+   "part": 0,
+   "uz": "Men kechki ovqatda emasman.",
+   "en": [
+    "I am not here today."
+   ],
+   "rule": "I + am not + payt"
+  },
+  {
+   "part": 0,
+   "uz": "Men u yerda emasman.",
+   "en": [
+    "I am not over there."
+   ],
+   "rule": "I + am not + joy"
+  },
+  {
+   "part": 0,
+   "uz": "Men xafa emasman.",
+   "en": [
+    "I am not unhappy."
+   ],
+   "rule": "I + am not + sifat"
+  },
+  {
+   "part": 0,
+   "uz": "Men aqlli emasman.",
+   "en": [
+    "I am not great."
+   ],
+   "rule": "I + am not + sifat"
+  },
+  {
+   "part": 0,
+   "uz": "Men uyqusiragan emasman.",
+   "en": [
+    "I am not tired."
+   ],
+   "rule": "I + am not + sifat"
+  },
+  {
+   "part": 0,
+   "uz": "Men kechikkan emasman.",
+   "en": [
+    "I am not late."
+   ],
+   "rule": "I + am not + sifat"
+  },
+  {
+   "part": 0,
+   "uz": "Men yolg'onchi emasman.",
+   "en": [
+    "I am not wrong."
+   ],
+   "rule": "I + am not + sifat"
+  },
+  {
+   "part": 0,
+   "uz": "Men qo'rqqan emasman.",
+   "en": [
+    "I am not excited."
+   ],
+   "rule": "I + am not + sifat"
+  },
+  {
+   "part": 0,
+   "uz": "Men yolg'iz emasman.",
+   "en": [
+    "I am not alone."
+   ],
+   "rule": "I + am not + sifat"
+  },
+  {
+   "part": 0,
+   "uz": "Men qarigan emasman.",
+   "en": [
+    "I am not old."
+   ],
+   "rule": "I + am not + sifat"
+  },
+  {
+   "part": 0,
+   "uz": "Men yosh emasman.",
+   "en": [
+    "I am not young."
+   ],
+   "rule": "I + am not + sifat"
+  },
+  {
+   "part": 0,
+   "uz": "Men uzun bo'yli emasman.",
+   "en": [
+    "I am not tall."
+   ],
+   "rule": "I + am not + sifat"
+  },
+  {
+   "part": 1,
+   "uz": "U uylangan emas.",
+   "en": [
+    "He isn't married.",
+    "She isn't married."
+   ],
+   "rule": "He/She + isn't + sifat"
+  },
+  {
+   "part": 1,
+   "uz": "Ali O'zbekistondan emas.",
+   "en": [
+    "He isn't from Uzbekistan."
+   ],
+   "rule": "He + isn't + from + davlat"
+  },
+  {
+   "part": 1,
+   "uz": "Malika o'qituvchi emas.",
+   "en": [
+    "She isn't a teacher."
+   ],
+   "rule": "She + isn't + kasb"
+  },
+  {
+   "part": 1,
+   "uz": "Bu kitob qiziqarli emas.",
+   "en": [
+    "It isn't interesting."
+   ],
+   "rule": "It + isn't + sifat"
+  },
+  {
+   "part": 1,
+   "uz": "Ob-havo yaxshi emas.",
+   "en": [
+    "It isn't good."
+   ],
+   "rule": "It + isn't + sifat"
+  },
+  {
+   "part": 1,
+   "uz": "Tom doktor emas.",
+   "en": [
+    "He isn't a doctor."
+   ],
+   "rule": "He + isn't + kasb"
+  },
+  {
+   "part": 1,
+   "uz": "Anna uyda emas.",
+   "en": [
+    "She isn't at home."
+   ],
+   "rule": "She + isn't + joy"
+  },
+  {
+   "part": 1,
+   "uz": "Bu mashina yangi emas.",
+   "en": [
+    "It isn't new."
+   ],
+   "rule": "It + isn't + sifat"
+  },
+  {
+   "part": 1,
+   "uz": "U maktabda emas.",
+   "en": [
+    "He isn't at school.",
+    "She isn't at school."
+   ],
+   "rule": "He/She + isn't + joy"
+  },
+  {
+   "part": 1,
+   "uz": "Ushbu kamera qimmat emas.",
+   "en": [
+    "It isn't expensive."
+   ],
+   "rule": "It + isn't + sifat"
+  }
+ ],
+ "tr51": [
+  {
+   "part": 1,
+   "uz": "U doktor emas.",
+   "en": [
+    "He isn't a doctor.",
+    "She isn't a doctor."
+   ],
+   "rule": "Uchinchi shaxs birlikda isn't ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "U uylangan emas.",
+   "en": [
+    "He isn't married.",
+    "She isn't married."
+   ],
+   "rule": "Uylangan emas uchun isn't married."
+  },
+  {
+   "part": 1,
+   "uz": "Bu shahar uncha yaxshi emas.",
+   "en": [
+    "It isn't a fantastic city."
+   ],
+   "rule": "Narsalar uchun isn't qo'llaniladi."
+  },
+  {
+   "part": 1,
+   "uz": "U kasalxonada emas.",
+   "en": [
+    "He isn't at the hospital.",
+    "She isn't at the hospital."
+   ],
+   "rule": "Joylar bilan isn't ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "U maktabda emas.",
+   "en": [
+    "He isn't at school.",
+    "She isn't at school."
+   ],
+   "rule": "Maktabda emas - isn't at school."
+  },
+  {
+   "part": 1,
+   "uz": "Uning akasi quruvchi emas.",
+   "en": [
+    "His brother isn't a builder."
+   ],
+   "rule": "Egalik va isn't birga keladi."
+  },
+  {
+   "part": 1,
+   "uz": "Uning opasi hamshira emas.",
+   "en": [
+    "His sister isn't a nurse."
+   ],
+   "rule": "Ayol kishi uchun isn't nurse."
+  },
+  {
+   "part": 1,
+   "uz": "Bu mashina yangi emas.",
+   "en": [
+    "It isn't a new car."
+   ],
+   "rule": "Birlikdagi narsa inkorida isn't."
+  },
+  {
+   "part": 1,
+   "uz": "Bu uy katta emas.",
+   "en": [
+    "It isn't a big house."
+   ],
+   "rule": "Katta emas uchun isn't big."
+  },
+  {
+   "part": 1,
+   "uz": "U shoir emas.",
+   "en": [
+    "He isn't a singer."
+   ],
+   "rule": "Kasblar inkorida isn't ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "U biznesmen emas.",
+   "en": [
+    "He isn't a businessman."
+   ],
+   "rule": "Erkak kishi kasbi inkorida isn't."
+  },
+  {
+   "part": 1,
+   "uz": "U erda emas.",
+   "en": [
+    "He isn't over there.",
+    "She isn't over there."
+   ],
+   "rule": "U erda emas - isn't over there."
+  },
+  {
+   "part": 1,
+   "uz": "Ob-havo yaxshi emas.",
+   "en": [
+    "It isn't a lovely day.",
+    "The weather isn't good."
+   ],
+   "rule": "Ob-havo uchun isn't qo'llaniladi."
+  },
+  {
+   "part": 1,
+   "uz": "U Shvetsiyadan emas.",
+   "en": [
+    "He isn't from Sweden.",
+    "She isn't from Sweden."
+   ],
+   "rule": "Mamlakatdan emas uchun isn't from."
+  },
+  {
+   "part": 1,
+   "uz": "U Irlandiyadan emas.",
+   "en": [
+    "He isn't from Ireland.",
+    "She isn't from Ireland."
+   ],
+   "rule": "Ireland so'zi bilan isn't from."
+  },
+  {
+   "part": 1,
+   "uz": "Bu xona kichkina emas.",
+   "en": [
+    "It isn't a small room."
+   ],
+   "rule": "Birlikdagi xona inkorida isn't."
+  },
+  {
+   "part": 1,
+   "uz": "U Toshkentdan emas.",
+   "en": [
+    "He isn't from Tashkent.",
+    "She isn't from Tashkent."
+   ],
+   "rule": "Shahardan emas - isn't from."
+  },
+  {
+   "part": 1,
+   "uz": "Uning ismi Aziz emas.",
+   "en": [
+    "His name isn't Aziz."
+   ],
+   "rule": "Ism inkorida isn't ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Uning familiyasi Toshmatov emas.",
+   "en": [
+    "Her surname isn't Tashmatov."
+   ],
+   "rule": "Familiya inkorida isn't."
+  },
+  {
+   "part": 1,
+   "uz": "Bu kitob qiziqarli emas.",
+   "en": [
+    "It isn't an interesting book."
+   ],
+   "rule": "Qiziqarli emas - isn't interesting."
+  },
+  {
+   "part": 2,
+   "uz": "Biz Amerikadan emasmiz.",
+   "en": [
+    "We aren't from America."
+   ],
+   "rule": "Biz so'zi uchun aren't ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Siz doktor emassiz.",
+   "en": [
+    "You aren't a doctor."
+   ],
+   "rule": "Siz so'zi uchun aren't."
+  },
+  {
+   "part": 2,
+   "uz": "Ular ispan emas.",
+   "en": [
+    "They aren't from Spain."
+   ],
+   "rule": "Ular so'zi uchun aren't from."
+  },
+  {
+   "part": 2,
+   "uz": "Ular uylangan emas.",
+   "en": [
+    "They aren't married."
+   ],
+   "rule": "Ko'plikda uylangan emas - aren't married."
+  },
+  {
+   "part": 2,
+   "uz": "Biz shahar markazida emasmiz.",
+   "en": [
+    "We aren't in the town centre."
+   ],
+   "rule": "Joylar inkorida aren't ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Ular uyda emasmiz.",
+   "en": [
+    "We aren't at home."
+   ],
+   "rule": "Uyda emasmiz uchun we aren't."
+  },
+  {
+   "part": 2,
+   "uz": "Siz Shvetsiyadan emassiz.",
+   "en": [
+    "You aren't from Sweden."
+   ],
+   "rule": "Siz emassiz - you aren't."
+  },
+  {
+   "part": 2,
+   "uz": "Ular sayohatda emas.",
+   "en": [
+    "They aren't on holiday."
+   ],
+   "rule": "Sayohatda emas - aren't on holiday."
+  },
+  {
+   "part": 2,
+   "uz": "Biz o'qituvchi emasmiz.",
+   "en": [
+    "We aren't teachers."
+   ],
+   "rule": "Ko'plik kasblar inkorida aren't."
+  },
+  {
+   "part": 2,
+   "uz": "Siz talaba emassiz.",
+   "en": [
+    "You aren't a student.",
+    "You aren't students."
+   ],
+   "rule": "Siz talaba emassiz - you aren't."
+  },
+  {
+   "part": 2,
+   "uz": "Ular politsiyachi emas.",
+   "en": [
+    "They aren't police officers."
+   ],
+   "rule": "Ular politsiyachi emas - aren't."
+  },
+  {
+   "part": 2,
+   "uz": "Bu sumkalar yangi emas.",
+   "en": [
+    "These bags aren't new."
+   ],
+   "rule": "Ko'plik narsalar inkorida aren't."
+  },
+  {
+   "part": 2,
+   "uz": "Bu kitoblar qiziqarli emas.",
+   "en": [
+    "These books aren't interesting."
+   ],
+   "rule": "Kitoblar uchun aren't interesting."
+  },
+  {
+   "part": 2,
+   "uz": "Ular do'konda emas.",
+   "en": [
+    "They aren't at the shop."
+   ],
+   "rule": "Joylar uchun aren't ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Biz charchagan emasmiz.",
+   "en": [
+    "We aren't tired."
+   ],
+   "rule": "Holat inkorida aren't tired."
+  },
+  {
+   "part": 2,
+   "uz": "Siz xursand emassiz.",
+   "en": [
+    "You aren't happy."
+   ],
+   "rule": "Siz xursand emassiz - you aren't."
+  },
+  {
+   "part": 2,
+   "uz": "Ular Irlandiyadan emas.",
+   "en": [
+    "They aren't from Ireland."
+   ],
+   "rule": "Ular Irlandiyadan emas - aren't from."
+  },
+  {
+   "part": 2,
+   "uz": "Bu mashinalar qimmat emas.",
+   "en": [
+    "These cars aren't new."
+   ],
+   "rule": "Mashinalar inkorida aren't."
+  },
+  {
+   "part": 2,
+   "uz": "Biz Londondan emasmiz.",
+   "en": [
+    "We aren't from London."
+   ],
+   "rule": "Shahardan emasmiz - we aren't from."
+  },
+  {
+   "part": 2,
+   "uz": "Ular stansiyada emas.",
+   "en": [
+    "They aren't at the station."
+   ],
+   "rule": "Stansiyada emas - aren't at station."
+  },
+  {
+   "part": 2,
+   "uz": "Biz shifoxonada emasmiz.",
+   "en": [
+    "We aren't at the hospital."
+   ],
+   "rule": "Shifoxonada emasmiz uchun aren't."
+  },
+  {
+   "part": 2,
+   "uz": "Siz kechikkan emassiz.",
+   "en": [
+    "You aren't late."
+   ],
+   "rule": "Siz kechikmadingiz - you aren't late."
+  },
+  {
+   "part": 2,
+   "uz": "Ular ingliz emas.",
+   "en": [
+    "They aren't English."
+   ],
+   "rule": "Millat inkorida aren't ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu stollar katta emas.",
+   "en": [
+    "These tables aren't big."
+   ],
+   "rule": "Ko'plik stollar inkorida aren't."
+  },
+  {
+   "part": 2,
+   "uz": "Ular do'stlar emas.",
+   "en": [
+    "They aren't friends."
+   ],
+   "rule": "Do'stlar emas - aren't friends."
+  },
+  {
+   "part": 2,
+   "uz": "Biz biznesmen emasmiz.",
+   "en": [
+    "We aren't businessmen."
+   ],
+   "rule": "Biznesmen emasmiz - we aren't."
+  },
+  {
+   "part": 2,
+   "uz": "Siz Shotlandiyadan emassiz.",
+   "en": [
+    "You aren't from Scotland."
+   ],
+   "rule": "Shotlandiyadan emassiz - aren't from."
+  },
+  {
+   "part": 2,
+   "uz": "Ular bu yerda emas.",
+   "en": [
+    "They aren't here."
+   ],
+   "rule": "Bu yerda emas - aren't here."
+  },
+  {
+   "part": 2,
+   "uz": "Bu kompyuterlar eski emas.",
+   "en": [
+    "These computers aren't old."
+   ],
+   "rule": "Kompyuterlar inkorida aren't."
+  },
+  {
+   "part": 2,
+   "uz": "Biz hozir band emasmiz.",
+   "en": [
+    "We aren't busy now."
+   ],
+   "rule": "Hozir band emasmiz - aren't busy."
+  }
+ ],
+ "intro": {
+  "what": "Verb to be ning inkor shakli (I'm not, isn't, aren't) gapda biror narsa yoki holatning yo'qligini, to'g'ri emasligini bildirish uchun ishlatiladi.",
+  "when": [
+   "Kasbni inkor qilishda (I'm not a doctor)",
+   "Millat yoki joyni inkor qilishda (They aren't from Spain)",
+   "Holat va sifatlarni inkor qilishda (She isn't married)"
+  ],
+  "structures": [
+   {
+    "label": "(+)",
+    "formula": "S + TOBE + OB",
+    "example_en": "I am a student.",
+    "example_uz": "Men talabaman."
+   },
+   {
+    "label": "(-)",
+    "formula": "S + TOBE + NOT + OB",
+    "example_en": "I'm not a teacher.",
+    "example_uz": "Men o'qituvchi emasman."
+   },
+   {
+    "label": "(- he/she/it)",
+    "formula": "HE / SHE / IT + ISN'T + OB",
+    "example_en": "She isn't married.",
+    "example_uz": "U turmushga chiqmagan."
+   },
+   {
+    "label": "(- we/you/they)",
+    "formula": "WE / YOU / THEY + AREN'T + OB",
+    "example_en": "They aren't from Spain.",
+    "example_uz": "Ular Ispaniyadan emas."
+   }
+  ],
+  "rules": [
+   {
+    "title": "Qisqartma shakllar",
+    "text": "Inkor gaplarda tobe fe'li va not so'zi ko'pincha qisqartirib yoziladi va og'zaki nutqda ishlatiladi.",
+    "examples": [
+     {
+      "en": "He is not a doctor -> He isn't a doctor.",
+      "uz": "U doktor emas."
+     },
+     {
+      "en": "They are not from London -> They aren't from London.",
+      "uz": "Ular Londondan emas."
+     }
+    ]
+   },
+   {
+    "title": "I olmoshining inkor shakli",
+    "text": "I olmoshidan keyin faqat 'am not' ishlatiladi, 'amn't' deb yozib bo'lmaydi.",
+    "examples": [
+     {
+      "en": "I'm not tired today.",
+      "uz": "Men bugun charchagan emasman."
+     },
+     {
+      "en": "I'm not a businessman.",
+      "uz": "Men tadbirkor emasman."
+     }
+    ]
+   }
+  ],
+  "signal_words": [],
+  "mistakes": [
+   {
+    "wrong": "She aren't a teacher.",
+    "right": "She isn't a teacher.",
+    "why": "She, he, it olmoshlari bilan are emas, is (isn't) ishlatiladi."
+   },
+   {
+    "wrong": "I is not from Tashkent.",
+    "right": "I'm not from Tashkent.",
+    "why": "I olmoshidan keyin doimo am (am not) keladi."
+   },
+   {
+    "wrong": "They isn't doctors.",
+    "right": "They aren't doctors.",
+    "why": "They, we, you olmoshlari bilan are (aren't) ishlatiladi."
+   }
+  ]
+ },
+ "test": [
+  {
+   "type": "fill",
+   "q": "I ______ a teacher.",
+   "answer": "'m not",
+   "explain": "I olmoshidan keyin inkor shaklda 'm not ishlatiladi.",
+   "accept": [
+    "am not"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "She ______ married.",
+   "answer": "isn't",
+   "explain": "She olmoshidan keyin is not (isn't) ishlatiladi.",
+   "accept": [
+    "is not"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "They ______ from Spain.",
+   "answer": "aren't",
+   "explain": "They olmoshidan keyin are not (aren't) ishlatiladi.",
+   "accept": [
+    "are not"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "He ______ a doctor.",
+   "answer": "isn't",
+   "explain": "He olmoshidan keyin is not (isn't) ishlatiladi.",
+   "accept": [
+    "is not"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "We ______ from England.",
+   "answer": "aren't",
+   "explain": "We olmoshidan keyin are not (aren't) ishlatiladi.",
+   "accept": [
+    "are not"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "You ______ a bus driver.",
+   "answer": "aren't",
+   "explain": "You olmoshidan keyin are not (aren't) ishlatiladi.",
+   "accept": [
+    "are not"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "It ______ a big house.",
+   "answer": "isn't",
+   "explain": "It olmoshidan keyin is not (isn't) ishlatiladi.",
+   "accept": [
+    "is not"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "I ______ tired today.",
+   "answer": "'m not",
+   "explain": "I olmoshining inkor shakli I'm not bo'ladi.",
+   "accept": [
+    "am not"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "Aziz ______ a businessman.",
+   "answer": "isn't",
+   "explain": "Aziz bu 'he' demakdir, shuning uchun isn't ishlatiladi.",
+   "accept": [
+    "is not"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "Malika and Anna ______ from America.",
+   "answer": "aren't",
+   "explain": "Malika and Anna - ko'plik (they), shuning uchun aren't ishlatiladi.",
+   "accept": [
+    "are not"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "This book ______ good.",
+   "answer": "isn't",
+   "explain": "This book - birlik (it), shuning uchun isn't ishlatiladi.",
+   "accept": [
+    "is not"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "These cameras ______ expensive.",
+   "answer": "aren't",
+   "explain": "These cameras - ko'plik, shuning uchun aren't ishlatiladi.",
+   "accept": [
+    "are not"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "My brother ______ a builder.",
+   "answer": "isn't",
+   "explain": "My brother - 'he', shuning uchun isn't ishlatiladi.",
+   "accept": [
+    "is not"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "Her friends ______ tired.",
+   "answer": "aren't",
+   "explain": "Her friends - ko'plik (they), shuning uchun aren't ishlatiladi.",
+   "accept": [
+    "are not"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "Tom ______ a shop assistant.",
+   "answer": "isn't",
+   "explain": "Tom - 'he', shuning uchun isn't ishlatiladi.",
+   "accept": [
+    "is not"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "I ______ a singer.",
+   "answer": "'m not",
+   "explain": "I olmoshidan keyin 'm not ishlatiladi.",
+   "accept": [
+    "am not"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "The weather ______ awful today.",
+   "answer": "isn't",
+   "explain": "The weather - 'it', shuning uchun isn't ishlatiladi.",
+   "accept": [
+    "is not"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "You ______ a police officer.",
+   "answer": "aren't",
+   "explain": "You olmoshidan keyin aren't ishlatiladi.",
+   "accept": [
+    "are not"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "His car ______ new.",
+   "answer": "isn't",
+   "explain": "His car - birlik (it), shuning uchun isn't ishlatiladi.",
+   "accept": [
+    "is not"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "We ______ on holiday.",
+   "answer": "aren't",
+   "explain": "We olmoshidan keyin aren't ishlatiladi.",
+   "accept": [
+    "are not"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "mc",
+   "q": "She ______ a nurse.",
+   "answer": "isn't",
+   "explain": "She olmoshidan keyin isn't ishlatiladi.",
+   "options": [
+    "aren't",
+    "isn't",
+    "'m not"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "I ______ from London.",
+   "answer": "'m not",
+   "explain": "I olmoshidan keyin 'm not ishlatiladi.",
+   "options": [
+    "'m not",
+    "isn't",
+    "aren't"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "They ______ students.",
+   "answer": "aren't",
+   "explain": "They olmoshidan keyin aren't ishlatiladi.",
+   "options": [
+    "isn't",
+    "aren't",
+    "'m not"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "He ______ a bus driver.",
+   "answer": "isn't",
+   "explain": "He olmoshidan keyin isn't ishlatiladi.",
+   "options": [
+    "aren't",
+    "'m not",
+    "isn't"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "You ______ from Spain.",
+   "answer": "aren't",
+   "explain": "You olmoshidan keyin aren't ishlatiladi.",
+   "options": [
+    "aren't",
+    "isn't",
+    "'m not"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "It ______ a big building.",
+   "answer": "isn't",
+   "explain": "It olmoshidan keyin isn't ishlatiladi.",
+   "options": [
+    "isn't",
+    "aren't",
+    "'m not"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "We ______ tired.",
+   "answer": "aren't",
+   "explain": "We olmoshidan keyin aren't ishlatiladi.",
+   "options": [
+    "'m not",
+    "isn't",
+    "aren't"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Aziz and Malika ______ doctors.",
+   "answer": "aren't",
+   "explain": "Aziz and Malika - ko'plik, shuning uchun aren't ishlatiladi.",
+   "options": [
+    "aren't",
+    "isn't",
+    "'m not"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "My bag ______ black.",
+   "answer": "isn't",
+   "explain": "My bag - birlik (it), shuning uchun isn't ishlatiladi.",
+   "options": [
+    "isn't",
+    "aren't",
+    "'m not"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "I ______ married.",
+   "answer": "'m not",
+   "explain": "I olmoshidan keyin 'm not ishlatiladi.",
+   "options": [
+    "isn't",
+    "aren't",
+    "'m not"
+   ]
+  }
+ ]
+}

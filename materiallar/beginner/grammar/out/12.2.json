@@ -1,0 +1,1189 @@
+{
+ "code": "12.2",
+ "intro": {
+  "what": "Some va any so'zlari sanaladigan va sanalmaydigan otlar bilan miqdor bildirish uchun ishlatiladi. Some darak gaplarda va takliflarda, any esa inkor va so'roq gaplarda ishlatiladi.",
+  "when": [
+   "Darak gaplarda biror narsa borligini aytish uchun some ishlatiladi.",
+   "Taklif yoki iltimos bildirganda some ishlatiladi.",
+   "Inkor gaplarda narsa yo'qligini bildirish uchun any ishlatiladi.",
+   "So'roq gaplarda any ishlatiladi."
+  ],
+  "structures": [
+   {
+    "label": "(+)",
+    "formula": "[ S + HAVE + SOME + OB ]",
+    "example_en": "I have some bread.",
+    "example_uz": "Mening ozgina nonim bor."
+   },
+   {
+    "label": "Offers",
+    "formula": "[ WOULD YOU LIKE + SOME + OB ]",
+    "example_en": "Would you like some tea?",
+    "example_uz": "Choy xohlaysizmi?"
+   },
+   {
+    "label": "(-)",
+    "formula": "[ S + DO/DOES + NOT + HAVE + ANY + OB ]",
+    "example_en": "I don't have any money.",
+    "example_uz": "Mening pulim yo'q."
+   },
+   {
+    "label": "(?)",
+    "formula": "[ DO/DOES + S + HAVE + ANY + OB ]",
+    "example_en": "Do you have any apples?",
+    "example_uz": "Sizda olmalar bormi?"
+   }
+  ],
+  "rules": [
+   {
+    "title": "Some in positive sentences",
+    "text": "Some so'zi darak gaplarda ham sanaladigan ko'plik otlar, ham sanalmaydigan otlar bilan ishlatiladi.",
+    "examples": [
+     {
+      "en": "There is some milk in the fridge.",
+      "uz": "Muzlatgichda ozgina sut bor."
+     },
+     {
+      "en": "I have some apples.",
+      "uz": "Mening olmalarim bor."
+     }
+    ]
+   },
+   {
+    "title": "Any in negative and question sentences",
+    "text": "Any so'zi inkor va so'roq gaplarda some o'rniga ishlatiladi.",
+    "examples": [
+     {
+      "en": "There aren't any bananas.",
+      "uz": "Bananlar yo'q."
+     },
+     {
+      "en": "Do you have any water?",
+      "uz": "Sizda suv bormi?"
+     }
+    ]
+   },
+   {
+    "title": "Offers with some",
+    "text": "Taklif bildirganimizda, so'roq gap bo'lishiga qaramay any emas, some ishlatamiz.",
+    "examples": [
+     {
+      "en": "Would you like some coffee?",
+      "uz": "Kofe xohlaysizmi?"
+     },
+     {
+      "en": "Can I have some water, please?",
+      "uz": "Bir oz suv olsam bo'ladimi, iltimos?"
+     }
+    ]
+   }
+  ],
+  "signal_words": [],
+  "mistakes": [
+   {
+    "wrong": "I have any bread.",
+    "right": "I have some bread.",
+    "why": "Darak gaplarda any emas, some ishlatiladi."
+   },
+   {
+    "wrong": "I don't have some milk.",
+    "right": "I don't have any milk.",
+    "why": "Inkor gaplarda some emas, any ishlatiladi."
+   },
+   {
+    "wrong": "Do you have some apples?",
+    "right": "Do you have any apples?",
+    "why": "Oddiy so'roq gaplarda any ishlatiladi, some faqat takliflarda keladi."
+   }
+  ]
+ },
+ "test": [
+  {
+   "type": "fill",
+   "q": "I have ______ bread.",
+   "answer": "some",
+   "explain": "Darak gapda sanalmaydigan ot bilan some ishlatiladi.",
+   "accept": [],
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "I don't have ______ money.",
+   "answer": "any",
+   "explain": "Inkor gapda any ishlatiladi.",
+   "accept": [],
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "Do you have ______ water?",
+   "answer": "any",
+   "explain": "Oddiy so'roq gapda any ishlatiladi.",
+   "accept": [],
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "Would you like ______ tea?",
+   "answer": "some",
+   "explain": "Taklif bildirganda so'roq gapda some ishlatiladi.",
+   "accept": [],
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "There are ______ apples on the table.",
+   "answer": "some",
+   "explain": "Darak gapda sanaladigan ko'plik ot bilan some ishlatiladi.",
+   "accept": [],
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "Are there ______ students in the room?",
+   "answer": "any",
+   "explain": "So'roq gapda any ishlatiladi.",
+   "accept": [],
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "There isn't ______ milk in the fridge.",
+   "answer": "any",
+   "explain": "Inkor gapda any ishlatiladi.",
+   "accept": [],
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "Can I have ______ coffee, please?",
+   "answer": "some",
+   "explain": "Iltimos yoki taklif qilganda some ishlatiladi.",
+   "accept": [],
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "We need ______ cheese for the sandwich.",
+   "answer": "some",
+   "explain": "Darak gapda some ishlatiladi.",
+   "accept": [],
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "She doesn't want ______ apples.",
+   "answer": "any",
+   "explain": "Inkor gapda any ishlatiladi.",
+   "accept": [],
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "Do you have ______ brothers?",
+   "answer": "any",
+   "explain": "So'roq gapda any ishlatiladi.",
+   "accept": [],
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "I would like ______ juice.",
+   "answer": "some",
+   "explain": "Xohish va taklif bildirganda some ishlatiladi.",
+   "accept": [],
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "There is ______ rice on the table.",
+   "answer": "some",
+   "explain": "Darak gapda sanalmaydigan ot bilan some ishlatiladi.",
+   "accept": [],
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "Are there ______ chairs in the room?",
+   "answer": "any",
+   "explain": "So'roq gapda any ishlatiladi.",
+   "accept": [],
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "He doesn't have ______ friends here.",
+   "answer": "any",
+   "explain": "Inkor gapda any ishlatiladi.",
+   "accept": [],
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "Would you like ______ fruit?",
+   "answer": "some",
+   "explain": "Taklif qilganda some ishlatiladi.",
+   "accept": [],
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "I bought ______ oranges today.",
+   "answer": "some",
+   "explain": "Darak gapda some ishlatiladi.",
+   "accept": [],
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "We don't have ______ sugar.",
+   "answer": "any",
+   "explain": "Inkor gapda any ishlatiladi.",
+   "accept": [],
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "Is there ______ coffee in the cup?",
+   "answer": "any",
+   "explain": "So'roq gapda any ishlatiladi.",
+   "accept": [],
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "They have ______ nice cars.",
+   "answer": "some",
+   "explain": "Darak gapda some ishlatiladi.",
+   "accept": [],
+   "hint": "some / any"
+  },
+  {
+   "type": "mc",
+   "q": "I have ______ water.",
+   "answer": "some",
+   "explain": "Darak gapda some ishlatiladi.",
+   "options": [
+    "some",
+    "any",
+    "a"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Do you have ______ sisters?",
+   "answer": "any",
+   "explain": "So'roq gapda any ishlatiladi.",
+   "options": [
+    "some",
+    "any",
+    "an"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "There isn't ______ bread.",
+   "answer": "any",
+   "explain": "Inkor gapda any ishlatiladi.",
+   "options": [
+    "some",
+    "any",
+    "a"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Would you like ______ apple?",
+   "answer": "an",
+   "explain": "Birlikdagi sanaladigan ot va unli tovush bilan a/an ishlatiladi.",
+   "options": [
+    "some",
+    "any",
+    "an"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "We have ______ eggs in the kitchen.",
+   "answer": "some",
+   "explain": "Darak gapda sanaladigan ko'plik ot bilan some ishlatiladi.",
+   "options": [
+    "some",
+    "any",
+    "a"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "She doesn't want ______ milk.",
+   "answer": "any",
+   "explain": "Inkor gapda any ishlatiladi.",
+   "options": [
+    "some",
+    "any",
+    "a"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Would you like ______ tea?",
+   "answer": "some",
+   "explain": "Taklif bildirganimizda so'roq gapda some ishlatiladi.",
+   "options": [
+    "any",
+    "some",
+    "a"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Is there ______ cheese in the fridge?",
+   "answer": "any",
+   "explain": "Oddiy so'roq gapda any ishlatiladi.",
+   "options": [
+    "some",
+    "any",
+    "a"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "I need ______ money.",
+   "answer": "some",
+   "explain": "Darak gapda some ishlatiladi.",
+   "options": [
+    "any",
+    "some",
+    "a"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "They don't have ______ children.",
+   "answer": "any",
+   "explain": "Inkor gapda any ishlatiladi.",
+   "options": [
+    "some",
+    "any",
+    "a"
+   ]
+  }
+ ],
+ "model": "gemini-3.5-flash-lite",
+ "tr1": [
+  {
+   "part": 0,
+   "uz": "Stolda olma bor.",
+   "en": [
+    "There is an apple on the table.",
+    "There is an apple on the desk."
+   ],
+   "rule": "Sanaladigan ot birlikda: a / an"
+  },
+  {
+   "part": 0,
+   "uz": "Sovutgichda non bor.",
+   "en": [
+    "There is some bread in the fridge."
+   ],
+   "rule": "Sanalmaydigan ot: some"
+  },
+  {
+   "part": 0,
+   "uz": "Bizda suv bor.",
+   "en": [
+    "We have some water."
+   ],
+   "rule": "Sanalmaydigan ot ijobiy gapda"
+  },
+  {
+   "part": 0,
+   "uz": "Unda pul bor.",
+   "en": [
+    "He has some money.",
+    "She has some money."
+   ],
+   "rule": "Money sanalmaydi, some ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Savatda tuxumlar bor.",
+   "en": [
+    "There are some eggs in the basket."
+   ],
+   "rule": "Sanaladigan ot ko'plikda"
+  },
+  {
+   "part": 0,
+   "uz": "Stakanda sut bor.",
+   "en": [
+    "There is some milk in the glass."
+   ],
+   "rule": "Sanalmaydigan ot: milk"
+  },
+  {
+   "part": 0,
+   "uz": "Menda shokolad bor.",
+   "en": [
+    "I have some chocolate."
+   ],
+   "rule": "Chocolate sanalmaydi"
+  },
+  {
+   "part": 0,
+   "uz": "Kafelda bananlar bor.",
+   "en": [
+    "There are some bananas in the cafe."
+   ],
+   "rule": "Sanaladigan ot ko'plikda"
+  },
+  {
+   "part": 0,
+   "uz": "Stolda choy bor.",
+   "en": [
+    "There is some tea on the table."
+   ],
+   "rule": "Tea sanalmaydi"
+  },
+  {
+   "part": 0,
+   "uz": "Sumkada kitoblar bor.",
+   "en": [
+    "There are some books in the bag."
+   ],
+   "rule": "Books sanaladigan ot"
+  },
+  {
+   "part": 0,
+   "uz": "Idishda meva bor.",
+   "en": [
+    "There is some fruit in the bowl."
+   ],
+   "rule": "Fruit ko'pincha sanalmaydi"
+  },
+  {
+   "part": 0,
+   "uz": "Oshxonada shakar bor.",
+   "en": [
+    "There is some sugar in the kitchen."
+   ],
+   "rule": "Sugar sanalmaydi"
+  },
+  {
+   "part": 0,
+   "uz": "Do'konda olma bor.",
+   "en": [
+    "There are some apples in the shop."
+   ],
+   "rule": "Apples sanaladigan ko'plik"
+  },
+  {
+   "part": 0,
+   "uz": "Stulda mushuk bor.",
+   "en": [
+    "There is a cat on the chair."
+   ],
+   "rule": "Birlikdagi sanaladigan ot: a"
+  },
+  {
+   "part": 0,
+   "uz": "Uydagi stol ustida olma bor.",
+   "en": [
+    "There is an apple on the table in the house."
+   ],
+   "rule": "Birlik: a/an"
+  },
+  {
+   "part": 0,
+   "uz": "Mening xonamda kompyuter bor.",
+   "en": [
+    "There is a computer in my room."
+   ],
+   "rule": "Birlikdagi ot"
+  },
+  {
+   "part": 0,
+   "uz": "Bog'da daraxt bor.",
+   "en": [
+    "There is a tree in the garden."
+   ],
+   "rule": "Birlikdagi ot bilan a"
+  },
+  {
+   "part": 0,
+   "uz": "Qishloqda do'kon bor.",
+   "en": [
+    "There is a shop in the village."
+   ],
+   "rule": "Birlikdagi sanaladigan ot"
+  },
+  {
+   "part": 0,
+   "uz": "Ko'chada mashina bor.",
+   "en": [
+    "There is a car in the street."
+   ],
+   "rule": "Birlik: a car"
+  },
+  {
+   "part": 0,
+   "uz": "Stolda qahva bor.",
+   "en": [
+    "There is some coffee on the table."
+   ],
+   "rule": "Coffee sanalmaydi"
+  },
+  {
+   "part": 0,
+   "uz": "Muzlatgichda olma bor.",
+   "en": [
+    "There is an apple in the fridge."
+   ],
+   "rule": "Apple sanaladi, birlikda a/an"
+  },
+  {
+   "part": 0,
+   "uz": "Bog'da bolalar bor.",
+   "en": [
+    "There are some children in the garden."
+   ],
+   "rule": "Children ko'plikdagi ot"
+  },
+  {
+   "part": 0,
+   "uz": "Do'konda non bor.",
+   "en": [
+    "There is some bread in the shop."
+   ],
+   "rule": "Bread sanalmaydi"
+  },
+  {
+   "part": 0,
+   "uz": "Peshtaxtada sendvichlar bor.",
+   "en": [
+    "There are some sandwiches on the counter."
+   ],
+   "rule": "Sandwiches ko'plikda"
+  },
+  {
+   "part": 0,
+   "uz": "Unda suv bor.",
+   "en": [
+    "He has some water.",
+    "She has some water."
+   ],
+   "rule": "Water sanalmaydi"
+  },
+  {
+   "part": 0,
+   "uz": "Stakanda sharbat bor.",
+   "en": [
+    "There is some juice in the glass."
+   ],
+   "rule": "Juice sanalmaydi"
+  },
+  {
+   "part": 0,
+   "uz": "Mening sumkamda qalam bor.",
+   "en": [
+    "There is a pen in my bag."
+   ],
+   "rule": "Pen sanaladigan birlik"
+  },
+  {
+   "part": 0,
+   "uz": "Stolda xat bor.",
+   "en": [
+    "There is a letter on the table."
+   ],
+   "rule": "Letter sanaladigan birlik"
+  },
+  {
+   "part": 0,
+   "uz": "Xonada odamlar bor.",
+   "en": [
+    "There are some people in the room."
+   ],
+   "rule": "People ko'plikdagi ot"
+  },
+  {
+   "part": 0,
+   "uz": "Muzlatgichda go'sht bor.",
+   "en": [
+    "There is some meat in the fridge."
+   ],
+   "rule": "Meat sanalmaydi"
+  },
+  {
+   "part": 0,
+   "uz": "Ko'chada avtobus bor.",
+   "en": [
+    "There is a bus in the street."
+   ],
+   "rule": "Bus sanaladigan birlik"
+  },
+  {
+   "part": 0,
+   "uz": "Stolda pishloq bor.",
+   "en": [
+    "There is some cheese on the table."
+   ],
+   "rule": "Cheese sanalmaydi"
+  },
+  {
+   "part": 0,
+   "uz": "Savatda olma bor.",
+   "en": [
+    "There are some apples in the basket."
+   ],
+   "rule": "Apples ko'plikdagi ot"
+  },
+  {
+   "part": 0,
+   "uz": "Kafeda muzqaymoq bor.",
+   "en": [
+    "There is some ice cream in the cafe."
+   ],
+   "rule": "Ice cream sanalmaydi"
+  },
+  {
+   "part": 0,
+   "uz": "Uydan mushukni top!",
+   "en": [
+    "Find a cat in the house."
+   ],
+   "rule": "Birlikdagi ot: a"
+  },
+  {
+   "part": 0,
+   "uz": "Mening do'stimda mashina bor.",
+   "en": [
+    "My friend has a car."
+   ],
+   "rule": "Car sanaladigan birlik"
+  },
+  {
+   "part": 0,
+   "uz": "Bog'da it bor.",
+   "en": [
+    "There is a dog in the garden."
+   ],
+   "rule": "Dog sanaladigan birlik"
+  },
+  {
+   "part": 0,
+   "uz": "Peshtaxtada tort bor.",
+   "en": [
+    "There is some cake on the counter."
+   ],
+   "rule": "Cake bu yerda massa ma'nosida"
+  },
+  {
+   "part": 0,
+   "uz": "Stolda ikkita stakan bor.",
+   "en": [
+    "There are two glasses on the table."
+   ],
+   "rule": "Ko'plikdagi otlar"
+  },
+  {
+   "part": 0,
+   "uz": "Idishda guruch bor.",
+   "en": [
+    "There is some rice in the bowl."
+   ],
+   "rule": "Rice sanalmaydi"
+  },
+  {
+   "part": 1,
+   "uz": "Sizga choy kerakmi?",
+   "en": [
+    "Would you like some tea?"
+   ],
+   "rule": "Taklif qilishda: some"
+  },
+  {
+   "part": 1,
+   "uz": "Menga ozgina suv bering.",
+   "en": [
+    "Give me some water, please."
+   ],
+   "rule": "Ijobiy iltimosda: some"
+  },
+  {
+   "part": 1,
+   "uz": "Bizda ozgina pul bor.",
+   "en": [
+    "We have some money."
+   ],
+   "rule": "Ijobiy gap: some"
+  },
+  {
+   "part": 1,
+   "uz": "Sizga qahva kerakmi?",
+   "en": [
+    "Would you like some coffee?"
+   ],
+   "rule": "Taklif: Would you like some"
+  },
+  {
+   "part": 1,
+   "uz": "Menga ozgina non bering.",
+   "en": [
+    "Give me some bread, please."
+   ],
+   "rule": "Iltimos: some"
+  },
+  {
+   "part": 1,
+   "uz": "Stolda ozgina olma bor.",
+   "en": [
+    "There are some apples on the table."
+   ],
+   "rule": "Ijobiy ko'plik: some"
+  },
+  {
+   "part": 1,
+   "uz": "Unda ozgina vaqt bor.",
+   "en": [
+    "He has some time.",
+    "She has some time."
+   ],
+   "rule": "Ijobiy gap: some"
+  },
+  {
+   "part": 1,
+   "uz": "Menga ozgina shokolad bering.",
+   "en": [
+    "Give me some chocolate, please."
+   ],
+   "rule": "Iltimosda some ishlatiladi"
+  },
+  {
+   "part": 1,
+   "uz": "Sizga muzqaymoq kerakmi?",
+   "en": [
+    "Would you like some ice cream?"
+   ],
+   "rule": "Taklifda: some"
+  },
+  {
+   "part": 1,
+   "uz": "Menda ozgina do'stlar bor.",
+   "en": [
+    "I have some friends."
+   ],
+   "rule": "Ijobiy ko'plik: some"
+  }
+ ],
+ "tr51": [
+  {
+   "part": 1,
+   "uz": "Bizga ozgina non kerak.",
+   "en": [
+    "We need some bread."
+   ],
+   "rule": "Sanalmaydigan ot bilan 'some' tasdiq gapda ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Menda ozgina pul bor.",
+   "en": [
+    "I have some money."
+   ],
+   "rule": "Sanalmaydigan ot bilan tasdiq gapda 'some'."
+  },
+  {
+   "part": 1,
+   "uz": "Stolda ozgina olma bor.",
+   "en": [
+    "There are some apples on the table.",
+    "There are some apples on the desk."
+   ],
+   "rule": "Sanaladigan ko'plik ot bilan tasdiq gapda 'some'."
+  },
+  {
+   "part": 1,
+   "uz": "Menga ozgina suv bering, iltimos.",
+   "en": [
+    "Give me some water, please."
+   ],
+   "rule": "Sanalmaydigan ot bilan 'some' iltimos va buyruqda."
+  },
+  {
+   "part": 1,
+   "uz": "Sizga ozgina choy kerakmi?",
+   "en": [
+    "Would you like some tea?"
+   ],
+   "rule": "Taklif qilishda sanalmaydigan ot bilan 'some' ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bizda ozgina sariyog' bor.",
+   "en": [
+    "We have some butter."
+   ],
+   "rule": "Tasdiq gapda sanalmaydigan ot oldidan 'some'."
+  },
+  {
+   "part": 1,
+   "uz": "Menga ozgina kofe bering, iltimos.",
+   "en": [
+    "Give me some coffee, please."
+   ],
+   "rule": "Sanalmaydigan ot bilan 'some' iltimos qilishda."
+  },
+  {
+   "part": 1,
+   "uz": "Sumkada ozgina kitoblar bor.",
+   "en": [
+    "There are some books in the bag."
+   ],
+   "rule": "Sanaladigan ko'plik ot bilan 'some'."
+  },
+  {
+   "part": 1,
+   "uz": "Mening ozgina do'stlarim bor.",
+   "en": [
+    "I have some friends."
+   ],
+   "rule": "Sanaladigan otning ko'pligida tasdiq gapda 'some'."
+  },
+  {
+   "part": 1,
+   "uz": "Stolda ozgina shokolad bor.",
+   "en": [
+    "There is some chocolate on the table.",
+    "There is some chocolate on the desk."
+   ],
+   "rule": "Sanalmaydigan ot bilan tasdiq gapda 'some'."
+  },
+  {
+   "part": 1,
+   "uz": "Bizda ozgina olma sharbati bor.",
+   "en": [
+    "We have some juice."
+   ],
+   "rule": "Tasdiq gapda sanalmaydigan ot bilan 'some'."
+  },
+  {
+   "part": 1,
+   "uz": "Sizga ozgina qahva xohlaysizmi?",
+   "en": [
+    "Would you like some coffee?"
+   ],
+   "rule": "Taklif qilishda 'Would you like some ...' ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Unda ozgina pul bor.",
+   "en": [
+    "He has some money.",
+    "She has some money."
+   ],
+   "rule": "Sanalmaydigan ot bilan tasdiq gapda 'some'."
+  },
+  {
+   "part": 1,
+   "uz": "Bog'da ozgina bolalar bor.",
+   "en": [
+    "There are some children in the garden."
+   ],
+   "rule": "Sanaladigan ko'plik ot bilan 'some' tasdiqda."
+  },
+  {
+   "part": 1,
+   "uz": "Menga ozgina sut bering, iltimos.",
+   "en": [
+    "Give me some milk, please."
+   ],
+   "rule": "Iltimos qilishda sanalmaydigan ot bilan 'some'."
+  },
+  {
+   "part": 1,
+   "uz": "Ularda ozgina yangi mashinalar bor.",
+   "en": [
+    "They have some new cars."
+   ],
+   "rule": "Sanaladigan ko'plik otlar bilan tasdiq gapda 'some'."
+  },
+  {
+   "part": 1,
+   "uz": "Stulda ozgina kiyimlar bor.",
+   "en": [
+    "There are some clothes on the chair."
+   ],
+   "rule": "Sanaladigan ko'plik ot bilan tasdiqda 'some'."
+  },
+  {
+   "part": 1,
+   "uz": "Menda ozgina vaqt bor.",
+   "en": [
+    "I have some time."
+   ],
+   "rule": "Sanalmaydigan ot bilan tasdiqda 'some'."
+  },
+  {
+   "part": 1,
+   "uz": "Menga ozgina olma bering, iltimos.",
+   "en": [
+    "Give me some apples, please."
+   ],
+   "rule": "Sanaladigan ko'plik ot bilan iltimosda 'some'."
+  },
+  {
+   "part": 1,
+   "uz": "Muzlatgichda ozgina sut bor.",
+   "en": [
+    "There is some milk in the fridge."
+   ],
+   "rule": "Sanalmaydigan ot bilan tasdiqda 'some'."
+  },
+  {
+   "part": 2,
+   "uz": "Menda non yo'q.",
+   "en": [
+    "I don't have any bread."
+   ],
+   "rule": "Bo'lishsiz gapda sanalmaydigan ot bilan 'any' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Stolda olmalar yo'q.",
+   "en": [
+    "There aren't any apples on the table.",
+    "There aren't any apples on the desk."
+   ],
+   "rule": "Bo'lishsiz gapda sanaladigan ko'plik ot bilan 'any'."
+  },
+  {
+   "part": 2,
+   "uz": "Sizda pul bormi?",
+   "en": [
+    "Do you have any money?"
+   ],
+   "rule": "So'roq gapda sanalmaydigan ot bilan 'any' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Sumkada kitoblar yo'q.",
+   "en": [
+    "There aren't any books in the bag."
+   ],
+   "rule": "Bo'lishsiz gapda sanaladigan ko'plik ot bilan 'any'."
+  },
+  {
+   "part": 2,
+   "uz": "Stakanda suv bormi?",
+   "en": [
+    "Is there any water in the glass?"
+   ],
+   "rule": "So'roq gapda sanalmaydigan ot bilan 'any'."
+  },
+  {
+   "part": 2,
+   "uz": "Menda suv yo'q.",
+   "en": [
+    "I don't have any water."
+   ],
+   "rule": "Bo'lishsiz gapda sanalmaydigan ot bilan 'any'."
+  },
+  {
+   "part": 2,
+   "uz": "Bog'da bolalar yo'q.",
+   "en": [
+    "There aren't any children in the garden."
+   ],
+   "rule": "Bo'lishsiz gapda sanaladigan ko'plik ot bilan 'any'."
+  },
+  {
+   "part": 2,
+   "uz": "Ularda mashinalar yo'q.",
+   "en": [
+    "They don't have any cars."
+   ],
+   "rule": "Bo'lishsiz gapda sanaladigan ko'plik ot bilan 'any'."
+  },
+  {
+   "part": 2,
+   "uz": "Muzlatgichda sut bormi?",
+   "en": [
+    "Is there any milk in the fridge?"
+   ],
+   "rule": "So'roq gapda sanalmaydigan ot bilan 'any'."
+  },
+  {
+   "part": 2,
+   "uz": "Menda vaqt yo'q.",
+   "en": [
+    "I don't have any time."
+   ],
+   "rule": "Bo'lishsiz gapda sanalmaydigan ot bilan 'any'."
+  },
+  {
+   "part": 2,
+   "uz": "Stolda qahva yo'q.",
+   "en": [
+    "There isn't any coffee on the table.",
+    "There isn't any coffee on the desk."
+   ],
+   "rule": "Bo'lishsiz gapda sanalmaydigan ot bilan 'any'."
+  },
+  {
+   "part": 2,
+   "uz": "Sizda do'stlar bormi?",
+   "en": [
+    "Do you have any friends?"
+   ],
+   "rule": "So'roq gapda sanaladigan ko'plik ot bilan 'any'."
+  },
+  {
+   "part": 2,
+   "uz": "Uydan choy topa olmaysiz.",
+   "en": [
+    "You don't have any tea at home."
+   ],
+   "rule": "Bo'lishsiz gapda sanalmaydigan ot bilan 'any'."
+  },
+  {
+   "part": 2,
+   "uz": "Shaharda mehmonxonalar bormi?",
+   "en": [
+    "Are there any hotels in the town?"
+   ],
+   "rule": "So'roq gapda sanaladigan ko'plik ot bilan 'any'."
+  },
+  {
+   "part": 2,
+   "uz": "Menda shokolad yo'q.",
+   "en": [
+    "I don't have any chocolate."
+   ],
+   "rule": "Bo'lishsiz gapda sanalmaydigan ot bilan 'any'."
+  },
+  {
+   "part": 2,
+   "uz": "Idishda apelsin sharbati bormi?",
+   "en": [
+    "Is there any juice in the glass?"
+   ],
+   "rule": "So'roq gapda sanalmaydigan ot bilan 'any'."
+  },
+  {
+   "part": 2,
+   "uz": "Mening akamda xat yo'q.",
+   "en": [
+    "My brother doesn't have any letters."
+   ],
+   "rule": "Bo'lishsiz gapda sanaladigan ko'plik ot bilan 'any'."
+  },
+  {
+   "part": 2,
+   "uz": "Unda hech qanday yangi ko'ylaklar yo'q.",
+   "en": [
+    "She doesn't have any new dresses."
+   ],
+   "rule": "Bo'lishsiz gapda sanaladigan ko'plik ot bilan 'any'."
+  },
+  {
+   "part": 2,
+   "uz": "Stolda qalamlar bormi?",
+   "en": [
+    "Are there any pencils on the table.",
+    "Are there any pencils on the desk."
+   ],
+   "rule": "So'roq gapda sanaladigan ko'plik ot bilan 'any'."
+  },
+  {
+   "part": 2,
+   "uz": "Menda sariq olma yo'q.",
+   "en": [
+    "I don't have any yellow apples."
+   ],
+   "rule": "Bo'lishsiz gapda sanaladigan ko'plik ot bilan 'any'."
+  },
+  {
+   "part": 2,
+   "uz": "Do'konda non yo'q.",
+   "en": [
+    "There isn't any bread in the shop."
+   ],
+   "rule": "Bo'lishsiz gapda sanalmaydigan ot bilan 'any'."
+  },
+  {
+   "part": 2,
+   "uz": "Sizda choy bormi?",
+   "en": [
+    "Do you have any tea?"
+   ],
+   "rule": "So'roq gapda sanalmaydigan ot bilan 'any'."
+  },
+  {
+   "part": 2,
+   "uz": "Xonada odamlar yo'q.",
+   "en": [
+    "There aren't any people in the room."
+   ],
+   "rule": "Bo'lishsiz gapda sanaladigan ko'plik ot bilan 'any'."
+  },
+  {
+   "part": 2,
+   "uz": "Unda pul bormi?",
+   "en": [
+    "Does he have any money?",
+    "Does she have any money?"
+   ],
+   "rule": "So'roq gapda sanalmaydigan ot bilan 'any'."
+  },
+  {
+   "part": 2,
+   "uz": "Stolda muz yo'q.",
+   "en": [
+    "There isn't any ice on the table.",
+    "There isn't any ice on the desk."
+   ],
+   "rule": "Bo'lishsiz gapda sanalmaydigan ot bilan 'any'."
+  },
+  {
+   "part": 2,
+   "uz": "Sizda qalamlar bormi?",
+   "en": [
+    "Do you have any pens?"
+   ],
+   "rule": "So'roq gapda sanaladigan ko'plik ot bilan 'any'."
+  },
+  {
+   "part": 2,
+   "uz": "Bog'da daraxtlar yo'q.",
+   "en": [
+    "There aren't any trees in the garden."
+   ],
+   "rule": "Bo'lishsiz gapda sanaladigan ko'plik ot bilan 'any'."
+  },
+  {
+   "part": 2,
+   "uz": "Bizda sariyog' yo'q.",
+   "en": [
+    "We don't have any butter."
+   ],
+   "rule": "Bo'lishsiz gapda sanalmaydigan ot bilan 'any'."
+  },
+  {
+   "part": 2,
+   "uz": "Stulda jurnallar yo'q.",
+   "en": [
+    "There aren't any magazines on the chair."
+   ],
+   "rule": "Bo'lishsiz gapda sanaladigan ko'plik ot bilan 'any'."
+  },
+  {
+   "part": 2,
+   "uz": "Menda hech qanday savollar yo'q.",
+   "en": [
+    "I don't have any questions."
+   ],
+   "rule": "Bo'lishsiz gapda sanaladigan ko'plik ot bilan 'any'."
+  }
+ ]
+}

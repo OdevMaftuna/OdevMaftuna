@@ -1,0 +1,682 @@
+[
+ {
+  "why": "«selfish» — xudbin. Gapda «refused to share his snacks» bor: boshqalar bilan narsalarini bo'lishishni xohlamagan odam xudbin bo'ladi.",
+  "wrong": {
+   "foolish": "«foolish» — ahmoqona; bu yerda gap boshqalar bilan bo'lishishni istamaslik haqida.",
+   "childish": "«childish» — bolakaylarga xos; bu yerda gap xudbinlik xarakteri haqida.",
+   "cowardly": "«cowardly» — qo'rqoq; bu yerda qo'rquv belgisi yo'q."
+  }
+ },
+ {
+  "why": "«vandalise» — mulkka zarar yetkazish, buzg'unchilik qilmoq. Gapda «broke the glass windows» va «painted red graffiti» bor: jamoat joyini bulg'ash vandalizm hisoblanadi.",
+  "wrong": {
+   "steal": "«steal» — o'g'irlamoq; bu yerda buyumlarni olib ketish emas, binoni buzish haqida.",
+   "rob": "«rob» — talamoq; bu so'z odamga yoki joyga hujum qilib boylik olishda ishlatiladi.",
+   "burgle": "«burgle» — uyga o'g'irlikka tushmoq; bu yerda kutubxonani tunash emas, vandalizm sodir etilgan."
+  }
+ },
+ {
+  "why": "«burglar» — uy yoki do'konga o'g'irlikka tushuvchi shaxs. Gapda «entered the jewelry shop at night» va «took all the expensive gold rings» bor.",
+  "wrong": {
+   "shoplifter": "«shoplifter» — do'kondan mijoz sifatida narsa o'g'irlaydigan odam; bu yerda kechasi niqobda kirishgan.",
+   "mugger": "«mugger» — ko'chada odamga hujum qiluvchi; bu yerda do'konga tushgan jinoyatchi haqida.",
+   "smuggler": "«smuggler» — kontrabandachi; bu yerda do'kondan qimmatbaho uzuklarni olgan o'g'ri haqida."
+  }
+ },
+ {
+  "why": "«patrol» — patrul qilmoq, qo'riqlab yurmoq. Gapda «walk slowly down our neighborhood street» va «keep everyone safe» bor.",
+  "wrong": {
+   "search": "«search» — qidirmoq; politsiyachilar ko'chada shunchaki qidirmaydi, balki patrul qiladi.",
+   "interview": "«interview» — so'roq qilmoq; bu yerda ko'chada yurish haqida gap ketmoqda.",
+   "identify": "«identify» — shaxsini aniqlamoq; bu harakat ko'chada sekin yurishga mos emas."
+  }
+ },
+ {
+  "why": "«furious» — juda g'azablangan. Gapda «cried loudly because he dropped his ice cream» bor: sevimli muzqaymog'i yerga tushib ketgan bola qattiq xafa bo'lib g'azablanadi.",
+  "wrong": {
+   "hopeful": "«hopeful» — umidvor; muzqaymog'i tushib ketgan bola umidvor bo'lmaydi.",
+   "lucky": "«lucky» — omadli; muzqaymoqning tushishi omadli holat emas.",
+   "helpful": "«helpful» — yordam beruvchi; bu yerda bolaning hissiyoti haqida so'z bormoqda."
+  }
+ },
+ {
+  "why": "«affordable» — narxi hamyonbop, arzon. Gapda «the monthly rent was very cheap» bor: ijara haqi arzon bo'lgani uchun xonadon xarid qilingan.",
+  "wrong": {
+   "enjoyable": "«enjoyable» — maroqli; bu so'z narxga nisbatan ishlatilmaydi.",
+   "painful": "«painful» — og'riqli; kvartiraning narxi og'riqli bo'lmaydi.",
+   "tasteless": "«tasteless» — mazasiz; bu xususiyat uy ijarasiga aloqador emas."
+  }
+ },
+ {
+  "why": "«fingerprints» — barmoq izlari. Gapda «strange blue marks on the wooden door handle after the crime» bor: eshik tutqichida qoladigan belgilar barmoq izlaridir.",
+  "wrong": {
+   "dental records": "«dental records» — tish kartalari; bular eshik tutqichida qolmaydi.",
+   "secret code": "«secret code» — maxfiy kod; bu jismoniy iz emas.",
+   "telephone number": "«telephone number» — telefon raqami; jinoyat joyida topiladigan belgiga o'xshamaydi."
+  }
+ },
+ {
+  "why": "«appeal» — yoqmoq, jalb qilmoq. Gapda «too many boring moments and bad actors» bor, lekin bu yerda inkor shaklda kino odamga yoqmagani aytilyapti.",
+  "wrong": {
+   "launch": "«launch» — ishga tushirmoq; kinoga nisbatan bu fe'l ishlatilmaydi.",
+   "study": "«study» — o'rganmoq; kinoni o'rganish haqida gap ketmayapti.",
+   "lean": "«lean» — suyanmoq; ma'nosi umuman mos kelmaydi."
+  }
+ },
+ {
+  "why": "«damage» — zarar yetkazmoq. Gapda «threw a heavy stone through the expensive glass window» bor: oyna tosh bilan urib sindirilsa, unga zarar yetkaziladi.",
+  "wrong": {
+   "grab": "«grab» — tutib olmoq; toshni oynaga otish holatiga to'g'ri kelmaydi.",
+   "pull": "«pull» — tortmoq; bu yerda oynaga tosh uloqtirilib shikastlangan.",
+   "kill": "«kill» — o'ldirmoq; jonsiz oynaga nisbatan ishlatilmaydi."
+  }
+ },
+ {
+  "why": "«smuggle» — kontrabanda qilmoq, yashirincha olib o'tmoq. Gapda «secretly brought illegal boxes across the border without paying any taxes» bor.",
+  "wrong": {
+   "loot": "«loot» — talon-taroj qilmoq; chegaradan soliqsiz o'tkazishga nisbatan ishlatilmaydi.",
+   "shoplift": "«shoplift» — do'kondan o'g'irlamoq; bu yerda chegara haqida gap ketmoqda.",
+   "mug": "«mug» — ko'chada hujum qilib narsa tortib olmoq; chegaraga aloqasi yo'q."
+  }
+ },
+ {
+  "why": "«board game» — stol o'yini. Gapda «sat together on the carpet and played Monopoly» bor: Monopoliya bu stol o'yini.",
+  "wrong": {
+   "subway": "«subway» — metropoliten; uyda gilam ustida o'ynab bo'lmaydi.",
+   "water park": "«water park» — akvapark; uy ichida o'ynalmaydi.",
+   "open-top car": "«open-top car» — ochiq tomirli mashina; o'yingoh emas."
+  }
+ },
+ {
+  "why": "«search» — qidirmoq. Gapda «used a magnifying glass to look carefully for clues» bor: lupa yordamida dalillarni diqqat bilan qidirish kerak.",
+  "wrong": {
+   "patrol": "«patrol» — patrul qilmoq; lupa bilan o't-o'zni patrul qilib bo'lmaydi.",
+   "interview": "«interview» — suhbatlashmoq; dalillarni lupa bilan suhbatlashtirib bo'lmaydi.",
+   "identify": "«identify» — aniqlamoq; avval qidirish harakati bajariladi."
+  }
+ },
+ {
+  "why": "«chewing gum» — saqich. Gapda «chewing sweet peppermint flavor» bor: yalpiz ta'mli narsani chaynash uchun saqich mos keladi.",
+  "wrong": {
+   "table tennis": "«table tennis» — stol tennisi; uni chaynashning iloji yo'q.",
+   "train ticket": "«train ticket» — poyezd chiptasi; chaynalsa mazali bo'lmaydi.",
+   "weekly": "«weekly» — haftalik nashr; chaynashga aloqasi yo'q."
+  }
+ },
+ {
+  "why": "«arson» — qasddan o't qo'yish jinoyati. Gapda «started a big dangerous fire inside the empty wooden warehouse» bor.",
+  "wrong": {
+   "burglary": "«burglary» — o'g'irlikka tushish; bu yerda o'g'rilik emas, o't qo'yish haqida.",
+   "theft": "«theft» — o'g'rilik; bino yoqib yuborilgan.",
+   "mugging": "«mugging» — bosqinchilik; omborxonaga nisbatan ishlatilmaydi."
+  }
+ },
+ {
+  "why": "«balaclava» — yuzni yopib turuvchi niqob-qalpoq. Gapda «wearing a woolen knitted cap over his face» bor: yuzni to'liq berkitadigan bosh kiyim balaklava deyiladi.",
+  "wrong": {
+   "handbag": "«handbag» — ayollar sumkasi; uni yuzga kiyib bo'lmaydi.",
+   "strap": "«strap» — tasma; yuzni yopuvchi bosh kiyim emas.",
+   "subway": "«subway» — metro; kiyimga ham kirmaydi."
+  }
+ },
+ {
+  "why": "«interview» — savol-javob qilmoq, so'roq qilmoq. Gapda «asked the frightened witness many questions» bor: guvohga savollar berish intervyu yoki so'roq hisoblanadi.",
+  "wrong": {
+   "search": "«search» — qidirmoq; guvohga savol berishga mos kelmaydi.",
+   "patrol": "«patrol» — qo'riqlab yurmoq; savol berish bilan bog'liq emas.",
+   "identify": "«identify» — shaxsini aniqlamoq; bu yerda ko'plab savollar berish jarayoni haqida."
+  }
+ },
+ {
+  "why": "«foolish» — ahmoqona, aqlsiz. Gapda «jumped from the high garden wall just to show off» bor: baland devordan sakrash xavfli va ahmoqona ish.",
+  "wrong": {
+   "selfish": "«selfish» — xudbin; bu yerda xudbinlik emas, aqlsizlik qilingan.",
+   "childish": "«childish» — bolalarcha; sakrash ko'proq tavakkal va aqlsizlikdir.",
+   "cowardly": "«cowardly» — qo'rqoq; balanddan sakragan bola qo'rqoq emas."
+  }
+ },
+ {
+  "why": "«painless» — og'riqsiz. Gapda «without hurting me at all» bor: umuman og'ritmagani uchun bu muolaja og'riqsiz bo'lgan.",
+  "wrong": {
+   "painful": "«painful» — og'riqli; shifokor hech qanday og'riq bermagani uchun bu so'z mos kelmaydi.",
+   "tasteless": "«tasteless» — mazasiz; tish olish jarayoniga aloqasi yo'q.",
+   "drinkable": "«drinkable» — ichishga yaroqli; tishga ishlatilmaydi."
+  }
+ },
+ {
+  "why": "«steal» — biror narsani o'g'irlamoq. Gapda «took my mother's leather purse» bor: narsani yashirincha olib ketish uchun shu so'z ishlatiladi.",
+  "wrong": {
+   "rob": "«rob» — odamni yoki binoni talamoq; bu yerda esa shaxsning buyumi o'g'irlanyapti.",
+   "burgle": "«burgle» — uyga o'g'irlikka tushmoq; bu yerda uy haqida gap ketmayapti.",
+   "shoplift": "«shoplift» — do'kondan mol o'g'irlamoq; bu yerda xaridorning sumkasi o'g'irlandi, do'kon moli emas."
+  }
+ },
+ {
+  "why": "«mug» — ko'chada hujum qilib narsasini tortib olmoq. Gapda «suddenly attacked an old man on the dark pavement and took his watch» bor.",
+  "wrong": {
+   "steal": "«steal» — umumiy ma'nodagi o'g'rilik; ko'chada hujum qilish uchun «mug» aniqroq.",
+   "rob": "«rob» — joyni yoki odamni zo'rlik bilan talash; ko'chadagi qisqa hujumga «mug» mosroq.",
+   "burgle": "«burgle» — uyga bostirib kirish; ko'chaga aloqasi yo'q."
+  }
+ },
+ {
+  "why": "«water park» — akvapark. Gapda «huge swimming pools and tall water slides» bor: bu yerda shunday joy tasvirlangan.",
+  "wrong": {
+   "board game": "«board game» — stol o‘yini; bu yerda basseynlar haqida gap ketmoqda.",
+   "subway": "«subway» — yerosti yo‘li; bu yerda suv slaydlari haqida gap bormoqda.",
+   "open-top car": "«open-top car» — ochiq tomirli mashina; bu yerda basseynli joy nazarda tutilgan."
+  }
+ },
+ {
+  "why": "«hold on» — telefonda kuting. Gapda «on the phone» bor: bu telefonda gaplashayotganda kutilishini bildiradi.",
+  "wrong": {
+   "run away": "«run away» — qochib ketmoq; bu telefonda kutishga aloqador emas.",
+   "break into something": "«break into something» — biror joyga bostirib kirmoq; telefon suhbatiga aloqasi yo‘q.",
+   "set fire to something": "«set fire to something» — o‘t qo‘ymoq; bu telefonda kutish ma'nosini bermaydi."
+  }
+ },
+ {
+  "why": "«murder investigation» — qotillik bo‘yicha tergov. Gapda «police department started a big investigation» bor: bu jinoyatni qidirishni bildiradi.",
+  "wrong": {
+   "dental records": "«dental records» — tish kartalari; bu yerda keng qamrovli tergov haqida gap ketmoqda.",
+   "secret code": "«secret code» — maxfiy kod; bu politsiya tergoviga to‘g‘ri kelmaydi.",
+   "telephone number": "«telephone number» — telefon raqami; tergov ma'nosini anglatmaydi."
+  }
+ },
+ {
+  "why": "«childish» — bolakaylarcha, go‘daklarcha. Gapda «threw her toys» bor: o‘yinchoqlarni otish bolalarga xos qiliqdir.",
+  "wrong": {
+   "selfish": "«selfish» — xudbin; bu yerda o‘yinchoq otish haqida gap bormoqda, xudbinlik emas.",
+   "foolish": "«foolish» — ahmoqona; bu yerda bolalarcha harakat nazarda tutilgan.",
+   "cowardly": "«cowardly» — qo‘rqoqona; o‘yinchoq otishga bu to‘g‘ri kelmaydi."
+  }
+ },
+ {
+  "why": "«drinkable» — ichishga yaroqli. Gapda «very nice to drink» bor: suvni ichish yoqimli va xavfsiz ekanini bildiradi.",
+  "wrong": {
+   "tasteless": "«tasteless» — mazasiz; gapda suvning yaxshi ekani aytilgan.",
+   "painful": "«painful» — og‘riqli; suvga nisbatan bu so‘z ishlatilmaydi.",
+   "enjoyable": "«enjoyable» — yoqimli; garchi to‘g‘ri kelgandek tuyulsa ham, aynan ichimlikka nisbatan «drinkable» ishlatiladi."
+  }
+ },
+ {
+  "why": "«snatch» — yulqib tortib olmoq. Gapda «from my shoulder while I was walking» bor: o‘g‘ri sumkani yelkasidan yulqib olgan.",
+  "wrong": {
+   "grab": "«grab» — ushlab olmoq; lekin to‘satdan yulqib olish uchun «snatch» aniqroq.",
+   "pull": "«pull» — tortmoq; bu yerda to‘satdan yulqib olish harakati tasvirlangan.",
+   "lean": "«lean» — suyanmoq; bu o‘g‘rilik harakatiga zid so‘z."
+  }
+ },
+ {
+  "why": "«burglary» — uyni yoki do‘konni o‘g‘irlash (buzib kirish). Gapda «broke the front glass door... stole many laptops» bor.",
+  "wrong": {
+   "arson": "«arson» — ataylab o‘t qo‘yish; bu yerda o‘g‘rilik haqida gap ketmoqda.",
+   "theft": "«theft» — umumiy o‘g‘rilik; binoga buzib kirib sodir etilgan o‘g‘rilik «burglary» deyiladi.",
+   "mugging": "«mugging» — ko‘chada odamga hujum qilib talonchilik qilish; do‘konga kirish emas."
+  }
+ },
+ {
+  "why": "«set fire to something» — biror narsaga o‘t qo‘ymoq. Gapda «old wooden barn... late at night» bor: sodir etilgan ish o‘t qo‘yishdir.",
+  "wrong": {
+   "break into something": "«break into something» — buzib kirmoq; bu yerda bino yoqib yuborilgan.",
+   "run away": "«run away» — qochib ketmoq; bu harakatni boshlash emas.",
+   "hold on": "«hold on» — kuting; bu yong‘inga umuman aloqasi yo‘q."
+  }
+ },
+ {
+  "why": "«arsonist» — o‘t qo‘yuvchi jinoyatchi. Gapda «started the huge destructive fire» bor: o‘t qo‘ygan shaxs shunday ataladi.",
+  "wrong": {
+   "burglar": "«burglar» — o‘g‘ri (uy yoki do‘kon buzuvchi); bu yerda yong‘in haqida gap bormoqda.",
+   "shoplifter": "«shoplifter» — do‘kondan narsa o‘g‘rilovchi; yong‘inga aloqasi yo‘q.",
+   "mugger": "«mugger» — ko‘cha talonchisi; bu yong‘in sodir etganga nisbatan ishlatilmaydi."
+  }
+ },
+ {
+  "why": "«shoplift» — do‘kondan mol o‘g‘rilamoq. Gapda «clothing store by hiding them inside his big coat» bor.",
+  "wrong": {
+   "steal": "«steal» — umumiy ma'noda o‘g‘irlamoq; do‘kondan o‘g‘rilash uchun «shoplift» aniqroq.",
+   "rob": "«rob» — odam yoki binoni talon-taroj qilmoq; do‘kondan yashirin o‘g‘irlashga mos emas.",
+   "burgle": "«burgle» — uyga buzib kirib o‘g‘irlamoq; bu yerda ochiq do‘kon nazarda tutilgan."
+  }
+ },
+ {
+  "why": "«deal drugs» — giyohvand moddalar savdosi bilan shug‘ullanmoq. Gapda «illegally sold illegal substances» bor.",
+  "wrong": {
+   "mug": "«mug» — ko‘chada hujum qilib talon-taroj qilmoq; moddalar savdosiga aloqasi yo‘q.",
+   "loot": "«loot» — tartibsizlik paytida talonchilik qilmoq; bu noqonuniy moddalar savdosi emas.",
+   "smuggle": "«smuggle» — kontrabanda qilmoq; bu yerda sotish jarayoni haqida gap bormoqda."
+  }
+ },
+ {
+  "why": "«open-top car» — ochiq tomli mashina (avtobus). Gapda «bus with no roof» bor: tomi yo‘q transport shunday ataladi.",
+  "wrong": {
+   "subway": "«subway» — yerosti yo‘li; bu ochiq tomli transportga mos kelmaydi.",
+   "water park": "«water park» — akvapark; bu transport vositasi emas.",
+   "board game": "«board game» — stol o‘yini; sayohatga aloqasi yo‘q."
+  }
+ },
+ {
+  "why": "«helpful» — yordam berishni yoqtiradigan, yordamchi. Gapda «helped me carry all my heavy books» bor.",
+  "wrong": {
+   "selfish": "«selfish» — xudbin; yordam beradigan insonga bu zid keladi.",
+   "foolish": "«foolish» — ahmoqona; bu yerda yaxshilik qilish haqida gap ketmoqda.",
+   "childish": "«childish» — bolakaylarga xos; yordam berishga aloqasi yo‘q."
+  }
+ },
+ {
+  "why": "«identify» — tanib olmoq. Gapda «recognize the criminal» bor: jinoyatchini tanish yoki aniqlash shu so‘z bilan ifodalanadi.",
+  "wrong": {
+   "search": "«search» — qidirmoq; bu yerda tanib olish haqida gap bormoqda.",
+   "patrol": "«patrol» — patrul qilmoq; tanib olishga aloqasi yo‘q.",
+   "interview": "«interview» — suhbatlashmoq; jinoyatchini ko‘rib tanib olish boshqa narsa."
+  }
+ },
+ {
+  "why": "«weekly» — har haftalik. Gapda «every seven days» bor: har yetti kunda chiqadigan narsa haftalik hisoblanadi.",
+  "wrong": {
+   "national": "«national» — milliy; bu vaqt oralig‘ini bildirmaydi.",
+   "mysterious": "«mysterious» — sirli; gazeta chiqarish vaqtiga aloqasi yo‘q.",
+   "greenish": "«greenish» — yashilsimon; bu rangni bildiradi."
+  }
+ },
+ {
+  "why": "«tasteless» — mazasiz. Gapda «no salt or spices at all» bor: tuz va ziravor bo‘lmagan taom mazasiz bo‘ladi.",
+  "wrong": {
+   "painful": "«painful» — og‘riqli; taomga nisbatan ishlatilmaydi.",
+   "drinkable": "«drinkable» — ichishga yaroqli; bu yerda ta'm haqida gap bormoqda.",
+   "enjoyable": "«enjoyable» — yoqimli; mazasiz sho‘rva yoqimli bo‘lmaydi."
+  }
+ },
+ {
+  "why": "«painful» — og‘riqli. Gapda «toes hurt very much» bor: oyoq barmoqlari og‘riyotgani uchun bu holat painful bo‘ladi.",
+  "wrong": {
+   "painless": "«painless» — og‘riqsiz; gapda esa aksincha qattiq og‘rishi aytilgan.",
+   "tasteless": "«tasteless» — mazasiz; bu og‘riqqa aloqador emas.",
+   "drinkable": "«drinkable» — ichishga yaroqli; oyoq og‘rig‘iga mutlaqo aloqasi yo‘q."
+  }
+ },
+ {
+  "why": "«selfish» — xudbin. Gapda «refuses to share his toys... only thinks about himself» bor: o‘zini o‘ylaydigan odam xudbin bo‘ladi.",
+  "wrong": {
+   "selfless": "«selfless» — fidoiy; boshqalar bilan o‘yinchoqni bo‘lishishni istamaydigan insonga zid.",
+   "childish": "«childish» — bolalarcha; bu yerda faqat o‘zini o‘ylash — xudbinlik haqida.",
+   "foolish": "«foolish» — ahmoqona; faqat o‘zini o‘ylashga to‘g‘ri kelmaydi."
+  }
+ },
+ {
+  "why": "«break into something» — uyga buzib kirmoq. Gapda «entered our empty house through the kitchen window» bor.",
+  "wrong": {
+   "rob": "«rob» — odamga yoki binoga zo‘ravonlik bilan hujum qilmoq; derazadan kirishga «break into» ishlatiladi.",
+   "steal": "«steal» — narsani o‘g‘rilamoq; bu yerda uyga kirish harakati so‘ralgan.",
+   "mug": "«mug» — ko‘chada talonchilik qilmoq; uyga kirishga aloqasi yo‘q."
+  }
+ },
+ {
+  "why": "«furious» — qattiq g‘azablangan. Gapda «extremely angry when he discovered that someone had smashed our new family car» bor.",
+  "wrong": {
+   "careless": "«careless» — e'tiborsiz; mashinasi buzib ketilgan ota g‘azabda bo‘ladi, e'tiborsiz emas.",
+   "foolish": "«foolish» — ahmoqona; bu g‘azabni bildirmaydi.",
+   "childish": "«childish» — bolalarcha; bu holatdagi g‘azabga to‘g‘ri kelmaydi."
+  }
+ },
+ {
+  "why": "«selfish» — o'ziqunar, faqat o'zini o'ylaydigan. Gapda «refuses to share his toys» bor: o'yinchoqlarini bermaydigan bola o'zini shunday tutadi.",
+  "wrong": {
+   "helpful": "«helpful» — yordam beradigan; bu yerda o'yinchoq bermaslik haqida gap ketmoqda.",
+   "careless": "«careless» — e'tiborsiz; bolaning o'yinchoq qizg'onishi bu e'tiborsizlik emas.",
+   "foolish": "«foolish» — ahmoqona; bu so'z xarakterning xasis yoki o'ziqunar tomoniga mos kelmaydi."
+  }
+ },
+ {
+  "why": "«board game» — stol o'yini. Gapda «cousins visit our grandparents» va «play a fun» bor: qarindoshlar bilan birga o'ynaladigan ko'ngilochar o'yin.",
+  "wrong": {
+   "chewing gum": "«chewing gum» — saqich; uni o'ynab bo'lmaydi.",
+   "subway": "«subway» — metropoliten; bu o'yin turi emas.",
+   "train ticket": "«train ticket» — poyezd chiptasi; bu bilan o'ynalmaydi."
+  }
+ },
+ {
+  "why": "«careless» — e'tiborsiz. Gapda «leave his front door wide open» bor: eshikni ochiq qoldirgan odam e'tiborsizlik qilgan bo'ladi.",
+  "wrong": {
+   "helpful": "«helpful» — yordam beradigan; eshikni ochiq qoldirish yordam emas.",
+   "hopeful": "«hopeful» — umidvor; bu yerda salbiy harakat uchun boshqa ma'no kerak.",
+   "lucky": "«lucky» — omadli; eshikni ochiq qoldirish omad emas, xato."
+  }
+ },
+ {
+  "why": "«interview» — so'roq qilmoq yoki suhbatlashmoq. Gapda «detective» va «suspect in the city police station» bor: tergovchi gumonlanuvchini bo'limda so'roq qiladi.",
+  "wrong": {
+   "launch": "«launch» — ishga tushirmoq; jinoyatchini ishga tushirib bo'lmaydi.",
+   "patrol": "«patrol» — patrul qilmoq; detektiv gumonlanuvchini patrul qilmaydi, balki so'roq qiladi.",
+   "lean": "«lean» — suyanmoq; bu so'z politsiya bo'limidagi harakatga mos kelmaydi."
+  }
+ },
+ {
+  "why": "«affordable» — narxi hamyonbob, arzon. Gapda «cheap and very» bor: talabalar uchun arzon va qulay mehmonxona haqida bormoqda.",
+  "wrong": {
+   "painful": "«painful» — og'riqli; narxga nisbatan ishlatilmaydi.",
+   "tasteless": "«tasteless» — mazasiz; mehmonxona ta'miga emas, narxiga qarab baholanmoqda.",
+   "foolish": "«foolish» — ahmoqona; bu so'z arzon mehmonxonaga mos kelmaydi."
+  }
+ },
+ {
+  "why": "«tasteless» — mazasiz. Gapda «liquid tastes completely» va «awful» bor: dori suyuqligining ta'mi yomon ekanligi aytilyapti.",
+  "wrong": {
+   "enjoyable": "«enjoyable» — yoqimli; dorining ta'mi yoqimli bo'lsa, uni yomon ko'rishmas edi.",
+   "magical": "«magical» — sehrli; dori ta'miga nisbatan ishlatilmaydi.",
+   "greenish": "«greenish» — yashilsimon; bu ta'mga emas, rangga tegishli."
+  }
+ },
+ {
+  "why": "«water park» — akvapark. Gapda «swimming and relaxing» va «hot summer afternoons» bor: issiq kunda suzib dam oladigan joy.",
+  "wrong": {
+   "subway": "«subway» — metropoliten; u yerda suzib bo'lmaydi.",
+   "table tennis": "«table tennis» — stol tennisi; bu yerda suzish haqida gap ketmoqda.",
+   "open-top car": "«open-top car» — ochiq tomli mashina; bu suzish joyi emas."
+  }
+ },
+ {
+  "why": "«vandalise» — vandalizm qilmoq, buzmoq. Gapda «historic monument» va «painting ugly graffiti» bor: yodgorlikni bo'yab buzib qo'yish.",
+  "wrong": {
+   "study": "«study» — o'rganmoq; graffiti chizish o'rganish emas.",
+   "launch": "«launch» — boshlamoq yoki uchirmoq; yodgorlikka nisbatan ishlatilmaydi.",
+   "patrol": "«patrol» — qo'riqlamoq; graffiti chizish qo'riqlash emas, buzishdir."
+  }
+ },
+ {
+  "why": "«furious» — g'azablangan yoki qo'rqqan ma'noda xavotirli. Gapda «dark street at midnight» va «unsafe» bor: qo'rqinchli ko'chada yurish odamni xavotirga soladi.",
+  "wrong": {
+   "lucky": "«lucky» — omadli; xavfli joyda yurish omadli qilmaydi.",
+   "hopeful": "«hopeful» — umidvor; tunda qo'rqinchli ko'chada yurishga mos kelmaydi.",
+   "helpful": "«helpful» — yordam beradigan; bu shaxsiy hissiyotga mos kelmaydi."
+  }
+ },
+ {
+  "why": "«lean» — suyanmoq. Gapda «sit on the comfortable wooden bench and» va «against the old apple tree» bor: daraxtga tayanib o'tirish.",
+  "wrong": {
+   "grab": "«grab» — ushlab olmoq; daraxtga suyanish ma'nosini bermaydi.",
+   "pull": "«pull» — tortmoq; o'tirib tortib bo'lmaydi.",
+   "search": "«search» — qidirmoq; bu yerda o'tirish va suyanish harakati kerak."
+  }
+ },
+ {
+  "why": "«balaclava» — niqob, bosh va yuzni yopadigan kiyim. Gapda «over his face so nobody could recognize him on CCTV» bor: yuzini yashiradigan narsa.",
+  "wrong": {
+   "handbag": "«handbag» — ayollar sumkasi; uni yuzga kiyib bo'lmaydi.",
+   "strap": "«strap» — tasmacha; yuzni yopmaydi.",
+   "subway": "«subway» — metropoliten; kiyiladigan narsa emas."
+  }
+ },
+ {
+  "why": "«train ticket» — poyezd chiptasi. Gapda «travel from Bukhara to Samarkand by railway» bor: temir yo'lda sayohat qilish uchun chipta kerak.",
+  "wrong": {
+   "telephone number": "«telephone number» — telefon raqami; sayohat uchun kerak emas.",
+   "board game": "«board game» — stol o'yini; sayohatga aloqasi yo'q.",
+   "chewing gum": "«chewing gum» — saqich; sayohat chiptasi o'rnini bosmaydi."
+  }
+ },
+ {
+  "why": "«murder investigation» — jinoyat tergovi. Gapda «someone stole three expensive golden paintings» va «police started a serious» bor: o'g'rilikdan keyin boshlanadigan ish.",
+  "wrong": {
+   "water park": "«water park» — akvapark; politsiya tergoviga aloqasi yo'q.",
+   "open-top car": "«open-top car» — ochiq tomli mashina; bu tergov emas.",
+   "table tennis": "«table tennis» — stol tennisi; jinoyatga aloqasi yo'q."
+  }
+ },
+ {
+  "why": "«magical» — sehrli yoki hayratlanarli. Gapda «surprised every reader» bor: kitobxonlarni hayratda qoldirgan hikoya.",
+  "wrong": {
+   "tasteless": "«tasteless» — mazasiz; hikoyaga nisbatan ishlatilmaydi.",
+   "painful": "«painful» — og'riqli; syujetga mos kelmaydi.",
+   "careless": "«careless» — e'tiborsiz; hikoya xarakteriga to'g'ri kelmaydi."
+  }
+ },
+ {
+  "why": "«handbag» — ayollar sumkasi. Gapda «expensive leather» va «on the crowded bus» bor: avtobusda qolib ketadigan buyum.",
+  "wrong": {
+   "balaclava": "«balaclava» — niqob; uni avtobusda unutib qoldirish boshqacha vaziyat.",
+   "strap": "«strap» — tasma; yolg'iz o'zi qolmaydi.",
+   "subway": "«subway» — metro; uni avtobusda unutib bo'lmaydi."
+  }
+ },
+ {
+  "why": "«national» — milliy. Gapda «school football team won the important» va «championship» bor: maktablararo yoki mamlakat miqyosidagi muhim chempionat.",
+  "wrong": {
+   "weekly": "«weekly» — haftalik; chempionat turiga mos kelmaydi.",
+   "greenish": "«greenish» — yashilsimon; chempionatga aloqasi yo'q.",
+   "affordable": "«affordable» — arzon; musobaqaga nisbatan ishlatilmaydi."
+  }
+ },
+ {
+  "why": "«foolish» — ahmoqona. Gapda «cross the busy highway without looking carefully» bor: mashinalar ko'p yo'ldan qaramasdan o'tish aqlsizlikdir.",
+  "wrong": {
+   "helpful": "«helpful» — yordam beradigan; bu yerda xavfli harakat haqida boryapti.",
+   "hopeful": "«hopeful» — umidvor; xavfli yo'ldan o'tishga mos kelmaydi.",
+   "lucky": "«lucky» — omadli; qaramasdan o'tish omad emas, xavfli."
+  }
+ },
+ {
+  "why": "«chewing gum» — saqich. Gapda «mint» va «corner shop» bor: do'kondan sotib olinadigan yalpizli saqich.",
+  "wrong": {
+   "board game": "«board game» — stol o'yini; uni paketda do'kondan olib chaynashmaydi.",
+   "train ticket": "«train ticket» — poyezd chiptasi; yalpizlisi bo'lmaydi.",
+   "subway": "«subway» — metro; uni do'kondan paketda sotib olib bo'lmaydi."
+  }
+ },
+ {
+  "why": "«enjoyable» — maroqli, yoqimli. Gapda «watched the whole thing twice without stopping» bor: film shunchalik yoqqanki, uni ikki marta ko'rishgan.",
+  "wrong": {
+   "tasteless": "«tasteless» — mazasiz; filmga nisbatan ishlatilmaydi.",
+   "painful": "«painful» — og'riqli; yaxshi ko'rilgan filmga to'g'ri kelmaydi.",
+   "foolish": "«foolish» — ahmoqona; ikki marta ko'rishga arziydigan film ahmoqona bo'lmaydi."
+  }
+ },
+ {
+  "why": "«greenish» — yashilsimon. Gapda «pretty» va «leaf from the garden bush» bor: bog'dagi bargning rangi yashilsimon bo'ladi.",
+  "wrong": {
+   "tasteless": "«tasteless» — mazasiz; bargning rangiga mos kelmaydi.",
+   "painful": "«painful» — og'riqli; bargga nisbatan ishlatilmaydi.",
+   "affordable": "«affordable» — arzon; bargning tashqi ko'rinishini bildirmaydi."
+  }
+ },
+ {
+  "why": "«selfless» — fidokor, o'zini o'ylamaydigan. Gapda «rushing into the burning building to save children» bor: bolalarni qutqarish uchun yonayotgan binoga kirish fidokorlikni bildiradi.",
+  "wrong": {
+   "selfish": "«selfish» — xudbin; bu yerda boshqalarni qutqarish haqida gap ketmoqda.",
+   "foolish": "«foolish» — ahmoqona; qahramonona ish uchun bu so'z mos kelmaydi.",
+   "careless": "«careless» — e'tiborsiz; bu yerda ijobiy va jasur harakat tasvirlangan."
+  }
+ },
+ {
+  "why": "«childish» — go'daklarcha, bolalarcha. Gapda «always cries when he does not get his favourite toy» bor: o'yinchoq uchun yig'lash bolalarga xos fe'ldir.",
+  "wrong": {
+   "careless": "«careless» — e'tiborsiz; bu yig'lash yoki o'yinchoqqa bog'liq emas.",
+   "foolish": "«foolish» — ahmoqona; o'yinchoq uchun yig'lashga nisbatan «childish» to'g'riroq.",
+   "selfish": "«selfish» — xudbin; bu yerda yosh bolaga xos xatti-harakat nazarda tutilgan."
+  }
+ },
+ {
+  "why": "«burglar» — o'g'ri (uyga kirib o'g'rilik qiluvchi). Gapda «broke into the local jewellery shop» bor: do'konga yashirincha kirib o'g'rilik qiluvchi burglar deyiladi.",
+  "wrong": {
+   "arsonist": "«arsonist» — o't qo'yuvchi; bu yerda do'kongacha buzib kirish haqida gap bormoqda.",
+   "vandal": "«vandal» — mulkni qasddan buzuvchi; u narsalarni o'g'irlamaydi.",
+   "smuggler": "«smuggler» — kontrabandachi; u chegaradan yashirin tovar olib o'tadi."
+  }
+ },
+ {
+  "why": "«foolish» — ahmoqona, o'ylab qilinmagan. Gapda «leave your front door wide open when you go on a long holiday» bor: ta'tilga ketayotganda eshikni ochiq qoldirish ahmoqonadir.",
+  "wrong": {
+   "helpful": "«helpful» — yordam beradigan; eshikni ochiq qoldirish yordam emas.",
+   "hopeful": "«hopeful» — umidvor; bu xavfli vaziyatga nisbatan ishlatilmaydi.",
+   "lucky": "«lucky» — omadli; ochiq eshik bilan ta'tilga ketish omad emas, xavfli."
+  }
+ },
+ {
+  "why": "«identify» — tanimoq, aniqlab ko'rsatmoq. Gapda «suspect from the group of four men» bor: to'rt kishidan gumonlanuvchini ko'rsatib berish talab qilinmoqda.",
+  "wrong": {
+   "search": "«search» — qidirmoq; guvoh jinoyatchini qidirmaydi, balki tanib ko'rsatadi.",
+   "interview": "«interview» — savol-javob qilmoq; detektiv guvoh bilan shuni qiladi.",
+   "launch": "«launch» — boshlamoq; bu yerda ma'nosi mos kelmaydi."
+  }
+ },
+ {
+  "why": "«table tennis» — stol tennisi. Gapda «school sports hall every single Friday» bor: maktab sport zalida o'ynaladigan mashhur sport turi bu table tennis.",
+  "wrong": {
+   "board game": "«board game» — stol o'yini (shaxmat kabi); sport zalida o'ynalmaydi.",
+   "open-top car": "«open-top car» — ochiq tomirli mashina; uni sport zalida o'ynab bo'lmaydi.",
+   "subway": "«subway» — metropoliten; bu sport o'yini emas."
+  }
+ },
+ {
+  "why": "«fingerprints» — barmoq izlari. Gapda «checked the window sill very carefully» va «left by the thief» bor: o'g'ri deraza tokchasida barmoq izlarini qoldirishi mumkin.",
+  "wrong": {
+   "dental records": "«dental records» — tish kartalari; deraza tokchasida qolmaydi.",
+   "telephone number": "«telephone number» — telefon raqami; uni o'g'ri qoldirib ketmaydi.",
+   "strap": "«strap» — tasmacha; bu yerda detektiv izlayotgan narsa emas."
+  }
+ },
+ {
+  "why": "«launch» — taqdim etmoq, bozorga chiqarmoq. Gapda «brand new collection of summer clothes» bor: yangi kolleksiyani namoyish etish yoki chiqarish ma'nosida «launch» ishlatiladi.",
+  "wrong": {
+   "study": "«study» — o'rganmoq; dizayner yangi kolleksiyani sotuvga chiqaradi, o'rganmaydi.",
+   "patrol": "«patrol» — patrul qilmoq; kiyim kolleksiyasiga nisbatan ishlatilmaydi.",
+   "lean": "«lean» — suyanmoq; bu yerda ma'nosi umuman boshqa."
+  }
+ },
+ {
+  "why": "«helpful» — yordam berishni yoqtiradigan, yordamchi. Gapda «helped me find a suitable jacket» bor: do'kon xodimi menga ko'ylak topishga yordam berdi.",
+  "wrong": {
+   "careless": "«careless» — e'tiborsiz; yordam bergan odamga bu xususiyat mos kelmaydi.",
+   "selfish": "«selfish» — xudbin; yordam beruvchi xodim xudbin bo'lmaydi.",
+   "cowardly": "«cowardly» — qo'rqoq; bu ijobiy xodimga nisbatan ishlatilmaydi."
+  }
+ },
+ {
+  "why": "«vandalise» — jamoat mulkiga ziyon yetkazmoq, bulg'amoq. Gapda «painting rude words on its ancient walls» bor: devorlarga so'zlar yozib buzish vandalizm hisoblanadi.",
+  "wrong": {
+   "rob": "«rob» — talamoq; odatda odam yoki binolardan qimmatbaho buyumlar o'g'irlanadi, devor chizilmaydi.",
+   "mug": "«mug» — ko'chada hujum qilib o'g'rilik qilmoq; ko'prikka nisbatan ishlatilmaydi.",
+   "smuggle": "«smuggle» — kontrabanda qilmoq; bu yerda unga o'rin yo'q."
+  }
+ },
+ {
+  "why": "«burglar» — uy o'g'risi. Gapda «broke into our neighbor's house» va «stole a television» bor: birovning uyiga kirib narsa o'g'irlagan shaxs burglar deb ataladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«childish» — bolalarcha. Gapda «cries when he cannot get a toy» bor: o'yinchoq uchun yig'lash kichkina bolalarga xos xarakterdir.",
+  "wrong": {}
+ },
+ {
+  "why": "«vandalise» — sindirib vayron qilmoq. Gapda «used a heavy hammer to... the glass window» bor: og'ish bolg'a bilan oynani sindirish vandalizm harakatidir.",
+  "wrong": {}
+ },
+ {
+  "why": "«grab» — qo'qqisdan ushlab olmoq. Gapda «so you do not burn your fingers» bor: issiq tovoni ehtiyotkorlik bilan ushlash yoki tezda tutish haqida aytilmoqda.",
+  "wrong": {}
+ },
+ {
+  "why": "«fingerprints» — barmoq izlari. Gapda «stolen car door after the bank robbery» bor: jinoyat joyida qoladigan eng muhim narsa bu barmoq izlaridir.",
+  "wrong": {}
+ },
+ {
+  "why": "«affordable» — narxi hamyonbob, arzon. Gapda «fits into my small student budget» bor: talaba byudjetiga to'g'ri kelishi uning narxi hamyonbob ekanini bildiradi.",
+  "wrong": {}
+ },
+ {
+  "why": "«arsonist» — o't qo'yuvchi jinoyatchi. Gapda «threw a burning match into the dry wooden forest» bor: o'rmonga o't qo'ygan odam arsonist deyiladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«hopeful» — umidvor, xursand ko'ringan. Gapda «all the students passed their difficult math test» bor: barcha imtihondan o'tgach o'qituvchi xursand va umidvor bo'ladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«handbag» — ayollar sumkasi. Gapda «carry her books and lunch to school» bor: maktabga kitob va ovqat olib borish uchun qizlar handbag sotib oladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«selfish» — xudbin. Gapda «refused to share his candies with friends» bor: shirinliklarini do'stlari bilan bo'lishishni xohlamaslik xudbinlikdir.",
+  "wrong": {}
+ },
+ {
+  "why": "«balaclava» — yuzni yopadigan niqob. Gapda «nobody could recognize him» bor: boshqalar tanib qolmasligi uchun niqob kiyish kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«economical» — tejamkor. Gapda «uses very little petrol» bor: benzinni kam ishlatadigan mashina tejamkor bo'ladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«helpful» — yordam berishni yoqtiradigan. Gapda «looked for a dictionary» bor: lug'at qidirganda sotuvchi yordam bergan.",
+  "wrong": {}
+ },
+ {
+  "why": "«interview» — savol-javob qilish yoki so'roq qilish. Gapda «find out what happened» bor: voqeani bilish uchun guvohni so'roq qilish kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«greenish» — yashilroq tusdagi. Gapda «looks like lime fruit» bor: laym mevasiga o'xshash yashilroq rang nazarda tutilgan.",
+  "wrong": {}
+ },
+ {
+  "why": "«mugger» — ko'chada odamni talaydigan qaroqchi. Gapda «snatched my phone... near the crowded station» bor: ko'chada telefonni tortib olgan.",
+  "wrong": {}
+ },
+ {
+  "why": "«damage» — zarar. Gapda «heavy rain did serious» bor: kuchli yomg'ir hosilga jiddiy zarar yetkazgan.",
+  "wrong": {}
+ },
+ {
+  "why": "«furious» — qattiq g'azablangan. Gapda «losing his wallet» bor: hamyonini yo'qotgan odamning jahli chiqadi.",
+  "wrong": {}
+ },
+ {
+  "why": "«thief» — o'g'ri. Gapda «stole expensive paintings» bor: muzeydan qimmat rasmlarni o'g'ri o'g'irlagan.",
+  "wrong": {}
+ },
+ {
+  "why": "«study» — o'rganmoq yoki tekshirmoq. Gapda «mystery of the missing diamond ring» bor: sirni aniqlash uchun uni o'rganish kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«painful» — azobli yoki qo'rqinchli ma'noda ta'sirli. Gapda «could not sleep at all» bor: qo'rqinchli kinodan keyin uxlay olmagan.",
+  "wrong": {}
+ },
+ {
+  "why": "«launch» — namoyish etmoq yoki bozorga chiqarmoq. Gapda «new winter clothing line on television» bor: yangi kiyimlar kolleksiyasini ko'rsatish kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«selfless» — o'zini o'ylamaydigan, fidoyi. Gapda «rescue of the child» bor: bolani qutqargan askar fidokor bo'ladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«subway» — yer osti yo'li, metropoliten. Gapda «get across the busy city center quickly» bor: markazdan tez o'tish uchun metro ishlatiladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«burglar» — uylarga yoki do'konlarga o'g'rilikka tushuvchi. Gapda «broke into the local jewellery shop» bor: do'konga o'g'ri tushgan.",
+  "wrong": {}
+ },
+ {
+  "why": "«fingerprints» — barmoq izlari. Gapda «found his ... on the broken window glass» bor: politsiya oynada uning barmoq izlarini topgan.",
+  "wrong": {}
+ },
+ {
+  "why": "«childish» — go'daklarcha, injiq. Gapda «cried loudly when he lost his toy» bor: o'yinchoq uchun yig'lash bolalarcha qiliq.",
+  "wrong": {}
+ },
+ {
+  "why": "«economical» — tejamkor. Gapda «uses very little electricity» bor: elektrni kam sarflaydigan mashina tejamkor.",
+  "wrong": {}
+ },
+ {
+  "why": "«dangerous» — xavfli. Gapda «after the heavy storm» bor: kuchli bo'rondan keyin eski ko'prik xavfli bo'lib qoladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«hold» — ushlab turmoq, bu yerda «hold on» (go'shakni qo'ymay turmoq). Gapda «on the phone» bor: telefonda kutib turishni bildiradi.",
+  "wrong": {}
+ }
+]

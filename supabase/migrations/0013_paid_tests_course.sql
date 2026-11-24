@@ -1,0 +1,3 @@
+-- 0013: pullik testlar darajaga (kursga) bog'lanadi: Beginner, Pre-Intermediate, ...
+alter table public.paid_tests add column course text not null default 'Beginner';
+create index paid_tests_course_idx on public.paid_tests (course, sort);

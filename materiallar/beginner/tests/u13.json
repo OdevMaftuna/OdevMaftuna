@@ -1,0 +1,67 @@
+{
+  "code": "U13", "kind": "unit", "unit": 13, "price": 20000,
+  "title": "Unit 13 Test",
+  "subtitle": "Present Continuous · Present Simple or Continuous? · clothes & colours",
+  "sections": [
+    {
+      "title": "A. Write the -ing form.",
+      "items": [
+        { "t": "text", "q": "read → ______", "a": ["reading"] },
+        { "t": "text", "q": "write → ______", "a": ["writing"] },
+        { "t": "text", "q": "run → ______", "a": ["running"] },
+        { "t": "text", "q": "sit → ______", "a": ["sitting"] },
+        { "t": "text", "q": "play → ______", "a": ["playing"] }
+      ]
+    },
+    {
+      "title": "B. Complete the sentences. Use the Present Continuous.",
+      "items": [
+        { "t": "text", "q": "Look! It (rain) ______.", "a": ["is raining", "’s raining"] },
+        { "t": "text", "q": "I (wear) ______ my new jacket today.", "a": ["am wearing", "’m wearing"] },
+        { "t": "text", "q": "The children (play) ______ in the garden.", "a": ["are playing", "’re playing"] },
+        { "t": "text", "q": "My father (cook) ______ dinner now.", "a": ["is cooking", "’s cooking"] },
+        { "t": "text", "q": "We (not watch) ______ TV at the moment.", "a": ["aren’t watching", "are not watching", "’re not watching"] },
+        { "t": "text", "q": "She (not sleep) ______. She’s reading.", "a": ["isn’t sleeping", "is not sleeping", "’s not sleeping"] }
+      ]
+    },
+    {
+      "title": "C. Write questions.",
+      "items": [
+        { "t": "text", "q": "What / you / do / ?", "a": ["What are you doing"] },
+        { "t": "text", "q": "Where / she / go / ?", "a": ["Where is she going", "Where’s she going"] },
+        { "t": "text", "q": "they / wait / for the bus / ?", "a": ["Are they waiting for the bus"] },
+        { "t": "text", "q": "Why / he / laugh / ?", "a": ["Why is he laughing", "Why’s he laughing"] }
+      ]
+    },
+    {
+      "title": "D. Present Simple or Present Continuous? Choose the correct answer.",
+      "items": [
+        { "t": "mc", "q": "I usually ______ jeans, but today I’m wearing a suit.", "o": ["wear", "am wearing", "wears", "wearing"], "a": 0 },
+        { "t": "mc", "q": "Shh! The baby ______.", "o": ["sleeps", "sleep", "is sleeping", "are sleeping"], "a": 2 },
+        { "t": "mc", "q": "My mother ______ in a bank. She’s a manager.", "o": ["is working", "works", "work", "working"], "a": 1 },
+        { "t": "mc", "q": "What ______ now? — I’m doing my homework.", "o": ["do you do", "are you doing", "you are doing", "does you do"], "a": 1 },
+        { "t": "mc", "q": "He ______ football every Saturday.", "o": ["plays", "is playing", "play", "playing"], "a": 0 }
+      ]
+    },
+    {
+      "title": "E. Write the clothes.",
+      "items": [
+        { "t": "text", "q": "You wear these on your feet. (oyoq kiyim)", "a": ["shoes", "boots", "trainers", "socks"] },
+        { "t": "text", "q": "You wear this on your head. (bosh kiyim)", "a": ["a hat", "hat", "a cap", "cap"] },
+        { "t": "text", "q": "Women often wear this. It isn’t trousers. (yubka)", "a": ["a skirt", "skirt"] },
+        { "t": "text", "q": "You wear this when it’s cold. (palto)", "a": ["a coat", "coat", "a jacket", "jacket"] }
+      ]
+    },
+    {
+      "title": "F. Read the text and answer the questions.",
+      "passage": "It’s Sunday afternoon in the park. A lot of people are enjoying the sunny weather. An old man is sitting on a bench and he’s reading a newspaper. Two girls are eating ice cream. A boy in a red T-shirt is riding his bike, and his dog is running after him. A young couple are taking photos next to the fountain. Nobody is working today!",
+      "items": [
+        { "t": "text", "q": "What is the old man reading?", "a": ["a newspaper", "newspaper", "He’s reading a newspaper", "He is reading a newspaper"] },
+        { "t": "mc", "q": "What are the two girls doing?", "o": ["taking photos", "eating ice cream", "riding bikes", "reading"], "a": 1 },
+        { "t": "tf", "q": "The boy is wearing a red T-shirt.", "a": true },
+        { "t": "tf", "q": "It’s raining in the park.", "a": false },
+        { "t": "tf", "q": "The couple are taking photos next to the fountain.", "a": true }
+      ]
+    }
+  ]
+}

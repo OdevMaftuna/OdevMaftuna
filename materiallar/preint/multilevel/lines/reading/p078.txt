@@ -1,0 +1,49 @@
+﻿69`t18`t81`tPort 2
+123`t21`t108`tG) Buy the magazine and get a bottled water for free.
+151`t22`t110`tH) You can learn swimming with dolphins.
+180`t21`t110`tI) Parents are welcome to see kid's sailing activities.
+71`t15`t750`t77
+208`t21`t108`tJ) If you are at least IO years-old and like to learn to swim in open air,
+290`t18`t87`t1
+408`t18`t82`t3
+536`t18`t84`t5
+665`t18`t84`t'7
+238`t17`t135`tyou are welcome,
+299`t17`t159`tBridge Swimming Pool
+338`t12`t210`ttree entrance
+432`t18`t146`tYear IOS swimming practice
+462`t18`t216`t4 p.m. today
+482`t15`t215`tDont be late!
+551`t14`t143`tIMPOROVE YOUR SWIMMING
+573`t15`t153`t• classes tot IO-I' rears-olds
+593`t15`t153`t• outdoor pool
+669`t17`t123`tFree water bottle with this week's
+692`t20`t122`tTV — Teen Sports magazine
+717`t21`t123`t€2.95
+788`t20`t114`tExercise 4
+288`t21`t443`t2 Watersports Clothes Shop
+323`t17`t468`tSailing • Swimming • Windsurfing
+342`t17`t468`tSommer sale begins on Saturday!
+408`t17`t443`t4
+429`t15`t488`t'Windsurfing' by Hugh Carter
+450`t23`t488`tLat: useful geas and $10
+534`t18`t444`t6
+546`t16`t488`tDont miss Sailing Racing Extra
+570`t18`t488`ttonight on channel 4
+593`t15`t488`t7.30 -am p.m
+663`t17`t446`t8
+672`t20`t502`tBlueLake.
+698`t8`t659`tssonsc
+833`t18`t114`tRead the texts and the statements A-J. Decide which text matches
+864`t17`t114`twith the situation described in the statements.
+890`t21`t114`tEach statement can be used ONCE only. There are TWO extra
+920`t17`t113`tstatements which you do not need to use.
+954`t21`t114`tA) You cannot travel by railway until tomorrow,
+980`t21`t116`tB) Children and parents travel for less with this card.
+1010`t21`t115`tC) A ticket must be bought before you get on the train
+1041`t21`t116`tD) Only adults pay to go in here.
+1068`t21`t116`tE) This is late because of bad weatherw
+1094`t21`t116`tF) It is not certain but the train may come later than the scheduled time.
+1125`t21`t116`tG) You buy a ticket after you get on the train,
+1152`t21`t117`tH) If you don't buy a ticket by the new year, you will pay more for it,
+1196`t19`t686`tmytestsuz

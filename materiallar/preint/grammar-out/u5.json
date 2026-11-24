@@ -1,0 +1,1651 @@
+{
+ "unit": 5,
+ "parts": [
+  [
+   {
+    "kind": "choose",
+    "q": "Look at those dark clouds! It ______ rain soon.",
+    "hint": "",
+    "options": [
+     "will",
+     "is going to",
+     "shall"
+    ],
+    "answer": "is going to",
+    "accept": [],
+    "explain": "Gapda «dark clouds» — evidence bor, shuning uchun kelajakni taxmin qilishda «is going to» ishlatiladi.",
+    "wrong": {
+     "will": "Dalil (qora bulutlar) bo'lgani uchun will mos kelmaydi.",
+     "shall": "Shall bu yerda ma'noga to'g'ri kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "I promise I ______ help you with your homework tomorrow.",
+    "hint": "",
+    "options": [
+     "will",
+     "am going to",
+     "might"
+    ],
+    "answer": "will",
+    "accept": [],
+    "explain": "Gapda «promise» so'zi bor — va'da berish uchun «will» ishlatiladi.",
+    "wrong": {
+     "am going to": "Rejalar uchun ishlatiladi, lekin bu yerda va'da bor.",
+     "might": "Aniq va'da ma'nosini bermaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "We ______ visit our grandparents in Samarkand next weekend.",
+    "hint": "",
+    "options": [
+     "will",
+     "are going to",
+     "shall"
+    ],
+    "answer": "are going to",
+    "accept": [],
+    "explain": "Gapda «next weekend» rejalashtirilgan ish bor, shuning uchun «are going to» ishlatiladi.",
+    "wrong": {
+     "will": "Oldindan rejalashtirilgan ishlar uchun will ishlatilmaydi.",
+     "shall": "Bu shaxs va zamonga mos kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "My phone is ringing. I ______ answer it now.",
+    "hint": "",
+    "options": [
+     "will",
+     "is going to",
+     "am going to"
+    ],
+    "answer": "will",
+    "accept": [],
+    "explain": "Gapda «ringing» — hozirgi qaror, shuning uchun «will» ishlatiladi.",
+    "wrong": {
+     "is going to": "Oldindan o'ylangan reja emas.",
+     "am going to": "Egalik va zamon xato."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Be careful! You ______ drop that glass.",
+    "hint": "",
+    "options": [
+     "will",
+     "are going to",
+     "shall"
+    ],
+    "answer": "are going to",
+    "accept": [],
+    "explain": "Gapda «Be careful!» — yaqqol dalil bor, shuning uchun «are going to» ishlatiladi.",
+    "wrong": {
+     "will": "Ko'rinib turgan xavf uchun will ishlatilmaydi.",
+     "shall": "Ma'nosi bu yerga to'g'ri kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "I think robots ______ do all the housework in 2050.",
+    "hint": "",
+    "options": [
+     "will",
+     "are going to",
+     "shall"
+    ],
+    "answer": "will",
+    "accept": [],
+    "explain": "Gapda «I think» va kelajakdagi taxmin bor, shuning uchun «will» ishlatiladi.",
+    "wrong": {
+     "are going to": "Shaxsiy fikr va taxminlar uchun will ishlatiladi.",
+     "shall": "Faqat I va we olmoshlari bilan keladi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "She ______ study medicine at university next year. It is her plan.",
+    "hint": "",
+    "options": [
+     "will",
+     "is going to",
+     "shall"
+    ],
+    "answer": "is going to",
+    "accept": [],
+    "explain": "Gapda «It is her plan» bor, shuning uchun rejalashtirilgan ishga «is going to» ishlatiladi.",
+    "wrong": {
+     "will": "Rejalar uchun will ishlatilmaydi.",
+     "shall": "Bu yerda o'rinli emas."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Wait! I ______ carry that heavy bag for you.",
+    "hint": "",
+    "options": [
+     "will",
+     "am going to",
+     "shall"
+    ],
+    "answer": "will",
+    "accept": [],
+    "explain": "Gapda «Wait!» — to'satdan qabul qilingan qaror va yordam, shuning uchun «will» ishlatiladi.",
+    "wrong": {
+     "am going to": "Oldindan rejalashtirilmagan.",
+     "shall": "I bilan kelishi mumkin, lekin oddiyroq will to'g'ri."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Look at the driver! He ______ crash into the tree.",
+    "hint": "",
+    "options": [
+     "will",
+     "is going to",
+     "shall"
+    ],
+    "answer": "is going to",
+    "accept": [],
+    "explain": "Gapda «Look at the driver!» — ko'rinib turgan dalil bor, shuning uchun «is going to» ishlatiladi.",
+    "wrong": {
+     "will": "Dalil mavjud vaziyatlarda will ishlatilmaydi.",
+     "shall": "Grammatik jihatdan noto'g'ri."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "I swear I ______ tell anyone your secret.",
+    "hint": "",
+    "options": [
+     "will",
+     "am going to",
+     "might"
+    ],
+    "answer": "will",
+    "accept": [],
+    "explain": "Gapda «I swear» — qasamyod/va'da bor, shuning uchun «will» ishlatiladi.",
+    "wrong": {
+     "am going to": "Va'dalar uchun going to ishlatilmaydi.",
+     "might": "Noaniqlik bildiradi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "We ______ buy a new car next month. We saved money.",
+    "hint": "",
+    "options": [
+     "will",
+     "are going to",
+     "shall"
+    ],
+    "answer": "are going to",
+    "accept": [],
+    "explain": "Gapda «saved money» — oldindan qilingan tayyorgarlik dalili, shuning uchun «are going to» ishlatiladi.",
+    "wrong": {
+     "will": "Tayyorgarlik ko'rilgan rejalar uchun will mos emas.",
+     "shall": "Bu holatga to'g'ri kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "I'm so thirsty. I ______ get some water from the kitchen.",
+    "hint": "",
+    "options": [
+     "will",
+     "am going to",
+     "shall"
+    ],
+    "answer": "will",
+    "accept": [],
+    "explain": "Gapda hozirgi vaziyatga qarab qilingan qaror bor, shuning uchun «will» ishlatiladi.",
+    "wrong": {
+     "am going to": "Oldindan rejalashtirilgan emas.",
+     "shall": "Zamonaviy ingliz tilida bu maqsadda ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Look at the score! Our team ______ win the match.",
+    "hint": "",
+    "options": [
+     "will",
+     "is going to",
+     "shall"
+    ],
+    "answer": "is going to",
+    "accept": [],
+    "explain": "Gapda «Look at the score!» — hozirgi dalil bor, shuning uchun «is going to» ishlatiladi.",
+    "wrong": {
+     "will": "Ayni paytdagi dalil bo'lsa will ishlatilmaydi.",
+     "shall": "Ma'nosi mos emas."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "I'm sure humanity ______ find a cure for all diseases one day.",
+    "hint": "",
+    "options": [
+     "will",
+     "is going to",
+     "shall"
+    ],
+    "answer": "will",
+    "accept": [],
+    "explain": "Gapda «I'm sure» — kelajakdagi taxmin/ishonch bor, shuning uchun «will» ishlatiladi.",
+    "wrong": {
+     "is going to": "Shaxsiy ishonch va taxminlar uchun will ishlatiladi.",
+     "shall": "Faqat taklif yoki savollarda ishlatiladi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "What ______ you do during the upcoming summer holidays?",
+    "hint": "",
+    "options": [
+     "will",
+     "are you going to",
+     "do you"
+    ],
+    "answer": "are you going to",
+    "accept": [],
+    "explain": "Gapda kelajakdagi reja so'ralmoqda, shuning uchun «are you going to» ishlatiladi.",
+    "wrong": {
+     "will": "Rejalar uchun will ishlatilmaydi.",
+     "do you": "Zamon xato qo'yilgan."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "The sky is clear and blue. It ______ rain today.",
+    "hint": "",
+    "options": [
+     "will not",
+     "is not going to",
+     "shall not"
+    ],
+    "answer": "is not going to",
+    "accept": [],
+    "explain": "Gapda «The sky is clear» — dalil bor, shuning uchun «is not going to» ishlatiladi.",
+    "wrong": {
+     "will not": "Hozirgi dalil bo'yicha taxmin uchun is not going to to'g'ri keladi.",
+     "shall not": "Hozirgi kunda ishlatilishi kam."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "My brother ______ start his own business next year. That's his firm intention.",
+    "hint": "",
+    "options": [
+     "will",
+     "is going to",
+     "shall"
+    ],
+    "answer": "is going to",
+    "accept": [],
+    "explain": "Gapda «firm intention» — qat'iy niyat/reja bor, shuning uchun «is going to» ishlatiladi.",
+    "wrong": {
+     "will": "Niyatlar va rejalar uchun going to ishlatiladi.",
+     "shall": "Ma'nosi to'g'ri kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "The door bell is ringing. I ______ go and open it.",
+    "hint": "",
+    "options": [
+     "will",
+     "am going to",
+     "shall"
+    ],
+    "answer": "will",
+    "accept": [],
+    "explain": "Gapda «The door bell is ringing» — to'satdan qabul qilingan qaror, shuning uchun «will» ishlatiladi.",
+    "wrong": {
+     "am going to": "Oldindan o'ylab qo'yilmagan.",
+     "shall": "Bu vaziyatga mos emas."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Look at those guys running for the bus! They ______ miss it.",
+    "hint": "",
+    "options": [
+     "will",
+     "are going to",
+     "shall"
+    ],
+    "answer": "are going to",
+    "accept": [],
+    "explain": "Gapda «running for the bus» — dalil bor, shuning uchun «are going to» ishlatiladi.",
+    "wrong": {
+     "will": "Ko'rinib turgan holat uchun will ishlatilmaydi.",
+     "shall": "Grammatik jihatdan noto'g'ri."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Perhaps I ______ visit London sometime in the future.",
+    "hint": "",
+    "options": [
+     "will",
+     "am going to",
+     "shall"
+    ],
+    "answer": "will",
+    "accept": [],
+    "explain": "Gapda «Perhaps» — noaniq taxmin bor, shuning uchun «will» ishlatiladi.",
+    "wrong": {
+     "am going to": "Aniq rejalashtirilmagan ishlar uchun will ishlatiladi.",
+     "shall": "Bu yerda ishlatib bo'lmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "We ______ travel to Tashkent by train tomorrow. The tickets are already bought.",
+    "hint": "",
+    "options": [
+     "will",
+     "are going to",
+     "shall"
+    ],
+    "answer": "are going to",
+    "accept": [],
+    "explain": "Gapda «tickets are already bought» — oldindan qilingan reja/dalil, shuning uchun «are going to» ishlatiladi.",
+    "wrong": {
+     "will": "Chipta olingan rejalar uchun going to ishlatiladi.",
+     "shall": "Ma'nosi xato."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Look at the little boy on the wall! He ______ fall.",
+    "hint": "",
+    "options": [
+     "will",
+     "is going to",
+     "shall"
+    ],
+    "answer": "is going to",
+    "accept": [],
+    "explain": "Gapda «Look at the little boy» — yaqqol xavf dalili, shuning uchun «is going to» ishlatiladi.",
+    "wrong": {
+     "will": "Ko'rinib turgan voqea uchun going to ishlatiladi.",
+     "shall": "Mantiqqa to'g'ri kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "I promise I ______ be late for school again.",
+    "hint": "",
+    "options": [
+     "will not",
+     "am not going to",
+     "shall not"
+    ],
+    "answer": "will not",
+    "accept": [],
+    "explain": "Gapda «promise» va va'da bor, shuning uchun «will not» ishlatiladi.",
+    "wrong": {
+     "am not going to": "Va'dalar uchun will not ishlatiladi.",
+     "shall not": "Hozirgi zamonaviy ingliz tilida ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "She ______ cook dinner for us tonight. She already bought the food.",
+    "hint": "",
+    "options": [
+     "will",
+     "is going to",
+     "shall"
+    ],
+    "answer": "is going to",
+    "accept": [],
+    "explain": "Gapda «bought the food» — reja uchun tayyorgarlik bor, shuning uchun «is going to» ishlatiladi.",
+    "wrong": {
+     "will": "Oziq-ovqat olingan rejalar uchun going to ishlatiladi.",
+     "shall": "Noto'g'ri variant."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "I'm cold. I ______ close the window.",
+    "hint": "",
+    "options": [
+     "will",
+     "am going to",
+     "shall"
+    ],
+    "answer": "will",
+    "accept": [],
+    "explain": "Gapda sovuq qotganda qilingan tezkor qaror bor, shuning uchun «will» ishlatiladi.",
+    "wrong": {
+     "am going to": "Oldindan rejalashtirilmagan.",
+     "shall": "Ma'nosi mos kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Look at the referee! He ______ give a red card.",
+    "hint": "",
+    "options": [
+     "will",
+     "is going to",
+     "shall"
+    ],
+    "answer": "is going to",
+    "accept": [],
+    "explain": "Gapda «Look at the referee!» — dalil bor, shuning uchun «is going to» ishlatiladi.",
+    "wrong": {
+     "will": "Dalil asosidagi taxmin uchun going to ishlatiladi.",
+     "shall": "Bu yerda qo'llanilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "I hope people ______ stop polluting the planet soon.",
+    "hint": "",
+    "options": [
+     "will",
+     "are going to",
+     "shall"
+    ],
+    "answer": "will",
+    "accept": [],
+    "explain": "Gapda «I hope» — umid va kelajakdagi taxmin bor, shuning uchun «will» ishlatiladi.",
+    "wrong": {
+     "are going to": "Umidlar uchun will ishlatiladi.",
+     "shall": "Faqat takliflarda ishlatiladi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "They ______ build a new hospital in our town next month. The project is approved.",
+    "hint": "",
+    "options": [
+     "will",
+     "are going to",
+     "shall"
+    ],
+    "answer": "are going to",
+    "accept": [],
+    "explain": "Gapda «project is approved» — tasdiqlangan reja bor, shuning uchun «are going to» ishlatiladi.",
+    "wrong": {
+     "will": "Tasdiqlangan rejalar uchun going to ishlatiladi.",
+     "shall": "Xato variant."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Oh, you dropped your pen. I ______ pick it up for you.",
+    "hint": "",
+    "options": [
+     "will",
+     "am going to",
+     "shall"
+    ],
+    "answer": "will",
+    "accept": [],
+    "explain": "Gapda to'satdan yordam berish qarori bor, shuning uchun «will» ishlatiladi.",
+    "wrong": {
+     "am going to": "Oldindan rejalashtirilmagan.",
+     "shall": "Tabiiy eshitilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Look at those dark grey clouds! It ______ start snowing.",
+    "hint": "",
+    "options": [
+     "will",
+     "is going to",
+     "shall"
+    ],
+    "answer": "is going to",
+    "accept": [],
+    "explain": "Gapda «dark grey clouds» — dalil bor, shuning uchun «is going to» ishlatiladi.",
+    "wrong": {
+     "will": "Bulutlar dalil bo'lgani uchun going to kerak.",
+     "shall": "Mantiqsiz."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "I believe our team ______ win the championship next year.",
+    "hint": "",
+    "options": [
+     "will",
+     "are going to",
+     "shall"
+    ],
+    "answer": "will",
+    "accept": [],
+    "explain": "Gapda «I believe» — ishonch va kelajakdagi taxmin bor, shuning uchun «will» ishlatiladi.",
+    "wrong": {
+     "are going to": "E'tiqod va taxminlar uchun will ishlatiladi.",
+     "shall": "Xato."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "We ______ spend our holiday in Turkey. We booked the hotel yesterday.",
+    "hint": "",
+    "options": [
+     "will",
+     "are going to",
+     "shall"
+    ],
+    "answer": "are going to",
+    "accept": [],
+    "explain": "Gapda «booked the hotel» — rejalashtirilgan ish dalili, shuning uchun «are going to» ishlatiladi.",
+    "wrong": {
+     "will": "Mehmonxona band qilingan bo'lsa going to ishlatiladi.",
+     "shall": "To'g'ri kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "That box looks very heavy. I ______ help you with it.",
+    "hint": "",
+    "options": [
+     "will",
+     "am going to",
+     "shall"
+    ],
+    "answer": "will",
+    "accept": [],
+    "explain": "Gapda vaziyatga qarab qilingan tezkor qaror va taklif bor, shuning uchun «will» ishlatiladi.",
+    "wrong": {
+     "am going to": "Oldindan rejalashtirilmagan.",
+     "shall": "Bu yerda will ishlatish qulayroq."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Look at the man on the ladder! He ______ fall down.",
+    "hint": "",
+    "options": [
+     "will",
+     "is going to",
+     "shall"
+    ],
+    "answer": "is going to",
+    "accept": [],
+    "explain": "Gapda «Look at the man» — yaqqol dalil bor, shuning uchun «is going to» ishlatiladi.",
+    "wrong": {
+     "will": "Ko'rinib turgan xavf uchun going to kerak.",
+     "shall": "Xato."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "I'm sure you ______ pass your English exam easily.",
+    "hint": "",
+    "options": [
+     "will",
+     "are going to",
+     "shall"
+    ],
+    "answer": "will",
+    "accept": [],
+    "explain": "Gapda «I'm sure» — ishonch bildirish bor, shuning uchun «will» ishlatiladi.",
+    "wrong": {
+     "are going to": "Ishonch bildirganda will ishlatiladi.",
+     "shall": "Ma'nosi to'g'ri kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "He ______ study abroad next year. He has already got his visa.",
+    "hint": "",
+    "options": [
+     "will",
+     "is going to",
+     "shall"
+    ],
+    "answer": "is going to",
+    "accept": [],
+    "explain": "Gapda «got his visa» — tayyorgarlik va reja dalili, shuning uchun «is going to» ishlatiladi.",
+    "wrong": {
+     "will": "Viza olingan rejalar uchun going to ishlatiladi.",
+     "shall": "Mantiqsiz."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "My computer is broken. I ______ buy a new one tomorrow.",
+    "hint": "",
+    "options": [
+     "will",
+     "am going to",
+     "shall"
+    ],
+    "answer": "am going to",
+    "accept": [],
+    "explain": "Gapda «tomorrow» va niyat/reja bor, shuning uchun «am going to» ishlatiladi.",
+    "wrong": {
+     "will": "Oldindan o'ylangan reja uchun going to to'g'riroq.",
+     "shall": "Grammatik jihatdan noto'g'ri."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Look at the sun! It ______ be a very hot day.",
+    "hint": "",
+    "options": [
+     "will",
+     "is going to",
+     "shall"
+    ],
+    "answer": "is going to",
+    "accept": [],
+    "explain": "Gapda «Look at the sun!» — dalil bor, shuning uchun «is going to» ishlatiladi.",
+    "wrong": {
+     "will": "Quyoshga qarab aytilgan dalil uchun going to ishlatiladi.",
+     "shall": "Mos kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Aziz has his passport and tickets. He ______ fly to Dubai on Monday.",
+    "hint": "",
+    "options": [
+     "will",
+     "is going to"
+    ],
+    "answer": "is going to",
+    "accept": [],
+    "explain": "Gapda aniq tayyorgarlik va reja bor («passport and tickets»), shuning uchun be going to tanlanadi.",
+    "wrong": {
+     "will": "Oldindan tayyorlangan va rejalashtirilgan ishlar uchun will ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Someone is knocking at the front door. I ______ open it right now.",
+    "hint": "",
+    "options": [
+     "will",
+     "am going to"
+    ],
+    "answer": "will",
+    "accept": [],
+    "explain": "Gapda to'satdan qilingan qaror bor («Someone is knocking»), shuning uchun will ishlatiladi.",
+    "wrong": {
+     "am going to": "Taqillatishni oldindan rejalashtirib bo'lmaydi, shuning uchun instant decision talab qilinadi."
+    }
+   }
+  ],
+  [
+   {
+    "kind": "verb",
+    "q": "If it ______ sunny tomorrow, we will go to the park.",
+    "hint": "be",
+    "options": [],
+    "answer": "is",
+    "accept": [],
+    "explain": "First conditional qoidasiga ko'ra, «if» turgan qismda Present Simple ishlatiladi ('it' — uchinchi shaxs birlik, shuning uchun 'is').",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If you study hard, you ______ pass the test easily.",
+    "hint": "will",
+    "options": [],
+    "answer": "will",
+    "accept": [],
+    "explain": "First conditional natija qismida kelasi zamon talab qilinadi, shuning uchun 'will' so'zi ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "She ______ miss the bus if she doesn't hurry up now.",
+    "hint": "will",
+    "options": [],
+    "answer": "will",
+    "accept": [],
+    "explain": "First conditional gapining natija qismida 'will' yordamchi fe'li ishlatiladi («if she doesn't hurry up» shart qismi).",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If Jasur ______ early, he will help us with cooking.",
+    "hint": "come",
+    "options": [],
+    "answer": "comes",
+    "accept": [],
+    "explain": "First conditional shart qismida Present Simple zamoni kerak, Jasur uchinchi shaxs birlik bo'lgani uchun 'comes' bo'ladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "They will buy a new laptop if they ______ enough money.",
+    "hint": "save",
+    "options": [],
+    "answer": "save",
+    "accept": [],
+    "explain": "First conditional shart qismi 'if' bilan keladi va bu yerda Present Simple zamonidagi 'save' fe'li ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If I ______ time tonight, I will watch a new movie.",
+    "hint": "have",
+    "options": [],
+    "answer": "have",
+    "accept": [],
+    "explain": "First conditional shart qismida Present Simple ishlatiladi, shuning uchun 'I' olmoshidan keyin 'have' fe'li keladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Gulnora will be very happy if she ______ the competition.",
+    "hint": "win",
+    "options": [],
+    "answer": "wins",
+    "accept": [],
+    "explain": "First conditional shart qismida Present Simple talab qilinadi, Gulnora (she) uchun fe'lga '-s' qo'shiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If you don't wear a coat, you ______ catch a cold.",
+    "hint": "will",
+    "options": [],
+    "answer": "will",
+    "accept": [],
+    "explain": "First conditional natija qismida ehtimolni bildirish uchun 'will' fe'li qo'llaniladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If the water ______ to zero degrees, it turns into ice.",
+    "hint": "drop",
+    "options": [],
+    "answer": "drops",
+    "accept": [],
+    "explain": "Garchi bu umumiy haqiqat bo'lsa-da, First conditional qoidasiga ko'ra 'if' qismida Present Simple ('drops') qo'llaniladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "We ______ go for a picnic if the weather improves.",
+    "hint": "will",
+    "options": [],
+    "answer": "will",
+    "accept": [],
+    "explain": "First conditional natija qismi kelasi zamonni talab qiladi, shuning uchun 'will' ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If Timur ______ hard, his English will improve quickly.",
+    "hint": "practice",
+    "options": [],
+    "answer": "practices",
+    "accept": [
+     "practises"
+    ],
+    "explain": "First conditional shart qismida Present Simple ishlatiladi, Timur uchinchi shaxs birlik bo'lgani uchun 'practices' bo'ladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "I will lend you my book if you ______ it carefully.",
+    "hint": "read",
+    "options": [],
+    "answer": "read",
+    "accept": [],
+    "explain": "First conditional shart qismida 'you' olmoshidan keyin fe'lning o'zagi 'read' ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If buses are late, I ______ take a taxi to school.",
+    "hint": "will",
+    "options": [],
+    "answer": "will",
+    "accept": [],
+    "explain": "First conditional natija qismini ko'rsatish uchun 'will' yordamchi fe'li qo'llaniladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "She ______ be late if she misses her morning alarm.",
+    "hint": "will",
+    "options": [],
+    "answer": "will",
+    "accept": [],
+    "explain": "First conditional strukturasi bo'yicha natija qismida 'will' so'zi ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If they ______ hard, they will build a great house.",
+    "hint": "work",
+    "options": [],
+    "answer": "work",
+    "accept": [],
+    "explain": "First conditional shart qismida 'they' ko'plik olmoshi uchun Present Simple zamonidagi 'work' fe'li ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "The teacher will be angry if we ______ our homework.",
+    "hint": "forget",
+    "options": [],
+    "answer": "forget",
+    "accept": [],
+    "explain": "First conditional shart qismida 'we' olmoshidan keyin Present Simple inkor yoki tasdiq shakli keladi, bu yerda 'forget'.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If Rustam ______ to the party, we will have a lot of fun.",
+    "hint": "come",
+    "options": [],
+    "answer": "comes",
+    "accept": [],
+    "explain": "First conditional shart qismi Present Simple zamonini talab qiladi, Rustam uchun 'comes' to'g'ri keladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "You ______ get tired if you don't sleep well tonight.",
+    "hint": "will",
+    "options": [],
+    "answer": "will",
+    "accept": [],
+    "explain": "First conditional qoidasiga ko'ra natija qismi 'will' orqali yasaladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If Mom cooks plov today, I ______ eat three plates.",
+    "hint": "will",
+    "options": [],
+    "answer": "will",
+    "accept": [],
+    "explain": "First conditional natija qismida 'will' yordamchi fe'li ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Dad ______ buy a bicycle if I pass all my exams.",
+    "hint": "will",
+    "options": [],
+    "answer": "will",
+    "accept": [],
+    "explain": "First conditional natija qismida kelasi zamonni bildirish uchun 'will' ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If it ______ snows in winter, we will build a big snowman.",
+    "hint": "snow",
+    "options": [],
+    "answer": "snows",
+    "accept": [],
+    "explain": "First conditional shart qismida Present Simple qo'llaniladi, 'it' olmoshi uchun 'snows' bo'ladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If you touch that hot pan, you ______ burn your hand.",
+    "hint": "will",
+    "options": [],
+    "answer": "will",
+    "accept": [],
+    "explain": "First conditional natija qismida 'will' ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Aziza will buy some fresh fruits if she ______ to the bazaar.",
+    "hint": "go",
+    "options": [],
+    "answer": "goes",
+    "accept": [],
+    "explain": "First conditional shart qismi Present Simple zamonida bo'lishi kerak, Aziza (she) uchun 'goes' ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If we walk fast, we ______ arrive at the station on time.",
+    "hint": "will",
+    "options": [],
+    "answer": "will",
+    "accept": [],
+    "explain": "First conditional natija qismida kelasi zamonni ifodalash uchun 'will' qo'llaniladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "The cat ______ scratch you if you pull its tail.",
+    "hint": "will",
+    "options": [],
+    "answer": "will",
+    "accept": [],
+    "explain": "First conditional natija qismida ehtimoliy oqibatni ko'rsatish uchun 'will' ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If you mix blue and yellow, you ______ get green.",
+    "hint": "will",
+    "options": [],
+    "answer": "will",
+    "accept": [],
+    "explain": "First conditional qoidasiga ko'ra natija qismida 'will' ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If he ______ his phone at home, he won't call us.",
+    "hint": "leave",
+    "options": [],
+    "answer": "leaves",
+    "accept": [],
+    "explain": "First conditional shart qismi Present Simple zamonida bo'lishi kerak, 'he' olmoshi uchun 'leaves' to'g'ri keladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "I ______ help you with math if I have free time.",
+    "hint": "will",
+    "options": [],
+    "answer": "will",
+    "accept": [],
+    "explain": "First conditional natija qismi 'will' yordamchi fe'li yordamida yasaladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If the sun shines brightly, we ______ go swimming in the river.",
+    "hint": "will",
+    "options": [],
+    "answer": "will",
+    "accept": [],
+    "explain": "First conditional natija qismida kelasi zamonni bildirish uchun 'will' ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "If you eat too much candy, your teeth ______ hurt.",
+    "hint": "will",
+    "options": [],
+    "answer": "will",
+    "accept": [],
+    "explain": "First conditional natija qismida 'will' yordamchi fe'li ishlatiladi.",
+    "wrong": {}
+   }
+  ],
+  [
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "If it will rain tomorrow, we will stay at home.",
+     "If it rains tomorrow, we will stay at home.",
+     "If it rains tomorrow, we stay at home with will."
+    ],
+    "answer": "If it rains tomorrow, we will stay at home.",
+    "accept": [],
+    "explain": "Birinchi shart ergash gapda (If bilan) Present Simple ishlatiladi («rains»), shuning uchun kelasi zamon qo‘shilmaydi.",
+    "wrong": {
+     "If it will rain tomorrow, we will stay at home.": "If qismida «will» ishlatilmaydi, faqat Present Simple bo‘lishi kerak.",
+     "If it rains tomorrow, we stay at home with will.": "Asosiy gapda kelasi zamon uchun «will» qatnashishi shart."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "I will help you with math if I have free time.",
+     "I will help you with math if I will have free time.",
+     "I will help you with math if I has free time."
+    ],
+    "answer": "I will help you with math if I have free time.",
+    "accept": [],
+    "explain": "Shart ergash gapda «have» to'g'ri shaklda kelgan, chunki «if» dan keyin Present Simple ishlatiladi.",
+    "wrong": {
+     "I will help you with math if I will have free time.": "«If» so'zidan keyin «will» ishlatilmaydi.",
+     "I will help you with math if I has free time.": "«I» olmoshidan keyin «has» emas, «have» ishlatiladi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "If the sun shines brightly, we will go swimming in the river.",
+     "If the sun shine brightly, we will go swimming in the river.",
+     "If the sun will shine brightly, we will go swimming in the river."
+    ],
+    "answer": "If the sun shines brightly, we will go swimming in the river.",
+    "accept": [],
+    "explain": "«Shines» fe'li uchinchi shaxs birlikda to'g'ri tuzilgan.",
+    "wrong": {
+     "If the sun shine brightly, we will go swimming in the river.": "«The sun» birlikda, shuning uchun «shine» emas, «shines» bo'lishi kerak.",
+     "If the sun will shine brightly, we will go swimming in the river.": "«If» qismida «will» ishlatib bo'lmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "If you eat too much candy, your teeth will hurt.",
+     "If you will eat too much candy, your teeth hurt.",
+     "If you eat too much candy, your teeth hurts."
+    ],
+    "answer": "If you eat too much candy, your teeth will hurt.",
+    "accept": [],
+    "explain": "Birinchi qism Present Simple («eat»), ikkinchi qism «will» bilan to'g'ri kelgan.",
+    "wrong": {
+     "If you will eat too much candy, your teeth hurt.": "«If» oldidan «will» ishlatilib, natija qismida «will» tushirib qoldirilgan.",
+     "If you eat too much candy, your teeth hurts.": "«Teeth» ko'plikda, shuning uchun «hurts» emas, «hurt» kerak."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "If he leaves his phone at home, he won't call us.",
+     "If he leave his phone at home, he won't call us.",
+     "If he will leave his phone at home, he won't call us."
+    ],
+    "answer": "If he leaves his phone at home, he won't call us.",
+    "accept": [],
+    "explain": "«Leaves» fe'li «he» olmoshi uchun to'g'ri zamonda kelgan.",
+    "wrong": {
+     "If he leave his phone at home, he won't call us.": "«He» uchun fe'lga «-s» qo'shilishi shart.",
+     "If he will leave his phone at home, he won't call us.": "«If» ergash gapida «will» ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "If you mix blue and yellow, you will get green.",
+     "If you will mix blue and yellow, you get green.",
+     "If you mixes blue and yellow, you will get green."
+    ],
+    "answer": "If you mix blue and yellow, you will get green.",
+    "accept": [],
+    "explain": "Tabiiy qonuniyat First conditional qoidasi asosida «if + Present, will» orqali to'g'ri tuzilgan.",
+    "wrong": {
+     "If you will mix blue and yellow, you get green.": "Xato: «if» qismida «will», natija qismida esa «will» tushib qolgan.",
+     "If you mixes blue and yellow, you will get green.": "«You» olmoshidan keyin fe'lga «-s» qo'shilmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "The cat will scratch you if you pull its tail.",
+     "The cat scratch you if you will pull its tail.",
+     "The cat will scratch you if you will pull its tail."
+    ],
+    "answer": "The cat will scratch you if you pull its tail.",
+    "accept": [],
+    "explain": "Natija qismi bosh kelganda vergul ishlatilmaydi va birinchi qism «will» bilan to'g'ri tuzilgan.",
+    "wrong": {
+     "The cat scratch you if you will pull its tail.": "Birinchi qismda «will» yo'q, ikkinchi qismda «will» noto'g'ri ishlatilgan.",
+     "The cat will scratch you if you will pull its tail.": "«If» so'zidan keyin «will» ishlatilishi xato."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "If we walk fast, we will arrive at the station on time.",
+     "If we will walk fast, we arrive at the station on time.",
+     "If we walks fast, we will arrive at the station on time."
+    ],
+    "answer": "If we walk fast, we will arrive at the station on time.",
+    "accept": [],
+    "explain": "«Walk» fe'li «we» olmoshi uchun to'g'ri shaklda va kelasi zamon «will» bilan mos kelgan.",
+    "wrong": {
+     "If we will walk fast, we arrive at the station on time.": "«If» oldiga «will» qo'yilgan, natija qismida «will» unutib qoldirilgan.",
+     "If we walks fast, we will arrive at the station on time.": "«We» olmoshiga «-s» qo'shilmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Aziza will buy some fresh fruits if she goes to the bazaar.",
+     "Aziza will buy some fresh fruits if she go to the bazaar.",
+     "Aziza will buy some fresh fruits if she will go to the bazaar."
+    ],
+    "answer": "Aziza will buy some fresh fruits if she goes to the bazaar.",
+    "accept": [],
+    "explain": "«Goes» fe'li uchinchi shaxs birlik «she» uchun to'g'ri qo'llanilgan.",
+    "wrong": {
+     "Aziza will buy some fresh fruits if she go to the bazaar.": "«She» olmoshidan keyin fe'lga «-s» qo'shilishi kerak.",
+     "Aziza will buy some fresh fruits if she will go to the bazaar.": "«If» ergash gapida «will» ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "If you touch that hot pan, you will burn your hand.",
+     "If you will touch that hot pan, you burn your hand.",
+     "If you touches that hot pan, you will burn your hand."
+    ],
+    "answer": "If you touch that hot pan, you will burn your hand.",
+    "accept": [],
+    "explain": "«Touch» va «will burn» fe'llari First conditional qoidasiga to'liq mos keladi.",
+    "wrong": {
+     "If you will touch that hot pan, you burn your hand.": "«If» qismida «will» ortiqcha, natijada «will» yetishmayapti.",
+     "If you touches that hot pan, you will burn your hand.": "«You» olmoshidan keyin «touches» emas, «touch» ishlatiladi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "If it snows in winter, we will build a big snowman.",
+     "If it snow in winter, we will build a big snowman.",
+     "If it will snow in winter, we will build a big snowman."
+    ],
+    "answer": "If it snows in winter, we will build a big snowman.",
+    "accept": [],
+    "explain": "«Snows» fe'li «it» olmoshi bilan to'g'ri moslashgan.",
+    "wrong": {
+     "If it snow in winter, we will build a big snowman.": "«It» olmoshidan keyin fe'lga «-s» qo'shilishi shart.",
+     "If it will snow in winter, we will build a big snowman.": "«If» so'zidan keyin «will» kelishi xato."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Dad will buy a bicycle if I pass all my exams.",
+     "Dad will buy a bicycle if I will pass all my exams.",
+     "Dad will buy a bicycle if I passes all my exams."
+    ],
+    "answer": "Dad will buy a bicycle if I pass all my exams.",
+    "accept": [],
+    "explain": "«Pass» fe'li «I» olmoshi uchun to'g'ri shaklda kelgan.",
+    "wrong": {
+     "Dad will buy a bicycle if I will pass all my exams.": "«If» ergash gapida «will» ishlatilmaydi.",
+     "Dad will buy a bicycle if I passes all my exams.": "«I» olmoshiga «passes» emas, «pass» ishlatiladi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "If Mom cooks plov today, I will eat three plates.",
+     "If Mom cook plov today, I will eat three plates.",
+     "If Mom will cook plov today, I will eat three plates."
+    ],
+    "answer": "If Mom cooks plov today, I will eat three plates.",
+    "accept": [],
+    "explain": "«Cooks» fe'li «Mom» (she) uchun to'g'ri qo'llanilgan.",
+    "wrong": {
+     "If Mom cook plov today, I will eat three plates.": "«Mom» uchinchi shaxs birlik, fe'lga «-s» kerak.",
+     "If Mom will cook plov today, I will eat three plates.": "«If» qismida «will» qo'llash mumkin emas."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "You will get tired if you don't sleep well tonight.",
+     "You will get tired if you won't sleep well tonight.",
+     "You will get tired if you doesn't sleep well tonight."
+    ],
+    "answer": "You will get tired if you don't sleep well tonight.",
+    "accept": [],
+    "explain": "«Don't sleep» inkor shakli va «will get» kelasi zamoni to'g'ri qo'llanilgan.",
+    "wrong": {
+     "You will get tired if you won't sleep well tonight.": "«If» ergash gapida «won't» ishlatilmaydi.",
+     "You will get tired if you doesn't sleep well tonight.": "«You» olmoshiga «doesn't» emas, «don't» ishlatiladi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "If Rustam goes to the party, we will have a lot of fun.",
+     "If Rustam go to the party, we will have a lot of fun.",
+     "If Rustam will go to the party, we will have a lot of fun."
+    ],
+    "answer": "If Rustam goes to the party, we will have a lot of fun.",
+    "accept": [],
+    "explain": "«Goes» fe'li «Rustam» (he) uchun to'g'ri tuzilgan.",
+    "wrong": {
+     "If Rustam go to the party, we will have a lot of fun.": "«Rustam» bitta shaxs, shuning uchun fe'lga «-s» kerak.",
+     "If Rustam will go to the party, we will have a lot of fun.": "«If» so'zidan keyin «will» bo'lmasligi kerak."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "The teacher will be angry if we forget our homework.",
+     "The teacher will be angry if we will forget our homework.",
+     "The teacher will be angry if we forgets our homework."
+    ],
+    "answer": "The teacher will be angry if we forget our homework.",
+    "accept": [],
+    "explain": "«Forget» fe'li «we» olmoshi uchun to'g'ri kelgan.",
+    "wrong": {
+     "The teacher will be angry if we will forget our homework.": "«If» ergash gapida «will» ishlatish xato.",
+     "The teacher will be angry if we forgets our homework.": "«We» olmoshiga «-s» qo'shimchasi qo'shilmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "If they work hard, they will build a great house.",
+     "If they works hard, they will build a great house.",
+     "If they will work hard, they build a great house."
+    ],
+    "answer": "If they work hard, they will build a great house.",
+    "accept": [],
+    "explain": "«Work» fe'li «they» olmoshi bilan to'g'ri moslashgan.",
+    "wrong": {
+     "If they works hard, they will build a great house.": "«They» ko'plik, shuning uchun «works» xato.",
+     "If they will work hard, they build a great house.": "«If» qismida «will», natijada esa «will» tushib qolgan."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "She will be late if she misses her morning alarm.",
+     "She will be late if she miss her morning alarm.",
+     "She will be late if she will miss her morning alarm."
+    ],
+    "answer": "She will be late if she misses her morning alarm.",
+    "accept": [],
+    "explain": "«Misses» fe'li «she» olmoshi uchun to'g'ri shaklda.",
+    "wrong": {
+     "She will be late if she miss her morning alarm.": "«She» uchun fe'lga «-es» qo'shilishi shart.",
+     "She will be late if she will miss her morning alarm.": "«If» so'zidan keyin «will» ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "If buses are late, I will take a taxi to school.",
+     "If buses is late, I will take a taxi to school.",
+     "If buses will be late, I will take a taxi to school."
+    ],
+    "answer": "If buses are late, I will take a taxi to school.",
+    "accept": [],
+    "explain": "«Are» fe'li ko'plikdagi «buses» so'ziga mos keladi.",
+    "wrong": {
+     "If buses is late, I will take a taxi to school.": "«Buses» ko'plikda, shuning uchun «is» emas, «are» kerak.",
+     "If buses will be late, I will take a taxi to school.": "«If» qismida «will» ishlatilishi xato."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "I will lend you my book if you read it carefully.",
+     "I will lend you my book if you will read it carefully.",
+     "I will lend you my book if you reads it carefully."
+    ],
+    "answer": "I will lend you my book if you read it carefully.",
+    "accept": [],
+    "explain": "«Read» fe'li «you» olmoshi uchun to'g'ri qo'llanilgan.",
+    "wrong": {
+     "I will lend you my book if you will read it carefully.": "«If» ergash gapida «will» ishlatib bo'lmaydi.",
+     "I will lend you my book if you reads it carefully.": "«You» olmoshidan keyin fe'lga «-s» qo'shilmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "If Timur works hard, his English will improve quickly.",
+     "If Timur work hard, his English will improve quickly.",
+     "If Timur will work hard, his English will improve quickly."
+    ],
+    "answer": "If Timur works hard, his English will improve quickly.",
+    "accept": [],
+    "explain": "«Works» fe'li «Timur» (he) uchun to'g'ri tuzilgan.",
+    "wrong": {
+     "If Timur work hard, his English will improve quickly.": "«Timur» uchinchi shaxs birlik, fe'lga «-s» qo'shish kerak.",
+     "If Timur will work hard, his English will improve quickly.": "«If» so'zidan keyin «will» kelishi xato."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "We will go for a picnic if the weather improves.",
+     "We will go for a picnic if the weather improve.",
+     "We will go for a picnic if the weather will improve."
+    ],
+    "answer": "We will go for a picnic if the weather improves.",
+    "accept": [],
+    "explain": "«Improves» fe'li «the weather» (it) uchun to'g'ri qo'llanilgan.",
+    "wrong": {
+     "We will go for a picnic if the weather improve.": "«The weather» birlikda, shuning uchun fe'lga «-s» kerak.",
+     "We will go for a picnic if the weather will improve.": "«If» qismida «will» ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "If the water freezes to zero degrees, it turns into ice.",
+     "If the water freeze to zero degrees, it turns into ice.",
+     "If the water will freeze to zero degrees, it will turn into ice."
+    ],
+    "answer": "If the water freezes to zero degrees, it turns into ice.",
+    "accept": [],
+    "explain": "Zero conditional qoidasiga ko'ra ikkala qism ham Present Simple zamonida to'g'ri tuzilgan.",
+    "wrong": {
+     "If the water freeze to zero degrees, it turns into ice.": "«Water» sanalmaydigan ot, fe'lga «-es» qo'shilishi kerak.",
+     "If the water will freeze to zero degrees, it will turn into ice.": "Umumiy haqiqatlarda Zero conditional (Present Simple + Present Simple) ishlatiladi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "If you don't wear a coat, you will catch a cold.",
+     "If you won't wear a coat, you will catch a cold.",
+     "If you doesn't wear a coat, you will catch a cold."
+    ],
+    "answer": "If you don't wear a coat, you will catch a cold.",
+    "accept": [],
+    "explain": "«Don't wear» inkor shakli va «will catch» kelasi zamoni to'g'ri moslashgan.",
+    "wrong": {
+     "If you won't wear a coat, you will catch a cold.": "«If» ergash gapida «won't» ishlatish xato.",
+     "If you doesn't wear a coat, you will catch a cold.": "«You» olmoshiga «doesn't» emas, «don't» ishlatiladi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Gulnora will be very happy if she wins the competition.",
+     "Gulnora will be very happy if she win the competition.",
+     "Gulnora will be very happy if she will win the competition."
+    ],
+    "answer": "Gulnora will be very happy if she wins the competition.",
+    "accept": [],
+    "explain": "«Wins» fe'li «she» olmoshi uchun to'g'ri shaklda.",
+    "wrong": {
+     "Gulnora will be very happy if she win the competition.": "«She» uchun fe'lga «-s» qo'shilishi shart.",
+     "Gulnora will be very happy if she will win the competition.": "«If» so'zidan keyin «will» ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "If I have time tonight, I will watch a new movie.",
+     "If I will have time tonight, I will watch a new movie.",
+     "If I has time tonight, I will watch a new movie."
+    ],
+    "answer": "If I have time tonight, I will watch a new movie.",
+    "accept": [],
+    "explain": "«Have» fe'li «I» olmoshi uchun Present Simple zamonida to'g'ri qo'llanilgan.",
+    "wrong": {
+     "If I will have time tonight, I will watch a new movie.": "«If» qismida «will» ishlatilishi xato.",
+     "If I has time tonight, I will watch a new movie.": "«I» olmoshidan keyin «has» emas, «have» keladi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "They will buy a new laptop if they have enough money.",
+     "They will buy a new laptop if they will have enough money.",
+     "They will buy a new laptop if they has enough money."
+    ],
+    "answer": "They will buy a new laptop if they have enough money.",
+    "accept": [],
+    "explain": "«Have» fe'li «they» olmoshi uchun to'g'ri tuzilgan.",
+    "wrong": {
+     "They will buy a new laptop if they will have enough money.": "«If» ergash gapida «will» ishlatib bo'lmaydi.",
+     "They will buy a new laptop if they has enough money.": "«They» ko'plikda, shuning uchun «has» xato."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "If Jasur arrives early, he will help us with cooking.",
+     "If Jasur arrive early, he will help us with cooking.",
+     "If Jasur will arrive early, he will help us with cooking."
+    ],
+    "answer": "If Jasur arrives early, he will help us with cooking.",
+    "accept": [],
+    "explain": "«Arrives» fe'li «Jasur» (he) uchun to'g'ri qo'llanilgan.",
+    "wrong": {
+     "If Jasur arrive early, he will help us with cooking.": "«Jasur» bitta shaxs, shuning uchun fe'lga «-s» kerak.",
+     "If Jasur will arrive early, he will help us with cooking.": "«If» so'zidan keyin «will» qo'yish mumkin emas."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "She will miss the bus if she doesn't hurry up now.",
+     "She will miss the bus if she won't hurry up now.",
+     "She will miss the bus if she don't hurry up now."
+    ],
+    "answer": "She will miss the bus if she doesn't hurry up now.",
+    "accept": [],
+    "explain": "«Doesn't hurry» inkor shakli «she» olmoshi uchun to'g'ri tuzilgan.",
+    "wrong": {
+     "She will miss the bus if she won't hurry up now.": "«If» qismida «won't» ishlatilishi xato.",
+     "She will miss the bus if she don't hurry up now.": "«She» olmoshiga «don't» emas, «doesn't» ishlatiladi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "If you study hard, you will pass the test easily.",
+     "If you will study hard, you pass the test easily.",
+     "If you studies hard, you will pass the test easily."
+    ],
+    "answer": "If you study hard, you will pass the test easily.",
+    "accept": [],
+    "explain": "«Study» va «will pass» fe'llari First conditional qoidasiga to'liq mos keladi.",
+    "wrong": {
+     "If you will study hard, you pass the test easily.": "«If» oldiga «will» qo'yilgan, natijada esa «will» tushib qolgan.",
+     "If you studies hard, you will pass the test easily.": "«You» olmoshidan keyin fe'lga «-s» qo'shilmaydi."
+    }
+   }
+  ]
+ ],
+ "intro": {
+  "what": "Biz kelajak haqida gapirish uchun 'will' va 'going to' zamonlaridan, shuningdek birinchi shart gaplardan foydalanamiz. Ushbu qoidalar rejalashtirilgan ishlar, taxminlar va shartli vaziyatlarni ifodalashga yordam beradi.",
+  "when": [
+   "Oldindan rejalashtirilmagan ishlar va tezkor qarorlar uchun 'will' ishlatiladi.",
+   "Aniq reja va niyatlar uchun 'be going to' ishlatiladi.",
+   "Ko'zlangan dalillarga asoslangan kelajakdagi voqealar uchun 'be going to' ishlatiladi.",
+   "Kelajakdagi taxminlar uchun 'will' yoki 'going to' mos keladi.",
+   "Real shart-sharoit va uning natijasini ko'rsatish uchun First Conditional ishlatiladi."
+  ],
+  "structures": [
+   {
+    "label": "Will (Darak gap)",
+    "formula": "Subject + will + verb",
+    "example_en": "I will help you with your homework.",
+    "example_uz": "Sizga uy vazifangizda yordam beraman."
+   },
+   {
+    "label": "Be going to (Darak gap)",
+    "formula": "Subject + am/is/are + going to + verb",
+    "example_en": "We are going to visit Samarkand this summer.",
+    "example_uz": "Biz bu yoz Samarqandga bormoqchimiz."
+   },
+   {
+    "label": "First Conditional",
+    "formula": "If + present simple, subject + will + verb",
+    "example_en": "If it rains, we will stay at home.",
+    "example_uz": "Agar yomg'ir yog'sa, biz uyda qolamiz."
+   },
+   {
+    "label": "Will (So'roq gap)",
+    "formula": "Will + subject + verb?",
+    "example_en": "Will you come to my birthday party?",
+    "example_uz": "Tug'ilgan kunimga kelasizmi?"
+   },
+   {
+    "label": "Be going to (So'roq gap)",
+    "formula": "Am/is/are + subject + going to + verb?",
+    "example_en": "Are you going to buy a new phone?",
+    "example_uz": "Yangi telefon sotib olmoqchimisiz?"
+   }
+  ],
+  "rules": [
+   {
+    "title": "Tezkor qarorlar uchun 'Will'",
+    "text": "Gapirayotgan paytda qabul qilingan qarorlar uchun 'will' so'zi ishlatiladi.",
+    "examples": [
+     {
+      "en": "The phone is ringing. I will answer it.",
+      "uz": "Telefon jiringlayapti. Men javob beraman."
+     },
+     {
+      "en": "It is cold. I will close the window.",
+      "uz": "Havo sovuq. Men derazani yopaman."
+     }
+    ]
+   },
+   {
+    "title": "Rejalar uchun 'Be going to'",
+    "text": "Oldindan o'ylangan rejalar va niyatlar haqida gapirganda 'going to' ishlatiladi.",
+    "examples": [
+     {
+      "en": "I am going to study English tonight.",
+      "uz": "Men bugun kechqurun ingliz tilini o'qimoqchiman."
+     },
+     {
+      "en": "She is going to buy a red dress.",
+      "uz": "U qizil ko'ylak sotib olmoqchi."
+     }
+    ]
+   },
+   {
+    "title": "Aniq dalillar bilan taxmin qilish",
+    "text": "Atrofimizda ko'rib turgan narsalarimiz asosida kelajakni taxmin qilsak, 'going to' ishlatamiz.",
+    "examples": [
+     {
+      "en": "Look at those dark clouds. It is going to rain.",
+      "uz": "Anavi qora bulutlarga qarang. Yomg'ir yog'moqchi."
+     },
+     {
+      "en": "He is running fast. He is going to win the race.",
+      "uz": "U tez yuguryapti. U poygada g'alaba qozonmoqchi."
+     }
+    ]
+   },
+   {
+    "title": "First Conditional tuzilishi",
+    "text": "Shart qismida hozirgi zamon (Present Simple), natija qismida esa 'will' ishlatiladi.",
+    "examples": [
+     {
+      "en": "If you study hard, you will pass the exam.",
+      "uz": "Agar qattiq o'qisangiz, imtihondan o'tasiz."
+     },
+     {
+      "en": "If she misses the bus, she will be late.",
+      "uz": "Agar u avtobusdan qolib ketsa, kechqoladi."
+     }
+    ]
+   }
+  ],
+  "signal_words": [
+   {
+    "en": "tomorrow",
+    "uz": "ertaga"
+   },
+   {
+    "en": "next week",
+    "uz": "kelasi hafta"
+   },
+   {
+    "en": "soon",
+    "uz": "tez orada"
+   },
+   {
+    "en": "if",
+    "uz": "agar"
+   },
+   {
+    "en": "I think",
+    "uz": "men o'ylaymanki"
+   },
+   {
+    "en": "definitely",
+    "uz": "albatta"
+   },
+   {
+    "en": "tonight",
+    "uz": "bugun kechqurun"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "If it will rain, I will stay at home.",
+    "right": "If it rains, I will stay at home.",
+    "why": "First conditional qoidasiga ko'ra, 'if' qismida 'will' ishlatilmaydi, faqat Present Simple ishlatiladi."
+   },
+   {
+    "wrong": "I go to buy a new laptop tomorrow.",
+    "right": "I am going to buy a new laptop tomorrow.",
+    "why": "Kelajakdagi shaxsiy reja uchun 'be going to' kerak, shunchaki 'go' fe'li yetarli emas."
+   },
+   {
+    "wrong": "She will visit Tashkent next week, she has ticket.",
+    "right": "She is going to visit Tashkent next week, she has a ticket.",
+    "why": "Chipta allaqachon olingan bo'lsa, bu aniq reja hisoblanadi va 'going to' ishlatiladi."
+   },
+   {
+    "wrong": "I drop this bag, I help you.",
+    "right": "I will help you with that bag.",
+    "why": "Vaziyat taqozosi bilan qilingan yordam va'dalari yoki qarorlar uchun 'will' ishlatiladi."
+   }
+  ]
+ }
+}

@@ -1,0 +1,79 @@
+{
+  "code": "U4", "kind": "unit", "unit": 4, "price": 20000,
+  "title": "Unit 4 Test",
+  "subtitle": "Family · my / your / his / her / our / their · ’s · have / has",
+  "sections": [
+    {
+      "title": "A. Complete the sentences. Use my, your, his, her, our, or their.",
+      "items": [
+        { "t": "text", "q": "I’m Sevara. ______ brother is a doctor.", "a": ["My"] },
+        { "t": "text", "q": "Bobur is a student. ______ school is in Andijan.", "a": ["His"] },
+        { "t": "text", "q": "We’re from Fergana. ______ house is big.", "a": ["Our"] },
+        { "t": "text", "q": "Zarina has a cat. ______ cat is black.", "a": ["Her"] },
+        { "t": "text", "q": "Tom and Lisa are teachers. ______ students are nice.", "a": ["Their"] },
+        { "t": "text", "q": "Hello, Kamola! Is this ______ phone?", "a": ["your"] }
+      ]
+    },
+    {
+      "title": "B. Read about the family. Complete the sentences.",
+      "passage": "Rustam and Dilfuza are married. They have three children: two sons, Sardor and Jamshid, and one daughter, Madina. Madina is married to Alisher. They have a baby girl, Lola.",
+      "items": [
+        { "t": "text", "q": "Rustam is Dilfuza’s ______.", "a": ["husband"] },
+        { "t": "text", "q": "Dilfuza is Rustam’s ______.", "a": ["wife"] },
+        { "t": "text", "q": "Sardor is Madina’s ______.", "a": ["brother"] },
+        { "t": "text", "q": "Madina is Rustam’s ______.", "a": ["daughter"] },
+        { "t": "text", "q": "Jamshid is Dilfuza’s ______.", "a": ["son"] },
+        { "t": "text", "q": "Dilfuza is Lola’s ______.", "a": ["grandmother", "grandma"] }
+      ]
+    },
+    {
+      "title": "C. Look at the family again and answer the questions.",
+      "items": [
+        { "t": "mc", "q": "Who’s Madina’s husband?", "o": ["Sardor", "Alisher", "Rustam", "Jamshid"], "a": 1 },
+        { "t": "mc", "q": "Who are Madina’s brothers?", "o": ["Rustam and Alisher", "Sardor and Jamshid", "Alisher and Sardor", "Lola and Jamshid"], "a": 1 },
+        { "t": "mc", "q": "Who’s Lola’s mother?", "o": ["Dilfuza", "Madina", "Lola", "Sardor"], "a": 1 },
+        { "t": "mc", "q": "Who’s Rustam’s wife?", "o": ["Madina", "Lola", "Dilfuza", "Alisher"], "a": 2 }
+      ]
+    },
+    {
+      "title": "D. Complete the sentences. Write have or has.",
+      "items": [
+        { "t": "text", "q": "I ______ a sister and two brothers.", "a": ["have"] },
+        { "t": "text", "q": "My father ______ a new car.", "a": ["has"] },
+        { "t": "text", "q": "We ______ a small flat in the city.", "a": ["have"] },
+        { "t": "text", "q": "Our teacher ______ a lot of books.", "a": ["has"] },
+        { "t": "text", "q": "They ______ two dogs.", "a": ["have"] }
+      ]
+    },
+    {
+      "title": "E. Complete the text. Write has, have, is, or are.",
+      "passage": "My uncle Botir ___(1) a farmer. He ___(2) a big house in the village. His children ___(3) at school now. His wife ___(4) a nice garden, and they ___(5) a lot of animals.",
+      "items": [
+        { "t": "text", "q": "(1)", "a": ["is"] },
+        { "t": "text", "q": "(2)", "a": ["has"] },
+        { "t": "text", "q": "(3)", "a": ["are"] },
+        { "t": "text", "q": "(4)", "a": ["has"] },
+        { "t": "text", "q": "(5)", "a": ["have"] }
+      ]
+    },
+    {
+      "title": "F. Complete the telephone conversation. Choose the correct answer.",
+      "items": [
+        { "t": "mc", "q": "A: Hello, 456 7890.  B: Hello. ______ Aziza there, please?", "o": ["Are", "Is", "Am", "Has"], "a": 1 },
+        { "t": "mc", "q": "A: ______ moment, please.", "o": ["A", "One", "The", "This"], "a": 1 },
+        { "t": "mc", "q": "C: Hello, Aziza ______.", "o": ["here", "speaking", "is", "talk"], "a": 1 },
+        { "t": "mc", "q": "B: Hi! It’s Komil. ______ are you?", "o": ["What", "Where", "How", "Who"], "a": 2 }
+      ]
+    },
+    {
+      "title": "G. Read the text and answer the questions.",
+      "passage": "Hi, I’m Daniel. I’m a bus driver. I have a wife and two children. My wife’s name is Rosa. She’s a nurse. Our son, Max, is 9 and his favourite sport is football. Our daughter, Mia, is 6. Her favourite food is pizza.",
+      "items": [
+        { "t": "text", "q": "What’s Daniel’s job?", "a": ["bus driver", "He’s a bus driver", "He is a bus driver", "a bus driver"] },
+        { "t": "text", "q": "What’s his wife’s name?", "a": ["Rosa", "Her name’s Rosa", "Her name is Rosa"] },
+        { "t": "text", "q": "How old is Max?", "a": ["9", "He’s 9", "He is 9", "nine"] },
+        { "t": "text", "q": "What’s Mia’s favourite food?", "a": ["pizza", "It’s pizza", "It is pizza"] }
+      ]
+    }
+  ]
+}

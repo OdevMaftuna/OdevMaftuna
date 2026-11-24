@@ -1,0 +1,1197 @@
+{
+ "code": "6.1",
+ "intro": {
+  "what": "Present Simple zamonida uchinchi shaxs birlik (he, she, it) olmoshlari bilan fe'llarga -s, -es yoki -ies qo'shimchalari qo'shilib ishlatiladi.",
+  "when": [
+   "Doimiy takrorlanadigan ish-harakatlar uchun",
+   "Kundalik odatlar uchun",
+   "Faktlar va haqiqatlar uchun"
+  ],
+  "structures": [
+   {
+    "label": "(+)",
+    "formula": "S + V + s/es/ies + OB",
+    "example_en": "He works in Tashkent.",
+    "example_uz": "U Toshkentda ishlaydi."
+   },
+   {
+    "label": "(-)",
+    "formula": "S + doesn't + V1 + OB",
+    "example_en": "She doesn't live in Samarkand.",
+    "example_uz": "U Samarqandda yashamaydi."
+   },
+   {
+    "label": "(?)",
+    "formula": "Does + S + V1 + OB?",
+    "example_en": "Does he speak English?",
+    "example_uz": "U ingliz tilida gapiradimi?"
+   },
+   {
+    "label": "Wh-",
+    "formula": "Wh- + does + S + V1 + OB?",
+    "example_en": "Where does she live?",
+    "example_uz": "U qayerda yashaydi?"
+   },
+   {
+    "label": "Qisqa javob",
+    "formula": "Yes, S + does / No, S + doesn't",
+    "example_en": "Yes, he does. / No, he doesn't.",
+    "example_uz": "Ha, u shunday qiladi. / Yo'q, u bunday qilmaydi."
+   }
+  ],
+  "rules": [
+   {
+    "title": "Imlo qoidasi (-es)",
+    "text": "Agar fe'l -s, -ss, -sh, -ch, -x yoki -o harflari bilan tugasa, -es qo'shimchasi qo'shiladi.",
+    "examples": [
+     {
+      "en": "He watches TV.",
+      "uz": "U televizor ko'radi."
+     },
+     {
+      "en": "She goes to school.",
+      "uz": "U maktabga boradi."
+     }
+    ]
+   },
+   {
+    "title": "Imlo qoidasi (-ies)",
+    "text": "Agar fe'l undosh harf + y bilan tugsa, y tushib qoladi va -ies qo'shiladi.",
+    "examples": [
+     {
+      "en": "He studies English.",
+      "uz": "U ingliz tilini o'rganadi."
+     },
+     {
+      "en": "She carries a big bag.",
+      "uz": "U katta sumka ko'tarib yuradi."
+     }
+    ]
+   },
+   {
+    "title": "Maxsus fe'l (have)",
+    "text": "He, she, it olmoshlari bilan have fe'li has shakliga o'zgaradi.",
+    "examples": [
+     {
+      "en": "He has a nice car.",
+      "uz": "Uning chiroyli mashinasi bor."
+     },
+     {
+      "en": "She has breakfast early.",
+      "uz": "U ertalab nonushta qiladi."
+     }
+    ]
+   }
+  ],
+  "signal_words": [
+   {
+    "en": "always",
+    "uz": "har doim"
+   },
+   {
+    "en": "usually",
+    "uz": "odatda"
+   },
+   {
+    "en": "often",
+    "uz": "tez-tez"
+   },
+   {
+    "en": "sometimes",
+    "uz": "ba'zan"
+   },
+   {
+    "en": "never",
+    "uz": "hech qachon"
+   },
+   {
+    "en": "everyday",
+    "uz": "har kuni"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "He work in a bank.",
+    "right": "He works in a bank.",
+    "why": "He, she, it olmoshlari bilan fe'lga -s qo'shilishi shart."
+   },
+   {
+    "wrong": "She doesn't works here.",
+    "right": "She doesn't work here.",
+    "why": "Inkor shaklida doesn't so'zidan keyin fe'l o'zining bosh shaklida (-ssiz) keladi."
+   },
+   {
+    "wrong": "Does he likes tea?",
+    "right": "Does he like tea?",
+    "why": "So'roq gapda Does yordamchi fe'li kelgani uchun asosiy fe'lga -s qo'shilmaydi."
+   }
+  ]
+ },
+ "test": [
+  {
+   "type": "fill",
+   "q": "He ______ in Tashkent.",
+   "answer": "works",
+   "explain": "He, she, it bilan Present Simple darak gapda fe'lga -s qo'shiladi.",
+   "hint": "work"
+  },
+  {
+   "type": "fill",
+   "q": "She ______ English everyday.",
+   "answer": "studies",
+   "explain": "Undosh + y bilan tugagan fe'llarda y tushib -ies qo'shiladi.",
+   "hint": "study"
+  },
+  {
+   "type": "fill",
+   "q": "He ______ TV in the evening.",
+   "answer": "watches",
+   "explain": "-ch bilan tugagan fe'lga -es qo'shiladi.",
+   "hint": "watch"
+  },
+  {
+   "type": "fill",
+   "q": "She ______ to school at 8 o'clock.",
+   "answer": "goes",
+   "explain": "-o bilan tugagan fe'lga -es qo'shiladi.",
+   "hint": "go"
+  },
+  {
+   "type": "fill",
+   "q": "He ______ a nice car.",
+   "answer": "has",
+   "explain": "He, she, it olmoshlari bilan have fe'li has shaklini oladi.",
+   "hint": "have"
+  },
+  {
+   "type": "fill",
+   "q": "Ali ______ coffee in the morning.",
+   "answer": "drinks",
+   "explain": "Ali (he) uchun fe'lga -s qo'shiladi.",
+   "hint": "drink"
+  },
+  {
+   "type": "fill",
+   "q": "Malika ______ a big house.",
+   "answer": "has",
+   "explain": "Malika (she) uchun have fe'li has ga o'zgaradi.",
+   "hint": "have"
+  },
+  {
+   "type": "fill",
+   "q": "She ______ like milk.",
+   "answer": "doesn't",
+   "explain": "She uchun inkor shaklida doesn't ishlatiladi.",
+   "hint": "not + do"
+  },
+  {
+   "type": "fill",
+   "q": "He ______ speak Arabic.",
+   "answer": "doesn't",
+   "explain": "Inkor gapda he uchun doesn't qo'shiladi.",
+   "hint": "not + do"
+  },
+  {
+   "type": "fill",
+   "q": "______ she live in Samarkand?",
+   "answer": "Does",
+   "explain": "She bilan so'roq gap boshida Does ishlatiladi.",
+   "hint": "do"
+  },
+  {
+   "type": "fill",
+   "q": "______ he work in a bank?",
+   "answer": "Does",
+   "explain": "He bilan boshlanuvchi so'roq gap Does yordamchi fe'li bilan boshlanadi.",
+   "hint": "do"
+  },
+  {
+   "type": "fill",
+   "q": "Where ______ she live?",
+   "answer": "does",
+   "explain": "Maxsus so'roq gapda where dan keyin does keladi.",
+   "hint": "do"
+  },
+  {
+   "type": "fill",
+   "q": "What time ______ he get up?",
+   "answer": "does",
+   "explain": "He bilan kelgan maxsus so'roq gapda does ishlatiladi.",
+   "hint": "do"
+  },
+  {
+   "type": "fill",
+   "q": "Yes, she ______.",
+   "answer": "does",
+   "explain": "Qisqa tasdiq javob she does bilan tugaydi.",
+   "hint": "do"
+  },
+  {
+   "type": "fill",
+   "q": "No, he ______.",
+   "answer": "doesn't",
+   "explain": "Qisqa inkor javob he doesn't bo'ladi.",
+   "hint": "not + do"
+  },
+  {
+   "type": "fill",
+   "q": "Aziz ______ up early everyday.",
+   "answer": "gets",
+   "explain": "Aziz (he) uchun get fe'liga -s qo'shiladi.",
+   "hint": "get"
+  },
+  {
+   "type": "fill",
+   "q": "She ______ lunch at 1 o'clock.",
+   "answer": "has",
+   "explain": "She bilan have fe'li has bo'ladi.",
+   "hint": "have"
+  },
+  {
+   "type": "fill",
+   "q": "He ______ football at the weekend.",
+   "answer": "plays",
+   "explain": "He uchun play fe'liga -s qo'shiladi.",
+   "hint": "play"
+  },
+  {
+   "type": "fill",
+   "q": "She ______ dinner in the evening.",
+   "answer": "cooks",
+   "explain": "She uchun fe'lga -s qo'shiladi.",
+   "hint": "cook"
+  },
+  {
+   "type": "fill",
+   "q": "He ______ his room on Saturday.",
+   "answer": "cleans",
+   "explain": "He uchun clean fe'liga -s qo'shiladi.",
+   "hint": "clean"
+  },
+  {
+   "type": "mc",
+   "q": "She ______ in a hospital.",
+   "answer": "works",
+   "explain": "She olmoshidan keyin fe'lga -s qo'shiladi.",
+   "options": [
+    "work",
+    "works",
+    "working"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "He ______ like fish.",
+   "answer": "doesn't",
+   "explain": "He bilan inkor shaklda doesn't ishlatiladi.",
+   "options": [
+    "don't",
+    "doesn't",
+    "isn't"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ she speak English?",
+   "answer": "Does",
+   "explain": "She olmoshiga savol berish uchun Does ishlatiladi.",
+   "options": [
+    "Do",
+    "Does",
+    "Is"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "My brother ______ up early.",
+   "answer": "gets",
+   "explain": "My brother bu he, shuning uchun gets ishlatiladi.",
+   "options": [
+    "get",
+    "gets",
+    "getting"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Where ______ your sister live?",
+   "answer": "does",
+   "explain": "Sister (she) uchun wh- so'roqda does yordamchi fe'li keladi.",
+   "options": [
+    "do",
+    "does",
+    "is"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "He ______ breakfast at 8 o'clock.",
+   "answer": "has",
+   "explain": "He olmoshi bilan have fe'li has shaklida ishlatiladi.",
+   "options": [
+    "have",
+    "has",
+    "haves"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "She ______ like tea.",
+   "answer": "doesn't",
+   "explain": "Inkor gapda she uchun doesn't + V1 qo'llaniladi.",
+   "options": [
+    "doesn't",
+    "don't",
+    "not"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Tom ______ to work by bus.",
+   "answer": "goes",
+   "explain": "Tom (he) va -o bilan tugagan go fe'liga -es qo'shiladi.",
+   "options": [
+    "go",
+    "goes",
+    "gos"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Does he play tennis? - Yes, he ______.",
+   "answer": "does",
+   "explain": "Does bilan berilgan savolga Yes, he does deb javob beriladi.",
+   "options": [
+    "do",
+    "does",
+    "is"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "She ______ a new car.",
+   "answer": "has",
+   "explain": "She uchun have fe'li has bo'lib o'zgaradi.",
+   "options": [
+    "have",
+    "has",
+    "haves"
+   ]
+  }
+ ],
+ "model": "gemini-3.5-flash-lite",
+ "tr1": [
+  {
+   "part": 0,
+   "uz": "Tom har kuni ishlaydi.",
+   "en": [
+    "Tom works everyday.",
+    "Tom works every day."
+   ],
+   "rule": "He, she, it olmoshlari bilan fe'lga -s qo'shimchasi qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Malika London shahrida yashaydi.",
+   "en": [
+    "Malika lives in London."
+   ],
+   "rule": "Uchinchi shaxs birlikda fe'l oxiriga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ushbu dars ertalab boshlanadi.",
+   "en": [
+    "This lesson starts in the morning."
+   ],
+   "rule": "It olmoshi uchun fe'lga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Aziz har kuni ertalab dush qabul qiladi.",
+   "en": [
+    "Aziz has a shower everyday.",
+    "Aziz has a shower every day."
+   ],
+   "rule": "Have fe'li he, she, it bilan has shaklini oladi."
+  },
+  {
+   "part": 0,
+   "uz": "Mening ukam ingliz tilini o'rganadi.",
+   "en": [
+    "My brother studies English."
+   ],
+   "rule": "Undosh harfdan keyingi y harfi ies ga o'zgaradi."
+  },
+  {
+   "part": 0,
+   "uz": "U kechqurun televizor ko'radi.",
+   "en": [
+    "He watches television in the evening."
+   ],
+   "rule": "-ch har birikmasidan keyin fe'lga -es qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Anna har kuni soat oltida turadi.",
+   "en": [
+    "Anna gets up at six o'clock everyday.",
+    "Anna gets up at six o'clock every day."
+   ],
+   "rule": "He, she, it bilan fe'l oxiriga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Mening dugonam tushlikka sendvich yeydi.",
+   "en": [
+    "My girlfriend eats a sandwich for lunch."
+   ],
+   "rule": "She olmoshi bilan fe'lga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U choy ichadi va non yeydi.",
+   "en": [
+    "He drinks tea and eats bread."
+   ],
+   "rule": "Uchinchi shaxs birlik fe'llari -s oladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu do'kon ertalab ochiladi.",
+   "en": [
+    "This shop opens in the morning."
+   ],
+   "rule": "It olmoshi bilan fe'lga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Mening dadam bankda ishlaydi.",
+   "en": [
+    "My dad works in a bank."
+   ],
+   "rule": "He olmoshi bilan fe'lga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U har kuni kechqurun uyga boradi.",
+   "en": [
+    "He goes home in the evening."
+   ],
+   "rule": "o harfi bilan tugagan fe'lga -es qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Mening opam universitetda o'qiydi.",
+   "en": [
+    "My sister studies at a university."
+   ],
+   "rule": "Consonant + y so'zida -ies ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U ingliz tilida yaxshi gapiradi.",
+   "en": [
+    "He speaks English well."
+   ],
+   "rule": "He olmoshidan keyin fe'lga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Mening akam har kuni mashina haydaydi.",
+   "en": [
+    "My brother drives a car everyday.",
+    "My brother drives a car every day."
+   ],
+   "rule": "He olmoshi bilan drive fe'liga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U har kuni ertalab qahva ichadi.",
+   "en": [
+    "She drinks coffee in the morning."
+   ],
+   "rule": "She olmoshi bilan drink fe'liga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu uy juda katta.",
+   "en": [
+    "This house is very big."
+   ],
+   "rule": "Verb to be (is) uchinchi shaxs birlik uchun."
+  },
+  {
+   "part": 0,
+   "uz": "Ushbu kamera yangi.",
+   "en": [
+    "This camera is new."
+   ],
+   "rule": "It olmoshiga mos keluvchi is fe'li ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Mening do'stim futbol o'ynaydi.",
+   "en": [
+    "My friend plays football."
+   ],
+   "rule": "He yoki she olmoshi uchun play fe'liga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U ovqat pishiradi va musiqa tinglaydi.",
+   "en": [
+    "She cooks food and listens to music."
+   ],
+   "rule": "Ikki fe'lga ham -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Mening onam shifoxonada ishlaydi.",
+   "en": [
+    "My mother works in a hospital."
+   ],
+   "rule": "She olmoshi bilan work fe'liga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U kun bo'yi ishlaydi.",
+   "en": [
+    "He works all day."
+   ],
+   "rule": "He olmoshi bilan fe'lga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ushbu shahar juda chiroyli.",
+   "en": [
+    "This city is very beautiful."
+   ],
+   "rule": "It olmoshidan keyin is fe'li keladi."
+  },
+  {
+   "part": 0,
+   "uz": "Mening sinfdoshim uy vazifasini qiladi.",
+   "en": [
+    "My friend does homework."
+   ],
+   "rule": "Do fe'liga -es qo'shilib does bo'ladi."
+  },
+  {
+   "part": 0,
+   "uz": "U kechqurun kitob o'qiydi.",
+   "en": [
+    "She reads a book in the evening."
+   ],
+   "rule": "She olmoshi bilan read fe'liga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U har yakshanba dam oladi.",
+   "en": [
+    "He relaxes every Sunday."
+   ],
+   "rule": "He olmoshi bilan fe'lga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Mening amakim shahar markazida yashaydi.",
+   "en": [
+    "My uncle lives in the town centre."
+   ],
+   "rule": "He olmoshi uchun live fe'liga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U har kuni ertalab nonushta qiladi.",
+   "en": [
+    "He has breakfast in the morning."
+   ],
+   "rule": "Have fe'li he, she, it bilan has bo'ladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mushuk baliq yeydi.",
+   "en": [
+    "This cat eats fish."
+   ],
+   "rule": "It (mushuk) olmoshi bilan eat fe'liga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U ingliz tilidagi jurnallarni o'qiydi.",
+   "en": [
+    "She reads English magazines."
+   ],
+   "rule": "She olmoshi bilan fe'lga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Mening akam musiqa tinglaydi.",
+   "en": [
+    "My brother listens to music."
+   ],
+   "rule": "He olmoshi bilan listen fe'liga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U ertalab soat yettida turadi.",
+   "en": [
+    "He gets up at seven o'clock in the morning."
+   ],
+   "rule": "He olmoshi bilan fe'lga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu stul juda kichik.",
+   "en": [
+    "This chair is very small."
+   ],
+   "rule": "It olmoshiga is fe'li ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U har kuni kechqurun uyga keladi.",
+   "en": [
+    "She comes home in the evening."
+   ],
+   "rule": "She olmoshi bilan come fe'liga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Mening singlim rasm chizadi.",
+   "en": [
+    "My sister paints."
+   ],
+   "rule": "She olmoshi bilan fe'lga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U har kuni kechqurun ovqat pishiradi.",
+   "en": [
+    "He cooks in the evening everyday.",
+    "He cooks in the evening every day."
+   ],
+   "rule": "He olmoshi bilan cook fe'liga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Mening do'stim Toshkentda yashaydi.",
+   "en": [
+    "My friend lives in Tashkent."
+   ],
+   "rule": "He yoki she olmoshi bilan live fe'liga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U rus tilida gapiradi.",
+   "en": [
+    "She speaks Russian."
+   ],
+   "rule": "She olmoshi bilan speak fe'liga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mashina juda tez ishlaydi.",
+   "en": [
+    "This car works very well."
+   ],
+   "rule": "It olmoshi bilan work fe'liga -s qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U har kuni darsga boradi.",
+   "en": [
+    "He goes to the lesson everyday.",
+    "He goes to the lesson every day."
+   ],
+   "rule": "o harfi bilan tugagan fe'lga -es qo'shiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Tom har kuni ishlamaydi.",
+   "en": [
+    "Tom doesn't work everyday.",
+    "Tom doesn't work every day."
+   ],
+   "rule": "Inkor shakl uchun doesn't va asosiy fe'l ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Malika Londonda yashamaydi.",
+   "en": [
+    "Malika doesn't live in London."
+   ],
+   "rule": "He, she, it uchun doesn't yordamchi fe'li ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Mening ukam ingliz tilini o'rganmaydi.",
+   "en": [
+    "My brother doesn't study English."
+   ],
+   "rule": "Doesn't so'zidan keyin fe'l o'zining asosiy shaklida keladi."
+  },
+  {
+   "part": 1,
+   "uz": "U kechqurun televizor ko'rmaydi.",
+   "en": [
+    "He doesn't watch television in the evening."
+   ],
+   "rule": "Inkor gapda doesn't watch ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Mening dadam bankda ishlamaydi.",
+   "en": [
+    "My dad doesn't work in a bank."
+   ],
+   "rule": "He olmoshi uchun doesn't ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "U qahva ichmaydi.",
+   "en": [
+    "She doesn't drink coffee."
+   ],
+   "rule": "She olmoshi bilan doesn't drink qo'llaniladi."
+  },
+  {
+   "part": 1,
+   "uz": "Mening do'stim futbol o'ynamaydi.",
+   "en": [
+    "My friend doesn't play football."
+   ],
+   "rule": "Inkor gapda doesn't play ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "U mashina haydamaydi.",
+   "en": [
+    "He doesn't drive a car."
+   ],
+   "rule": "He olmoshi uchun doesn't drive ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Mening onam shifoxonada ishlamaydi.",
+   "en": [
+    "My mother doesn't work in a hospital."
+   ],
+   "rule": "She olmoshi uchun doesn't work ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu mushuk sut ichmaydi.",
+   "en": [
+    "This cat doesn't drink milk."
+   ],
+   "rule": "It olmoshi uchun doesn't drink ishlatiladi."
+  }
+ ],
+ "tr51": [
+  {
+   "part": 1,
+   "uz": "U biznesmen emas.",
+   "en": [
+    "He doesn't work as a businessman.",
+    "He is not a businessman."
+   ],
+   "rule": "Inkor gapda doesn't va fe'lning bosh shakli ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "U ofisda ishlamaydi.",
+   "en": [
+    "He doesn't work in an office."
+   ],
+   "rule": "Inkor gap: doesn't ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "U ertalab ishga bormaydi.",
+   "en": [
+    "He doesn't go to work in the morning."
+   ],
+   "rule": "Inkor: doesn't go."
+  },
+  {
+   "part": 1,
+   "uz": "U choy ichmaydi.",
+   "en": [
+    "She doesn't drink tea."
+   ],
+   "rule": "Inkor: doesn't drink."
+  },
+  {
+   "part": 1,
+   "uz": "U nonushta qilmaydi.",
+   "en": [
+    "He doesn't have breakfast."
+   ],
+   "rule": "Inkor: doesn't have."
+  },
+  {
+   "part": 1,
+   "uz": "U kechasi televizor ko'rmaydi.",
+   "en": [
+    "He doesn't watch TV in the evening."
+   ],
+   "rule": "Inkor: doesn't watch."
+  },
+  {
+   "part": 1,
+   "uz": "U ko'p ishlamaydi.",
+   "en": [
+    "She doesn't work a lot."
+   ],
+   "rule": "Inkor: doesn't work."
+  },
+  {
+   "part": 1,
+   "uz": "U ertalab turmaydi.",
+   "en": [
+    "He doesn't get up early."
+   ],
+   "rule": "Inkor: doesn't get up."
+  },
+  {
+   "part": 1,
+   "uz": "U bu uyda yashamaydi.",
+   "en": [
+    "She doesn't live in this house."
+   ],
+   "rule": "Inkor: doesn't live."
+  },
+  {
+   "part": 1,
+   "uz": "U ingliz tilida gaplashmaydi.",
+   "en": [
+    "He doesn't speak English."
+   ],
+   "rule": "Inkor: doesn't speak."
+  },
+  {
+   "part": 1,
+   "uz": "U bu kitobni o'qimaydi.",
+   "en": [
+    "She doesn't read this book."
+   ],
+   "rule": "Inkor: doesn't read."
+  },
+  {
+   "part": 1,
+   "uz": "U taksida yurmaydi.",
+   "en": [
+    "He doesn't take a taxi."
+   ],
+   "rule": "Inkor: doesn't take."
+  },
+  {
+   "part": 1,
+   "uz": "U restoranda ovqat yemaydi.",
+   "en": [
+    "She doesn't eat in a restaurant."
+   ],
+   "rule": "Inkor: doesn't eat."
+  },
+  {
+   "part": 1,
+   "uz": "U kafeda qahva ichmaydi.",
+   "en": [
+    "He doesn't drink coffee in a cafe."
+   ],
+   "rule": "Inkor: doesn't drink."
+  },
+  {
+   "part": 1,
+   "uz": "U kechqurun do'konga bormaydi.",
+   "en": [
+    "She doesn't go shopping in the evening."
+   ],
+   "rule": "Inkor: doesn't go."
+  },
+  {
+   "part": 1,
+   "uz": "U pianino chalmaydi.",
+   "en": [
+    "He doesn't play the piano."
+   ],
+   "rule": "Inkor: doesn't play."
+  },
+  {
+   "part": 1,
+   "uz": "U futbol o'ynamaydi.",
+   "en": [
+    "He doesn't play football."
+   ],
+   "rule": "Inkor: doesn't play."
+  },
+  {
+   "part": 1,
+   "uz": "U aktrisa emas.",
+   "en": [
+    "She doesn't work as an actress.",
+    "She is not an actress."
+   ],
+   "rule": "Inkor gapda doesn't ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "U shifokor emas.",
+   "en": [
+    "He doesn't work as a doctor.",
+    "He is not a doctor."
+   ],
+   "rule": "Inkor: doesn't work."
+  },
+  {
+   "part": 1,
+   "uz": "U kech qolmaydi.",
+   "en": [
+    "He doesn't arrive late."
+   ],
+   "rule": "Inkor: doesn't arrive."
+  },
+  {
+   "part": 2,
+   "uz": "U bankda ishlaydimi? Ha.",
+   "en": [
+    "Does he work in a bank? Yes, he does."
+   ],
+   "rule": "So'roq gap: Does ...? Qisqa javob: Yes, he does."
+  },
+  {
+   "part": 2,
+   "uz": "U bu shaharda yashaydimi? Yo'q.",
+   "en": [
+    "Does she live in this city? No, she doesn't."
+   ],
+   "rule": "So'roq: Does she ...? Qisqa javob: No, she doesn't."
+  },
+  {
+   "part": 2,
+   "uz": "U ertalab qahva ichadimi? Ha.",
+   "en": [
+    "Does he drink coffee in the morning? Yes, he does."
+   ],
+   "rule": "So'roq va qisqa javob."
+  },
+  {
+   "part": 2,
+   "uz": "U ingliz tilida gaplashadimi? Yo'q.",
+   "en": [
+    "Does she speak English? No, she doesn't."
+   ],
+   "rule": "So'roq: Does she speak ...?"
+  },
+  {
+   "part": 2,
+   "uz": "U har kuni ishga boradimi? Ha.",
+   "en": [
+    "Does he go to work every day? Yes, he does."
+   ],
+   "rule": "So'roq: Does he go ...?"
+  },
+  {
+   "part": 2,
+   "uz": "U ertalab nonushta qiladimi? Yo'q.",
+   "en": [
+    "Does she have breakfast in the morning? No, she doesn't."
+   ],
+   "rule": "So'roq va inkor qisqa javob."
+  },
+  {
+   "part": 2,
+   "uz": "U kechqurun televizor ko'radimi? Ha.",
+   "en": [
+    "Does he watch TV in the evening? Yes, he does."
+   ],
+   "rule": "So'roq: Does he watch ...?"
+  },
+  {
+   "part": 2,
+   "uz": "U mashina haydaydimi? Yo'q.",
+   "en": [
+    "Does she drive a car? No, she doesn't."
+   ],
+   "rule": "So'roq va qisqa javob."
+  },
+  {
+   "part": 2,
+   "uz": "U kechasi ishlaydimi? Ha.",
+   "en": [
+    "Does he work at night? Yes, he does."
+   ],
+   "rule": "So'roq: Does he work ...?"
+  },
+  {
+   "part": 2,
+   "uz": "U shifokor bo'lib ishlaydimi? Yo'q.",
+   "en": [
+    "Does she work as a doctor? No, she doesn't."
+   ],
+   "rule": "So'roq gap."
+  },
+  {
+   "part": 2,
+   "uz": "U musiqa tinglaydimi? Ha.",
+   "en": [
+    "Does he listen to music? Yes, he does."
+   ],
+   "rule": "So'roq: Does he listen ...?"
+  },
+  {
+   "part": 2,
+   "uz": "U kitob o'qiydimi? Yo'q.",
+   "en": [
+    "Does she read books? No, she doesn't."
+   ],
+   "rule": "So'roq va qisqa javob."
+  },
+  {
+   "part": 2,
+   "uz": "U ertalab yuguradimi? Ha.",
+   "en": [
+    "Does he run in the morning? Yes, he does."
+   ],
+   "rule": "So'roq: Does he run ...?"
+  },
+  {
+   "part": 2,
+   "uz": "U futbol o'ynaydimi? Yo'q.",
+   "en": [
+    "Does he play football? No, he doesn't."
+   ],
+   "rule": "So'roq va qisqa javob."
+  },
+  {
+   "part": 2,
+   "uz": "U kechasi uxlaydimi? Ha.",
+   "en": [
+    "Does she sleep at night? Yes, she does."
+   ],
+   "rule": "So'roq: Does she sleep ...?"
+  },
+  {
+   "part": 2,
+   "uz": "U har kuni kech qoladimi? Yo'q.",
+   "en": [
+    "Does he arrive late every day? No, he doesn't."
+   ],
+   "rule": "So'roq va qisqa javob."
+  },
+  {
+   "part": 2,
+   "uz": "U do'konga boradimi? Ha.",
+   "en": [
+    "Does she go to the shop? Yes, she does."
+   ],
+   "rule": "So'roq: Does she go ...?"
+  },
+  {
+   "part": 2,
+   "uz": "U kofe ichadimi? Yo'q.",
+   "en": [
+    "Does he drink coffee? No, he doesn't."
+   ],
+   "rule": "So'roq va qisqa javob."
+  },
+  {
+   "part": 2,
+   "uz": "U otda yuradimi? Yo'q.",
+   "en": [
+    "Does he ride a horse? No, he doesn't."
+   ],
+   "rule": "So'roq gap."
+  },
+  {
+   "part": 2,
+   "uz": "U xat yozadimi? Ha.",
+   "en": [
+    "Does she write a letter? Yes, she does."
+   ],
+   "rule": "So'roq: Does she write ...?"
+  },
+  {
+   "part": 2,
+   "uz": "U restoranda ovqatlanadimi? Ha.",
+   "en": [
+    "Does he eat in a restaurant? Yes, he does."
+   ],
+   "rule": "So'roq va qisqa javob."
+  },
+  {
+   "part": 2,
+   "uz": "U bu qo'shiqni aytadimi? Yo'q.",
+   "en": [
+    "Does she sing this song? No, she doesn't."
+   ],
+   "rule": "So'roq: Does she sing ...?"
+  },
+  {
+   "part": 2,
+   "uz": "U bu filmni ko'radimi? Ha.",
+   "en": [
+    "Does he watch this film? Yes, he does."
+   ],
+   "rule": "So'roq va qisqa javob."
+  },
+  {
+   "part": 2,
+   "uz": "U frantsuz tilida gaplashadimi? Yo'q.",
+   "en": [
+    "Does she speak French? No, she doesn't."
+   ],
+   "rule": "So'roq gap."
+  },
+  {
+   "part": 2,
+   "uz": "U suzgich bilan suzadimi? Ha.",
+   "en": [
+    "Does he swim? Yes, he does."
+   ],
+   "rule": "So'roq: Does he swim ...?"
+  },
+  {
+   "part": 2,
+   "uz": "U o'sha uyda yashaydimi? Ha.",
+   "en": [
+    "Does she live in that house? Yes, she does."
+   ],
+   "rule": "So'roq va qisqa javob."
+  },
+  {
+   "part": 2,
+   "uz": "U shokolad yeydimi? Yo'q.",
+   "en": [
+    "Does he eat chocolate? No, he doesn't."
+   ],
+   "rule": "So'roq: Does he eat ...?"
+  },
+  {
+   "part": 2,
+   "uz": "U telefon qiladimi? Ha.",
+   "en": [
+    "Does she make a phone call? Yes, she does."
+   ],
+   "rule": "So'roq gap."
+  },
+  {
+   "part": 2,
+   "uz": "U ertalab choy ichadimi? Yo'q.",
+   "en": [
+    "Does he drink tea in the morning? No, he doesn't."
+   ],
+   "rule": "So'roq va qisqa javob."
+  },
+  {
+   "part": 2,
+   "uz": "U kechqurun ishlaydimi? Ha.",
+   "en": [
+    "Does she work in the evening? Yes, she does."
+   ],
+   "rule": "So'roq gap."
+  }
+ ]
+}

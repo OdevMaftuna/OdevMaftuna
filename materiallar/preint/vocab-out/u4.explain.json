@@ -1,0 +1,682 @@
+[
+ {
+  "why": "«avalanche» — qor ko‘chkisi. Gapda «snow down the steep mountain slope» bor, bu tog‘dan qor tushishini bildiradi.",
+  "wrong": {
+   "mudslide": "«mudslide» — loy ko‘chkisi; bu yerda gap loy emas, qor haqida ketmoqda.",
+   "volcanic eruption": "«volcanic eruption» — vulqon otilishi; tog‘da vulqon emas, qor ko‘chkisi sodir bo‘lgan.",
+   "tsunami": "«tsunami» — ulkan dengiz to‘lqini; bu quruqlikdagi tog‘da yuz beradigan hodisa."
+  }
+ },
+ {
+  "why": "«billboard» — katta reklama taxtasi. Gapda «advertising board» bor, bu yangi telefonni ko‘rsatuvchi katta reklama ilonini bildiradi.",
+  "wrong": {
+   "shop sign": "«shop sign» — do‘kon peshlavhasi; bu markaziy stansiya yonidagi katta reklama emas.",
+   "road sign": "«road sign» — yo‘l belgisi; bu haydovchilar uchun belgi emas, telefon reklamasi.",
+   "lamp post": "«lamp post» — ko‘cha chirog‘i ustuni; bu reklama taxtasi uchun ishlatiladi."
+  }
+ },
+ {
+  "why": "«drought» — qurg‘oqchilik. Gapda «summer without rain» va «destroying all their wheat crops» bor, yomg‘irsizlik ekinlarni yo‘q qilmoqda.",
+  "wrong": {
+   "flood": "«flood» — suv toshqini; yomg‘ir yo‘qligi toshqinni emas, qurg‘oqchilikni keltirib chiqaradi.",
+   "earthquake": "«earthquake» — zilzila; bu yerda yomg‘ir yo‘qligidan hosil qurishi haqida gap bormoqda.",
+   "famine": "«famine» — ocharchilik; ekinlar qurishi natijasi, lekin sababi yomg‘irsizlik (drought)."
+  }
+ },
+ {
+  "why": "«earthquake» — zilzila. Gapda «ground started shaking violently» bor, ya'ni yerning qattiq qimirlashi zilzilani bildiradi.",
+  "wrong": {
+   "volcanic eruption": "«volcanic eruption» — vulqon otilishi; bu yerda faqat yer qimirlashi haqida aytilgan.",
+   "avalanche": "«avalanche» — qor ko‘chkisi; bu qorning tushishi, yerning qattiq silkinishi emas.",
+   "tsunami": "«tsunami» — okean to‘lqini; bu oshxonadagi idishlarni tushiradigan yer qimirlashi emas."
+  }
+ },
+ {
+  "why": "«flood» — suv toshqini. Gapda «heavy rains caused water to rise» bor, kuchli yomg‘ir suvni ko‘paytirib yuborgan.",
+  "wrong": {
+   "drought": "«drought» — qurg‘oqchilik; bu kuchli yomg‘ir va ko‘p suvga qarama-qarshi holat.",
+   "mudslide": "«mudslide» — loy ko‘chkisi; bu uy-joylarni suv ostida qoldirgan toshqin hodisasidir.",
+   "epidemic": "«epidemic» — epidemiya; bu tabiiy suv toshqini bilan bog‘liq emas."
+  }
+ },
+ {
+  "why": "«forest fire» — o‘rmon yong‘ini. Gapda «wall of fire moved rapidly through the dry trees» bor, quruq daraxtlardagi olovni bildiradi.",
+  "wrong": {
+   "volcanic eruption": "«volcanic eruption» — vulqon otilishi; bu yerda daraxtlar orasidagi olov haqida gap ketmoqda.",
+   "earthquake": "«earthquake» — zilzila; bu yer silkinishi, o‘rmondagi yong‘in emas.",
+   "avalanche": "«avalanche» — qor ko‘chkisi; bu qor bilan bog‘liq, olov bilan emas."
+  }
+ },
+ {
+  "why": "«fossil fuels» — qazilma yoqilg‘ilar (ko‘mir va neft). Gapda «Coal and oil are burned» bor, ular qora tutun hosil qiladi.",
+  "wrong": {
+   "greenhouse gases": "«greenhouse gases» — issiqxona gazlari; ko‘mir va neftning o‘zi emas, yonishidan hosil bo‘ladi.",
+   "renewable energy": "«renewable energy» — qayta tiklanadigan energiya; ko‘mir va neft qayta tiklanmaydi.",
+   "sea levels": "«sea levels» — dengiz sathi; bu tutun va yoqilg‘iga aloqador emas."
+  }
+ },
+ {
+  "why": "«frostbite» — sovuq urishi (muzlash). Gapda «fingers became extremely cold and numb» bor, qo‘lqop kiyilmagani uchun barmoqlar muzlagan.",
+  "wrong": {
+   "frost": "«frost» — qirov; barmoqlarning o‘zi qirov bo‘lmaydi, balki sovuq uradi.",
+   "drought": "«drought» — qurg‘oqchilik; bu issiq yoz fasliga xos, barmoq muzlashiga emas.",
+   "famine": "«famine» — ocharchilik; bu oziq-ovqat yo‘qligi bilan bog‘liq."
+  }
+ },
+ {
+  "why": "«greenhouse gases» — issiqxona gazlari. Gapda «chemical vapors into the sky, trapping heat» bor, issiqlikni ushlab qoluvchi gazlar nazarda tutilgan.",
+  "wrong": {
+   "fossil fuels": "«fossil fuels» — qazilma yoqilg‘ilar; ular gazlarning manbasi, atmosferani qizdiruvchi vaparlar emas.",
+   "renewable energy": "«renewable energy» — qayta tiklanadigan energiya; bu zararli kimyoviy bug‘lar emas.",
+   "climate change": "«climate change» — iqlim o‘zgarishi; bu gazlarning o‘zi emas, ularning natijasidir."
+  }
+ },
+ {
+  "why": "«hail» — do‘l. Gapda «Hard little balls of ice fell» bor, osmondan qattiq muz bo‘laklari tushgani do‘lni bildiradi.",
+  "wrong": {
+   "snow": "«snow» — qor; qor muz bo‘lakchalari emas, yumshoq uchqunlar ko‘rinishida yog‘adi.",
+   "rain": "«rain» — yomg‘ir; yomg‘ir muz emas, suv tomchilaridir.",
+   "mist": "«mist» — tuman; bu yerda osmondan qattiq muz yog‘ishi haqida gap bormoqda."
+  }
+ },
+ {
+  "why": "«sunshine» — quyosh nuri. Gapda «bright yellow star in the sky made... feel very warm» bor, bu issiq quyosh nuridir.",
+  "wrong": {
+   "clouds": "«clouds» — bulutlar; bulutlar issiqlik va yorug‘lik bermaydi.",
+   "frost": "«frost» — qirov; u issiq emas, sovuq kunlarda bo‘ladi.",
+   "mist": "«mist» — tuman; tuman issiq va yorug‘lik manbasi emas."
+  }
+ },
+ {
+  "why": "«mist» — tuman. Gapda «Thick white fog touched the ground» va «making driving difficult» bor, bu qalin oq tumandir.",
+  "wrong": {
+   "cloudy": "«cloudy» — bulutli; bu osmondagi holat, yerga tushadigan tuman emas.",
+   "stormy": "«stormy» — bo‘ronli; bu kuchli shamol va yog‘ingarchilikni bildiradi.",
+   "rainy": "«rainy» — yomg‘irli; bu yerda faqat tuman haqida so‘z bormoqda."
+  }
+ },
+ {
+  "why": "«mudslide» — loy ko‘chkisi. Gapda «Heavy rain on the steep hill caused tons of wet earth to slide» bor, nam tuproqning sirg‘alishini bildiradi.",
+  "wrong": {
+   "avalanche": "«avalanche» — qor ko‘chkisi; bu yerda qor emas, nam tuproq (earth) sirg‘alib tushgan.",
+   "flood": "«flood» — suv toshqini; bu yer ko‘chishi emas, suv bosishidir.",
+   "drought": "«drought» — qurg‘oqchilik; bu kuchli yomg‘ir va namlikka zid tushuncha."
+  }
+ },
+ {
+  "why": "«pavement» — piyodalar yo‘lakchasi. Gapda «walked safely on the concrete path next to the busy city street» bor.",
+  "wrong": {
+   "bus stop": "«bus stop» — avtobus bekati; odamlar u yerda faqat yurmaydi, transport kutadi.",
+   "road works": "«road works» — yo‘l ta'mirlash ishlari; bu xavfsiz yuriladigan yo‘lak emas.",
+   "street corner": "«street corner» — ko‘cha burchagi; bu butun boshli piyodalar yo‘lagi emas."
+  }
+ },
+ {
+  "why": "«pedestrian crossing» — piyodalar o‘tish joyi («zebri»). Gapda «white stripes painted on the road» bor.",
+  "wrong": {
+   "traffic light": "«traffic light» — svetofor; u chiziqlar emas, qizil va yashil chiroqlardan iborat.",
+   "road sign": "«road sign» — yo‘l belgisi; bu yo‘lga chizilgan oq chiziqlar emas.",
+   "bus stop": "«bus stop» — avtobus bekati; bu ko‘chadan o‘tish uchun chizilgan yo‘l emas."
+  }
+ },
+ {
+  "why": "«rain shower» — qisqa muddatli yomg‘ir. Gapda «Small drops of water fell from the gray clouds» bor, yengil yomg‘ir ko‘zda tutilgan.",
+  "wrong": {
+   "hail storm": "«hail storm» — do‘l bo‘roni; bu yerda kichik suv tomchilari haqida gapirilmoqda, muz emas.",
+   "thunderstorm": "«thunderstorm» — momaqaldiroqli bo‘ron; bu yerda chaqmoq yoki momaqaldiroq haqida yozilmagan.",
+   "snowy": "«snowy» — qorli; suv tomchilari kurtkani qor emas, biroz nam qiladi."
+  }
+ },
+ {
+  "why": "«rainforests» — tropik o‘rmonlar. Gapda «near the equator receive heavy rainfall» bor, ekvatordagi ko‘p yomg‘irli o‘rmonlar.",
+  "wrong": {
+   "fossil fuels": "«fossil fuels» — qazilma yoqilg‘ilar; ular o‘rmonlar va hayvon turlariga aloqador emas.",
+   "sea levels": "«sea levels» — dengiz sathi; bu o‘rmon ekotizimini anglatmaydi.",
+   "greenhouse gases": "«greenhouse gases» — issiqxona gazlari; ular ekvatordagi o‘rmonlar emas."
+  }
+ },
+ {
+  "why": "«renewable energy» — qayta tiklanadigan energiya. Gapda «Solar panels and wind turbines provide clean power» bor.",
+  "wrong": {
+   "fossil fuels": "«fossil fuels» — qazilma yoqilg‘ilar; ular atrof-muhitga zarar yetkazadi, quyosh va shamol esa toza energiya.",
+   "greenhouse gases": "«greenhouse gases» — issiqxona gazlari; quyosh panellari gaz ishlab chiqarmaydi.",
+   "surface temperature": "«surface temperature» — sirt harorati; bu energiya manbai emas."
+  }
+ },
+ {
+  "why": "«road sign» — yo‘l belgisi. Gapda «blue circular sign showing the speed limit» bor, bu tezlik cheklovini ko‘rsatuvchi belgidir.",
+  "wrong": {
+   "billboard": "«billboard» — reklama taxtasi; bu tezlik cheklovini ko‘rsatuvchi yo‘l belgisi emas.",
+   "shop sign": "«shop sign» — do‘kon peshlavhasi; haydovchilar uchun tezlikni bu ko‘rsatmaydi.",
+   "lamp post": "«lamp post» — chiroq ustuni; u belgining o‘zi emas."
+  }
+ },
+ {
+  "why": "«road works» — yo‘l ta'mirlash ishlari. Gapda «repair the broken water pipes under the main street» bor.",
+  "wrong": {
+   "bus stop": "«bus stop» — avtobus bekati; u yerda quvurlar ta'mirlanmaydi.",
+   "street corner": "«street corner» — ko‘cha burchagi; bu ishchilar qazish ishlarini olib boradigan joy emas.",
+   "pavement": "«pavement» — piyodalar yo‘lagi; bu quvurlarni tuzatish jarayonining o‘zi emas."
+  }
+ },
+ {
+  "why": "«sea levels» — dengiz sathi. Gapda «Water heights in the oceans» bor: okeandagi suv balandligi dengiz sathining ko'tarilishini bildiradi.",
+  "wrong": {
+   "surface temperature": "«surface temperature» — yuza harorati; bu yerda gap harorat haqida emas, suv balandligi haqida.",
+   "climate change": "«climate change» — iqlim o'zgarishi; bu umumiy tushuncha, suv balandligiga mos kelmaydi.",
+   "global warming": "«global warming» — global isish; bu yerda aynan okeandagi suv haqida gap ketmoqda."
+  }
+ },
+ {
+  "why": "«shine» — charaqlamoq yoki porlamoq. Gapda «bright sun shone» bor: quyosh osmonda yorqin porlab turishini bildiradi.",
+  "wrong": {
+   "blow": "«blow» — esmoq; bu so'z quyoshga emas, shamolga nisbatan ishlatiladi.",
+   "spin": "«spin» — aylanmoq; quyosh o'z o'qi atrofida aylansa ham, bu yerda uning nur sochishi haqida gap bormoqda.",
+   "land": "«land» — qo'nmoq; bu fe'l quyoshga mos kelmaydi."
+  }
+ },
+ {
+  "why": "«bus stop» — avtobus bekati. Gapda «waiting for the number 12 city bus» bor: avtobusni bekatda kutishadi.",
+  "wrong": {
+   "street corner": "«street corner» — ko'cha burchagi; bu yerda maxsus avtobus kutish joyi nazarda tutilgan.",
+   "pavement": "«pavement» — piyodalar yo'lagi; odamlar u yerda yuradi, lekin avtobus kutilmaydi.",
+   "pedestrian crossing": "«pedestrian crossing» — piyodalar o'tish joyi (zebri); bu yo'lni kesib o'tish uchun."
+  }
+ },
+ {
+  "why": "«storm» — bo'ron. Gapda «dark gray clouds» va «pouring rain» bor: qora bulutlar va jala quyishi bo'rondan darak beradi.",
+  "wrong": {
+   "drought": "«drought» — qurg'oqchilik; bu yerda yomg'ir va bulutlar haqida gap bormoqda.",
+   "earthquake": "«earthquake» — zilzila; bu yerda yerosti sirmalari emas, ob-havo tasvirlangan.",
+   "avalanche": "«avalanche» — ko'chki; bu qor ko'chishiga aytiladi."
+  }
+ },
+ {
+  "why": "«street corner» — ko'cha burchagi. Gapda «intersection where two busy streets meet» bor: ikki ko'cha kesishgan joy burchak bo'ladi.",
+  "wrong": {
+   "bus stop": "«bus stop» — avtobus bekati; bu yerda faqat ko'chalar kesishmasi haqida aytilgan.",
+   "lamp post": "«lamp post» — chiroq ustuni; bu kichik obyekt, kafelar u yerda joylashmaydi.",
+   "billboard": "«billboard» — reklama taxtasi; bu kesishmada joylashgan bino yoki joy emas."
+  }
+ },
+ {
+  "why": "«surface temperature» — yuza harorati. Gapda «average heat of the planet is increasing» bor: sayyoramizning o'rtacha issiqligi haroratni bildiradi.",
+  "wrong": {
+   "sea levels": "«sea levels» — dengiz sathi; bu yerda haroratning ko'tarilishi haqida gap bormoqda.",
+   "greenhouse gases": "«greenhouse gases» — parnik gazlari; bu moddalar, haroratning o'zi emas.",
+   "fossil fuels": "«fossil fuels» — qazilma yoqilg'ilar; bu ham harorat tushunchasiga to'g'ri kelmaydi."
+  }
+ },
+ {
+  "why": "«lightning» — momaqaldiroq chaqmog'i. Gapda «flash of electricity lit up» bor: elektr yaltirashi bu chaqmoqdir.",
+  "wrong": {
+   "thunder": "«thunder» — momaqaldiroq gumburlashi; u yaltiramaydi, balki ovoz chiqaradi.",
+   "hail": "«hail» — do'l; bu muz parchalari yog'ishi.",
+   "frost": "«frost» — qirov; bu sovuq ob-havoda hosil bo'ladi."
+  }
+ },
+ {
+  "why": "«thunder» — momaqaldiroq ovozi. Gapda «loud booming sound shook our windows» bor: derazalarni titratgan baland ovoz bu momaqaldiroqdir.",
+  "wrong": {
+   "lightning": "«lightning» — chaqmoq; bu yorug'lik chaqnashi, tovush emas.",
+   "mist": "«mist» — tuman; bu tovush chiqarmaydi.",
+   "cloudy": "«cloudy» — bulutli; bu sifat so'z bo'lib, tovushga aloqasi yo'q."
+  }
+ },
+ {
+  "why": "«tsunami» — sunami (ulgkan dengiz to'lqini). Gapda «huge wave caused by an underwater earthquake» bor: suv osti zilzilasi keltirib chiqaradigan ulkan to'lqin bu sunami.",
+  "wrong": {
+   "avalanche": "«avalanche» — tog'dagi qor ko'chishi; bu okeanda bo'lmaydi.",
+   "flood": "«flood» — suv toshqini; bu yerda aynan zilziladan kelib chiqqan ulkan to'lqin haqida.",
+   "mudslide": "«mudslide» — loy ko'chkisi; bu quruqlikda sodir bo'ladi."
+  }
+ },
+ {
+  "why": "«volcanic eruption» — vulqon otilishi. Gapda «Hot liquid rock and dangerous gas poured down» bor: issiq suyuq tosh va gazlar vulqondan otilib chiqadi.",
+  "wrong": {
+   "earthquake": "«earthquake» — zilzila; bu yer silkinishi, suyuq tosh oqishi emas.",
+   "avalanche": "«avalanche» — qor ko'chishi; bu issiq toshlar bilan bog'liq emas.",
+   "forest fire": "«forest fire» — o'rmon yong'ini; bu yerda tog'dan oqib tushuvchi lava haqida gap bormoqda."
+  }
+ },
+ {
+  "why": "«come up with» — o'ylab topmoq yoki topmoq. Gapda «think of a clever solution» bor: aqlli yechimni o'ylab topish kerak.",
+  "wrong": {
+   "close down": "«close down» — yopmoq; muammoni hal qilishga ishlatilmaydi.",
+   "cut down": "«cut down» — kamaytirmoq yoki kesmoq; bu yerda yechim o'ylab topish talab qilinmoqda.",
+   "run out": "«run out» — tugamoq; bu muammoni hal qilish ma'nosini bermaydi."
+  }
+ },
+ {
+  "why": "«close down» — o'z faoliyatini to'xtatmoq, yopmoq. Gapda «stop operating because it lost money» bor: zavod zarar ko'rgani uchun yopilgan.",
+  "wrong": {
+   "cut down": "«cut down» — qisqartirmoq; bu yerda zavodning yopilishi haqida gap ketmoqda.",
+   "run out": "«run out» — zaxiraning tugashi; zavodga nisbatan ishlatilmaydi.",
+   "use up": "«use up» — sarflab tugatmoq; bu ham zavod yopilishiga mos kelmaydi."
+  }
+ },
+ {
+  "why": "«cut down» — kesib yiqitmoq. Gapda «drop large trees» bor: o'tinchilar daraxtlarni kesish uchun bolta ishlatishadi.",
+  "wrong": {
+   "use up": "«use up» — sarflab tugatmoq; daraxtlarga nisbatan ishlatilmaydi.",
+   "give up": "«give up» — taslim bo'lmoq; bu daraxt kesishga aloqasi yo'q.",
+   "go up": "«go up» — ko'tarilmoq; daraxtlarni yiqitish ma'nosini bermaydi."
+  }
+ },
+ {
+  "why": "«die out» — butunlay qirilib ketmoq. Gapda «Disappeared from the Earth millions of years ago» bor: dinozavrlar yer yuzidan qirilib ketgan.",
+  "wrong": {
+   "close down": "«close down» — do'kon yoki zavodni yopmoq; tirik mavjudotlarga ishlatilmaydi.",
+   "run out": "«run out» — narsaning tugashi; dinozavrlarning yo'qolishiga nisbatan ishlatilmaydi.",
+   "heat up": "«heat up» — isitmoq; bu yerda qirilib ketish haqida gap bormoqda."
+  }
+ },
+ {
+  "why": "«heat up» — qizdirmoq. Gapda «warm the soup until it started boiling» bor: sho'rvani qaynagunicha isitish kerak.",
+  "wrong": {
+   "go up": "«go up» — o'smoq yoki yuqoriga chiqmoq; sho'rvaga nisbatan ishlatilmaydi.",
+   "take off": "«take off» — uchib ketmoq yoki yechmoq; taomni qizdirishga mos kelmaydi.",
+   "approach": "«approach» — yaqinlashmoq; bu ovqatni qizdirish ma'nosini bermaydi."
+  }
+ },
+ {
+  "why": "«go up» — narxlar oshmoq. Gapda «increased rapidly this week» bor: meva va sabzavotlar narxi tezda oshganini bildiradi.",
+  "wrong": {
+   "run out": "«run out» — tugamoq; narxlarning ko'tarilishiga nisbatan ishlatilmaydi.",
+   "come up with": "«come up with» — g'oya o'ylab topmoq; narxga aloqasi yo'q.",
+   "put something off": "«put something off» — boshqa vaqtga surmoq; bu ham narx oshishini bildirmaydi."
+  }
+ },
+ {
+  "why": "«look after» — g'amxo'rlik qilmoq, asramoq. Gapda «protect endangered wild animals» bor: hayvonlarni himoya qilish va ularga g'amxo'rlik qilish kerak.",
+  "wrong": {
+   "rely on": "«rely on» — tayanmoq, ishonmoq; hayvonlarni muhofaza qilishga ishlatilmaydi.",
+   "live with": "«live with» — birga yashamoq; bu yerda hayvonlarni himoya qilish haqida gap bormoqda.",
+   "give up": "«give up» — taslim bo'lmoq; bu ma'noga mos kelmaydi."
+  }
+ },
+ {
+  "why": "«run out» — tugamoq (zaxira qolmaslik). Gapda «finished completely» bor: sut butunlay tugab qolganini bildiradi.",
+  "wrong": {
+   "use up": "«use up» — sarflab tugatmoq; bu yerda sutning o'z-o'zidan tugab qolgani haqida aytilmoqda.",
+   "cut down": "«cut down» — kamaytirmoq; sutning tugashini bildirmaydi.",
+   "close down": "«close down» — yopmoq; sutga nisbatan ishlatib bo'lmaydi."
+  }
+ },
+ {
+  "why": "«put something off» — keyinga qoldirmoq, kechiktirmoq. Gapda «postpone our school camping trip» bor: sayohatni boshqa vaqtga surish qaror qilingan.",
+  "wrong": {
+   "give up": "«give up» — voz kechmoq; bu yerda faqat keyinga qoldirish haqida gap bormoqda.",
+   "come up with": "«come up with» — o'ylab topmoq; sayohatni kechiktirishga mos kelmaydi.",
+   "take off": "«take off» — kiyimni yechish yoki samolyotning uchishi; sayohatni kechiktirishga ishlatilmaydi."
+  }
+ },
+ {
+  "why": "«rain» — yomg'ir yog'moq. Gapda «heavy water drops falling steadily» bor: tinimsiz yog'ayotgan suv tomchilari bu yomg'irdir.",
+  "wrong": {
+   "snow": "«snow» — qor; bu yerda suv tomchilari haqida gap bormoqda, qor emas.",
+   "hail": "«hail» — do'l; bu muz parchalari, oddiy suv tomchilari emas.",
+   "mist": "«mist» — yengil tuman; u yerdan pastga tomchi bo'lib tushmaydi."
+  }
+ },
+ {
+  "why": "«traffic light» — svetofor. Gapda «stop at the red» bor: qizil chiroqda to'xtash kerak.",
+  "wrong": {
+   "billboard": "«billboard» — reklama taxtasi; bu yerda mashinalar to'xtaydigan narsa kerak.",
+   "lamp post": "«lamp post» — ko'cha chirog'i ustuni; bu transportni boshqarish uchun emas.",
+   "pavement": "«pavement» — piyodalar yo'lagi; mashinalar u yerda to'xtamaydi."
+  }
+ },
+ {
+  "why": "«die out» — yo'qolib ketmoq. Gapda «if we do not protect nature» bor: tabiatni asramasak, jonivorlar yo'qoladi.",
+  "wrong": {
+   "come up with": "«come up with» — o'ylab topmoq; jonzotlarga nisbatan ishlatilmaydi.",
+   "close down": "«close down» — yopilmoq (biznes yoki binoga nisbatan).",
+   "give up": "«give up» — taslim bo'lmoq; hayvonlarning yo'qolishiga mos kelmaydi."
+  }
+ },
+ {
+  "why": "«cloudy» — bulutli. Gapda «with no sun» bor: quyosh bo'lmasa, havo bulutli bo'ladi.",
+  "wrong": {
+   "sunny": "«sunny» — quyoshli; gapda quyosh yo'q deyilgan.",
+   "rainy": "«rainy» — yomg'irli; bu yerda faqat quyosh yo'qligi aytilgan.",
+   "windy": "«windy» — shamolli; matnda shamol haqida gap yo'q."
+  }
+ },
+ {
+  "why": "«pavement» — piyodalar yo'lagi. Gapda «never on the middle of the street» bor: bolalar yo'lda emas, trotuarda yurishi kerak.",
+  "wrong": {
+   "pedestrian crossing": "«pedestrian crossing» — piyodalar o'tish joyi; bolalar u yerda doimiy yurmaydi.",
+   "road sign": "«road sign» — yo'l belgisi; uning ustida yurib bo'lmaydi.",
+   "billboard": "«billboard» — reklama taxtasi; bu yurish joyi emas."
+  }
+ },
+ {
+  "why": "«greenhouse gases» — issiqxona gazlari. Gapda «trap heat in the air» bor: issiqni ushlab qoladigan narsa bu gazlardir.",
+  "wrong": {
+   "fossil fuels": "«fossil fuels» — qazilma yoqilg'ilar; ular bevosita gaz emas.",
+   "renewable energy": "«renewable energy» — qayta tiklanadigan energiya; u zararli emas.",
+   "sea levels": "«sea levels» — dengiz sathi; u havoda issiqni ushlamaydi."
+  }
+ },
+ {
+  "why": "«come up with» — o'ylab topmoq. Gapda «a brilliant solution» bor: muammoga ajoyib yechim topish kerak.",
+  "wrong": {
+   "run out": "«run out» — tugamoq; yechimga nisbatan ishlatilmaydi.",
+   "look after": "«look after» — g'amxo'rlik qilmoq; yechimga mos kelmaydi.",
+   "take off": "«take off» — uchib ketmoq yoki yechmoq."
+  }
+ },
+ {
+  "why": "«avalanche» — ko'chki. Gapda «snow suddenly covered the mountain village» bor: tog' qishlog'ini qor bosishi bu ko'chki.",
+  "wrong": {
+   "flood": "«flood» — suv toshqini; bu yerda qor haqida gap ketmoqda.",
+   "drought": "«drought» — qurg'oqchilik; qorga aloqasi yo'q.",
+   "earthquake": "«earthquake» — zilzila; bu qor yog'ishi bilan bog'liq emas."
+  }
+ },
+ {
+  "why": "«give off» — chiqarmoq (tutun, hid). Gapda «toxic smoke» bor: zavodlar zaharli tutun chiqarishini to'xtatishi kerak.",
+  "wrong": {
+   "put something off": "«put something off» — keyinga qoldirmoq; tutunga aloqasi yo'q.",
+   "use up": "«use up» — sarflab tugatmoq.",
+   "go up": "«go up» — ko'tarilmoq."
+  }
+ },
+ {
+  "why": "«blow» — uchirib yubormoq (shamolga nisbatan). Gapda «strong wind» va «right off my head» bor: shamol kepkamni boshimdan uchiradi.",
+  "wrong": {
+   "shine": "«shine» — porlamoq; shamol kepkani uchirishi mumkin emas.",
+   "spin": "«spin» — aylantirmoq.",
+   "land": "«land» — qo'nmoq."
+  }
+ },
+ {
+  "why": "«bus stop» — avtobus bekati. Gapda «trolleybus» bor: odamlar trollebusni bekatda kutishadi.",
+  "wrong": {
+   "street corner": "«street corner» — ko'cha burchagi; transport kutish uchun maxsus joy emas.",
+   "shop sign": "«shop sign» — do'kon peslahvasi.",
+   "road works": "«road works» — yo'l ta'mirlash ishlari."
+  }
+ },
+ {
+  "why": "«mudslide» — loy ko'chkisi. Gapda «Heavy rain» va «mountain village» bor: kuchli yomg'ir tog'da loy ko'chishiga sabab bo'ladi.",
+  "wrong": {
+   "drought": "«drought» — qurg'oqchilik; kuchli yomg'irdan keyin bo'lmaydi.",
+   "avalanche": "«avalanche» — qor ko'chkisi; bu yerda yomg'ir haqida gapiryapmiz.",
+   "frost": "«frost» — sovuq, qirov."
+  }
+ },
+ {
+  "why": "«look after» — g'amxo'r bo'lmoq. Gapda «beautiful garden» bor: bobom har kuni bog'iga qaraydi.",
+  "wrong": {
+   "live with": "«live with» — birga yashamoq; bog' bilan yashab bo'lmaydi.",
+   "rely on": "«rely on» — tayanmoq.",
+   "run out": "«run out» — tugamoq."
+  }
+ },
+ {
+  "why": "«renewable energy» — qayta tiklanadigan energiya. Gapda «solar power» va «protect our wonderful environment» bor: tabiatni asrash uchun quyosh energiyasi ishlatiladi.",
+  "wrong": {
+   "fossil fuels": "«fossil fuels» — qazilma yoqilg'ilar; ular tabiatni ifloslantiradi.",
+   "greenhouse gases": "«greenhouse gases» — issiqxona gazlari; ular tabiatga zarar keltiradi.",
+   "sea levels": "«sea levels» — dengiz sathi."
+  }
+ },
+ {
+  "why": "«earthquake» — zilzila. Gapda «shook our school building» bor: binoni silkitadigan narsa bu yer qimrashidir.",
+  "wrong": {
+   "tsunami": "«tsunami» — ulkan dengiz to'lqini; maktab binolarini silkitmaydi.",
+   "volcanic eruption": "«volcanic eruption» — vulqon otilishi.",
+   "epidemic": "«epidemic» — kasallik tarqalishi."
+  }
+ },
+ {
+  "why": "«put something off» — keyinga qoldirmoq. Gapda «until late Sunday night» bor: uy vazifasini oxirgi vaqtgacha qoldirmaslik kerak.",
+  "wrong": {
+   "give up": "«give up» — taslim bo'lmoq.",
+   "run out": "«run out» — tugatib qo'ymoq.",
+   "use up": "«use up» — sarflamoq."
+  }
+ },
+ {
+  "why": "«foggy» — tumanli. Gapda «makes it hard to see the road» bor: yo'lni ko'rishni qiyinlashtiradigan narsa bu tuman.",
+  "wrong": {
+   "cloudy": "«cloudy» — bulutli; u odatda yo'lni ko'rishga to'sqinlik qilmaydi.",
+   "stormy": "«stormy» — bo'ronli.",
+   "rainy": "«rainy» — yomg'irli."
+  }
+ },
+ {
+  "why": "«close down» — yopib qo'ymoq. Gapda «nobody goes there to watch films» bor: hech kim bormagani uchun kino yopiladi.",
+  "wrong": {
+   "come up with": "«come up with» — o'ylab topmoq.",
+   "run out": "«run out» — tugamoq.",
+   "take off": "«take off» — ko'tarilmoq yoki yechmoq."
+  }
+ },
+ {
+  "why": "«lightning» — momaqaldiroq chaqmog'i. Gapda «loud thunder crashed» bor: momaqaldiroqdan oldin chaqmoq chaqadi.",
+  "wrong": {
+   "hail": "«hail» — do'l; u osmonni yoritmaydi.",
+   "frost": "«frost» — qirov.",
+   "mist": "«mist» — tuman."
+  }
+ },
+ {
+  "why": "«frosty» — sovuq, qirovli. Gapda «wear a warm jacket» bor: iliq kiyim kiyish kerakligi havo sovuqligini bildiradi.",
+  "wrong": {
+   "foggy": "«foggy» — tumanli; kurtka kiyishga sabab emas.",
+   "windy": "«windy» — shamolli.",
+   "sunny": "«sunny» — quyoshli; issiq bo'ladi."
+  }
+ },
+ {
+  "why": "«use up» — sarflab tugatmoq. Gapda «all our clean drinking water» bor: toza suvni oxirigacha ichib yoki ishlatib qo'ymaslik kerak.",
+  "wrong": {
+   "run out": "«run out» — tugamoq (o'zi tugamoq ma'nosida).",
+   "give up": "«give up» — taslim bo'lmoq.",
+   "take off": "«take off» — yechmoq."
+  }
+ },
+ {
+  "why": "«die out» — yo'q bo'lib ketmoq. Gapda «destroying their natural habitats» bor: tabiiy muhit vayron bo'linsa, hayvonlar yo'q bo'lib ketadi.",
+  "wrong": {
+   "cut down": "«cut down» — kesib tashlamoq; hayvonlarga nisbatan ishlatilmaydi.",
+   "go up": "«go up» — ko'tarilmoq; hayvonlar sonining kamayishiga mos kelmaydi.",
+   "heat up": "«heat up» — qizitmoq; bu yerda hayvonlarning hayoti haqida gap bormoqda."
+  }
+ },
+ {
+  "why": "«traffic light» — svetofor. Gapda «red» va «junction» bor: chorrahada qizil svetofor yonadi.",
+  "wrong": {
+   "road sign": "«road sign» — yo'l belgisi; u qizib yonmaydi.",
+   "billboard": "«billboard» — reklama taxtasi; chorrahada transportni boshqarmaydi.",
+   "lamp post": "«lamp post» — ko'cha chirog'i ustuni; svetofor vazifasini bajarmaydi."
+  }
+ },
+ {
+  "why": "«fossil fuels» — qazilma yoqilg'ilar. Gapda «burning» va «temperature rise» bor: yoqilg'i yoqish haroratni oshiradi.",
+  "wrong": {
+   "greenhouse gases": "«greenhouse gases» — issiqxona gazlari; ularni yoqib bo'lmaydi.",
+   "renewable energy": "«renewable energy» — qayta tiklanuvchi energiya; u haroratni oshirmaydi.",
+   "sea levels": "«sea levels» — dengiz sathi; bu ham yoqilmaydi."
+  }
+ },
+ {
+  "why": "«mudslide» — sel yoki ko'chkisi. Gapda «thick wet soil» bor: nam tuproq sirpanib mudslide hosil qiladi.",
+  "wrong": {
+   "avalanche": "«avalanche» — qor ko'chkisi; bu yerda esa loy tuproq haqida gap bormoqda.",
+   "drought": "«drought» — qurg'oqchilik; u yo'lni yopib qo'ymaydi.",
+   "earthquake": "«earthquake» — zilzila; gapda nam tuproq haqida aytilgan."
+  }
+ },
+ {
+  "why": "«bus stop» — avtobus bekati. Gapda «next bus arrives» bor: avtobus bekatda kutiladi.",
+  "wrong": {
+   "pavement": "«pavement» — piyodalar yo'lagi; avtobus u yerda to'xtamaydi.",
+   "pedestrian crossing": "«pedestrian crossing» — piyodalar o'tish joyi; bu yerda avtobus kutilmaydi.",
+   "street corner": "«street corner» — ko'cha burchagi; maxsus avtobus bekati ma'nosini bermaydi."
+  }
+ },
+ {
+  "why": "«blow» — yiqitmoq (shamol haqida). Gapda «strong wind» va «fence» bor: kuchli shamol panjarani yiqitadi.",
+  "wrong": {
+   "spin": "«spin» — aylantirmoq; panjarani yerga qulatishga ishlatilmaydi.",
+   "shine": "«shine» — porlamoq; shamolga aloqasi yo'q.",
+   "head": "«head» — yo'nalmoq; bu ma'noga mos kelmaydi."
+  }
+ },
+ {
+  "why": "«renewable energy» — qayta tiklanuvchi energiya. Gapda «solar and wind power» bor: quyosh va shamol energiyasi shunday ataladi.",
+  "wrong": {
+   "fossil fuels": "«fossil fuels» — qazilma yoqilg'ilar; ular tabiatni muhofaza qilmaydi.",
+   "greenhouse gases": "«greenhouse gases» — issiqxona gazlari; ularni ko'p ishlatish tavsiya etilmaydi.",
+   "surface temperature": "«surface temperature» — sirt harorati; bu energiya turi emas."
+  }
+ },
+ {
+  "why": "«look after» — g'amxo'rlik qilmoq. Gapda «little sister» va «parents are busy» bor: ota-ona band bo'lsa, singilga qarash kerak.",
+  "wrong": {
+   "live with": "«live with» — birga yashamoq; bu yerda vaqtinchalik qarab turish haqida.",
+   "give up": "«give up» — taslim bo'lmoq; ma'nosi to'g'ri kelmaydi.",
+   "run out": "«run out» — tugab qolmoq; bolaga nisbatan ishlatilmaydi."
+  }
+ },
+ {
+  "why": "«land» — qo'nmoq. Gapda «airplane» va «runway» bor: samolyot uchish yo'lagiga qo'nadi.",
+  "wrong": {
+   "take off": "«take off» — uchib ketmoq; Toshkentda qo'nish haqida gap ketmoqda.",
+   "approach": "«approach» — yaqinlashmoq; «on the runway» so'ziga to'g'ri kelmaydi.",
+   "reach": "«reach» — yetib bormoq; qo'nish ma'nosini to'liq bermaydi."
+  }
+ },
+ {
+  "why": "«ice caps» — muzliklar. Gapda «blocks of ice» va «polar» bor: qutb muzliklari eriydi.",
+  "wrong": {
+   "sea levels": "«sea levels» — dengiz sathi; u okeanga tushib ketmaydi.",
+   "fossil fuels": "«fossil fuels» — qazilma yoqilg'ilar; ular okeanga tushmaydi.",
+   "rainforests": "«rainforests» — tropik o'rmonlar; ular muzdan iborat emas."
+  }
+ },
+ {
+  "why": "«pavement» — piyodalar yo'lagi. Gapda «walking home» va «icy» bor: muzlagan yo'lakda sirpanib ketishadi.",
+  "wrong": {}
+ },
+ {
+  "why": "«blow» — yiqitmoq. Gapda «strong wind» va «trees» bor: kuchli shamol daraxtlarni yiqitadi.",
+  "wrong": {}
+ },
+ {
+  "why": "«drought» — qurg'oqchilik. Gapda «ruined their wheat harvest» bor: hosilni faqat qurg'oqchilik nobud qilishi mumkin.",
+  "wrong": {}
+ },
+ {
+  "why": "«clouds» — bulutlar (ko'plikda). Gapda «covered the sky» bor: osmonni to'q kulrang bulutlar qoplagan.",
+  "wrong": {}
+ },
+ {
+  "why": "«snowflake» — qor parchasi. Gapda «falling slowly from the winter sky» bor: qishda osmondan qor parchasi tushadi.",
+  "wrong": {}
+ },
+ {
+  "why": "«land» — qo'nmoq. Gapda «safely on the runway» bor: samolyot yo'lakka xavfsiz qo'nishi kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«lightning» — chaqmoq. Gapda «Bright flashes» va «storm» bor: bo'ron paytida chaqmoq chaqadi.",
+  "wrong": {}
+ },
+ {
+  "why": "«die» — o'lmoq (yo'q bo'lmoq). Gapda «destroy their natural jungle habitats» bor: yashash joyi yo'qolsa, hayvonlar o'ladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«close» — yopmoq. Gapda «old factory» va «reduce air pollution» bor: eski zavod yopilsa, havo ifloslanishi kamayadi.",
+  "wrong": {}
+ },
+ {
+  "why": "«mudslide» — sel. Gapda «Heavy rain» va «blocked the main mountain road» bor: kuchli yomg'ir sel keltirib chiqaradi.",
+  "wrong": {}
+ },
+ {
+  "why": "«come» — o'ylab topmoq. Gapda «up with a clever solution» bor: aqlli yechim topish uchun «come up with» iborasi ishlatiladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«tsunami» — sunami, ulkan dengiz to'lqini. Gapda «causing huge waves» bor: ulkan to'lqinlarni faqat sunami keltirib chiqaradi.",
+  "wrong": {}
+ },
+ {
+  "why": "«billboard» — katta reklama taxtasi. Gapda «neon... flashed red and blue outside the restaurant» bor: restoran tashqarisida neonli reklama taxtasi yonib-o'chadi.",
+  "wrong": {}
+ },
+ {
+  "why": "«frost» — qirov, sovuq ob-havo. Gapda «protect their animals from the freezing» bor: hayvonlarni qirov va sovuqdan himoya qilish kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«renewable» — qayta tiklanadigan. Gapda «clean... energy sources» bor: ekologik toza va qayta tiklanadigan energiya haqida ketmoqda.",
+  "wrong": {}
+ },
+ {
+  "why": "«storm» — bo'ron. Gapda «caused severe damage to the apple trees» bor: olma daraxtlariga zarar yetkazgan kuchli bo'ron edi.",
+  "wrong": {}
+ },
+ {
+  "why": "«look» — qaramoq, ehtiyot qilmoq. Gapda «little brother when walking near busy streets» bor: ukaga qarab, ehtiyot bo'lib yurish uchun «look after» kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«mist» — tuman. Gapda «thick... surrounded the peak» bor: tog' cho'qqisini qalin tuman o'rab olgan edi.",
+  "wrong": {}
+ },
+ {
+  "why": "«hail» — do'l. Gapda «ice cubes fell from the sky and dented my car» bor: osmondan muz parchalari, yani do'l yog'di.",
+  "wrong": {}
+ },
+ {
+  "why": "«rain» — yomg'ir. Gapda «heavy and continuous morning» bor: darsni kechiktirgan sabab tinimsiz va kuchli yomg'ir edi.",
+  "wrong": {}
+ },
+ {
+  "why": "«use» — ishlatmoq, sarflamoq. Gapda «petrol quickly when drivers travel at very high speeds» bor: mashinalar tez yurib benzinni tez tugatadi («use up»).",
+  "wrong": {}
+ },
+ {
+  "why": "«stormy» — bo'ronli. Gapda «Dark... clouds... warning of an approaching thunderstorm» bor: bo'ronli bulutlar yaqinlashib kelayotgan momaqoldiroqdan ogohlantiradi.",
+  "wrong": {}
+ },
+ {
+  "why": "«die» — o'lmoq. Gapda «wild animals will... completely if people destroy habitats» bor: tabiat vayron bo'lsa hayvonlar qirilib ketadi («die out»).",
+  "wrong": {}
+ },
+ {
+  "why": "«blow» — esmoq, uchirib ketmoq. Gapda «wind will... away all the autumn leaves» bor: kuchli shamol barglarni uchirib ketishini bildiradi.",
+  "wrong": {}
+ },
+ {
+  "why": "«bus» — avtobus. Gapda «wait for me near the old... stop» bor: bu yerda «bus stop» (avtobus bekati) so'zi ishlatiladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«climate» — iqlim. Gapda «... change is making our summers much hotter» yozilgan: yozning issiq kelishiga sabab iqlim o'zgarishidir («climate change»).",
+  "wrong": {}
+ },
+ {
+  "why": "«close» — yopmoq. Gapda «... down the old factory because it polluted the air» bor: zavodni yopib qo'yish ma'nosida «close down» keladi.",
+  "wrong": {}
+ },
+ {
+  "why": "«clouds» — bulutlar. Gapda «Dark grey... appeared suddenly in the sky» bor: osmonda to'q kulrang bulutlar paydo bo'ldi (ko'plik shakli kerak).",
+  "wrong": {}
+ },
+ {
+  "why": "«cloudy» — bulutli. Gapda «It is very... today, so we probably will not see the sun» bor: quyosh ko'rinmasligi uchun ob-havo bulutli bo'lishi kerak.",
+  "wrong": {}
+ },
+ {
+  "why": "«come» — topmoq. Gapda «... up with a brilliant idea» bor: zo'r g'oya o'ylab topish uchun o'tgan zamondagi «came» yoki asosiy fe'l ishlatiladi.",
+  "wrong": {}
+ }
+]

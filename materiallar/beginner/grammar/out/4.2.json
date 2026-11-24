@@ -1,0 +1,1203 @@
+{
+ "code": "4.2",
+ "model": "gemini-3.5-flash-lite",
+ "tr1": [
+  {
+   "part": 0,
+   "uz": "Bu Tomning mashinasi.",
+   "en": [
+    "This is Tom's car."
+   ],
+   "rule": "Ismga 's qo'shib egalikni bildiramiz."
+  },
+  {
+   "part": 0,
+   "uz": "Bu Ananing kitobi.",
+   "en": [
+    "This is Anna's book."
+   ],
+   "rule": "Ism + 's egalikni bildiradi."
+  },
+  {
+   "part": 0,
+   "uz": "Otabekning uyi juda katta.",
+   "en": [
+    "Otabek's house is very big."
+   ],
+   "rule": "Kimning uyi? Otabek's house."
+  },
+  {
+   "part": 0,
+   "uz": "Malikaning sumkasi yangi.",
+   "en": [
+    "Malika's bag is new."
+   ],
+   "rule": "Ismga 's qo'shamiz."
+  },
+  {
+   "part": 0,
+   "uz": "Bu Alining telefon raqami.",
+   "en": [
+    "This is Ali's phone number."
+   ],
+   "rule": "Ali's phone number - Alining telefon raqami."
+  },
+  {
+   "part": 0,
+   "uz": "Azizning mushugi kichkina.",
+   "en": [
+    "Aziz's cat is small."
+   ],
+   "rule": "Aziz + 's = Azizning."
+  },
+  {
+   "part": 0,
+   "uz": "Tomning ismi John.",
+   "en": [
+    "Tom's first name is John."
+   ],
+   "rule": "Tom's first name."
+  },
+  {
+   "part": 0,
+   "uz": "Ananing familiyasi Smith.",
+   "en": [
+    "Anna's surname is Smith."
+   ],
+   "rule": "Anna's surname."
+  },
+  {
+   "part": 0,
+   "uz": "Bu Alining kompyuteri.",
+   "en": [
+    "This is Ali's computer."
+   ],
+   "rule": "Ali's computer."
+  },
+  {
+   "part": 0,
+   "uz": "Malikaning kamerasi yaxshi.",
+   "en": [
+    "Malika's camera is good."
+   ],
+   "rule": "Malika's camera."
+  },
+  {
+   "part": 0,
+   "uz": "Bu Tomning kitobi.",
+   "en": [
+    "This is Tom's book."
+   ],
+   "rule": "Tom's book."
+  },
+  {
+   "part": 0,
+   "uz": "Azizning uyi Toshkentda.",
+   "en": [
+    "Aziz's house is in Tashkent."
+   ],
+   "rule": "Aziz's house."
+  },
+  {
+   "part": 0,
+   "uz": "Ananing stoli kichkina.",
+   "en": [
+    "Anna's table is small."
+   ],
+   "rule": "Anna's table."
+  },
+  {
+   "part": 0,
+   "uz": "Bu Alining mashinasi.",
+   "en": [
+    "This is Ali's car."
+   ],
+   "rule": "Ali's car."
+  },
+  {
+   "part": 0,
+   "uz": "Malikaning do'sti yaxshi.",
+   "en": [
+    "Malika's friend is nice."
+   ],
+   "rule": "Malika's friend."
+  },
+  {
+   "part": 0,
+   "uz": "Tomning mushugi katta.",
+   "en": [
+    "Tom's cat is big."
+   ],
+   "rule": "Tom's cat."
+  },
+  {
+   "part": 0,
+   "uz": "Azizning ismi Aziz.",
+   "en": [
+    "Aziz's first name is Aziz."
+   ],
+   "rule": "Aziz's first name."
+  },
+  {
+   "part": 0,
+   "uz": "Bu Ananing sumkasi.",
+   "en": [
+    "This is Anna's bag."
+   ],
+   "rule": "Anna's bag."
+  },
+  {
+   "part": 0,
+   "uz": "Alining uyi Toshkentda.",
+   "en": [
+    "Ali's house is in Tashkent."
+   ],
+   "rule": "Ali's house."
+  },
+  {
+   "part": 0,
+   "uz": "Malikaning mashinasi yangi.",
+   "en": [
+    "Malika's car is new."
+   ],
+   "rule": "Malika's car."
+  },
+  {
+   "part": 0,
+   "uz": "Bu Tomning telefoni.",
+   "en": [
+    "This is Tom's phone."
+   ],
+   "rule": "Tom's phone."
+  },
+  {
+   "part": 0,
+   "uz": "Azizning stoli yangi.",
+   "en": [
+    "Aziz's table is new."
+   ],
+   "rule": "Aziz's table."
+  },
+  {
+   "part": 0,
+   "uz": "Ananing kamerasi yaxshi.",
+   "en": [
+    "Anna's camera is good."
+   ],
+   "rule": "Anna's camera."
+  },
+  {
+   "part": 0,
+   "uz": "Bu Alining kitobi.",
+   "en": [
+    "This is Ali's book."
+   ],
+   "rule": "Ali's book."
+  },
+  {
+   "part": 0,
+   "uz": "Malikaning kompyuteri katta.",
+   "en": [
+    "Malika's computer is big."
+   ],
+   "rule": "Malika's computer."
+  },
+  {
+   "part": 0,
+   "uz": "Tomning do'sti yaxshi.",
+   "en": [
+    "Tom's friend is nice."
+   ],
+   "rule": "Tom's friend."
+  },
+  {
+   "part": 0,
+   "uz": "Azizning familiyasi Azizov.",
+   "en": [
+    "Aziz's surname is Azizov."
+   ],
+   "rule": "Aziz's surname."
+  },
+  {
+   "part": 0,
+   "uz": "Bu Ananing mashinasi.",
+   "en": [
+    "This is Anna's car."
+   ],
+   "rule": "Anna's car."
+  },
+  {
+   "part": 0,
+   "uz": "Alining mushugi kichkina.",
+   "en": [
+    "Ali's cat is small."
+   ],
+   "rule": "Ali's cat."
+  },
+  {
+   "part": 0,
+   "uz": "Malikaning uyi Samarkandda.",
+   "en": [
+    "Malika's house is in Samarkand."
+   ],
+   "rule": "Malika's house."
+  },
+  {
+   "part": 0,
+   "uz": "Bu Tomning kompyuteri.",
+   "en": [
+    "This is Tom's computer."
+   ],
+   "rule": "Tom's computer."
+  },
+  {
+   "part": 0,
+   "uz": "Azizning telefoni yangi.",
+   "en": [
+    "Aziz's phone is new."
+   ],
+   "rule": "Aziz's phone."
+  },
+  {
+   "part": 0,
+   "uz": "Ananing do'sti yaxshi.",
+   "en": [
+    "Anna's friend is nice."
+   ],
+   "rule": "Anna's friend."
+  },
+  {
+   "part": 0,
+   "uz": "Bu Alining stoli.",
+   "en": [
+    "This is Ali's table."
+   ],
+   "rule": "Ali's table."
+  },
+  {
+   "part": 0,
+   "uz": "Malikaning sumkasi qora.",
+   "en": [
+    "Malika's bag is black."
+   ],
+   "rule": "Malika's bag."
+  },
+  {
+   "part": 0,
+   "uz": "Tomning mushugi qora.",
+   "en": [
+    "Tom's cat is black."
+   ],
+   "rule": "Tom's cat."
+  },
+  {
+   "part": 0,
+   "uz": "Azizning kitobi yangi.",
+   "en": [
+    "Aziz's book is new."
+   ],
+   "rule": "Aziz's book."
+  },
+  {
+   "part": 0,
+   "uz": "Bu Ananing uyi.",
+   "en": [
+    "This is Anna's house."
+   ],
+   "rule": "Anna's house."
+  },
+  {
+   "part": 0,
+   "uz": "Alining kamerasi yaxshi.",
+   "en": [
+    "Ali's camera is good."
+   ],
+   "rule": "Ali's camera."
+  },
+  {
+   "part": 0,
+   "uz": "Malikaning ismi Malika.",
+   "en": [
+    "Malika's first name is Malika."
+   ],
+   "rule": "Malika's first name."
+  },
+  {
+   "part": 1,
+   "uz": "Opamning ismi Anna.",
+   "en": [
+    "My sister's name is Anna."
+   ],
+   "rule": "Ot + 's (sister's name)."
+  },
+  {
+   "part": 1,
+   "uz": "Akamning mashinasi yangi.",
+   "en": [
+    "My brother's car is new."
+   ],
+   "rule": "Brother's car."
+  },
+  {
+   "part": 1,
+   "uz": "O'qituvchining kitobi katta.",
+   "en": [
+    "The teacher's book is big."
+   ],
+   "rule": "The teacher's book."
+  },
+  {
+   "part": 1,
+   "uz": "Do'stimning uyi Toshkentda.",
+   "en": [
+    "My friend's house is in Tashkent."
+   ],
+   "rule": "My friend's house."
+  },
+  {
+   "part": 1,
+   "uz": "Onamning sumkasi qora.",
+   "en": [
+    "My mother's bag is black."
+   ],
+   "rule": "My mother's bag."
+  },
+  {
+   "part": 1,
+   "uz": "Otamning mashinasi eski emas.",
+   "en": [
+    "My father's car is not old."
+   ],
+   "rule": "My father's car."
+  },
+  {
+   "part": 1,
+   "uz": "Talabaning kompyuteri yangi.",
+   "en": [
+    "The student's computer is new."
+   ],
+   "rule": "The student's computer."
+  },
+  {
+   "part": 1,
+   "uz": "Qizning mushugi kichkina.",
+   "en": [
+    "The girl's cat is small."
+   ],
+   "rule": "The girl's cat."
+  },
+  {
+   "part": 1,
+   "uz": "Bolaning to'pi qizil.",
+   "en": [
+    "The boy's ball is red."
+   ],
+   "rule": "The boy's ball."
+  },
+  {
+   "part": 1,
+   "uz": "Doktorning xonasi shu yerda.",
+   "en": [
+    "The doctor's room is here."
+   ],
+   "rule": "The doctor's room."
+  }
+ ],
+ "tr51": [
+  {
+   "part": 1,
+   "uz": "Mening opamning ismi Anna.",
+   "en": [
+    "My sister's name is Anna."
+   ],
+   "rule": "Egalik qaratqich 's: kimningdir narsasi yoki ismi."
+  },
+  {
+   "part": 1,
+   "uz": "Akamning mashinasi yangi va katta.",
+   "en": [
+    "My brother's car is new and big."
+   ],
+   "rule": "Egalik qaratqich 's: akamning mashinasi."
+  },
+  {
+   "part": 1,
+   "uz": "Onamning telefoni juda chiroyli.",
+   "en": [
+    "My mother's phone is very beautiful."
+   ],
+   "rule": "Egalik qaratqich 's: onamning telefoni."
+  },
+  {
+   "part": 1,
+   "uz": "Otamning ismi Aziz.",
+   "en": [
+    "My father's name is Aziz."
+   ],
+   "rule": "Egalik qaratqich 's: otamning ismi."
+  },
+  {
+   "part": 1,
+   "uz": "Do'stimning uyi Toshkentda.",
+   "en": [
+    "My friend's house is in Tashkent."
+   ],
+   "rule": "Egalik qaratqich 's: do'stimning uyi."
+  },
+  {
+   "part": 1,
+   "uz": "O'qituvchining kitobi stol ustida.",
+   "en": [
+    "The teacher's book is on the table."
+   ],
+   "rule": "Egalik qaratqich 's: o'qituvchining kitobi."
+  },
+  {
+   "part": 1,
+   "uz": "Doktorning ishi juda qiziq.",
+   "en": [
+    "The doctor's job is very interesting."
+   ],
+   "rule": "Egalik qaratqich 's: doktorning ishi."
+  },
+  {
+   "part": 1,
+   "uz": "Qizning mushugi kichkina va chiroyli.",
+   "en": [
+    "The girl's cat is small and beautiful."
+   ],
+   "rule": "Egalik qaratqich 's: qizning mushugi."
+  },
+  {
+   "part": 1,
+   "uz": "Bolaning to'pi yangi.",
+   "en": [
+    "The boy's ball is new."
+   ],
+   "rule": "Egalik qaratqich 's: bolaning to'pi."
+  },
+  {
+   "part": 1,
+   "uz": "Erkakning mashinasi ko'k.",
+   "en": [
+    "The man's car is blue."
+   ],
+   "rule": "Egalik qaratqich 's: erkakning mashinasi."
+  },
+  {
+   "part": 1,
+   "uz": "Ayolning sumkasi qora.",
+   "en": [
+    "The woman's bag is black."
+   ],
+   "rule": "Egalik qaratqich 's: ayolning sumkasi."
+  },
+  {
+   "part": 1,
+   "uz": "Singlimning kitobi yangi.",
+   "en": [
+    "My sister's book is new."
+   ],
+   "rule": "Egalik qaratqich 's: singlimning kitobi."
+  },
+  {
+   "part": 1,
+   "uz": "Menejerning xonasi katta.",
+   "en": [
+    "The manager's office is big."
+   ],
+   "rule": "Egalik qaratqich 's: menejerning xonasi."
+  },
+  {
+   "part": 1,
+   "uz": "Politsiyachining mashinasi tez.",
+   "en": [
+    "The police officer's car is fast."
+   ],
+   "rule": "Egalik qaratqich 's: politsiyachining mashinasi."
+  },
+  {
+   "part": 1,
+   "uz": "Do'kon xodimining ismi Tom.",
+   "en": [
+    "The shop assistant's name is Tom."
+   ],
+   "rule": "Egalik qaratqich 's: do'kon xodimining ismi."
+  },
+  {
+   "part": 1,
+   "uz": "Mehmonxonaning nomi yangi.",
+   "en": [
+    "The hotel's name is new."
+   ],
+   "rule": "Egalik qaratqich 's: mehmonxonaning nomi."
+  },
+  {
+   "part": 1,
+   "uz": "Bankning manzili Toshkentda.",
+   "en": [
+    "The bank's address is in Tashkent."
+   ],
+   "rule": "Egalik qaratqich 's: bankning manzili."
+  },
+  {
+   "part": 1,
+   "uz": "Itning ismi Rex.",
+   "en": [
+    "The dog's name is Rex."
+   ],
+   "rule": "Egalik qaratqich 's: itning ismi."
+  },
+  {
+   "part": 1,
+   "uz": "Talabaning lug'ati stol ustida.",
+   "en": [
+    "The student's dictionary is on the table."
+   ],
+   "rule": "Egalik qaratqich 's: talabaning lug'ati."
+  },
+  {
+   "part": 1,
+   "uz": "O'g'il bolaning velosipedi qizil.",
+   "en": [
+    "The boy's bicycle is red."
+   ],
+   "rule": "Egalik qaratqich 's: o'g'il bolaning velosipedi."
+  },
+  {
+   "part": 2,
+   "uz": "U mening akam.",
+   "en": [
+    "He's my brother."
+   ],
+   "rule": "'s harfi is fe'lining qisqartmasi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu Tomning uyi.",
+   "en": [
+    "This is Tom's house."
+   ],
+   "rule": "Bu yerda 's egalik qaratqichini bildiradi."
+  },
+  {
+   "part": 2,
+   "uz": "U shifokor.",
+   "en": [
+    "She's a doctor."
+   ],
+   "rule": "'s is fe'lining qisqartmasi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu Malikaning mushugi.",
+   "en": [
+    "This is Malika's cat."
+   ],
+   "rule": "Bu yerda 's egalik ma'nosini bildiradi."
+  },
+  {
+   "part": 2,
+   "uz": "U juda yaxshi do'st.",
+   "en": [
+    "He's a very good friend."
+   ],
+   "rule": "'s is fe'lini qisqartirib yozish uchun kelgan."
+  },
+  {
+   "part": 2,
+   "uz": "Bu Ali aqlli bola.",
+   "en": [
+    "Ali's a clever boy."
+   ],
+   "rule": "Ismdan keyingi 's is fe'lining qisqartmasi."
+  },
+  {
+   "part": 2,
+   "uz": "Uning ismi Anna.",
+   "en": [
+    "Her name's Anna."
+   ],
+   "rule": "Ism so'zidan keyingi 's is fe'lini bildiradi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu Azizning kitobi.",
+   "en": [
+    "This is Aziz's book."
+   ],
+   "rule": "Aziz's — egalik qaratqich 's."
+  },
+  {
+   "part": 2,
+   "uz": "Bu yerda ob-havo juda yaxshi.",
+   "en": [
+    "The weather's very good here."
+   ],
+   "rule": "Ob-havodan keyingi 's is fe'lining qisqartmasi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu mening opamning sumkasi.",
+   "en": [
+    "This is my sister's bag."
+   ],
+   "rule": "Opamning so'zidagi 's egalikni bildiradi."
+  },
+  {
+   "part": 2,
+   "uz": "Kim bu?",
+   "en": [
+    "Who's this?"
+   ],
+   "rule": "Who's — Who is so'zining qisqartmasi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu Anna.",
+   "en": [
+    "She's Anna."
+   ],
+   "rule": "She's — She is qisqartmasi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu Toshkent.",
+   "en": [
+    "It's Tashkent."
+   ],
+   "rule": "It's — It is qisqartmasi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu mening singlimning telefoni.",
+   "en": [
+    "This is my sister's phone."
+   ],
+   "rule": "Singlimning so'zidagi 's egalik qaratqichi."
+  },
+  {
+   "part": 2,
+   "uz": "U uyda.",
+   "en": [
+    "He's at home."
+   ],
+   "rule": "He's — He is fe'lining qisqartmasi."
+  },
+  {
+   "part": 2,
+   "uz": "Bugun ob-havo juda issiq.",
+   "en": [
+    "Today's weather is very hot.",
+    "Today's hot."
+   ],
+   "rule": "Today's so'zidagi 's is fe'li yoki egalik bo'lishi mumkin."
+  },
+  {
+   "part": 2,
+   "uz": "Bu o'qituvchining xonasi.",
+   "en": [
+    "This is the teacher's office."
+   ],
+   "rule": "O'qituvchining so'zidagi 's egalikni ko'rsatadi."
+  },
+  {
+   "part": 2,
+   "uz": "U juda xursand.",
+   "en": [
+    "She's very happy."
+   ],
+   "rule": "She's — She is qisqartmasi."
+  },
+  {
+   "part": 2,
+   "uz": "U yerda nima bor?",
+   "en": [
+    "What's over there?"
+   ],
+   "rule": "What's — What is so'zining qisqartmasi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu Tomning mashinasi.",
+   "en": [
+    "This is Tom's car."
+   ],
+   "rule": "Tom's — egalik qaratqich 's."
+  },
+  {
+   "part": 2,
+   "uz": "U chiroyli ayol.",
+   "en": [
+    "She's a beautiful woman."
+   ],
+   "rule": "She's — She is fe'lining qisqartmasi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu doktorning xonasi.",
+   "en": [
+    "This is the doctor's office."
+   ],
+   "rule": "Doktorning so'zidagi 's egalikni bildiradi."
+  },
+  {
+   "part": 2,
+   "uz": "U biznesmen.",
+   "en": [
+    "He's a businessman."
+   ],
+   "rule": "He's — He is qisqartmasi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu mening do'stimning uyi.",
+   "en": [
+    "This is my friend's house."
+   ],
+   "rule": "Do'stimning so'zidagi 's egalik qaratqichi."
+  },
+  {
+   "part": 2,
+   "uz": "U o'n yoshda.",
+   "en": [
+    "He's ten years old."
+   ],
+   "rule": "He's — He is fe'lining qisqartmasi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu otamning mashinasi.",
+   "en": [
+    "This is my father's car."
+   ],
+   "rule": "Otamning so'zidagi 's egalikni bildiradi."
+  },
+  {
+   "part": 2,
+   "uz": "U xursand.",
+   "en": [
+    "He's happy."
+   ],
+   "rule": "He's — He is qisqartmasi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu onamning sumkasi.",
+   "en": [
+    "This is my mother's bag."
+   ],
+   "rule": "Onamning so'zidagi 's egalik qaratqichi."
+  },
+  {
+   "part": 2,
+   "uz": "U charchagan.",
+   "en": [
+    "She's tired."
+   ],
+   "rule": "She's — She is fe'lining qisqartmasi."
+  },
+  {
+   "part": 2,
+   "uz": "Bu meni do'stim.",
+   "en": [
+    "He's my friend.",
+    "She's my friend."
+   ],
+   "rule": "He's / She's — He is / She is qisqartmasi."
+  }
+ ],
+ "intro": {
+  "what": "Possessive 's (Qaratqich 's) otga -'s qo'shish orqali narsa yoki shaxs kimga tegishli ekanini bildiradi. Shuningdek, u 'is' qisqartmasi sifatida ham ishlatiladi.",
+  "when": [
+   "Birlikdagi otlarga egalikni bildirish uchun (Tom's book)",
+   "Ism va qarindoshlik nomlari bilan foydalanish (my sister's car)",
+   "He is yoki Who is so'zlarining qisqartmasi sifatida (He's a doctor)",
+   "Savollarda kimga tegishli ekanini so'rash uchun (Whose bag is this?)"
+  ],
+  "structures": [
+   {
+    "label": "(+)",
+    "formula": "S + TOBE + OB + 's + OB",
+    "example_en": "This is John's car.",
+    "example_uz": "Bu Jonning mashinasi."
+   },
+   {
+    "label": "(-)",
+    "formula": "S + TOBE + NOT + OB + 's + OB",
+    "example_en": "This is not Ali's book.",
+    "example_uz": "Bu Alining kitobi emas."
+   },
+   {
+    "label": "(?)",
+    "formula": "TOBE + S + OB + 's + OB?",
+    "example_en": "Is this Malika's house?",
+    "example_uz": "Bu Malikaning uyiymi?"
+   },
+   {
+    "label": "Wh-",
+    "formula": "WH + TOBE + S + 's?",
+    "example_en": "Whose pen is this?",
+    "example_uz": "Bu kimning ruchkasi?"
+   }
+  ],
+  "rules": [
+   {
+    "title": "Birlikdagi otlar uchun 's",
+    "text": "Birlikdagi ism yoki otlardan keyin apostrof va s ('s) qo'shiladi.",
+    "examples": [
+     {
+      "en": "Tom's dog is big.",
+      "uz": "Tomning iti katta."
+     },
+     {
+      "en": "My brother's friend is nice.",
+      "uz": "Akamning do'sti yaxshi."
+     }
+    ]
+   },
+   {
+    "title": "'s har xil ma'noda",
+    "text": "'s qaratqich kelishigini ham, 'is' fe'lini ham bildiradi.",
+    "examples": [
+     {
+      "en": "He's a doctor.",
+      "uz": "U shifokor. (He is)"
+     },
+     {
+      "en": "Ali's car is new.",
+      "uz": "Alining mashinasi yangi. (Possessive 's)"
+     }
+    ]
+   }
+  ],
+  "signal_words": [
+   {
+    "en": "Whose",
+    "uz": "Kimning"
+   },
+   {
+    "en": "Who's",
+    "uz": "Kim / Kimdir"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "Car of John is red.",
+    "right": "John's car is red.",
+    "why": "Ingliz tilida egalik uchun John's strukturasi ishlatiladi."
+   },
+   {
+    "wrong": "This is Toms book.",
+    "right": "This is Tom's book.",
+    "why": "Egalikni bildiruvchi 's dan oldin albatta apostrof qo'yilishi kerak."
+   }
+  ]
+ },
+ "test": [
+  {
+   "type": "fill",
+   "q": "This is Ali______ book.",
+   "answer": "'s",
+   "explain": "Ismga egalik ma'nosini berish uchun 's qo'shiladi.",
+   "accept": [
+    "'s"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "That is my sister______ car.",
+   "answer": "'s",
+   "explain": "Otlarga egalikni bildirish uchun apostrof va s qo'shiladi.",
+   "accept": [
+    "'s"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "______ is that? It is John.",
+   "answer": "Who's",
+   "explain": "Kimligini so'rash uchun Who's (Who is) ishlatiladi.",
+   "accept": [
+    "Who is"
+   ],
+   "hint": "what / where / how"
+  },
+  {
+   "type": "fill",
+   "q": "He______ a doctor.",
+   "answer": "'s",
+   "explain": "He olmoshidan keyin is fe'lining qisqartmasi 's ishlatiladi.",
+   "accept": [
+    "is"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "This is Malika______ bag.",
+   "answer": "'s",
+   "explain": "Malika so'ziga egalik ma'nosi uchun 's qo'shiladi.",
+   "accept": [
+    "'s"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "______ car is this? It is Tom's car.",
+   "answer": "Whose",
+   "explain": "Kimga tegishli ekanini so'rash uchun Whose so'zi ishlatiladi.",
+   "accept": [],
+   "hint": "what / where / how"
+  },
+  {
+   "type": "fill",
+   "q": "She______ a teacher.",
+   "answer": "'s",
+   "explain": "She olmoshidan keyin is fe'lining qisqartmasi 's ishlatiladi.",
+   "accept": [
+    "is"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "This is my brother______ dog.",
+   "answer": "'s",
+   "explain": "Birlikdagi otga egalik uchun 's qo'shiladi.",
+   "accept": [
+    "'s"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "Aziz______ house is big.",
+   "answer": "'s",
+   "explain": "Aziz ismiga egalik ma'nosini berish uchun 's ishlatiladi.",
+   "accept": [
+    "'s"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "______ pen is this? It is my pen.",
+   "answer": "Whose",
+   "explain": "Egalikni so'rash uchun Whose so'zi ishlatiladi.",
+   "accept": [],
+   "hint": "what / where / how"
+  },
+  {
+   "type": "fill",
+   "q": "Tom______ father is a doctor.",
+   "answer": "'s",
+   "explain": "Tom ismiga egalik qo'shimchasi 's qo'shiladi.",
+   "accept": [
+    "'s"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "It______ a small cat.",
+   "answer": "'s",
+   "explain": "It olmoshidan keyin is fe'lining qisqartmasi 's ishlatiladi.",
+   "accept": [
+    "is"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "Anna______ phone is new.",
+   "answer": "'s",
+   "explain": "Anna ismiga egalik uchun 's qo'shiladi.",
+   "accept": [
+    "'s"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "______ that man? He's my teacher.",
+   "answer": "Who's",
+   "explain": "Kimligini so'rash uchun Who's ishlatiladi.",
+   "accept": [
+    "Who is"
+   ],
+   "hint": "what / where / how"
+  },
+  {
+   "type": "fill",
+   "q": "This is the teacher______ book.",
+   "answer": "'s",
+   "explain": "O'qituvchining kitobi demoqchi bo'lsak, teacher so'ziga 's qo'shamiz.",
+   "accept": [
+    "'s"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "Samarkand______ weather is fine today.",
+   "answer": "'s",
+   "explain": "Samarkand shahriga egalik ma'nosi uchun 's qo'shiladi.",
+   "accept": [
+    "'s"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "My friend______ name is John.",
+   "answer": "'s",
+   "explain": "Do'stining ismi ma'nosini berish uchun 's ishlatiladi.",
+   "accept": [
+    "'s"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "Uzbekistan______ cities are beautiful.",
+   "answer": "'s",
+   "explain": "O'zbekistonning shaharlari ma'nosini berish uchun 's qo'shiladi.",
+   "accept": [
+    "'s"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "Ali______ dog is black.",
+   "answer": "'s",
+   "explain": "Alining iti demoqchi bo'lsak, Ali so'ziga 's qo'shamiz.",
+   "accept": [
+    "'s"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "______ book is this? It's my book.",
+   "answer": "Whose",
+   "explain": "Kimniki ekanini so'rash uchun Whose ishlatiladi.",
+   "accept": [],
+   "hint": "what / where / how"
+  },
+  {
+   "type": "mc",
+   "q": "This is ______ car.",
+   "answer": "Ali's",
+   "explain": "Egalikni ko'rsatish uchun ismga 's qo'shiladi.",
+   "options": [
+    "Ali",
+    "Ali's",
+    "Alis"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ pen is this?",
+   "answer": "Whose",
+   "explain": "Kimga tegishli ekanini so'rashda Whose ishlatiladi.",
+   "options": [
+    "Who",
+    "Whose",
+    "What"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "He______ a good student.",
+   "answer": "'s",
+   "explain": "He olmoshidan keyin is fe'lining qisqartmasi 's keladi.",
+   "options": [
+    "'s",
+    "'re",
+    "'m"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "That is my ______ house.",
+   "answer": "brother's",
+   "explain": "Akamning uyi deyish uchun brother's ishlatiladi.",
+   "options": [
+    "brother",
+    "brother's",
+    "brothers"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ that boy? He's my brother.",
+   "answer": "Who's",
+   "explain": "Kimligini so'rash uchun Who's ishlatiladi.",
+   "options": [
+    "Whose",
+    "Who's",
+    "What's"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "This is ______ bag.",
+   "answer": "Malika's",
+   "explain": "Malikaning sumkasi ma'nosida Malika's ishlatiladi.",
+   "options": [
+    "Malika",
+    "Malika's",
+    "Malikas"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "My sister______ name is Anna.",
+   "answer": "'s",
+   "explain": "Singlimning ismi ma'nosida sister's ishlatiladi.",
+   "options": [
+    "is",
+    "'s",
+    "are"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ bag is this? It's Tom's bag.",
+   "answer": "Whose",
+   "explain": "Kimniki ekanini so'rash uchun Whose ishlatiladi.",
+   "options": [
+    "Where",
+    "Whose",
+    "What"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Tom______ a doctor.",
+   "answer": "'s",
+   "explain": "Tom ismidan keyin is fe'lining qisqartmasi 's keladi.",
+   "options": [
+    "'s",
+    "s",
+    "are"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "This is the ______ book.",
+   "answer": "teacher's",
+   "explain": "O'qituvchining kitobi ma'nosida teacher's ishlatiladi.",
+   "options": [
+    "teacher",
+    "teachers",
+    "teacher's"
+   ]
+  }
+ ]
+}

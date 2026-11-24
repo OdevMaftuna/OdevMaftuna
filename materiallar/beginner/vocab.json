@@ -1,0 +1,3820 @@
+[
+ {
+  "unit": 1,
+  "words": [
+   {
+    "en": "And",
+    "uz": "va"
+   },
+   {
+    "en": "Bag",
+    "uz": "sumka"
+   },
+   {
+    "en": "Book",
+    "uz": "kitob"
+   },
+   {
+    "en": "Bus",
+    "uz": "avtobus"
+   },
+   {
+    "en": "Bye!",
+    "uz": "Xayir"
+   },
+   {
+    "en": "Camera",
+    "uz": "kamera"
+   },
+   {
+    "en": "Car",
+    "uz": "mashina"
+   },
+   {
+    "en": "Coffee",
+    "uz": "kofe"
+   },
+   {
+    "en": "Computer",
+    "uz": "kompyuter"
+   },
+   {
+    "en": "Cup",
+    "uz": "chashka, piyola"
+   },
+   {
+    "en": "Day",
+    "uz": "kun"
+   },
+   {
+    "en": "English",
+    "uz": "ingliz"
+   },
+   {
+    "en": "Everyday",
+    "uz": "har kungi"
+   },
+   {
+    "en": "Fine",
+    "uz": "yaxshi"
+   },
+   {
+    "en": "First name",
+    "uz": "ism"
+   },
+   {
+    "en": "Good afternoon!",
+    "uz": "Hayrli kun"
+   },
+   {
+    "en": "Good morning!",
+    "uz": "Hayrli tong"
+   },
+   {
+    "en": "Good night!",
+    "uz": "Hayrli tun"
+   },
+   {
+    "en": "Goodbye!",
+    "uz": "hayr"
+   },
+   {
+    "en": "Hamburger",
+    "uz": "gamburger"
+   },
+   {
+    "en": "Have a nice day!",
+    "uz": "Kuningiz hayrli o'tsin"
+   },
+   {
+    "en": "Hello",
+    "uz": "salom"
+   },
+   {
+    "en": "House",
+    "uz": "uy"
+   },
+   {
+    "en": "How are you?",
+    "uz": "Qalaysiz?"
+   },
+   {
+    "en": "Lovely",
+    "uz": "yoqimli"
+   },
+   {
+    "en": "My",
+    "uz": "mening"
+   },
+   {
+    "en": "Name",
+    "uz": "ism"
+   },
+   {
+    "en": "Nice to meet you",
+    "uz": "tanishganimdan xursandman"
+   },
+   {
+    "en": "OK",
+    "uz": "yaxshi"
+   },
+   {
+    "en": "Phone",
+    "uz": "telefon"
+   },
+   {
+    "en": "Photograph",
+    "uz": "rasm, fotosurat"
+   },
+   {
+    "en": "Please",
+    "uz": "iltimos, marhamat"
+   },
+   {
+    "en": "Sandwich",
+    "uz": "sendvich"
+   },
+   {
+    "en": "See you later!",
+    "uz": "Keyinroq ko'rishguncha"
+   },
+   {
+    "en": "Sleep well",
+    "uz": "yaxshi uxlang"
+   },
+   {
+    "en": "Surname",
+    "uz": "famiya"
+   },
+   {
+    "en": "Tea",
+    "uz": "choy"
+   },
+   {
+    "en": "Television",
+    "uz": "televizor"
+   },
+   {
+    "en": "Thank you",
+    "uz": "rahmat sizga"
+   },
+   {
+    "en": "Thanks",
+    "uz": "rahmat"
+   },
+   {
+    "en": "This",
+    "uz": "bu"
+   },
+   {
+    "en": "Today",
+    "uz": "bugun"
+   },
+   {
+    "en": "Very well",
+    "uz": "juda yaxshi"
+   },
+   {
+    "en": "What?",
+    "uz": "nima?"
+   },
+   {
+    "en": "With",
+    "uz": "bilan"
+   },
+   {
+    "en": "Your",
+    "uz": "sizning"
+   }
+  ]
+ },
+ {
+  "unit": 2,
+  "words": [
+   {
+    "en": "About",
+    "uz": "haqida"
+   },
+   {
+    "en": "Awful",
+    "uz": "juda yomon"
+   },
+   {
+    "en": "Beautiful",
+    "uz": "chiroyli"
+   },
+   {
+    "en": "Building",
+    "uz": "bino"
+   },
+   {
+    "en": "Centre",
+    "uz": "markaz"
+   },
+   {
+    "en": "Cities",
+    "uz": "shaharlar"
+   },
+   {
+    "en": "Countries",
+    "uz": "davlatlar"
+   },
+   {
+    "en": "Doctor",
+    "uz": "shifokor"
+   },
+   {
+    "en": "Fantastic",
+    "uz": "g'aroyib"
+   },
+   {
+    "en": "Find",
+    "uz": "topmoq"
+   },
+   {
+    "en": "From",
+    "uz": "dan"
+   },
+   {
+    "en": "Hear",
+    "uz": "eshitmoq"
+   },
+   {
+    "en": "Her",
+    "uz": "uning (qiz bola)"
+   },
+   {
+    "en": "His",
+    "uz": "uning (o'g'il bola)"
+   },
+   {
+    "en": "Hospital",
+    "uz": "shifoxona"
+   },
+   {
+    "en": "How old?",
+    "uz": "Necha yosh"
+   },
+   {
+    "en": "Look at (sth)",
+    "uz": "nimagadir qaramoq"
+   },
+   {
+    "en": "Map",
+    "uz": "xarita"
+   },
+   {
+    "en": "Married",
+    "uz": "turmushga chiqqan, uylangan"
+   },
+   {
+    "en": "On holiday",
+    "uz": "dam olishda"
+   },
+   {
+    "en": "People",
+    "uz": "odamlar"
+   },
+   {
+    "en": "Really good",
+    "uz": "juda yaxshi"
+   },
+   {
+    "en": "School",
+    "uz": "maktab"
+   },
+   {
+    "en": "These",
+    "uz": "bular (yaqindagi narsalar)"
+   },
+   {
+    "en": "Too",
+    "uz": "... ham"
+   },
+   {
+    "en": "Weather",
+    "uz": "ob-havo"
+   },
+   {
+    "en": "Where?",
+    "uz": "Qayer? Qayerdan?"
+   },
+   {
+    "en": "World",
+    "uz": "dunyo"
+   }
+  ]
+ },
+ {
+  "unit": 3,
+  "words": [
+   {
+    "en": "Address",
+    "uz": "manzil"
+   },
+   {
+    "en": "All",
+    "uz": "hamma"
+   },
+   {
+    "en": "America",
+    "uz": "Amerika"
+   },
+   {
+    "en": "Another",
+    "uz": "boshqa, yana bitta"
+   },
+   {
+    "en": "Audition",
+    "uz": "eshittirish"
+   },
+   {
+    "en": "Band",
+    "uz": "musiqiy guruh"
+   },
+   {
+    "en": "Boy",
+    "uz": "bola"
+   },
+   {
+    "en": "Brother",
+    "uz": "aka, uka"
+   },
+   {
+    "en": "Builder",
+    "uz": "quruvchi"
+   },
+   {
+    "en": "Bus driver",
+    "uz": "avtobus haydovchisi"
+   },
+   {
+    "en": "Businessman",
+    "uz": "tadbirkor"
+   },
+   {
+    "en": "Excited",
+    "uz": "ta'sirlangan, hayajonlangan"
+   },
+   {
+    "en": "Excuse me",
+    "uz": "kechirasiz"
+   },
+   {
+    "en": "Forty",
+    "uz": "qirq"
+   },
+   {
+    "en": "Good luck",
+    "uz": "omad"
+   },
+   {
+    "en": "Great!",
+    "uz": "zo'r"
+   },
+   {
+    "en": "Happy",
+    "uz": "baxtli"
+   },
+   {
+    "en": "Here",
+    "uz": "shu yerda"
+   },
+   {
+    "en": "Hi!",
+    "uz": "salom"
+   },
+   {
+    "en": "I don't understand",
+    "uz": "men tushunmayapman"
+   },
+   {
+    "en": "I am sorry",
+    "uz": "kechirasiz"
+   },
+   {
+    "en": "Interesting",
+    "uz": "qiziqarli"
+   },
+   {
+    "en": "Interview",
+    "uz": "suhbat"
+   },
+   {
+    "en": "Ireland",
+    "uz": "Irlandiya"
+   },
+   {
+    "en": "Job",
+    "uz": "kasb"
+   },
+   {
+    "en": "Live",
+    "uz": "yashamoq"
+   },
+   {
+    "en": "Magazine",
+    "uz": "jurnal"
+   },
+   {
+    "en": "Now",
+    "uz": "hozir"
+   },
+   {
+    "en": "Nurse",
+    "uz": "hamshira"
+   },
+   {
+    "en": "On tour",
+    "uz": "gastrolda"
+   },
+   {
+    "en": "Other",
+    "uz": "boshqa"
+   },
+   {
+    "en": "Over there",
+    "uz": "anavi yerda"
+   },
+   {
+    "en": "Personal information",
+    "uz": "shaxsiy ma'lumot"
+   },
+   {
+    "en": "Phone number",
+    "uz": "telefon raqam"
+   },
+   {
+    "en": "Police officer",
+    "uz": "politsiya ofitseri"
+   },
+   {
+    "en": "Same",
+    "uz": "bir xil"
+   },
+   {
+    "en": "Scotland",
+    "uz": "Shotlandiya"
+   },
+   {
+    "en": "Shop assistant",
+    "uz": "sotuvchi"
+   },
+   {
+    "en": "Singer",
+    "uz": "qo'shiqchi"
+   },
+   {
+    "en": "Sorry",
+    "uz": "uzr, kechirasiz"
+   },
+   {
+    "en": "Station",
+    "uz": "vokzal"
+   },
+   {
+    "en": "Sweden",
+    "uz": "Shvetsiya"
+   },
+   {
+    "en": "Thanks a lot",
+    "uz": "katta rahmat"
+   },
+   {
+    "en": "Tired",
+    "uz": "charchagan"
+   },
+   {
+    "en": "Town centre",
+    "uz": "shahar markazi"
+   },
+   {
+    "en": "Very",
+    "uz": "juda"
+   },
+   {
+    "en": "Winner",
+    "uz": "g'olib"
+   },
+   {
+    "en": "Yet",
+    "uz": "hali ham"
+   }
+  ]
+ },
+ {
+  "unit": 4,
+  "words": [
+   {
+    "en": "A lot of",
+    "uz": "ko'p"
+   },
+   {
+    "en": "Accountant",
+    "uz": "hisobchi"
+   },
+   {
+    "en": "Age",
+    "uz": "yosh"
+   },
+   {
+    "en": "Bank manager",
+    "uz": "bank rahbari"
+   },
+   {
+    "en": "Bank",
+    "uz": "bank"
+   },
+   {
+    "en": "Best friend",
+    "uz": "yaqin do'st"
+   },
+   {
+    "en": "Big",
+    "uz": "katta"
+   },
+   {
+    "en": "Both",
+    "uz": "ikkovi ham"
+   },
+   {
+    "en": "Boyfriend",
+    "uz": "sevgan yor, oshiq"
+   },
+   {
+    "en": "Business card",
+    "uz": "vizitka"
+   },
+   {
+    "en": "Certainly",
+    "uz": "albatta"
+   },
+   {
+    "en": "Children",
+    "uz": "bolalar"
+   },
+   {
+    "en": "Connecting",
+    "uz": "ulanish"
+   },
+   {
+    "en": "Dancing",
+    "uz": "raqs mashg'uloti"
+   },
+   {
+    "en": "Dictionary",
+    "uz": "lug'at"
+   },
+   {
+    "en": "Dog",
+    "uz": "it"
+   },
+   {
+    "en": "Evening",
+    "uz": "kechqurun"
+   },
+   {
+    "en": "Everybody",
+    "uz": "har bir inson"
+   },
+   {
+    "en": "Family tree",
+    "uz": "shajara, (oila a'zolari ko'rsatiladi)"
+   },
+   {
+    "en": "Fans",
+    "uz": "muxlislar"
+   },
+   {
+    "en": "Football",
+    "uz": "1) futbol o'yini; 2) futbol koptogi"
+   },
+   {
+    "en": "Friends",
+    "uz": "do'stlar"
+   },
+   {
+    "en": "Funny",
+    "uz": "kulguli"
+   },
+   {
+    "en": "Germany",
+    "uz": "Germaniya"
+   },
+   {
+    "en": "Girlfriend",
+    "uz": "dugona"
+   },
+   {
+    "en": "Give",
+    "uz": "bermoq"
+   },
+   {
+    "en": "Goal",
+    "uz": "maqsad"
+   },
+   {
+    "en": "Good",
+    "uz": "yaxshi"
+   },
+   {
+    "en": "Have",
+    "uz": "ega bo'lmoq, bor bo'lmoq"
+   },
+   {
+    "en": "Home",
+    "uz": "uy"
+   },
+   {
+    "en": "Hotel",
+    "uz": "mehmonxona"
+   },
+   {
+    "en": "Like",
+    "uz": "yoqtirmoq"
+   },
+   {
+    "en": "Manager",
+    "uz": "rahbar"
+   },
+   {
+    "en": "Near",
+    "uz": "yaqinida"
+   },
+   {
+    "en": "New",
+    "uz": "toza"
+   },
+   {
+    "en": "Nice",
+    "uz": "yaxshi"
+   },
+   {
+    "en": "North",
+    "uz": "shimol"
+   },
+   {
+    "en": "Notice",
+    "uz": "sezmoq"
+   },
+   {
+    "en": "Of course",
+    "uz": "albatta"
+   },
+   {
+    "en": "Office",
+    "uz": "ishxona"
+   },
+   {
+    "en": "Our",
+    "uz": "bizning"
+   },
+   {
+    "en": "Part of something",
+    "uz": "birnimaning qismi"
+   },
+   {
+    "en": "Part-time job",
+    "uz": "Kunning ma'lum qismida ishlanadigan ish"
+   },
+   {
+    "en": "Police",
+    "uz": "militsiya"
+   },
+   {
+    "en": "Really",
+    "uz": "juda"
+   },
+   {
+    "en": "Small",
+    "uz": "kichik"
+   },
+   {
+    "en": "Spell",
+    "uz": "harfma harf talaffuz qilish"
+   },
+   {
+    "en": "Sport",
+    "uz": "sport"
+   },
+   {
+    "en": "Sports centre",
+    "uz": "sport markazi"
+   },
+   {
+    "en": "Their",
+    "uz": "ularni"
+   },
+   {
+    "en": "Together",
+    "uz": "birga"
+   },
+   {
+    "en": "University",
+    "uz": "universitet"
+   },
+   {
+    "en": "Us",
+    "uz": "bizga"
+   },
+   {
+    "en": "Village",
+    "uz": "qishloq"
+   },
+   {
+    "en": "Want",
+    "uz": "xohlamoq"
+   }
+  ]
+ },
+ {
+  "unit": 5,
+  "words": [
+   {
+    "en": "Actor",
+    "uz": "aktyor"
+   },
+   {
+    "en": "Arabic",
+    "uz": "arabcha"
+   },
+   {
+    "en": "Beer",
+    "uz": "pivo"
+   },
+   {
+    "en": "Blue",
+    "uz": "ko'k"
+   },
+   {
+    "en": "Cheese",
+    "uz": "pishloq"
+   },
+   {
+    "en": "Chocolate",
+    "uz": "shokolad"
+   },
+   {
+    "en": "Coke",
+    "uz": "kola"
+   },
+   {
+    "en": "Come here!",
+    "uz": "Bu yoqqa kel"
+   },
+   {
+    "en": "Count",
+    "uz": "sanamoq"
+   },
+   {
+    "en": "Delicious",
+    "uz": "mazali"
+   },
+   {
+    "en": "Drink",
+    "uz": "ichmoq"
+   },
+   {
+    "en": "Eat",
+    "uz": "yemoq"
+   },
+   {
+    "en": "Exciting",
+    "uz": "hayajonli, qiziqarli"
+   },
+   {
+    "en": "Flat",
+    "uz": "kvartira"
+   },
+   {
+    "en": "Food",
+    "uz": "ovqat"
+   },
+   {
+    "en": "Guys",
+    "uz": "bolalar/yigitlar"
+   },
+   {
+    "en": "How much",
+    "uz": "qancha (sanalmaydigan otlar bilan)"
+   },
+   {
+    "en": "How many",
+    "uz": "qancha (sanaladigan otlar bilan)"
+   },
+   {
+    "en": "Ice cream",
+    "uz": "muzqaymoq"
+   },
+   {
+    "en": "Identity",
+    "uz": "shaxs"
+   },
+   {
+    "en": "Language",
+    "uz": "til"
+   },
+   {
+    "en": "List",
+    "uz": "ro'yhat"
+   },
+   {
+    "en": "Love",
+    "uz": "yaxshi ko'rmoq"
+   },
+   {
+    "en": "Nationalitites",
+    "uz": "millatlar"
+   },
+   {
+    "en": "Orange",
+    "uz": "apelsin"
+   },
+   {
+    "en": "Order",
+    "uz": "buyurtma qilmoq"
+   },
+   {
+    "en": "Pair of",
+    "uz": "ning jufti"
+   },
+   {
+    "en": "Party",
+    "uz": "ziyofat"
+   },
+   {
+    "en": "Pizza",
+    "uz": "pitsa"
+   },
+   {
+    "en": "Play",
+    "uz": "o'ynamoq"
+   },
+   {
+    "en": "Portugal",
+    "uz": "Portugaliya"
+   },
+   {
+    "en": "Pounds",
+    "uz": "funt (Angliya pul birligi)"
+   },
+   {
+    "en": "Prices",
+    "uz": "narxlari"
+   },
+   {
+    "en": "Restaurants",
+    "uz": "restoranlar"
+   },
+   {
+    "en": "Skiing",
+    "uz": "konki uchmoq"
+   },
+   {
+    "en": "Sometimes",
+    "uz": "ba'zan"
+   },
+   {
+    "en": "Speak",
+    "uz": "gapirmoq"
+   },
+   {
+    "en": "Swimming",
+    "uz": "suzish"
+   },
+   {
+    "en": "Switzerland",
+    "uz": "Shveytsariya"
+   },
+   {
+    "en": "Tennis",
+    "uz": "tennis"
+   },
+   {
+    "en": "Terrible",
+    "uz": "daxshatli yomon"
+   },
+   {
+    "en": "The best",
+    "uz": "zo'r"
+   },
+   {
+    "en": "Twin",
+    "uz": "egizak"
+   },
+   {
+    "en": "Waiter",
+    "uz": "ofitsiant"
+   },
+   {
+    "en": "Wine",
+    "uz": "vino"
+   }
+  ]
+ },
+ {
+  "unit": 6,
+  "words": [
+   {
+    "en": "All day",
+    "uz": "kuni bo'yi"
+   },
+   {
+    "en": "Always",
+    "uz": "har doim"
+   },
+   {
+    "en": "Artist",
+    "uz": "rassom"
+   },
+   {
+    "en": "As usual",
+    "uz": "odatdagiday"
+   },
+   {
+    "en": "At the weekend",
+    "uz": "dam olish kunlarida (shanba, yakshanba)"
+   },
+   {
+    "en": "Beach",
+    "uz": "plyaj"
+   },
+   {
+    "en": "Bed",
+    "uz": "karavot"
+   },
+   {
+    "en": "Between",
+    "uz": "orasida"
+   },
+   {
+    "en": "Breakfast",
+    "uz": "nonushta"
+   },
+   {
+    "en": "Businesswoman",
+    "uz": "tadbirkor, ishbilarmon ayol"
+   },
+   {
+    "en": "Busy",
+    "uz": "band"
+   },
+   {
+    "en": "Boy",
+    "uz": "o'g'il bola"
+   },
+   {
+    "en": "Come",
+    "uz": "kelmoq"
+   },
+   {
+    "en": "Dad",
+    "uz": "dada"
+   },
+   {
+    "en": "Dinner",
+    "uz": "kechki ovqat"
+   },
+   {
+    "en": "Director",
+    "uz": "direktor, rejissyor"
+   },
+   {
+    "en": "Drive",
+    "uz": "haydamoq"
+   },
+   {
+    "en": "Early",
+    "uz": "erta"
+   },
+   {
+    "en": "Egg",
+    "uz": "tuxum"
+   },
+   {
+    "en": "Fill",
+    "uz": "to'ldirmoq"
+   },
+   {
+    "en": "Get home",
+    "uz": "uyga yetib olmoq"
+   },
+   {
+    "en": "Get up",
+    "uz": "o'rnidan turmoq (uyqudan keyin)"
+   },
+   {
+    "en": "Go out",
+    "uz": "chiqmoq, ko'chaga chiqmoq"
+   },
+   {
+    "en": "Go shopping",
+    "uz": "xarid qilgani bormoq"
+   },
+   {
+    "en": "Go to bed",
+    "uz": "uxlagani yotish"
+   },
+   {
+    "en": "Good idea!",
+    "uz": "Yaxshi fikr"
+   },
+   {
+    "en": "Have a shower",
+    "uz": "dush qabul qilmoq"
+   },
+   {
+    "en": "In",
+    "uz": "ichida"
+   },
+   {
+    "en": "Invite",
+    "uz": "taklif qilmoq"
+   },
+   {
+    "en": "Leave",
+    "uz": "ketmoq"
+   },
+   {
+    "en": "Lesson",
+    "uz": "dars"
+   },
+   {
+    "en": "Life",
+    "uz": "hayot"
+   },
+   {
+    "en": "Lifestyle",
+    "uz": "hayot tarzi"
+   },
+   {
+    "en": "Lunch",
+    "uz": "obed"
+   },
+   {
+    "en": "Morning",
+    "uz": "ertalab"
+   },
+   {
+    "en": "Never",
+    "uz": "hech qachon"
+   },
+   {
+    "en": "Next",
+    "uz": "keyingi"
+   },
+   {
+    "en": "O'clock",
+    "uz": "devor soati"
+   },
+   {
+    "en": "Often",
+    "uz": "tez-tez"
+   },
+   {
+    "en": "Paint",
+    "uz": "bo'yamoq"
+   },
+   {
+    "en": "Piano",
+    "uz": "pianino"
+   },
+   {
+    "en": "Questionnaire",
+    "uz": "anketa"
+   },
+   {
+    "en": "Relax",
+    "uz": "dam olmoq"
+   },
+   {
+    "en": "Schooldays",
+    "uz": "maktab kunlari"
+   },
+   {
+    "en": "Sea",
+    "uz": "dengiz"
+   },
+   {
+    "en": "Seaside",
+    "uz": "qirg'oq"
+   },
+   {
+    "en": "Shopping",
+    "uz": "xarid qilish"
+   },
+   {
+    "en": "Shower",
+    "uz": "dush"
+   },
+   {
+    "en": "Website",
+    "uz": "sayt"
+   },
+   {
+    "en": "Soon",
+    "uz": "tez orada"
+   },
+   {
+    "en": "Stay",
+    "uz": "qolmoq"
+   },
+   {
+    "en": "Stop",
+    "uz": "to'xtatmoq"
+   },
+   {
+    "en": "Studio",
+    "uz": "studiya (rassomning ish joyi)"
+   },
+   {
+    "en": "Taxi",
+    "uz": "taksi"
+   },
+   {
+    "en": "Time",
+    "uz": "vaqt"
+   },
+   {
+    "en": "Toast",
+    "uz": "toster non"
+   },
+   {
+    "en": "Tomorrow",
+    "uz": "ertaga"
+   },
+   {
+    "en": "TV",
+    "uz": "televizor"
+   },
+   {
+    "en": "Typical",
+    "uz": "odatiy, standart"
+   },
+   {
+    "en": "The United States",
+    "uz": "AQSH"
+   },
+   {
+    "en": "Usually",
+    "uz": "odatda"
+   },
+   {
+    "en": "Visit",
+    "uz": "tashrif buyurmoq"
+   },
+   {
+    "en": "Walk",
+    "uz": "piyoda yurmoq"
+   },
+   {
+    "en": "Watch",
+    "uz": "ko'rmoq"
+   },
+   {
+    "en": "Work",
+    "uz": "ish"
+   },
+   {
+    "en": "When?",
+    "uz": "Qachon?"
+   }
+  ]
+ },
+ {
+  "unit": 7,
+  "words": [
+   {
+    "en": "Adore",
+    "uz": "qattiq sevmoq"
+   },
+   {
+    "en": "Amazing",
+    "uz": "ajoyob"
+   },
+   {
+    "en": "Anything",
+    "uz": "biror narsa"
+   },
+   {
+    "en": "Aspirin",
+    "uz": "aspirin"
+   },
+   {
+    "en": "Baby",
+    "uz": "chaqaloq"
+   },
+   {
+    "en": "Because",
+    "uz": "chunki"
+   },
+   {
+    "en": "Bedrooms",
+    "uz": "yotoqxonalar"
+   },
+   {
+    "en": "Best",
+    "uz": "eng yaxshi"
+   },
+   {
+    "en": "Black",
+    "uz": "qora"
+   },
+   {
+    "en": "Boss",
+    "uz": "boshliq"
+   },
+   {
+    "en": "Cafe",
+    "uz": "kafe"
+   },
+   {
+    "en": "Card",
+    "uz": "karta"
+   },
+   {
+    "en": "Carrots",
+    "uz": "sabzilar"
+   },
+   {
+    "en": "Catch",
+    "uz": "tutib olmoq"
+   },
+   {
+    "en": "Cat",
+    "uz": "mushuk"
+   },
+   {
+    "en": "Changing room",
+    "uz": "yechinish kiyinish xonasi"
+   },
+   {
+    "en": "Cheap",
+    "uz": "arzon"
+   },
+   {
+    "en": "Chemist's",
+    "uz": "dorixona"
+   },
+   {
+    "en": "Child",
+    "uz": "bola"
+   },
+   {
+    "en": "Clothes",
+    "uz": "kiyim kechaklar"
+   },
+   {
+    "en": "Coat",
+    "uz": "palto"
+   },
+   {
+    "en": "Cold",
+    "uz": "sovuq"
+   },
+   {
+    "en": "Comfortable",
+    "uz": "qulay"
+   },
+   {
+    "en": "Credit card",
+    "uz": "kredit kartochkasi"
+   },
+   {
+    "en": "Czech Republic",
+    "uz": "Chexiya Respiblikasi"
+   },
+   {
+    "en": "Degree",
+    "uz": "daraja"
+   },
+   {
+    "en": "Designer",
+    "uz": "dizayner"
+   },
+   {
+    "en": "Divorced",
+    "uz": "ajrashgan"
+   },
+   {
+    "en": "Door",
+    "uz": "eshik"
+   },
+   {
+    "en": "Easy",
+    "uz": "oson"
+   },
+   {
+    "en": "Every",
+    "uz": "har bir"
+   },
+   {
+    "en": "Expensive",
+    "uz": "qimmat"
+   },
+   {
+    "en": "Fashion house",
+    "uz": "moda uyi"
+   },
+   {
+    "en": "Fast",
+    "uz": "tez"
+   },
+   {
+    "en": "Favourite",
+    "uz": "sevimli"
+   },
+   {
+    "en": "Film director",
+    "uz": "rejissyor"
+   },
+   {
+    "en": "Fog",
+    "uz": "tuman"
+   },
+   {
+    "en": "Free time",
+    "uz": "bo'sh vaqt"
+   },
+   {
+    "en": "Frenchman",
+    "uz": "fransuz"
+   },
+   {
+    "en": "Friendly",
+    "uz": "do'stona"
+   },
+   {
+    "en": "Hat",
+    "uz": "shlyapa"
+   },
+   {
+    "en": "Hate",
+    "uz": "nafratlanmoq"
+   },
+   {
+    "en": "Homework",
+    "uz": "uyga vazifa"
+   },
+   {
+    "en": "Hot",
+    "uz": "issiq"
+   },
+   {
+    "en": "How many?",
+    "uz": "Necha?"
+   },
+   {
+    "en": "International",
+    "uz": "xalqaro"
+   },
+   {
+    "en": "Jacket",
+    "uz": "kurtka"
+   },
+   {
+    "en": "Jumper",
+    "uz": "jemper, sviter"
+   },
+   {
+    "en": "Kids",
+    "uz": "bolalar"
+   },
+   {
+    "en": "Large",
+    "uz": "katta"
+   },
+   {
+    "en": "Learn",
+    "uz": "o'rganmoq"
+   },
+   {
+    "en": "Look",
+    "uz": "qaramoq"
+   },
+   {
+    "en": "Machine",
+    "uz": "mashina"
+   },
+   {
+    "en": "Meet",
+    "uz": "uchrashmoq"
+   },
+   {
+    "en": "Mobile phones",
+    "uz": "mobil telefonlar"
+   },
+   {
+    "en": "Models",
+    "uz": "model"
+   },
+   {
+    "en": "Money",
+    "uz": "pul"
+   },
+   {
+    "en": "Month",
+    "uz": "oy"
+   },
+   {
+    "en": "Mp3 player",
+    "uz": "mp3 pleyer"
+   },
+   {
+    "en": "Neighbours",
+    "uz": "qo'shnilar"
+   },
+   {
+    "en": "Newspaper",
+    "uz": "gazeta"
+   },
+   {
+    "en": "No problem",
+    "uz": "muammosiz"
+   },
+   {
+    "en": "October",
+    "uz": "Oktabr"
+   },
+   {
+    "en": "Old",
+    "uz": "qari, eski"
+   },
+   {
+    "en": "Over there",
+    "uz": "anavi yerda"
+   },
+   {
+    "en": "Packet",
+    "uz": "pachka, cho'ntak"
+   },
+   {
+    "en": "Parcel",
+    "uz": "posilka, jo'natma"
+   },
+   {
+    "en": "Pardon?",
+    "uz": "kechirasiz"
+   },
+   {
+    "en": "Photographer",
+    "uz": "forograf"
+   },
+   {
+    "en": "Pin",
+    "uz": "pin kod"
+   },
+   {
+    "en": "Place",
+    "uz": "joy"
+   },
+   {
+    "en": "Pop music",
+    "uz": "pop musiqa"
+   },
+   {
+    "en": "Post",
+    "uz": "pochtadan yuborish"
+   },
+   {
+    "en": "Post office",
+    "uz": "pochta idorasi"
+   },
+   {
+    "en": "Postcard",
+    "uz": "post karta"
+   },
+   {
+    "en": "Present",
+    "uz": "sovg'a"
+   },
+   {
+    "en": "Programme",
+    "uz": "dastur"
+   },
+   {
+    "en": "Railway station",
+    "uz": "vokzal"
+   },
+   {
+    "en": "Rain",
+    "uz": "yomg'ir"
+   },
+   {
+    "en": "Red",
+    "uz": "qizil"
+   },
+   {
+    "en": "Return ticket",
+    "uz": "qaytish chiptasi"
+   },
+   {
+    "en": "Sad",
+    "uz": "g'amgin"
+   },
+   {
+    "en": "Salad",
+    "uz": "salat"
+   },
+   {
+    "en": "Scales",
+    "uz": "tarozilar"
+   },
+   {
+    "en": "Seafood",
+    "uz": "dengiz mahsulotlari"
+   },
+   {
+    "en": "Shampoo",
+    "uz": "shampun"
+   },
+   {
+    "en": "Shoes",
+    "uz": "oyoq kiyim"
+   },
+   {
+    "en": "Shops",
+    "uz": "do'konlar"
+   },
+   {
+    "en": "Shows",
+    "uz": "shoular"
+   },
+   {
+    "en": "Singapore",
+    "uz": "Singapur"
+   },
+   {
+    "en": "Single ticket",
+    "uz": "bittalik chipta"
+   },
+   {
+    "en": "Song",
+    "uz": "ashula"
+   },
+   {
+    "en": "Stamp",
+    "uz": "pochta markasi"
+   },
+   {
+    "en": "Swedish",
+    "uz": "shvetsiyalik"
+   },
+   {
+    "en": "Take away",
+    "uz": "olib ketmoq"
+   },
+   {
+    "en": "Teach",
+    "uz": "o'qitmoq, o'rgatmoq"
+   },
+   {
+    "en": "That",
+    "uz": "o'sha, ana u"
+   },
+   {
+    "en": "Toothpaste",
+    "uz": "tish pasta"
+   },
+   {
+    "en": "Town",
+    "uz": "shahar"
+   },
+   {
+    "en": "Train",
+    "uz": "poyezd"
+   },
+   {
+    "en": "Try on",
+    "uz": "kiyib ko'rmoq"
+   },
+   {
+    "en": "T-shirt",
+    "uz": "futbolka"
+   },
+   {
+    "en": "Understand",
+    "uz": "tushunmoq"
+   },
+   {
+    "en": "Very much",
+    "uz": "juda ko'p"
+   },
+   {
+    "en": "Website",
+    "uz": "vebsayt"
+   },
+   {
+    "en": "Wet",
+    "uz": "nam"
+   },
+   {
+    "en": "White",
+    "uz": "oq"
+   },
+   {
+    "en": "Who?",
+    "uz": "Kim?"
+   },
+   {
+    "en": "Why?",
+    "uz": "Nimaga?"
+   },
+   {
+    "en": "Wonderful",
+    "uz": "ajoyob"
+   },
+   {
+    "en": "Wrong",
+    "uz": "notog'ri"
+   },
+   {
+    "en": "Yellow",
+    "uz": "sariq"
+   }
+  ]
+ },
+ {
+  "unit": 8,
+  "words": [
+   {
+    "en": "Alarm clock",
+    "uz": "budilnik"
+   },
+   {
+    "en": "Any",
+    "uz": "birorta,qandaydir.istalgan"
+   },
+   {
+    "en": "Armchair",
+    "uz": "kreslo"
+   },
+   {
+    "en": "Autumn",
+    "uz": "kuz fasli"
+   },
+   {
+    "en": "Bathroom",
+    "uz": "yuvinish xonasi"
+   },
+   {
+    "en": "Border",
+    "uz": "chegara"
+   },
+   {
+    "en": "Bus station",
+    "uz": "avtobus to'xtash joyi"
+   },
+   {
+    "en": "Car keys",
+    "uz": "mashina kalitlari"
+   },
+   {
+    "en": "Car park",
+    "uz": "mashina to'xtash joyi"
+   },
+   {
+    "en": "Church",
+    "uz": "cherkov"
+   },
+   {
+    "en": "Cinema",
+    "uz": "kinoteatr"
+   },
+   {
+    "en": "Cooker",
+    "uz": "gaz plitasi"
+   },
+   {
+    "en": "Cosmopolitan",
+    "uz": "kosmopolit"
+   },
+   {
+    "en": "Cycling",
+    "uz": "velosiped haydash"
+   },
+   {
+    "en": "Desk",
+    "uz": "parta"
+   },
+   {
+    "en": "Dining room",
+    "uz": "ovqatlanish xonasi(uydagi)"
+   },
+   {
+    "en": "Directions",
+    "uz": "yo'nalishlar,ko'rsatkichlar"
+   },
+   {
+    "en": "Drawer",
+    "uz": "tortma"
+   },
+   {
+    "en": "DVD player",
+    "uz": "DVD pleyer"
+   },
+   {
+    "en": "Excellent",
+    "uz": "ajoyib"
+   },
+   {
+    "en": "Ferry",
+    "uz": "parom(solsimon yassi kema)"
+   },
+   {
+    "en": "Festivals",
+    "uz": "festivallar"
+   },
+   {
+    "en": "Fishing",
+    "uz": "baliqchilik"
+   },
+   {
+    "en": "Floor",
+    "uz": "pol,etaj"
+   },
+   {
+    "en": "Fresh",
+    "uz": "yangi,eskirmagan,endigina uzilgan"
+   },
+   {
+    "en": "Fridge",
+    "uz": "muzlatkich"
+   },
+   {
+    "en": "Furniture",
+    "uz": "mebel"
+   },
+   {
+    "en": "Games",
+    "uz": "o'yinlar"
+   },
+   {
+    "en": "Golf",
+    "uz": "golf sport turi"
+   },
+   {
+    "en": "Home town",
+    "uz": "ona yurt"
+   },
+   {
+    "en": "Indian",
+    "uz": "hind,hindcha"
+   },
+   {
+    "en": "Internet cafe",
+    "uz": "Internet kafesi"
+   },
+   {
+    "en": "Kinds of",
+    "uz": "turdagi, turlari"
+   },
+   {
+    "en": "Kitchen",
+    "uz": "oshxona"
+   },
+   {
+    "en": "Lamp",
+    "uz": "lampa"
+   },
+   {
+    "en": "Left",
+    "uz": "chap"
+   },
+   {
+    "en": "Mean",
+    "uz": "ma'no anglatmoq"
+   },
+   {
+    "en": "Meeting",
+    "uz": "uchrashuv"
+   },
+   {
+    "en": "Mile",
+    "uz": "mil"
+   },
+   {
+    "en": "Minute",
+    "uz": "minut"
+   },
+   {
+    "en": "Modern",
+    "uz": "zamonaviy"
+   },
+   {
+    "en": "More",
+    "uz": "ko'proq"
+   },
+   {
+    "en": "Mountain",
+    "uz": "tog'"
+   },
+   {
+    "en": "Need",
+    "uz": "kerak bo'lmoq"
+   },
+   {
+    "en": "Newsagent's",
+    "uz": "kiosk"
+   },
+   {
+    "en": "Next to",
+    "uz": "yonida"
+   },
+   {
+    "en": "Night",
+    "uz": "tun"
+   },
+   {
+    "en": "Opera",
+    "uz": "opera"
+   },
+   {
+    "en": "Park",
+    "uz": "park"
+   },
+   {
+    "en": "Poster",
+    "uz": "afisha,plakat"
+   },
+   {
+    "en": "Pub",
+    "uz": "pivaxona"
+   },
+   {
+    "en": "Quick",
+    "uz": "tez"
+   },
+   {
+    "en": "Room",
+    "uz": "xona"
+   },
+   {
+    "en": "Run",
+    "uz": "yugurmoq"
+   },
+   {
+    "en": "Sailing",
+    "uz": "dengiz sayohati suzish"
+   },
+   {
+    "en": "Sign",
+    "uz": "belgi"
+   },
+   {
+    "en": "Sky",
+    "uz": "osmon"
+   },
+   {
+    "en": "Slow",
+    "uz": "sekin"
+   },
+   {
+    "en": "Snowboarding",
+    "uz": "snowboarding"
+   },
+   {
+    "en": "Sofa",
+    "uz": "divan"
+   },
+   {
+    "en": "Some",
+    "uz": "biroz"
+   },
+   {
+    "en": "Spectacular",
+    "uz": "kuchli ta'sir qoldiradigan,ajoyib"
+   },
+   {
+    "en": "Sports bag",
+    "uz": "sport sumkasi"
+   },
+   {
+    "en": "Spring",
+    "uz": "bahor fasli"
+   },
+   {
+    "en": "Straight on",
+    "uz": "to'g'ri,tekis"
+   },
+   {
+    "en": "Summer",
+    "uz": "yoz fasli"
+   },
+   {
+    "en": "Sunbathe",
+    "uz": "oftobda toblanmoq"
+   },
+   {
+    "en": "Sunny",
+    "uz": "quyoshli"
+   },
+   {
+    "en": "Supermarket",
+    "uz": "supermarket"
+   },
+   {
+    "en": "Thai",
+    "uz": "Tailandlik"
+   },
+   {
+    "en": "Theatre",
+    "uz": "teatr"
+   },
+   {
+    "en": "Tidy",
+    "uz": "toza,yig'ishtirilgan"
+   },
+   {
+    "en": "Toilet",
+    "uz": "xojatxona"
+   },
+   {
+    "en": "Trainers",
+    "uz": "krossovka"
+   },
+   {
+    "en": "Travel",
+    "uz": "sayohat qilmoq"
+   },
+   {
+    "en": "Trolleybus",
+    "uz": "trolleybus"
+   },
+   {
+    "en": "Turn",
+    "uz": "aylanmoq,navbat"
+   },
+   {
+    "en": "Under",
+    "uz": "tagida"
+   },
+   {
+    "en": "Wall",
+    "uz": "devor"
+   },
+   {
+    "en": "Warm",
+    "uz": "iliq"
+   },
+   {
+    "en": "Water sports",
+    "uz": "Suv sporti"
+   },
+   {
+    "en": "Winter",
+    "uz": "qish fasli"
+   }
+  ]
+ },
+ {
+  "unit": 9,
+  "words": [
+   {
+    "en": "Art",
+    "uz": "san'at"
+   },
+   {
+    "en": "Austria",
+    "uz": "Avstriya"
+   },
+   {
+    "en": "Back",
+    "uz": "orqa"
+   },
+   {
+    "en": "Birthday",
+    "uz": "tug'ilgan kun"
+   },
+   {
+    "en": "Born",
+    "uz": "tug'ilmoq"
+   },
+   {
+    "en": "Canadian",
+    "uz": "Kanadalik"
+   },
+   {
+    "en": "Charity shop",
+    "uz": "Xayriya do'koni"
+   },
+   {
+    "en": "Colorful",
+    "uz": "rangli"
+   },
+   {
+    "en": "Dear",
+    "uz": "qadrli"
+   },
+   {
+    "en": "Do",
+    "uz": "qilmoq, bajarmoq"
+   },
+   {
+    "en": "Eldest",
+    "uz": "eng katta yoshli"
+   },
+   {
+    "en": "Expert",
+    "uz": "mutahassis"
+   },
+   {
+    "en": "Famous",
+    "uz": "mashhur"
+   },
+   {
+    "en": "Film",
+    "uz": "film, kino"
+   },
+   {
+    "en": "Film company",
+    "uz": "kino kompaniyasi"
+   },
+   {
+    "en": "Fingerprint",
+    "uz": "barmoq izi"
+   },
+   {
+    "en": "For sale",
+    "uz": "sotuvda"
+   },
+   {
+    "en": "Gallery",
+    "uz": "galereya"
+   },
+   {
+    "en": "Go",
+    "uz": "bormoq"
+   },
+   {
+    "en": "Good time",
+    "uz": "yaxshi vaqt"
+   },
+   {
+    "en": "Gym",
+    "uz": "trenajor zali"
+   },
+   {
+    "en": "Happy birthday",
+    "uz": "Tug'ilgan kuning(iz) bilan"
+   },
+   {
+    "en": "Horrible",
+    "uz": "yoqimsiz, noxush, yomon"
+   },
+   {
+    "en": "Housework",
+    "uz": "uy ishlari"
+   },
+   {
+    "en": "Irish",
+    "uz": "Irlandiyalik"
+   },
+   {
+    "en": "Last year",
+    "uz": "O'tgan yili"
+   },
+   {
+    "en": "Make",
+    "uz": "yaratmoq"
+   },
+   {
+    "en": "Mess",
+    "uz": "tartibsizlik"
+   },
+   {
+    "en": "Most",
+    "uz": "Eng"
+   },
+   {
+    "en": "Musician",
+    "uz": "musiqachi"
+   },
+   {
+    "en": "Next year",
+    "uz": "keyingi yil"
+   },
+   {
+    "en": "Older",
+    "uz": "kattaroq(yosh bo'yicha)"
+   },
+   {
+    "en": "Pakistan",
+    "uz": "Pokiston"
+   },
+   {
+    "en": "Pay",
+    "uz": "to'lamoq"
+   },
+   {
+    "en": "Politician",
+    "uz": "siyosatchi"
+   },
+   {
+    "en": "Princess",
+    "uz": "Malika"
+   },
+   {
+    "en": "Racing driver",
+    "uz": "poyga haydovchisi"
+   },
+   {
+    "en": "Real",
+    "uz": "haqiqiy"
+   },
+   {
+    "en": "Rich",
+    "uz": "boy"
+   },
+   {
+    "en": "Saudi Arabia",
+    "uz": "Saudi Arabistoni"
+   },
+   {
+    "en": "Scientist",
+    "uz": "olim"
+   },
+   {
+    "en": "See",
+    "uz": "ko'rmoq"
+   },
+   {
+    "en": "Singer",
+    "uz": "qo'shiqchi"
+   },
+   {
+    "en": "South",
+    "uz": "janub(iy)"
+   },
+   {
+    "en": "Still",
+    "uz": "(gacha)"
+   },
+   {
+    "en": "Story",
+    "uz": "hikoya"
+   },
+   {
+    "en": "Thousand",
+    "uz": "ming(son)"
+   },
+   {
+    "en": "TV company",
+    "uz": "televideniya"
+   },
+   {
+    "en": "Uncle",
+    "uz": "tog'a, amaki"
+   },
+   {
+    "en": "Writer",
+    "uz": "yozuvchi"
+   },
+   {
+    "en": "Year",
+    "uz": "yil"
+   },
+   {
+    "en": "Yesterday",
+    "uz": "kecha"
+   },
+   {
+    "en": "Months of the year",
+    "uz": "Oylar"
+   },
+   {
+    "en": "January",
+    "uz": "Yanvar"
+   },
+   {
+    "en": "February",
+    "uz": "Fevral"
+   },
+   {
+    "en": "March",
+    "uz": "Mart"
+   },
+   {
+    "en": "April",
+    "uz": "Aprel"
+   },
+   {
+    "en": "May",
+    "uz": "May"
+   },
+   {
+    "en": "June",
+    "uz": "Iyun"
+   },
+   {
+    "en": "July",
+    "uz": "Iyul"
+   },
+   {
+    "en": "August",
+    "uz": "Avgust"
+   },
+   {
+    "en": "September",
+    "uz": "Sentabr"
+   },
+   {
+    "en": "October",
+    "uz": "Oktabr"
+   },
+   {
+    "en": "November",
+    "uz": "Noyabr"
+   },
+   {
+    "en": "December",
+    "uz": "Dekabr"
+   }
+  ]
+ },
+ {
+  "unit": 10,
+  "words": [
+   {
+    "en": "Ago",
+    "uz": "oldin (vaqt bn ishlatiladi)"
+   },
+   {
+    "en": "At",
+    "uz": "da"
+   },
+   {
+    "en": "Bus tour",
+    "uz": "avtobus sayohati"
+   },
+   {
+    "en": "Camping",
+    "uz": "ta'tilni oromgohda o'tkazmoq"
+   },
+   {
+    "en": "Castle",
+    "uz": "saroy"
+   },
+   {
+    "en": "Cathedral",
+    "uz": "bosh cherkov"
+   },
+   {
+    "en": "Clean",
+    "uz": "tozalamoq"
+   },
+   {
+    "en": "Coffee bar",
+    "uz": "qahvaxona"
+   },
+   {
+    "en": "Dance",
+    "uz": "raqsga tushmoq"
+   },
+   {
+    "en": "Date",
+    "uz": "uchrashuv"
+   },
+   {
+    "en": "Dinner",
+    "uz": "kechki ovqat"
+   },
+   {
+    "en": "Enjoy",
+    "uz": "zavqlanmoq"
+   },
+   {
+    "en": "Free",
+    "uz": "bo'sh, bepul"
+   },
+   {
+    "en": "Get",
+    "uz": "olmoq"
+   },
+   {
+    "en": "Horse riding",
+    "uz": "ot minish"
+   },
+   {
+    "en": "Ice skating",
+    "uz": "muzda uchish"
+   },
+   {
+    "en": "India",
+    "uz": "Hindiston"
+   },
+   {
+    "en": "Interested",
+    "uz": "qiziqqan"
+   },
+   {
+    "en": "Lake",
+    "uz": "ko'l"
+   },
+   {
+    "en": "Last",
+    "uz": "oxirgi"
+   },
+   {
+    "en": "Late",
+    "uz": "kech"
+   },
+   {
+    "en": "Leisure activity",
+    "uz": "bo'sh vaqtida qiladigan mashg'ulot"
+   },
+   {
+    "en": "Listen",
+    "uz": "eshitmoq"
+   },
+   {
+    "en": "Lot",
+    "uz": "ko'p"
+   },
+   {
+    "en": "Lucky",
+    "uz": "omadli"
+   },
+   {
+    "en": "Market",
+    "uz": "bozor"
+   },
+   {
+    "en": "Meal",
+    "uz": "ovqat"
+   },
+   {
+    "en": "Milk",
+    "uz": "sut"
+   },
+   {
+    "en": "Much",
+    "uz": "ko'p (sanalmaydigan otlar uchun)"
+   },
+   {
+    "en": "Museum",
+    "uz": "muzey"
+   },
+   {
+    "en": "Once",
+    "uz": "bir marta"
+   },
+   {
+    "en": "Orange juice",
+    "uz": "apelsin sharbati"
+   },
+   {
+    "en": "Pasta",
+    "uz": "pasta"
+   },
+   {
+    "en": "Playing cards",
+    "uz": "karta o'ynash"
+   },
+   {
+    "en": "Really",
+    "uz": "haqiqatan, rostdan"
+   },
+   {
+    "en": "Relaxing",
+    "uz": "tinchlantiradigan"
+   },
+   {
+    "en": "Roast beef",
+    "uz": "pishirilgan mol go'shti"
+   },
+   {
+    "en": "Rugby",
+    "uz": "regbi (sport turi)"
+   },
+   {
+    "en": "Show",
+    "uz": "ko'rsatmoq"
+   },
+   {
+    "en": "Sightseeing",
+    "uz": "diqqatga sazovor joylarni tomosha qilish"
+   },
+   {
+    "en": "Sit",
+    "uz": "o'tirmoq"
+   },
+   {
+    "en": "Skiing",
+    "uz": "chang'ida uchish"
+   },
+   {
+    "en": "Special",
+    "uz": "maxsus"
+   },
+   {
+    "en": "Square",
+    "uz": "kvadrat"
+   },
+   {
+    "en": "Start",
+    "uz": "boshlamoq"
+   },
+   {
+    "en": "Sun",
+    "uz": "quyosh"
+   },
+   {
+    "en": "Swimming pool",
+    "uz": "basseyn"
+   },
+   {
+    "en": "Tour",
+    "uz": "sayohat"
+   },
+   {
+    "en": "Tourist",
+    "uz": "turist, sayohatchi"
+   },
+   {
+    "en": "Villa",
+    "uz": "villa, dacha"
+   },
+   {
+    "en": "Walk",
+    "uz": "yurmoq"
+   },
+   {
+    "en": "Weekend",
+    "uz": "hafta oxiri, dam olish kunlari"
+   },
+   {
+    "en": "Windsurfing",
+    "uz": "yelkanli solda uchish sporti"
+   },
+   {
+    "en": "Zoo",
+    "uz": "zoopark"
+   }
+  ]
+ },
+ {
+  "unit": 11,
+  "words": [
+   {
+    "en": "A little bit",
+    "uz": "ozgina"
+   },
+   {
+    "en": "Accident",
+    "uz": "falokat, tasodif"
+   },
+   {
+    "en": "Act",
+    "uz": "o'zini tutmoq, ro'l o'ynamoq"
+   },
+   {
+    "en": "Afraid",
+    "uz": "qo'rqmoq"
+   },
+   {
+    "en": "Airport",
+    "uz": "aeroport"
+   },
+   {
+    "en": "Also",
+    "uz": "yana"
+   },
+   {
+    "en": "Anywhere",
+    "uz": "har yerda"
+   },
+   {
+    "en": "Architect",
+    "uz": "arxitektor"
+   },
+   {
+    "en": "Argentina",
+    "uz": "Argentina"
+   },
+   {
+    "en": "Arm",
+    "uz": "bilak"
+   },
+   {
+    "en": "Athlete",
+    "uz": "sportchi"
+   },
+   {
+    "en": "Barbecue",
+    "uz": "barbekyu (qovurilib, dimlanib pishiriladigan go'sht, taom)"
+   },
+   {
+    "en": "Bill",
+    "uz": "hisob varag'i"
+   },
+   {
+    "en": "Beef",
+    "uz": "mol go'shti"
+   },
+   {
+    "en": "Better",
+    "uz": "yaxshiroq"
+   },
+   {
+    "en": "Blog",
+    "uz": "vlog"
+   },
+   {
+    "en": "Boring",
+    "uz": "zerikarli"
+   },
+   {
+    "en": "Button",
+    "uz": "tugma"
+   },
+   {
+    "en": "Cake",
+    "uz": "tort"
+   },
+   {
+    "en": "Can",
+    "uz": "qila olmoq"
+   },
+   {
+    "en": "Chat",
+    "uz": "suhbatlashmoq"
+   },
+   {
+    "en": "Chess",
+    "uz": "shaxmat"
+   },
+   {
+    "en": "Communicate",
+    "uz": "aloqaga kirishmoq"
+   },
+   {
+    "en": "Computer games",
+    "uz": "kompyuter o'yinlari"
+   },
+   {
+    "en": "Continue",
+    "uz": "davom ettirmoq"
+   },
+   {
+    "en": "Dangerous",
+    "uz": "xavfli"
+   },
+   {
+    "en": "Defence",
+    "uz": "himoya"
+   },
+   {
+    "en": "Department",
+    "uz": "bo'lim"
+   },
+   {
+    "en": "Draw",
+    "uz": "chizmoq"
+   },
+   {
+    "en": "Endless",
+    "uz": "nihoyasiz"
+   },
+   {
+    "en": "Everything",
+    "uz": "hamma narsa"
+   },
+   {
+    "en": "Farmer",
+    "uz": "fermer"
+   },
+   {
+    "en": "Film star",
+    "uz": "kino yulduz"
+   },
+   {
+    "en": "Fluently",
+    "uz": "ravon, tekis"
+   },
+   {
+    "en": "Fly",
+    "uz": "uchmoq"
+   },
+   {
+    "en": "Football player",
+    "uz": "futbol o'yinchi"
+   },
+   {
+    "en": "Geography",
+    "uz": "geografiya"
+   },
+   {
+    "en": "Glass",
+    "uz": "shisha"
+   },
+   {
+    "en": "Green",
+    "uz": "yashil"
+   },
+   {
+    "en": "Guitar",
+    "uz": "gitara"
+   },
+   {
+    "en": "Help",
+    "uz": "yordam bermoq"
+   },
+   {
+    "en": "History",
+    "uz": "tarix"
+   },
+   {
+    "en": "Horse",
+    "uz": "ot"
+   },
+   {
+    "en": "Hour",
+    "uz": "soat"
+   },
+   {
+    "en": "Hurt",
+    "uz": "azob bermoq"
+   },
+   {
+    "en": "Interpreter",
+    "uz": "tarjimon"
+   },
+   {
+    "en": "Jumbo jet",
+    "uz": "juda katta reaktiv samolyot"
+   },
+   {
+    "en": "Kind",
+    "uz": "mehribon"
+   },
+   {
+    "en": "Lift",
+    "uz": "ko'tarmoq"
+   },
+   {
+    "en": "Lost",
+    "uz": "yo'qolgan"
+   },
+   {
+    "en": "Message",
+    "uz": "xabar"
+   },
+   {
+    "en": "Metres",
+    "uz": "metrlar"
+   },
+   {
+    "en": "Miss",
+    "uz": "sog'inmoq, o'tkazib yubormoq"
+   },
+   {
+    "en": "Mostly",
+    "uz": "ko'pincha"
+   },
+   {
+    "en": "Motor racing",
+    "uz": "poyga"
+   },
+   {
+    "en": "Musical instrument",
+    "uz": "musiqa asbobi"
+   },
+   {
+    "en": "Network",
+    "uz": "temiryo'l, radio va telekanallar guruhi"
+   },
+   {
+    "en": "News",
+    "uz": "yangilik"
+   },
+   {
+    "en": "Offer",
+    "uz": "taklif qilmoq"
+   },
+   {
+    "en": "Passport",
+    "uz": "pasport"
+   },
+   {
+    "en": "Pilot",
+    "uz": "uchuvchi"
+   },
+   {
+    "en": "Plane",
+    "uz": "samolyot"
+   },
+   {
+    "en": "Pop group",
+    "uz": "pop guruhi"
+   },
+   {
+    "en": "Possible",
+    "uz": "imkonli"
+   },
+   {
+    "en": "Problem",
+    "uz": "muammo"
+   },
+   {
+    "en": "Push",
+    "uz": "itarmoq"
+   },
+   {
+    "en": "Radio",
+    "uz": "radio"
+   },
+   {
+    "en": "Really well",
+    "uz": "haqiqatan yaxshi"
+   },
+   {
+    "en": "Request",
+    "uz": "iltimos qilmoq"
+   },
+   {
+    "en": "Ride",
+    "uz": "haydamoq"
+   },
+   {
+    "en": "Safe",
+    "uz": "xavfsiz"
+   },
+   {
+    "en": "Science",
+    "uz": "ilm fan"
+   },
+   {
+    "en": "Scientist",
+    "uz": "olim"
+   },
+   {
+    "en": "Send",
+    "uz": "jo'natmoq"
+   },
+   {
+    "en": "Share",
+    "uz": "bo'lishmoq"
+   },
+   {
+    "en": "Slowly",
+    "uz": "sekin"
+   },
+   {
+    "en": "Something",
+    "uz": "biror narsa"
+   },
+   {
+    "en": "Swim",
+    "uz": "suzmoq"
+   },
+   {
+    "en": "Tall",
+    "uz": "baland"
+   },
+   {
+    "en": "The Net",
+    "uz": "internet"
+   },
+   {
+    "en": "Ticket",
+    "uz": "bilet, chipta"
+   },
+   {
+    "en": "Ticket machine",
+    "uz": "chipta mashinasi"
+   },
+   {
+    "en": "Tractor",
+    "uz": "traktor"
+   },
+   {
+    "en": "Try",
+    "uz": "harakat qilmoq"
+   },
+   {
+    "en": "Turn off",
+    "uz": "o'chiqmoq"
+   },
+   {
+    "en": "Use",
+    "uz": "foydalanmoq"
+   },
+   {
+    "en": "Water",
+    "uz": "suv"
+   },
+   {
+    "en": "What's the matter",
+    "uz": "gap nimada, nima bo'ldi?"
+   },
+   {
+    "en": "Worldwide",
+    "uz": "dunyo bo'ylab"
+   },
+   {
+    "en": "Young",
+    "uz": "yosh"
+   }
+  ]
+ },
+ {
+  "unit": 12,
+  "words": [
+   {
+    "en": "Anyone",
+    "uz": "biror kim"
+   },
+   {
+    "en": "Anything else",
+    "uz": "yena biror narsa"
+   },
+   {
+    "en": "Apple pie",
+    "uz": "olmali pirog"
+   },
+   {
+    "en": "Around",
+    "uz": "bo'ylab"
+   },
+   {
+    "en": "Bar",
+    "uz": "bar"
+   },
+   {
+    "en": "Beans",
+    "uz": "no'xat, loviya"
+   },
+   {
+    "en": "Bike",
+    "uz": "velosiped"
+   },
+   {
+    "en": "Bookshop",
+    "uz": "kitob do'kon"
+   },
+   {
+    "en": "Bottle",
+    "uz": "baklajka"
+   },
+   {
+    "en": "Bread",
+    "uz": "non"
+   },
+   {
+    "en": "Cereal",
+    "uz": "boshoqli ekinlar"
+   },
+   {
+    "en": "Chicken",
+    "uz": "tovuq"
+   },
+   {
+    "en": "Chocolate cake",
+    "uz": "shokoladli tort"
+   },
+   {
+    "en": "Coffee shop",
+    "uz": "qahva do'koni"
+   },
+   {
+    "en": "Conditioner",
+    "uz": "yaxshi holatda saqlovchi modda"
+   },
+   {
+    "en": "Customer",
+    "uz": "xaridor"
+   },
+   {
+    "en": "Describe",
+    "uz": "tasvirlamoq"
+   },
+   {
+    "en": "Dessert",
+    "uz": "desert"
+   },
+   {
+    "en": "Diet",
+    "uz": "parhez qilmoq, taom"
+   },
+   {
+    "en": "Dishes",
+    "uz": "idishlar"
+   },
+   {
+    "en": "Dollars",
+    "uz": "dollar"
+   },
+   {
+    "en": "Dry",
+    "uz": "quruq"
+   },
+   {
+    "en": "Feel",
+    "uz": "his qilmoq"
+   },
+   {
+    "en": "First class",
+    "uz": "birinchi sinf"
+   },
+   {
+    "en": "Fish",
+    "uz": "baliq"
+   },
+   {
+    "en": "Floors",
+    "uz": "etajlar, pol"
+   },
+   {
+    "en": "Follow",
+    "uz": "ergashmoq"
+   },
+   {
+    "en": "Forget",
+    "uz": "unutmoq"
+   },
+   {
+    "en": "Fruit",
+    "uz": "meva"
+   },
+   {
+    "en": "Garden",
+    "uz": "bog'"
+   },
+   {
+    "en": "Gate",
+    "uz": "darvoza"
+   },
+   {
+    "en": "Glass of wine",
+    "uz": "bir shisha vino"
+   },
+   {
+    "en": "Hair",
+    "uz": "soch"
+   },
+   {
+    "en": "Ham",
+    "uz": "cho'chqa go'shti"
+   },
+   {
+    "en": "Immediately",
+    "uz": "birdan, to'satdan"
+   },
+   {
+    "en": "Jam",
+    "uz": "murabbo"
+   },
+   {
+    "en": "Juice",
+    "uz": "sharbat"
+   },
+   {
+    "en": "Just",
+    "uz": "shunchaki"
+   },
+   {
+    "en": "Kilometers",
+    "uz": "kilometer"
+   },
+   {
+    "en": "A little",
+    "uz": "ozgina"
+   },
+   {
+    "en": "Lunch box",
+    "uz": "tushlik qutisi"
+   },
+   {
+    "en": "Main",
+    "uz": "asosiy"
+   },
+   {
+    "en": "Marathon",
+    "uz": "marafon"
+   },
+   {
+    "en": "Maybe",
+    "uz": "bo'lishi mumkin"
+   },
+   {
+    "en": "Mayonnaise",
+    "uz": "mayonez"
+   },
+   {
+    "en": "Meat",
+    "uz": "go'sht"
+   },
+   {
+    "en": "Menu",
+    "uz": "menyu"
+   },
+   {
+    "en": "Mineral water",
+    "uz": "mineral suv"
+   },
+   {
+    "en": "Mixed salad",
+    "uz": "aralashgan salat"
+   },
+   {
+    "en": "Mobile phone",
+    "uz": "mobil telefon"
+   },
+   {
+    "en": "Move into",
+    "uz": "ko'chmoq"
+   },
+   {
+    "en": "Nearly",
+    "uz": "deyarli"
+   },
+   {
+    "en": "Normal",
+    "uz": "odatiy"
+   },
+   {
+    "en": "On the side",
+    "uz": "tomonida"
+   },
+   {
+    "en": "Onion",
+    "uz": "piyoz"
+   },
+   {
+    "en": "Order",
+    "uz": "buyurtma bermoq"
+   },
+   {
+    "en": "Perhaps",
+    "uz": "balki"
+   },
+   {
+    "en": "Plate",
+    "uz": "tarelka"
+   },
+   {
+    "en": "Polite",
+    "uz": "xushmuomala"
+   },
+   {
+    "en": "Programs",
+    "uz": "dasturlar"
+   },
+   {
+    "en": "Pull",
+    "uz": "tortmoq"
+   },
+   {
+    "en": "Report",
+    "uz": "hisobot bermoq"
+   },
+   {
+    "en": "Rice",
+    "uz": "guruch"
+   },
+   {
+    "en": "Salmon",
+    "uz": "salmon balig'i"
+   },
+   {
+    "en": "Service",
+    "uz": "xizmat"
+   },
+   {
+    "en": "Side orders",
+    "uz": "qo'shimcha yemish"
+   },
+   {
+    "en": "Siesta",
+    "uz": "ovqatdan keyin kichik uyqu"
+   },
+   {
+    "en": "Silly",
+    "uz": "ahmoq"
+   },
+   {
+    "en": "Slice",
+    "uz": "bo'lak"
+   },
+   {
+    "en": "Smaller",
+    "uz": "kichkinaroq"
+   },
+   {
+    "en": "Smallest",
+    "uz": "eng kichkina"
+   },
+   {
+    "en": "Smile",
+    "uz": "jilmaymoq"
+   },
+   {
+    "en": "Smoke",
+    "uz": "chekmoq"
+   },
+   {
+    "en": "Snack",
+    "uz": "yaxna ovqat, yegulik"
+   },
+   {
+    "en": "Soup",
+    "uz": "sho'rva"
+   },
+   {
+    "en": "Sparkling",
+    "uz": "yashnayotgan, porlayotgan"
+   },
+   {
+    "en": "Stand",
+    "uz": "turmoq"
+   },
+   {
+    "en": "Sugar",
+    "uz": "shakar"
+   },
+   {
+    "en": "Swap",
+    "uz": "almashmoq"
+   },
+   {
+    "en": "Take photos",
+    "uz": "rasm olmoq"
+   },
+   {
+    "en": "Tapas",
+    "uz": "tapas( ispaniya taomi)"
+   },
+   {
+    "en": "Thirsty",
+    "uz": "chanqagan"
+   },
+   {
+    "en": "Till",
+    "uz": "gacha"
+   },
+   {
+    "en": "Tomato",
+    "uz": "pomidor"
+   },
+   {
+    "en": "Vegetable",
+    "uz": "sabzavot"
+   },
+   {
+    "en": "Wait",
+    "uz": "kutmoq"
+   },
+   {
+    "en": "Waiter",
+    "uz": "ofitsiant"
+   }
+  ]
+ },
+ {
+  "unit": 13,
+  "words": [
+   {
+    "en": "Actions",
+    "uz": "harakatlar"
+   },
+   {
+    "en": "Angry",
+    "uz": "jahli chiqqan"
+   },
+   {
+    "en": "Apartments",
+    "uz": "kvartiralar"
+   },
+   {
+    "en": "Arrive",
+    "uz": "yetib kelmoq"
+   },
+   {
+    "en": "At the moment",
+    "uz": "hozir"
+   },
+   {
+    "en": "Boots",
+    "uz": "etiklar"
+   },
+   {
+    "en": "Bored",
+    "uz": "zerikkan"
+   },
+   {
+    "en": "Bring",
+    "uz": "olib kelmoq"
+   },
+   {
+    "en": "Build",
+    "uz": "qurmoq"
+   },
+   {
+    "en": "Business",
+    "uz": "biznes"
+   },
+   {
+    "en": "Call",
+    "uz": "qo'ng'iroq qilmoq, chaqirmoq"
+   },
+   {
+    "en": "Carry",
+    "uz": "ko'tarmoq"
+   },
+   {
+    "en": "Choose",
+    "uz": "tanlamoq"
+   },
+   {
+    "en": "Close",
+    "uz": "yopmoq, yaqin"
+   },
+   {
+    "en": "Cold",
+    "uz": "sovuq"
+   },
+   {
+    "en": "Colors",
+    "uz": "ranglar"
+   },
+   {
+    "en": "Do well",
+    "uz": "yaxshi bajarmoq"
+   },
+   {
+    "en": "Dress",
+    "uz": "ko'ylak"
+   },
+   {
+    "en": "End",
+    "uz": "oxiri, tugamoq"
+   },
+   {
+    "en": "Especially",
+    "uz": "ayniqsa"
+   },
+   {
+    "en": "Extra",
+    "uz": "qo'shimcha"
+   },
+   {
+    "en": "Finish",
+    "uz": "tugamoq"
+   },
+   {
+    "en": "Guess",
+    "uz": "taxmin qilmoq"
+   },
+   {
+    "en": "Happen",
+    "uz": "sodir bo'lmoq"
+   },
+   {
+    "en": "Have a cold",
+    "uz": "shamollashi bo'lmoq"
+   },
+   {
+    "en": "Headache",
+    "uz": "bosh og'rig'i"
+   },
+   {
+    "en": "Homeless",
+    "uz": "uysiz"
+   },
+   {
+    "en": "Hostel",
+    "uz": "otel"
+   },
+   {
+    "en": "Hungry",
+    "uz": "qorni och"
+   },
+   {
+    "en": "Jeans",
+    "uz": "jinsi"
+   },
+   {
+    "en": "Lose",
+    "uz": "yo'qotmoq"
+   },
+   {
+    "en": "Open",
+    "uz": "ochmoq"
+   },
+   {
+    "en": "Pleased",
+    "uz": "mamnun"
+   },
+   {
+    "en": "Poor",
+    "uz": "kambag'al"
+   },
+   {
+    "en": "Private plane",
+    "uz": "xususiy samolyot"
+   },
+   {
+    "en": "Public transport",
+    "uz": "jamoa transporti"
+   },
+   {
+    "en": "Put on",
+    "uz": "kiyib olmoq"
+   },
+   {
+    "en": "Remember",
+    "uz": "eslamoq"
+   },
+   {
+    "en": "Road",
+    "uz": "yo'l"
+   },
+   {
+    "en": "Scarf",
+    "uz": "sharf"
+   },
+   {
+    "en": "Secret",
+    "uz": "sir"
+   },
+   {
+    "en": "Sell",
+    "uz": "sotmoq"
+   },
+   {
+    "en": "Shirt",
+    "uz": "rubashka"
+   },
+   {
+    "en": "Shorts",
+    "uz": "shortik"
+   },
+   {
+    "en": "Skirt",
+    "uz": "yubka"
+   },
+   {
+    "en": "Sleep",
+    "uz": "uxlamoq"
+   },
+   {
+    "en": "Socks",
+    "uz": "paypoq"
+   },
+   {
+    "en": "Someone",
+    "uz": "birorkim"
+   },
+   {
+    "en": "Spend money",
+    "uz": "pul sarflamoq"
+   },
+   {
+    "en": "Spend time",
+    "uz": "vaqt sarflamoq"
+   },
+   {
+    "en": "Strawberry",
+    "uz": "qulupnay"
+   },
+   {
+    "en": "Successful",
+    "uz": "muvaffaqiyatli"
+   },
+   {
+    "en": "Suit",
+    "uz": "kostyum shim"
+   },
+   {
+    "en": "Take off",
+    "uz": "yechmoq"
+   },
+   {
+    "en": "Teenage",
+    "uz": "o'smir"
+   },
+   {
+    "en": "Tie",
+    "uz": "galstuk"
+   },
+   {
+    "en": "Trousers",
+    "uz": "shim"
+   },
+   {
+    "en": "Turn on",
+    "uz": "yoqmoq"
+   },
+   {
+    "en": "Turn off",
+    "uz": "o'chirmoq"
+   },
+   {
+    "en": "Tv programme",
+    "uz": "teleko'rsatuv"
+   },
+   {
+    "en": "Video",
+    "uz": "video"
+   },
+   {
+    "en": "Wear",
+    "uz": "kiymoq"
+   },
+   {
+    "en": "Window",
+    "uz": "deraza"
+   },
+   {
+    "en": "Win",
+    "uz": "g'olib bo'lmoq"
+   },
+   {
+    "en": "Work",
+    "uz": "ishlamoq"
+   },
+   {
+    "en": "Worried",
+    "uz": "xavotirlangan"
+   },
+   {
+    "en": "Worth",
+    "uz": "arziydigan"
+   },
+   {
+    "en": "Green",
+    "uz": "yashil"
+   },
+   {
+    "en": "Red",
+    "uz": "qizil"
+   },
+   {
+    "en": "Brown",
+    "uz": "jigarrang"
+   },
+   {
+    "en": "Black",
+    "uz": "qora"
+   },
+   {
+    "en": "White",
+    "uz": "oq"
+   },
+   {
+    "en": "Grey",
+    "uz": "kulrang"
+   },
+   {
+    "en": "Orange",
+    "uz": "apelsin rang"
+   },
+   {
+    "en": "Blue",
+    "uz": "havorang"
+   },
+   {
+    "en": "Purple",
+    "uz": "binafsharang"
+   },
+   {
+    "en": "Pink",
+    "uz": "pushti"
+   },
+   {
+    "en": "Yellow",
+    "uz": "sariq"
+   },
+   {
+    "en": "Gold",
+    "uz": "oltinrang"
+   },
+   {
+    "en": "Silver",
+    "uz": "kumushrang"
+   }
+  ]
+ },
+ {
+  "unit": 14,
+  "words": [
+   {
+    "en": "Abroad",
+    "uz": "chet el"
+   },
+   {
+    "en": "Across",
+    "uz": "bo'ylab"
+   },
+   {
+    "en": "All year round",
+    "uz": "butun yil bo'yi"
+   },
+   {
+    "en": "Along",
+    "uz": "bo'ylab"
+   },
+   {
+    "en": "Assistant",
+    "uz": "yordamchi"
+   },
+   {
+    "en": "Autoroute",
+    "uz": "avtomarshrut"
+   },
+   {
+    "en": "Balcony",
+    "uz": "balkon"
+   },
+   {
+    "en": "Banana",
+    "uz": "banan"
+   },
+   {
+    "en": "Begin",
+    "uz": "boshlamoq"
+   },
+   {
+    "en": "Belgium",
+    "uz": "Belgiya"
+   },
+   {
+    "en": "Biology",
+    "uz": "biologiya"
+   },
+   {
+    "en": "Party",
+    "uz": "ziyofat"
+   },
+   {
+    "en": "Bistro",
+    "uz": "kichkina bar yoki restoran"
+   },
+   {
+    "en": "Boat",
+    "uz": "kema"
+   },
+   {
+    "en": "Bridge",
+    "uz": "ko'prik"
+   },
+   {
+    "en": "Campus",
+    "uz": "universitet hududi"
+   },
+   {
+    "en": "Canals",
+    "uz": "kanallar"
+   },
+   {
+    "en": "Carefully",
+    "uz": "ehtiyotkorona"
+   },
+   {
+    "en": "Check in",
+    "uz": "Ro'yhatdan o'tmoq"
+   },
+   {
+    "en": "Connection",
+    "uz": "aloqa"
+   },
+   {
+    "en": "Cost",
+    "uz": "narx"
+   },
+   {
+    "en": "Cruise",
+    "uz": "dengiz sayohati"
+   },
+   {
+    "en": "Developing countries",
+    "uz": "rivojlanayotgan davlatlar"
+   },
+   {
+    "en": "Doctors",
+    "uz": "shifokorlar"
+   },
+   {
+    "en": "East",
+    "uz": "sharq"
+   },
+   {
+    "en": "Economics",
+    "uz": "iqtisodiyot"
+   },
+   {
+    "en": "Europe",
+    "uz": "Yevropa"
+   },
+   {
+    "en": "Events",
+    "uz": "voqea hodisalar"
+   },
+   {
+    "en": "Exam",
+    "uz": "imtihon"
+   },
+   {
+    "en": "Explain",
+    "uz": "tushuntirmoq"
+   },
+   {
+    "en": "Expression",
+    "uz": "ifoda, ibora"
+   },
+   {
+    "en": "Flight",
+    "uz": "uchish samolyotda"
+   },
+   {
+    "en": "Future",
+    "uz": "kelajak"
+   },
+   {
+    "en": "Grow up",
+    "uz": "ulg'aymoq"
+   },
+   {
+    "en": "Gymnasium",
+    "uz": "gimnaziya"
+   },
+   {
+    "en": "Hope",
+    "uz": "umid qilmoq"
+   },
+   {
+    "en": "Housewife",
+    "uz": "uy bekasi"
+   },
+   {
+    "en": "How llong",
+    "uz": "qancha muddatga? Qancha vaqt?"
+   },
+   {
+    "en": "Imagine",
+    "uz": "tasavvur qilmoq"
+   },
+   {
+    "en": "Important",
+    "uz": "muhim"
+   },
+   {
+    "en": "Jeep",
+    "uz": "jip (savdo belgisi)"
+   },
+   {
+    "en": "Journalist",
+    "uz": "jurnalist"
+   },
+   {
+    "en": "Know",
+    "uz": "bilmoq"
+   },
+   {
+    "en": "Local",
+    "uz": "mahalliy"
+   },
+   {
+    "en": "Medicine",
+    "uz": "dori darmon"
+   },
+   {
+    "en": "Modern languages",
+    "uz": "zamonaviy tillar"
+   },
+   {
+    "en": "Motorbike",
+    "uz": "mototsikl"
+   },
+   {
+    "en": "Move",
+    "uz": "ko'chmoq, harakatlanmoq"
+   },
+   {
+    "en": "Nearby",
+    "uz": "yaqinida"
+   },
+   {
+    "en": "Nervous",
+    "uz": "xavotirlangan, qo'rqqan, cho'chigan"
+   },
+   {
+    "en": "Overnight",
+    "uz": "tuni bilan"
+   },
+   {
+    "en": "Painter",
+    "uz": "bo'yoqchi"
+   },
+   {
+    "en": "Physics",
+    "uz": "Fizika"
+   },
+   {
+    "en": "Piece of Information",
+    "uz": "bir parcha ma'lumot"
+   },
+   {
+    "en": "Plan",
+    "uz": "reja"
+   },
+   {
+    "en": "Pleasure",
+    "uz": "mamnuniyat"
+   },
+   {
+    "en": "Psychology",
+    "uz": "psixologiya"
+   },
+   {
+    "en": "Quickly",
+    "uz": "tez"
+   },
+   {
+    "en": "Quite often",
+    "uz": "tez tez"
+   },
+   {
+    "en": "Research company",
+    "uz": "tadqiqot kompaniyasi"
+   },
+   {
+    "en": "Revision",
+    "uz": "takrorlash"
+   },
+   {
+    "en": "Ride",
+    "uz": "haydamoq"
+   },
+   {
+    "en": "Romantic",
+    "uz": "romantik"
+   },
+   {
+    "en": "Rucksack",
+    "uz": "ryukzak"
+   },
+   {
+    "en": "Safari",
+    "uz": "safari"
+   },
+   {
+    "en": "Same to you",
+    "uz": "Senga ham xuddi shu"
+   },
+   {
+    "en": "Scottish",
+    "uz": "Shotland"
+   },
+   {
+    "en": "See you again soon",
+    "uz": "Tez orada ko'rishguncha"
+   },
+   {
+    "en": "South Africa",
+    "uz": "Janubiy Amerika"
+   },
+   {
+    "en": "Souvenir",
+    "uz": "Suvenir"
+   },
+   {
+    "en": "Steak",
+    "uz": "steyk, bifshteks"
+   },
+   {
+    "en": "Sunshine",
+    "uz": "quyosh nuri"
+   },
+   {
+    "en": "Tent",
+    "uz": "chodir"
+   },
+   {
+    "en": "There",
+    "uz": "u yerda"
+   },
+   {
+    "en": "Transport",
+    "uz": "transport"
+   },
+   {
+    "en": "Trip",
+    "uz": "sayohat"
+   },
+   {
+    "en": "Tunnel",
+    "uz": "tunel"
+   },
+   {
+    "en": "Women",
+    "uz": "ayollar"
+   },
+   {
+    "en": "Zambia",
+    "uz": "Zambiya"
+   }
+  ]
+ }
+]

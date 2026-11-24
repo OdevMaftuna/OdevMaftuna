@@ -1,0 +1,31 @@
+﻿72`t17`t104`t174
+128`t19`t132`tExercise 3
+74`t19`t578`tMultilevel Master recding
+174`t23`t132`tRead the text and choose the correct heading for each paragraph
+203`t21`t132`tfrom the list Of headings below.
+231`t21`t132`tThere are more headings than paragraphs, so you will not use all of
+260`t21`t132`tthem. You cannot use any heading more fhan once.
+288`t18`t132`tMark your answers on 'the answer sheet.
+333`t19`t131`tA) A mathematical model
+362`t21`t132`tB) Mental effects Of holiday preparation stress
+390`t21`t132`tC) Statistics on holiday stress
+420`t20`t132`tD) Stressful dream holiday
+447`t23`t132`tE) Times have changed
+477`t21`t132`tF) Holiday preparation
+506`t21`t132`tG) A Caribbean dream holiday
+534`t21`t132`tH) An issue not realoted to money
+597`t24`t347`tThe getaway blues
+639`t21`t134`tA formula explains why it takes so long to relax on holiday
+735`t21`t134`tWith so much to do, going on holiday can be difficult. First, there's the
+763`t23`t106`tflight to arrange, then the hotel or villa to book and that's before you've
+792`t21`t108`tdecided on the beach outfit, evening wear or reading material.
+852`t20`t135`t02
+888`t21`t134`tThe whole year we dream about the long break from our daily routine.
+917`t21`t108`tBut making our dream holiday a reality is what makes the stress really start*
+945`t21`t108`tso holidaymakers have to relax a few days after they arrive. Even if the
+974`t21`t108`tsurroundings are peaceful, there's no quick way to forget about work, the
+1002`t21`t108`tchildren's schooling, the leaking roof and all those other everyday problems
+1034`t21`t108`twe want to get away from.
+1092`t20`t137`tQ3
+1128`t23`t135`tSusan Jones, psychologist, and regular TV and radio commentator, says
+1155`t22`t108`tthat stress caused by trying to arrange a holiday, creates hormonal changes

@@ -1,0 +1,1210 @@
+{
+ "code": "2.3",
+ "model": "gemini-3.5-flash-lite",
+ "tr1": [
+  {
+   "part": 0,
+   "uz": "Sizning ismingiz nima?",
+   "en": [
+    "What is your name?"
+   ],
+   "rule": "Ism so'rash uchun What is yordamchi fe'li ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Uning ismi nima? (o'g'il bola)",
+   "en": [
+    "What is his name?"
+   ],
+   "rule": "Erkak kishining ismini so'rashda his qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Uning ismi nima? (qiz bola)",
+   "en": [
+    "What is her name?"
+   ],
+   "rule": "Ayol kishining ismini so'rashda her qo'shiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu nima?",
+   "en": [
+    "What is this?"
+   ],
+   "rule": "Narsalarni so'rash uchun What is this ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu kitobmi?",
+   "en": [
+    "What is this book?"
+   ],
+   "rule": "Bu jumlada savol so'zi va ot birga keladi."
+  },
+  {
+   "part": 0,
+   "uz": "Sizning familiyangiz nima?",
+   "en": [
+    "What is your surname?"
+   ],
+   "rule": "Familiya so'rashda surname so'zi ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Uning familiyasi nima? (o'g'il bola)",
+   "en": [
+    "What is his surname?"
+   ],
+   "rule": "Erkak familiyasi uchun his surname qo'llaniladi."
+  },
+  {
+   "part": 0,
+   "uz": "Uning familiyasi nima? (qiz bola)",
+   "en": [
+    "What is her surname?"
+   ],
+   "rule": "Ayol familiyasi uchun her surname ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Sizning ismingiz va familiyangiz nima?",
+   "en": [
+    "What is your name and surname?"
+   ],
+   "rule": "Bog'lovchi orqali ism va familiya so'raladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu nima, Ali?",
+   "en": [
+    "What is this, Ali?"
+   ],
+   "rule": "Murojaat qilinganda vergul ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ushbu sumka nima?",
+   "en": [
+    "What is this bag?"
+   ],
+   "rule": "Sumka haqida savol berish tartibi."
+  },
+  {
+   "part": 0,
+   "uz": "Ushbu kamera nima?",
+   "en": [
+    "What is this camera?"
+   ],
+   "rule": "Kamera so'zi bilan savol tuzish qoidasi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mashina nima?",
+   "en": [
+    "What is this car?"
+   ],
+   "rule": "Mashina predmeti uchun what is this car."
+  },
+  {
+   "part": 0,
+   "uz": "Ushbu kompyuter nima?",
+   "en": [
+    "What is this computer?"
+   ],
+   "rule": "Kompyuter so'zi bilan savol tuzish."
+  },
+  {
+   "part": 0,
+   "uz": "Bu telefon nima?",
+   "en": [
+    "What is this phone?"
+   ],
+   "rule": "Telefon predmeti bo'yicha savol."
+  },
+  {
+   "part": 0,
+   "uz": "Bu surat nima?",
+   "en": [
+    "What is this photograph?"
+   ],
+   "rule": "Surat so'zi photograph yordamida beriladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu uy nima?",
+   "en": [
+    "What is this house?"
+   ],
+   "rule": "Uy so'zi yordamida tuzilgan savol."
+  },
+  {
+   "part": 0,
+   "uz": "Bu bino nima?",
+   "en": [
+    "What is this building?"
+   ],
+   "rule": "Bino so'zi bilan savol tuzish."
+  },
+  {
+   "part": 0,
+   "uz": "Bu shahar nima?",
+   "en": [
+    "What is this city?"
+   ],
+   "rule": "Shahar so'zi city orqali beriladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu xarita nima?",
+   "en": [
+    "What is this map?"
+   ],
+   "rule": "Xarita so'zi map yordamida yoziladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ushbu darslik nima?",
+   "en": [
+    "What is this book?"
+   ],
+   "rule": "Kitob predmeti bo'yicha savol."
+  },
+  {
+   "part": 0,
+   "uz": "Bu chashka nima?",
+   "en": [
+    "What is this cup?"
+   ],
+   "rule": "Chashka so'zi cup yordamida tuziladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ushbu stul nima?",
+   "en": [
+    "What is this chair?"
+   ],
+   "rule": "Stul so'zi chair orqali beriladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu stol nima?",
+   "en": [
+    "What is this table?"
+   ],
+   "rule": "Stol so'zi table yordamida yoziladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ushbu deraza nima?",
+   "en": [
+    "What is this window?"
+   ],
+   "rule": "Deraza so'zi window yordamida tuziladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu eshik nima?",
+   "en": [
+    "What is this door?"
+   ],
+   "rule": "Eshik so'zi door orqali beriladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ushbu xona nima?",
+   "en": [
+    "What is this room?"
+   ],
+   "rule": "Xona so'zi room yordamida yoziladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu suv nima?",
+   "en": [
+    "What is this water?"
+   ],
+   "rule": "Suv so'zi water yordamida beriladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ushbu choy nima?",
+   "en": [
+    "What is this tea?"
+   ],
+   "rule": "Choy so'zi tea orqali yoziladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu kofe nima?",
+   "en": [
+    "What is this coffee?"
+   ],
+   "rule": "Kofe so'zi coffee yordamida tuziladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu sendvich nima?",
+   "en": [
+    "What is this sandwich?"
+   ],
+   "rule": "Sendvich so'zi sandwich orqali yoziladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ushbu gamburger nima?",
+   "en": [
+    "What is this hamburger?"
+   ],
+   "rule": "Gamburger so'zi hamburger yordamida beriladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu olma nima?",
+   "en": [
+    "What is this apple?"
+   ],
+   "rule": "Olma so'zi apple orqali tuziladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ushbu non nima?",
+   "en": [
+    "What is this bread?"
+   ],
+   "rule": "Non so'zi bread yordamida yoziladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu mushuk nima?",
+   "en": [
+    "What is this cat?"
+   ],
+   "rule": "Mushuk so'zi cat orqali beriladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ushbu it nima?",
+   "en": [
+    "What is this dog?"
+   ],
+   "rule": "It so'zi dog yordamida tuziladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu qiz nima?",
+   "en": [
+    "What is this girl?"
+   ],
+   "rule": "Qiz so'zi girl orqali beriladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ushbu bola nima?",
+   "en": [
+    "What is this boy?"
+   ],
+   "rule": "Bola so'zi boy yordamida yoziladi."
+  },
+  {
+   "part": 0,
+   "uz": "Bu ayol nima?",
+   "en": [
+    "What is this woman?"
+   ],
+   "rule": "Ayol so'zi woman yordamida tuziladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ushbu erkak nima?",
+   "en": [
+    "What is this man?"
+   ],
+   "rule": "Erkak so'zi man orqali beriladi."
+  },
+  {
+   "part": 1,
+   "uz": "Siz qayerdansiz?",
+   "en": [
+    "Where are you from?"
+   ],
+   "rule": "Qayerdan ekanligini so'rashda Where are you from."
+  },
+  {
+   "part": 1,
+   "uz": "U qayerdan? (o'g'il bola)",
+   "en": [
+    "Where is he from?"
+   ],
+   "rule": "Erkak kishining qayerdanligini so'rashda Where is he from."
+  },
+  {
+   "part": 1,
+   "uz": "U qayerdan? (qiz bola)",
+   "en": [
+    "Where is she from?"
+   ],
+   "rule": "Ayol kishining qayerdanligini so'rashda Where is she from."
+  },
+  {
+   "part": 1,
+   "uz": "Ali qayerdan?",
+   "en": [
+    "Where is Ali from?"
+   ],
+   "rule": "Ism bilan qayerdanligini so'rash tuzilishi."
+  },
+  {
+   "part": 1,
+   "uz": "Malika qayerdan?",
+   "en": [
+    "Where is Malika from?"
+   ],
+   "rule": "Qiz ismi va from ko'makchisi."
+  },
+  {
+   "part": 1,
+   "uz": "Tom qayerdan?",
+   "en": [
+    "Where is Tom from?"
+   ],
+   "rule": "Tom ismi bilan where is ... from."
+  },
+  {
+   "part": 1,
+   "uz": "Anna qayerdan?",
+   "en": [
+    "Where is Anna from?"
+   ],
+   "rule": "Anna ismi va from so'zi."
+  },
+  {
+   "part": 1,
+   "uz": "Siz Toshkentdanmisiz?",
+   "en": [
+    "Where are you from, Tashkent?"
+   ],
+   "rule": "Shahar nomi bilan savol tuzish."
+  },
+  {
+   "part": 1,
+   "uz": "Ushbu shahar qayerda?",
+   "en": [
+    "Where is this city?"
+   ],
+   "rule": "Shaharning joylashgan o'rnini so'rash."
+  },
+  {
+   "part": 1,
+   "uz": "Ushbu uy qayerda?",
+   "en": [
+    "Where is this house?"
+   ],
+   "rule": "Uchastka yoki uy joylashuvini so'rash."
+  }
+ ],
+ "tr51": [
+  {
+   "part": 1,
+   "uz": "U qayerdan?",
+   "en": [
+    "Where is he from?"
+   ],
+   "rule": "Where + is + he + from?"
+  },
+  {
+   "part": 1,
+   "uz": "U qayerdan?",
+   "en": [
+    "Where is she from?"
+   ],
+   "rule": "Where + is + she + from?"
+  },
+  {
+   "part": 1,
+   "uz": "Sen qayerdansan?",
+   "en": [
+    "Where are you from?"
+   ],
+   "rule": "Where + are + you + from?"
+  },
+  {
+   "part": 1,
+   "uz": "Tom qayerdan?",
+   "en": [
+    "Where is Tom from?"
+   ],
+   "rule": "Where + is + ism + from?"
+  },
+  {
+   "part": 1,
+   "uz": "Malika qayerdan?",
+   "en": [
+    "Where is Malika from?"
+   ],
+   "rule": "Where + is + ism + from?"
+  },
+  {
+   "part": 1,
+   "uz": "U Toshkentdan.",
+   "en": [
+    "He is from Tashkent."
+   ],
+   "rule": "Subject + is + from + shahar"
+  },
+  {
+   "part": 1,
+   "uz": "U Samarqanddan.",
+   "en": [
+    "She is from Samarkand."
+   ],
+   "rule": "Subject + is + from + shahar"
+  },
+  {
+   "part": 1,
+   "uz": "Men O'zbekistondanman.",
+   "en": [
+    "I am from Uzbekistan."
+   ],
+   "rule": "I + am + from + davlat"
+  },
+  {
+   "part": 1,
+   "uz": "Ular qayerdan?",
+   "en": [
+    "Where are they from?"
+   ],
+   "rule": "Where + are + they + from?"
+  },
+  {
+   "part": 1,
+   "uz": "Ular Angliyadan.",
+   "en": [
+    "They are from England."
+   ],
+   "rule": "They + are + from + davlat"
+  },
+  {
+   "part": 1,
+   "uz": "Bu shahar qayerda?",
+   "en": [
+    "Where is this city from?"
+   ],
+   "rule": "Where + is + this + ot + from?"
+  },
+  {
+   "part": 1,
+   "uz": "Aziz qayerdan?",
+   "en": [
+    "Where is Aziz from?"
+   ],
+   "rule": "Where + is + ism + from?"
+  },
+  {
+   "part": 1,
+   "uz": "Anna qayerdan?",
+   "en": [
+    "Where is Anna from?"
+   ],
+   "rule": "Where + is + ism + from?"
+  },
+  {
+   "part": 1,
+   "uz": "U qayerdan, Toshkentdanmi?",
+   "en": [
+    "Where is he from?"
+   ],
+   "rule": "Where + is + he + from?"
+  },
+  {
+   "part": 1,
+   "uz": "Sen qayerdan kelgansan?",
+   "en": [
+    "Where are you from?"
+   ],
+   "rule": "Where + are + you + from?"
+  },
+  {
+   "part": 1,
+   "uz": "U qiz qayerdan?",
+   "en": [
+    "Where is she from?"
+   ],
+   "rule": "Where + is + she + from?"
+  },
+  {
+   "part": 1,
+   "uz": "Bu bola qayerdan?",
+   "en": [
+    "Where is he from?"
+   ],
+   "rule": "Where + is + he + from?"
+  },
+  {
+   "part": 1,
+   "uz": "O'qituvchi qayerdan?",
+   "en": [
+    "Where is the teacher from?"
+   ],
+   "rule": "Where + is + the teacher + from?"
+  },
+  {
+   "part": 1,
+   "uz": "Talaba qayerdan?",
+   "en": [
+    "Where is the student from?"
+   ],
+   "rule": "Where + is + the student + from?"
+  },
+  {
+   "part": 1,
+   "uz": "Doktor qayerdan?",
+   "en": [
+    "Where is the doctor from?"
+   ],
+   "rule": "Where + is + the doctor + from?"
+  },
+  {
+   "part": 2,
+   "uz": "Sizga qanday?",
+   "en": [
+    "How are you?"
+   ],
+   "rule": "How + are + you?"
+  },
+  {
+   "part": 2,
+   "uz": "Qalaysiz?",
+   "en": [
+    "How are you?"
+   ],
+   "rule": "How + are + you?"
+  },
+  {
+   "part": 2,
+   "uz": "U qalay?",
+   "en": [
+    "How is he?"
+   ],
+   "rule": "How + is + he?"
+  },
+  {
+   "part": 2,
+   "uz": "U qiz qalay?",
+   "en": [
+    "How is she?"
+   ],
+   "rule": "How + is + she?"
+  },
+  {
+   "part": 2,
+   "uz": "Ob-havo qanday?",
+   "en": [
+    "How is the weather?"
+   ],
+   "rule": "How + is + the weather?"
+  },
+  {
+   "part": 2,
+   "uz": "Havo qanday bugun?",
+   "en": [
+    "How is the weather today?"
+   ],
+   "rule": "How + is + the weather + today?"
+  },
+  {
+   "part": 2,
+   "uz": "Siz yoshingiz nechada?",
+   "en": [
+    "How old are you?"
+   ],
+   "rule": "How old + are + you?"
+  },
+  {
+   "part": 2,
+   "uz": "Uning yoshi nechada?",
+   "en": [
+    "How old is he?"
+   ],
+   "rule": "How old + is + he?"
+  },
+  {
+   "part": 2,
+   "uz": "U qizning yoshi nechada?",
+   "en": [
+    "How old is she?"
+   ],
+   "rule": "How old + is + she?"
+  },
+  {
+   "part": 2,
+   "uz": "Tom necha yoshda?",
+   "en": [
+    "How old is Tom?"
+   ],
+   "rule": "How old + is + ism?"
+  },
+  {
+   "part": 2,
+   "uz": "Malika necha yoshda?",
+   "en": [
+    "How old is Malika?"
+   ],
+   "rule": "How old + is + ism?"
+  },
+  {
+   "part": 2,
+   "uz": "Men o'n besh yoshdaman.",
+   "en": [
+    "I am fifteen years old.",
+    "I am fifteen."
+   ],
+   "rule": "I + am + raqam + (years old)"
+  },
+  {
+   "part": 2,
+   "uz": "U yigirma yoshda.",
+   "en": [
+    "He is twenty years old.",
+    "He is twenty."
+   ],
+   "rule": "He + is + raqam + (years old)"
+  },
+  {
+   "part": 2,
+   "uz": "U o'n sakkiz yoshda.",
+   "en": [
+    "She is eighteen years old.",
+    "She is eighteen."
+   ],
+   "rule": "She + is + raqam + (years old)"
+  },
+  {
+   "part": 2,
+   "uz": "Ular necha yoshda?",
+   "en": [
+    "How old are they?"
+   ],
+   "rule": "How old + are + they?"
+  },
+  {
+   "part": 2,
+   "uz": "Ular o'n to'qqiz yoshda.",
+   "en": [
+    "They are nineteen years old.",
+    "They are nineteen."
+   ],
+   "rule": "They + are + raqam + (years old)"
+  },
+  {
+   "part": 2,
+   "uz": "Mening ismim Aziz, ahvolim yaxshi.",
+   "en": [
+    "My name is Aziz, I am very well."
+   ],
+   "rule": "My name is... + I am..."
+  },
+  {
+   "part": 2,
+   "uz": "Uning ismi Anna, u o'n yoshda.",
+   "en": [
+    "Her name is Anna, she is ten years old."
+   ],
+   "rule": "Her name is... + She is..."
+  },
+  {
+   "part": 2,
+   "uz": "Uning ismi Tom, u o'n ikki yoshda.",
+   "en": [
+    "His name is Tom, he is twelve years old."
+   ],
+   "rule": "His name is... + He is..."
+  },
+  {
+   "part": 2,
+   "uz": "Bugun ob-havo qanday?",
+   "en": [
+    "How is the weather today?"
+   ],
+   "rule": "How + is + the weather + today?"
+  },
+  {
+   "part": 2,
+   "uz": "Sizning do'stingiz qanday?",
+   "en": [
+    "How is your friend?"
+   ],
+   "rule": "How + is + your friend?"
+  },
+  {
+   "part": 2,
+   "uz": "Sizning uyingiz qanday?",
+   "en": [
+    "How is your house?"
+   ],
+   "rule": "How + is + your house?"
+  },
+  {
+   "part": 2,
+   "uz": "Sizning mashinangiz qanday?",
+   "en": [
+    "How is your car?"
+   ],
+   "rule": "How + is + your car?"
+  },
+  {
+   "part": 2,
+   "uz": "Maktab qanday?",
+   "en": [
+    "How is the school?"
+   ],
+   "rule": "How + is + the school?"
+  },
+  {
+   "part": 2,
+   "uz": "Kasalxona qanday?",
+   "en": [
+    "How is the hospital?"
+   ],
+   "rule": "How + is + the hospital?"
+  },
+  {
+   "part": 2,
+   "uz": "Markaz qanday?",
+   "en": [
+    "How is the centre?"
+   ],
+   "rule": "How + is + the centre?"
+  },
+  {
+   "part": 2,
+   "uz": "Shaharlar qanday?",
+   "en": [
+    "How are the cities?"
+   ],
+   "rule": "How + are + plural noun?"
+  },
+  {
+   "part": 2,
+   "uz": "Mamlakatlar qanday?",
+   "en": [
+    "How are the countries?"
+   ],
+   "rule": "How + are + plural noun?"
+  },
+  {
+   "part": 2,
+   "uz": "Odamlar qanday?",
+   "en": [
+    "How are the people?"
+   ],
+   "rule": "How + are + the people?"
+  },
+  {
+   "part": 2,
+   "uz": "Talabalar qanday?",
+   "en": [
+    "How are the students?"
+   ],
+   "rule": "How + are + the students?"
+  }
+ ],
+ "intro": {
+  "what": "What, where va how so'roq so'zlari yordamida ism, yosh, qayerdan ekanligi va ahvol haqida savollar tuzamiz. Ingliz tilida savol gapda so'z tartibi: so'roq so'z + to be (am/is/are) + ega shaklida bo'ladi.",
+  "when": [
+   "Ism so'rashda (What's your name?)",
+   "Qayerdan ekanligini so'rashda (Where are you from?)",
+   "Ahvol so'rashda (How are you?)",
+   "Yosh so'rashda (How old are you?)"
+  ],
+  "structures": [
+   {
+    "label": "Wh- Question (+) What",
+    "formula": "WHAT + TOBE + S + OB?",
+    "example_en": "What is your name?",
+    "example_uz": "Ismingiz nima?"
+   },
+   {
+    "label": "Wh- Question (+) Where",
+    "formula": "WHERE + TOBE + S + FROM?",
+    "example_en": "Where are you from?",
+    "example_uz": "Siz qayerdansiz?"
+   },
+   {
+    "label": "Wh- Question (+) How",
+    "formula": "HOW + TOBE + S?",
+    "example_en": "How are you?",
+    "example_uz": "Ahvolingiz qanday?"
+   },
+   {
+    "label": "Wh- Question (+) Age",
+    "formula": "HOW OLD + TOBE + S?",
+    "example_en": "How old are you?",
+    "example_uz": "Yoshingiz nechada?"
+   }
+  ],
+  "rules": [
+   {
+    "title": "So'z tartibi qoidasi",
+    "text": "Savol gaplarda so'roq so'z doim boshida keladi, undan keyin to be (am/is/are) va keyin ega qo'yiladi.",
+    "examples": [
+     {
+      "en": "Where is she from?",
+      "uz": "U qayerdan?"
+     },
+     {
+      "en": "What is his name?",
+      "uz": "Uning ismi nima?"
+     }
+    ]
+   },
+   {
+    "title": "Qisqartmalar (Contractions)",
+    "text": "What is so'zini What's deb qisqartirish mumkin.",
+    "examples": [
+     {
+      "en": "What's your name?",
+      "uz": "Ismingiz nima?"
+     },
+     {
+      "en": "What's her name?",
+      "uz": "Uning ismi nima?"
+     }
+    ]
+   },
+   {
+    "title": "Egalik sifatlari mos kelishi",
+    "text": "O'g'il bolalar uchun his, qiz bolalar uchun her egalik sifati ishlatiladi.",
+    "examples": [
+     {
+      "en": "What is his name?",
+      "uz": "Uning ismi nima? (o'g'il bola)"
+     },
+     {
+      "en": "What is her name?",
+      "uz": "Uning ismi nima? (qiz bola)"
+     }
+    ]
+   }
+  ],
+  "signal_words": [
+   {
+    "en": "What",
+    "uz": "Nima"
+   },
+   {
+    "en": "Where",
+    "uz": "Qayerda / Qayerdan"
+   },
+   {
+    "en": "How",
+    "uz": "Qanday / Necha"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "Where you are from?",
+    "right": "Where are you from?",
+    "why": "Savol gapda to be fe'li egadan oldin kelishi kerak: Where are you from?"
+   },
+   {
+    "wrong": "What your name?",
+    "right": "What is your name?",
+    "why": "Gapda to be (is) fe'li tushib qolgan."
+   },
+   {
+    "wrong": "How old you are?",
+    "right": "How old are you?",
+    "why": "Yosh so'rashda to be egadan oldin keladi."
+   }
+  ]
+ },
+ "test": [
+  {
+   "type": "fill",
+   "q": "______ is your name?",
+   "answer": "What",
+   "explain": "Ism so'rash uchun 'What' so'roq so'zi ishlatiladi.",
+   "accept": [
+    "What's"
+   ],
+   "hint": "what / where / how"
+  },
+  {
+   "type": "fill",
+   "q": "What ______ your name?",
+   "answer": "is",
+   "explain": "Birlikdagi ism uchun 'is' to be fe'li ishlatiladi.",
+   "accept": [
+    "'s"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "______ are you from?",
+   "answer": "Where",
+   "explain": "Kelib chiqqan joyni so'rash uchun 'Where' ishlatiladi.",
+   "accept": [],
+   "hint": "what / where / how"
+  },
+  {
+   "type": "fill",
+   "q": "Where ______ you from?",
+   "answer": "are",
+   "explain": "'You' egasi bilan 'are' to be fe'li ishlatiladi.",
+   "accept": [],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "How ______ you?",
+   "answer": "are",
+   "explain": "Ahvol so'rashda 'How are you?' qolipi ishlatiladi.",
+   "accept": [],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "How old ______ you?",
+   "answer": "are",
+   "explain": "You egasi bilan are fe'li ishlatiladi.",
+   "accept": [],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "What is ______ name? (o'g'il bola uchun)",
+   "answer": "his",
+   "explain": "O'g'il bola uchun 'his' egalik sifati ishlatiladi.",
+   "accept": [],
+   "hint": "my / your / his"
+  },
+  {
+   "type": "fill",
+   "q": "What is ______ name? (qiz bola uchun)",
+   "answer": "her",
+   "explain": "Qiz bola uchun 'her' egalik sifati ishlatiladi.",
+   "accept": [],
+   "hint": "his / her / my"
+  },
+  {
+   "type": "fill",
+   "q": "Where ______ she from?",
+   "answer": "is",
+   "explain": "'She' egasi bilan 'is' to be fe'li ishlatiladi.",
+   "accept": [
+    "'s"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "Where ______ he from?",
+   "answer": "is",
+   "explain": "'He' egasi bilan 'is' to be fe'li ishlatiladi.",
+   "accept": [
+    "'s"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "______ is his name?",
+   "answer": "What",
+   "explain": "Ism so'rash uchun 'What' ishlatiladi.",
+   "accept": [],
+   "hint": "what / where / how"
+  },
+  {
+   "type": "fill",
+   "q": "______ is her name?",
+   "answer": "What",
+   "explain": "Ism so'rash uchun 'What' ishlatiladi.",
+   "accept": [],
+   "hint": "what / where / how"
+  },
+  {
+   "type": "fill",
+   "q": "______ old are you?",
+   "answer": "How",
+   "explain": "Yosh so'rashda 'How old' qolipi ishlatiladi.",
+   "accept": [],
+   "hint": "what / where / how"
+  },
+  {
+   "type": "fill",
+   "q": "What ______ his name?",
+   "answer": "is",
+   "explain": "His name birlikda bo'lgani uchun 'is' ishlatiladi.",
+   "accept": [
+    "'s"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "What ______ her name?",
+   "answer": "is",
+   "explain": "Her name birlikda bo'lgani uchun 'is' ishlatiladi.",
+   "accept": [
+    "'s"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "______ are you? - I am fine, thanks.",
+   "answer": "How",
+   "explain": "Ahvol so'rash uchun 'How' so'roq so'zi ishlatiladi.",
+   "accept": [],
+   "hint": "what / where / how"
+  },
+  {
+   "type": "fill",
+   "q": "Where ______ they from?",
+   "answer": "are",
+   "explain": "They egasi bilan 'are' to be fe'li ishlatiladi.",
+   "accept": [],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "______ are they from?",
+   "answer": "Where",
+   "explain": "Mamlakat yoki shahar haqida so'rashda 'Where' ishlatiladi.",
+   "accept": [],
+   "hint": "what / where / how"
+  },
+  {
+   "type": "fill",
+   "q": "How old ______ she?",
+   "answer": "is",
+   "explain": "She egasi uchun 'is' to be fe'li ishlatiladi.",
+   "accept": [
+    "'s"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "How old ______ he?",
+   "answer": "is",
+   "explain": "He egasi uchun 'is' to be fe'li ishlatiladi.",
+   "accept": [
+    "'s"
+   ],
+   "hint": "be"
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct question:",
+   "answer": "Where are you from?",
+   "explain": "Savol so'z va to be fe'li egadan oldin kelishi kerak.",
+   "options": [
+    "Where you are from?",
+    "Where are you from?",
+    "Where is you from?"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct question for name:",
+   "answer": "What is your name?",
+   "explain": "Ism so'rash uchun What ishlatiladi va to be fe'li to'g'ri qo'yiladi.",
+   "options": [
+    "Where is your name?",
+    "What is your name?",
+    "How is your name?"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct question for age:",
+   "answer": "How old are you?",
+   "explain": "Yosh so'rash uchun 'How old are you?' qolipi ishlatiladi.",
+   "options": [
+    "How old are you?",
+    "What old are you?",
+    "Where old are you?"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct question about her:",
+   "answer": "Where is she from?",
+   "explain": "She uchun 'is' ishlatiladi va where boshida keladi.",
+   "options": [
+    "Where are she from?",
+    "Where is she from?",
+    "Where she is from?"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct question for greeting:",
+   "answer": "How are you?",
+   "explain": "Ahvol so'rash uchun 'How are you?' ishlatiladi.",
+   "options": [
+    "What are you?",
+    "Where are you?",
+    "How are you?"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct sentence for his name:",
+   "answer": "What is his name?",
+   "explain": "O'g'il bola uchun 'his' egalik sifati ishlatiladi.",
+   "options": [
+    "What is her name?",
+    "What is his name?",
+    "What is my name?"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct option:",
+   "answer": "Where are they from?",
+   "explain": "They ko'plik olmoshi bo'lgani uchun 'are' ishlatiladi.",
+   "options": [
+    "Where is they from?",
+    "Where are they from?",
+    "Where am they from?"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct question:",
+   "answer": "What's her name?",
+   "explain": "What is qisqartmasi What's tarzida yoziladi va qiz bola uchun her ishlatiladi.",
+   "options": [
+    "What's her name?",
+    "Where's her name?",
+    "How's her name?"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct option:",
+   "answer": "How old is he?",
+   "explain": "He egasi bilan 'is' fe'li ishlatiladi.",
+   "options": [
+    "How old are he?",
+    "How old is he?",
+    "How old am he?"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Choose the correct sentence:",
+   "answer": "What is your surname?",
+   "explain": "Familiya so'rash uchun 'What is your surname?' to'g'ri keladi.",
+   "options": [
+    "Where is your surname?",
+    "What is your surname?",
+    "How is your surname?"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "script": "Woman: I love being a travel writer, and I love talking about my trips, so thank you for inviting me into the studio today. Right, I'm going to tell you about three different holidays that I can recommend to everyone. The first is a good year-round sun destination, the Canary Islands. These islands are known for their big, busy seaside hotels in Tenerife and Lanzarote, but there are less well-known islands, like La Gomera. If you want a quieter experience, you can stay in traditional villages there, and try out the excellent walking routes in the hills. Johnson's Travel currently has two-week holidays in La Gomera for as little as 600 pounds per person, or 900 pounds with an extra week. Another island you might like to try is Sardinia in the Mediterranean. And if you and your family want a little more adventure, then a water sports holiday could be the one for you. Water-skiing and sailing are always popular, and you could even try for a diving qualification while you're there on one of the specially organized activity weeks offered by Sunworld. Sunworld designs fantastic holidays, and the peak season for families begins in July. It's important to remember, however, that the month of June is reserved for adults only. Finally, if you're not interested in lying on the beach, why not try something completely different? On a trip to Iceland, you and your family could first visit all the main attractions of Reykjavik on a special guided bus tour. Then take a traditional Icelandic trip on the back of a horse to the Blue Lagoon, before flying off to the lovely snow-covered mountains of the Askja region. A week with Travel the World costs 1,200 pounds per adult, for accommodation and return flights to Reykjavik and on to Askja. Rates for children are lower.",
+ "items": [
+  {
+   "n": 1,
+   "quote": "try out the excellent walking routes in the hills",
+   "uz": "La Gomera orolidagi tepaliklarda ajoyib piyoda yurish (walking) marshrutlari borligi aytilgan."
+  },
+  {
+   "n": 2,
+   "quote": "two-week holidays in La Gomera for as little as 600 pounds per person, or 900 pounds with an extra week",
+   "uz": "Ikki haftalik (fortnight) ta'til narxi eng kamida 600 funtdan boshlanadi. 900 funt esa qo'shimcha hafta bilan hisoblangandagi narxdir."
+  },
+  {
+   "n": 3,
+   "quote": "try for a diving qualification while you're there",
+   "uz": "Sardinyada g'avvoslik (diving) bo'yicha maxsus sertifikat yoki malaka olish imkoniyati bor."
+  },
+  {
+   "n": 4,
+   "quote": "the month of June is reserved for adults only",
+   "uz": "Iyun (June) oyi faqat kattalar uchun ajratilgan bo'lib, bolali oilalar bu oyda borishlari taqiqlanadi (oila mavsumi iyuldan boshlanadi)."
+  },
+  {
+   "n": 5,
+   "quote": "visit all the main attractions of Reykjavik on a special guided bus tour",
+   "uz": "Reykyaik shahrini avtobus ekskursiyasi (bus tour) orqali tomosha qilish taklif etiladi."
+  },
+  {
+   "n": 6,
+   "quote": "1,200 pounds per adult, for accommodation and return flights to Reykjavik",
+   "uz": "Paket narxiga turar joy (accommodation) va qaytish samolyot chiptalari (return flights) kiritilgan."
+  }
+ ]
+}

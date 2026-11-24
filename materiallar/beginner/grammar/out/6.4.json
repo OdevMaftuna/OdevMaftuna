@@ -1,0 +1,1164 @@
+{
+ "code": "6.4",
+ "intro": {
+  "what": "Vaqt predloglari (at, in, on) ingliz tilida aniq bir vaqt, kun yoki oy kabi paytlarni ko'rsatish uchun ishlatiladi.",
+  "when": [
+   "at + soat vaqti, tun va dam olish kunlari uchun",
+   "on + kunlar va sanalar uchun",
+   "in + oylar, yillar, fasllar va kunning qismlari uchun"
+  ],
+  "structures": [
+   {
+    "label": "AT formula",
+    "formula": "at + clock time / night / weekend",
+    "example_en": "I get up at 7 o'clock.",
+    "example_uz": "Men soat 7 da turaman."
+   },
+   {
+    "label": "ON formula",
+    "formula": "on + day / date",
+    "example_en": "We work on Monday.",
+    "example_uz": "Biz dushanba kuni ishlaymiz."
+   },
+   {
+    "label": "IN formula",
+    "formula": "in + month / year / season / part of day",
+    "example_en": "She visits us in summer.",
+    "example_uz": "U bizga yozda tashrif buyuradi."
+   }
+  ],
+  "rules": [
+   {
+    "title": "Clock time va maxsus so'zlar",
+    "text": "Soat vaqtidan oldin, shuningdek 'night' va 'weekend' so'zlari bilan har doim 'at' predlogi ishlatiladi.",
+    "examples": [
+     {
+      "en": "I sleep at night.",
+      "uz": "Men tunda uxlayman."
+     },
+     {
+      "en": "She goes to the beach at the weekend.",
+      "uz": "U dam olish kunida plyajga boradi."
+     }
+    ]
+   },
+   {
+    "title": "Kunlar va sanalar",
+    "text": "Hafta kunlari (Monday, Tuesday) va sanalar oldidan 'on' predlogi qo'yiladi.",
+    "examples": [
+     {
+      "en": "My lesson is on Tuesday.",
+      "uz": "Mening darsim dushanba kuni."
+     },
+     {
+      "en": "His birthday is on 5th May.",
+      "uz": "Uning tug'ilgan kuni 5-mayda."
+     }
+    ]
+   },
+   {
+    "title": "Oylar, yillar va fasllar",
+    "text": "Oylar, yillar, fasllar va kunning ma'lum qismlari (morning, evening) oldidan 'in' ishlatiladi.",
+    "examples": [
+     {
+      "en": "They live in Tashkent in 2020.",
+      "uz": "Ular 2020-yilda Toshkentda yashashadi."
+     },
+     {
+      "en": "We have breakfast in the morning.",
+      "uz": "Biz ertalab nonushta qilamiz."
+     }
+    ]
+   }
+  ],
+  "signal_words": [
+   {
+    "en": "at 7 o'clock",
+    "uz": "soat 7 da"
+   },
+   {
+    "en": "on Monday",
+    "uz": "dushanba kuni"
+   },
+   {
+    "en": "in July",
+    "uz": "iyulda"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "in Monday",
+    "right": "on Monday",
+    "why": "Hafta kunlari oldidan 'in' emas, 'on' predlogi ishlatiladi."
+   },
+   {
+    "wrong": "at the morning",
+    "right": "in the morning",
+    "why": "Kunning qismlari (morning, evening) oldidan 'at' emas, 'in' ishlatiladi."
+   },
+   {
+    "wrong": "on 7 o'clock",
+    "right": "at 7 o'clock",
+    "why": "Aniq soat vaqtidan oldin 'at' predlogi qo'yiladi."
+   }
+  ]
+ },
+ "test": [
+  {
+   "type": "fill",
+   "q": "I get up ______ 7 o'clock.",
+   "answer": "at",
+   "explain": "Aniq soat vaqtidan oldin 'at' predlogi ishlatiladi.",
+   "hint": "at / in / on"
+  },
+  {
+   "type": "fill",
+   "q": "We have English lessons ______ Monday.",
+   "answer": "on",
+   "explain": "Hafta kunlari oldidan 'on' predlogi ishlatiladi.",
+   "hint": "at / in / on"
+  },
+  {
+   "type": "fill",
+   "q": "She goes to Samarkand ______ July.",
+   "answer": "in",
+   "explain": "Oylar oldidan 'in' predlogi ishlatiladi.",
+   "hint": "at / in / on"
+  },
+  {
+   "type": "fill",
+   "q": "My dad works ______ the morning.",
+   "answer": "in",
+   "explain": "Kunning qismi bo'lgan 'morning' oldidan 'in' ishlatiladi.",
+   "hint": "at / in / on"
+  },
+  {
+   "type": "fill",
+   "q": "Aziz sleeps ______ night.",
+   "answer": "at",
+   "explain": "'night' so'zi bilan doimo 'at' predlogi ishlatiladi.",
+   "hint": "at / in / on"
+  },
+  {
+   "type": "fill",
+   "q": "Malika visits her family ______ the weekend.",
+   "answer": "at",
+   "explain": "'weekend' so'zi bilan doimo 'at' predlogi ishlatiladi.",
+   "hint": "at / in / on"
+  },
+  {
+   "type": "fill",
+   "q": "They live in a big house ______ 2020.",
+   "answer": "in",
+   "explain": "Yillar oldidan 'in' predlogi ishlatiladi.",
+   "hint": "at / in / on"
+  },
+  {
+   "type": "fill",
+   "q": "His birthday is ______ 5th May.",
+   "answer": "on",
+   "explain": "Sanalar oldidan 'on' predlogi ishlatiladi.",
+   "hint": "at / in / on"
+  },
+  {
+   "type": "fill",
+   "q": "We go to the seaside ______ summer.",
+   "answer": "in",
+   "explain": "Fasllar oldidan 'in' predlogi ishlatiladi.",
+   "hint": "at / in / on"
+  },
+  {
+   "type": "fill",
+   "q": "Tom is at home ______ 8 o'clock.",
+   "answer": "at",
+   "explain": "Soat vaqti oldidan 'at' ishlatiladi.",
+   "hint": "at / in / on"
+  },
+  {
+   "type": "fill",
+   "q": "I watch TV ______ the evening.",
+   "answer": "in",
+   "explain": "Kunning qismlaridan biri bo'lgan 'evening' oldidan 'in' qo'yiladi.",
+   "hint": "at / in / on"
+  },
+  {
+   "type": "fill",
+   "q": "Ali plays football ______ Tuesday.",
+   "answer": "on",
+   "explain": "Hafta kuni bo'lgani uchun 'on' ishlatiladi.",
+   "hint": "at / in / on"
+  },
+  {
+   "type": "fill",
+   "q": "My brother's lesson is ______ 10 o'clock.",
+   "answer": "at",
+   "explain": "Aniq vaqt oldidan 'at' ishlatiladi.",
+   "hint": "at / in / on"
+  },
+  {
+   "type": "fill",
+   "q": "She drinks coffee ______ the morning.",
+   "answer": "in",
+   "explain": "'morning' so'zi bilan 'in' predlogi ishlatiladi.",
+   "hint": "at / in / on"
+  },
+  {
+   "type": "fill",
+   "q": "They go shopping ______ Saturday.",
+   "answer": "on",
+   "explain": "Hafta kunlari oldidan 'on' ishlatiladi.",
+   "hint": "at / in / on"
+  },
+  {
+   "type": "fill",
+   "q": "We have lunch ______ 1 o'clock.",
+   "answer": "at",
+   "explain": "Soat vaqti oldidan 'at' ishlatiladi.",
+   "hint": "at / in / on"
+  },
+  {
+   "type": "fill",
+   "q": "Anna was born ______ June.",
+   "answer": "in",
+   "explain": "Oylar oldidan 'in' predlogi ishlatiladi.",
+   "hint": "at / in / on"
+  },
+  {
+   "type": "fill",
+   "q": "My mother sleeps ______ night.",
+   "answer": "at",
+   "explain": "'night' so'zi bilan 'at' ishlatiladi.",
+   "hint": "at / in / on"
+  },
+  {
+   "type": "fill",
+   "q": "You can relax ______ the weekend.",
+   "answer": "at",
+   "explain": "'weekend' so'zi bilan 'at' ishlatiladi.",
+   "hint": "at / in / on"
+  },
+  {
+   "type": "fill",
+   "q": "The weather is nice ______ spring.",
+   "answer": "in",
+   "explain": "Fasllar oldidan 'in' predlogi ishlatiladi.",
+   "hint": "at / in / on"
+  },
+  {
+   "type": "mc",
+   "q": "I get up ______ 6 o'clock.",
+   "answer": "at",
+   "explain": "Soat vaqti oldidan 'at' ishlatiladi.",
+   "options": [
+    "in",
+    "on",
+    "at"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "We have an English lesson ______ Monday.",
+   "answer": "on",
+   "explain": "Hafta kuni oldidan 'on' ishlatiladi.",
+   "options": [
+    "on",
+    "in",
+    "at"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "My birthday is ______ July.",
+   "answer": "in",
+   "explain": "Oylar oldidan 'in' ishlatiladi.",
+   "options": [
+    "at",
+    "in",
+    "on"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "She watches TV ______ night.",
+   "answer": "at",
+   "explain": "'night' so'zi bilan 'at' ishlatiladi.",
+   "options": [
+    "on",
+    "in",
+    "at"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Aziz plays tennis ______ the weekend.",
+   "answer": "at",
+   "explain": "'weekend' so'zi bilan 'at' ishlatiladi.",
+   "options": [
+    "at",
+    "on",
+    "in"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "They live in England ______ 2020.",
+   "answer": "in",
+   "explain": "Yillar oldidan 'in' ishlatiladi.",
+   "options": [
+    "in",
+    "on",
+    "at"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "The party is ______ 5th May.",
+   "answer": "on",
+   "explain": "Sanalar oldidan 'on' ishlatiladi.",
+   "options": [
+    "at",
+    "in",
+    "on"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "We drink tea ______ the morning.",
+   "answer": "in",
+   "explain": "Kunning qismi bo'lgan 'morning' oldidan 'in' ishlatiladi.",
+   "options": [
+    "on",
+    "at",
+    "in"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Ali starts work ______ 9 o'clock.",
+   "answer": "at",
+   "explain": "Aniq soat vaqti oldidan 'at' ishlatiladi.",
+   "options": [
+    "at",
+    "in",
+    "on"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Malika goes to the beach ______ summer.",
+   "answer": "in",
+   "explain": "Fasllar oldidan 'in' ishlatiladi.",
+   "options": [
+    "on",
+    "in",
+    "at"
+   ]
+  }
+ ],
+ "model": "gemini-3.5-flash-lite",
+ "tr1": [
+  {
+   "part": 0,
+   "uz": "Tom soat sakkizda ishlaydi.",
+   "en": [
+    "Tom works at eight o'clock."
+   ],
+   "rule": "Aniq soat vaqti oldidan at ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Malika soat oltida turadi.",
+   "en": [
+    "Malika gets up at six o'clock."
+   ],
+   "rule": "Soat vaqtidan oldin at keladi."
+  },
+  {
+   "part": 0,
+   "uz": "Men tunda uxlayman.",
+   "en": [
+    "I sleep at night."
+   ],
+   "rule": "Tunda so'zi uchun at night ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular dam olish kunida uyda bo'ladi.",
+   "en": [
+    "They are at home at the weekend."
+   ],
+   "rule": "Dam olish kuni oldidan at ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Aziz soat o'nda keladi.",
+   "en": [
+    "Aziz comes at ten o'clock."
+   ],
+   "rule": "Aniq vaqt oldidan at qo'yiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Biz tunda ishlaymiz.",
+   "en": [
+    "We work at night."
+   ],
+   "rule": "Tungi vaqt uchun at night ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U dam olish kunida ishlamaydi.",
+   "en": [
+    "He doesn't work at the weekend."
+   ],
+   "rule": "Dam olish kunida at keladi."
+  },
+  {
+   "part": 0,
+   "uz": "Anna soat yettida nonushta qiladi.",
+   "en": [
+    "Anna has breakfast at seven o'clock."
+   ],
+   "rule": "Soatdan oldin at ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Men soat to'qqizda uxlayman.",
+   "en": [
+    "I go to bed at nine o'clock."
+   ],
+   "rule": "Aniq vaqt oldidan at ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Sen dam olish kunida uyda yashaysanmi?",
+   "en": [
+    "Do you live at home at the weekend?"
+   ],
+   "rule": "Dam olish kunida at ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular soat o'n ikkida tushlik qiladi.",
+   "en": [
+    "They have lunch at twelve o'clock."
+   ],
+   "rule": "Soat vaqti uchun at ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ali dam olish kunida shahar markazida yuradi.",
+   "en": [
+    "Ali walks in the town centre at the weekend."
+   ],
+   "rule": "Dam olish kunida at ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Mening do'stim soat to'rtda keladi.",
+   "en": [
+    "My friend comes at four o'clock."
+   ],
+   "rule": "Aniq soat oldidan at ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Siz soat beshda ishni tugatasizmi?",
+   "en": [
+    "Do you work at five o'clock?"
+   ],
+   "rule": "Soat vaqti oldidan at qo'yiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U tunda suv ichadi.",
+   "en": [
+    "She drinks water at night."
+   ],
+   "rule": "Tunda so'zi at night bo'ladi."
+  },
+  {
+   "part": 0,
+   "uz": "Tom dam olish kunida dam oladi.",
+   "en": [
+    "Tom relaxes at the weekend."
+   ],
+   "rule": "Dam olish kunidan oldin at keladi."
+  },
+  {
+   "part": 0,
+   "uz": "Biz soat sakkizda dars qilamiz.",
+   "en": [
+    "We learn at eight o'clock."
+   ],
+   "rule": "Aniq soat oldidan at ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular soat oltida uydan ketadi.",
+   "en": [
+    "They leave home at six o'clock."
+   ],
+   "rule": "Soat vaqtidan oldin at ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Men tunda televizor ko'rmayman.",
+   "en": [
+    "I don't watch TV at night."
+   ],
+   "rule": "Tunda so'zi uchun at ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Malika dam olish kunida kitob o'qiydi.",
+   "en": [
+    "Malika reads a book at the weekend."
+   ],
+   "rule": "Dam olish kunida so'zi at the weekend."
+  },
+  {
+   "part": 0,
+   "uz": "Aziz soat yettida ofisga boradi.",
+   "en": [
+    "Aziz goes to the office at seven o'clock."
+   ],
+   "rule": "Soatdan oldin at ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Sen soat to'qqizda uxlayapsanmi?",
+   "en": [
+    "Do you sleep at nine o'clock?"
+   ],
+   "rule": "Aniq soat vaqti oldidan at ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular dam olish kunida nonushta qiladi.",
+   "en": [
+    "They have breakfast at the weekend."
+   ],
+   "rule": "Dam olish kunida at ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Men soat o'nda darsni boshlayman.",
+   "en": [
+    "I start the lesson at ten o'clock."
+   ],
+   "rule": "Soat vaqti uchun at ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U tunda ishlamaydi.",
+   "en": [
+    "He doesn't work at night."
+   ],
+   "rule": "Tunda so'zi uchun at night ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Anna dam olish kunida xarid qiladi.",
+   "en": [
+    "Anna goes shopping at the weekend."
+   ],
+   "rule": "Dam olish kunida at keladi."
+  },
+  {
+   "part": 0,
+   "uz": "Biz soat o'n birda uchrashamiz.",
+   "en": [
+    "We meet at eleven o'clock."
+   ],
+   "rule": "Aniq soat oldidan at ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ali soat to'rtda choy ichadi.",
+   "en": [
+    "Ali drinks tea at four o'clock."
+   ],
+   "rule": "Soat vaqtidan oldin at qo'yiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Siz dam olish kunida uyda bo'lasizmi?",
+   "en": [
+    "Are you at home at the weekend?"
+   ],
+   "rule": "Dam olish kunida at ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U tunda yaxshi uxlaydi.",
+   "en": [
+    "She sleeps well at night."
+   ],
+   "rule": "Tunda so'zi at night bo'ladi."
+  },
+  {
+   "part": 0,
+   "uz": "Tom soat yettida nonushta qiladi.",
+   "en": [
+    "Tom has breakfast at seven o'clock."
+   ],
+   "rule": "Soat vaqti uchun at ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Malika soat sakkizda ishga boradi.",
+   "en": [
+    "Malika goes to work at eight o'clock."
+   ],
+   "rule": "Aniq soat oldidan at ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Men dam olish kunida dam olaman.",
+   "en": [
+    "I relax at the weekend."
+   ],
+   "rule": "Dam olish kunida at ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Aziz soat o'n ikkida tushlik qiladi.",
+   "en": [
+    "Aziz has lunch at twelve o'clock."
+   ],
+   "rule": "Soat vaqtidan oldin at keladi."
+  },
+  {
+   "part": 0,
+   "uz": "Biz tunda ishlamaymiz.",
+   "en": [
+    "We don't work at night."
+   ],
+   "rule": "Tunda so'zi at night bo'ladi."
+  },
+  {
+   "part": 0,
+   "uz": "Ular dam olish kunida sayr qiladi.",
+   "en": [
+    "They walk at the weekend."
+   ],
+   "rule": "Dam olish kunida so'zi at the weekend."
+  },
+  {
+   "part": 0,
+   "uz": "Anna soat to'rtda uyga qaytadi.",
+   "en": [
+    "Anna gets home at four o'clock."
+   ],
+   "rule": "Soat vaqti uchun at ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Sen soat oltida turasanmi?",
+   "en": [
+    "Do you get up at six o'clock?"
+   ],
+   "rule": "Aniq soat oldidan at qo'yiladi."
+  },
+  {
+   "part": 0,
+   "uz": "U dam olish kunida kitob o'qiydi.",
+   "en": [
+    "He reads a book at the weekend."
+   ],
+   "rule": "Dam olish kunida at ishlatiladi."
+  },
+  {
+   "part": 0,
+   "uz": "Men soat beshda uyga kelaman.",
+   "en": [
+    "I get home at five o'clock."
+   ],
+   "rule": "Soat vaqtidan oldin at ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Men dushanba kuni ishlayman.",
+   "en": [
+    "I work on Monday."
+   ],
+   "rule": "Hafta kunlari oldidan on ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Tom seshanba kuni ingliz tilini o'rganadi.",
+   "en": [
+    "Tom learns English on Tuesday."
+   ],
+   "rule": "Kun nomlari oldidan on qo'yiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Malika chorshanba kuni xarid qiladi.",
+   "en": [
+    "Malika goes shopping on Wednesday."
+   ],
+   "rule": "Hafta kuni uchun on ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Biz payshanba kuni uchrashamiz.",
+   "en": [
+    "We meet on Thursday."
+   ],
+   "rule": "Kunlardan oldin on keladi."
+  },
+  {
+   "part": 1,
+   "uz": "Aziz juma kuni futbol o'ynaydi.",
+   "en": [
+    "Aziz plays football on Friday."
+   ],
+   "rule": "Hafta kuni oldidan on ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular shanba kuni dam oladi.",
+   "en": [
+    "They relax on Saturday."
+   ],
+   "rule": "Kun nomi uchun on ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Anna yakshanba kuni uyda bo'ladi.",
+   "en": [
+    "Anna is at home on Sunday."
+   ],
+   "rule": "Yakshanba kuni oldidan on qo'yiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Mening tug'ilgan kunim beshinchi mayda.",
+   "en": [
+    "My birthday is on 5th May."
+   ],
+   "rule": "Aniq sanalar oldidan on ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Sen dushanba kuni ishlayapsanmi?",
+   "en": [
+    "Do you work on Monday?"
+   ],
+   "rule": "Hafta kunlari bilan on ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "U seshanba kuni ishga bormaydi.",
+   "en": [
+    "He doesn't go to work on Tuesday."
+   ],
+   "rule": "Kun nomi oldidan on ishlatiladi."
+  }
+ ],
+ "tr51": [
+  {
+   "part": 1,
+   "uz": "Biz dushanbada ishlaymiz.",
+   "en": [
+    "We work on Monday."
+   ],
+   "rule": "Kunlar oldidan on predlogi ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Siz dushanbada dam olasiz.",
+   "en": [
+    "You relax on Monday."
+   ],
+   "rule": "Kunlar oldidan on predlogi ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular dushanbada kelishadi.",
+   "en": [
+    "They come on Monday."
+   ],
+   "rule": "Kunlar oldidan on predlogi ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ali dushanbada maktabga boradi.",
+   "en": [
+    "Ali goes to school on Monday."
+   ],
+   "rule": "Kunlar oldidan on predlogi ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Anna dushanbada uyda ishlaydi.",
+   "en": [
+    "Anna works at home on Monday."
+   ],
+   "rule": "Kunlar oldidan on predlogi ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Men dushanbada xat yozaman.",
+   "en": [
+    "I write a letter on Monday."
+   ],
+   "rule": "Kunlar oldidan on predlogi ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Sen dushanbada kitob o'qiysan.",
+   "en": [
+    "You read a book on Monday."
+   ],
+   "rule": "Kunlar oldidan on predlogi ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "U dushanbada tennis o'ynaydi.",
+   "en": [
+    "He plays tennis on Monday."
+   ],
+   "rule": "Kunlar oldidan on predlogi ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "U dushanbada shahar markaziga boradi.",
+   "en": [
+    "She goes to the town centre on Monday."
+   ],
+   "rule": "Kunlar oldidan on predlogi ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Biz dushanbada ingliz tilini o'rganamiz.",
+   "en": [
+    "We learn English on Monday."
+   ],
+   "rule": "Kunlar oldidan on predlogi ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular 5-mayda Toshkentda bo'lishadi.",
+   "en": [
+    "They are in Tashkent on 5th May."
+   ],
+   "rule": "Aniq sanalar oldidan on predlogi ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Men 5-mayda Samarkandga boraman.",
+   "en": [
+    "I go to Samarkand on 5th May."
+   ],
+   "rule": "Aniq sanalar oldidan on predlogi ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Tom 5-mayda uyda ishlaydi.",
+   "en": [
+    "Tom works at home on 5th May."
+   ],
+   "rule": "Aniq sanalar oldidan on predlogi ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Malika 5-mayda yangi mashina sotib oladi.",
+   "en": [
+    "Malika buys a new car on 5th May."
+   ],
+   "rule": "Aniq sanalar oldidan on predlogi ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Aziz 5-mayda ofisga keladi.",
+   "en": [
+    "Aziz comes to the office on 5th May."
+   ],
+   "rule": "Aniq sanalar oldidan on predlogi ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Siz dushanbada pitsa yeysiz.",
+   "en": [
+    "You eat pizza on Monday."
+   ],
+   "rule": "Kunlar oldidan on predlogi ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Biz dushanbada choy ichamiz.",
+   "en": [
+    "We drink tea on Monday."
+   ],
+   "rule": "Kunlar oldidan on predlogi ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular dushanbada musiqa tinglashadi.",
+   "en": [
+    "They listen to music on Monday."
+   ],
+   "rule": "Kunlar oldidan on predlogi ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Men dushanbada film ko'raman.",
+   "en": [
+    "I watch a film on Monday."
+   ],
+   "rule": "Kunlar oldidan on predlogi ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Sen dushanbada surat chizasan.",
+   "en": [
+    "You paint on Monday."
+   ],
+   "rule": "Kunlar oldidan on predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Biz iyulda ta'tilda bo'lamiz.",
+   "en": [
+    "We are on holiday in July."
+   ],
+   "rule": "Oylar oldidan in predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Ular iyulda Shveytsariyaga borishadi.",
+   "en": [
+    "They go to Switzerland in July."
+   ],
+   "rule": "Oylar oldidan in predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Men iyulda Germaniyada yashayman.",
+   "en": [
+    "I live in Germany in July."
+   ],
+   "rule": "Oylar oldidan in predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Tom iyulda Irlandiyaga sayohat qiladi.",
+   "en": [
+    "Tom travels to Ireland in July."
+   ],
+   "rule": "Oylar oldidan in predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Anna iyulda yangi uy sotib oladi.",
+   "en": [
+    "Anna buys a new house in July."
+   ],
+   "rule": "Oylar oldidan in predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Biz 2020-yilda Toshkentga keldik.",
+   "en": [
+    "We come to Tashkent in 2020.",
+    "We came to Tashkent in 2020."
+   ],
+   "rule": "Yillar oldidan in predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Ular 2020-yilda yangi maktab ochishadi.",
+   "en": [
+    "They open a new school in 2020."
+   ],
+   "rule": "Yillar oldidan in predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Men 2020-yilda ish boshlayman.",
+   "en": [
+    "I start work in 2020."
+   ],
+   "rule": "Yillar oldidan in predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Aziz 2020-yilda universitetda o'qiydi.",
+   "en": [
+    "Aziz studies at the university in 2020."
+   ],
+   "rule": "Yillar oldidan in predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Malika 2020-yilda shifokor bo'ladi.",
+   "en": [
+    "Malika is a doctor in 2020."
+   ],
+   "rule": "Yillar oldidan in predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Biz yozda dengizga boramiz.",
+   "en": [
+    "We go to the sea in summer."
+   ],
+   "rule": "Fasllar oldidan in predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Ular yozda plyajda dam olishadi.",
+   "en": [
+    "They relax on the beach in summer."
+   ],
+   "rule": "Fasllar oldidan in predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Men yozda muzqaymoq yeyman.",
+   "en": [
+    "I eat ice cream in summer."
+   ],
+   "rule": "Fasllar oldidan in predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Sen yozda suzishni o'rganasan.",
+   "en": [
+    "You learn swimming in summer."
+   ],
+   "rule": "Fasllar oldidan in predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "U yozda tog'ga chiqadi.",
+   "en": [
+    "He walks in the mountains in summer."
+   ],
+   "rule": "Fasllar oldidan in predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Biz ertalab qahva ichamiz.",
+   "en": [
+    "We drink coffee in the morning."
+   ],
+   "rule": "Kun qismlari oldidan in predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Siz ertalab nonushta qilasiz.",
+   "en": [
+    "You have breakfast in the morning."
+   ],
+   "rule": "Kun qismlari oldidan in predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Ular ertalab non yeyishadi.",
+   "en": [
+    "They eat bread in the morning."
+   ],
+   "rule": "Kun qismlari oldidan in predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Men ertalab ingliz tili darsiga boraman.",
+   "en": [
+    "I go to the English lesson in the morning."
+   ],
+   "rule": "Kun qismlari oldidan in predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Sen ertalab uy tozalaysan.",
+   "en": [
+    "You clean the house in the morning."
+   ],
+   "rule": "Kun qismlari oldidan in predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "U kechqurun televizor ko'radi.",
+   "en": [
+    "He watches television in the evening."
+   ],
+   "rule": "Kun qismlari oldidan in predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "U kechqurun keki ovqat yeydi.",
+   "en": [
+    "She has dinner in the evening."
+   ],
+   "rule": "Kun qismlari oldidan in predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Biz kechqurun do'stlar bilan uchrashamiz.",
+   "en": [
+    "We meet friends in the evening."
+   ],
+   "rule": "Kun qismlari oldidan in predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Ular kechqurun restoranga borishadi.",
+   "en": [
+    "They go to a restaurant in the evening."
+   ],
+   "rule": "Kun qismlari oldidan in predlogi ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Men kechqurun kitob o'qiyman.",
+   "en": [
+    "I read a book in the evening."
+   ],
+   "rule": "Kun qismlari oldidan in predlogi ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Biz yakshanbada dam olamiz.",
+   "en": [
+    "We relax on Sunday."
+   ],
+   "rule": "Kunlar oldidan on predlogi ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Ular shanbada xarid qilishadi.",
+   "en": [
+    "They go shopping on Saturday."
+   ],
+   "rule": "Kunlar oldidan on predlogi ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Men payshanbada ishlayman.",
+   "en": [
+    "I work on Thursday."
+   ],
+   "rule": "Kunlar oldidan on predlogi ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Sen chorshanbada kitob o'qiysan.",
+   "en": [
+    "You read a book on Wednesday."
+   ],
+   "rule": "Kunlar oldidan on predlogi ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "U seshanbada tennis o'ynaydi.",
+   "en": [
+    "He plays tennis on Tuesday."
+   ],
+   "rule": "Kunlar oldidan on predlogi ishlatiladi."
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+﻿63`t16`t117`t410
+72`t17`t591`tMultilevel Mas ler readj
+119`t21`t144`tEach Alma receiver will consist of a transportable structure supporting
+147`t23`t116`ta dish measuring IO metres in diameter. Extending outwards from the
+176`t19`t116`tsmooth metal surface ot the dish will be three support arms that hold a
+204`t18`t116`tsub-reflector. This will direct the radio waves down into the heart of the
+234`t21`t116`treceiver, where signals can be amplified, recorded and analysed. To vary
+261`t21`t116`tits angle it will be mounted on an elevation structure, beneath which will
+290`t21`t116`tbe around on the steel base, the cylindrical platform for the receiver.
+318`t21`t142`tScientists are now satisfied they know about the universe's birth and
+347`t22`t114`tabout its childhood. But they still need to learn about its early infancy
+375`t22`t114`tthirteen billion years ago.. after the newly-born cosmos had exploded into
+404`t21`t114`texistence and the heavens had filled with superheated partitles, a thin gruel
+432`t21`t114`tof matter that somehow coalesced to produce heavy solid objects. 'We want
+461`t21`t113`tto know how a hot, fluid the universe turned into one With galaxies and stars
+490`t21`t113`tand planets and continents and, eventually, people,' says astronomer
+518`t21`t114`tDc Paul Murdin. 'We want to know how heavens got structure. In short, we
+548`t22`t113`twant to understand how we got from the Big Bang to people, 'One answer
+576`t21`t113`tis to build even bigger optical telescopes to gather photons from even
+605`t21`t113`tmore distant- and therefore older- objects. However, really distant galaxies
+633`t21`t111`trecede from us so rapidly that much of their light transformed - by an effect
+662`t22`t111`tas the Doppler shift- into microwave radiation.
+690`t22`t138`tAnd that is why Chajnantor is so important. It receivers will be built spe
+719`t21`t110`tcifically to collect tis precious microwave radiation and help astronomers to
+747`t21`t111`tunderstand one of science's last major cosmological mysteries: the struc-
+776`t22`t110`ttuted. solid nature Of the cosmos, But collecting microwave radiation has
+806`t21`t110`tone major drawbadkg as Esteban Illanes, of the European Southern Obser-
+834`t21`t110`tvatory, explains. 'It is absorbed by water An observatory at sea level would
+863`t20`t110`tpick up nothing, All the microwaves coming clown from space would have
+891`t21`t108`tabsorbed by clouds or water vapor in the atmosphere before they reached
+920`t21`t108`tour instruments_ That is why we picked Chajnantor. It is high and dry-per-
+948`t21`t108`tiect for picking up microwaves,'
+1005`t21`t134`tFor questions 1-4, fill in the missing information in the numbered
+1038`t17`t105`tspaces.
+1064`t19`t135`tWrite no more than ONE WORD and / or A NUMBER for each question.
+1092`t20`t134`tThe lack of (1)
+1094`t21`t368`tmakes Chajnantor one Of the driest areas in the
+1121`t21`t105`tglobe.
+1148`t23`t132`tOne feature of the Alma telescopes is they are (2)

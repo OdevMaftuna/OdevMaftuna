@@ -1,0 +1,45 @@
+﻿92`t22`t180`t94
+160`t28`t217`tExercise 20
+76`t29`t772`tMultilevel Moster listeni
+212`t29`t218`tYou WII' hear someone giving a talk. Label the places (1-5) on the map
+251`t28`t216`t(A-H). There are THREE extra options which you do not need to use.
+307`t19`t465`tSPORTS SUPER CENTRE
+341`t13`t714`t20m
+360`t17`t484`t50 m Aquatic Centre Indoor
+379`t17`t714`tpool
+388`t14`t484`toutdoor
+408`t19`t484`tpool
+555`t13`t457`tMaln Hall
+738`t15`t413`tstairs to
+760`t15`t413`tmozzanino
+780`t15`t413`tlovol
+847`t19`t415`tCar park
+883`t22`t216`t1. men's locker room
+920`t23`t216`t4. conference room
+989`t26`t218`tExercise 21
+417`t14`t627`tdouble
+434`t19`t581`tA doors
+454`t18`t620`t00
+504`t15`t587`tturnstile
+779`t15`t714`tCreche
+833`t13`t703`tBike racks
+846`t17`t564`tRecept on
+886`t21`t525`t2. cafe
+923`t27`t525`t5. pool shop
+888`t22`t699`t3. women's locker room
+1042`t27`t219`tYou will hear someone giving a talk. Label the places (1-5) on the map
+1078`t26`t217`t(A-G). There are TWO extra options which you do not need to use.
+1161`t12`t628`taint eo e Oa
+1233`t12`t640`tCornwell Road
+1255`t13`t476`tCornwell Road
+1312`t12`t427`tQuean Streor
+1371`t12`t528`touth K In treet
+1294`t9`t700`tUNDERGRouuo
+1334`t17`t741`tbar R
+1351`t15`t776`toaa
+1431`t22`t212`t1. science museum
+1468`t28`t211`t4. shopping mall
+1438`t29`t523`t2. national history museum
+1474`t28`t522`t5. primary school
+1451`t27`t869`t3. car park
+1653`t9`t1022`tScanned With

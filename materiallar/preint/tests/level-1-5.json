@@ -1,0 +1,590 @@
+{
+ "code": "PC15",
+ "course": "Pre-Intermediate",
+ "kind": "level",
+ "unit": null,
+ "price": 80000,
+ "sort": 101,
+ "title": "Units 1–5 Test",
+ "subtitle": "Cumulative · Units 1–5 · grammar, vocabulary, use of English, reading",
+ "sections": [
+  {
+   "title": "A. Complete the sentences. Use the correct form of the verbs in brackets.",
+   "items": [
+    {
+     "t": "text",
+     "q": "Aziz ______ (buy) new trainers last Saturday.",
+     "a": [
+      "bought"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "We ______ (watch) TV when the lights went out.",
+     "a": [
+      "were watching"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Careful! That glass is going to fall — you ______ (break) it!",
+     "a": [
+      "are going to break",
+      "'re going to break",
+      "will break",
+      "'ll break"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Lola ______ (not go) to the party last night.",
+     "a": [
+      "didn't go",
+      "did not go"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "______ (you / see) the eclipse yesterday?",
+     "a": [
+      "Did you see"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I ______ (meet) my cousins at the airport at 6 p.m. tomorrow. It’s all arranged.",
+     "a": [
+      "am meeting",
+      "'m meeting"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "You look cold — I ______ (close) the window.",
+     "a": [
+      "will close",
+      "'ll close"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The phone rang while I ______ (have) a shower.",
+     "a": [
+      "was having"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "If it ______ (not rain) tomorrow, we’ll go to the mountains.",
+     "a": [
+      "doesn't rain",
+      "does not rain"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Kamola loves animals, so she ______ (study) to be a vet. She has already decided.",
+     "a": [
+      "is going to study",
+      "'s going to study"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "B. Choose the correct answers to complete the dialogue.",
+   "items": [
+    {
+     "t": "mc",
+     "q": "Sardor: ___ you like to come to the cinema with me tonight?",
+     "o": [
+      "Do",
+      "Would",
+      "Will"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "Malika: I’d love to, but I ___ finish my project first.",
+     "o": [
+      "must",
+      "mustn’t",
+      "needn’t"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Sardor: You ___ do it now — it’s due next week!",
+     "o": [
+      "mustn’t",
+      "needn’t",
+      "must"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "Malika: OK. What ___ we see?",
+     "o": [
+      "shall",
+      "will",
+      "do"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Sardor: There aren’t ___ good comedies on at the moment.",
+     "o": [
+      "some",
+      "much",
+      "any"
+     ],
+     "a": 2
+    },
+    {
+     "t": "mc",
+     "q": "Malika: Then let’s watch the new adventure film. It’s ___ than the comedy anyway.",
+     "o": [
+      "more exciting",
+      "most exciting",
+      "excitinger"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Sardor: Is it scary? I’m not old ___ for horror films!",
+     "o": [
+      "too",
+      "enough",
+      "very"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "Malika: No, it isn’t. It’s ___ best film of the year!",
+     "o": [
+      "a",
+      "the",
+      "—"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "Sardor: Great. If we ___ at 6, we’ll get good seats.",
+     "o": [
+      "leave",
+      "will leave",
+      "left"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Malika: Perfect. I ___ meet you outside the cinema.",
+     "o": [
+      "’ll",
+      "’m",
+      "am going"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "title": "C. Choose the correct words.",
+   "items": [
+    {
+     "t": "mc",
+     "q": "After two hours of studying, we ___ a break.",
+     "o": [
+      "took",
+      "did"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "The view from the top of the mountain was ___.",
+     "o": [
+      "very amazing",
+      "absolutely amazing"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "Grandma’s plov was absolutely ___!",
+     "o": [
+      "delicious",
+      "tasty"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "He fell off his bike and ___ his wrist.",
+     "o": [
+      "sprained",
+      "injured himself"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Don’t go near the ___ — smoke is coming out of it!",
+     "o": [
+      "volcano",
+      "desert"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "This film is so ___ — I don’t understand who is who.",
+     "o": [
+      "confusing",
+      "confused"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "I need to ___ a decision about my university.",
+     "o": [
+      "make",
+      "have"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Nurses often work very long ___.",
+     "o": [
+      "hours",
+      "times"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "My brother wants to ___ the school football team.",
+     "o": [
+      "join",
+      "send"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "It was a ___ day, so we stayed inside and watched a film.",
+     "o": [
+      "foggy",
+      "sunshine"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "title": "D. Complete the sentences with the words in the box.",
+   "box": [
+    "anxious",
+    "challenging",
+    "gripping",
+    "proud",
+    "stormy"
+   ],
+   "items": [
+    {
+     "t": "text",
+     "q": "My parents were very ______ of me when I won the chess competition.",
+     "a": [
+      "proud"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "You keep looking at the clock. Are you ______ about the exam?",
+     "a": [
+      "anxious"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "This series is so ______ — I watched five episodes last night!",
+     "a": [
+      "gripping"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "It was very ______ last night — the wind broke our window.",
+     "a": [
+      "stormy"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Learning to play the violin is ______, but I love it.",
+     "a": [
+      "challenging"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "E. Complete the sentences with the correct form of the words in brackets.",
+   "items": [
+    {
+     "t": "text",
+     "q": "Getting into university was a great ______ (achieve).",
+     "a": [
+      "achievement"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "We need a lot of ______ (prepare) before the trip.",
+     "a": [
+      "preparation"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The 20 km walk was ______ (exhaust) — I fell asleep at once.",
+     "a": [
+      "exhausting"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The ______ (explore) of space is very expensive.",
+     "a": [
+      "exploration"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "She was very ______ (surprise) when she saw the cake.",
+     "a": [
+      "surprised"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "F. Each sentence has one mistake. Write the correct word.",
+   "items": [
+    {
+     "t": "text",
+     "q": "Ali: Hi Bobur! What you did at the weekend? → correct: ______",
+     "a": [
+      "did"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Bobur: I go hiking in the mountains with my dad. → correct: ______",
+     "a": [
+      "went"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Ali: Really? How exciting! — Bobur: Yes, but it rained all the day. → correct word to remove: ______ (write the word)",
+     "a": [
+      "the"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Ali: What a shame! Were you cold? — Bobur: Yes, I was freezing. I was very relieved when we arrive home. → correct: ______",
+     "a": [
+      "arrived"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Ali: I’m going to Samarkand next week. Do you fancy to come? → correct: ______",
+     "a": [
+      "coming"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Bobur: I’d love to, but I must to study for my exam. → correct: ______",
+     "a": [
+      "study"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Ali: You needn’t worry. You’re cleverest student in our class! → correct: ______",
+     "a": [
+      "the"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Bobur: That’s kind. If I will pass, I’ll come with you next time. → correct: ______",
+     "a": [
+      "pass"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Ali: Great. I think you’ll pass easy. → correct: ______",
+     "a": [
+      "easily"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Bobur: Thanks! I’m going call you after the exam. → correct: ______",
+     "a": [
+      "to"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Listening. Listen to a radio programme about a young athlete. Choose the correct answers.",
+   "audio": "preint/PC15.mp3",
+   "script": "Presenter: Nigora is sixteen and she's the national junior champion in rock climbing. Nigora, how did you start?\nNigora: My uncle took me to a climbing wall when I was ten. I was terrified at first, but by the end of the day I didn't want to go home!\nPresenter: How often do you train?\nNigora: Five days a week, after school. At weekends I go to real mountains near Chimgan, if the weather is good enough.\nPresenter: Have you ever been injured?\nNigora: Yes, last year I sprained my wrist and couldn't climb for two months. That was really frustrating.\nPresenter: What are your plans?\nNigora: Next spring I'm going to compete in Kazakhstan. And in the future I'd like to become a climbing instructor, so I can teach other girls.",
+   "items": [
+    {
+     "t": "mc",
+     "q": "How did Nigora feel the first time she climbed?",
+     "o": [
+      "Bored",
+      "Terrified at first",
+      "Disappointed"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "When does she climb real mountains?",
+     "o": [
+      "After school",
+      "At weekends, if the weather is good",
+      "Only in summer"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "What happened last year?",
+     "o": [
+      "She sprained her wrist.",
+      "She broke her leg.",
+      "She lost a competition."
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Where is she going to compete next spring?",
+     "o": [
+      "In Kyrgyzstan",
+      "In Kazakhstan",
+      "In Turkey"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "What job would she like in the future?",
+     "o": [
+      "A sports journalist",
+      "A climbing instructor",
+      "A mountain guide"
+     ],
+     "a": 1
+    }
+   ]
+  },
+  {
+   "title": "G. Read the text. Choose the sentence (A–G) that fits each gap. There are two extra sentences.",
+   "passage": "When Shahzoda was fifteen, she decided to cycle from Tashkent to Samarkand — about 300 kilometres. (1) ___ Her parents were worried, but her uncle, a professional cyclist, agreed to go with her.\n\nThey trained for three months. Every weekend they rode longer distances in the hills. (2) ___ By the end of the summer, she could cycle 100 km in a day.\n\nOn the first day of the trip, a strong wind blew against them for hours. (3) ___ On the second day, Shahzoda’s back wheel broke in a small village. Luckily, a mechanic there repaired it for free.\n\nOn the third evening they finally saw the blue domes of the Registan. (4) ___ ‘I was exhausted, but I was so proud of myself,’ she says.\n\nToday Shahzoda is studying sports science at university. (5) ___\n\nA  At first, she was so tired that she wanted to give up.\nB  She had never cycled more than 20 kilometres before.\nC  It was the most beautiful sight of her life.\nD  She also wants to organise a cycling club for girls.\nE  They travelled by train to save time.\nF  They only covered 60 km instead of 100.\nG  Her uncle bought her a new car.",
+   "items": [
+    {
+     "t": "mc",
+     "q": "Gap 1",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "Gap 2",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Gap 3",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G"
+     ],
+     "a": 5
+    },
+    {
+     "t": "mc",
+     "q": "Gap 4",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G"
+     ],
+     "a": 2
+    },
+    {
+     "t": "mc",
+     "q": "Gap 5",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G"
+     ],
+     "a": 3
+    }
+   ]
+  }
+ ]
+}

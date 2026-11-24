@@ -1,0 +1,1234 @@
+{
+ "code": "8.1",
+ "intro": {
+  "what": "\"There is\" va \"There are\" iboralari o'zbek tilidagi \"bor\" so'ziga to'g'ri keladi. Ular biror narsa yoki shaxsning ma'lum bir joyda mavjudligini ifodalash uchun ishlatiladi.",
+  "when": [
+   "Birlikdagi (bitta) narsalarning borligini aytishda.",
+   "Ko'plikdagi (ikki va undan ortiq) narsalarning borligini aytishda.",
+   "Biror joyda biror narsa bor-yo'qligini so'rashda.",
+   "Narsalarning miqdorini (nechtaligini) so'rashda."
+  ],
+  "structures": [
+   {
+    "label": "(+)",
+    "formula": "There is a/an + [singular noun] / There are some + [plural noun]",
+    "example_en": "There is a sofa in the room. There are some books on the desk.",
+    "example_uz": "Xonada divan bor. Parta ustida bir nechta kitoblar bor."
+   },
+   {
+    "label": "(-)",
+    "formula": "There isn't a/an + [singular noun] / There aren't any + [plural noun]",
+    "example_en": "There isn't a TV. There aren't any chairs.",
+    "example_uz": "Televizor yo'q. Hech qanday stullar yo'q."
+   },
+   {
+    "label": "(?)",
+    "formula": "Is there a/an + [singular noun]? / Are there any + [plural noun]?",
+    "example_en": "Is there a cat? Are there any shops?",
+    "example_uz": "Mushuk bormi? Do'konlar bormi?"
+   },
+   {
+    "label": "Wh-",
+    "formula": "How many + [plural noun] + are there?",
+    "example_en": "How many bedrooms are there?",
+    "example_uz": "Nechta yotoqxona bor?"
+   },
+   {
+    "label": "Qisqa javob",
+    "formula": "Yes, there is/are. / No, there isn't/aren't.",
+    "example_en": "Is there a bank? Yes, there is.",
+    "example_uz": "Bank bormi? Ha, bor."
+   }
+  ],
+  "rules": [
+   {
+    "title": "A/An vs Some",
+    "text": "Darak gaplarda bitta narsa uchun 'a/an', ko'p narsalar uchun esa 'some' (bir nechta) ishlatiladi.",
+    "examples": [
+     {
+      "en": "There is a lamp.",
+      "uz": "Lampa bor."
+     },
+     {
+      "en": "There are some lamps.",
+      "uz": "Bir nechta lampalar bor."
+     }
+    ]
+   },
+   {
+    "title": "Any ishlatilishi",
+    "text": "Inkor (-) va so'roq (?) gaplarda ko'plikdagi otlar bilan 'some' emas, 'any' ishlatiladi.",
+    "examples": [
+     {
+      "en": "Are there any students?",
+      "uz": "Talabalar bormi?"
+     },
+     {
+      "en": "There aren't any students.",
+      "uz": "Hech qanday talabalar yo'q."
+     }
+    ]
+   },
+   {
+    "title": "How many",
+    "text": "'How many' (nechta) so'rog'idan keyin ot doim ko'plikda keladi.",
+    "examples": [
+     {
+      "en": "How many cars are there?",
+      "uz": "Nechta mashina bor?"
+     },
+     {
+      "en": "How many rooms are there?",
+      "uz": "Nechta xona bor?"
+     }
+    ]
+   }
+  ],
+  "signal_words": [
+   {
+    "en": "In",
+    "uz": "Ichida"
+   },
+   {
+    "en": "On",
+    "uz": "Ustida"
+   },
+   {
+    "en": "Under",
+    "uz": "Tagida"
+   },
+   {
+    "en": "Next to",
+    "uz": "Yonida"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "There is two books.",
+    "right": "There are two books.",
+    "why": "Ko'plikdagi otlar bilan 'is' emas, 'are' ishlatiladi."
+   },
+   {
+    "wrong": "Is there any chairs?",
+    "right": "Are there any chairs?",
+    "why": "Ko'plikdagi otlar bilan so'roq gapda 'Is there' emas, 'Are there' ishlatiladi."
+   },
+   {
+    "wrong": "There aren't some pictures.",
+    "right": "There aren't any pictures.",
+    "why": "Inkor gaplarda 'some' o'rniga 'any' ishlatish kerak."
+   }
+  ]
+ },
+ "test": [
+  {
+   "type": "fill",
+   "q": "There ______ a large sofa in the living room.",
+   "answer": "is",
+   "explain": "Birlikdagi ot (a sofa) bo'lgani uchun 'is' ishlatiladi.",
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "There ______ two bedrooms in the flat.",
+   "answer": "are",
+   "explain": "Ko'plikdagi ot (two bedrooms) bilan 'are' ishlatiladi.",
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "There ______ any chairs in the kitchen.",
+   "answer": "aren't",
+   "explain": "Inkor gapda ko'plikdagi ot (chairs) bilan 'aren't' ishlatiladi.",
+   "accept": [
+    "are not"
+   ],
+   "hint": "not + be"
+  },
+  {
+   "type": "fill",
+   "q": "______ there a television in the bedroom?",
+   "answer": "Is",
+   "explain": "Birlikdagi ot (a television) bilan so'roq gapda 'Is' gap boshiga chiqadi.",
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "Are there ______ pictures on the wall?",
+   "answer": "any",
+   "explain": "So'roq gaplarda ko'plikdagi otlar bilan 'any' ishlatiladi.",
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "There is ______ armchair next to the window.",
+   "answer": "an",
+   "explain": "'Armchair' unli bilan boshlangani uchun 'an' ishlatiladi.",
+   "hint": "a / an"
+  },
+  {
+   "type": "fill",
+   "q": "There are ______ books on the desk.",
+   "answer": "some",
+   "explain": "Darak gapda ko'plikdagi otlar bilan 'some' ishlatiladi.",
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "How ______ children are there in the family?",
+   "answer": "many",
+   "explain": "Sanaladigan otlarning miqdorini so'rashda 'How many' ishlatiladi.",
+   "hint": "many / much"
+  },
+  {
+   "type": "fill",
+   "q": "There ______ a cat under the table.",
+   "answer": "is",
+   "explain": "Bitta mushuk (a cat) haqida gap ketmoqda, shuning uchun 'is' kerak.",
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "There ______ any eggs in the fridge.",
+   "answer": "aren't",
+   "explain": "Inkor gapda 'any' bilan ko'plikdagi ot (eggs) kelsa 'aren't' ishlatiladi.",
+   "accept": [
+    "are not"
+   ],
+   "hint": "not + be"
+  },
+  {
+   "type": "fill",
+   "q": "______ there any shops near the hotel?",
+   "answer": "Are",
+   "explain": "Ko'plikdagi ot (shops) bilan so'roq gap 'Are' bilan boshlanadi.",
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "Is there a computer? No, there ______.",
+   "answer": "isn't",
+   "explain": "'Is there' savoliga inkor javob 'No, there isn't' bo'ladi.",
+   "accept": [
+    "is not"
+   ],
+   "hint": "not + be"
+  },
+  {
+   "type": "fill",
+   "q": "There is a lamp ______ to the bed.",
+   "answer": "next",
+   "explain": "'Next to' iborasi 'yonida' degan ma'noni beradi.",
+   "hint": "next / near"
+  },
+  {
+   "type": "fill",
+   "q": "How many students ______ there in the classroom?",
+   "answer": "are",
+   "explain": "'How many' bilan so'roq gapda 'are there' ishlatiladi.",
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "There ______ a dictionary in the drawer.",
+   "answer": "is",
+   "explain": "Birlikdagi ot (a dictionary) bilan 'is' ishlatiladi.",
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "There isn't ______ shower in the bathroom.",
+   "answer": "a",
+   "explain": "Inkor gapda birlikdagi ot bilan 'a' ishlatiladi.",
+   "hint": "a / any"
+  },
+  {
+   "type": "fill",
+   "q": "There are some bags ______ the floor.",
+   "answer": "on",
+   "explain": "Polning ustida bo'lgani uchun 'on' predlogi ishlatiladi.",
+   "hint": "in / on / under"
+  },
+  {
+   "type": "fill",
+   "q": "Are there ______ sandwiches in the bag?",
+   "answer": "any",
+   "explain": "So'roq gapda ko'plikdagi ot (sandwiches) bilan 'any' ishlatiladi.",
+   "hint": "some / any"
+  },
+  {
+   "type": "fill",
+   "q": "There ______ a big park near my house.",
+   "answer": "is",
+   "explain": "Bitta park haqida gapirilmoqda, shuning uchun 'is' ishlatiladi.",
+   "hint": "be"
+  },
+  {
+   "type": "fill",
+   "q": "There ______ any magazines in the office.",
+   "answer": "aren't",
+   "explain": "Inkor gapda ko'plikdagi ot (magazines) bilan 'aren't' ishlatiladi.",
+   "accept": [
+    "are not"
+   ],
+   "hint": "not + be"
+  },
+  {
+   "type": "mc",
+   "q": "______ a bus station in the town centre.",
+   "answer": "There is",
+   "explain": "Birlikdagi ot (a bus station) mavjudligini aytish uchun 'There is' ishlatiladi.",
+   "options": [
+    "There is",
+    "There are",
+    "It is"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Are there ______ apples?",
+   "answer": "any",
+   "explain": "So'roq gapda ko'plikdagi ot bilan 'any' ishlatiladi.",
+   "options": [
+    "a",
+    "any",
+    "some"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "There ______ any cars in the car park.",
+   "answer": "aren't",
+   "explain": "Ko'plikdagi ot (cars) va 'any' bilan inkor shakli 'aren't' bo'ladi.",
+   "options": [
+    "isn't",
+    "aren't",
+    "not"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "How many bathrooms ______?",
+   "answer": "are there",
+   "explain": "So'roq gapda 'are there' shakli ishlatiladi.",
+   "options": [
+    "there are",
+    "are there",
+    "is there"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "There's ______ orange on the table.",
+   "answer": "an",
+   "explain": "'Orange' so'zi unli bilan boshlangani uchun 'an' artikli qo'yiladi.",
+   "options": [
+    "a",
+    "an",
+    "some"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "______ there a phone in the kitchen?",
+   "answer": "Is",
+   "explain": "Birlikdagi ot (a phone) bilan so'roq gap 'Is' bilan boshlanadi.",
+   "options": [
+    "Is",
+    "Are",
+    "Am"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "There are some ______ in the living room.",
+   "answer": "armchairs",
+   "explain": "'There are some' dan keyin ot ko'plikda kelishi kerak.",
+   "options": [
+    "armchair",
+    "armchairs",
+    "an armchair"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "Is there a cooker? No, there ______.",
+   "answer": "isn't",
+   "explain": "'Is there' bilan berilgan savolga inkor javob 'isn't' bilan tugaydi.",
+   "options": [
+    "isn't",
+    "aren't",
+    "is"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "There's a small table ______ the sofa.",
+   "answer": "next to",
+   "explain": "Divanning yonida demoqchi bo'lsak 'next to' ishlatamiz.",
+   "options": [
+    "next to",
+    "on",
+    "in"
+   ]
+  },
+  {
+   "type": "mc",
+   "q": "There ______ a lot of people in the park today.",
+   "answer": "are",
+   "explain": "'People' so'zi doim ko'plikda bo'lgani uchun 'are' ishlatiladi.",
+   "options": [
+    "is",
+    "are",
+    "am"
+   ]
+  }
+ ],
+ "model": "gemini-3-flash-preview",
+ "tr1": [
+  {
+   "part": 0,
+   "uz": "Xonada divan bor.",
+   "en": [
+    "There is a sofa in the room.",
+    "There's a sofa in the room."
+   ],
+   "rule": "Birlik: There is a + birlikdagi ot"
+  },
+  {
+   "part": 0,
+   "uz": "Oshxonada stol bor.",
+   "en": [
+    "There is a table in the kitchen.",
+    "There's a table in the kitchen."
+   ],
+   "rule": "Birlik: There is a + birlikdagi ot"
+  },
+  {
+   "part": 0,
+   "uz": "Devorda poster bor.",
+   "en": [
+    "There is a poster on the wall.",
+    "There's a poster on the wall."
+   ],
+   "rule": "O'rin-joy: on prepozitsiyasi ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Sumkada kitoblar bor.",
+   "en": [
+    "There are books in the bag."
+   ],
+   "rule": "Ko'plik: There are + ko'plikdagi ot"
+  },
+  {
+   "part": 0,
+   "uz": "Uyda uchta yotoqxona bor.",
+   "en": [
+    "There are three bedrooms in the house."
+   ],
+   "rule": "Ko'plik: There are + son + ot"
+  },
+  {
+   "part": 0,
+   "uz": "Stol ustida kompyuter bor.",
+   "en": [
+    "There is a computer on the desk.",
+    "There's a computer on the table."
+   ],
+   "rule": "Birlik: There is a + birlikdagi ot"
+  },
+  {
+   "part": 0,
+   "uz": "Shaharda katta park bor.",
+   "en": [
+    "There is a big park in the town.",
+    "There's a big park in the city."
+   ],
+   "rule": "Sifat: a + sifat + ot tartibi"
+  },
+  {
+   "part": 0,
+   "uz": "Karavot ostida poyabzallar bor.",
+   "en": [
+    "There are shoes under the bed."
+   ],
+   "rule": "O'rin-joy: under prepozitsiyasi ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Xonada ikkita kreslo bor.",
+   "en": [
+    "There are two armchairs in the room."
+   ],
+   "rule": "Ko'plik: There are + son + ot"
+  },
+  {
+   "part": 0,
+   "uz": "Muzlatgichda bir oz pishloq bor.",
+   "en": [
+    "There is some cheese in the fridge.",
+    "There's some cheese in the fridge."
+   ],
+   "rule": "Sanalmaydigan ot: some ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Stol tagida mushuk bor.",
+   "en": [
+    "There is a cat under the table.",
+    "There's a cat under the desk."
+   ],
+   "rule": "O'rin-joy: under prepozitsiyasi ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Divan yonida chiroq bor.",
+   "en": [
+    "There is a lamp next to the sofa.",
+    "There's a lamp next to the sofa."
+   ],
+   "rule": "O'rin-joy: next to ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "G'aladonda kiyimlar bor.",
+   "en": [
+    "There are clothes in the drawer."
+   ],
+   "rule": "Ko'plik: There are + ko'plikdagi ot"
+  },
+  {
+   "part": 0,
+   "uz": "Shahar markazida eski cherkov bor.",
+   "en": [
+    "There is an old church in the town centre.",
+    "There's an old church in the town centre."
+   ],
+   "rule": "Unli tovush: an artikli ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Oshxonada bir necha stakanlar bor.",
+   "en": [
+    "There are some cups in the kitchen."
+   ],
+   "rule": "Ko'plik: some so'zi ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Uy yaqinida maktab bor.",
+   "en": [
+    "There is a school near the house.",
+    "There's a school near the house."
+   ],
+   "rule": "O'rin-joy: near prepozitsiyasi ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Stol ustida lug'at bor.",
+   "en": [
+    "There is a dictionary on the desk.",
+    "There's a dictionary on the table."
+   ],
+   "rule": "Birlik: There is a + birlikdagi ot"
+  },
+  {
+   "part": 0,
+   "uz": "Sumkada mobil telefon bor.",
+   "en": [
+    "There is a mobile phone in the bag.",
+    "There's a mobile phone in the bag."
+   ],
+   "rule": "Birlik: There is a + birlikdagi ot"
+  },
+  {
+   "part": 0,
+   "uz": "Bizning qishloqda bitta do'kon bor.",
+   "en": [
+    "There is a shop in our village.",
+    "There's a shop in our village."
+   ],
+   "rule": "Egalik: our olmoshi ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Uyimda televizor bor.",
+   "en": [
+    "There is a TV in my house.",
+    "There's a television in my home."
+   ],
+   "rule": "Egalik: my olmoshi ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Parkda bolalar bor.",
+   "en": [
+    "There are children in the park."
+   ],
+   "rule": "Noto'g'ri ko'plik: children so'zi ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Deraza yonida stol bor.",
+   "en": [
+    "There is a desk next to the window.",
+    "There's a table next to the window."
+   ],
+   "rule": "O'rin-joy: next to ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Karavotda kiyimlar bor.",
+   "en": [
+    "There are clothes on the bed."
+   ],
+   "rule": "Ko'plik: There are + ko'plikdagi ot"
+  },
+  {
+   "part": 0,
+   "uz": "Sumkamda bir oz pul bor.",
+   "en": [
+    "There is some money in my bag.",
+    "There's some money in my bag."
+   ],
+   "rule": "Sanalmaydigan ot: some ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Toshkentda ko'p chiroyli binolar bor.",
+   "en": [
+    "There are a lot of beautiful buildings in Tashkent."
+   ],
+   "rule": "Ko'p: a lot of ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Devorda katta rasm bor.",
+   "en": [
+    "There is a big photograph on the wall.",
+    "There's a big poster on the wall."
+   ],
+   "rule": "Sifat: a + sifat + ot tartibi"
+  },
+  {
+   "part": 0,
+   "uz": "Oshxonada bitta deraza bor.",
+   "en": [
+    "There is a window in the kitchen.",
+    "There's a window in the kitchen."
+   ],
+   "rule": "Birlik: There is a + birlikdagi ot"
+  },
+  {
+   "part": 0,
+   "uz": "Stol tagida it bor.",
+   "en": [
+    "There is a dog under the table.",
+    "There's a dog under the desk."
+   ],
+   "rule": "O'rin-joy: under prepozitsiyasi ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Uyda ikkita hammom bor.",
+   "en": [
+    "There are two bathrooms in the house."
+   ],
+   "rule": "Ko'plik: There are + son + ot"
+  },
+  {
+   "part": 0,
+   "uz": "Shaharda yangi supermarket bor.",
+   "en": [
+    "There is a new supermarket in the town.",
+    "There's a new supermarket in the city."
+   ],
+   "rule": "Birlik: There is a + birlikdagi ot"
+  },
+  {
+   "part": 0,
+   "uz": "Divanda mushuk bor.",
+   "en": [
+    "There is a cat on the sofa.",
+    "There's a cat on the sofa."
+   ],
+   "rule": "O'rin-joy: on prepozitsiyasi ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Muzlatgichda bir oz suv bor.",
+   "en": [
+    "There is some water in the fridge.",
+    "There's some water in the fridge."
+   ],
+   "rule": "Sanalmaydigan ot: some ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Devorda soat bor.",
+   "en": [
+    "There is a clock on the wall.",
+    "There's a clock on the wall."
+   ],
+   "rule": "Birlik: There is a + birlikdagi ot"
+  },
+  {
+   "part": 0,
+   "uz": "Xonada ikkita chiroq bor.",
+   "en": [
+    "There are two lamps in the room."
+   ],
+   "rule": "Ko'plik: There are + son + ot"
+  },
+  {
+   "part": 0,
+   "uz": "Stol ustida kitoblar bor.",
+   "en": [
+    "There are books on the table.",
+    "There are books on the desk."
+   ],
+   "rule": "Ko'plik: There are + ko'plikdagi ot"
+  },
+  {
+   "part": 0,
+   "uz": "Shahrimizda kafe bor.",
+   "en": [
+    "There is a cafe in our town.",
+    "There's a cafe in our city."
+   ],
+   "rule": "Egalik: our olmoshi ishlatiladi"
+  },
+  {
+   "part": 0,
+   "uz": "Sumkada kalitlar bor.",
+   "en": [
+    "There are keys in the bag."
+   ],
+   "rule": "Ko'plik: There are + ko'plikdagi ot"
+  },
+  {
+   "part": 0,
+   "uz": "Uyda kichkina oshxona bor.",
+   "en": [
+    "There is a small kitchen in the house.",
+    "There's a small kitchen in the house."
+   ],
+   "rule": "Sifat: a + sifat + ot tartibi"
+  },
+  {
+   "part": 0,
+   "uz": "Stol ustida gazeta bor.",
+   "en": [
+    "There is a newspaper on the table.",
+    "There's a newspaper on the desk."
+   ],
+   "rule": "Birlik: There is a + birlikdagi ot"
+  },
+  {
+   "part": 0,
+   "uz": "Xonada kompyuter bor.",
+   "en": [
+    "There is a computer in the room.",
+    "There's a computer in the room."
+   ],
+   "rule": "Birlik: There is a + birlikdagi ot"
+  },
+  {
+   "part": 1,
+   "uz": "Xonada televizor yo'q.",
+   "en": [
+    "There isn't a TV in the room.",
+    "There is not a television in the room."
+   ],
+   "rule": "Inkor: There isn't a + ot"
+  },
+  {
+   "part": 1,
+   "uz": "Oshxonada stullar yo'q.",
+   "en": [
+    "There aren't any chairs in the kitchen.",
+    "There are not any chairs in the kitchen."
+   ],
+   "rule": "Inkor: There aren't any + ot"
+  },
+  {
+   "part": 1,
+   "uz": "Sumkada kitoblar yo'q.",
+   "en": [
+    "There aren't any books in the bag."
+   ],
+   "rule": "Inkor: There aren't any + ot"
+  },
+  {
+   "part": 1,
+   "uz": "Bu shaharda vokzal yo'q.",
+   "en": [
+    "There isn't a station in this town.",
+    "There is not a station in this city."
+   ],
+   "rule": "Inkor: There isn't a + ot"
+  },
+  {
+   "part": 1,
+   "uz": "Muzlatgichda pishloq yo'q.",
+   "en": [
+    "There isn't any cheese in the fridge.",
+    "There is not any cheese in the fridge."
+   ],
+   "rule": "Sanalmaydigan: There isn't any + ot"
+  },
+  {
+   "part": 1,
+   "uz": "Devorda posterlar yo'q.",
+   "en": [
+    "There aren't any posters on the wall."
+   ],
+   "rule": "Inkor: There aren't any + ot"
+  },
+  {
+   "part": 1,
+   "uz": "Karavot ostida poyabzal yo'q.",
+   "en": [
+    "There aren't any shoes under the bed."
+   ],
+   "rule": "Inkor: There aren't any + ot"
+  },
+  {
+   "part": 1,
+   "uz": "Uyda telefon yo'q.",
+   "en": [
+    "There isn't a phone in the house.",
+    "There is not a phone in the home."
+   ],
+   "rule": "Inkor: There isn't a + ot"
+  },
+  {
+   "part": 1,
+   "uz": "Stol ustida kompyuter yo'q.",
+   "en": [
+    "There isn't a computer on the desk.",
+    "There is not a computer on the table."
+   ],
+   "rule": "Inkor: There isn't a + ot"
+  },
+  {
+   "part": 1,
+   "uz": "Parkda odamlar yo'q.",
+   "en": [
+    "There aren't any people in the park."
+   ],
+   "rule": "Inkor: There aren't any + people"
+  }
+ ],
+ "tr51": [
+  {
+   "part": 1,
+   "uz": "Xonada televizor yo'q.",
+   "en": [
+    "There isn't a television in the room.",
+    "There isn't a TV in the room."
+   ],
+   "rule": "Birlikda inkor: There isn't a..."
+  },
+  {
+   "part": 1,
+   "uz": "Oshxonada stullar yo'q.",
+   "en": [
+    "There aren't any chairs in the kitchen."
+   ],
+   "rule": "Ko'plikda inkor: There aren't any..."
+  },
+  {
+   "part": 1,
+   "uz": "Stol ustida kompyuter yo'q.",
+   "en": [
+    "There isn't a computer on the desk.",
+    "There isn't a computer on the table."
+   ],
+   "rule": "Birlikda inkor: There isn't a..."
+  },
+  {
+   "part": 1,
+   "uz": "Muzlatgichda suv yo'q.",
+   "en": [
+    "There isn't any water in the fridge."
+   ],
+   "rule": "Sanalmaydigan otlarda inkor: There isn't any..."
+  },
+  {
+   "part": 1,
+   "uz": "Sumkamda lug'at yo'q.",
+   "en": [
+    "There isn't a dictionary in my bag."
+   ],
+   "rule": "Birlikda inkor: There isn't a..."
+  },
+  {
+   "part": 1,
+   "uz": "Ushbu shaharda teatrlar yo'q.",
+   "en": [
+    "There aren't any theatres in this town.",
+    "There aren't any theatres in this city."
+   ],
+   "rule": "Ko'plikda inkor: There aren't any..."
+  },
+  {
+   "part": 1,
+   "uz": "Yotoqxonada rasm yo'q.",
+   "en": [
+    "There isn't a picture in the bedroom.",
+    "There isn't a photograph in the bedroom."
+   ],
+   "rule": "Birlikda inkor: There isn't a..."
+  },
+  {
+   "part": 1,
+   "uz": "Kasalxonada shifokorlar yo'q.",
+   "en": [
+    "There aren't any doctors in the hospital."
+   ],
+   "rule": "Ko'plikda inkor: There aren't any..."
+  },
+  {
+   "part": 1,
+   "uz": "Mening uyimda kompyuter yo'q.",
+   "en": [
+    "There isn't a computer in my house."
+   ],
+   "rule": "Birlikda inkor: There isn't a..."
+  },
+  {
+   "part": 1,
+   "uz": "Bog'da bolalar yo'q.",
+   "en": [
+    "There aren't any children in the park."
+   ],
+   "rule": "Ko'plikda inkor: There aren't any..."
+  },
+  {
+   "part": 1,
+   "uz": "Stolning g'aladonida qalamlar yo'q.",
+   "en": [
+    "There aren't any pens in the drawer."
+   ],
+   "rule": "Inkor gapda ko'plik bilan 'any' ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Bu yerda avtobus bekati yo'q.",
+   "en": [
+    "There isn't a bus station here."
+   ],
+   "rule": "Birlikda inkor: There isn't a..."
+  },
+  {
+   "part": 1,
+   "uz": "Xonada derazalar yo'q.",
+   "en": [
+    "There aren't any windows in the room."
+   ],
+   "rule": "Ko'plikda inkor: There aren't any..."
+  },
+  {
+   "part": 1,
+   "uz": "Mening xonamda chiroq yo'q.",
+   "en": [
+    "There isn't a lamp in my room."
+   ],
+   "rule": "Birlikda inkor: There isn't a..."
+  },
+  {
+   "part": 1,
+   "uz": "Stol ustida stakanlar yo'q.",
+   "en": [
+    "There aren't any cups on the table."
+   ],
+   "rule": "Ko'plikda inkor: There aren't any..."
+  },
+  {
+   "part": 1,
+   "uz": "Bu shaharda supermarketlar yo'q.",
+   "en": [
+    "There aren't any supermarkets in this town."
+   ],
+   "rule": "Ko'plikda inkor: There aren't any..."
+  },
+  {
+   "part": 1,
+   "uz": "Uning sumkasida kalitlar yo'q.",
+   "en": [
+    "There aren't any keys in her bag."
+   ],
+   "rule": "Ko'plikda inkor: There aren't any..."
+  },
+  {
+   "part": 1,
+   "uz": "Uyda non yo'q.",
+   "en": [
+    "There isn't any bread in the house."
+   ],
+   "rule": "Sanalmaydigan ot bilan 'any' ishlatiladi."
+  },
+  {
+   "part": 1,
+   "uz": "Devorda posterlar yo'q.",
+   "en": [
+    "There aren't any posters on the wall."
+   ],
+   "rule": "Ko'plikda inkor: There aren't any..."
+  },
+  {
+   "part": 1,
+   "uz": "Mehmonxonada odamlar yo'q.",
+   "en": [
+    "There aren't any people in the hotel."
+   ],
+   "rule": "People - ko'plik ot, 'aren't' ishlatiladi."
+  },
+  {
+   "part": 2,
+   "uz": "Xonada divan bormi?",
+   "en": [
+    "Is there a sofa in the room?"
+   ],
+   "rule": "Birlikda so'roq: Is there a...?"
+  },
+  {
+   "part": 2,
+   "uz": "Stol ustida kitoblar bormi?",
+   "en": [
+    "Are there any books on the table?"
+   ],
+   "rule": "Ko'plikda so'roq: Are there any...?"
+  },
+  {
+   "part": 2,
+   "uz": "Ushbu shaharda kinoteatr bormi?",
+   "en": [
+    "Is there a cinema in this town?"
+   ],
+   "rule": "Birlikda so'roq: Is there a...?"
+  },
+  {
+   "part": 2,
+   "uz": "Oshxonada nechta stul bor?",
+   "en": [
+    "How many chairs are there in the kitchen?"
+   ],
+   "rule": "Soni so'ralganda: How many + ko'plik ot."
+  },
+  {
+   "part": 2,
+   "uz": "Sumkangizda birorta lug'at bormi?",
+   "en": [
+    "Is there a dictionary in your bag?",
+    "Are there any dictionaries in your bag?"
+   ],
+   "rule": "Birlik so'roq: Is there a...?"
+  },
+  {
+   "part": 2,
+   "uz": "Uyda nechta yotoqxona bor?",
+   "en": [
+    "How many bedrooms are there in the house?"
+   ],
+   "rule": "How many + ko'plik ot."
+  },
+  {
+   "part": 2,
+   "uz": "Stol ustida chiroq bormi?",
+   "en": [
+    "Is there a lamp on the desk?",
+    "Is there a lamp on the table?"
+   ],
+   "rule": "Birlikda so'roq: Is there a...?"
+  },
+  {
+   "part": 2,
+   "uz": "Yaqin atrofda bank bormi?",
+   "en": [
+    "Is there a bank near here?"
+   ],
+   "rule": "Birlikda so'roq: Is there a...?"
+  },
+  {
+   "part": 2,
+   "uz": "Ushbu binoda nechta xona bor?",
+   "en": [
+    "How many rooms are there in this building?"
+   ],
+   "rule": "How many + ko'plik ot."
+  },
+  {
+   "part": 2,
+   "uz": "Muzlatgichda birorta tuxum bormi?",
+   "en": [
+    "Are there any eggs in the fridge?"
+   ],
+   "rule": "Ko'plikda so'roq: Are there any...?"
+  },
+  {
+   "part": 2,
+   "uz": "Devorda rasm bormi?",
+   "en": [
+    "Is there a picture on the wall?",
+    "Is there a photograph on the wall?"
+   ],
+   "rule": "Birlikda so'roq: Is there a...?"
+  },
+  {
+   "part": 2,
+   "uz": "Sizning qishlog'ingizda maktab bormi?",
+   "en": [
+    "Is there a school in your village?"
+   ],
+   "rule": "Birlikda so'roq: Is there a...?"
+  },
+  {
+   "part": 2,
+   "uz": "Sumkada nechta kitob bor?",
+   "en": [
+    "How many books are there in the bag?"
+   ],
+   "rule": "How many + ko'plik ot."
+  },
+  {
+   "part": 2,
+   "uz": "Qishloqda birorta do'kon bormi?",
+   "en": [
+    "Are there any shops in the village?"
+   ],
+   "rule": "Ko'plikda so'roq: Are there any...?"
+  },
+  {
+   "part": 2,
+   "uz": "Oshxonada stol bormi?",
+   "en": [
+    "Is there a table in the kitchen?"
+   ],
+   "rule": "Birlikda so'roq: Is there a...?"
+  },
+  {
+   "part": 2,
+   "uz": "Bu yerda nechta talaba bor?",
+   "en": [
+    "How many students are there here?"
+   ],
+   "rule": "Soni so'ralganda: How many...?"
+  },
+  {
+   "part": 2,
+   "uz": "Sumkangizda birorta qalam bormi?",
+   "en": [
+    "Are there any pens in your bag?"
+   ],
+   "rule": "Ko'plikda so'roq: Are there any...?"
+  },
+  {
+   "part": 2,
+   "uz": "Mehmonxonada televizor bormi?",
+   "en": [
+    "Is there a television in the hotel?",
+    "Is there a TV in the hotel?"
+   ],
+   "rule": "Birlikda so'roq: Is there a...?"
+  },
+  {
+   "part": 2,
+   "uz": "Ushbu shaharda nechta kasalxona bor?",
+   "en": [
+    "How many hospitals are there in this city?"
+   ],
+   "rule": "How many + ko'plik ot."
+  },
+  {
+   "part": 2,
+   "uz": "Stolda birorta gazeta bormi?",
+   "en": [
+    "Are there any newspapers on the table?"
+   ],
+   "rule": "Ko'plikda so'roq: Are there any...?"
+  },
+  {
+   "part": 2,
+   "uz": "Xonada nechta deraza bor?",
+   "en": [
+    "How many windows are there in the room?"
+   ],
+   "rule": "How many + ko'plik ot."
+  },
+  {
+   "part": 2,
+   "uz": "Shkafda birorta kiyim bormi?",
+   "en": [
+    "Are there any clothes in the cupboard?"
+   ],
+   "rule": "Ko'plikda so'roq: Are there any...?"
+  },
+  {
+   "part": 2,
+   "uz": "Yaqin atrofda kafe bormi?",
+   "en": [
+    "Is there a cafe near here?"
+   ],
+   "rule": "Birlikda so'roq: Is there a...?"
+  },
+  {
+   "part": 2,
+   "uz": "Bu shaharda nechta avtobus bor?",
+   "en": [
+    "How many buses are there in this town?"
+   ],
+   "rule": "How many + ko'plik ot."
+  },
+  {
+   "part": 2,
+   "uz": "Sizning oilangizda nechta bola bor?",
+   "en": [
+    "How many children are there in your family?"
+   ],
+   "rule": "How many + ko'plik ot."
+  },
+  {
+   "part": 2,
+   "uz": "Muzlatgichda suv bormi?",
+   "en": [
+    "Is there any water in the fridge?"
+   ],
+   "rule": "Sanalmaydigan ot: Is there any...?"
+  },
+  {
+   "part": 2,
+   "uz": "Xonada birorta stul bormi?",
+   "en": [
+    "Are there any chairs in the room?"
+   ],
+   "rule": "Ko'plikda so'roq: Are there any...?"
+  },
+  {
+   "part": 2,
+   "uz": "Ushbu shaharda universitet bormi?",
+   "en": [
+    "Is there a university in this city?"
+   ],
+   "rule": "Birlikda so'roq: Is there a...?"
+  },
+  {
+   "part": 2,
+   "uz": "Sizning shahringizda nechta park bor?",
+   "en": [
+    "How many parks are there in your city?"
+   ],
+   "rule": "How many + ko'plik ot."
+  },
+  {
+   "part": 2,
+   "uz": "Bu yerda internet kafe bormi?",
+   "en": [
+    "Is there an internet cafe here?"
+   ],
+   "rule": "Birlikda so'roq: Is there an...?"
+  }
+ ]
+}

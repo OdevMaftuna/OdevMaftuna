@@ -1,0 +1,230 @@
+[
+ {
+  "name": "Present simple passive",
+  "name_uz": "Hozirgi oddiy majhul nisbat",
+  "summary": "Present simple passive (am/is/are + V3) fe'li ish-harakatni bajarmasdan, balki uning ustida bajarilishini bildirish uchun ishlatiladi. Bunda e'tibor harakatni kim qilganiga emas, balki kim yoki nima jabr ko'rgani yoki yaratilganiga qaratiladi.",
+  "usage": [
+   {
+    "text": "Doimiy takrorlanadigan yoki odatiy ishlarda, kim bajarishi muhim bo'lmaganda.",
+    "example": {
+     "en": "English is spoken all over the world.",
+     "uz": "Butun dunyoda ingliz tili gapiriladi."
+    }
+   },
+   {
+    "text": "Buyumlar qayerda tayyorlanishi yoki o'stirilishini aytganda.",
+    "example": {
+     "en": "Cars are made in this factory.",
+     "uz": "Bu zavodda mashinalar yasaladi."
+    }
+   },
+   {
+    "text": "Qoidalar va umumiy haqiqatlarni ifodalashda.",
+    "example": {
+     "en": "Photographs are not allowed here.",
+     "uz": "Bu yerda suratga olishga ruxsat berilmaydi."
+    }
+   }
+  ],
+  "structure": [
+   {
+    "type": "+",
+    "formula": "Subject + am/is/are + V3 (Past Participle)",
+    "example": {
+     "en": "The test is written by students.",
+     "uz": "Test o'quvchilar tomonidan yoziladi."
+    }
+   },
+   {
+    "type": "-",
+    "formula": "Subject + am/is/are + not + V3",
+    "example": {
+     "en": "The room is not cleaned every day.",
+     "uz": "Xona har kuni tozalanmaydi."
+    }
+   },
+   {
+    "type": "?",
+    "formula": "Am/Is/Are + Subject + V3?",
+    "example": {
+     "en": "Are these phones sold here?",
+     "uz": "Bu telefonlar shu yerda sotiladimi?"
+    }
+   },
+   {
+    "type": "short",
+    "formula": "Yes, Subject + am/is/are / No, Subject + aren't/isn't",
+    "example": {
+     "en": "Yes, they are. / No, they aren't.",
+     "uz": "Ha, sotiladi. / Yo'q, sotilmaydi."
+    }
+   }
+  ],
+  "signals": [
+   {
+    "en": "every day",
+    "uz": "har kuni"
+   },
+   {
+    "en": "usually",
+    "uz": "odatda"
+   },
+   {
+    "en": "always",
+    "uz": "doim"
+   },
+   {
+    "en": "in general",
+    "uz": "umumiy ma'noda"
+   },
+   {
+    "en": "all over the world",
+    "uz": "butun dunyoda"
+   }
+  ],
+  "tip": "Eslatma: Passive gaplarda asosiy fe'l doimo V3 (uchinchi shakl) yoki noto'g'ri fe'llarning uchinchi ustunidagi ko'rinishida bo'lishi shart!"
+ },
+ {
+  "name": "Past simple passive",
+  "name_uz": "O'tgan oddiy majhul nisbat",
+  "summary": "Past simple passive (was/were + V3) o'tmishda sodir bo'lgan ish-harakatning kim tomonidan qilinganidan ko'ra, kim yoki nima ustida bajarilganiga urg'u berish uchun ishlatiladi.",
+  "usage": [
+   {
+    "text": "O'tmishda aniq vaqtda sodir bo'lgan ishlar haqida gapirganda.",
+    "example": {
+     "en": "The window was broken yesterday.",
+     "uz": "Deraza kecha sindirildi."
+    }
+   },
+   {
+    "text": "Tarixiy voqealar, ixtirolar va asarlarni tasvirlashda.",
+    "example": {
+     "en": "America was discovered in 1492.",
+     "uz": "Amerika 1492-yilda kashf etilgan."
+    }
+   },
+   {
+    "text": "Binolar qurilgan vaqtni ko'rsatishda.",
+    "example": {
+     "en": "This school was built in 2010.",
+     "uz": "Bu maktab 2010-yilda qurilgan."
+    }
+   }
+  ],
+  "structure": [
+   {
+    "type": "+",
+    "formula": "Subject + was/were + V3",
+    "example": {
+     "en": "The book was read by me.",
+     "uz": "Kitob men tomonimdan o'qildi."
+    }
+   },
+   {
+    "type": "-",
+    "formula": "Subject + wasn't/weren't + V3",
+    "example": {
+     "en": "The letters were not sent.",
+     "uz": "Xatlar yuborilmadi."
+    }
+   },
+   {
+    "type": "?",
+    "formula": "Was/Were + Subject + V3?",
+    "example": {
+     "en": "Was the car stolen?",
+     "uz": "Mashina o'g'irlandimi?"
+    }
+   },
+   {
+    "type": "short",
+    "formula": "Yes, Subject + was/were / No, Subject + wasn't/weren't",
+    "example": {
+     "en": "Yes, it was. / No, it wasn't.",
+     "uz": "Ha, o'g'irlandi. / Yo'q, o'g'irlanmadi."
+    }
+   }
+  ],
+  "signals": [
+   {
+    "en": "yesterday",
+    "uz": "kecha"
+   },
+   {
+    "en": "last week",
+    "uz": "o'tgan hafta"
+   },
+   {
+    "en": "in 1995",
+    "uz": "1995-yilda"
+   },
+   {
+    "en": "two days ago",
+    "uz": "ikki kun oldin"
+   },
+   {
+    "en": "in the past",
+    "uz": "o'tmishda"
+   }
+  ],
+  "tip": "Eslatma: 'I', 'he', 'she', 'it' olmoshlari bilan 'was', qolgan ('we', 'you', 'they') olmoshlar bilan esa 'were' ishlatilishini unutmang."
+ },
+ {
+  "name": "by + agent and passive questions",
+  "name_uz": "\"by\" yordamida bajaruvchini ko'rsatish va majhul nisbatdagi savollar",
+  "summary": "Passive gaplarda ish-harakatni kim bajarganini ko'rsatish uchun 'by' so'zi ishlatiladi. Savol tuzganda esa yordamchi fe'l (am/is/are/was/were) egadan oldinga chiqariladi.",
+  "usage": [
+   {
+    "text": "Harakatni kim yoki nima bajarganini (agentni) aniq ko'rsatish zarur bo'lganda 'by' qo'shiladi.",
+    "example": {
+     "en": "This song was written by Ed Sheeran.",
+     "uz": "Bu qo'shiq Ed Sheeran tomonidan yozilgan."
+    }
+   },
+   {
+    "text": "Majhul nisbatda ma'lumot olish uchun savollar tuzishda.",
+    "example": {
+     "en": "When was the phone invented?",
+     "uz": "Telefon qachon ixtiro qilingan?"
+    }
+   }
+  ],
+  "structure": [
+   {
+    "type": "+",
+    "formula": "Subject + to be + V3 + by + agent",
+    "example": {
+     "en": "The picture was painted by Picasso.",
+     "uz": "Rasm Pikasso tomonidan chizilgan."
+    }
+   },
+   {
+    "type": "?",
+    "formula": "Wh-word + am/is/are/was/were + Subject + V3?",
+    "example": {
+     "en": "Where are these cars made?",
+     "uz": "Bu mashinalar qayerda yasaladi?"
+    }
+   }
+  ],
+  "signals": [
+   {
+    "en": "Who by?",
+    "uz": "Kim tomonidan?"
+   },
+   {
+    "en": "created by",
+    "uz": "tomonidan yaratilgan"
+   },
+   {
+    "en": "written by",
+    "uz": "tomonidan yozilgan"
+   },
+   {
+    "en": "directed by",
+    "uz": "tomonidan suratga olingan"
+   }
+  ],
+  "tip": "Eslatma: Agar harakatni kim qilgani noma'lum bo'lsa yoki bu muhim emas deb topilsa, 'by + agent' qismini yozish shart emas."
+ }
+]

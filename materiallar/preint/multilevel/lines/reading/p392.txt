@@ -1,0 +1,39 @@
+﻿65`t17`t83`tPort 5
+120`t21`t111`tExercise 18
+168`t21`t110`tRead the following text for questions '*6.
+212`t20`t353`tSan Francisco
+71`t16`t743`t391
+252`t21`t110`tThe San Francisco ot today has a rich and colourful history. starting in
+281`t21`t84`t1776* when it was founded by colonists from Spain, through The California
+309`t23`t84`tGold Rush of 1849, to being rebuilt after the 1906 earthquake and fire. In
+338`t21`t84`tall this time it has seen some dark days, but none darker than the present.
+366`t21`t84`tIt became famous as the home Of technology with its Silicon Valley, and
+393`t22`t84`tthe relationship the city has with this industry is the cause ot 211 the pain,
+422`t21`t84`tbecause Of a proposal to levy a 'tech ta;e on the companies that have fueled
+450`t21`t84`tthe city's transformation into a place that is increasingly uninhabitable tor
+479`t21`t84`tpeople on low or medium incomes.
+506`t21`t111`tUnder the plan, large tech employers in the cityr potentially including
+534`t21`t84`tGoogle, Twitter, Uber, Airbnb and Salesforce, would be required to pay a
+563`t20`t84`t1.5% payroll tax. The estimated S120m in annual revenue would be used
+591`t21`t84`tto fund affordable housing and services for the city's large homeless pop-
+618`t21`t84`tulation - of homes there are worth more than 51m, but hundreds of
+648`t21`t84`tpeople sleep in tents on the street every night*
+675`t21`t110`tThe rapid tech boom in the city threatens its ability to thrive and pros-
+704`t21`t84`tper because every week brings new outrages, whether it's the tenant in
+732`t21`t84`tNorth Beach who, it emerged this week, received a notice informing him
+759`t21`t84`tthat his rent was increasing from $1,800 a month to $8,000, or the kin-
+788`t22`t84`tdergarten teacher whose building was bought by two tech workers it
+816`t21`t84`twas revealed this month, is now facing eviction for nuisance violations that
+846`t21`t84`tinclude using appliances.
+872`t22`t111`tThe city is deeply divided politically between technological evangelists
+900`t21`t84`twho believe passionately in an industry that has spurred the local economy
+929`t21`t84`tand made the already rich even richer, and others who believe the sector's
+957`t21`t84`trecent encroachment into the city is responsible for erasing the city's rich
+986`t21`t84`tculture and sparking a housing crisis.
+1013`t21`t113`tMeanwhile, more than a few tech workers have gained viral notoriety for
+1041`t21`t84`tanti-homeless screeds, such as a February 2016 open letter that included
+1070`t21`t84`tthe complaint, shouldn't have to see the pain, struggle and despair Of
+1098`t21`t84`thomeless people to and from my way to work every day.'
+1125`t20`t111`tA seminal moment came in 2011, when homegrown Twitter threatened
+1154`t22`t84`tto decamp somewhere cheaper and more business friendly. The city re-
+1197`t18`t682`tmytests.uz

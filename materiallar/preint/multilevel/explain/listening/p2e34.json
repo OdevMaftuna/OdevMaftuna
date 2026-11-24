@@ -1,0 +1,35 @@
+{
+ "script": "Speaker: Good morning everyone. After a good night's sleep, I hope you have all recovered from your long journey and are now ready to begin the holiday of a lifetime at the Oasis Hotel. My name is Stephen and I am your Sunny Tours rep for the week. You can usually find me chatting to holidaymakers somewhere in the hotel, or you can leave a message for me in my office next to the bar and I'll get back to you. I'm always in the office between 10 and 11 in the morning or 6 and 7 in the evening. Now, I'd like to tell you about the midweek excursion to the volcano. This is always a very popular excursion, so I'd advise you to book soon to avoid disappointment. The cost is 20 pounds per person and this includes the coach trip to the harbor, the boat to the volcano, and a welcome drink when you board the boat. You need to take a packed lunch and the hotel can provide one for you at a very reasonable rate if you ask them the night before. The coach leaves at 9 o'clock sharp from outside the main entrance and will return at 5 pm, just in time for dinner. Children over the age of 12 are welcome. Unfortunately, the excursion is not suitable for younger children. The hotel has a creche and toddler club which opens at 7:30 am for four hours and then again in the early evening between 6 and 8. You may already have seen that the hotel has a fantastic state-of-the-art gym. This is free to all hotel guests. A massage facility, hair styling, aerobics classes, and yoga classes are on offer. The first costs 5 pounds an hour and yoga is offered for 4.50 pounds an hour. On Sunday morning, the fitness instructors offer water aerobics at 10 am, followed by circuit training back in the gym at 11:15. Well, that's all for now. Are there any questions?",
+ "items": [
+  {
+   "n": 1,
+   "quote": "leave a message for me in my office",
+   "uz": "Stephen soat 10-11 va 18-19 oralig'ida ofisida (office) bo'lishini aytadi. \"Bar\" so'zi ofisning joylashgan o'rnini bildiradi, u javob emas."
+  },
+  {
+   "n": 2,
+   "quote": "You need to take a packed lunch",
+   "uz": "Ekskursiya narxiga hamma narsa kiradi, lekin tushlik (lunch) kirmaydi, uni o'zingiz bilan olishingiz kerak. \"Drink\" (ichimlik) narxga kiritilgan."
+  },
+  {
+   "n": 3,
+   "quote": "Children over the age of 12 are welcome",
+   "uz": "12 yoshdan oshgan bolalar qabul qilinadi, demak 12 yoshdan kichiklar (under the age of 12) qatnasha olmaydi."
+  },
+  {
+   "n": 4,
+   "quote": "opens at 7:30 am for four hours",
+   "uz": "Bog'cha 7:30 da ochiladi va 4 soat ishlaydi, demak u 11:30 da yopiladi (7:30 + 4 = 11:30)."
+  },
+  {
+   "n": 5,
+   "quote": "yoga is offered for 4.50 pounds an hour",
+   "uz": "Yoga darslari narxi aynan 4.50 funt ekanligi aytiladi. 5 funt boshqa xizmatlar (massaj, soch turmaklash) uchun narx."
+  },
+  {
+   "n": 6,
+   "quote": "fitness instructors offer water aerobics at 10 am",
+   "uz": "Yakshanba kuni soat 10 da hovuzda suv aerobikasi (aerobics) darsi o'tiladi. \"Circuit training\" sport zalida o'tiladigan boshqa mashg'ulotdir."
+  }
+ ]
+}

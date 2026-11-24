@@ -1,0 +1,1453 @@
+{
+ "unit": 4,
+ "parts": [
+  [
+   {
+    "kind": "verb",
+    "q": "Timur is ______ his brother Bobur.",
+    "hint": "tall",
+    "options": [],
+    "answer": "taller than",
+    "accept": [],
+    "explain": "Gapda ikkita shaxs solishtirilyapti va «than» so‘zi bor, shuning uchun qiyosiy daraja: taller than.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "This is ______ film I have ever seen.",
+    "hint": "interesting",
+    "options": [],
+    "answer": "the most interesting",
+    "accept": [],
+    "explain": "Gapda «ever seen» orqali eng oliy daraja so‘ralmoqda, shuning uchun: the most interesting.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Gulnara is ______ girl in our class.",
+    "hint": "smart",
+    "options": [],
+    "answer": "the smartest",
+    "accept": [
+     "the cleverest"
+    ],
+    "explain": "Sinfdoshlar orasida eng aqllisi nazarda tutilyapti, shuning uchun orttirma daraja: the smartest.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "My bag is ______ your bag.",
+    "hint": "heavy",
+    "options": [],
+    "answer": "heavier than",
+    "accept": [],
+    "explain": "Ikki sumka solishtirilyapti, «than» so‘zi bor, shuning uchun: heavier than.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Today is ______ day of the year.",
+    "hint": "hot",
+    "options": [],
+    "answer": "the hottest",
+    "accept": [],
+    "explain": "Yilning eng issiq kuni haqida gap ketmoqda, shuning uchun orttirma daraja: the hottest.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Aziz runs ______ Rustam.",
+    "hint": "fast",
+    "options": [],
+    "answer": "faster than",
+    "accept": [],
+    "explain": "Ikki kishining tezligi solishtirilyapti, «than» ishlatilgan, shuning uchun: faster than.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Mount Everest is ______ mountain in the world.",
+    "hint": "high",
+    "options": [],
+    "answer": "the highest",
+    "accept": [],
+    "explain": "Dunyo bo‘yicha eng baland tog‘ nazarda tutilyapti, shuning uchun: the highest.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "English is ______ math for me.",
+    "hint": "easy",
+    "options": [],
+    "answer": "easier than",
+    "accept": [],
+    "explain": "Fanlar o‘zaro solishtirilyapti va «than» bor, shuning uchun: easier than.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "This exercise is ______ than the previous one.",
+    "hint": "much / hard",
+    "options": [],
+    "answer": "much harder",
+    "accept": [],
+    "explain": "Qiyosiy daraja «much» bilan kuchaytirilmoqda, shuning uchun: much harder.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "She is ______ student in the school.",
+    "hint": "good",
+    "options": [],
+    "answer": "the best",
+    "accept": [],
+    "explain": "Maktabdagi eng yaxshi o‘quvchi, «good» so‘zining orttirma darajasi: the best.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Winter is ______ season in Tashkent.",
+    "hint": "cold",
+    "options": [],
+    "answer": "the coldest",
+    "accept": [],
+    "explain": "Toshkentdagi eng sovuq fasl haqida gap ketyapti, shuning uchun: the coldest.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "He is ______ player in the team.",
+    "hint": "bad",
+    "options": [],
+    "answer": "the worst",
+    "accept": [],
+    "explain": "Jamoadagi eng yomon o‘yinchi, «bad» so‘zining orttirma darajasi: the worst.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "This room is ______ small for five people.",
+    "hint": "too",
+    "options": [],
+    "answer": "too",
+    "accept": [],
+    "explain": "Yetarli emaslik yoki me’yordan ortiqlik «too» orqali bildiriladi: too small.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Is this tea warm ______ for you?",
+    "hint": "enough",
+    "options": [],
+    "answer": "enough",
+    "accept": [],
+    "explain": "Sifatdan keyin kelib yetarlilikni bildiruvchi so‘z: enough.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "We don't have ______ money to buy a car.",
+    "hint": "enough",
+    "options": [],
+    "answer": "enough",
+    "accept": [],
+    "explain": "Ism oldidan kelib yetarlilikni bildiruvchi so‘z: enough money.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "The soup is ______ hot to eat right now.",
+    "hint": "too",
+    "options": [],
+    "answer": "too",
+    "accept": [],
+    "explain": "Juda issiqligidan yeb bo‘lmasligini ko‘rsatadi: too hot.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "She has ______ experience for this job.",
+    "hint": "enough",
+    "options": [],
+    "answer": "enough",
+    "accept": [],
+    "explain": "Ism oldidan «yetarli» ma’nosini beruvchi so‘z: enough experience.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "He is not tall ______ to play basketball.",
+    "hint": "enough",
+    "options": [],
+    "answer": "enough",
+    "accept": [],
+    "explain": "Sifatdan keyin yetarlilikni bildiradi: tall enough.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "It is ______ noisy in this street.",
+    "hint": "too",
+    "options": [],
+    "answer": "too",
+    "accept": [],
+    "explain": "Me’yordan ortiq shovqinli ekanini bildiradi: too noisy.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Do we have ______ chairs for everyone?",
+    "hint": "enough",
+    "options": [],
+    "answer": "enough",
+    "accept": [],
+    "explain": "O‘rinlar yetarliligini so‘rash uchun ism oldidan «enough» keladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "The box is ______ heavy for me to lift.",
+    "hint": "too",
+    "options": [],
+    "answer": "too",
+    "accept": [],
+    "explain": "Ko‘tarib bo‘lmas darajada og‘irligini bildiradi: too heavy.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "She didn't sleep ______ hours last night.",
+    "hint": "enough",
+    "options": [],
+    "answer": "enough",
+    "accept": [],
+    "explain": "Soatlar soni yetmaganini bildirish uchun ism oldidan: enough hours.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "This dress is ______ expensive for my budget.",
+    "hint": "too",
+    "options": [],
+    "answer": "too",
+    "accept": [],
+    "explain": "Budjet uchun me’yordan qimmatligini bildiradi: too expensive.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Are you warm ______ in that light jacket?",
+    "hint": "enough",
+    "options": [],
+    "answer": "enough",
+    "accept": [],
+    "explain": "Sifatdan keyin yetarlilikni bildiruvchi so‘z: warm enough.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "There are ______ people in the shop today.",
+    "hint": "too many",
+    "options": [],
+    "answer": "too many",
+    "accept": [],
+    "explain": "Sanoqli ismlar bilan me’yordan ko‘pligini bildirish uchun: too many.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "He drinks ______ coffee every morning.",
+    "hint": "too much",
+    "options": [],
+    "answer": "too much",
+    "accept": [],
+    "explain": "Sanab bo‘lmaydigan ism bilan me’yordan ko‘pligini bildirish uchun: too much.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "That test was ______ difficult for the students.",
+    "hint": "too",
+    "options": [],
+    "answer": "too",
+    "accept": [],
+    "explain": "O‘quvchilar uchun o‘ta qiyin bo‘lganini bildiradi: too difficult.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Do you have ______ time to finish the project?",
+    "hint": "enough",
+    "options": [],
+    "answer": "enough",
+    "accept": [],
+    "explain": "Vaqt yetarliligini so‘rash uchun ism oldidan: enough time.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "The music is ______ loud, please turn it down.",
+    "hint": "too",
+    "options": [],
+    "answer": "too",
+    "accept": [],
+    "explain": "Me’yordan balandligini bildiradi: too loud.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "We have ______ food for the party.",
+    "hint": "enough",
+    "options": [],
+    "answer": "enough",
+    "accept": [],
+    "explain": "Ovqat yetarliligini bildiradi: enough food.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "He drives ______ dangerously on the highway.",
+    "hint": "too",
+    "options": [],
+    "answer": "too",
+    "accept": [],
+    "explain": "Ravish oldidan me’yordan ortiqligini bildiradi: too dangerously.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Is the water warm ______ to swim?",
+    "hint": "enough",
+    "options": [],
+    "answer": "enough",
+    "accept": [],
+    "explain": "Sifatdan keyin kelib yetarlilikni bildiradi: warm enough.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "She bought ______ shoes yesterday.",
+    "hint": "too many",
+    "options": [],
+    "answer": "too many",
+    "accept": [],
+    "explain": "Sanoqli ism oldidan ko‘plikni bildiradi: too many shoes.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "There is ______ salt in this soup.",
+    "hint": "too much",
+    "options": [],
+    "answer": "too much",
+    "accept": [],
+    "explain": "Sanab bo‘lmaydigan ism oldidan ortiqlikni bildiradi: too much salt.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "He is ______ tired to go out tonight.",
+    "hint": "too",
+    "options": [],
+    "answer": "too",
+    "accept": [],
+    "explain": "Charchagani uchun chiqolmasligini bildiradi: too tired.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "I don't have ______ patience for this game.",
+    "hint": "enough",
+    "options": [],
+    "answer": "enough",
+    "accept": [],
+    "explain": "Ism oldidan yetarlilikni bildiradi: enough patience.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "This house is ______ big for just two people.",
+    "hint": "too",
+    "options": [],
+    "answer": "too",
+    "accept": [],
+    "explain": "Odamlar soniga nisbatan o‘ta kattaligini bildiradi: too big.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Samarkand is ______ Bukhara for tourists.",
+    "hint": "old",
+    "options": [],
+    "answer": "older than",
+    "accept": [],
+    "explain": "Gapda solishtiruv bor va «than» so‘zi ishlatilgan. Shuning uchun comparative shakli: older than.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Our school library has ______ books than the local one.",
+    "hint": "many",
+    "options": [],
+    "answer": "more",
+    "accept": [],
+    "explain": "Ko'plikdagi otlar bilan comparative yasash uchun «more» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Malika speaks English ______ her sister.",
+    "hint": "good",
+    "options": [],
+    "answer": "better than",
+    "accept": [],
+    "explain": "«Good» sifatining qiyosiy darajasi «better» bo‘lib, «than» bilan birga keladi.",
+    "wrong": {}
+   }
+  ],
+  [
+   {
+    "kind": "choose",
+    "q": "My new laptop is ______ than my old one.",
+    "hint": "",
+    "options": [
+     "fast",
+     "faster",
+     "fastest",
+     "more fast"
+    ],
+    "answer": "faster",
+    "accept": [],
+    "explain": "Gapda «than» bor va solishtirilyapti, shuning uchun comparative sifat: faster.",
+    "wrong": {
+     "fast": "Solishtirish uchun «-er» yoki «more» kerak.",
+     "fastest": "Bu orttirma daraja, «than» bilan ishlatilmaydi.",
+     "more fast": "Bir bo‘g‘inli so‘zlarga «more» qo‘shilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "That green car is ______ expensive than the red one.",
+    "hint": "",
+    "options": [
+     "most",
+     "more",
+     "much",
+     "too"
+    ],
+    "answer": "more",
+    "accept": [],
+    "explain": "Gapda «than» bor va sifat ikki bo‘g‘inli, shuning uchun comparative: more expensive.",
+    "wrong": {
+     "most": "Bu orttirma daraja uchun ishlatiladi.",
+     "much": "Bu yerda darajani kuchaytirish uchun emas, qiyoslash uchun «more» kerak.",
+     "too": "«Too» sifatdan oldin keladi va «haddan tashqari» ma’nosini beradi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Registan Square is ______ place in Samarkand.",
+    "hint": "",
+    "options": [
+     "more famous",
+     "most famous",
+     "the most famous",
+     "famousest"
+    ],
+    "answer": "the most famous",
+    "accept": [],
+    "explain": "Gapda «in Samarkand» va «the» bor, shuning uchun orttirma daraja: the most famous.",
+    "wrong": {
+     "more famous": "Bu ikki narsani solishtirish uchun ishlatiladi.",
+     "most famous": "Aniqlovchi «the» yetishmayapti.",
+     "famousest": "Ko‘p bo‘g‘inli so‘zlarga «-est» qo‘shilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Feruza is ______ student in our school club.",
+    "hint": "",
+    "options": [
+     "better",
+     "best",
+     "the best",
+     "goodest"
+    ],
+    "answer": "the best",
+    "accept": [],
+    "explain": "Gapda «in our school club» bor, shuning uchun noto‘g‘ri sifatning orttirma darajasi: the best.",
+    "wrong": {
+     "better": "Bu qiyosiy daraja (good - better).",
+     "best": "Orttirma daraja oldidan «the» artikli bo‘lishi shart.",
+     "goodest": "«Good» so‘zi noto‘g‘ri o‘zgaradi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "This physics test was ______ difficult for me to pass.",
+    "hint": "",
+    "options": [
+     "to",
+     "too",
+     "enough",
+     "very"
+    ],
+    "answer": "too",
+    "accept": [],
+    "explain": "Gap oxirida «to pass» fe’li bor, shuning uchun «too» ishlatiladi: too difficult.",
+    "wrong": {
+     "to": "Bu bog‘lovchi yoki yo‘nalish predlogi.",
+     "enough": "«Enough» sifatdan keyin keladi.",
+     "very": "«Very» so‘zidan keyin «to» kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Can you open the window? It is ______ hot in here.",
+    "hint": "",
+    "options": [
+     "too",
+     "enough",
+     "to",
+     "much"
+    ],
+    "answer": "too",
+    "accept": [],
+    "explain": "Salbiy ma’no va darajaning ortiqligini ko‘rsatish uchun «too» kerak: too hot.",
+    "wrong": {
+     "enough": "«Enough» sifatdan keyin keladi.",
+     "to": "Bu boshqa ma’nodagi so‘z.",
+     "much": "Bu yerda yolg‘iz o‘zi mos kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "I have ______ time to finish my homework before dinner.",
+    "hint": "",
+    "options": [
+     "too",
+     "enough",
+     "too much",
+     "too many"
+    ],
+    "answer": "enough",
+    "accept": [],
+    "explain": "Ot (time) dan oldin kelib yetarlilikni bildiradi: enough time.",
+    "wrong": {
+     "too": "Otlar bilan «too» emas, «too much/many» ishlatiladi.",
+     "too much": "Gap ijobiy ma’noda va yetarli vaqt borligini bildiradi.",
+     "too many": "«Time» sanalmaydigan ot."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Are you warm ______ in that thin jacket?",
+    "hint": "",
+    "options": [
+     "too",
+     "enough",
+     "very",
+     "much"
+    ],
+    "answer": "enough",
+    "accept": [],
+    "explain": "Sifatdan keyin kelib yetarlilikni bildiradi: warm enough.",
+    "wrong": {
+     "too": "«Too» sifatdan oldin keladi.",
+     "very": "Bu yerda yetarlilikni bildirmaydi.",
+     "much": "Sifatlar bilan ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "There are ______ cars on the Tashkent roads during rush hour.",
+    "hint": "",
+    "options": [
+     "too much",
+     "too many",
+     "enough",
+     "too"
+    ],
+    "answer": "too many",
+    "accept": [],
+    "explain": "Sanaladigan ko‘plikdagi ot (cars) bilan ortiqchalikni bildirish uchun: too many.",
+    "wrong": {
+     "too much": "Sanalmaydigan otlar bilan ishlatiladi.",
+     "enough": "Ma’no bo‘yicha tirbandlikni bildiradi.",
+     "too": "Otlar bilan ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "He spends ______ money on video games every month.",
+    "hint": "",
+    "options": [
+     "too many",
+     "too much",
+     "enough",
+     "too"
+    ],
+    "answer": "too much",
+    "accept": [],
+    "explain": "Sanalmaydigan ot (money) bilan ortiqchalikni bildirish uchun: too much.",
+    "wrong": {
+     "too many": "Sanaladigan otlar bilan ishlatiladi.",
+     "enough": "Gapda pulni ko‘p sarflash haqida shikoyat bor.",
+     "too": "Otlar bilan ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "My sister draws ______ than I do.",
+    "hint": "",
+    "options": [
+     "good",
+     "better",
+     "best",
+     "the best"
+    ],
+    "answer": "better",
+    "accept": [],
+    "explain": "Gapda «than» bor va «well» ravishining qiyosiy darajasi kerak: better.",
+    "wrong": {
+     "good": "Bu sifat, ravish o‘rniga ishlatilmaydi.",
+     "best": "Orttirma daraja «than» bilan ishlatilmaydi.",
+     "the best": "Bu orttirma daraja."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "This is ______ interesting book I have ever read.",
+    "hint": "",
+    "options": [
+     "more",
+     "most",
+     "the most",
+     "much"
+    ],
+    "answer": "the most",
+    "accept": [],
+    "explain": "Gapda «ever read» va «in» ma’nosi bor, orttirma daraja: the most interesting.",
+    "wrong": {
+     "more": "Bu qiyosiy daraja.",
+     "most": "Aniqlovchi «the» yetishmayapti.",
+     "much": "Orttirma daraja hosil qilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Javohir is not old ______ to drive a car in Uzbekistan.",
+    "hint": "",
+    "options": [
+     "too",
+     "enough",
+     "too much",
+     "very"
+    ],
+    "answer": "enough",
+    "accept": [],
+    "explain": "Sifatdan keyin kelib yetarli yoshda emasligini bildiradi: old enough.",
+    "wrong": {
+     "too": "«Too» sifatdan oldin keladi.",
+     "too much": "Sifatlar bilan ishlatilmaydi.",
+     "very": "Inkor gapda yetarlilikni bildirmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "The tea is ______ cold to drink right now.",
+    "hint": "",
+    "options": [
+     "enough",
+     "too",
+     "too much",
+     "to"
+    ],
+    "answer": "too",
+    "accept": [],
+    "explain": "Sifatdan oldin kelib haddan tashqari salqinligini bildiradi: too cold.",
+    "wrong": {
+     "enough": "«Enough» sifatdan keyin keladi.",
+     "too much": "Sifatlar bilan ishlatilmaydi.",
+     "to": "Xato imlo."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "We don't have ______ chairs for all the guests.",
+    "hint": "",
+    "options": [
+     "too many",
+     "enough",
+     "too much",
+     "too"
+    ],
+    "answer": "enough",
+    "accept": [],
+    "explain": "Sanaladigan ot (chairs) oldidan yetarlilikni bildiradi: enough chairs.",
+    "wrong": {
+     "too many": "Inkor ma’noda yetishmasligini bildiradi.",
+     "too much": "Sanaladigan ko‘plikdagi ot bilan ishlatilmaydi.",
+     "too": "Otlar bilan ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "My father's car is ______ than my uncle's car.",
+    "hint": "",
+    "options": [
+     "big",
+     "bigger",
+     "biggest",
+     "more big"
+    ],
+    "answer": "bigger",
+    "accept": [],
+    "explain": "Gapda «than» bor va «big» so‘zi ikkita harfni ikkilantiradi: bigger.",
+    "wrong": {
+     "big": "Solishtirish uchun «-er» kerak.",
+     "biggest": "Orttirma daraja «than» bilan kelmaydi.",
+     "more big": "Bir bo‘g‘inli so‘zlarga «more» qo‘shilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Chemistry is ______ difficult than history for me.",
+    "hint": "",
+    "options": [
+     "too",
+     "much",
+     "very",
+     "enough"
+    ],
+    "answer": "much",
+    "accept": [],
+    "explain": "Qiyosiy darajani (difficult) kuchaytirish uchun «much» ishlatiladi: much more difficult.",
+    "wrong": {
+     "too": "Qiyosiy daraja oldidan «too» ishlatilmaydi.",
+     "very": "Qiyosiy daraja oldidan «very» emas, «much» ishlatiladi.",
+     "enough": "Ma’noga mos kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "She speaks Japanese ______ than anyone else in class.",
+    "hint": "",
+    "options": [
+     "good",
+     "well",
+     "better",
+     "best"
+    ],
+    "answer": "better",
+    "accept": [],
+    "explain": "«Well» ravishining qiyosiy darajasi «than» bilan ishlatiladi: better.",
+    "wrong": {
+     "good": "Bu sifat.",
+     "well": "Solishtirish uchun qiyosiy daraja kerak.",
+     "best": "Orttirma daraja «than» bilan kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "This suitcase is ______ heavy for me to carry alone.",
+    "hint": "",
+    "options": [
+     "enough",
+     "too",
+     "very",
+     "much"
+    ],
+    "answer": "too",
+    "accept": [],
+    "explain": "Fe’ldan oldin kelib imkonsizligini bildiradi: too heavy.",
+    "wrong": {
+     "enough": "Sifatdan keyin kelishi kerak.",
+     "very": "«To carry» konstruksiyasi bilan ishlatilmaydi.",
+     "much": "Sifat bilan to‘g‘ridan-to‘g‘ri kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Do we have ______ information about the trip to Khiva?",
+    "hint": "",
+    "options": [
+     "too many",
+     "enough",
+     "too",
+     "many"
+    ],
+    "answer": "enough",
+    "accept": [],
+    "explain": "Sanalmaydigan ot (information) oldidan yetarlilikni bildiradi: enough information.",
+    "wrong": {
+     "too many": "Sanalmaydigan otlar bilan ishlatilmaydi.",
+     "too": "Otlar bilan ishlatilmaydi.",
+     "many": "Sanalmaydigan otlar bilan ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "My little brother is ______ tall to ride this roller coaster.",
+    "hint": "",
+    "options": [
+     "enough",
+     "too",
+     "too much",
+     "very"
+    ],
+    "answer": "too",
+    "accept": [],
+    "explain": "Sifatdan oldin kelib taqiqni bildiradi: too tall.",
+    "wrong": {
+     "enough": "Sifatdan keyin kelishi kerak edi.",
+     "too much": "Sifatlar bilan ishlatilmaydi.",
+     "very": "Ma’no jihatdan taqiqni anglatmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Are there ______ students in the library today?",
+    "hint": "",
+    "options": [
+     "too",
+     "enough",
+     "too much",
+     "much"
+    ],
+    "answer": "enough",
+    "accept": [],
+    "explain": "Sanaladigan ko‘plikdagi ot oldidan so‘roq gapda ishlatiladi: enough students.",
+    "wrong": {
+     "too": "Otlar bilan ishlatilmaydi.",
+     "too much": "Sanaladigan otlar bilan ishlatilmaydi.",
+     "much": "Sanaladigan otlar bilan ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "This exercise is ______ easy for our grade level.",
+    "hint": "",
+    "options": [
+     "enough",
+     "too",
+     "to",
+     "much"
+    ],
+    "answer": "too",
+    "accept": [],
+    "explain": "Me’yordan ortiqligini bildirish uchun sifat oldidan «too» keladi: too easy.",
+    "wrong": {
+     "enough": "Sifatdan keyin kelishi kerak edi.",
+     "to": "Imkoni noto‘g‘ri.",
+     "much": "Yolg‘iz o‘zi bu yerda ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "We don't have ______ bread for breakfast. Please buy some.",
+    "hint": "",
+    "options": [
+     "too many",
+     "enough",
+     "too much",
+     "too"
+    ],
+    "answer": "enough",
+    "accept": [],
+    "explain": "Sanalmaydigan ot (bread) oldidan yetishmasligini bildiradi: enough bread.",
+    "wrong": {
+     "too many": "Sanalmaydigan otlar bilan ishlatilmaydi.",
+     "too much": "Inkor gapda yetishmaslik ma’nosida «enough» ishlatiladi.",
+     "too": "Otlar bilan ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Who is ______ person in your family?",
+    "hint": "",
+    "options": [
+     "older",
+     "oldest",
+     "the oldest",
+     "most old"
+    ],
+    "answer": "the oldest",
+    "accept": [],
+    "explain": "Oiladagilarni solishtirishda orttirma daraja kerak: the oldest.",
+    "wrong": {
+     "older": "Bu qiyosiy daraja.",
+     "oldest": "Aniqlovchi «the» yetishmayapti.",
+     "most old": "Bir bo‘g‘inli so‘zlarga «most» qo‘shilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Nodir is ______ player in our basketball team.",
+    "hint": "",
+    "options": [
+     "taller",
+     "tallest",
+     "the tallest",
+     "most tall"
+    ],
+    "answer": "the tallest",
+    "accept": [],
+    "explain": "Jamoa ichida solishtirilgani uchun orttirma daraja kerak: the tallest.",
+    "wrong": {
+     "taller": "Bu qiyosiy daraja.",
+     "tallest": "«The» artikli unutilgan.",
+     "most tall": "Bir bo‘g‘inli so‘zlarga «most» qo‘shilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "The water in the swimming pool is warm ______ today.",
+    "hint": "",
+    "options": [
+     "too",
+     "enough",
+     "very",
+     "much"
+    ],
+    "answer": "enough",
+    "accept": [],
+    "explain": "Sifatdan keyin kelib yetarli darajada iliqligini bildiradi: warm enough.",
+    "wrong": {
+     "too": "Sifatdan oldin keladi va salbiy ma’no beradi.",
+     "very": "Gap tuzilishiga ko‘ra oxirga kelmaydi.",
+     "much": "Sifatlar bilan ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "There is ______ salt in the soup; I cannot eat it.",
+    "hint": "",
+    "options": [
+     "too many",
+     "too much",
+     "enough",
+     "too"
+    ],
+    "answer": "too much",
+    "accept": [],
+    "explain": "Sanalmaydigan ot (salt) bilan ortiqchalikni bildiradi: too much salt.",
+    "wrong": {
+     "too many": "Sanalmaydigan otlar bilan ishlatilmaydi.",
+     "enough": "Ovqatni yeb bo‘lmasligi ortiqchalikni bildiradi.",
+     "too": "Otlar bilan ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "I don't have ______ patience to wait in this long queue.",
+    "hint": "",
+    "options": [
+     "too many",
+     "enough",
+     "too much",
+     "too"
+    ],
+    "answer": "enough",
+    "accept": [],
+    "explain": "Sanalmaydigan ot (patience) oldidan yetishmaslikni bildiradi: enough patience.",
+    "wrong": {
+     "too many": "Sanalmaydigan otlar bilan ishlatilmaydi.",
+     "too much": "Inkor gapda yetarli emasligini bildirish uchun «enough» ishlatiladi.",
+     "too": "Otlar bilan ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "She bought ______ apples to bake a big pie.",
+    "hint": "",
+    "options": [
+     "too much",
+     "enough",
+     "too",
+     "much"
+    ],
+    "answer": "enough",
+    "accept": [],
+    "explain": "Sanaladigan ko‘plikdagi ot oldidan yetarlilikni bildiradi: enough apples.",
+    "wrong": {
+     "too much": "Sanaladigan otlar bilan ishlatilmaydi.",
+     "too": "Otlar bilan ishlatilmaydi.",
+     "much": "Sanaladigan otlar bilan ishlatilmaydi."
+    }
+   }
+  ],
+  [
+   {
+    "kind": "rewrite",
+    "q": "I have very little time. → I do not have ______",
+    "hint": "enough",
+    "options": [],
+    "answer": "enough time",
+    "accept": [],
+    "explain": "«Very little time» iborasi «enough» va ot birikmasi yordamida inkor shaklga o'giriladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The soup is extremely salty. → The soup is ______",
+    "hint": "too",
+    "options": [],
+    "answer": "too salty",
+    "accept": [],
+    "explain": "«Extremely salty» holati «too» yordamida sifat bilan ifodalanadi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "There is a lot of sugar in my tea. → There is ______",
+    "hint": "too",
+    "options": [],
+    "answer": "too much sugar",
+    "accept": [],
+    "explain": "«A lot of sugar» miqdori «too much» yordamida ko'rsatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The bag is extremely heavy. → The bag is ______",
+    "hint": "too",
+    "options": [],
+    "answer": "too heavy",
+    "accept": [],
+    "explain": "«Extremely heavy» iborasi «too» so'zi yordamida beriladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The box is very large. → The box is ______",
+    "hint": "too",
+    "options": [],
+    "answer": "too large",
+    "accept": [],
+    "explain": "«Very large» iborasi «too» so'zi yordamida ifodalanadi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "There are many students in the room. → There are ______",
+    "hint": "too",
+    "options": [],
+    "answer": "too many students",
+    "accept": [],
+    "explain": "Sanoqli otlar bilan «too many» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The music is very loud. → The music is ______",
+    "hint": "too",
+    "options": [],
+    "answer": "too loud",
+    "accept": [],
+    "explain": "«Very loud» iborasi «too» so'zi bilan yoziladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "There is a lot of noise outside. → There is ______",
+    "hint": "too",
+    "options": [],
+    "answer": "too much noise",
+    "accept": [],
+    "explain": "Sanab bo'lmaydigan otlar bilan «too much» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "This test is very difficult. → This test is ______",
+    "hint": "too",
+    "options": [],
+    "answer": "too difficult",
+    "accept": [],
+    "explain": "«Very difficult» iborasi «too» so'zi bilan yoziladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "There is a lot of water on the floor. → There is ______",
+    "hint": "too",
+    "options": [],
+    "answer": "too much water",
+    "accept": [],
+    "explain": "«Water» sanalmaydi, shuning uchun «too much» keladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The room is very dark. → The room is not ______",
+    "hint": "bright",
+    "options": [],
+    "answer": "bright enough",
+    "accept": [],
+    "explain": "Gapda «very dark» va 'not' bor, shuning uchun 'adjective + enough': bright enough.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The tea is extremely hot. → The tea is ______",
+    "hint": "too",
+    "options": [],
+    "answer": "too hot to drink",
+    "accept": [
+     "too hot"
+    ],
+    "explain": "«too» so'zi sifatdan oldin kelib me'yordan ortiqligini bildiradi va oxirida «to» qo'shimchasi ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "She is very young. → She is not ______",
+    "hint": "enough",
+    "options": [],
+    "answer": "old enough to drive",
+    "accept": [
+     "old enough"
+    ],
+    "explain": "«enough» so'zi sifatdan keyin kelib yetarli darajani bildiradi. «Not» bilan «old enough» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The coat is very small. → The coat is ______",
+    "hint": "too",
+    "options": [],
+    "answer": "too small for me",
+    "accept": [
+     "too small"
+    ],
+    "explain": "Hadddan tashqari kichikligini bildirish uchun «too» va sifat qo'llaniladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "We have many notebooks. → We have ______",
+    "hint": "enough",
+    "options": [],
+    "answer": "enough notebooks for everyone",
+    "accept": [
+     "enough notebooks"
+    ],
+    "explain": "«enough» otlardan oldin kelib yetarli miqdorni bildiradi («notebooks»).",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The jacket is extremely thin. → The jacket is ______",
+    "hint": "too",
+    "options": [],
+    "answer": "too thin to wear outside",
+    "accept": [
+     "too thin"
+    ],
+    "explain": "Salbiy ma'nodagi ortiqlikni ko'rsatish uchun sifatdan oldin «too» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "He is very short. → He is not ______",
+    "hint": "enough",
+    "options": [],
+    "answer": "tall enough to reach the shelf",
+    "accept": [
+     "tall enough"
+    ],
+    "explain": "Yetarli bo'lmagan holatni bildirish uchun «not» va sifatdan keyin «enough» keladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The shoes are very big. → The shoes are ______",
+    "hint": "too",
+    "options": [],
+    "answer": "too big for my feet",
+    "accept": [
+     "too big"
+    ],
+    "explain": "Hajmi kattaligi me'yordan ortiqligini ko'rsatish uchun «too» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "I have much free time. → I have ______",
+    "hint": "enough",
+    "options": [],
+    "answer": "enough free time today",
+    "accept": [
+     "enough free time"
+    ],
+    "explain": "«enough» otlardan oldin («free time») yetarli miqdorni bildirish uchun keladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The backpack is extremely heavy. → The backpack is ______",
+    "hint": "too",
+    "options": [],
+    "answer": "too heavy to carry",
+    "accept": [
+     "too heavy"
+    ],
+    "explain": "Ishni bajarib bo'lmas darajada og'irligini ko'rsatish uchun «too» qo'llaniladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "She is very quiet. → She is not ______",
+    "hint": "enough",
+    "options": [],
+    "answer": "loud enough to be heard",
+    "accept": [
+     "loud enough",
+     "noisy enough"
+    ],
+    "explain": "Yetarli darajada emasligini ko'rsatish uchun sifatdan keyin «enough» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The film is very long. → The film is ______",
+    "hint": "too",
+    "options": [],
+    "answer": "too long for children",
+    "accept": [
+     "too long"
+    ],
+    "explain": "Me'yordan uzunligini ko'rsatish uchun sifatdan oldin «too» qo'yiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "We have many chairs. → We have ______",
+    "hint": "enough",
+    "options": [],
+    "answer": "enough chairs for all guests",
+    "accept": [
+     "enough chairs"
+    ],
+    "explain": "Otlardan oldin («chairs») yetarli ekanligini bildirish uchun «enough» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The exercise is extremely difficult. → The exercise is ______",
+    "hint": "too",
+    "options": [],
+    "answer": "too difficult to solve",
+    "accept": [
+     "too difficult",
+     "too hard"
+    ],
+    "explain": "Qiyinligi me'yordan oshib ketganini bildirish uchun «too» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "He is very slow. → He is not ______",
+    "hint": "enough",
+    "options": [],
+    "answer": "fast enough to win the race",
+    "accept": [
+     "fast enough",
+     "quick enough"
+    ],
+    "explain": "Yetarli darajada tez emasligini ko'rsatish uchun sifatdan keyin «enough» keladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The soup is extremely spicy. → The soup is ______",
+    "hint": "too",
+    "options": [],
+    "answer": "too spicy to eat",
+    "accept": [
+     "too spicy"
+    ],
+    "explain": "Achchiqligi ortiqcha ekanini bildirish uchun sifatdan oldin «too» ishlatiladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "I have much money. → I have ______",
+    "hint": "enough",
+    "options": [],
+    "answer": "enough money to buy a ticket",
+    "accept": [
+     "enough money"
+    ],
+    "explain": "«enough» oti oldidan kelib yetarli mablag' borligini ko'rsatadi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The coffee is extremely bitter. → The coffee is ______",
+    "hint": "too",
+    "options": [],
+    "answer": "too bitter without sugar",
+    "accept": [
+     "too bitter"
+    ],
+    "explain": "Achchiqligi me'yordan ortiqligini ko'rsatish uchun «too» qo'llaniladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "She is very weak. → She is not ______",
+    "hint": "enough",
+    "options": [],
+    "answer": "strong enough to lift the box",
+    "accept": [
+     "strong enough"
+    ],
+    "explain": "Yetarli darajada kuchli emasligini bildirish uchun «enough» sifatdan keyin keladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "rewrite",
+    "q": "The room is extremely cold. → The room is ______",
+    "hint": "too",
+    "options": [],
+    "answer": "too cold to sleep in",
+    "accept": [
+     "too cold"
+    ],
+    "explain": "Sovuqlik darajasi yuqoriligini bildirish uchun sifatdan oldin «too» ishlatiladi.",
+    "wrong": {}
+   }
+  ]
+ ],
+ "intro": {
+  "what": "Biz narsalar, odamlar va joylarni solishtirish uchun qiyosiy (comparative) va orttirma (superlative) darajadagi sifatlardan foydalanamiz. Shuningdek, 'too' va 'enough' so'zlari orqali me'yor ortiqchaligini yoki yetarliligini bildiramiz.",
+  "when": [
+   "Ikki kishi yoki narsani solishtirganda",
+   "Bir guruh ichida eng yaxshisini ajratib ko'rsatganda",
+   "Biror narsa juda ko'p yoki keragidan ortiq ekanligini aytganda",
+   "Kerakli miqdor yoki daraja yetarli ekanligini bildirganimizda"
+  ],
+  "structures": [
+   {
+    "label": "Comparative adjectives",
+    "formula": "adjective + -er + than / more + adjective + than",
+    "example_en": "Tashkent is bigger than Bukhara.",
+    "example_uz": "Toshkent Buxorodan kattaroq."
+   },
+   {
+    "label": "Superlative adjectives",
+    "formula": "the + adjective + -est / the most + adjective",
+    "example_en": "Samarkand is the most beautiful city in Uzbekistan.",
+    "example_uz": "Samarqand O'zbekistondagi eng chiroyli shahar."
+   },
+   {
+    "label": "too + adjective",
+    "formula": "too + adjective",
+    "example_en": "This tea is too hot to drink.",
+    "example_uz": "Bu choy ichish uchun juda issiq."
+   },
+   {
+    "label": "adjective + enough",
+    "formula": "adjective + enough",
+    "example_en": "Aziz is tall enough to play basketball.",
+    "example_uz": "Aziz basketbol o'ynash uchun yetarlicha uzun bo'yli."
+   },
+   {
+    "label": "enough + noun",
+    "formula": "enough + noun",
+    "example_en": "We have enough water for the trip.",
+    "example_uz": "Sayohat uchun yetarlicha suvimiz bor."
+   }
+  ],
+  "rules": [
+   {
+    "title": "Qisqa sifatlar",
+    "text": "Bir bo'g'inli sifatlarga '-er' yoki '-est' qo'shimchasi qo'shiladi.",
+    "examples": [
+     {
+      "en": "My bag is heavier than yours.",
+      "uz": "Mening sumkam senikidan og'irroq."
+     },
+     {
+      "en": "Mount Everest is the highest mountain.",
+      "uz": "Everest cho'qqisi eng baland tog'."
+     }
+    ]
+   },
+   {
+    "title": "Uzun sifatlar",
+    "text": "Ikki yoki undan ortiq bo'g'inli sifatlar oldidan 'more' yoki 'the most' ishlatiladi.",
+    "examples": [
+     {
+      "en": "English is more interesting than physics.",
+      "uz": "Ingliz tili fizikadan qiziqarliroq."
+     },
+     {
+      "en": "This is the most difficult test.",
+      "uz": "Bu eng qiyin test."
+     }
+    ]
+   },
+   {
+    "title": "Too va Enough",
+    "text": "'Too' sifatdan oldin kelib salbiy ma'no beradi, 'enough' esa sifatdan keyin yoki otning oldidan kelib yetarlilikni bildiradi.",
+    "examples": [
+     {
+      "en": "The shoes are too small for my feet.",
+      "uz": "Oyoq kiyim oyog'im uchun juda kichik."
+     },
+     {
+      "en": "I have enough money to buy a notebook.",
+      "uz": "Daftarlik yetarli pulim bor."
+     }
+    ]
+   }
+  ],
+  "signal_words": [
+   {
+    "en": "than",
+    "uz": "-dan ko'ra"
+   },
+   {
+    "en": "the",
+    "uz": "eng (orttirma darajada)"
+   },
+   {
+    "en": "much",
+    "uz": "ancha (kuchaytirish uchun)"
+   },
+   {
+    "en": "too",
+    "uz": "juda (keragidan ortiq)"
+   },
+   {
+    "en": "enough",
+    "uz": "yetarli"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "My brother is more tall than me.",
+    "right": "My brother is taller than me.",
+    "why": "Bir bo'g'inli sifatlarga 'more' qo'shilmaydi, oxiriga '-er' qo'shiladi."
+   },
+   {
+    "wrong": "This is most easy lesson.",
+    "right": "This is the most easy lesson.",
+    "why": "Orttirma darajadagi sifatlardan oldin albatta 'the' aniqlik artikli ishlatilishi shart."
+   },
+   {
+    "wrong": "The tea is hot too.",
+    "right": "The tea is too hot.",
+    "why": "'Too' so'zi sifatdan keyin emas, balki oldin kelishi kerak."
+   },
+   {
+    "wrong": "I have money enough.",
+    "right": "I have enough money.",
+    "why": "'Enough' so'zi otdan oldin keladi, otdan keyin kelmaydi."
+   }
+  ]
+ }
+}

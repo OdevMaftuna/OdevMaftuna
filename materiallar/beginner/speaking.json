@@ -1,0 +1,3902 @@
+[
+ {
+  "topic": 1,
+  "day": 1,
+  "title": "Introducing yourself",
+  "uzTitle": "O'zini tanishtirish",
+  "grammar": "to be: I am ...",
+  "questions": [
+   "What is your name?",
+   "How old are you?",
+   "Where are you from?"
+  ],
+  "vocab": [
+   {
+    "en": "name",
+    "uz": "ism"
+   },
+   {
+    "en": "surname",
+    "uz": "familiya"
+   },
+   {
+    "en": "age",
+    "uz": "yosh"
+   },
+   {
+    "en": "student",
+    "uz": "o'quvchi, talaba"
+   },
+   {
+    "en": "city",
+    "uz": "shahar"
+   },
+   {
+    "en": "language",
+    "uz": "til"
+   },
+   {
+    "en": "to live",
+    "uz": "yashamoq"
+   },
+   {
+    "en": "to speak",
+    "uz": "gapirmoq"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "My name is...",
+    "uz": "Mening ismim..."
+   },
+   {
+    "en": "I am ... years old.",
+    "uz": "Men ... yoshdaman."
+   },
+   {
+    "en": "I am from...",
+    "uz": "Men ...danman."
+   },
+   {
+    "en": "Nice to meet you!",
+    "uz": "Tanishganimdan xursandman!"
+   }
+  ],
+  "sample": "Hello! My **name** is Aziz and my **surname** is Karimov. I am sixteen years old. I am from Uzbekistan and I **live** in Tashkent. It is a big **city**. I am a **student**. I **speak** Uzbek and Russian, and I am learning English. Nice to meet you!"
+ },
+ {
+  "topic": 2,
+  "day": 1,
+  "title": "Countries and nationalities",
+  "uzTitle": "Davlatlar va millatlar",
+  "grammar": "to be: he is / she is / they are",
+  "questions": [
+   "Where are you from?",
+   "What is your nationality?",
+   "What languages do you speak?"
+  ],
+  "vocab": [
+   {
+    "en": "country",
+    "uz": "davlat"
+   },
+   {
+    "en": "nationality",
+    "uz": "millat"
+   },
+   {
+    "en": "Uzbek",
+    "uz": "o'zbek"
+   },
+   {
+    "en": "capital",
+    "uz": "poytaxt"
+   },
+   {
+    "en": "foreign",
+    "uz": "chet ellik, xorijiy"
+   },
+   {
+    "en": "abroad",
+    "uz": "chet elda"
+   },
+   {
+    "en": "to be born",
+    "uz": "tug'ilmoq"
+   },
+   {
+    "en": "to come from",
+    "uz": "...dan kelmoq"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "I come from...",
+    "uz": "Men ...dan kelganman."
+   },
+   {
+    "en": "I was born in...",
+    "uz": "Men ...da tug'ilganman."
+   },
+   {
+    "en": "My nationality is...",
+    "uz": "Mening millatim..."
+   },
+   {
+    "en": "He is from...",
+    "uz": "U ...dan."
+   }
+  ],
+  "sample": "I **come from** Uzbekistan. I am **Uzbek**. I was born in Samarkand, but now I live in the **capital**, Tashkent. My friend Kim is **foreign**. He is from Korea, so his **nationality** is Korean. My uncle lives **abroad**, in Turkey. I speak two languages, and I want to visit many countries."
+ },
+ {
+  "topic": 3,
+  "day": 2,
+  "title": "Introducing each family member",
+  "uzTitle": "Oila a'zolarini tanishtirish",
+  "grammar": "have got / This is ...",
+  "questions": [
+   "How many people are there in your family?",
+   "What are their names?",
+   "How old are they?"
+  ],
+  "vocab": [
+   {
+    "en": "parents",
+    "uz": "ota-ona"
+   },
+   {
+    "en": "mother",
+    "uz": "ona"
+   },
+   {
+    "en": "father",
+    "uz": "ota"
+   },
+   {
+    "en": "brother",
+    "uz": "aka, uka"
+   },
+   {
+    "en": "sister",
+    "uz": "opa, singil"
+   },
+   {
+    "en": "grandmother",
+    "uz": "buvi"
+   },
+   {
+    "en": "grandfather",
+    "uz": "bobo"
+   },
+   {
+    "en": "younger / older",
+    "uz": "kichik / katta"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "There are ... people in my family.",
+    "uz": "Oilamizda ... kishi bor."
+   },
+   {
+    "en": "I have got...",
+    "uz": "Menda ... bor."
+   },
+   {
+    "en": "This is my...",
+    "uz": "Bu mening ..."
+   },
+   {
+    "en": "His / Her name is...",
+    "uz": "Uning ismi..."
+   }
+  ],
+  "sample": "There are six people in my family. This is my **father**. His name is Rustam and he is forty-five. My **mother** 's name is Dilnoza. I have got one **older** **brother** and one **younger** **sister**. My **brother** is twenty and my **sister** is ten. My **grandmother** lives with us too. I love my **parents** and my family very much."
+ },
+ {
+  "topic": 4,
+  "day": 2,
+  "title": "My best friend",
+  "uzTitle": "Eng yaqin do'stim",
+  "grammar": "to be + sifatlar",
+  "questions": [
+   "Who is your best friend?",
+   "What is he or she like?",
+   "What do you do together?"
+  ],
+  "vocab": [
+   {
+    "en": "best friend",
+    "uz": "eng yaqin do'st"
+   },
+   {
+    "en": "kind",
+    "uz": "mehribon"
+   },
+   {
+    "en": "funny",
+    "uz": "quvnoq, hazilkash"
+   },
+   {
+    "en": "clever",
+    "uz": "aqlli"
+   },
+   {
+    "en": "honest",
+    "uz": "halol, rostgo'y"
+   },
+   {
+    "en": "together",
+    "uz": "birga"
+   },
+   {
+    "en": "to help",
+    "uz": "yordam bermoq"
+   },
+   {
+    "en": "to trust",
+    "uz": "ishonmoq"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "My best friend is...",
+    "uz": "Mening eng yaqin do'stim..."
+   },
+   {
+    "en": "He is very...",
+    "uz": "U juda..."
+   },
+   {
+    "en": "We are in the same class.",
+    "uz": "Biz bir sinfdamiz."
+   },
+   {
+    "en": "We like ... together.",
+    "uz": "Biz birga ...ni yoqtiramiz."
+   }
+  ],
+  "sample": "My **best friend** is Jasur. He is sixteen and we are in the same class. He is very **kind** and **funny**. He is also **clever**, so he **helps** me with maths. Jasur is **honest** and I **trust** him. We like playing football **together** after school. I am happy because he is my friend."
+ },
+ {
+  "topic": 5,
+  "day": 3,
+  "title": "My country",
+  "uzTitle": "Men yashaydigan davlat",
+  "grammar": "to be / It is famous for ...",
+  "questions": [
+   "Where is your country?",
+   "What is it famous for?",
+   "What do you like about it?"
+  ],
+  "vocab": [
+   {
+    "en": "Central Asia",
+    "uz": "Markaziy Osiyo"
+   },
+   {
+    "en": "population",
+    "uz": "aholi"
+   },
+   {
+    "en": "ancient",
+    "uz": "qadimiy"
+   },
+   {
+    "en": "famous for",
+    "uz": "... bilan mashhur"
+   },
+   {
+    "en": "sunny",
+    "uz": "quyoshli"
+   },
+   {
+    "en": "hospitable",
+    "uz": "mehmondo'st"
+   },
+   {
+    "en": "fruit",
+    "uz": "meva"
+   },
+   {
+    "en": "tourist",
+    "uz": "sayyoh"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "I live in...",
+    "uz": "Men ...da yashayman."
+   },
+   {
+    "en": "It is in...",
+    "uz": "U ...da joylashgan."
+   },
+   {
+    "en": "It is famous for...",
+    "uz": "U ... bilan mashhur."
+   },
+   {
+    "en": "I am proud of...",
+    "uz": "Men ... bilan faxrlanaman."
+   }
+  ],
+  "sample": "I live in Uzbekistan. It is in **Central Asia**. The capital is Tashkent. The **population** is about thirty- seven million. Uzbekistan is **famous for** its **ancient** cities: Samarkand, Bukhara and Khiva. Many **tourists** come here every year. The weather is **sunny** and our **fruit** is very sweet. People are **hospitable**. I am proud of my country."
+ },
+ {
+  "topic": 6,
+  "day": 3,
+  "title": "My hometown",
+  "uzTitle": "Mening shahrim (qishlog'im)",
+  "grammar": "there is / there are",
+  "questions": [
+   "Where is your hometown?",
+   "Is it big or small?",
+   "What is there in your hometown?"
+  ],
+  "vocab": [
+   {
+    "en": "hometown",
+    "uz": "tug'ilib o'sgan joy"
+   },
+   {
+    "en": "village",
+    "uz": "qishloq"
+   },
+   {
+    "en": "street",
+    "uz": "ko'cha"
+   },
+   {
+    "en": "market",
+    "uz": "bozor"
+   },
+   {
+    "en": "park",
+    "uz": "bog', park"
+   },
+   {
+    "en": "quiet",
+    "uz": "tinch, sokin"
+   },
+   {
+    "en": "noisy",
+    "uz": "shovqinli"
+   },
+   {
+    "en": "beautiful",
+    "uz": "chiroyli"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "My hometown is...",
+    "uz": "Mening ona shahrim..."
+   },
+   {
+    "en": "It is a small / big...",
+    "uz": "U kichik / katta..."
+   },
+   {
+    "en": "There is a...",
+    "uz": "U yerda ... bor."
+   },
+   {
+    "en": "I like it because...",
+    "uz": "Menga yoqadi, chunki..."
+   }
+  ],
+  "sample": "My **hometown** is Fergana. It is not a very big city, but it is **beautiful**. There are many trees and **parks**. There is a big **market** in the centre. The **streets** are clean and **quiet**. Tashkent is **noisy**, but my **hometown** is not. I like it because my family and friends live there."
+ },
+ {
+  "topic": 7,
+  "day": 4,
+  "title": "My family and friends",
+  "uzTitle": "Oilam va do'stlarim haqida qisqacha",
+  "grammar": "present simple (I / we)",
+  "questions": [
+   "Is your family big or small?",
+   "Do you have many friends?",
+   "When do you see your friends?"
+  ],
+  "vocab": [
+   {
+    "en": "relatives",
+    "uz": "qarindoshlar"
+   },
+   {
+    "en": "cousin",
+    "uz": "amakivachcha, xolavachcha"
+   },
+   {
+    "en": "classmate",
+    "uz": "sinfdosh"
+   },
+   {
+    "en": "neighbour",
+    "uz": "qo'shni"
+   },
+   {
+    "en": "friendly",
+    "uz": "ochiq ko'ngil, do'stona"
+   },
+   {
+    "en": "close",
+    "uz": "yaqin"
+   },
+   {
+    "en": "to visit",
+    "uz": "borib ko'rmoq"
+   },
+   {
+    "en": "to spend time",
+    "uz": "vaqt o'tkazmoq"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "I have a big / small family.",
+    "uz": "Mening oilam katta / kichik."
+   },
+   {
+    "en": "We are very close.",
+    "uz": "Biz juda yaqinmiz."
+   },
+   {
+    "en": "I have many friends.",
+    "uz": "Mening do'stlarim ko'p."
+   },
+   {
+    "en": "At weekends we...",
+    "uz": "Dam olish kunlari biz..."
+   }
+  ],
+  "sample": "I have a big family. I live with my parents, my brother and my sister. We are very **close**. I also have many **relatives**, and we **visit** them at weekends. I have a lot of friends too. Some are my **classmates** and some are my **neighbours**. They are **friendly**. I **spend time** with them after school."
+ },
+ {
+  "topic": 8,
+  "day": 4,
+  "title": "Describing people",
+  "uzTitle": "Tashqi ko'rinish va xarakter",
+  "grammar": "have got + sifatlar",
+  "questions": [
+   "What do you look like?",
+   "What colour are your eyes and hair?",
+   "What kind of person are you?"
+  ],
+  "vocab": [
+   {
+    "en": "tall",
+    "uz": "baland bo'yli"
+   },
+   {
+    "en": "short",
+    "uz": "past bo'yli, kalta"
+   },
+   {
+    "en": "hair",
+    "uz": "soch"
+   },
+   {
+    "en": "eyes",
+    "uz": "ko'zlar"
+   },
+   {
+    "en": "dark",
+    "uz": "qora, to'q"
+   },
+   {
+    "en": "slim",
+    "uz": "ozg'in"
+   },
+   {
+    "en": "shy",
+    "uz": "uyatchan"
+   },
+   {
+    "en": "hard-working",
+    "uz": "mehnatkash"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "I am quite tall.",
+    "uz": "Men ancha baland bo'yliman."
+   },
+   {
+    "en": "I have got ... hair.",
+    "uz": "Mening sochim..."
+   },
+   {
+    "en": "She looks like...",
+    "uz": "U ...ga o'xshaydi."
+   },
+   {
+    "en": "I am a ... person.",
+    "uz": "Men ... odamman."
+   }
+  ],
+  "sample": "I am quite **tall** and **slim**. I have got **short** **dark** **hair** and brown **eyes**. My sister is **short** and she has got long **hair**. She looks like our mother. I am a quiet person and I am a little **shy**. But I am **hard-working**. My friends say I am kind."
+ },
+ {
+  "topic": 9,
+  "day": 5,
+  "title": "My hobby",
+  "uzTitle": "Mening sevimli mashg'ulotim",
+  "grammar": "like + -ing",
+  "questions": [
+   "What is your hobby?",
+   "When do you do it?",
+   "Why do you like it?"
+  ],
+  "vocab": [
+   {
+    "en": "hobby",
+    "uz": "sevimli mashg'ulot"
+   },
+   {
+    "en": "free time",
+    "uz": "bo'sh vaqt"
+   },
+   {
+    "en": "drawing",
+    "uz": "rasm chizish"
+   },
+   {
+    "en": "interesting",
+    "uz": "qiziqarli"
+   },
+   {
+    "en": "relaxing",
+    "uz": "dam beradigan"
+   },
+   {
+    "en": "favourite",
+    "uz": "sevimli"
+   },
+   {
+    "en": "to enjoy",
+    "uz": "zavqlanmoq"
+   },
+   {
+    "en": "to be good at",
+    "uz": "...ga usta bo'lmoq"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "My hobby is...",
+    "uz": "Mening hobbim..."
+   },
+   {
+    "en": "I like ...-ing.",
+    "uz": "Men ...ni yoqtiraman."
+   },
+   {
+    "en": "In my free time I...",
+    "uz": "Bo'sh vaqtimda men..."
+   },
+   {
+    "en": "I am good at...",
+    "uz": "Men ...ga ustaman."
+   }
+  ],
+  "sample": "My **hobby** is **drawing**. I like **drawing** people and animals. In my **free time** I draw in my room. I usually do it in the evening, after my homework. It is **interesting** and **relaxing**. I am good at it, and my teacher likes my pictures. **Drawing** is my **favourite** activity and I really **enjoy** it."
+ },
+ {
+  "topic": 10,
+  "day": 5,
+  "title": "Free time and weekends",
+  "uzTitle": "Bo'sh vaqt va dam olish kunlari",
+  "grammar": "usually / often / sometimes / never",
+  "questions": [
+   "What do you do in your free time?",
+   "What do you do at weekends?",
+   "Who do you spend your weekends with?"
+  ],
+  "vocab": [
+   {
+    "en": "weekend",
+    "uz": "dam olish kunlari"
+   },
+   {
+    "en": "usually",
+    "uz": "odatda"
+   },
+   {
+    "en": "sometimes",
+    "uz": "ba'zan"
+   },
+   {
+    "en": "often",
+    "uz": "tez-tez"
+   },
+   {
+    "en": "never",
+    "uz": "hech qachon"
+   },
+   {
+    "en": "to relax",
+    "uz": "dam olmoq"
+   },
+   {
+    "en": "to go for a walk",
+    "uz": "sayrga chiqmoq"
+   },
+   {
+    "en": "to watch",
+    "uz": "tomosha qilmoq"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "At the weekend I usually...",
+    "uz": "Dam olish kuni men odatda..."
+   },
+   {
+    "en": "I often...",
+    "uz": "Men tez-tez..."
+   },
+   {
+    "en": "I never...",
+    "uz": "Men hech qachon..."
+   },
+   {
+    "en": "It is fun.",
+    "uz": "Bu maroqli."
+   }
+  ],
+  "sample": "I love **weekends**. On Saturday I **usually** help my mother at home. Then I **relax** and **watch** films. On Sunday I **often** **go for a walk** in the park with my friends. **Sometimes** we play football. I **never** get up early at the **weekend**. In the evening I do my homework. It is fun to have free time."
+ },
+ {
+  "topic": 11,
+  "day": 6,
+  "title": "My daily routine",
+  "uzTitle": "Mening kun tartibim",
+  "grammar": "present simple (I)",
+  "questions": [
+   "What time do you get up?",
+   "What do you do in the morning?",
+   "What do you do in the evening?"
+  ],
+  "vocab": [
+   {
+    "en": "to get up",
+    "uz": "uyqudan turmoq"
+   },
+   {
+    "en": "to have breakfast",
+    "uz": "nonushta qilmoq"
+   },
+   {
+    "en": "to go to school",
+    "uz": "maktabga bormoq"
+   },
+   {
+    "en": "to come home",
+    "uz": "uyga kelmoq"
+   },
+   {
+    "en": "to do my homework",
+    "uz": "uy vazifasini qilmoq"
+   },
+   {
+    "en": "to go to bed",
+    "uz": "uxlashga yotmoq"
+   },
+   {
+    "en": "early",
+    "uz": "erta"
+   },
+   {
+    "en": "late",
+    "uz": "kech"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "I get up at...",
+    "uz": "Men soat ...da turaman."
+   },
+   {
+    "en": "After that, I...",
+    "uz": "Shundan keyin men..."
+   },
+   {
+    "en": "In the evening I...",
+    "uz": "Kechqurun men..."
+   },
+   {
+    "en": "Then I...",
+    "uz": "Keyin men..."
+   }
+  ],
+  "sample": "I **get up** at seven o'clock every day. I wash my face and **have breakfast**. Then I **go to school** at eight. My lessons finish at two o'clock. After that, I **come home** and have lunch. In the evening I **do my homework** and help my mother. I **go to bed** at eleven. I don't **go to bed** **late**."
+ },
+ {
+  "topic": 12,
+  "day": 6,
+  "title": "Time and days of the week",
+  "uzTitle": "Vaqt va hafta kunlari",
+  "grammar": "at / on / in (vaqt)",
+  "questions": [
+   "What time is it now?",
+   "What do you do on Mondays?",
+   "What is your favourite day?"
+  ],
+  "vocab": [
+   {
+    "en": "o'clock",
+    "uz": "soat (aniq vaqt)"
+   },
+   {
+    "en": "half past",
+    "uz": "... yarim"
+   },
+   {
+    "en": "Monday",
+    "uz": "dushanba"
+   },
+   {
+    "en": "weekday",
+    "uz": "ish kuni"
+   },
+   {
+    "en": "in the morning",
+    "uz": "ertalab"
+   },
+   {
+    "en": "in the afternoon",
+    "uz": "tushdan keyin"
+   },
+   {
+    "en": "at night",
+    "uz": "tunda"
+   },
+   {
+    "en": "busy",
+    "uz": "band"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "It is ... o'clock.",
+    "uz": "Soat ... bo'ldi."
+   },
+   {
+    "en": "On Mondays I...",
+    "uz": "Dushanba kunlari men..."
+   },
+   {
+    "en": "My favourite day is...",
+    "uz": "Mening sevimli kunim..."
+   },
+   {
+    "en": "I am busy on...",
+    "uz": "Men ... kuni bandman."
+   }
+  ],
+  "sample": "It is **half past** eight now. I am **busy** on **weekdays**. On **Mondays** and Wednesdays I have English lessons **in the afternoon**. On Tuesdays I play football at five **o'clock**. **In the morning** I am always at school. My favourite day is Saturday because I am free. **At night** I read a book and sleep."
+ },
+ {
+  "topic": 13,
+  "day": 7,
+  "title": "My family member's daily routine",
+  "uzTitle": "Oila a'zomning kun tartibi",
+  "grammar": "present simple (he / she + -s)",
+  "questions": [
+   "Who do you want to talk about?",
+   "What time does he or she get up?",
+   "What does he or she do every day?"
+  ],
+  "vocab": [
+   {
+    "en": "to work",
+    "uz": "ishlamoq"
+   },
+   {
+    "en": "to cook",
+    "uz": "ovqat pishirmoq"
+   },
+   {
+    "en": "to drive",
+    "uz": "mashina haydamoq"
+   },
+   {
+    "en": "to leave home",
+    "uz": "uydan chiqmoq"
+   },
+   {
+    "en": "to come back",
+    "uz": "qaytib kelmoq"
+   },
+   {
+    "en": "to rest",
+    "uz": "dam olmoq"
+   },
+   {
+    "en": "tired",
+    "uz": "charchagan"
+   },
+   {
+    "en": "every day",
+    "uz": "har kuni"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "My father gets up at...",
+    "uz": "Otam soat ...da turadi."
+   },
+   {
+    "en": "He goes to work by...",
+    "uz": "U ishga ... bilan boradi."
+   },
+   {
+    "en": "She doesn't...",
+    "uz": "U ...maydi."
+   },
+   {
+    "en": "After work he...",
+    "uz": "Ishdan keyin u..."
+   }
+  ],
+  "sample": "I want to talk about my father. He gets up at six o'clock **every day**. He has breakfast and leaves home at seven. He **drives** to **work**. He **works** in a bank. He comes back at six in the evening. He is usually **tired**, so he **rests** and watches TV. He doesn't **cook**, but he helps my mother at weekends."
+ },
+ {
+  "topic": 14,
+  "day": 7,
+  "title": "Jobs",
+  "uzTitle": "Kasblar",
+  "grammar": "What does he / she do?",
+  "questions": [
+   "What does your father do?",
+   "What does your mother do?",
+   "Where do they work?"
+  ],
+  "vocab": [
+   {
+    "en": "job",
+    "uz": "ish, kasb"
+   },
+   {
+    "en": "doctor",
+    "uz": "shifokor"
+   },
+   {
+    "en": "teacher",
+    "uz": "o'qituvchi"
+   },
+   {
+    "en": "driver",
+    "uz": "haydovchi"
+   },
+   {
+    "en": "businessman",
+    "uz": "tadbirkor"
+   },
+   {
+    "en": "housewife",
+    "uz": "uy bekasi"
+   },
+   {
+    "en": "hospital",
+    "uz": "kasalxona"
+   },
+   {
+    "en": "office",
+    "uz": "ofis, idora"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "My father is a...",
+    "uz": "Otam ... bo'lib ishlaydi."
+   },
+   {
+    "en": "She works in a...",
+    "uz": "U ...da ishlaydi."
+   },
+   {
+    "en": "He likes his job.",
+    "uz": "U ishini yaxshi ko'radi."
+   },
+   {
+    "en": "It is a difficult job.",
+    "uz": "Bu qiyin ish."
+   }
+  ],
+  "sample": "My father is a **driver**. He works for a big company. He likes his **job**. My mother is a **teacher**. She works in a school near our house. She teaches maths. It is a difficult **job**, but she loves children. My aunt is a **doctor** and she works in a **hospital**. My grandmother is a **housewife**."
+ },
+ {
+  "topic": 15,
+  "day": 8,
+  "title": "My school",
+  "uzTitle": "Mening maktabim",
+  "grammar": "there is / there are",
+  "questions": [
+   "Where is your school?",
+   "What is your school like?",
+   "What do you like about your school?"
+  ],
+  "vocab": [
+   {
+    "en": "classroom",
+    "uz": "sinf xonasi"
+   },
+   {
+    "en": "lesson",
+    "uz": "dars"
+   },
+   {
+    "en": "library",
+    "uz": "kutubxona"
+   },
+   {
+    "en": "canteen",
+    "uz": "maktab oshxonasi"
+   },
+   {
+    "en": "gym",
+    "uz": "sport zali"
+   },
+   {
+    "en": "break",
+    "uz": "tanaffus"
+   },
+   {
+    "en": "uniform",
+    "uz": "maktab formasi"
+   },
+   {
+    "en": "pupil",
+    "uz": "o'quvchi"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "I study at...",
+    "uz": "Men ...da o'qiyman."
+   },
+   {
+    "en": "I am in the ... grade.",
+    "uz": "Men ...-sinfdaman."
+   },
+   {
+    "en": "There are ... pupils in my class.",
+    "uz": "Sinfimda ... o'quvchi bor."
+   },
+   {
+    "en": "We have ... lessons a day.",
+    "uz": "Kuniga ... ta darsimiz bor."
+   }
+  ],
+  "sample": "I study at school number twenty-five. It is near my house. I am in the tenth grade. My school is big. There are thirty **classrooms**, a **library**, a **gym** and a **canteen**. There are twenty-eight **pupils** in my class. We have six **lessons** a day. We wear a **uniform**. I like my school because my teachers are kind."
+ },
+ {
+  "topic": 16,
+  "day": 8,
+  "title": "My favourite subject",
+  "uzTitle": "Sevimli fanim",
+  "grammar": "like / don't like",
+  "questions": [
+   "What subjects do you study?",
+   "What is your favourite subject?",
+   "Which subject is difficult for you?"
+  ],
+  "vocab": [
+   {
+    "en": "subject",
+    "uz": "fan"
+   },
+   {
+    "en": "maths",
+    "uz": "matematika"
+   },
+   {
+    "en": "history",
+    "uz": "tarix"
+   },
+   {
+    "en": "English",
+    "uz": "ingliz tili"
+   },
+   {
+    "en": "easy",
+    "uz": "oson"
+   },
+   {
+    "en": "difficult",
+    "uz": "qiyin"
+   },
+   {
+    "en": "boring",
+    "uz": "zerikarli"
+   },
+   {
+    "en": "mark",
+    "uz": "baho"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "My favourite subject is...",
+    "uz": "Mening sevimli fanim..."
+   },
+   {
+    "en": "I am good at...",
+    "uz": "Men ...ni yaxshi bilaman."
+   },
+   {
+    "en": "I don't like...",
+    "uz": "Men ...ni yoqtirmayman."
+   },
+   {
+    "en": "... is difficult for me.",
+    "uz": "... men uchun qiyin."
+   }
+  ],
+  "sample": "I study many **subjects** at school: **maths**, **history**, **English**, biology and others. My favourite **subject** is **English**. It is interesting and **easy** for me. I am good at it and I get good **marks**. I don't like physics because it is **difficult** for me. **History** is not **boring**. I like it too."
+ },
+ {
+  "topic": 17,
+  "day": 9,
+  "title": "Learning English",
+  "uzTitle": "Ingliz tilini o'rganish",
+  "grammar": "want to / because",
+  "questions": [
+   "Why do you learn English?",
+   "How do you learn English?",
+   "What is difficult for you in English?"
+  ],
+  "vocab": [
+   {
+    "en": "to learn",
+    "uz": "o'rganmoq"
+   },
+   {
+    "en": "to practise",
+    "uz": "mashq qilmoq"
+   },
+   {
+    "en": "to understand",
+    "uz": "tushunmoq"
+   },
+   {
+    "en": "to remember",
+    "uz": "eslab qolmoq"
+   },
+   {
+    "en": "word",
+    "uz": "so'z"
+   },
+   {
+    "en": "mistake",
+    "uz": "xato"
+   },
+   {
+    "en": "grammar",
+    "uz": "grammatika"
+   },
+   {
+    "en": "dictionary",
+    "uz": "lug'at"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "I learn English because...",
+    "uz": "Men ingliz tilini o'rganaman, chunki..."
+   },
+   {
+    "en": "I want to...",
+    "uz": "Men ...ni xohlayman."
+   },
+   {
+    "en": "I practise every day.",
+    "uz": "Men har kuni mashq qilaman."
+   },
+   {
+    "en": "Speaking is difficult for me.",
+    "uz": "Gapirish men uchun qiyin."
+   }
+  ],
+  "sample": "I **learn** English because I want to study abroad. I have English lessons three times a week. I **learn** ten new **words** every day and write them in my notebook. I use a **dictionary** on my phone. I **practise** speaking with my friend. **Grammar** is easy for me, but speaking is difficult. I make **mistakes**, but it is OK."
+ },
+ {
+  "topic": 18,
+  "day": 9,
+  "title": "My teacher",
+  "uzTitle": "Mening o'qituvchim",
+  "grammar": "present simple (she / he)",
+  "questions": [
+   "Who is your favourite teacher?",
+   "What does he or she teach?",
+   "Why do you like him or her?"
+  ],
+  "vocab": [
+   {
+    "en": "to teach",
+    "uz": "dars bermoq"
+   },
+   {
+    "en": "to explain",
+    "uz": "tushuntirmoq"
+   },
+   {
+    "en": "strict",
+    "uz": "qattiqqo'l"
+   },
+   {
+    "en": "patient",
+    "uz": "sabrli"
+   },
+   {
+    "en": "smart",
+    "uz": "aqlli, bilimli"
+   },
+   {
+    "en": "homework",
+    "uz": "uy vazifasi"
+   },
+   {
+    "en": "question",
+    "uz": "savol"
+   },
+   {
+    "en": "to respect",
+    "uz": "hurmat qilmoq"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "My favourite teacher is...",
+    "uz": "Mening sevimli o'qituvchim..."
+   },
+   {
+    "en": "She teaches...",
+    "uz": "U ...dan dars beradi."
+   },
+   {
+    "en": "She explains very well.",
+    "uz": "U juda yaxshi tushuntiradi."
+   },
+   {
+    "en": "I respect her.",
+    "uz": "Men uni hurmat qilaman."
+   }
+  ],
+  "sample": "My favourite teacher is Nodira opa. She **teaches** English. She is about thirty-five years old. She is kind and **patient**, but sometimes she is **strict**. She **explains** everything very well and answers all our **questions**. She gives us **homework** every day. She is very **smart**. All the pupils **respect** her, and I want to be like her."
+ },
+ {
+  "topic": 19,
+  "day": 10,
+  "title": "Holidays: what I usually do",
+  "uzTitle": "Ta'til: odatda nima qilaman",
+  "grammar": "present simple + usually",
+  "questions": [
+   "Where do you usually go on holiday?",
+   "What do you do there?",
+   "What is there in that place?"
+  ],
+  "vocab": [
+   {
+    "en": "holiday",
+    "uz": "ta'til"
+   },
+   {
+    "en": "summer",
+    "uz": "yoz"
+   },
+   {
+    "en": "mountains",
+    "uz": "tog'lar"
+   },
+   {
+    "en": "lake",
+    "uz": "ko'l"
+   },
+   {
+    "en": "hotel",
+    "uz": "mehmonxona"
+   },
+   {
+    "en": "swimming pool",
+    "uz": "suzish havzasi"
+   },
+   {
+    "en": "fresh air",
+    "uz": "toza havo"
+   },
+   {
+    "en": "to swim",
+    "uz": "suzmoq"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "Every summer we go to...",
+    "uz": "Har yozda biz ...ga boramiz."
+   },
+   {
+    "en": "We stay in a...",
+    "uz": "Biz ...da turamiz."
+   },
+   {
+    "en": "There is a ... there.",
+    "uz": "U yerda ... bor."
+   },
+   {
+    "en": "I love it because...",
+    "uz": "Men uni yaxshi ko'raman, chunki..."
+   }
+  ],
+  "sample": "Every **summer** my family and I go to the **mountains** near Tashkent. We usually go in July. We stay in a small **hotel** for one week. There is a **swimming pool**, a café and a playground there. There is also a beautiful **lake**. I **swim** every day and walk in the **fresh air**. I love this **holiday** because it is not hot there."
+ },
+ {
+  "topic": 20,
+  "day": 10,
+  "title": "Seasons and weather",
+  "uzTitle": "Fasllar va ob-havo",
+  "grammar": "It is + sifat",
+  "questions": [
+   "What is the weather like today?",
+   "What is your favourite season?",
+   "What do you do in that season?"
+  ],
+  "vocab": [
+   {
+    "en": "spring",
+    "uz": "bahor"
+   },
+   {
+    "en": "autumn",
+    "uz": "kuz"
+   },
+   {
+    "en": "winter",
+    "uz": "qish"
+   },
+   {
+    "en": "hot",
+    "uz": "issiq"
+   },
+   {
+    "en": "cold",
+    "uz": "sovuq"
+   },
+   {
+    "en": "warm",
+    "uz": "iliq"
+   },
+   {
+    "en": "rain",
+    "uz": "yomg'ir"
+   },
+   {
+    "en": "snow",
+    "uz": "qor"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "It is sunny today.",
+    "uz": "Bugun havo quyoshli."
+   },
+   {
+    "en": "My favourite season is...",
+    "uz": "Mening sevimli faslim..."
+   },
+   {
+    "en": "In winter it is...",
+    "uz": "Qishda havo..."
+   },
+   {
+    "en": "I like it when...",
+    "uz": "... bo'lganda menga yoqadi."
+   }
+  ],
+  "sample": "There are four seasons in Uzbekistan. In summer it is very **hot**. In **winter** it is **cold** and sometimes there is **snow**. My favourite season is **spring**. It is **warm** and everything is green. There is some **rain**, but I like it. In **spring** we celebrate Navruz and I walk a lot. I don't like **autumn** very much."
+ },
+ {
+  "topic": 21,
+  "day": 11,
+  "title": "My home",
+  "uzTitle": "Mening uyim",
+  "grammar": "there is / there are + predloglar",
+  "questions": [
+   "Do you live in a house or a flat?",
+   "How many rooms are there?",
+   "What is there in your home?"
+  ],
+  "vocab": [
+   {
+    "en": "house",
+    "uz": "hovli, uy"
+   },
+   {
+    "en": "flat",
+    "uz": "kvartira"
+   },
+   {
+    "en": "living room",
+    "uz": "mehmonxona (zal)"
+   },
+   {
+    "en": "kitchen",
+    "uz": "oshxona"
+   },
+   {
+    "en": "bedroom",
+    "uz": "yotoqxona"
+   },
+   {
+    "en": "bathroom",
+    "uz": "hammom"
+   },
+   {
+    "en": "garden",
+    "uz": "bog'"
+   },
+   {
+    "en": "floor",
+    "uz": "qavat"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "I live in a...",
+    "uz": "Men ...da yashayman."
+   },
+   {
+    "en": "There are ... rooms.",
+    "uz": "... ta xona bor."
+   },
+   {
+    "en": "There is a ... next to the...",
+    "uz": "...ning yonida ... bor."
+   },
+   {
+    "en": "It is on the ... floor.",
+    "uz": "U ...-qavatda."
+   }
+  ],
+  "sample": "I live in a **flat** with my family. It is on the third **floor**. There are four rooms in our **flat**: a **living** **room**, two **bedrooms** and a **kitchen**. There is also a **bathroom**. The **kitchen** is next to the **living** **room**. There is a big table in the **kitchen**. We don't have a **garden**, but there are flowers on the balcony."
+ },
+ {
+  "topic": 22,
+  "day": 11,
+  "title": "My room",
+  "uzTitle": "Mening xonam",
+  "grammar": "o'rin predloglari: next to, between, under",
+  "questions": [
+   "Is your room big or small?",
+   "What is there in your room?",
+   "Where is your bed?"
+  ],
+  "vocab": [
+   {
+    "en": "bed",
+    "uz": "karavot"
+   },
+   {
+    "en": "desk",
+    "uz": "yozuv stoli"
+   },
+   {
+    "en": "wardrobe",
+    "uz": "shkaf"
+   },
+   {
+    "en": "shelf",
+    "uz": "tokcha, javon"
+   },
+   {
+    "en": "next to",
+    "uz": "yonida"
+   },
+   {
+    "en": "between",
+    "uz": "o'rtasida"
+   },
+   {
+    "en": "under",
+    "uz": "tagida"
+   },
+   {
+    "en": "opposite",
+    "uz": "qarshisida"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "My room is...",
+    "uz": "Mening xonam..."
+   },
+   {
+    "en": "There is a ... in the corner.",
+    "uz": "Burchakda ... bor."
+   },
+   {
+    "en": "The desk is next to...",
+    "uz": "Stol ...ning yonida."
+   },
+   {
+    "en": "On the wall there is...",
+    "uz": "Devorda ... bor."
+   }
+  ],
+  "sample": "My room is small, but I like it. There is a **bed** **next to** the window. My **desk** is **opposite** the **bed**, and there is a lamp on it. The **wardrobe** is **between** the door and the **desk**. On the wall there is a **shelf** with my books. My bag is usually **under** the **desk**. My room is always clean."
+ },
+ {
+  "topic": 23,
+  "day": 12,
+  "title": "My neighbourhood",
+  "uzTitle": "Mening mahallam",
+  "grammar": "there is / there isn't",
+  "questions": [
+   "What is there near your house?",
+   "Is there a park near your house?",
+   "Do you like your neighbourhood?"
+  ],
+  "vocab": [
+   {
+    "en": "neighbourhood",
+    "uz": "mahalla, atrof"
+   },
+   {
+    "en": "shop",
+    "uz": "do'kon"
+   },
+   {
+    "en": "pharmacy",
+    "uz": "dorixona"
+   },
+   {
+    "en": "mosque",
+    "uz": "masjid"
+   },
+   {
+    "en": "bus stop",
+    "uz": "avtobus bekati"
+   },
+   {
+    "en": "playground",
+    "uz": "o'yin maydonchasi"
+   },
+   {
+    "en": "near",
+    "uz": "yaqinida"
+   },
+   {
+    "en": "far from",
+    "uz": "...dan uzoq"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "There is a ... near my house.",
+    "uz": "Uyim yaqinida ... bor."
+   },
+   {
+    "en": "There isn't a...",
+    "uz": "... yo'q."
+   },
+   {
+    "en": "It is five minutes from...",
+    "uz": "U ...dan besh daqiqalik yo'l."
+   },
+   {
+    "en": "My neighbours are...",
+    "uz": "Qo'shnilarim..."
+   }
+  ],
+  "sample": "I like my **neighbourhood**. There is a small **shop** **near** my house and a **pharmacy** next to it. There is a **mosque** and a **playground** too. The **bus stop** is five minutes from my house. There isn't a cinema, and the big market is **far from** us. My neighbours are friendly, and we always help each other."
+ },
+ {
+  "topic": 24,
+  "day": 12,
+  "title": "Shopping",
+  "uzTitle": "Xarid qilish",
+  "grammar": "How much ...?",
+  "questions": [
+   "Where do you usually go shopping?",
+   "What do you usually buy?",
+   "Do you like shopping?"
+  ],
+  "vocab": [
+   {
+    "en": "to buy",
+    "uz": "sotib olmoq"
+   },
+   {
+    "en": "money",
+    "uz": "pul"
+   },
+   {
+    "en": "price",
+    "uz": "narx"
+   },
+   {
+    "en": "cheap",
+    "uz": "arzon"
+   },
+   {
+    "en": "expensive",
+    "uz": "qimmat"
+   },
+   {
+    "en": "supermarket",
+    "uz": "supermarket"
+   },
+   {
+    "en": "seller",
+    "uz": "sotuvchi"
+   },
+   {
+    "en": "to pay",
+    "uz": "to'lamoq"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "How much is it?",
+    "uz": "Bu qancha turadi?"
+   },
+   {
+    "en": "I'd like to buy...",
+    "uz": "Men ... sotib olmoqchiman."
+   },
+   {
+    "en": "It is too expensive.",
+    "uz": "Bu juda qimmat."
+   },
+   {
+    "en": "I go shopping with...",
+    "uz": "Men ... bilan xaridga boraman."
+   }
+  ],
+  "sample": "I usually go shopping with my mother on Sundays. We go to the market because fruit and vegetables are **cheap** there. I ask the **seller**, \"How much is it?\" Then my mother **pays**. We **buy** bread and milk in the **supermarket** near our house. I like shopping for clothes, but they are **expensive**, so I don't **buy** them often."
+ },
+ {
+  "topic": 25,
+  "day": 13,
+  "title": "My favourite dish",
+  "uzTitle": "Sevimli taomim",
+  "grammar": "It is made of ...",
+  "questions": [
+   "What is your favourite food?",
+   "Who cooks it in your family?",
+   "How often do you eat it?"
+  ],
+  "vocab": [
+   {
+    "en": "dish",
+    "uz": "taom"
+   },
+   {
+    "en": "rice",
+    "uz": "guruch"
+   },
+   {
+    "en": "meat",
+    "uz": "go'sht"
+   },
+   {
+    "en": "carrot",
+    "uz": "sabzi"
+   },
+   {
+    "en": "delicious",
+    "uz": "juda mazali"
+   },
+   {
+    "en": "salad",
+    "uz": "salat"
+   },
+   {
+    "en": "plate",
+    "uz": "likopcha"
+   },
+   {
+    "en": "hungry",
+    "uz": "och"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "My favourite dish is...",
+    "uz": "Mening sevimli taomim..."
+   },
+   {
+    "en": "It is made of...",
+    "uz": "U ...dan tayyorlanadi."
+   },
+   {
+    "en": "It is very delicious.",
+    "uz": "U juda mazali."
+   },
+   {
+    "en": "We eat it every...",
+    "uz": "Biz uni har ... yeymiz."
+   }
+  ],
+  "sample": "My favourite **dish** is plov. It is made of **rice**, **meat**, **carrots** and oil. My father cooks it very well. We eat plov every Sunday with the whole family. It is very **delicious**, and when I am **hungry** I can eat two **plates**! We eat it with **salad** and drink green tea. I think it is the best **dish** in the world."
+ },
+ {
+  "topic": 26,
+  "day": 13,
+  "title": "Popular food in my country",
+  "uzTitle": "Davlatimdagi mashhur taomlar",
+  "grammar": "a lot of / many",
+  "questions": [
+   "What food is popular in your country?",
+   "What do people eat on holidays?",
+   "What do people usually drink?"
+  ],
+  "vocab": [
+   {
+    "en": "national",
+    "uz": "milliy"
+   },
+   {
+    "en": "popular",
+    "uz": "mashhur, ommabop"
+   },
+   {
+    "en": "bread",
+    "uz": "non"
+   },
+   {
+    "en": "soup",
+    "uz": "sho'rva"
+   },
+   {
+    "en": "sweets",
+    "uz": "shirinliklar"
+   },
+   {
+    "en": "guest",
+    "uz": "mehmon"
+   },
+   {
+    "en": "restaurant",
+    "uz": "restoran"
+   },
+   {
+    "en": "to try",
+    "uz": "tatib ko'rmoq"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "The most popular dish is...",
+    "uz": "Eng mashhur taom..."
+   },
+   {
+    "en": "People usually eat...",
+    "uz": "Odamlar odatda ... yeydi."
+   },
+   {
+    "en": "You should try...",
+    "uz": "Siz ...ni tatib ko'rishingiz kerak."
+   },
+   {
+    "en": "We eat it with...",
+    "uz": "Biz uni ... bilan yeymiz."
+   }
+  ],
+  "sample": "Uzbek **national** food is very **popular**. The most **popular** dish is plov, but people also love somsa, manti, lagman and shashlik. We eat a lot of **bread**. Uzbek **bread** is round and very tasty. People usually drink green tea. When a **guest** comes, we put **sweets** and fruit on the table. You should **try** our **soup**, shurpa, in a **national** **restaurant**."
+ },
+ {
+  "topic": 27,
+  "day": 14,
+  "title": "Meals",
+  "uzTitle": "Nonushta, tushlik va kechki ovqat",
+  "grammar": "have + breakfast / lunch / dinner",
+  "questions": [
+   "What do you usually have for breakfast?",
+   "Where do you have lunch?",
+   "What time do you have dinner?"
+  ],
+  "vocab": [
+   {
+    "en": "breakfast",
+    "uz": "nonushta"
+   },
+   {
+    "en": "lunch",
+    "uz": "tushlik"
+   },
+   {
+    "en": "dinner",
+    "uz": "kechki ovqat"
+   },
+   {
+    "en": "egg",
+    "uz": "tuxum"
+   },
+   {
+    "en": "cheese",
+    "uz": "pishloq"
+   },
+   {
+    "en": "tea",
+    "uz": "choy"
+   },
+   {
+    "en": "vegetables",
+    "uz": "sabzavotlar"
+   },
+   {
+    "en": "fast food",
+    "uz": "fastfud"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "For breakfast I have...",
+    "uz": "Nonushtaga men ... yeyman."
+   },
+   {
+    "en": "I have lunch at...",
+    "uz": "Men ...da tushlik qilaman."
+   },
+   {
+    "en": "We have dinner together.",
+    "uz": "Biz birga kechki ovqat yeymiz."
+   },
+   {
+    "en": "I don't eat...",
+    "uz": "Men ... yemayman."
+   }
+  ],
+  "sample": "For **breakfast** I usually have **eggs**, bread and **cheese**, and I drink **tea**. I have **lunch** at school at one o'clock. I often eat soup or rice with **vegetables**. We have **dinner** together at seven in the evening. My mother cooks something hot. I don't eat **fast food** very often because it is not healthy."
+ },
+ {
+  "topic": 28,
+  "day": 14,
+  "title": "Cooking",
+  "uzTitle": "Ovqat pishirish",
+  "grammar": "can / can't",
+  "questions": [
+   "Can you cook?",
+   "What can you cook?",
+   "Who cooks in your family?"
+  ],
+  "vocab": [
+   {
+    "en": "to cut",
+    "uz": "kesmoq"
+   },
+   {
+    "en": "to boil",
+    "uz": "qaynatmoq"
+   },
+   {
+    "en": "to fry",
+    "uz": "qovurmoq"
+   },
+   {
+    "en": "salt",
+    "uz": "tuz"
+   },
+   {
+    "en": "sugar",
+    "uz": "shakar"
+   },
+   {
+    "en": "knife",
+    "uz": "pichoq"
+   },
+   {
+    "en": "pan",
+    "uz": "tova"
+   },
+   {
+    "en": "tasty",
+    "uz": "mazali"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "I can cook...",
+    "uz": "Men ... pishira olaman."
+   },
+   {
+    "en": "I can't cook...",
+    "uz": "Men ... pishira olmayman."
+   },
+   {
+    "en": "First, ... Then, ...",
+    "uz": "Avval, ... Keyin, ..."
+   },
+   {
+    "en": "My mother cooks best.",
+    "uz": "Onam eng yaxshi pishiradi."
+   }
+  ],
+  "sample": "I can cook a little. I can make eggs and salad. First, I **cut** tomatoes with a **knife**. Then, I **fry** eggs in a **pan** and put some **salt**. It is easy and **tasty**. I can't cook plov or soup. My mother cooks best in our family. She can cook everything. I want to learn from her."
+ },
+ {
+  "topic": 29,
+  "day": 15,
+  "title": "Clothes",
+  "uzTitle": "Kiyimlar",
+  "grammar": "present continuous: I am wearing ...",
+  "questions": [
+   "What are you wearing today?",
+   "What clothes do you like?",
+   "What do you wear in winter?"
+  ],
+  "vocab": [
+   {
+    "en": "to wear",
+    "uz": "kiymoq"
+   },
+   {
+    "en": "shirt",
+    "uz": "ko'ylak (erkaklar)"
+   },
+   {
+    "en": "trousers",
+    "uz": "shim"
+   },
+   {
+    "en": "dress",
+    "uz": "ko'ylak (ayollar)"
+   },
+   {
+    "en": "jacket",
+    "uz": "kurtka"
+   },
+   {
+    "en": "shoes",
+    "uz": "poyabzal"
+   },
+   {
+    "en": "comfortable",
+    "uz": "qulay"
+   },
+   {
+    "en": "fashionable",
+    "uz": "zamonaviy, moda"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "Today I am wearing...",
+    "uz": "Bugun men ... kiyganman."
+   },
+   {
+    "en": "I usually wear...",
+    "uz": "Men odatda ... kiyaman."
+   },
+   {
+    "en": "I like ... clothes.",
+    "uz": "Menga ... kiyimlar yoqadi."
+   },
+   {
+    "en": "It looks good.",
+    "uz": "U chiroyli ko'rinadi."
+   }
+  ],
+  "sample": "Today I am **wearing** a white **shirt**, black **trousers** and black **shoes**. It is my school uniform. At home I usually **wear** a T- **shirt** and jeans because they are **comfortable**. In winter I **wear** a warm **jacket** and a hat. My sister likes **fashionable** clothes. She often **wears** **dresses**. I like simple clothes."
+ },
+ {
+  "topic": 30,
+  "day": 15,
+  "title": "Colours and favourite things",
+  "uzTitle": "Ranglar va sevimli narsalarim",
+  "grammar": "my / your / his / her",
+  "questions": [
+   "What is your favourite colour?",
+   "What colour is your bag?",
+   "What is your favourite thing?"
+  ],
+  "vocab": [
+   {
+    "en": "colour",
+    "uz": "rang"
+   },
+   {
+    "en": "blue",
+    "uz": "ko'k"
+   },
+   {
+    "en": "green",
+    "uz": "yashil"
+   },
+   {
+    "en": "red",
+    "uz": "qizil"
+   },
+   {
+    "en": "bright",
+    "uz": "yorqin"
+   },
+   {
+    "en": "thing",
+    "uz": "narsa"
+   },
+   {
+    "en": "watch",
+    "uz": "qo'l soati"
+   },
+   {
+    "en": "present",
+    "uz": "sovg'a"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "My favourite colour is...",
+    "uz": "Mening sevimli rangim..."
+   },
+   {
+    "en": "This is my...",
+    "uz": "Bu mening ..."
+   },
+   {
+    "en": "It is a present from...",
+    "uz": "Bu ...dan sovg'a."
+   },
+   {
+    "en": "I always carry it.",
+    "uz": "Men uni doim olib yuraman."
+   }
+  ],
+  "sample": "My favourite **colour** is **blue**. It is the **colour** of the sky. My bag is **blue** and my phone is **blue** too. I don't like very **bright** **colours** like **red**. My favourite **thing** is my **watch**. It is black and **green**. It is a **present** from my grandfather. I wear it every day and always carry it with me."
+ },
+ {
+  "topic": 31,
+  "day": 16,
+  "title": "Animals and pets",
+  "uzTitle": "Hayvonlar va uy hayvonlari",
+  "grammar": "have got / has got",
+  "questions": [
+   "Do you have a pet?",
+   "What is your favourite animal?",
+   "Why do you like it?"
+  ],
+  "vocab": [
+   {
+    "en": "pet",
+    "uz": "uy hayvoni"
+   },
+   {
+    "en": "cat",
+    "uz": "mushuk"
+   },
+   {
+    "en": "dog",
+    "uz": "it"
+   },
+   {
+    "en": "bird",
+    "uz": "qush"
+   },
+   {
+    "en": "cute",
+    "uz": "yoqimtoy"
+   },
+   {
+    "en": "to feed",
+    "uz": "ovqat bermoq"
+   },
+   {
+    "en": "to look after",
+    "uz": "parvarish qilmoq"
+   },
+   {
+    "en": "zoo",
+    "uz": "hayvonot bog'i"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "I have got a...",
+    "uz": "Menda ... bor."
+   },
+   {
+    "en": "Its name is...",
+    "uz": "Uning ismi..."
+   },
+   {
+    "en": "I feed it every day.",
+    "uz": "Men uni har kuni boqaman."
+   },
+   {
+    "en": "My favourite animal is...",
+    "uz": "Mening sevimli hayvonim..."
+   }
+  ],
+  "sample": "I have got a **pet**. It is a small white **cat**. Her name is Mosh. She is two years old and she is very **cute**. I **feed** her every day and **look after** her. She likes milk and fish. She sleeps on my bed. My favourite wild animal is the lion. I sometimes see lions at the **zoo**."
+ },
+ {
+  "topic": 32,
+  "day": 16,
+  "title": "Sport",
+  "uzTitle": "Sport",
+  "grammar": "play / go + sport",
+  "questions": [
+   "Do you like sport?",
+   "What sport do you do?",
+   "How often do you do it?"
+  ],
+  "vocab": [
+   {
+    "en": "football",
+    "uz": "futbol"
+   },
+   {
+    "en": "swimming",
+    "uz": "suzish"
+   },
+   {
+    "en": "team",
+    "uz": "jamoa"
+   },
+   {
+    "en": "match",
+    "uz": "o'yin, uchrashuv"
+   },
+   {
+    "en": "to win",
+    "uz": "yutmoq"
+   },
+   {
+    "en": "to lose",
+    "uz": "yutqazmoq"
+   },
+   {
+    "en": "strong",
+    "uz": "kuchli"
+   },
+   {
+    "en": "twice a week",
+    "uz": "haftada ikki marta"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "I play...",
+    "uz": "Men ... o'ynayman."
+   },
+   {
+    "en": "I go swimming.",
+    "uz": "Men suzishga boraman."
+   },
+   {
+    "en": "I do it twice a week.",
+    "uz": "Men buni haftada ikki marta qilaman."
+   },
+   {
+    "en": "My favourite team is...",
+    "uz": "Mening sevimli jamoam..."
+   }
+  ],
+  "sample": "I like sport very much. I play **football** with my friends **twice a week**. We have a small **team**. Sometimes we **win** and sometimes we **lose**, but it is always fun. In summer I go **swimming**. I also watch **matches** on TV. My favourite **team** is Pakhtakor. Sport is good because it makes me **strong** and healthy."
+ },
+ {
+  "topic": 33,
+  "day": 17,
+  "title": "Music",
+  "uzTitle": "Musiqa",
+  "grammar": "him / her / them",
+  "questions": [
+   "Do you like music?",
+   "What kind of music do you like?",
+   "Who is your favourite singer?"
+  ],
+  "vocab": [
+   {
+    "en": "song",
+    "uz": "qo'shiq"
+   },
+   {
+    "en": "singer",
+    "uz": "qo'shiqchi"
+   },
+   {
+    "en": "to listen to",
+    "uz": "tinglamoq"
+   },
+   {
+    "en": "to sing",
+    "uz": "kuylamoq"
+   },
+   {
+    "en": "voice",
+    "uz": "ovoz"
+   },
+   {
+    "en": "headphones",
+    "uz": "quloqchinlar"
+   },
+   {
+    "en": "loud",
+    "uz": "baland ovozli"
+   },
+   {
+    "en": "guitar",
+    "uz": "gitara"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "I listen to music every day.",
+    "uz": "Men har kuni musiqa tinglayman."
+   },
+   {
+    "en": "I like ... music.",
+    "uz": "Menga ... musiqasi yoqadi."
+   },
+   {
+    "en": "My favourite singer is...",
+    "uz": "Mening sevimli qo'shiqchim..."
+   },
+   {
+    "en": "I can't play...",
+    "uz": "Men ... chala olmayman."
+   }
+  ],
+  "sample": "I like music very much. I **listen to** music every day on my phone with **headphones**. I like pop music and Uzbek **songs**. My favourite **singer** is Sevara Nazarkhan. She has a beautiful **voice** and I like her **songs**. I can't **sing** well, and I can't play the **guitar**, but I want to learn. I don't like very **loud** music."
+ },
+ {
+  "topic": 34,
+  "day": 17,
+  "title": "Films and cartoons",
+  "uzTitle": "Filmlar va multfilmlar",
+  "grammar": "love / like / hate + -ing",
+  "questions": [
+   "Do you like watching films?",
+   "What kind of films do you like?",
+   "Where do you watch films?"
+  ],
+  "vocab": [
+   {
+    "en": "film",
+    "uz": "film, kino"
+   },
+   {
+    "en": "cartoon",
+    "uz": "multfilm"
+   },
+   {
+    "en": "comedy",
+    "uz": "komediya"
+   },
+   {
+    "en": "cinema",
+    "uz": "kinoteatr"
+   },
+   {
+    "en": "actor",
+    "uz": "aktyor"
+   },
+   {
+    "en": "scary",
+    "uz": "qo'rqinchli"
+   },
+   {
+    "en": "exciting",
+    "uz": "hayajonli"
+   },
+   {
+    "en": "to laugh",
+    "uz": "kulmoq"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "I love watching...",
+    "uz": "Men ... ko'rishni juda yaxshi ko'raman."
+   },
+   {
+    "en": "I hate...",
+    "uz": "Men ...ni yomon ko'raman."
+   },
+   {
+    "en": "My favourite film is...",
+    "uz": "Mening sevimli filmim..."
+   },
+   {
+    "en": "I watch films on...",
+    "uz": "Men filmlarni ...da ko'raman."
+   }
+  ],
+  "sample": "I love watching **films**. I like comedies because I like **laughing**. I also like **cartoons**. I hate **scary** **films**. I can't sleep after them! My favourite **film** is \"Home Alone\". It is very funny and **exciting**. I usually watch **films** on my phone or on TV. Sometimes I go to the **cinema** with my friends at the weekend."
+ },
+ {
+  "topic": 35,
+  "day": 18,
+  "title": "Books and reading",
+  "uzTitle": "Kitoblar va kitob o'qish",
+  "grammar": "present simple: I don't ...",
+  "questions": [
+   "Do you like reading?",
+   "What kind of books do you read?",
+   "When do you read?"
+  ],
+  "vocab": [
+   {
+    "en": "story",
+    "uz": "hikoya"
+   },
+   {
+    "en": "writer",
+    "uz": "yozuvchi"
+   },
+   {
+    "en": "page",
+    "uz": "sahifa"
+   },
+   {
+    "en": "fairy tale",
+    "uz": "ertak"
+   },
+   {
+    "en": "poem",
+    "uz": "she'r"
+   },
+   {
+    "en": "useful",
+    "uz": "foydali"
+   },
+   {
+    "en": "to borrow",
+    "uz": "vaqtincha olmoq"
+   },
+   {
+    "en": "before bed",
+    "uz": "uxlashdan oldin"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "I like reading...",
+    "uz": "Men ... o'qishni yoqtiraman."
+   },
+   {
+    "en": "I read ... pages a day.",
+    "uz": "Men kuniga ... sahifa o'qiyman."
+   },
+   {
+    "en": "My favourite writer is...",
+    "uz": "Mening sevimli yozuvchim..."
+   },
+   {
+    "en": "I don't read...",
+    "uz": "Men ... o'qimayman."
+   }
+  ],
+  "sample": "I like reading. I usually read **before bed**. I read about ten **pages** a day. I like short stories and **fairy** **tales**. I don't read **poems** very often. My favourite **writer** is Abdulla Qodiriy. I **borrow** books from the school library. Reading is **useful** because I learn new words. Now I am reading an easy book in English."
+ },
+ {
+  "topic": 36,
+  "day": 18,
+  "title": "My phone and the internet",
+  "uzTitle": "Telefonim va internet",
+  "grammar": "use ... to + fe'l",
+  "questions": [
+   "How often do you use your phone?",
+   "What do you use it for?",
+   "What apps do you like?"
+  ],
+  "vocab": [
+   {
+    "en": "phone",
+    "uz": "telefon"
+   },
+   {
+    "en": "internet",
+    "uz": "internet"
+   },
+   {
+    "en": "app",
+    "uz": "ilova"
+   },
+   {
+    "en": "message",
+    "uz": "xabar"
+   },
+   {
+    "en": "to call",
+    "uz": "qo'ng'iroq qilmoq"
+   },
+   {
+    "en": "to send",
+    "uz": "yubormoq"
+   },
+   {
+    "en": "to download",
+    "uz": "yuklab olmoq"
+   },
+   {
+    "en": "online",
+    "uz": "internetda, onlayn"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "I use my phone to...",
+    "uz": "Men telefonimdan ... uchun foydalanaman."
+   },
+   {
+    "en": "I spend ... hours online.",
+    "uz": "Men ... soat internetda bo'laman."
+   },
+   {
+    "en": "My favourite app is...",
+    "uz": "Mening sevimli ilovam..."
+   },
+   {
+    "en": "I can't live without...",
+    "uz": "Men ...siz yashay olmayman."
+   }
+  ],
+  "sample": "I use my **phone** every day. I use it to **call** my parents and **send** **messages** to my friends. My favourite **app** is Telegram. I also watch videos and **download** music. I spend about three hours **online** every day. I use the **internet** for my English lessons too. I think I can't live without my **phone**, but that is not very good."
+ },
+ {
+  "topic": 37,
+  "day": 19,
+  "title": "Games",
+  "uzTitle": "O'yinlar",
+  "grammar": "play + o'yin nomi",
+  "questions": [
+   "Do you like playing games?",
+   "What games do you play?",
+   "Who do you play with?"
+  ],
+  "vocab": [
+   {
+    "en": "game",
+    "uz": "o'yin"
+   },
+   {
+    "en": "computer game",
+    "uz": "kompyuter o'yini"
+   },
+   {
+    "en": "chess",
+    "uz": "shaxmat"
+   },
+   {
+    "en": "player",
+    "uz": "o'yinchi"
+   },
+   {
+    "en": "rule",
+    "uz": "qoida"
+   },
+   {
+    "en": "level",
+    "uz": "bosqich"
+   },
+   {
+    "en": "winner",
+    "uz": "g'olib"
+   },
+   {
+    "en": "outside",
+    "uz": "tashqarida, ko'chada"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "I like playing...",
+    "uz": "Men ... o'ynashni yoqtiraman."
+   },
+   {
+    "en": "I play it with...",
+    "uz": "Men uni ... bilan o'ynayman."
+   },
+   {
+    "en": "The rules are easy.",
+    "uz": "Qoidalari oson."
+   },
+   {
+    "en": "I am the winner!",
+    "uz": "Men g'olibman!"
+   }
+  ],
+  "sample": "I like playing **games**. I play **chess** with my grandfather. The **rules** are not easy, and he is usually the **winner**. I also play **computer games**, but only one hour a day. My favourite **game** has fifty **levels**. In summer I play **outside** with my friends. We play football and hide-and-seek. **Games** are fun."
+ },
+ {
+  "topic": 38,
+  "day": 19,
+  "title": "Things I can do",
+  "uzTitle": "Men nimalarni qila olaman",
+  "grammar": "can / can't",
+  "questions": [
+   "What can you do well?",
+   "What can't you do?",
+   "What do you want to learn?"
+  ],
+  "vocab": [
+   {
+    "en": "to ride a bike",
+    "uz": "velosiped haydamoq"
+   },
+   {
+    "en": "to dance",
+    "uz": "raqsga tushmoq"
+   },
+   {
+    "en": "to draw",
+    "uz": "rasm chizmoq"
+   },
+   {
+    "en": "to count",
+    "uz": "sanamoq"
+   },
+   {
+    "en": "to run",
+    "uz": "yugurmoq"
+   },
+   {
+    "en": "fast",
+    "uz": "tez"
+   },
+   {
+    "en": "well",
+    "uz": "yaxshi"
+   },
+   {
+    "en": "a little",
+    "uz": "biroz"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "I can ... very well.",
+    "uz": "Men ...ni juda yaxshi qila olaman."
+   },
+   {
+    "en": "I can't...",
+    "uz": "Men ... qila olmayman."
+   },
+   {
+    "en": "Can you...?",
+    "uz": "Siz ... qila olasizmi?"
+   },
+   {
+    "en": "I want to learn to...",
+    "uz": "Men ...ni o'rganmoqchiman."
+   }
+  ],
+  "sample": "I can do many things. I can **ride a bike** and I can **run** **fast**. I can swim **a little**. I can **draw** very **well**. I can speak Uzbek and Russian, and I can **count** to one hundred in English. But I can't **dance** and I can't drive a car. I want to learn to play the piano."
+ },
+ {
+  "topic": 39,
+  "day": 20,
+  "title": "Transport",
+  "uzTitle": "Transport: maktabga qanday boraman",
+  "grammar": "by bus / on foot",
+  "questions": [
+   "How do you go to school?",
+   "How long does it take?",
+   "What transport do you like?"
+  ],
+  "vocab": [
+   {
+    "en": "bus",
+    "uz": "avtobus"
+   },
+   {
+    "en": "car",
+    "uz": "mashina"
+   },
+   {
+    "en": "metro",
+    "uz": "metro"
+   },
+   {
+    "en": "taxi",
+    "uz": "taksi"
+   },
+   {
+    "en": "on foot",
+    "uz": "piyoda"
+   },
+   {
+    "en": "ticket",
+    "uz": "chipta"
+   },
+   {
+    "en": "traffic",
+    "uz": "tirbandlik, yo'l harakati"
+   },
+   {
+    "en": "to take",
+    "uz": "(vaqt) olmoq, (transportga) o'tirmoq"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "I go to school by...",
+    "uz": "Men maktabga ... bilan boraman."
+   },
+   {
+    "en": "It takes ... minutes.",
+    "uz": "Bu ... daqiqa vaqt oladi."
+   },
+   {
+    "en": "I go on foot.",
+    "uz": "Men piyoda boraman."
+   },
+   {
+    "en": "There is a lot of traffic.",
+    "uz": "Yo'lda tirbandlik ko'p."
+   }
+  ],
+  "sample": "I usually go to school **on foot** because it is near my house. It **takes** ten minutes. When I go to the city centre, I **take** the **bus** or the **metro**. The **metro** is fast and the **ticket** is cheap. My father goes to work by **car**. In the morning there is a lot of **traffic**. I don't like **taxis** because they are expensive."
+ },
+ {
+  "topic": 40,
+  "day": 20,
+  "title": "My favourite place",
+  "uzTitle": "Sevimli joyim",
+  "grammar": "You can ... there",
+  "questions": [
+   "What is your favourite place in your city?",
+   "What can you do there?",
+   "How often do you go there?"
+  ],
+  "vocab": [
+   {
+    "en": "place",
+    "uz": "joy"
+   },
+   {
+    "en": "centre",
+    "uz": "markaz"
+   },
+   {
+    "en": "fountain",
+    "uz": "favvora"
+   },
+   {
+    "en": "bench",
+    "uz": "o'rindiq"
+   },
+   {
+    "en": "museum",
+    "uz": "muzey"
+   },
+   {
+    "en": "café",
+    "uz": "kafe"
+   },
+   {
+    "en": "crowded",
+    "uz": "gavjum, odam ko'p"
+   },
+   {
+    "en": "to meet",
+    "uz": "uchrashmoq"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "My favourite place is...",
+    "uz": "Mening sevimli joyim..."
+   },
+   {
+    "en": "You can ... there.",
+    "uz": "U yerda ... mumkin."
+   },
+   {
+    "en": "I go there every...",
+    "uz": "Men u yerga har ... boraman."
+   },
+   {
+    "en": "It is a great place to...",
+    "uz": "Bu ... uchun ajoyib joy."
+   }
+  ],
+  "sample": "My favourite **place** in my city is the central park. It is in the **centre** of Tashkent. There are many trees, **benches** and a big **fountain** there. You can walk, ride a bike or eat ice cream in a **café**. I **meet** my friends there every Saturday. At weekends it is **crowded**, but I like it. It is a great **place** to relax."
+ },
+ {
+  "topic": 41,
+  "day": 21,
+  "title": "Health",
+  "uzTitle": "Sog'liq va foydali odatlar",
+  "grammar": "should / shouldn't",
+  "questions": [
+   "What do you do to be healthy?",
+   "What should people eat?",
+   "What do you do when you are ill?"
+  ],
+  "vocab": [
+   {
+    "en": "health",
+    "uz": "sog'liq"
+   },
+   {
+    "en": "ill",
+    "uz": "kasal"
+   },
+   {
+    "en": "headache",
+    "uz": "bosh og'rig'i"
+   },
+   {
+    "en": "medicine",
+    "uz": "dori"
+   },
+   {
+    "en": "exercise",
+    "uz": "jismoniy mashq"
+   },
+   {
+    "en": "to sleep",
+    "uz": "uxlamoq"
+   },
+   {
+    "en": "to wash",
+    "uz": "yuvmoq"
+   },
+   {
+    "en": "water",
+    "uz": "suv"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "I try to...",
+    "uz": "Men ...ga harakat qilaman."
+   },
+   {
+    "en": "You should...",
+    "uz": "Siz ... qilishingiz kerak."
+   },
+   {
+    "en": "You shouldn't...",
+    "uz": "Siz ... qilmasligingiz kerak."
+   },
+   {
+    "en": "When I am ill, I...",
+    "uz": "Kasal bo'lganimda men..."
+   }
+  ],
+  "sample": "**Health** is very important. I try to do **exercise** every morning. I drink a lot of **water** and eat fruit. I **sleep** eight hours. I always **wash** my hands before I eat. You should eat vegetables and you shouldn't eat a lot of sweets. When I am **ill** or have a **headache**, I stay in bed and take **medicine**."
+ },
+ {
+  "topic": 42,
+  "day": 21,
+  "title": "What is happening now",
+  "uzTitle": "Hozir nima bo'lyapti (rasmni tasvirlash)",
+  "grammar": "present continuous",
+  "questions": [
+   "What are you doing now?",
+   "What are your family doing now?",
+   "What can you see in the picture?"
+  ],
+  "vocab": [
+   {
+    "en": "now",
+    "uz": "hozir"
+   },
+   {
+    "en": "at the moment",
+    "uz": "ayni paytda"
+   },
+   {
+    "en": "to sit",
+    "uz": "o'tirmoq"
+   },
+   {
+    "en": "to stand",
+    "uz": "tik turmoq"
+   },
+   {
+    "en": "to talk",
+    "uz": "gaplashmoq"
+   },
+   {
+    "en": "to smile",
+    "uz": "jilmaymoq"
+   },
+   {
+    "en": "picture",
+    "uz": "rasm"
+   },
+   {
+    "en": "in the middle",
+    "uz": "o'rtada"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "I am ...-ing now.",
+    "uz": "Men hozir ... qilyapman."
+   },
+   {
+    "en": "He is ...-ing.",
+    "uz": "U ... qilyapti."
+   },
+   {
+    "en": "In the picture I can see...",
+    "uz": "Rasmda men ...ni ko'ryapman."
+   },
+   {
+    "en": "They are not ...-ing.",
+    "uz": "Ular ... qilmayapti."
+   }
+  ],
+  "sample": "**Now** I am sitting at my desk and speaking English. My mother is cooking dinner in the kitchen. My father is watching TV. My brother is not studying **at the moment**. He is playing a game. In the **picture** on my wall I can see a family. They are **standing** in a garden and **talking**. A girl **in the** **middle** is smiling."
+ },
+ {
+  "topic": 43,
+  "day": 22,
+  "title": "My last day: yesterday",
+  "uzTitle": "Kechagi kunim",
+  "grammar": "past simple (I)",
+  "questions": [
+   "What did you do yesterday?",
+   "What time did you get up?",
+   "What did you do in the evening?"
+  ],
+  "vocab": [
+   {
+    "en": "yesterday",
+    "uz": "kecha"
+   },
+   {
+    "en": "got up",
+    "uz": "turdim (get up)"
+   },
+   {
+    "en": "went",
+    "uz": "bordim (go)"
+   },
+   {
+    "en": "had",
+    "uz": "yedim, bor edi (have)"
+   },
+   {
+    "en": "came",
+    "uz": "keldim (come)"
+   },
+   {
+    "en": "did",
+    "uz": "qildim (do)"
+   },
+   {
+    "en": "watched",
+    "uz": "tomosha qildim"
+   },
+   {
+    "en": "last night",
+    "uz": "kecha kechqurun"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "Yesterday I got up at...",
+    "uz": "Kecha men soat ...da turdim."
+   },
+   {
+    "en": "After school I...",
+    "uz": "Maktabdan keyin men..."
+   },
+   {
+    "en": "I didn't...",
+    "uz": "Men ... qilmadim."
+   },
+   {
+    "en": "It was a good day.",
+    "uz": "Yaxshi kun bo'ldi."
+   }
+  ],
+  "sample": "**Yesterday** I **got up** at seven o'clock. I **had** breakfast and **went** to school. I **had** five lessons. After school I **came** home and **had** lunch. Then I **did** my homework and helped my mother. **Last night** I **watched** a film with my family. I didn't play computer games. I **went** to bed at eleven. It was a good day."
+ },
+ {
+  "topic": 44,
+  "day": 22,
+  "title": "What my family member did yesterday",
+  "uzTitle": "Oila a'zom kecha nima qildi",
+  "grammar": "past simple (he / she)",
+  "questions": [
+   "Who do you want to talk about?",
+   "What did he or she do yesterday?",
+   "Was he or she busy?"
+  ],
+  "vocab": [
+   {
+    "en": "cooked",
+    "uz": "pishirdi"
+   },
+   {
+    "en": "cleaned",
+    "uz": "tozaladi"
+   },
+   {
+    "en": "bought",
+    "uz": "sotib oldi (buy)"
+   },
+   {
+    "en": "made",
+    "uz": "tayyorladi (make)"
+   },
+   {
+    "en": "met",
+    "uz": "uchrashdi (meet)"
+   },
+   {
+    "en": "called",
+    "uz": "qo'ng'iroq qildi"
+   },
+   {
+    "en": "was",
+    "uz": "edi (is)"
+   },
+   {
+    "en": "in the afternoon",
+    "uz": "tushdan keyin"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "Yesterday my mother...",
+    "uz": "Kecha onam..."
+   },
+   {
+    "en": "In the morning she...",
+    "uz": "Ertalab u..."
+   },
+   {
+    "en": "She didn't...",
+    "uz": "U ... qilmadi."
+   },
+   {
+    "en": "She was very tired.",
+    "uz": "U juda charchagan edi."
+   }
+  ],
+  "sample": "I want to talk about my mother. Yesterday she got up at six and **made** breakfast for us. Then she **cleaned** the house. **In the afternoon** she went to the market and **bought** fruit and meat. She **met** her friend there. In the evening she **cooked** plov and **called** my grandmother. She didn't rest at all. She **was** very tired."
+ },
+ {
+  "topic": 45,
+  "day": 23,
+  "title": "Last weekend",
+  "uzTitle": "O'tgan dam olish kunlari",
+  "grammar": "past simple: Did you ...?",
+  "questions": [
+   "What did you do last weekend?",
+   "Where did you go?",
+   "Did you have a good time?"
+  ],
+  "vocab": [
+   {
+    "en": "last weekend",
+    "uz": "o'tgan dam olish kunlari"
+   },
+   {
+    "en": "visited",
+    "uz": "borib ko'rdim"
+   },
+   {
+    "en": "played",
+    "uz": "o'ynadim"
+   },
+   {
+    "en": "stayed",
+    "uz": "qoldim"
+   },
+   {
+    "en": "saw",
+    "uz": "ko'rdim (see)"
+   },
+   {
+    "en": "ate",
+    "uz": "yedim (eat)"
+   },
+   {
+    "en": "slept",
+    "uz": "uxladim (sleep)"
+   },
+   {
+    "en": "fun",
+    "uz": "maroqli"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "Last weekend I...",
+    "uz": "O'tgan dam olish kunlari men..."
+   },
+   {
+    "en": "On Saturday I went to...",
+    "uz": "Shanba kuni men ...ga bordim."
+   },
+   {
+    "en": "We had a great time.",
+    "uz": "Biz ajoyib vaqt o'tkazdik."
+   },
+   {
+    "en": "I stayed at home.",
+    "uz": "Men uyda qoldim."
+   }
+  ],
+  "sample": "**Last weekend** was great. On Saturday I **slept** until ten o'clock. Then I **visited** my grandparents in the village. We **ate** shashlik in the garden. I **played** with my cousins and **saw** their new dog. On Sunday I **stayed** at home. I did my homework and watched TV. We had a great time. It was **fun**."
+ },
+ {
+  "topic": 46,
+  "day": 23,
+  "title": "My last holiday (1 minute)",
+  "uzTitle": "Oxirgi ta'tilim (1 daqiqa)",
+  "grammar": "past simple + was / were",
+  "questions": [
+   "Where did you go on your last holiday?",
+   "Who did you go with?",
+   "What did you do there?"
+  ],
+  "vocab": [
+   {
+    "en": "last summer",
+    "uz": "o'tgan yozda"
+   },
+   {
+    "en": "trip",
+    "uz": "sayohat"
+   },
+   {
+    "en": "travelled",
+    "uz": "sayohat qildim"
+   },
+   {
+    "en": "took photos",
+    "uz": "suratga oldim"
+   },
+   {
+    "en": "swam",
+    "uz": "suzdim (swim)"
+   },
+   {
+    "en": "weather",
+    "uz": "ob-havo"
+   },
+   {
+    "en": "wonderful",
+    "uz": "ajoyib"
+   },
+   {
+    "en": "souvenir",
+    "uz": "esdalik sovg'a"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "Last summer I went to...",
+    "uz": "O'tgan yozda men ...ga bordim."
+   },
+   {
+    "en": "We travelled by...",
+    "uz": "Biz ... bilan sayohat qildik."
+   },
+   {
+    "en": "The weather was...",
+    "uz": "Ob-havo ... edi."
+   },
+   {
+    "en": "I want to go there again.",
+    "uz": "Men u yerga yana bormoqchiman."
+   }
+  ],
+  "sample": "**Last summer** I went to Samarkand with my family. We **travelled** by train. The **trip** took two hours. We stayed in a small hotel for three days. The **weather** was hot and sunny. We visited Registan and **took photos**. We ate Samarkand bread and plov. I **swam** in the hotel pool every evening. I bought **souvenirs** for my friends. It was a **wonderful** holiday, and I want to go there again."
+ },
+ {
+  "topic": 47,
+  "day": 24,
+  "title": "My childhood",
+  "uzTitle": "Bolaligim",
+  "grammar": "was / were / could",
+  "questions": [
+   "Where were you born?",
+   "What were you like when you were a child?",
+   "What did you like doing?"
+  ],
+  "vocab": [
+   {
+    "en": "child",
+    "uz": "bola"
+   },
+   {
+    "en": "childhood",
+    "uz": "bolalik"
+   },
+   {
+    "en": "was born",
+    "uz": "tug'ilganman"
+   },
+   {
+    "en": "toy",
+    "uz": "o'yinchoq"
+   },
+   {
+    "en": "kindergarten",
+    "uz": "bog'cha"
+   },
+   {
+    "en": "happy",
+    "uz": "baxtli"
+   },
+   {
+    "en": "naughty",
+    "uz": "sho'x, to'polonchi"
+   },
+   {
+    "en": "could",
+    "uz": "qila olardim"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "I was born in...",
+    "uz": "Men ...da tug'ilganman."
+   },
+   {
+    "en": "When I was a child, I...",
+    "uz": "Bolaligimda men..."
+   },
+   {
+    "en": "I could...",
+    "uz": "Men ... qila olardim."
+   },
+   {
+    "en": "My favourite toy was...",
+    "uz": "Mening sevimli o'yinchog'im ... edi."
+   }
+  ],
+  "sample": "I **was born** in Bukhara in 2010. When I was a **child**, I was very **naughty**. I went to **kindergarten** near our house. My favourite **toy** was a red car. I played outside with my friends all day. I **could** ride a bike when I was five. My grandmother told me stories every night. I had a **happy** **childhood**."
+ },
+ {
+  "topic": 48,
+  "day": 24,
+  "title": "My last birthday",
+  "uzTitle": "Oxirgi tug'ilgan kunim",
+  "grammar": "past simple + sanalar",
+  "questions": [
+   "When is your birthday?",
+   "How did you celebrate your last birthday?",
+   "What presents did you get?"
+  ],
+  "vocab": [
+   {
+    "en": "birthday",
+    "uz": "tug'ilgan kun"
+   },
+   {
+    "en": "party",
+    "uz": "bazm, ziyofat"
+   },
+   {
+    "en": "cake",
+    "uz": "tort"
+   },
+   {
+    "en": "candle",
+    "uz": "sham"
+   },
+   {
+    "en": "invited",
+    "uz": "taklif qildim"
+   },
+   {
+    "en": "gave",
+    "uz": "berdi (give)"
+   },
+   {
+    "en": "got",
+    "uz": "oldim (get)"
+   },
+   {
+    "en": "danced",
+    "uz": "raqsga tushdik"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "My birthday is on...",
+    "uz": "Mening tug'ilgan kunim ...da."
+   },
+   {
+    "en": "I invited...",
+    "uz": "Men ...ni taklif qildim."
+   },
+   {
+    "en": "My parents gave me...",
+    "uz": "Ota-onam menga ... berishdi."
+   },
+   {
+    "en": "It was the best day.",
+    "uz": "Bu eng yaxshi kun bo'ldi."
+   }
+  ],
+  "sample": "My **birthday** is on the fifth of May. Last year I had a small **party** at home. I **invited** six friends. My mother made a big **cake** with sixteen **candles**. We ate, listened to music and **danced**. My parents **gave** me a new phone, and I **got** books from my friends. I was very happy. It was the best day of the year."
+ },
+ {
+  "topic": 49,
+  "day": 25,
+  "title": "My hobby (1 minute)",
+  "uzTitle": "Mening hobbim (1 daqiqa)",
+  "grammar": "hozirgi + o'tgan zamon birga",
+  "questions": [
+   "What is your hobby and when did you start it?",
+   "How often do you do it?",
+   "Why is it important for you?"
+  ],
+  "vocab": [
+   {
+    "en": "started",
+    "uz": "boshladim"
+   },
+   {
+    "en": "ago",
+    "uz": "oldin"
+   },
+   {
+    "en": "at first",
+    "uz": "avvaliga"
+   },
+   {
+    "en": "now",
+    "uz": "hozir"
+   },
+   {
+    "en": "skill",
+    "uz": "ko'nikma"
+   },
+   {
+    "en": "improved",
+    "uz": "yaxshiladim"
+   },
+   {
+    "en": "proud",
+    "uz": "faxrlanadigan"
+   },
+   {
+    "en": "in the future",
+    "uz": "kelajakda"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "I started ... two years ago.",
+    "uz": "Men ...ni ikki yil oldin boshladim."
+   },
+   {
+    "en": "At first it was difficult.",
+    "uz": "Avvaliga qiyin edi."
+   },
+   {
+    "en": "Now I can...",
+    "uz": "Hozir men ... qila olaman."
+   },
+   {
+    "en": "It helps me to...",
+    "uz": "Bu menga ...ga yordam beradi."
+   }
+  ],
+  "sample": "I want to talk about my hobby. My hobby is playing chess. I **started** it two years **ago**. My grandfather taught me. **At first** it was difficult and I always lost. But I played every day and **improved** my **skills**. **Now** I can win against my father! I play three times a week at a chess club. Last month I played in a school competition and got second place. I was very **proud**. Chess helps me to think and relax. **In the future** I want to be a champion."
+ },
+ {
+  "topic": 50,
+  "day": 25,
+  "title": "A place I visited",
+  "uzTitle": "Men borgan joy",
+  "grammar": "past simple + sifatlar",
+  "questions": [
+   "What interesting place did you visit?",
+   "When did you go there?",
+   "What did you see?"
+  ],
+  "vocab": [
+   {
+    "en": "building",
+    "uz": "bino"
+   },
+   {
+    "en": "old",
+    "uz": "eski, qadimiy"
+   },
+   {
+    "en": "huge",
+    "uz": "ulkan"
+   },
+   {
+    "en": "wall",
+    "uz": "devor"
+   },
+   {
+    "en": "guide",
+    "uz": "gid"
+   },
+   {
+    "en": "history",
+    "uz": "tarix"
+   },
+   {
+    "en": "amazing",
+    "uz": "hayratlanarli"
+   },
+   {
+    "en": "to remember",
+    "uz": "eslamoq"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "I visited ... last year.",
+    "uz": "Men o'tgan yili ...ga bordim."
+   },
+   {
+    "en": "It is in the heart of...",
+    "uz": "U ...ning qoq markazida."
+   },
+   {
+    "en": "It was amazing.",
+    "uz": "U hayratlanarli edi."
+   },
+   {
+    "en": "I learned a lot about...",
+    "uz": "Men ... haqida ko'p narsa bildim."
+   }
+  ],
+  "sample": "Last year I visited Khiva with my class. It is a very **old** city in Uzbekistan. We saw Ichan-Kala. It is in the heart of the city. The **buildings** and **walls** are **huge**. Our **guide** told us about the **history** of Khiva. I learned a lot. It was **amazing**, and I still **remember** that day."
+ },
+ {
+  "topic": 51,
+  "day": 26,
+  "title": "Navruz",
+  "uzTitle": "Navro'z bayrami",
+  "grammar": "present simple (we) + sanalar",
+  "questions": [
+   "What is your favourite holiday?",
+   "When do people celebrate it?",
+   "What do people do on that day?"
+  ],
+  "vocab": [
+   {
+    "en": "to celebrate",
+    "uz": "nishonlamoq"
+   },
+   {
+    "en": "tradition",
+    "uz": "an'ana"
+   },
+   {
+    "en": "March",
+    "uz": "mart"
+   },
+   {
+    "en": "concert",
+    "uz": "konsert"
+   },
+   {
+    "en": "national clothes",
+    "uz": "milliy kiyimlar"
+   },
+   {
+    "en": "beginning",
+    "uz": "boshlanish"
+   },
+   {
+    "en": "to wish",
+    "uz": "tilak bildirmoq"
+   },
+   {
+    "en": "together",
+    "uz": "birga"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "We celebrate it on...",
+    "uz": "Biz uni ...da nishonlaymiz."
+   },
+   {
+    "en": "People cook...",
+    "uz": "Odamlar ... pishiradi."
+   },
+   {
+    "en": "Everybody is happy.",
+    "uz": "Hamma xursand."
+   },
+   {
+    "en": "Happy holiday!",
+    "uz": "Bayramingiz bilan!"
+   }
+  ],
+  "sample": "My favourite holiday is Navruz. We **celebrate** it on the twenty-first of **March**. It is the **beginning** of spring. People cook sumalak all night. It is an old **tradition**. Women and girls wear **national** **clothes**. There are **concerts** in the parks. We visit our relatives and **wish** them health. Everybody is happy and we spend the day **together**."
+ },
+ {
+  "topic": 52,
+  "day": 26,
+  "title": "New Year",
+  "uzTitle": "Yangi yil",
+  "grammar": "hozirgi va o'tgan zamon",
+  "questions": [
+   "How do you celebrate New Year?",
+   "What do you eat?",
+   "What did you do last New Year?"
+  ],
+  "vocab": [
+   {
+    "en": "New Year",
+    "uz": "Yangi yil"
+   },
+   {
+    "en": "December",
+    "uz": "dekabr"
+   },
+   {
+    "en": "to decorate",
+    "uz": "bezatmoq"
+   },
+   {
+    "en": "New Year tree",
+    "uz": "archa"
+   },
+   {
+    "en": "fireworks",
+    "uz": "mushakbozlik"
+   },
+   {
+    "en": "midnight",
+    "uz": "yarim tun"
+   },
+   {
+    "en": "wish",
+    "uz": "tilak"
+   },
+   {
+    "en": "to stay up",
+    "uz": "uxlamay o'tirmoq"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "We celebrate New Year on...",
+    "uz": "Biz Yangi yilni ...da nishonlaymiz."
+   },
+   {
+    "en": "We decorate...",
+    "uz": "Biz ...ni bezatamiz."
+   },
+   {
+    "en": "At midnight we...",
+    "uz": "Yarim tunda biz..."
+   },
+   {
+    "en": "Happy New Year!",
+    "uz": "Yangi yilingiz bilan!"
+   }
+  ],
+  "sample": "We celebrate **New Year** on the thirty-first of **December**. Before the holiday we **decorate** the **New** **Year tree** at home. My mother cooks a lot of food and salads. At **midnight** we watch **fireworks** and make a **wish**. Last **New Year** I stayed up until two o'clock! I said \"Happy **New Year**!\" to all my friends. I love this holiday."
+ },
+ {
+  "topic": 53,
+  "day": 27,
+  "title": "Gifts",
+  "uzTitle": "Sovg'alar",
+  "grammar": "give / get + me, her, him",
+  "questions": [
+   "Do you like giving presents?",
+   "What was the best present you got?",
+   "What do you give your mother?"
+  ],
+  "vocab": [
+   {
+    "en": "gift",
+    "uz": "sovg'a"
+   },
+   {
+    "en": "flowers",
+    "uz": "gullar"
+   },
+   {
+    "en": "perfume",
+    "uz": "atir"
+   },
+   {
+    "en": "surprise",
+    "uz": "kutilmagan sovg'a"
+   },
+   {
+    "en": "chose",
+    "uz": "tanladim (choose)"
+   },
+   {
+    "en": "to open",
+    "uz": "ochmoq"
+   },
+   {
+    "en": "special",
+    "uz": "alohida, maxsus"
+   },
+   {
+    "en": "thanked",
+    "uz": "rahmat aytdi"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "I like giving presents.",
+    "uz": "Men sovg'a berishni yoqtiraman."
+   },
+   {
+    "en": "I gave her...",
+    "uz": "Men unga ... berdim."
+   },
+   {
+    "en": "The best present was...",
+    "uz": "Eng yaxshi sovg'a ... edi."
+   },
+   {
+    "en": "Thank you for the present!",
+    "uz": "Sovg'a uchun rahmat!"
+   }
+  ],
+  "sample": "I like giving presents. On the eighth of March I gave my mother **flowers** and **perfume**. I **chose** them with my father. It was a **surprise**, and she was very happy. She **thanked** us. The best **gift** I got was a bike. My parents gave it to me when I was ten. It was very **special** for me."
+ },
+ {
+  "topic": 54,
+  "day": 27,
+  "title": "Guests at home",
+  "uzTitle": "Uyda mehmon",
+  "grammar": "When ..., we ...",
+  "questions": [
+   "Do guests often come to your house?",
+   "What do you do when guests come?",
+   "What do you put on the table?"
+  ],
+  "vocab": [
+   {
+    "en": "guest",
+    "uz": "mehmon"
+   },
+   {
+    "en": "to invite",
+    "uz": "taklif qilmoq"
+   },
+   {
+    "en": "to welcome",
+    "uz": "kutib olmoq"
+   },
+   {
+    "en": "tablecloth",
+    "uz": "dasturxon"
+   },
+   {
+    "en": "to bring",
+    "uz": "olib kelmoq"
+   },
+   {
+    "en": "to pour",
+    "uz": "quymoq"
+   },
+   {
+    "en": "polite",
+    "uz": "xushmuomala"
+   },
+   {
+    "en": "to say goodbye",
+    "uz": "xayrlashmoq"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "Guests often come to our house.",
+    "uz": "Uyimizga tez-tez mehmon keladi."
+   },
+   {
+    "en": "When guests come, we...",
+    "uz": "Mehmon kelganda biz..."
+   },
+   {
+    "en": "Welcome!",
+    "uz": "Xush kelibsiz!"
+   },
+   {
+    "en": "Help yourself!",
+    "uz": "Marhamat, oling!"
+   }
+  ],
+  "sample": "Uzbek people love **guests**. **Guests** often come to our house at weekends. When **guests** come, we **welcome** them and say \" **Welcome**!\" My mother puts a **tablecloth** with bread, fruit and sweets. I **bring** tea and **pour** it for the **guests**. I am always **polite**. Then we eat plov together. When they go home, we **say goodbye** at the door."
+ },
+ {
+  "topic": 55,
+  "day": 28,
+  "title": "Plans for tomorrow and next weekend",
+  "uzTitle": "Ertangi kun va dam olish kuni rejalari",
+  "grammar": "be going to",
+  "questions": [
+   "What are you going to do tomorrow?",
+   "What are you going to do next weekend?",
+   "Who are you going to meet?"
+  ],
+  "vocab": [
+   {
+    "en": "tomorrow",
+    "uz": "ertaga"
+   },
+   {
+    "en": "next weekend",
+    "uz": "keyingi dam olish kuni"
+   },
+   {
+    "en": "plan",
+    "uz": "reja"
+   },
+   {
+    "en": "to prepare",
+    "uz": "tayyorlanmoq"
+   },
+   {
+    "en": "test",
+    "uz": "nazorat ishi, test"
+   },
+   {
+    "en": "to finish",
+    "uz": "tugatmoq"
+   },
+   {
+    "en": "free",
+    "uz": "bo'sh"
+   },
+   {
+    "en": "maybe",
+    "uz": "balki"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "Tomorrow I am going to...",
+    "uz": "Ertaga men ... qilmoqchiman."
+   },
+   {
+    "en": "I am not going to...",
+    "uz": "Men ... qilmoqchi emasman."
+   },
+   {
+    "en": "Next weekend we are going to...",
+    "uz": "Keyingi dam olish kuni biz ... qilmoqchimiz."
+   },
+   {
+    "en": "Maybe I will...",
+    "uz": "Balki men ..."
+   }
+  ],
+  "sample": "I have many **plans**. **Tomorrow** I am going to get up early because I have a **test**. I am going to **prepare** for it tonight. After school I am going to **finish** my project. **Next weekend** I am **free**, so I am going to meet my friends. We are going to play football. **Maybe** I will go to the cinema too."
+ },
+ {
+  "topic": 56,
+  "day": 28,
+  "title": "Summer plans",
+  "uzTitle": "Yozgi rejalarim",
+  "grammar": "going to / would like to",
+  "questions": [
+   "What are you going to do this summer?",
+   "Where would you like to go?",
+   "What do you want to learn?"
+  ],
+  "vocab": [
+   {
+    "en": "this summer",
+    "uz": "shu yozda"
+   },
+   {
+    "en": "to travel",
+    "uz": "sayohat qilmoq"
+   },
+   {
+    "en": "sea",
+    "uz": "dengiz"
+   },
+   {
+    "en": "course",
+    "uz": "kurs"
+   },
+   {
+    "en": "exam",
+    "uz": "imtihon"
+   },
+   {
+    "en": "to study",
+    "uz": "o'qimoq"
+   },
+   {
+    "en": "to rest",
+    "uz": "dam olmoq"
+   },
+   {
+    "en": "to hope",
+    "uz": "umid qilmoq"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "This summer I am going to...",
+    "uz": "Shu yozda men ... qilmoqchiman."
+   },
+   {
+    "en": "I would like to...",
+    "uz": "Men ...ni xohlar edim."
+   },
+   {
+    "en": "I want to learn...",
+    "uz": "Men ...ni o'rganmoqchiman."
+   },
+   {
+    "en": "I hope...",
+    "uz": "Umid qilamanki..."
+   }
+  ],
+  "sample": "**This summer** I am going to do many things. In June I have **exams**, so I am going to **study**. In July I am going to **rest** and **travel** with my family. I would like to see the **sea**. In August I am going to take an English **course**. I also want to learn to swim well. I **hope** it will be a great summer."
+ },
+ {
+  "topic": 57,
+  "day": 29,
+  "title": "My future job",
+  "uzTitle": "Kelajakdagi kasbim",
+  "grammar": "want to be / will",
+  "questions": [
+   "What do you want to be?",
+   "Why do you want this job?",
+   "What will you do to get it?"
+  ],
+  "vocab": [
+   {
+    "en": "future",
+    "uz": "kelajak"
+   },
+   {
+    "en": "dream",
+    "uz": "orzu"
+   },
+   {
+    "en": "university",
+    "uz": "universitet"
+   },
+   {
+    "en": "programmer",
+    "uz": "dasturchi"
+   },
+   {
+    "en": "salary",
+    "uz": "maosh"
+   },
+   {
+    "en": "to become",
+    "uz": "bo'lmoq (kimdir)"
+   },
+   {
+    "en": "to enter",
+    "uz": "o'qishga kirmoq"
+   },
+   {
+    "en": "to study hard",
+    "uz": "qattiq o'qimoq"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "I want to be a...",
+    "uz": "Men ... bo'lmoqchiman."
+   },
+   {
+    "en": "My dream is to...",
+    "uz": "Mening orzuim..."
+   },
+   {
+    "en": "I will study hard.",
+    "uz": "Men qattiq o'qiyman."
+   },
+   {
+    "en": "I think it is a good job.",
+    "uz": "Menimcha, bu yaxshi kasb."
+   }
+  ],
+  "sample": "I want to be a **programmer** in the **future**. I like computers and I am good at maths. I think it is a good job because it is interesting and the **salary** is high. My **dream** is to work in a big company. After school I will **enter** **university**. I will **study hard** and learn English well. I hope I will **become** a good **programmer**."
+ },
+ {
+  "topic": 58,
+  "day": 29,
+  "title": "A country I would like to visit",
+  "uzTitle": "Men borishni xohlagan davlat",
+  "grammar": "would like to",
+  "questions": [
+   "Which country would you like to visit?",
+   "Why?",
+   "What would you like to do there?"
+  ],
+  "vocab": [
+   {
+    "en": "world",
+    "uz": "dunyo"
+   },
+   {
+    "en": "Turkey",
+    "uz": "Turkiya"
+   },
+   {
+    "en": "culture",
+    "uz": "madaniyat"
+   },
+   {
+    "en": "people",
+    "uz": "odamlar"
+   },
+   {
+    "en": "to fly",
+    "uz": "uchmoq"
+   },
+   {
+    "en": "plane",
+    "uz": "samolyot"
+   },
+   {
+    "en": "to try",
+    "uz": "tatib ko'rmoq"
+   },
+   {
+    "en": "one day",
+    "uz": "bir kun kelib"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "I would like to visit...",
+    "uz": "Men ...ga bormoqchiman."
+   },
+   {
+    "en": "I have never been to...",
+    "uz": "Men hech qachon ...da bo'lmaganman."
+   },
+   {
+    "en": "I'd like to see...",
+    "uz": "Men ...ni ko'rmoqchiman."
+   },
+   {
+    "en": "One day I will...",
+    "uz": "Bir kun kelib men..."
+   }
+  ],
+  "sample": "There are many beautiful countries in the **world**. I would like to visit **Turkey**. I have never been there. I'd like to **fly** to Istanbul by **plane**. I want to see the old city and the sea. I like Turkish **culture** and Turkish films. I also want to **try** Turkish food. The **people** there are friendly. **One day** I will go there with my family."
+ },
+ {
+  "topic": 59,
+  "day": 30,
+  "title": "City and village",
+  "uzTitle": "Shahar va qishloq (taqqoslash)",
+  "grammar": "qiyosiy daraja: -er / more ... than",
+  "questions": [
+   "Do you live in a city or a village?",
+   "Which is better: a city or a village?",
+   "Where do you want to live?"
+  ],
+  "vocab": [
+   {
+    "en": "bigger",
+    "uz": "kattaroq"
+   },
+   {
+    "en": "cleaner",
+    "uz": "tozaroq"
+   },
+   {
+    "en": "quieter",
+    "uz": "tinchroq"
+   },
+   {
+    "en": "more interesting",
+    "uz": "qiziqarliroq"
+   },
+   {
+    "en": "more expensive",
+    "uz": "qimmatroq"
+   },
+   {
+    "en": "better",
+    "uz": "yaxshiroq"
+   },
+   {
+    "en": "life",
+    "uz": "hayot"
+   },
+   {
+    "en": "than",
+    "uz": "...ga qaraganda"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "... is bigger than...",
+    "uz": "... ...dan kattaroq."
+   },
+   {
+    "en": "Life in the city is...",
+    "uz": "Shahardagi hayot..."
+   },
+   {
+    "en": "I think ... is better.",
+    "uz": "Menimcha, ... yaxshiroq."
+   },
+   {
+    "en": "I prefer...",
+    "uz": "Men ...ni afzal ko'raman."
+   }
+  ],
+  "sample": "I live in a city, but my grandparents live in a village. The city is **bigger** and **more interesting** **than** the village. There are more shops, cinemas and schools. But **life** in the city is **more expensive**. The village is **quieter** and **cleaner** **than** the city. The air is **better** there. I prefer the city now, but I want to live in a village when I am old."
+ },
+ {
+  "topic": 60,
+  "day": 30,
+  "title": "All about me: final talk",
+  "uzTitle": "Men haqimda: yakuniy nutq (2 daqiqa)",
+  "grammar": "hamma zamonlar birga",
+  "questions": [
+   "Can you tell me about yourself?",
+   "What did you do last year?",
+   "What are your plans?"
+  ],
+  "vocab": [
+   {
+    "en": "myself",
+    "uz": "o'zim"
+   },
+   {
+    "en": "character",
+    "uz": "xarakter"
+   },
+   {
+    "en": "goal",
+    "uz": "maqsad"
+   },
+   {
+    "en": "last year",
+    "uz": "o'tgan yili"
+   },
+   {
+    "en": "next year",
+    "uz": "keyingi yili"
+   },
+   {
+    "en": "practised",
+    "uz": "mashq qildim"
+   },
+   {
+    "en": "easily",
+    "uz": "osonlik bilan"
+   },
+   {
+    "en": "listening",
+    "uz": "tinglash"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "Let me tell you about myself.",
+    "uz": "O'zim haqimda gapirib beray."
+   },
+   {
+    "en": "First, ... Second, ...",
+    "uz": "Birinchidan, ... Ikkinchidan, ..."
+   },
+   {
+    "en": "Last year I...",
+    "uz": "O'tgan yili men..."
+   },
+   {
+    "en": "That's all about me.",
+    "uz": "Men haqimda shular."
+   }
+  ],
+  "sample": "Let me tell you about **myself**. My name is Aziz and I am sixteen. I am from Tashkent. I live with my parents, my brother and my sister. I am a student and my favourite subject is English. I am friendly and hard-working. In my free time I play football and read books. **Last year** I started this speaking book. At first I couldn't speak **easily**, but I **practised** every day and improved my English. **Next** **year** I am going to take an exam. My **goal** is to study at a good university. That's all about me. Thank you for **listening**!"
+ }
+]

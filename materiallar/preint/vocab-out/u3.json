@@ -1,0 +1,958 @@
+{
+ "a": [
+  {
+   "q": "My little brother cried because the monster in the cinema was too terrifying and loud.",
+   "options": [
+    "scary",
+    "funny",
+    "gripping",
+    "moving"
+   ],
+   "answer": "scary",
+   "explain": "scary — qo'rqinchli: dahshatli va baland ovozli monster tufayli yig'ladi"
+  },
+  {
+   "q": "We watched a funny film about cowboys riding horses in the old American desert.",
+   "options": [
+    "western",
+    "comedy",
+    "horror film",
+    "musical"
+   ],
+   "answer": "western",
+   "explain": "western — vestern: amerikalik kovboylar haqidagi qiziqarli kino"
+  },
+  {
+   "q": "The actors danced and sang wonderful songs together on the bright theatre stage.",
+   "options": [
+    "musical",
+    "sitcom",
+    "soap",
+    "game show"
+   ],
+   "answer": "musical",
+   "explain": "musical — myuzikl: aktyorlar sahnada birga qo'shiq aytib raqs tushishdi"
+  },
+  {
+   "q": "People on the street gave correct answers to win big money prizes every evening.",
+   "options": [
+    "game show",
+    "chat show",
+    "reality show",
+    "talent show"
+   ],
+   "answer": "game show",
+   "explain": "game show — o'yin ko'rsatuvi: odamlar pul yutish uchun to'g'ri javob berishdi"
+  },
+  {
+   "q": "Famous singers sat on comfortable chairs to talk about their new albums and tours.",
+   "options": [
+    "chat show",
+    "news bulletin",
+    "weather forecast",
+    "documentary"
+   ],
+   "answer": "chat show",
+   "explain": "chat show — tok-shou: mashhur xonandalar o'zlarining yangi albomlari haqida suhbatlashishdi"
+  },
+  {
+   "q": "We learned a lot about wild lions and tigers living in the African grasslands.",
+   "options": [
+    "documentary",
+    "action film",
+    "science fiction film",
+    "fantasy film"
+   ],
+   "answer": "documentary",
+   "explain": "documentary — hujjatli film: Afrika cho'llaridagi yovvoyi sherlar hayotini o'rgandik"
+  },
+  {
+   "q": "Everyone laughed loudly when the clumsy teacher fell off his chair during math class.",
+   "options": [
+    "comedy",
+    "horror film",
+    "thriller",
+    "war film"
+   ],
+   "answer": "comedy",
+   "explain": "comedy — komediya: matematika darsida o'qituvchi stuldan yiqilib tushgach hamma kuldi"
+  },
+  {
+   "q": "The cartoon drawings of the funny blue cat running on clouds looked very bright.",
+   "options": [
+    "animation",
+    "news bulletin",
+    "sitcom",
+    "weather forecast"
+   ],
+   "answer": "animation",
+   "explain": "animation — animatsiya: bulutlarda yugurayotgan kulgili ko'k mushuk rasmlari juda yorqin edi"
+  },
+  {
+   "q": "Soldiers fought bravely in the muddy fields during the terrible European battles of 1942.",
+   "options": [
+    "war film",
+    "fantasy film",
+    "science fiction film",
+    "musical"
+   ],
+   "answer": "war film",
+   "explain": "war film — harbiy film: 1942 yilgi janglarda askarlar jasorat bilan kurashdilar"
+  },
+  {
+   "q": "Spaceships flew between distant green planets while laser guns flashed in deep space.",
+   "options": [
+    "science fiction film",
+    "period drama",
+    "soap",
+    "chat show"
+   ],
+   "answer": "science fiction film",
+   "explain": "science fiction film — ilmiy-fantastik film: kosmik kemalar yashil sayyoralar orasida uchib yurdi"
+  },
+  {
+   "q": "Wizards and dragons used magic spells to save the ancient castle from dark shadows.",
+   "options": [
+    "fantasy film",
+    "action film",
+    "documentary",
+    "comedy"
+   ],
+   "answer": "fantasy film",
+   "explain": "fantasy film — fantastik film: sehrgarlar va ajdarho qadimiy qasrni qorong'u soyalardan saqlashdi"
+  },
+  {
+   "q": "Normal people lived in a shared house with cameras watching their every move daily.",
+   "options": [
+    "reality show",
+    "sitcom",
+    "soap",
+    "news bulletin"
+   ],
+   "answer": "reality show",
+   "explain": "reality show — realiti-shou: oddiy odamlar kameralar kuzatuvidagi uyda birga yashashdi"
+  },
+  {
+   "q": "The sad piano music during the goodbye scene made all the viewers cry softly.",
+   "options": [
+    "soundtrack",
+    "script",
+    "plot",
+    "characters"
+   ],
+   "answer": "soundtrack",
+   "explain": "soundtrack — saundtrek: xayrlashuv sahnasidagi g'amgin pianino musiqasi barchani yig'latdi"
+  },
+  {
+   "q": "Computer artists created a giant flying dragon that looked completely real on screen.",
+   "options": [
+    "special effects",
+    "characters",
+    "ending",
+    "scenes"
+   ],
+   "answer": "special effects",
+   "explain": "special effects — maxsus effektlar: kompyuter rassomlari ekranda juda real uchuvchi ajdarho yaratishdi"
+  },
+  {
+   "q": "The police officer solved the dangerous mystery just before the final credits started rolling.",
+   "options": [
+    "thriller",
+    "comedy",
+    "western",
+    "musical"
+   ],
+   "answer": "thriller",
+   "explain": "thriller — trilser: politsiyachi xavfli sirni oxirigacha yetib ochishga muvaffaq bo'ldi"
+  },
+  {
+   "q": "People in the small town shared secrets while drinking tea at the local cafe.",
+   "options": [
+    "soap",
+    "sitcom",
+    "game show",
+    "talent show"
+   ],
+   "answer": "soap",
+   "explain": "soap — telenovela: kichik shaharchadagi odamlar kafelarda sirlarini bo'lishishdi"
+  },
+  {
+   "q": "The funny family lived in a small apartment and had hilarious arguments every morning.",
+   "options": [
+    "sitcom",
+    "documentary",
+    "news bulletin",
+    "weather forecast"
+   ],
+   "answer": "sitcom",
+   "explain": "sitcom — vaziyatli komediya: kulgili oila kichik xonadonda yashab, har tong bahslashardi"
+  },
+  {
+   "q": "People in 19th-century London wore long wool coats and travelled by horse carriages.",
+   "options": [
+    "period drama",
+    "science fiction film",
+    "action film",
+    "animation"
+   ],
+   "answer": "period drama",
+   "explain": "period drama — tarixiy drama: XIX asr Londonida odamlar ot aravalarda sayohat qilishgan"
+  },
+  {
+   "q": "The main boy and girl fell deeply in love after meeting at a rainy bus stop.",
+   "options": [
+    "romantic comedy",
+    "horror film",
+    "war film",
+    "thriller"
+   ],
+   "answer": "romantic comedy",
+   "explain": "romantic comedy — romantik komediya: bosh qahramonlar yomg'irli bekatda tanishib sevib qolishdi"
+  },
+  {
+   "q": "Actors read the written words on paper to learn their lines before filming started.",
+   "options": [
+    "script",
+    "soundtrack",
+    "special effects",
+    "plot"
+   ],
+   "answer": "script",
+   "explain": "script — ssenariy: aktyorlar suratga olishdan oldin qog'ozdagi so'zlarni o'qib o'rganishdi"
+  },
+  {
+   "q": "The funny dog and the clever cat were the main people in the cartoon story.",
+   "options": [
+    "characters",
+    "scenes",
+    "ending",
+    "soundtrack"
+   ],
+   "answer": "characters",
+   "explain": "characters — qahramonlar: multfilm hikoyasidagi asosiy shaxslar aqlli mushuk va it edi"
+  },
+  {
+   "q": "A young thief stole a golden crown from the guarded museum in the dark night.",
+   "options": [
+    "plot",
+    "script",
+    "soundtrack",
+    "special effects"
+   ],
+   "answer": "plot",
+   "explain": "plot — syujet: yosh o'g'ri qo'riqlanadigan muzeydan oltin toj o'g'irlashni rejalashtirdi"
+  },
+  {
+   "q": "The actors filmed the romantic kissing moment near the beautiful blue lake at sunset.",
+   "options": [
+    "scenes",
+    "characters",
+    "ending",
+    "script"
+   ],
+   "answer": "scenes",
+   "explain": "scenes — sahnalar: aktyorlar quyosh botishida go'zal ko'l yaqinida romantik lahzalarni suratga olishdi"
+  },
+  {
+   "q": "Everyone smiled happily when the lost puppy finally returned home to its grateful owners.",
+   "options": [
+    "ending",
+    "script",
+    "plot",
+    "soundtrack"
+   ],
+   "answer": "ending",
+   "explain": "ending — yakun, oxiri: yo'qolgan kuchukcha egasining uyiga qaytib kelgach hamma xursand bo'ldi"
+  },
+  {
+   "q": "Tom always tells the complete truth to his teachers and never lies about his homework.",
+   "options": [
+    "honest",
+    "dishonest",
+    "impatient",
+    "irresponsible"
+   ],
+   "answer": "honest",
+   "explain": "honest — halol: u uy vazifasi haqida o'qituvchilarga hech qachon yolg'on gapirmaydi"
+  },
+  {
+   "q": "Zarina took money from her brother's wallet while he was sleeping in the other room.",
+   "options": [
+    "dishonest",
+    "honest",
+    "patient",
+    "responsible"
+   ],
+   "answer": "dishonest",
+   "explain": "dishonest — vijdonsiz, noinsof: u boshqa xonada uxlayotgan akasining hamyonidan pul oldi"
+  },
+  {
+   "q": "Aziz waited quietly for thirty minutes in the long line without getting angry at all.",
+   "options": [
+    "patient",
+    "impatient",
+    "dependent",
+    "independent"
+   ],
+   "answer": "patient",
+   "explain": "patient — sabrli: u hech qachon jahri chiqmasdan o'ttiz daqiqa navbatda tinch turdi"
+  },
+  {
+   "q": "The small boy shouted loudly and banged on the shop door because he wanted sweets now.",
+   "options": [
+    "impatient",
+    "patient",
+    "responsible",
+    "honest"
+   ],
+   "answer": "impatient",
+   "explain": "impatient — sabrsiz: u darhol shirinlik xohlagani uchun do'kon eshigini taqillatib baqirdi"
+  },
+  {
+   "q": "Madina always finishes her homework on time and takes good care of her younger sister.",
+   "options": [
+    "responsible",
+    "irresponsible",
+    "dishonest",
+    "dependent"
+   ],
+   "answer": "responsible",
+   "explain": "responsible — mas'uliyatli: u o'z vazifalarini vaqtida bajarib, singlisiga g'amxo'rlik qiladi"
+  },
+  {
+   "q": "Jasur left his wet bicycle outside in the heavy rain and it became completely rusty.",
+   "options": [
+    "irresponsible",
+    "responsible",
+    "honest",
+    "patient"
+   ],
+   "answer": "irresponsible",
+   "explain": "irresponsible — mas'uliyatsiz: u velosipedini yomg'ir ostida qoldirib, uni zanglatib qo'ydi"
+  },
+  {
+   "q": "Gulnora lives alone in Tashkent, earns her own money, and doesn't need help from parents.",
+   "options": [
+    "independent",
+    "dependent",
+    "impatient",
+    "dishonest"
+   ],
+   "answer": "independent",
+   "explain": "independent — mustaqil: u Toshkentda yolg'iz yashaydi va o'zi pul topadi"
+  },
+  {
+   "q": "The baby bird cannot fly or find food yet, so it needs its mother completely.",
+   "options": [
+    "dependent",
+    "independent",
+    "responsible",
+    "honest"
+   ],
+   "answer": "dependent",
+   "explain": "dependent — qaram, bo'ysunuvchi: jajji qushcha o'zi ovqat topa olmaydi va onasiga muhtoj"
+  },
+  {
+   "q": "Stealing expensive phones from the school locker is against the country's criminal law.",
+   "options": [
+    "illegal",
+    "legal",
+    "fair",
+    "unfair"
+   ],
+   "answer": "illegal",
+   "explain": "illegal — noqonuniy: maktab shkafidan qimmat telefonlarni o'g'irlash qonunga ziddir"
+  },
+  {
+   "q": "Adult citizens aged eighteen and over have the official right to vote in national elections.",
+   "options": [
+    "legal",
+    "illegal",
+    "unfair",
+    "inappropriate"
+   ],
+   "answer": "legal",
+   "explain": "legal — qonuniy: o'n sakkiz yoshga to'lgan fuqarolarning ovoz berish huquqi bor"
+  },
+  {
+   "q": "The referee gave both teams equal chances and made correct decisions during the football match.",
+   "options": [
+    "fair",
+    "unfair",
+    "acceptable",
+    "unacceptable"
+   ],
+   "answer": "fair",
+   "explain": "fair — adolatli: hakam futbol o'yinida har ikki jamoaga teng imkoniyat berdi"
+  },
+  {
+   "q": "Only one player got a red card while the other team broke the rules five times.",
+   "options": [
+    "unfair",
+    "fair",
+    "appropriate",
+    "legal"
+   ],
+   "answer": "unfair",
+   "explain": "unfair — adolatsiz: faqat bitta o'yinchi qizil card oldi, boshqalari jazolanmadi"
+  },
+  {
+   "q": "We saw a movie about cowboys riding horses across the wild desert to save a small town.",
+   "options": [
+    "western",
+    "war film",
+    "science fiction film",
+    "fantasy film"
+   ],
+   "answer": "western",
+   "explain": "western — vestern: kovboylar haqidagi eski Amerika filmi."
+  },
+  {
+   "q": "The television programme gave us the latest updates on rain and sunshine for tomorrow in Tashkent.",
+   "options": [
+    "weather forecast",
+    "news bulletin",
+    "chat show",
+    "documentary"
+   ],
+   "answer": "weather forecast",
+   "explain": "weather forecast — ob-havo ma'lumoti: ertangi havo harorati haqida xabar."
+  },
+  {
+   "q": "We watched a funny television series about the same group of friends living in a New York flat.",
+   "options": [
+    "sitcom",
+    "soap",
+    "game show",
+    "chat show"
+   ],
+   "answer": "sitcom",
+   "explain": "sitcom — vaziyatli komediya: doimiy qahramonlar ishtirokidagi kulgili serial."
+  },
+  {
+   "q": "The actors performed traditional songs and dances throughout the bright and cheerful theatre show.",
+   "options": [
+    "musical",
+    "comedy",
+    "animation",
+    "period drama"
+   ],
+   "answer": "musical",
+   "explain": "musical — myuzikl: qo'shiq va raqslarga boy bo'lgan sahna asari."
+  }
+ ],
+ "b": [
+  {
+   "q": "My younger brother loves to watch a funny ______ because the drawings always make him laugh.",
+   "options": [
+    "animation",
+    "documentary",
+    "chat show",
+    "game show"
+   ],
+   "answer": "animation",
+   "explain": "animation — multfilm: ukam multfilmlarni tomosha qilishni juda yaxshi ko'radi."
+  },
+  {
+   "q": "The main actor in this new ______ plays a brave cowboy in America.",
+   "options": [
+    "western",
+    "science fiction film",
+    "documentary",
+    "sitcom"
+   ],
+   "answer": "western",
+   "explain": "western — vestern filmi: bu yangi vestern filmida bosh aktyor kovboy rolini o'ynaydi."
+  },
+  {
+   "q": "She prefers a romantic ______ when she wants to watch something light and funny.",
+   "options": [
+    "romantic comedy",
+    "thriller",
+    "war film",
+    "period drama"
+   ],
+   "answer": "romantic comedy",
+   "explain": "romantic comedy — romantik komediya: u yengil va kulgili narsa ko'rganda romantik komediyani afzal ko'radi."
+  },
+  {
+   "q": "That new science ______ features amazing space travel and aliens from another planet.",
+   "options": [
+    "science fiction film",
+    "action film",
+    "game show",
+    "talent show"
+   ],
+   "answer": "science fiction film",
+   "explain": "science fiction film — ilmiy-fantastik film: bu ilmiy-fantastik film ajoyib koinot sayohatini ko'rsatadi."
+  },
+  {
+   "q": "If you want to learn about wild animals, you should watch this nature ______.",
+   "options": [
+    "documentary",
+    "sitcom",
+    "soap",
+    "news bulletin"
+   ],
+   "answer": "documentary",
+   "explain": "documentary — hujjatli film: yovvoyi hayvonlar haqida bilish uchun hujjatli film ko'rishingiz kerak."
+  },
+  {
+   "q": "My grandfather always watches the evening ______ on TV to know what is happening globally.",
+   "options": [
+    "news bulletin",
+    "chat show",
+    "weather forecast",
+    "game show"
+   ],
+   "answer": "news bulletin",
+   "explain": "news bulletin — yangiliklar byulleteni: bobom dunyo yangiliklarini bilish uchun kechki yangiliklarni ko'radi."
+  },
+  {
+   "q": "The contestants on this popular game ______ can win a lot of money tonight.",
+   "options": [
+    "game show",
+    "talent show",
+    "reality show",
+    "sitcom"
+   ],
+   "answer": "game show",
+   "explain": "game show — o'yin ko'rsatuvi: bu mashhur o'yin ko'rsatuvidagi ishtirokchilar pul yutib olishlari mumkin."
+  },
+  {
+   "q": "Many young singers try to show their unique skills on national television during the talent ______.",
+   "options": [
+    "talent show",
+    "chat show",
+    "soap",
+    "sitcom"
+   ],
+   "answer": "talent show",
+   "explain": "talent show — iqtidorlar shousi: ko'plab yosh xonandalar o'z iste'dodlarini milliy televideniyeda ko'rsatishadi."
+  },
+  {
+   "q": "The famous host invited a popular Hollywood actor to his late night chat ______.",
+   "options": [
+    "chat show",
+    "game show",
+    "documentary",
+    "news bulletin"
+   ],
+   "answer": "chat show",
+   "explain": "chat show — suhbat shousi: mashhur boshlovchi Hollywood aktyorini o'zining kechki suhbat shousiga taklif qildi."
+  },
+  {
+   "q": "My mother never misses her favourite daily soap ______ because she loves the dramatic family stories.",
+   "options": [
+    "soap",
+    "sitcom",
+    "animation",
+    "western"
+   ],
+   "answer": "soap",
+   "explain": "soap — telenovela: onam oilaviy dramatik hikoyalarni yaxshi ko'rgani uchun kundalik serialni o'tkazib yubormaydi."
+  },
+  {
+   "q": "We laughed so much while watching a funny television ______ about a crazy family in London.",
+   "options": [
+    "sitcom",
+    "soap",
+    "thriller",
+    "action film"
+   ],
+   "answer": "sitcom",
+   "explain": "sitcom — vaziyatli komediya: Londondagi ahmoqona oila haqidagi vaziyatli komediyani ko'rib ko'p kuldik."
+  },
+  {
+   "q": "The thrilling ______ of the book kept me awake until three o'clock in the morning.",
+   "options": [
+    "plot",
+    "script",
+    "ending",
+    "soundtrack"
+   ],
+   "answer": "plot",
+   "explain": "plot — syujet: kitobning hayajonli syujeti meni tongi soat uchgacha uxlatmadi."
+  },
+  {
+   "q": "All the main ______ in the novel learn important life lessons by the end of the story.",
+   "options": [
+    "characters",
+    "scenes",
+    "special effects",
+    "soundtrack"
+   ],
+   "answer": "characters",
+   "explain": "characters — qahramonlar: roman oxirida barcha asosiy qahramonlar muhim hayot saboqlarini olishadi."
+  },
+  {
+   "q": "The surprising ______ of the film left everyone in the cinema completely shocked.",
+   "options": [
+    "ending",
+    "plot",
+    "script",
+    "soundtrack"
+   ],
+   "answer": "ending",
+   "explain": "ending — yakun: kinoning kutilmagan yakuni kinoteatrdagilarni hayratda qoldirdi."
+  },
+  {
+   "q": "The actors had to memorise a very long and difficult ______ before they started filming.",
+   "options": [
+    "script",
+    "plot",
+    "soundtrack",
+    "ending"
+   ],
+   "answer": "script",
+   "explain": "script — ssenariy: aktyorlar syomka boshlanishidan oldin juda uzun ssenariyni yod olishlari kerak edi."
+  },
+  {
+   "q": "I really love the relaxing musical ______ of this French movie because the piano songs are lovely.",
+   "options": [
+    "soundtrack",
+    "plot",
+    "script",
+    "ending"
+   ],
+   "answer": "soundtrack",
+   "explain": "soundtrack — saundtrek: bu fransuz kinoteatrining saundtreyqi menga yoqadi, chunki pianino qo'shiqlari juda yoqimli."
+  },
+  {
+   "q": "The digital special ______ in the new superhero movie looked extremely realistic and cool.",
+   "options": [
+    "special effects",
+    "characters",
+    "scenes",
+    "soundtrack"
+   ],
+   "answer": "special effects",
+   "explain": "special effects — maxsus effektlar: yangi superqahramon filmidagi raqamli maxsus effektlar juda real va zo'r chiqdi."
+  },
+  {
+   "q": "That gripping ______ made my heart beat fast because the hero was in big danger.",
+   "options": [
+    "thriller",
+    "comedy",
+    "animation",
+    "documentary"
+   ],
+   "answer": "thriller",
+   "explain": "thriller — triller film: qahramon katta xavf ostida bo'lgani uchun bu hayajonli triller yuragimni tez urdirdi."
+  },
+  {
+   "q": "The actors gave such a convincing ______ that many people in the audience started to cry.",
+   "options": [
+    "acting",
+    "script",
+    "plot",
+    "soundtrack"
+   ],
+   "answer": "acting",
+   "explain": "acting — aktyorlik mahorati: aktyorlar shunchalik ishonchli ijro etishdiki, tomoshabinlar yig'lay boshladi."
+  },
+  {
+   "q": "It is completely unacceptable and ______ to copy someone else's homework during the exam.",
+   "options": [
+    "dishonest",
+    "honest",
+    "fair",
+    "legal"
+   ],
+   "answer": "dishonest",
+   "explain": "dishonest — nomusof: imtihonda boshqalarning uy vazifasini ko'chirish nomusof va qabul qilib bo'lmaydigan ish."
+  },
+  {
+   "q": "My younger brother loves watching funny cartoons and colourful ______ on Saturday mornings.",
+   "options": [
+    "animation",
+    "comedy",
+    "documentary",
+    "sitcom"
+   ],
+   "answer": "animation",
+   "explain": "animation — multfilm: bolalar har hafta shanba kuni rang-barang multfilmlarni ko'rishni yaxshi ko'radi."
+  },
+  {
+   "q": "That new science fiction film had amazing ______ that made the spaceship battles look very real.",
+   "options": [
+    "soundtrack",
+    "special effects",
+    "script",
+    "ending"
+   ],
+   "answer": "special effects",
+   "explain": "special effects — maxsus effektlar: kinodagi kosmik janglarni juda real ko'rsatgan maxsus effektlar."
+  },
+  {
+   "q": "We watched a brilliant ______ about wild animals living in the deep Amazon rainforest.",
+   "options": [
+    "game show",
+    "documentary",
+    "chat show",
+    "soap"
+   ],
+   "answer": "documentary",
+   "explain": "documentary — hujjatli film: Amazon o'rmonidagi yovvoyi hayvonlar haqidagi qiziqarli hujjatli film."
+  },
+  {
+   "q": "The main actor gave a very ______ performance that made everyone in the cinema cry.",
+   "options": [
+    "convincing",
+    "funny",
+    "scary",
+    "gripping"
+   ],
+   "answer": "convincing",
+   "explain": "convincing — ishontirarli: bosh aktyorning kinoteatrdagi barchani yig'latgan juda ishontirarli o'yini."
+  },
+  {
+   "q": "My grandmother never misses her favourite daily ______ because she loves the dramatic family stories.",
+   "options": [
+    "news bulletin",
+    "talent show",
+    "soap",
+    "weather forecast"
+   ],
+   "answer": "soap",
+   "explain": "soap — telenovela: buvisi dramatik oilaviy voqealar tufayli kundalik telenovelani hech qachon o'tkazib yubormaydi."
+  },
+  {
+   "q": "Before buying the tickets, we checked the ______ to see if it would rain during our picnic.",
+   "options": [
+    "weather forecast",
+    "chat show",
+    "game show",
+    "talent show"
+   ],
+   "answer": "weather forecast",
+   "explain": "weather forecast — ob-havo ma'lumoti: piknik paytida yomg'ir yog'ishini bilish uchun ob-havoni ko'rdik."
+  },
+  {
+   "q": "The young singer won the national ______ after performing a wonderful song on live television.",
+   "options": [
+    "talent show",
+    "sitcom",
+    "news bulletin",
+    "period drama"
+   ],
+   "answer": "talent show",
+   "explain": "talent show — qobiliyatlar shousi: yosh qo'shiqchi jonli efirda ajoyib qo'shiq kuylab shouda g'olib chiqdi."
+  },
+  {
+   "q": "The exciting storyline and the unexpected ______ made this mystery movie completely unforgettable.",
+   "options": [
+    "ending",
+    "acting",
+    "soundtrack",
+    "script"
+   ],
+   "answer": "ending",
+   "explain": "ending — oxiri, yakuni: qiziqarli syujet va kutilmagan yakun bu sirli kinoni esda qolarli qildi."
+  },
+  {
+   "q": "We watched a funny ______ about cowboys riding horses across the wild American desert.",
+   "options": [
+    "western",
+    "action film",
+    "science fiction film",
+    "war film"
+   ],
+   "answer": "western",
+   "explain": "western — vestern filmi: Amerikaning yovvoyi cho'llarida ot minib yurgan kovboylar haqidagi vestern."
+  },
+  {
+   "q": "The famous comedian told several funny jokes during the late night television ______.",
+   "options": [
+    "chat show",
+    "documentary",
+    "game show",
+    "news bulletin"
+   ],
+   "answer": "chat show",
+   "explain": "chat show — suhbat shousi: mashhur komik kechki teledasturdagi suhbat shousida bir nechta hazil aytdi."
+  }
+ ],
+ "c": [
+  {
+   "q": "My younger brother loves watching funny cartoons and colourful ______ on television every Sunday morning.",
+   "answer": "animation",
+   "base": "animation",
+   "explain": "animation — animatsiya: bolalar uchun qiziqarli multfilmlar va animatsion ko'rsatuvlar."
+  },
+  {
+   "q": "That new detective movie has a really great ______ that keeps all the viewers guessing until the end.",
+   "answer": "plot",
+   "base": "plot",
+   "explain": "plot — syujet: kinoteatrdagi voqealar rivoji va hikoya mazmuni."
+  },
+  {
+   "q": "We watched a very exciting ______ about wild animals living in the remote mountains of Central Asia.",
+   "answer": "documentary",
+   "base": "documentary",
+   "explain": "documentary — hujjatli film: tabiat va hayot haqidagi haqiqiy tasvirlar."
+  },
+  {
+   "q": "If you hate boring films, you should watch this wonderful ______ because it makes everyone laugh loudly.",
+   "answer": "comedy",
+   "base": "comedy",
+   "explain": "comedy — komediya: tomoshabinni kuldiradigan quvnoq badiiy film turi."
+  },
+  {
+   "q": "My grandmother enjoys watching a daily afternoon ______ about the lives of ordinary families in the city.",
+   "answer": "soap",
+   "base": "soap",
+   "explain": "soap — teleserial: kundalik hayotiy voqealarga boy bo'lgan uzun serial."
+  },
+  {
+   "q": "That famous actor is very good at playing cowboys in every old American ______ on television.",
+   "answer": "western",
+   "base": "western",
+   "explain": "western — vestern: kovboylar hayotiga bag'ishlangan amerikan kino janri."
+  },
+  {
+   "q": "The beautiful songs in this romantic movie form an amazing ______ that you can download online.",
+   "answer": "soundtrack",
+   "base": "soundtrack",
+   "explain": "soundtrack — saundtrek: film uchun yozilgan maxsus musiqa va qo'shiqlar."
+  },
+  {
+   "q": "The famous director filmed several dramatic ______ inside the old abandoned station near Tashkent.",
+   "answer": "scenes",
+   "base": "scenes",
+   "explain": "scenes — sahnalar: kino yoki spektakldagi alohida qismlar va ko'rinishlar."
+  },
+  {
+   "q": "Actors must read the ______ carefully before they start rehearsing their roles for the new school play.",
+   "answer": "script",
+   "base": "script",
+   "explain": "script — stsenariy: aktyorlar o'qib chiqishi kerak bo'lgan matn."
+  },
+  {
+   "q": "The police officer tried to ______ the dangerous thief from escaping through the back door.",
+   "answer": "prevent",
+   "base": "prevent",
+   "explain": "prevent — oldini olish: biror yomon ish sodir bo'lishiga yo'l qo'ymaslik."
+  },
+  {
+   "q": "Good teachers always ______ helpful study materials for their students before the final exams begin.",
+   "answer": "provide",
+   "base": "provide",
+   "explain": "provide — taqdim etish: kerakli narsalar yoki ma'lumotlar bilan ta'minlash."
+  },
+  {
+   "q": "The scientist hopes to ______ new methods to clean polluted water in our local river.",
+   "answer": "improve",
+   "base": "improve",
+   "explain": "improve — yaxshilash: biror narsaning sifatini yanada yaxshiroq holatga keltirish."
+  },
+  {
+   "q": "Our local school club decided to ______ money for buying new books for the library.",
+   "answer": "increase",
+   "base": "increase",
+   "explain": "increase — ko'paytirish: miqdorini yoki sonini oshirish ma'nosini bildiradi."
+  },
+  {
+   "q": "Students must ______ in all group activities during the English lesson to practise speaking.",
+   "answer": "participate",
+   "base": "participate",
+   "explain": "participate — qatnashish: tadbir yoki dars jarayonida faol ishtirok etish."
+  },
+  {
+   "q": "The teacher had to ______ the importance of reading books every day during the assembly.",
+   "answer": "emphasise",
+   "base": "emphasise",
+   "explain": "emphasise — ta'kidlash: biror muhim fikrga alohida e'tibor qaratish."
+  },
+  {
+   "q": "When the detective asked about the broken window, the boy tried to ______ everything.",
+   "answer": "deny",
+   "base": "deny",
+   "explain": "deny — rad etish: sodir bo'lgan ishni tan olmaslik yoki inkor qilish."
+  },
+  {
+   "q": "During the interview, the famous singer began to ______ some secrets about her childhood.",
+   "answer": "reveal",
+   "base": "reveal",
+   "explain": "reveal — oshkor qilish: sir saqlangan narsani hammaga ko'rsatish yoki aytish."
+  },
+  {
+   "q": "If you drop your wallet in the crowded bazaar, it is ______ that someone honest will return it.",
+   "answer": "likely",
+   "base": "likely",
+   "explain": "likely — ehtimoli bor: biror narsaning sodir bo'lish ehtimolligi yuqori."
+  },
+  {
+   "q": "It is ______ that it will snow in Tashkent during the hot month of July.",
+   "answer": "unlikely",
+   "base": "unlikely",
+   "explain": "unlikely — ehtimoli kam: sodir bo'lishi qiyin yoki mutlaqo mumkin bo'lmagan holat."
+  },
+  {
+   "q": "Parking your car right in front of the hospital entrance is completely ______ according to traffic rules.",
+   "answer": "illegal",
+   "base": "illegal",
+   "explain": "illegal — noqonuniy: qonunga zid va taqiqlangan harakat yoki ish."
+  },
+  {
+   "q": "Eating healthy vegetables and doing morning exercises is entirely ______ for your daily wellbeing.",
+   "answer": "legal",
+   "base": "legal",
+   "explain": "legal — qonuniy: qonun tomonidan ruxsat berilgan va to'g'ri harakat."
+  },
+  {
+   "q": "Leaving young children alone near a deep swimming pool is very ______ and dangerous.",
+   "answer": "irresponsible",
+   "base": "irresponsible",
+   "explain": "irresponsible — mas'uliyatsiz: o'z vazifasini unutib, bee'tibor ish tutadigan kishi."
+  },
+  {
+   "q": "My younger brother loves watching funny cartoons and colourful ______ every single weekend on TV.",
+   "answer": "animation",
+   "base": "animation",
+   "explain": "animation — multfilm: bolalar rang-barang multfilmlarni tomosha qilishni yaxshi ko'radi"
+  },
+  {
+   "q": "The main hero in this exciting book is completely ______ because he drinks a magic potion.",
+   "answer": "invisible",
+   "base": "invisible",
+   "explain": "invisible — ko'rinmas: sehrli ichimlik ichgani uchun u butunlay ko'rinmas bo'ldi"
+  },
+  {
+   "q": "Yesterday we watched a terrifying ______ about ghosts living inside an old wooden house.",
+   "answer": "horror",
+   "base": "horror film",
+   "explain": "horror film — qo'rqinchli kino: biz eski uy haqidagi dahshatli kinoni ko'rdik"
+  },
+  {
+   "q": "She wants to ______ her English vocabulary by reading interesting stories every single night.",
+   "answer": "improve",
+   "base": "improve",
+   "explain": "improve — yaxshilash: qiz ingliz tili lug'atini har kuni yaxshilashni istaydi"
+  },
+  {
+   "q": "My mother hates watching bloody and ______ movies because they are too stressful to watch.",
+   "answer": "violent",
+   "base": "violent",
+   "explain": "violent — zo'ravonlikka boy: onam shafqatsiz va zo'ravonlikka boy kinolarni yomon ko'radi"
+  },
+  {
+   "q": "The final ______ of that romantic film made almost everyone in the cinema cry softly.",
+   "answer": "ending",
+   "base": "ending",
+   "explain": "ending — yakun, oxiri: romantik kinoning oxirgi qismi barchani yig'latdi"
+  },
+  {
+   "q": "That famous actor gave a very ______ performance as a brave detective in the film.",
+   "answer": "convincing",
+   "base": "convincing",
+   "explain": "convincing — ishontirarli: mashhur aktyor detektiv rolini juda ishontirarli o'ynadi"
+  },
+  {
+   "q": "My little sister is very ______ because she hates waiting in long queues for tickets.",
+   "answer": "impatient",
+   "base": "impatient",
+   "explain": "impatient — sabrsiz: singlim navbatda uzoq kutishni yoqtirmagani uchun juda sabrsiz"
+  }
+ ]
+}

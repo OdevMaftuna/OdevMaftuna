@@ -1,0 +1,49 @@
+﻿66`t18`t86`tPort 2
+120`t20`t114`tExercise 14
+168`t17`t114`tRead the texts and the statements A-J. Decide which text matches
+197`t16`t114`twith the situation described in the statements.
+225`t21`t114`tEach statement can be used ONCE only. There are TWO extra
+254`t17`t113`tstatements which you do not need to use.
+288`t20`t114`tA) Extra space when you need it —easy to store.
+315`t21`t115`tB) Designer lighting
+344`t20`t114`tC) You need a wall unit.
+372`t21`t116`tD) Previously used in-store, end of range oak furniture.
+402`t21`t115`tE) Big or small - just for your books.
+430`t22`t116`tF) Solid walnut replica dining room furniture.
+458`t21`t114`tG) This is a bright idea — a cherry wood dining room suite.
+488`t21`t116`tH) You set the table with these.
+516`t21`t116`tI) Cell phone to speak
+545`t22`t114`tJ) They will set-up your entertainment systems.
+67`t16`t753`t93
+609`t17`t89`t1
+626`t20`t143`tLooking for the best Hi-Fi,
+648`t17`t143`tHome Cinema or Custom
+671`t16`t143`tInstallation Dealers?
+714`t17`t141`tVisit:
+849`t18`t90`t3
+867`t16`t138`tJim Lawrence
+896`t16`t138`tTraditional Ironwork
+925`t18`t140`tSpecialists in traditional
+954`t18`t140`twall lighting in a variety
+984`t17`t140`tof finishes.
+1013`t15`t141`tcall for brochures: 01206
+1043`t15`t140`tor Visit our web-site:
+1071`t20`t140`twww.jim-lawrence.com.uk
+608`t16`t449`t2
+644`t16`t488`tBRITISH ANTIQUE
+666`t17`t489`tREPLICAS
+711`t18`t489`tFine Classical English
+734`t15`t488`tfurniture
+756`t18`t489`tIn Solid Mahogany,
+777`t17`t488`tWalnut and Yew we
+800`t16`t489`thave a full range of
+822`t20`t489`tDining Room suites on
+845`t19`t489`tdisplay in our showroom
+866`t20`t489`tat Burgess Hill.
+911`t19`t491`tFine English Replica
+933`t16`t491`tFurniture
+954`t18`t491`tQueen Elizabeth Ave-.
+978`t20`t491`tBurgess Hill
+999`t17`t489`tWest Sussex.
+1022`t16`t491`t08444245572
+1194`t18`t629`tuchunø mytests uz

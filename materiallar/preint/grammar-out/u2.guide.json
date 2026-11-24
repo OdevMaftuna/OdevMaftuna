@@ -1,0 +1,152 @@
+[
+ {
+  "name": "Past Continuous",
+  "name_uz": "O'tgan davomiy zamon",
+  "summary": "Past Continuous o'tgan zamonda ma'lum bir vaqtda davom etib turgan harakatlarni bildiradi. Biz uni o'tgan zamondagi jarayonni ko'rsatish uchun ishlatamiz.",
+  "usage": [
+   {
+    "text": "O'tgan zamonda aniq bir vaqtda davom etayotgan harakatni bildirish uchun.",
+    "example": {
+     "en": "At 8 PM yesterday, I was watching TV.",
+     "uz": "Kecha soat kechki 8 da men televizor ko'rayotgan edim."
+    }
+   },
+   {
+    "text": "O'tgan zamonda ikkita harakat bir vaqtning o'zida davom etganini ko'rsatish uchun.",
+    "example": {
+     "en": "While I was cooking, my sister was cleaning the room.",
+     "uz": "Men ovqat pishirayotgan paytimda, opam xonani tozalayotgan edi."
+    }
+   },
+   {
+    "text": "O'tgan zamonda fon (tariqa) bo'lib xizmat qiluvchi harakatlar uchun.",
+    "example": {
+     "en": "The sun was shining when we woke up.",
+     "uz": "Biz uyg'onganimizda quyosh porlab turgan edi."
+    }
+   }
+  ],
+  "structure": [
+   {
+    "type": "+",
+    "formula": "Subject + was/were + V-ing",
+    "example": {
+     "en": "They were playing football.",
+     "uz": "Ular futbol o'ynashayotgan edi."
+    }
+   },
+   {
+    "type": "-",
+    "formula": "Subject + was/were + not + V-ing",
+    "example": {
+     "en": "He wasn't sleeping.",
+     "uz": "U uxlamayotgan edi."
+    }
+   },
+   {
+    "type": "?",
+    "formula": "Was/Were + subject + V-ing?",
+    "example": {
+     "en": "Were you reading a book?",
+     "uz": "Sen kitob o'qiyotgan edingmi?"
+    }
+   },
+   {
+    "type": "short",
+    "formula": "Yes, subject + was/were. / No, subject + wasn't/weren't.",
+    "example": {
+     "en": "Yes, I was. / No, I wasn't.",
+     "uz": "Ha. / Yo'q."
+    }
+   }
+  ],
+  "signals": [
+   {
+    "en": "at that moment",
+    "uz": "o'sha paytda"
+   },
+   {
+    "en": "at 5 o'clock yesterday",
+    "uz": "kecha soat 5 da"
+   },
+   {
+    "en": "all day yesterday",
+    "uz": "kecha kuni bo'yi"
+   },
+   {
+    "en": "while",
+    "uz": "-gan paytda, -ayotganda"
+   }
+  ],
+  "tip": "Eslatma: 'I, he, she, it' olmoshlari bilan 'was', 'you, we, they' olmoshlari bilan esa 'were' ishlatilishini unutmang!"
+ },
+ {
+  "name": "Past Simple vs Past Continuous (when / while)",
+  "name_uz": "Past Simple va Past Continuous vaqtlarning solishtiruvi",
+  "summary": "Biz bu qoidani o'tgan zamonda biror harakat davom etib turganda to'satdan boshqa bir qisqa harakat sodir bo'lganini aytish uchun ishlatamiz.",
+  "usage": [
+   {
+    "text": "Uzun davom etayotgan harakatni to'satdan sodir bo'lgan qisqa harakat to'xtatib qolganda.",
+    "example": {
+     "en": "I was walking in the park when it started to rain.",
+     "uz": "Men bog'da sayr qilib yurgan edim, to'satdan yomg'ir yog'a boshladi."
+    }
+   },
+   {
+    "text": "'While' bog'lovchisidan keyin odatda Past Continuous (davomiy harakat) keladi.",
+    "example": {
+     "en": "While she was studying, her phone rang.",
+     "uz": "U dars qilib o'tirgan paytda telefoni jiringladi."
+    }
+   },
+   {
+    "text": "'When' bog'lovchisidan keyin odatda Past Simple (qisqa harakat) keladi.",
+    "example": {
+     "en": "They were having dinner when I arrived.",
+     "uz": "Men borganimda ular kechki ovqatni tanovul qilishayotgan edi."
+    }
+   }
+  ],
+  "structure": [
+   {
+    "type": "+",
+    "formula": "Past Continuous + when + Past Simple",
+    "example": {
+     "en": "I was sleeping when you called me.",
+     "uz": "Siz menga qo'ng'iroq qilganingizda men uxlayotgan edim."
+    }
+   },
+   {
+    "type": "+",
+    "formula": "While + Past Continuous, Past Simple",
+    "example": {
+     "en": "While we were talking, the lights went out.",
+     "uz": "Biz gaplashib turganimizda chiroq o'chib qoldi."
+    }
+   },
+   {
+    "type": "?",
+    "formula": "What were you doing when...?",
+    "example": {
+     "en": "What were you doing when the accident happened?",
+     "uz": "Avariya sodir bo'lganda sen nima qilayotgan eding?"
+    }
+   }
+  ],
+  "signals": [
+   {
+    "en": "when",
+    "uz": "-gan paytda, -ganda"
+   },
+   {
+    "en": "while",
+    "uz": "-ayotgan paytda"
+   },
+   {
+    "en": "suddenly",
+    "uz": "to'satdan"
+   }
+  ],
+  "tip": "Eslatma: 'When' so'zidan keyin odatda Past Simple (qisqa zamon), 'while' so'zidan keyin esa Past Continuous (davomiy zamon) kelishini yodda saqlang!"
+ }
+]

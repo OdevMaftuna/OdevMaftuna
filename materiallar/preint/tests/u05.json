@@ -1,0 +1,552 @@
+{
+ "code": "P5",
+ "course": "Pre-Intermediate",
+ "kind": "unit",
+ "unit": 5,
+ "price": 35000,
+ "title": "Unit 5 Test",
+ "subtitle": "Ambition · will / going to · first conditional · jobs",
+ "sections": [
+  {
+   "title": "A. Choose the correct words.",
+   "items": [
+    {
+     "t": "mc",
+     "q": "Look at those black clouds! It ___ rain.",
+     "o": [
+      "will",
+      "is going to"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "I think robots ___ do many jobs in the future.",
+     "o": [
+      "will",
+      "are going to"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "I’ve decided. I ___ study medicine.",
+     "o": [
+      "will",
+      "am going to"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "The phone is ringing. — I ___ answer it!",
+     "o": [
+      "’ll",
+      "’m going to"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "What ___ do after school? Have you got any plans?",
+     "o": [
+      "will you",
+      "are you going to"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "I promise I ___ tell anyone.",
+     "o": [
+      "won’t",
+      "am not going to"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "That box looks heavy. I ___ carry it for you.",
+     "o": [
+      "’ll",
+      "’m going to"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "title": "B. Complete the first conditional sentences.",
+   "items": [
+    {
+     "t": "text",
+     "q": "If I don’t pass my exams, I ______ (not go) to university.",
+     "a": [
+      "won't go",
+      "will not go"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "If you ______ (save) money, you’ll buy a car.",
+     "a": [
+      "save"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "If it ______ (rain) tomorrow, we’ll stay at home.",
+     "a": [
+      "rains"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "If she gets the job, she ______ (move) to Tashkent.",
+     "a": [
+      "will move",
+      "'ll move"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "You’ll be tired if you ______ (not sleep) enough.",
+     "a": [
+      "don't sleep",
+      "do not sleep"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "If we ______ (be) late, the boss will be angry.",
+     "a": [
+      "are"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "If you become a pilot, you ______ (travel) all over the world.",
+     "a": [
+      "will travel",
+      "'ll travel"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "C. Each sentence has one mistake. Write the correct word.",
+   "items": [
+    {
+     "t": "text",
+     "q": "If I will get the job, I’ll buy you dinner. → correct: ______",
+     "a": [
+      "get"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I’m going be a doctor one day. → correct: ______",
+     "a": [
+      "to"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "If you won’t hurry, you’ll miss the bus. → correct: ______",
+     "a": [
+      "don't"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "She will to call you later. → correct: ______",
+     "a": [
+      "call"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "If it’s sunny, we going to the beach. → correct: ______",
+     "a": [
+      "will",
+      "'ll"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I think he’ll becomes a famous singer. → correct: ______",
+     "a": [
+      "become"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "D. Match the jobs with the definitions. There are two extra jobs.",
+   "box": [
+    "architect",
+    "builder",
+    "delivery driver",
+    "estate agent",
+    "IT specialist",
+    "mechanic",
+    "pilot",
+    "police officer",
+    "receptionist",
+    "shop assistant",
+    "waiter",
+    "vet"
+   ],
+   "items": [
+    {
+     "t": "text",
+     "q": "This person is an expert with computers. → ______",
+     "a": [
+      "IT specialist"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "This person welcomes guests at a hotel. → ______",
+     "a": [
+      "receptionist"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "This person flies planes. → ______",
+     "a": [
+      "pilot"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "This person repairs cars and machines. → ______",
+     "a": [
+      "mechanic"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "This person helps you in a shop. → ______",
+     "a": [
+      "shop assistant"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "This person brings food to your table in a restaurant. → ______",
+     "a": [
+      "waiter"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "You talk to this person if you see a crime. → ______",
+     "a": [
+      "police officer"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "This person designs new buildings. → ______",
+     "a": [
+      "architect"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "This person brings parcels to your home. → ______",
+     "a": [
+      "delivery driver"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "This person sells houses and flats. → ______",
+     "a": [
+      "estate agent"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "E. Complete the words that describe jobs. The first letter is given.",
+   "items": [
+    {
+     "t": "text",
+     "q": "Doctors earn a lot — it’s a w___-paid job.",
+     "a": [
+      "well"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Waiters often have a b___-paid job.",
+     "a": [
+      "badly",
+      "low"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Firefighters have a d________ job.",
+     "a": [
+      "dangerous"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I want to work o______, not in an office.",
+     "a": [
+      "outdoors",
+      "outside"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Teachers work with p_____ every day.",
+     "a": [
+      "people"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Nurses often work long h____.",
+     "a": [
+      "hours"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "Being a pilot can be very s________ — you can’t make mistakes.",
+     "a": [
+      "stressful"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I’d like a c_______ job where I can draw and design.",
+     "a": [
+      "creative"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "A p___-time job is good for students.",
+     "a": [
+      "part"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "A job in a bank can be r_______ — you do the same things every day.",
+     "a": [
+      "repetitive",
+      "routine"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "F. Join the two sentences with the word in brackets. Write ONE sentence (although / even though) or TWO sentences (however / nevertheless).",
+   "items": [
+    {
+     "t": "text",
+     "q": "The job is well paid. I don’t like it. (although)",
+     "a": [
+      "Although the job is well paid, I don't like it",
+      "I don't like the job although it is well paid",
+      "I don't like it although the job is well paid",
+      "Although the job is well-paid, I don't like it"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "It was raining. We went for a walk. (even though)",
+     "a": [
+      "We went for a walk even though it was raining",
+      "Even though it was raining, we went for a walk"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "He works long hours. He’s always happy. (nevertheless)",
+     "a": [
+      "He works long hours. Nevertheless, he's always happy",
+      "He works long hours. Nevertheless he's always happy"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The hotel was expensive. It wasn’t very nice. (however)",
+     "a": [
+      "The hotel was expensive. However, it wasn't very nice",
+      "The hotel was expensive. However it wasn't very nice"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "She’s very young. She’s an excellent manager. (although)",
+     "a": [
+      "Although she's very young, she's an excellent manager",
+      "She's an excellent manager although she's very young"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "I studied a lot. I failed the exam. (even though)",
+     "a": [
+      "I failed the exam even though I studied a lot",
+      "Even though I studied a lot, I failed the exam"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "The bus is slow. It’s cheap. (however)",
+     "a": [
+      "The bus is slow. However, it's cheap",
+      "The bus is slow. However it's cheap"
+     ]
+    },
+    {
+     "t": "text",
+     "q": "He didn’t get the job. He tried again next year. (nevertheless)",
+     "a": [
+      "He didn't get the job. Nevertheless, he tried again next year",
+      "He didn't get the job. Nevertheless he tried again next year"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Listening. Listen to a careers adviser talking to students. Are the sentences true or false?",
+   "audio": "preint/P5.mp3",
+   "script": "Hello everyone. Today I want to give you some advice about your first job interview. First, don't think only about money. Research shows that people who enjoy their work are often happier than people with very high salaries.\nSecond, prepare. Read about the company before the interview, and think of two or three questions you can ask them. Interviewers love students who are curious.\nThird, you don't always need a university degree. For many jobs, companies are more interested in your skills — for example, if you can work well in a team or speak foreign languages.\nAnd finally, don't be afraid of failure. My first three interviews went badly. But I learned something every time, and the fourth one was successful. So if you don't get a job, it isn't the end of the world — it's practice!",
+   "items": [
+    {
+     "t": "tf",
+     "q": "The adviser says money is the most important thing in a job.",
+     "a": false
+    },
+    {
+     "t": "tf",
+     "q": "She says you should prepare some questions for the interviewer.",
+     "a": true
+    },
+    {
+     "t": "tf",
+     "q": "She says you always need a university degree.",
+     "a": false
+    },
+    {
+     "t": "tf",
+     "q": "She thinks languages can be a useful skill.",
+     "a": true
+    },
+    {
+     "t": "tf",
+     "q": "Her first job interview was successful.",
+     "a": false
+    }
+   ]
+  },
+  {
+   "title": "G. Read the text. Match paragraphs A–E with questions 1–7. There are two extra questions.",
+   "passage": "A  When Malika was eight, she watched a documentary about elephants and decided she wanted to be a vet. Her family laughed — nobody in her village had ever been to university.\n\nB  At school she worked harder than anyone. Although her parents couldn’t pay for extra lessons, she studied biology from old books at the library every evening.\n\nC  She failed her university exam the first time. ‘I cried for a week,’ she remembers. ‘Then I made a new plan.’ She worked in a pet shop for a year and studied at night.\n\nD  The second time, she passed with one of the highest scores in the country. Five years later she qualified as a vet and opened a small clinic in her village.\n\nE  Today Malika visits schools to talk to girls about science. ‘If you have a dream,’ she tells them, ‘don’t let anybody laugh at it.’",
+   "items": [
+    {
+     "t": "mc",
+     "q": "In which paragraph … does Malika give advice to young people?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "— (no paragraph)"
+     ],
+     "a": 4
+    },
+    {
+     "t": "mc",
+     "q": "… do we learn how her dream started?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "— (no paragraph)"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "… do we learn what she did after failing?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "— (no paragraph)"
+     ],
+     "a": 2
+    },
+    {
+     "t": "mc",
+     "q": "… do we learn how she studied without money for lessons?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "— (no paragraph)"
+     ],
+     "a": 1
+    },
+    {
+     "t": "mc",
+     "q": "… do we learn where she works now?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "— (no paragraph)"
+     ],
+     "a": 3
+    },
+    {
+     "t": "mc",
+     "q": "… do we learn how much she earns?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "— (no paragraph)"
+     ],
+     "a": 5
+    },
+    {
+     "t": "mc",
+     "q": "… does she describe her favourite animal?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "— (no paragraph)"
+     ],
+     "a": 5
+    }
+   ]
+  }
+ ]
+}

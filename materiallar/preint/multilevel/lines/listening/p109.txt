@@ -1,0 +1,35 @@
+﻿109`t19`t182`t110
+91`t34`t775`tMultilevel Master listening
+248`t55`t514`tPART 5
+382`t35`t218`tMultilevel imtihoni "Listening" ya'ni eshtib tushunish bo'limining
+419`t29`t183`t5-qismida o'quvchilardan berilgan suhbat asosida ko'p tanlovli savol tu-
+458`t28`t184`triga javob berishingiz so'raladi. Bunda suhbat uchta asosiy qismga bo'lin-
+495`t27`t183`tgan bo'lib ular "extract" deb nomlanadi. Har bitta "extract" ya'ni alohida
+533`t28`t184`tsuhbat uchun shu suhbatga tegishli bo'lgan ikkita savol beriladi. Har bitta
+570`t28`t184`tsavolga tegishli bo'lgan 3 ta javob variant (A, B va C) berilgan bo'ladi va
+608`t29`t184`to'quvchidan shularning ichidan to'g'ri javob variantini aniqlab olishlari ta-
+646`t29`t185`tlab qilinadi. Ko'p tanlovli savol turining boshqa savollardan eng asosiy farqi
+683`t27`t184`tshundaki, bunda o'quvchi tinglayotgan suhbatidagi deyarli barcha ma'lu-
+720`t28`t184`tmotlarni aniq tushunib, tahlil qilib borishi lozim. Ya'ni bunda "gap filling"
+758`t28`t183`tya'ni so'z qo'yish bo'limidagi kabi ma'lum bir ma'lumotning aytilishini kutib
+803`t27`t183`to'tirish samarali foyda bermaydi.
+832`t27`t217`tSavolni ko'rib chiqishga vaqt berilganida asosan faqatgina savollarning
+869`t27`t182`to'zini o'qib chiqqan holda, javobni tahmin qilish tavsiya qilinadi. Chunki
+906`t28`t181`tagarda o'quvchi savol bilan birgalikda berilgan javob variantlarini ham o'qib
+944`t28`t181`tchiqadigan bo'lsa, bunda birinchidan o'quvchida savollarni ko'rib chiqish-
+981`t28`t179`tga kamroq vaqt qolishi va ikkinchidan savolga javob topishda chalkashlik
+1019`t27`t178`tyuzaga kelishi mumkin. Shuning uchun bu savolga javob topish uchun sa-
+1056`t28`t178`tvolda berilgan kalit so'zlarni belgilab Olish va savol aynan nimani so'rayot-
+1093`t29`t177`tganligini yaxshilab tushunib Olish talab qilinadi. Agarda savol o'quvchidan
+1132`t29`t177`taynan nimani so'rayotganligini tushunmasa, o'quvchi bunday holatda sa-
+1167`t29`t176`tvolga to'g'ri javob topa olmasligi mumkin. Bundan tashqari savolda beril-
+1207`t29`t175`tgan asosiy kalit so'zlarning sinonimlarini ham taxmin qilish o'quvchiga
+1244`t28`t175`ttinglayotgan paytda aynan qanday so'zlarga urg'u berish lozimligini angla-
+1280`t29`t174`ttadi. Suhbat jarayonida javoblar har doim savollarning ketma-ketligi asosi-
+1316`t32`t174`tda keladi ya'ni oldingi savolning javobi to'liq aytilganidan keyingina keyingi
+1355`t31`t173`tsavolning javobiga urg'u berishga o'tiladi. Agarda biroz vaqt ortib qoladi-
+1393`t30`t171`tgan bo'lsa javoblarni ham ko'rib chiqish tavsiya qilinadi. O'quvchilardan ta
+1427`t31`t172`tlab qilinadigan eng asosiy jihatlardan biri, bu savol turida javob variantlari
+1466`t34`t171`tning bir-biridan asosiy farqini aniq belgilab olishlari lozim. Chunki ko'pchilik
+1506`t30`t170`tholatlarda o'quvchilarni chalg'itish maqsadida javob variantlari ham ma'nO
+1653`t9`t1022`tScanned With

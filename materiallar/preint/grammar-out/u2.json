@@ -1,0 +1,1495 @@
+{
+ "unit": 2,
+ "parts": [
+  [
+   {
+    "kind": "verb",
+    "q": "Yesterday at 5 PM, I ______ my homework.",
+    "hint": "do",
+    "options": [],
+    "answer": "was doing",
+    "accept": [],
+    "explain": "Gapda «at 5 PM» aniq vaqtni ko‘rsatadi, shuning uchun davomiy harakat: was doing.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "While we ______ football, it started to rain.",
+    "hint": "play",
+    "options": [],
+    "answer": "were playing",
+    "accept": [],
+    "explain": "«While» bog‘lovchisidan keyin odatda Past Continuous ishlatiladi: were playing.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "She ______ a book when the phone rang.",
+    "hint": "read",
+    "options": [],
+    "answer": "was reading",
+    "accept": [],
+    "explain": "To‘satdan sodir bo‘lgan ish-harakat («rang») davom etayotgan ishni («was reading») to‘xtatdi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "They ______ TV when I visited them.",
+    "hint": "watch",
+    "options": [],
+    "answer": "were watching",
+    "accept": [],
+    "explain": "Mehmon kelgan paytda ular televizor ko‘rishayotgan edi, shuning uchun Past Continuous.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "He ______ a shower when the lights went out.",
+    "hint": "have",
+    "options": [],
+    "answer": "was having",
+    "accept": [],
+    "explain": "«Went out» bir martalik harakat, dush qabul qilish esa davom etayotgan edi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "I ______ to music while I was cleaning my room.",
+    "hint": "listen",
+    "options": [],
+    "answer": "was listening",
+    "accept": [],
+    "explain": "«While» bog‘lovchisi bilan Past Continuous (was listening) birga keladi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "The sun ______ when we left the house.",
+    "hint": "shine",
+    "options": [],
+    "answer": "was shining",
+    "accept": [],
+    "explain": "Uyimizdan chiqqanimizda quyosh porlab turgan edi: was shining.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Ali ______ his bicycle when he fell off.",
+    "hint": "ride",
+    "options": [],
+    "answer": "was riding",
+    "accept": [],
+    "explain": "Velosipedda ketayotgan paytda yiqilib tushdi: was riding.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "We ______ in the garden when the storm started.",
+    "hint": "work",
+    "options": [],
+    "answer": "were working",
+    "accept": [],
+    "explain": "To‘satdan boshlangan «started» fe'li davomiy ishni kesib o‘tdi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "She ______ dinner when her friends arrived.",
+    "hint": "cook",
+    "options": [],
+    "answer": "was cooking",
+    "accept": [],
+    "explain": "Do‘stlari kelgan vaqtda u ovqat pishirayotgan edi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "I ______ my phone while I was walking in the park.",
+    "hint": "lose",
+    "options": [],
+    "answer": "lost",
+    "accept": [],
+    "explain": "To‘satdan sodir bo‘lgan qisqa harakat Past Simple: lost.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "They ______ in Tashkent when they met famous singer.",
+    "hint": "live",
+    "options": [],
+    "answer": "were living",
+    "accept": [],
+    "explain": "O‘sha paytda Toshkentda yashashayotgan edi: were living.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "He ______ a letter when his mom walked into the room.",
+    "hint": "write",
+    "options": [],
+    "answer": "was writing",
+    "accept": [],
+    "explain": "Onasi kirib kelganida u xat yozayotgan edi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "While the teacher ______ , the students were talking.",
+    "hint": "explain",
+    "options": [],
+    "answer": "was explaining",
+    "accept": [],
+    "explain": "O‘qituvchi tushuntirayotgan paytda: was explaining.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "I ______ a strange noise outside while I was studying.",
+    "hint": "hear",
+    "options": [],
+    "answer": "heard",
+    "accept": [],
+    "explain": "O‘qiyotgan vaqtda birdaniga eshitilgan tovush: heard.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "The children ______ football at 4 PM yesterday.",
+    "hint": "play",
+    "options": [],
+    "answer": "were playing",
+    "accept": [],
+    "explain": "Kecha soat 4 da ular futbol o‘ynashayotgan edi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "She ______ her bag on the bus this morning.",
+    "hint": "leave",
+    "options": [],
+    "answer": "left",
+    "accept": [],
+    "explain": "Bir martalik yakunlangan harakat: left.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "While Dad ______ the car, Mum was cleaning the kitchen.",
+    "hint": "wash",
+    "options": [],
+    "answer": "was washing",
+    "accept": [],
+    "explain": "Ikki kishi bir vaqtning o‘zida ish qilayotgani uchun Past Continuous: was washing.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "I ______ my friend Asil while I was shopping.",
+    "hint": "see",
+    "options": [],
+    "answer": "saw",
+    "accept": [],
+    "explain": "Do‘konda yurganimda to‘satdan ko‘rib qoldim: saw.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "It ______ heavily when we reached Samarkand.",
+    "hint": "snow",
+    "options": [],
+    "answer": "was snowing",
+    "accept": [],
+    "explain": "Samarqandga borganimizda qor yog‘ayotgan edi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "The dog ______ when the postman knocked on the door.",
+    "hint": "bark",
+    "options": [],
+    "answer": "was barking",
+    "accept": [],
+    "explain": "Pochta xodimi eshikni taqillatganda it vovullayotgan edi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "While we ______ lunch, the guests arrived.",
+    "hint": "have",
+    "options": [],
+    "answer": "were having",
+    "accept": [
+     "were eating"
+    ],
+    "explain": "Tushlik qilib turgan vaqtimizda mehmonlar keldi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "He ______ his leg while he was skiing in the mountains.",
+    "hint": "break",
+    "options": [],
+    "answer": "broke",
+    "accept": [],
+    "explain": "Tog‘da chang‘i uchayotganda oyog‘ini sindirib oldi: broke.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "They ______ TV when the electricity went off.",
+    "hint": "watch",
+    "options": [],
+    "answer": "were watching",
+    "accept": [],
+    "explain": "Chiroq o‘chib qolganda ular televizor ko‘rishayotgan edi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "I ______ my English test when the bell rang.",
+    "hint": "write",
+    "options": [],
+    "answer": "was writing",
+    "accept": [
+     "was taking"
+    ],
+    "explain": "Qo‘ng‘iroq chalinganda imtihon yozayotgan edim.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "While Ziyoda ______ her room, her brother was playing games.",
+    "hint": "clean",
+    "options": [],
+    "answer": "was cleaning",
+    "accept": [],
+    "explain": "Xonasini tozalayotgan paytda: was cleaning.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "The baby ______ when I entered the room.",
+    "hint": "sleep",
+    "options": [],
+    "answer": "was sleeping",
+    "accept": [],
+    "explain": "Xonaga kirganimda chaqaloq uxlab yotgan edi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "We ______ along the river when we saw a big fish.",
+    "hint": "walk",
+    "options": [],
+    "answer": "were walking",
+    "accept": [],
+    "explain": "Daryo bo‘ylab ketayotgan edik: were walking.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "She ______ her English book at home this morning.",
+    "hint": "forget",
+    "options": [],
+    "answer": "forgot",
+    "accept": [],
+    "explain": "Uyda unutib qoldirdi, bu oddiy o‘tgan zamon: forgot.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "While the sun ______, we went for a picnic.",
+    "hint": "shine",
+    "options": [],
+    "answer": "was shining",
+    "accept": [],
+    "explain": "Quyosh charaqlab turganda: was shining.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "I ______ my grandmother when she called me.",
+    "hint": "visit",
+    "options": [],
+    "answer": "was visiting",
+    "accept": [],
+    "explain": "Buvisi qo‘ng‘iroq qilganda uningnikida edim / borayotgan edim.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "They ______ in the sea when it started to rain.",
+    "hint": "swim",
+    "options": [],
+    "answer": "were swimming",
+    "accept": [],
+    "explain": "Yomg‘ir boshlanganda dengizda suzishayotgan edi.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "He ______ his keys while he was running in the park.",
+    "hint": "lose",
+    "options": [],
+    "answer": "lost",
+    "accept": [],
+    "explain": "Yugurib ketayotganda kalitini yo‘qotib qo‘ydi: lost.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "While I ______ a book, my sister was drawing.",
+    "hint": "read",
+    "options": [],
+    "answer": "was reading",
+    "accept": [],
+    "explain": "Men kitob o‘qiyotgan paytimda: was reading.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Last Friday at 6 PM, Aziz ______ dinner with his family.",
+    "hint": "eat",
+    "options": [],
+    "answer": "was eating",
+    "accept": [],
+    "explain": "Gapda aniq vaqt «at 6 PM» ko‘rsatilgan. Bu o‘tgan zamonda davom etayotgan harakatni bildiradi, shuning uchun Past Continuous: was eating.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "While Madina ______ her room, the lights suddenly went out.",
+    "hint": "clean",
+    "options": [],
+    "answer": "was cleaning",
+    "accept": [],
+    "explain": "«While» bog‘lovchisidan keyin odatda davom etayotgan harakat keladi. Bu yerda Past Continuous qo‘llaniladi: was cleaning.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Jasur ______ his old friend Timur in the street yesterday.",
+    "hint": "meet",
+    "options": [],
+    "answer": "met",
+    "accept": [],
+    "explain": "Gapda «yesterday» so‘zi bor — bu oddiy o‘tgan zamon belgisi, shuning uchun Past Simple: met.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "The students ______ a test when the headmaster entered the classroom.",
+    "hint": "write",
+    "options": [],
+    "answer": "were writing",
+    "accept": [],
+    "explain": "To‘satdan sodir bo‘lgan voqea («entered») davom etayotgan harakatni bo‘lib yubordi. Shuning uchun Past Continuous: were writing.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "Nodira ______ her coffee because it was too hot.",
+    "hint": "not drink",
+    "options": [],
+    "answer": "did not drink",
+    "accept": [
+     "didn't drink",
+     "did not drink"
+    ],
+    "explain": "Gapda fakt haqida gap ketmoqda va «yesterday» ma'nosi bor. Inkor shakli uchun Past Simple ishlatiladi: did not drink.",
+    "wrong": {}
+   },
+   {
+    "kind": "verb",
+    "q": "While I ______ in the park, I lost my favourite pen.",
+    "hint": "walk",
+    "options": [],
+    "answer": "was walking",
+    "accept": [],
+    "explain": "Qisqa harakatdan oldin davom etayotgan jarayonni ko‘rsatish uchun «while» bilan Past Continuous ishlatiladi: was walking.",
+    "wrong": {}
+   }
+  ],
+  [
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Malika was cooking plov when the guests knocked on the door.",
+     "Malika cooked plov when the guests were knocking on the door.",
+     "Malika was cooking plov when the guests were knocking on the door."
+    ],
+    "answer": "Malika was cooking plov when the guests knocked on the door.",
+    "accept": [],
+    "explain": "«When» so'zidan keyin qisqa harakatni bildiruvchi Past Simple keladi.",
+    "wrong": {
+     "Malika cooked plov when the guests were knocking on the door.": "Osh pishirish jarayoni uzoq davom etgan, shuning uchun Past Continuous kerak.",
+     "Malika was cooking plov when the guests were knocking on the door.": "Taqillatish qisqa va birdaniga bo'lgan harakat, Past Simple ishlatiladi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "While I was walking home, I met my teacher.",
+     "While I walked home, I was meeting my teacher.",
+     "While I was walking home, I was meeting my teacher."
+    ],
+    "answer": "While I was walking home, I met my teacher.",
+    "accept": [],
+    "explain": "Qisqa harakat (met) davomiy harakatni (was walking) bo‘lib yuborgan, shuning uchun Past Simple va Past Continuous ishlatiladi.",
+    "wrong": {
+     "While I walked home, I was meeting my teacher.": "Qisqa harakat uchun Past Continuous emas, Past Simple ishlatilishi kerak.",
+     "While I was walking home, I was meeting my teacher.": "Uchrashish qisqa harakat, shuning uchun Past Continuous mos kelmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "They were playing football when the bell rang.",
+     "They played football when the bell was ringing.",
+     "They were playing football when the bell was ringing."
+    ],
+    "answer": "They were playing football when the bell rang.",
+    "accept": [],
+    "explain": "«When» so‘zidan keyin Past Simple (rang) keladi, davom etib turgan ish uchun Past Continuous ishlatiladi.",
+    "wrong": {
+     "They played football when the bell was ringing.": "Asosiy davomiy harakatga Past Continuous kerak edi.",
+     "They were playing football when the bell was ringing.": "Zarbali qisqa harakat uchun Past Simple ishlatiladi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "She dropped her cup while she was washing the dishes.",
+     "She was dropping her cup while she washed the dishes.",
+     "She dropped her cup while she washed the dishes."
+    ],
+    "answer": "She dropped her cup while she was washing the dishes.",
+    "accept": [],
+    "explain": "«While» bog‘lovchisidan keyin davomiy harakat (was washing) keladi.",
+    "wrong": {
+     "She was dropping her cup while she washed the dishes.": "Stakan tushib ketishi qisqa harakat, uni davomiy qilib bo‘lmaydi.",
+     "She dropped her cup while she washed the dishes.": "Idish yuvish jarayoni davom etgan, shuning uchun Past Continuous kerak."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "When the sun came out, the children were smiling.",
+     "When the sun was coming out, the children smiled.",
+     "When the sun was coming out, the children were smiling."
+    ],
+    "answer": "When the sun came out, the children were smiling.",
+    "accept": [],
+    "explain": "Quyosh chiqishi qisqa harakat (came out), bolalarning jilmayib turishi esa holat.",
+    "wrong": {
+     "When the sun was coming out, the children smiled.": "Quyosh chiqishi jarayonini Past Continuous qilish ortiqcha, u bir lahzali.",
+     "When the sun was coming out, the children were smiling.": "Quyosh chiqishi qisqa harakat sifatida Past Simpleda bo‘lishi kerak."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Kamola was cooking dinner at seven o'clock yesterday.",
+     "Kamola cooked dinner at seven o'clock yesterday.",
+     "Kamola is cooking dinner at seven o'clock yesterday."
+    ],
+    "answer": "Kamola was cooking dinner at seven o'clock yesterday.",
+    "accept": [],
+    "explain": "«At seven o'clock yesterday» — o‘tgan zamondagi aniq vaqt, shuning uchun Past Continuous ishlatiladi.",
+    "wrong": {
+     "Kamola cooked dinner at seven o'clock yesterday.": "Aniq vaqt ko‘rsatilgani uchun Past Simple emas, Past Continuous ishlatiladi.",
+     "Kamola is cooking dinner at seven o'clock yesterday.": "Gapda «yesterday» bor, shuning uchun Present Continuous noto‘g‘ri."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "I lost my pen while I was writing a test.",
+     "I was losing my pen while I wrote a test.",
+     "I lost my pen while I wrote a test."
+    ],
+    "answer": "I lost my pen while I was writing a test.",
+    "accept": [],
+    "explain": "«While» so‘zidan keyin davomiy harakat (was writing) ishlatiladi.",
+    "wrong": {
+     "I was losing my pen while I wrote a test.": "Qalamni yo‘qotish qisqa harakat, uni Past Continuous qilib bo‘lmaydi.",
+     "I lost my pen while I wrote a test.": "Test yozish jarayoni davom etgan, shuning uchun Past Continuous kerak."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "We were watching a movie when the electricity went off.",
+     "We watched a movie when the electricity was going off.",
+     "We were watching a movie when the electricity was going off."
+    ],
+    "answer": "We were watching a movie when the electricity went off.",
+    "accept": [],
+    "explain": "Chiroq o‘chishi qisqa harakat (went off), kino ko‘rish esa davomiy harakat edi.",
+    "wrong": {
+     "We watched a movie when the electricity was going off.": "Asosiy davomiy jarayonga Past Continuous ishlatilishi lozim.",
+     "We were watching a movie when the electricity was going off.": "Chiroq o‘chishi bir lahzali harakat, uni Past Continuous qilib bo‘lmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Zohir found some old coins while he was digging the garden.",
+     "Zohir was finding some old coins while he dug the garden.",
+     "Zohir found some old coins while he dug the garden."
+    ],
+    "answer": "Zohir found some old coins while he was digging the garden.",
+    "accept": [],
+    "explain": "Qazish ishi davom etayotganda (was digging) tanga topildi (found).",
+    "wrong": {
+     "Zohir was finding some old coins while he dug the garden.": "Topish harakati qisqa, qazish esa davomiy bo‘lishi kerak.",
+     "Zohir found some old coins while he dug the garden.": "Bog‘ni qazish jarayoni davom etgan, shuning uchun Past Continuous kerak."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "I saw a camel when we were travelling in the desert.",
+     "I was seeing a camel when we travelled in the desert.",
+     "I was seeing a camel when we were travelling in the desert."
+    ],
+    "answer": "I saw a camel when we were travelling in the desert.",
+    "accept": [],
+    "explain": "Sayohat qilish davom etayotganda (were travelling) tuya ko‘rindi (saw).",
+    "wrong": {
+     "I was seeing a camel when we travelled in the desert.": "Ko‘rish fe'li (see) odatda Past Continuous shaklida ishlatilmaydi.",
+     "I was seeing a camel when we were travelling in the desert.": "Ko‘rish fe'li davomiy bo‘lmaydi, shuningdek sayohat davomiy bo‘lishi kerak."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "The boys were playing football when it started to rain.",
+     "The boys played football when it was starting to rain.",
+     "The boys were playing football when it was starting to rain."
+    ],
+    "answer": "The boys were playing football when it started to rain.",
+    "accept": [],
+    "explain": "Yomg‘ir yog‘ishi (started) qisqa harakat, futbol o‘ynash esa davomiy harakat edi.",
+    "wrong": {
+     "The boys played football when it was starting to rain.": "Asosiy davomiy jarayonga Past Continuous ishlatilishi kerak.",
+     "The boys were playing football when it was starting to rain.": "Yomg‘ir boshlanishi bir lahzali harakat, uni Past Continuous qilib bo‘lmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "He hurt his leg while he was playing tennis.",
+     "He was hurting his leg while he played tennis.",
+     "He hurt his leg while he played tennis."
+    ],
+    "answer": "He hurt his leg while he was playing tennis.",
+    "accept": [],
+    "explain": "Tenis o‘ynash jarayonida (was playing) oyoq jarohatlandi (hurt).",
+    "wrong": {
+     "He was hurting his leg while he played tennis.": "Jarohat olish qisqa harakat, uni Past Continuous qilib bo‘lmaydi.",
+     "He hurt his leg while he played tennis.": "Tenis o‘ynash davomiy bo‘lgani uchun Past Continuous kerak."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "When the postman arrived, I was sleeping.",
+     "When the postman was arriving, I slept.",
+     "When the postman was arriving, I was sleeping."
+    ],
+    "answer": "When the postman arrived, I was sleeping.",
+    "accept": [],
+    "explain": "Pochtalonning kelishi (arrived) qisqa harakat, uxlash esa davomiy harakat edi.",
+    "wrong": {
+     "When the postman was arriving, I slept.": "Kelish bir lahzali harakat, uni Past Continuous qilib bo‘lmaydi.",
+     "When the postman was arriving, I was sleeping.": "Pochtalonning kelishi qisqa harakat bo‘lib, Past Simpleda bo‘lishi kerak."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "While we were driving to Samarkand, we saw old monuments.",
+     "While we drove to Samarkand, we were seeing old monuments.",
+     "While we were driving to Samarkand, we were seeing old monuments."
+    ],
+    "answer": "While we were driving to Samarkand, we saw old monuments.",
+    "accept": [],
+    "explain": "Mashinada ketish davom etayotganda (were driving) yodgorliklar ko‘rindi (saw).",
+    "wrong": {
+     "While we drove to Samarkand, we were seeing old monuments.": "Sayohat davomiy harakat, shuning uchun Past Continuous kerak.",
+     "While we were driving to Samarkand, we were seeing old monuments.": "Ko‘rish fe'li (see) davomiy zamonda ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Nilufar was cleaning her room at 10 AM yesterday.",
+     "Nilufar cleaned her room at 10 AM yesterday.",
+     "Nilufar is cleaning her room at 10 AM yesterday."
+    ],
+    "answer": "Nilufar was cleaning her room at 10 AM yesterday.",
+    "accept": [],
+    "explain": "«At 10 AM yesterday» — o‘tgan zamondagi aniq payt, shuning uchun Past Continuous ishlatiladi.",
+    "wrong": {
+     "Nilufar cleaned her room at 10 AM yesterday.": "Aniq vaqt ko‘rsatilganda Past Continuous ishlatilishi kerak.",
+     "Nilufar is cleaning her room at 10 AM yesterday.": "«Yesterday» so‘zi borligi uchun Present Continuous ishlatib bo‘lmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Dilshod broke his phone when he dropped it on the floor.",
+     "Dilshod was breaking his phone when he dropped it.",
+     "Dilshod broke his phone when he was dropping it."
+    ],
+    "answer": "Dilshod broke his phone when he dropped it on the floor.",
+    "accept": [],
+    "explain": "Ikkala harakat ham qisqa va ketma-ket sodir bo‘lgan, shuning uchun Past Simple.",
+    "wrong": {
+     "Dilshod was breaking his phone when he dropped it.": "Telefon sinishi qisqa harakat, uni Past Continuous qilib bo‘lmaydi.",
+     "Dilshod broke his phone when he was dropping it.": "Tushirib yuborish bir lahzali harakat, Past Continuous bo‘lmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "When the lights went out, we were listening to music.",
+     "When the lights were going out, we listened to music.",
+     "When the lights were going out, we were listening to music."
+    ],
+    "answer": "When the lights went out, we were listening to music.",
+    "accept": [],
+    "explain": "Chiroq o‘chishi (went out) qisqa harakat, musiqa tinglash esa davomiy harakat edi.",
+    "wrong": {
+     "When the lights were going out, we listened to music.": "Chiroq o‘chishi bir lahzali harakat, shuning uchun Past Simple kerak.",
+     "When the lights were going out, we were listening to music.": "Chiroq o‘chishi jarayon emas, qisqa harakat bo‘lib Past Simpleda keladi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "While I was shopping in the bazaar, I met my old neighbour.",
+     "While I shopped in the bazaar, I was meeting my old neighbour.",
+     "While I was shopping in the bazaar, I was meeting my old neighbour."
+    ],
+    "answer": "While I was shopping in the bazaar, I met my old neighbour.",
+    "accept": [],
+    "explain": "Bozorlik qilish davom etayotganda (was shopping) qo‘shni uchratildi (met).",
+    "wrong": {
+     "While I shopped in the bazaar, I was meeting my old neighbour.": "Bozorlik qilish davomiy harakat, shuning uchun Past Continuous kerak.",
+     "While I was shopping in the bazaar, I was meeting my old neighbour.": "Uchrashish qisqa harakat, shuning uchun Past Simple ishlatiladi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "The children were sleeping when their mother came home.",
+     "The children slept when their mother was coming home.",
+     "The children were sleeping when their mother was coming home."
+    ],
+    "answer": "The children were sleeping when their mother came home.",
+    "accept": [],
+    "explain": "Onaning kelishi (came) qisqa harakat, bolalarning uxlashi esa davomiy edi.",
+    "wrong": {
+     "The children slept when their mother was coming home.": "Asosiy davomiy harakatga Past Continuous ishlatilishi shart.",
+     "The children were sleeping when their mother was coming home.": "Onaning kelishi qisqa harakat, shuning uchun Past Simple kerak."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "We were eating dinner when someone knocked at the door.",
+     "We ate dinner when someone was knocking at the door.",
+     "We were eating dinner when someone was knocking at the door."
+    ],
+    "answer": "We were eating dinner when someone knocked at the door.",
+    "accept": [],
+    "explain": "Eshik taqillashi (knocked) qisqa harakat, ovqatlanish esa davomiy harakat edi.",
+    "wrong": {
+     "We ate dinner when someone was knocking at the door.": "Asosiy davomiy jarayonga Past Continuous ishlatilishi lozim.",
+     "We were eating dinner when someone was knocking at the door.": "Eshik taqillashi bir lahzali harakat, Past Continuous bo‘lmaydi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "While I was walking in the park, it began to snow.",
+     "While I walked in the park, it was beginning to snow.",
+     "While I was walking in the park, it was beginning to snow."
+    ],
+    "answer": "While I was walking in the park, it began to snow.",
+    "accept": [],
+    "explain": "Sayr qilish davom etayotganda (was walking) qor yog‘a boshladi (began).",
+    "wrong": {
+     "While I walked in the park, it was beginning to snow.": "«While» so‘zidan keyin Past Continuous ishlatilishi kerak.",
+     "While I was walking in the park, it was beginning to snow.": "Qor boshlanishi qisqa harakat, shuning uchun Past Simple bo‘lishi lozim."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "She was washing her hair at 9 PM yesterday.",
+     "She washed her hair at 9 PM yesterday.",
+     "She is washing her hair at 9 PM yesterday."
+    ],
+    "answer": "She was washing her hair at 9 PM yesterday.",
+    "accept": [],
+    "explain": "«At 9 PM yesterday» aniq vaqt bo‘lgani uchun Past Continuous talab etiladi.",
+    "wrong": {
+     "She washed her hair at 9 PM yesterday.": "Aniq vaqt ko‘rsatilganda Past Continuous ishlatiladi.",
+     "She is washing her hair at 9 PM yesterday.": "«Yesterday» so‘zi o‘tgan zamonni bildiradi, Present Continuous xato."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "I found my lost keys while I was cleaning the room.",
+     "I was finding my lost keys while I cleaned the room.",
+     "I found my lost keys while I cleaned the room."
+    ],
+    "answer": "I found my lost keys while I was cleaning the room.",
+    "accept": [],
+    "explain": "Xona tozalash jarayonida (was cleaning) kalitlar topildi (found).",
+    "wrong": {
+     "I was finding my lost keys while I cleaned the room.": "Topish qisqa harakat, uni Past Continuous qilib bo‘lmaydi.",
+     "I found my lost keys while I cleaned the room.": "Tozalash jarayoni davom etgan, shuning uchun Past Continuous kerak."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "While I walked to school, I was meeting my friend Jasur.",
+     "While I was walking to school, I met my friend Jasur.",
+     "While I was walking to school, I was meeting my friend Jasur."
+    ],
+    "answer": "While I was walking to school, I met my friend Jasur.",
+    "accept": [],
+    "explain": "«While» so'zidan keyin davomiy harakat (Past Continuous) keladi, ikkinchi qism esa to'satdan bo'lgan harakat (Past Simple).",
+    "wrong": {
+     "While I walked to school, I was meeting my friend Jasur.": "«While» ortidan Past Simple emas, Past Continuous ishlatiladi. «Meet» fe'li esa qisqa harakat.",
+     "While I was walking to school, I was meeting my friend Jasur.": "«Meet» fe'li davomiy bo'lmaydi, shuning uchun Past Simple (met) kerak."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Aziz watched TV when his father was calling him.",
+     "Aziz was watching TV when his father called him.",
+     "Aziz was watching TV when his father was calling him."
+    ],
+    "answer": "Aziz was watching TV when his father called him.",
+    "accept": [],
+    "explain": "Televizor ko'rish davomiy jarayon (was watching), chaqirish esa uni to'satdan to'xtatgan qisqa harakat (called).",
+    "wrong": {
+     "Aziz watched TV when his father was calling him.": "TV ko'rish jarayoni davomiy bo'lishi kerak («was watching»).",
+     "Aziz was watching TV when his father was calling him.": "Chaqirish to'satdan sodir bo'lgan qisqa harakat, shuning uchun Past Simple («called») ishlatiladi."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "It was starting to rain while we played football.",
+     "It started to rain while we played football.",
+     "It started to rain while we were playing football."
+    ],
+    "answer": "It started to rain while we were playing football.",
+    "accept": [],
+    "explain": "Futbol o'ynash jarayoni (were playing) ketayotganda yomg'ir to'satdan boshlandi (started).",
+    "wrong": {
+     "It was starting to rain while we played football.": "Yomg'irning boshlanishi qisqa harakat (started), o'ynash esa davomiy jarayon.",
+     "It started to rain while we played football.": "O'yin jarayoni davomiy bo'lishi kerak («were playing»)."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "When the train was arriving, we waited on the platform.",
+     "When the train arrived, we were waiting on the platform.",
+     "When the train was arriving, we were waiting on the platform."
+    ],
+    "answer": "When the train arrived, we were waiting on the platform.",
+    "accept": [],
+    "explain": "Poyezd kelishi qisqa harakat (arrived), kutish esa undan oldin davom etgan jarayon (were waiting).",
+    "wrong": {
+     "When the train was arriving, we waited on the platform.": "Poyezd kelishi bir zumlik harakat (arrived), kutish esa davomiy bo'lishi kerak.",
+     "When the train was arriving, we were waiting on the platform.": "Poyezd kelishi davomiy emas, aniq bir nuqtadagi qisqa harakatdir."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "Zarina read a book at 8 PM yesterday.",
+     "Zarina was reading a book at 8 PM yesterday.",
+     "Zarina is reading a book at 8 PM yesterday."
+    ],
+    "answer": "Zarina was reading a book at 8 PM yesterday.",
+    "accept": [],
+    "explain": "Aniq vaqt ko'rsatilgani uchun («at 8 PM yesterday») Past Continuous zamonidagi fe'l ishlatiladi.",
+    "wrong": {
+     "Zarina read a book at 8 PM yesterday.": "O'tgan zamondagi aniq paytda davom etgan ish-harakat uchun Past Continuous kerak.",
+     "Zarina is reading a book at 8 PM yesterday.": "Gapda «yesterday» so'zi bor, shuning uchun hozirgi zamon («is») noto'g'ri."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "When I was seeing Rustam, he cleaned his bicycle.",
+     "When I saw Rustam, he was cleaning his bicycle.",
+     "When I was seeing Rustam, he was cleaning his bicycle."
+    ],
+    "answer": "When I saw Rustam, he was cleaning his bicycle.",
+    "accept": [],
+    "explain": "Ko'rish qisqa harakat (saw), velosipedni tozalash esa o'sha paytda davom etayotgan jarayon edi.",
+    "wrong": {
+     "When I was seeing Rustam, he cleaned his bicycle.": "«See» fe'li holat fe'li bo'lib, davomiy shaklda ishlatilmaydi.",
+     "When I was seeing Rustam, he was cleaning his bicycle.": "«See» fe'li davomiy zamonda ishlatilmaydi, Past Simple («saw») kerak."
+    }
+   },
+   {
+    "kind": "correct",
+    "q": "Which sentence is correct?",
+    "hint": "",
+    "options": [
+     "My mother made tea when the phone was ringing.",
+     "My mother was making tea when the phone rang.",
+     "My mother was making tea when the phone was ringing."
+    ],
+    "answer": "My mother was making tea when the phone rang.",
+    "accept": [],
+    "explain": "Choy damlash jarayoni («was making») ketayotganda telefon jiringladi (rang).",
+    "wrong": {
+     "My mother made tea when the phone was ringing.": "Choy damlash jarayoni davomiy bo'lishi kerak («was making»).",
+     "My mother was making tea when the phone was ringing.": "Telefon jiringlashi to'satdan sodir bo'lgan qisqa harakat («rang»)."
+    }
+   }
+  ],
+  [
+   {
+    "kind": "choose",
+    "q": "Yesterday afternoon, Dilnoza ______ her homework when her mother came home.",
+    "hint": "",
+    "options": [
+     "was doing",
+     "did"
+    ],
+    "answer": "was doing",
+    "accept": [],
+    "explain": "Gapda qisqa harakatdan oldin davom etayotgan ish bor — Past Continuous: was doing.",
+    "wrong": {
+     "did": "Past Simple qisqa harakat uchun, lekin bu yerda davomiy harakat kerak."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "While we ______ to Bukhara, the car suddenly stopped.",
+    "hint": "",
+    "options": [
+     "were driving",
+     "drove"
+    ],
+    "answer": "were driving",
+    "accept": [],
+    "explain": "«While» bog‘lovchisidan keyin odatda Past Continuous keladi: were driving.",
+    "wrong": {
+     "drove": "Past Simple «while» bilan ishlatilmaydi, bu yerda davomiy zamon kerak."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Aziz dropped his phone while he ______ across the street.",
+    "hint": "",
+    "options": [
+     "was running",
+     "ran"
+    ],
+    "answer": "was running",
+    "accept": [],
+    "explain": "To‘satdan sodir bo‘lgan ishni bo‘lib yuborgan davomiy harakat — Past Continuous: was running.",
+    "wrong": {
+     "ran": "Past Simple bir vaqtda ikkita davom etayotgan yoki kesishgan ish uchun emas."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "The children ______ chess when the teacher opened the door.",
+    "hint": "",
+    "options": [
+     "were playing",
+     "played"
+    ],
+    "answer": "were playing",
+    "accept": [],
+    "explain": "O‘qituvchi kirgan paytda davom etayotgan harakat — Past Continuous: were playing.",
+    "wrong": {
+     "played": "Past Simple qisqa yoki tugallangan ishni bildiradi, davom etayotganni emas."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "While I ______ my breakfast, the postman knocked at the door.",
+    "hint": "",
+    "options": [
+     "was eating",
+     "ate"
+    ],
+    "answer": "was eating",
+    "accept": [],
+    "explain": "«While» so‘zidan keyin davomiy harakat keladi: was eating.",
+    "wrong": {
+     "ate": "Past Simple «while» so‘zidan keyin kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Madina ______ a beautiful song when the lights went out.",
+    "hint": "",
+    "options": [
+     "was singing",
+     "sang"
+    ],
+    "answer": "was singing",
+    "accept": [],
+    "explain": "Chiroq o‘chib qolganda davom etayotgan ish — Past Continuous: was singing.",
+    "wrong": {
+     "sang": "Past Simple to‘satdan sodir bo‘lgan ishni bildiradi, davom etayotganni emas."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "We ______ museums in Khiva while our parents were resting at the hotel.",
+    "hint": "",
+    "options": [
+     "were visiting",
+     "visited"
+    ],
+    "answer": "were visiting",
+    "accept": [],
+    "explain": "Ikki bir vaqtda davom etayotgan harakat — Past Continuous: were visiting.",
+    "wrong": {
+     "visited": "Past Simple bir vaqtda davom etgan ishni bildirmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Rustam lost his wallet while he ______ in Navoi park.",
+    "hint": "",
+    "options": [
+     "was walking",
+     "walked"
+    ],
+    "answer": "was walking",
+    "accept": [],
+    "explain": "Pulini yo‘qotgan paytdagi davomiy harakat — Past Continuous: was walking.",
+    "wrong": {
+     "walked": "Past Simple qisqa harakatni ko‘rsatadi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Shakhnoza ______ tea with her friends at 5 PM yesterday.",
+    "hint": "",
+    "options": [
+     "was drinking",
+     "drank"
+    ],
+    "answer": "was drinking",
+    "accept": [],
+    "explain": "Aniq vaqtda davom etayotgan ish — Past Continuous: was drinking.",
+    "wrong": {
+     "drank": "Past Simple aniq vaqtni emas, tugagan ishni bildiradi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "While the boys ______ in the yard, it started to snow.",
+    "hint": "",
+    "options": [
+     "were playing",
+     "played"
+    ],
+    "answer": "were playing",
+    "accept": [],
+    "explain": "Qor yog‘a boshlaganda davom etayotgan ish — Past Continuous: were playing.",
+    "wrong": {
+     "played": "Past Simple davomiy ishni ko‘rsatmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Akmal ______ his ankle while he was playing basketball.",
+    "hint": "",
+    "options": [
+     "hurt",
+     "was hurting"
+    ],
+    "answer": "hurt",
+    "accept": [],
+    "explain": "Davom etayotgan ishni to‘satdan to‘xtatgan qisqa harakat — Past Simple: hurt.",
+    "wrong": {
+     "was hurting": "Bu fe'l odatda Past Continuous shaklida ishlatilmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "While Zarina ______ a letter, her brother was drawing a picture.",
+    "hint": "",
+    "options": [
+     "was writing",
+     "wrote"
+    ],
+    "answer": "was writing",
+    "accept": [],
+    "explain": "Ikki parallel davom etayotgan harakatdan biri — Past Continuous: was writing.",
+    "wrong": {
+     "wrote": "Parallel harakatlar uchun Past Simple emas, Past Continuous ishlatiladi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "The baby ______ when the loud noise woke him up.",
+    "hint": "",
+    "options": [
+     "was sleeping",
+     "slept"
+    ],
+    "answer": "was sleeping",
+    "accept": [],
+    "explain": "Shovqin uyg‘otguncha davom etayotgan ish — Past Continuous: was sleeping.",
+    "wrong": {
+     "slept": "Past Simple qisqa yoki tugallangan harakat uchun."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "While we ______ English grammar, the bell rang.",
+    "hint": "",
+    "options": [
+     "were studying",
+     "studied"
+    ],
+    "answer": "were studying",
+    "accept": [],
+    "explain": "Qo‘ng‘iroq chalib yuborgan paytdagi davomiy harakat — Past Continuous: were studying.",
+    "wrong": {
+     "studied": "Past Simple «while» bilan to‘g‘ri kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Farhod ______ his grandparents in Samarkand last summer.",
+    "hint": "",
+    "options": [
+     "visited",
+     "was visiting"
+    ],
+    "answer": "visited",
+    "accept": [],
+    "explain": "O‘tgan zamonda tugagan oddiy harakat — Past Simple: visited.",
+    "wrong": {
+     "was visiting": "Aniq davomiylik ko‘rsatilmagan, oddiy o‘tgan zamon kerak."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "While grandmother ______ tea, grandfather was reading a newspaper.",
+    "hint": "",
+    "options": [
+     "was making",
+     "made"
+    ],
+    "answer": "was making",
+    "accept": [],
+    "explain": "Bir vaqtda sodir bo‘layotgan harakat — Past Continuous: was making.",
+    "wrong": {
+     "made": "Parallel ishlar uchun Past Simple mos kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Gulnora ______ her favorite dress to the party yesterday.",
+    "hint": "",
+    "options": [
+     "wore",
+     "was wearing"
+    ],
+    "answer": "wore",
+    "accept": [],
+    "explain": "O‘tgan zamondagi oddiy fakt — Past Simple: wore.",
+    "wrong": {
+     "was wearing": "Bu yerda davomiy harakatga urg‘u berilmagan."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "While I ______ for the bus, it began to rain.",
+    "hint": "",
+    "options": [
+     "was waiting",
+     "waited"
+    ],
+    "answer": "was waiting",
+    "accept": [],
+    "explain": "Yomg‘ir yog‘a boshlagandagi jarayon — Past Continuous: was waiting.",
+    "wrong": {
+     "waited": "Past Simple «while» ortidan kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Sanjar ______ his car to work this morning.",
+    "hint": "",
+    "options": [
+     "drove",
+     "was driving"
+    ],
+    "answer": "drove",
+    "accept": [],
+    "explain": "O‘tgan zamonda tugagan ish — Past Simple: drove.",
+    "wrong": {
+     "was driving": "Bu yerda qisqa o‘tgan zamon harakati kerak."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "While we ______ in the mountains, we saw a brown bear.",
+    "hint": "",
+    "options": [
+     "were hiking",
+     "hiked"
+    ],
+    "answer": "were hiking",
+    "accept": [],
+    "explain": "Ayiqni ko‘rgan paytdagi jarayon — Past Continuous: were hiking.",
+    "wrong": {
+     "hiked": "Past Simple bunday holatga to‘g‘ri kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Dilshod ______ a nice gift for his sister's birthday.",
+    "hint": "",
+    "options": [
+     "bought",
+     "was buying"
+    ],
+    "answer": "bought",
+    "accept": [],
+    "explain": "O‘tgan zamondagi yakunlangan harakat — Past Simple: bought.",
+    "wrong": {
+     "was buying": "Sotib olish jarayoni emas, natijasi muhim."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "While Leyla ______ dinner, her dad came home.",
+    "hint": "",
+    "options": [
+     "was cooking",
+     "cooked"
+    ],
+    "answer": "was cooking",
+    "accept": [],
+    "explain": "Dadasi kelgan paytdagi jarayon — Past Continuous: was cooking.",
+    "wrong": {
+     "cooked": "Past Simple qisqa harakatni bildiradi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Timur ______ his keys while he was cleaning the garage.",
+    "hint": "",
+    "options": [
+     "found",
+     "was finding"
+    ],
+    "answer": "found",
+    "accept": [],
+    "explain": "Jarayon davomida sodir bo‘lgan qisqa voqea — Past Simple: found.",
+    "wrong": {
+     "was finding": "Topish birdan sodir bo‘ladigan qisqa harakat."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "While the students ______ to the radio, the power went off.",
+    "hint": "",
+    "options": [
+     "were listening",
+     "listened"
+    ],
+    "answer": "were listening",
+    "accept": [],
+    "explain": "Chiroq o‘chgandagi jarayon — Past Continuous: were listening.",
+    "wrong": {
+     "listened": "Past Simple davomiylikni bildirmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Malika ______ her bag on the chair and went out.",
+    "hint": "",
+    "options": [
+     "put",
+     "was putting"
+    ],
+    "answer": "put",
+    "accept": [],
+    "explain": "O‘tgan zamondagi ketma-ket harakatlar — Past Simple: put.",
+    "wrong": {
+     "was putting": "Ketma-ket bajarilgan qisqa harakat."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "While Jamshid ______ his bike, he saw his friend.",
+    "hint": "",
+    "options": [
+     "was riding",
+     "rode"
+    ],
+    "answer": "was riding",
+    "accept": [],
+    "explain": "Do‘stini ko‘rgandagi harakat — Past Continuous: was riding.",
+    "wrong": {
+     "rode": "Past Simple «while» so‘zidan keyin kelmaydi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "The children ______ cartoons when their mother called them.",
+    "hint": "",
+    "options": [
+     "were watching",
+     "watched"
+    ],
+    "answer": "were watching",
+    "accept": [],
+    "explain": "Onalari chaqirgandagi jarayon — Past Continuous: were watching.",
+    "wrong": {
+     "watched": "O‘sha paytda davom etayotgan edi."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Nasiba ______ her umbrella because it was raining.",
+    "hint": "",
+    "options": [
+     "took",
+     "was taking"
+    ],
+    "answer": "took",
+    "accept": [],
+    "explain": "O‘tgan zamondagi oddiy harakat — Past Simple: took.",
+    "wrong": {
+     "was taking": "Bu yerda qisqa harakat kerak."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Zohid ______ a new computer last week.",
+    "hint": "",
+    "options": [
+     "purchased",
+     "was purchasing"
+    ],
+    "answer": "purchased",
+    "accept": [],
+    "explain": "O‘tgan zamondagi tugallangan harakat — Past Simple: purchased.",
+    "wrong": {
+     "was purchasing": "Aniq paytdagi davomiylik yo‘q."
+    }
+   },
+   {
+    "kind": "choose",
+    "q": "Otabek ______ his lunch quickly and ran outside.",
+    "hint": "",
+    "options": [
+     "ate",
+     "was eating"
+    ],
+    "answer": "ate",
+    "accept": [],
+    "explain": "Ketma-ket sodir bo‘lgan qisqa ishlar — Past Simple: ate.",
+    "wrong": {
+     "was eating": "Tez bajarilib tugatilgan harakat."
+    }
+   }
+  ]
+ ],
+ "intro": {
+  "what": "O'tgan zamonda ma'lum bir vaqtda davom etgan harakatlarni ifodalash uchun o'tmish davom etuvchi zamon (Past Continuous) ishlatiladi. Ko'pincha bu zamon o'tmishda sodir bo'lgan boshqa bir qisqa harakatni to'xtatib qo'ygani yoki kesib o'tgani haqida gapirganda ishlatiladi.",
+  "when": [
+   "O'tmishdagi ma'lum bir nuqtada davom etayotgan harakatni ko'rsatish uchun.",
+   "Ikki yoki undan ortiq harakat bir vaqtning o'zida o'tmishda davom etganini aytish uchun.",
+   "O'tmishdagi asosiy voqea uchun fon (sharoit) hosil qilish uchun.",
+   "O'tmishda to'satdan sodir bo'lgan qisqa harakat va o'sha paytda davom etayotgan uzoq harakatni birlashtirish uchun."
+  ],
+  "structures": [
+   {
+    "label": "Darak gap (Affirmative)",
+    "formula": "Subject + was/were + V-ing",
+    "example_en": "I was studying math at 5 PM yesterday.",
+    "example_uz": "Men kecha soat 17:00 da matematika o'qiyotgan edim."
+   },
+   {
+    "label": "Inkor gap (Negative)",
+    "formula": "Subject + was/were + not + V-ing",
+    "example_en": "They weren't playing football in the rain.",
+    "example_uz": "Ular yomg'ir ostida futbol o'ynashmayotgan edi."
+   },
+   {
+    "label": "So'roq gap (Interrogative)",
+    "formula": "Was/Were + subject + V-ing?",
+    "example_en": "Were you sleeping when I called you?",
+    "example_uz": "Senga qo'ng'iroq qilganimda uxlayotganmiding?"
+   }
+  ],
+  "rules": [
+   {
+    "title": "Was va Were ishlatilishi",
+    "text": "I, he, she, it olmoshlari bilan 'was', we, you, they olmoshlari bilan esa 'were' yordamchi fe'li ishlatiladi.",
+    "examples": [
+     {
+      "en": "She was reading a book.",
+      "uz": "U qiz kitob o'qiyotgan edi."
+     },
+     {
+      "en": "We were watching a funny film.",
+      "uz": "Biz qiziqarli kino ko'rayotgan edik."
+     }
+    ]
+   },
+   {
+    "title": "When bog'lovchisi",
+    "text": "'When' so'zidan keyin odatda qisqa harakatni bildiruvchi Past Simple zamoni keladi.",
+    "examples": [
+     {
+      "en": "I was having breakfast when the phone rang.",
+      "uz": "Telefon jringlaganda men nonushta qilayotgan edim."
+     },
+     {
+      "en": "She dropped her phone when she was running.",
+      "uz": "U yugurib ketayotganda telefonini tushirib yubordi."
+     }
+    ]
+   },
+   {
+    "title": "While bog'lovchisi",
+    "text": "'While' so'zidan keyin esa odatda davomiy harakatni bildiruvchi Past Continuous zamoni keladi.",
+    "examples": [
+     {
+      "en": "While my brother was cooking, I washed the dishes.",
+      "uz": "Akam ovqat pishirayotgan paytda, men idishlarni yuvdim."
+     },
+     {
+      "en": "They talked while they were walking in the park.",
+      "uz": "Ular bog'da sayr qilib yurganlarida suhbatlashishdi."
+     }
+    ]
+   }
+  ],
+  "signal_words": [
+   {
+    "en": "at 5 o'clock yesterday",
+    "uz": "kecha soat 5 da"
+   },
+   {
+    "en": "while",
+    "uz": "paytida, -guncha"
+   },
+   {
+    "en": "when",
+    "uz": "-gan paytda"
+   },
+   {
+    "en": "all day long",
+    "uz": "kun bo'yi"
+   },
+   {
+    "en": "at that moment",
+    "uz": "o'sha paytda"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I playing football yesterday.",
+    "right": "I was playing football yesterday.",
+    "why": "Past Continuous zamonida 'was' yoki 'were' yordamchi fe'lini tushirib qoldirmaslik kerak."
+   },
+   {
+    "wrong": "She were listening to music.",
+    "right": "She was listening to music.",
+    "why": "'She' birlik olmoshi bo'lgani uchun 'were' emas, 'was' ishlatilishi lozim."
+   },
+   {
+    "wrong": "While I walked home, it started to rain.",
+    "right": "While I was walking home, it started to rain.",
+    "why": "'While' so'zidan keyin odatda Past Simple emas, Past Continuous zamoni keladi."
+   },
+   {
+    "wrong": "They was cleaning the classroom.",
+    "right": "They were cleaning the classroom.",
+    "why": "'They' ko'plik olmoshi bo'lganligi sababli 'was' emas, 'were' ishlatiladi."
+   }
+  ]
+ }
+}

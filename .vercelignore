@@ -1,0 +1,9 @@
+# Saytga kerak emas: kurs materiallari (audio allaqachon Supabase'da), SQL va maxfiy fayllar.
+# "/" bilan boshlanadi — faqat loyiha ildizidagi papkalar (src/lib/supabase emas!).
+/materiallar
+/supabase
+/.env
+/.env.*
+/.next
+/node_modules
+*.log

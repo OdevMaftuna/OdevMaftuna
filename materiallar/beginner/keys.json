@@ -1,0 +1,3769 @@
+[
+ {
+  "day": 1,
+  "readings": [
+   {
+    "id": "U1R1",
+    "tf": [
+     true,
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     1,
+     2
+    ],
+    "fill": [
+     "name",
+     "meet",
+     "fine",
+     "cup",
+     "lovely",
+     "later"
+    ],
+    "wordTr": [
+     "bag",
+     "book",
+     "house",
+     "photograph",
+     "surname"
+    ],
+    "vocabQuiz": [
+     1,
+     2,
+     1,
+     1,
+     3
+    ]
+   },
+   {
+    "id": "U1R2",
+    "tf": [
+     true,
+     false,
+     false,
+     true,
+     true
+    ],
+    "mc": [
+     0,
+     1,
+     1
+    ],
+    "fill": [
+     "fine",
+     "cup",
+     "surname",
+     "photograph",
+     "later"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     1,
+     3,
+     0,
+     2,
+     2
+    ]
+   }
+  ]
+ },
+ {
+  "day": 2,
+  "readings": [
+   {
+    "id": "U1R3",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     0,
+     1,
+     2
+    ],
+    "fill": [
+     "first",
+     "photograph",
+     "lovely",
+     "bus",
+     "meet"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     1,
+     0,
+     3,
+     0,
+     2
+    ]
+   },
+   {
+    "id": "U1R4",
+    "tf": [
+     false,
+     true,
+     false,
+     true,
+     true
+    ],
+    "mc": [
+     0,
+     1,
+     2
+    ],
+    "fill": [
+     "name",
+     "surname",
+     "cup",
+     "morning",
+     "English"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     3,
+     0,
+     1,
+     3,
+     1
+    ]
+   }
+  ]
+ },
+ {
+  "day": 3,
+  "readings": [
+   {
+    "id": "U1R5",
+    "tf": [
+     false,
+     true,
+     false,
+     true,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "surname",
+     "computer",
+     "television",
+     "tea",
+     "nice"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     1,
+     3,
+     2,
+     3,
+     3
+    ]
+   },
+   {
+    "id": "U1R6",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     false
+    ],
+    "mc": [
+     0,
+     1,
+     2
+    ],
+    "fill": [
+     "bag",
+     "thanks",
+     "meet",
+     "cup",
+     "day"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     0,
+     3,
+     3,
+     1,
+     1
+    ]
+   }
+  ]
+ },
+ {
+  "day": 4,
+  "readings": [
+   {
+    "id": "U1R7",
+    "tf": [
+     false,
+     true,
+     true,
+     true,
+     false
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "first",
+     "well",
+     "photograph",
+     "cup",
+     "night"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     0,
+     1,
+     1,
+     3,
+     1
+    ]
+   },
+   {
+    "id": "U2R1",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true,
+     false
+    ],
+    "mc": [
+     1,
+     2,
+     0,
+     1
+    ],
+    "fill": [
+     "from",
+     "married",
+     "holiday",
+     "map",
+     "weather",
+     "world"
+    ],
+    "wordTr": [
+     "doctor",
+     "building",
+     "people",
+     "cities",
+     "beautiful"
+    ],
+    "vocabQuiz": [
+     0,
+     1,
+     1,
+     2,
+     0
+    ]
+   }
+  ]
+ },
+ {
+  "day": 5,
+  "readings": [
+   {
+    "id": "U2R2",
+    "tf": [
+     false,
+     true,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     1,
+     0
+    ],
+    "fill": [
+     "from",
+     "buildings",
+     "married",
+     "map",
+     "world"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     3,
+     3,
+     3,
+     1,
+     3
+    ]
+   },
+   {
+    "id": "U2R3",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     2,
+     1
+    ],
+    "fill": [
+     "centre",
+     "countries",
+     "old",
+     "Look",
+     "weather"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     2,
+     2,
+     0,
+     2,
+     2
+    ]
+   }
+  ]
+ },
+ {
+  "day": 6,
+  "readings": [
+   {
+    "id": "U2R4",
+    "tf": [
+     true,
+     false,
+     true,
+     true,
+     false
+    ],
+    "mc": [
+     2,
+     0,
+     1
+    ],
+    "fill": [
+     "building",
+     "husband",
+     "Where",
+     "beautiful",
+     "holiday"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     0,
+     2,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "id": "U2R5",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "world",
+     "people",
+     "hospital",
+     "These",
+     "hear"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     3,
+     0,
+     3,
+     0,
+     3
+    ]
+   }
+  ]
+ },
+ {
+  "day": 7,
+  "readings": [
+   {
+    "id": "U2R6",
+    "tf": [
+     true,
+     false,
+     false,
+     true,
+     true
+    ],
+    "mc": [
+     0,
+     1,
+     2
+    ],
+    "fill": [
+     "holiday",
+     "centre",
+     "countries",
+     "awful",
+     "fantastic"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     3,
+     2,
+     3,
+     2,
+     3
+    ]
+   },
+   {
+    "id": "U2R7",
+    "tf": [
+     false,
+     true,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     2,
+     0
+    ],
+    "fill": [
+     "from",
+     "old",
+     "beautiful",
+     "hear",
+     "These"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     2,
+     1,
+     2,
+     0,
+     2
+    ]
+   }
+  ]
+ },
+ {
+  "day": 8,
+  "readings": [
+   {
+    "id": "U3R1",
+    "tf": [
+     true,
+     true,
+     false,
+     false,
+     true,
+     false
+    ],
+    "mc": [
+     1,
+     1,
+     2,
+     0
+    ],
+    "fill": [
+     "brother",
+     "jobs",
+     "excited",
+     "luck",
+     "tired",
+     "winner"
+    ],
+    "wordTr": [
+     "singer",
+     "builder",
+     "magazine",
+     "forty",
+     "happy"
+    ],
+    "vocabQuiz": [
+     1,
+     0,
+     0,
+     3,
+     0
+    ]
+   },
+   {
+    "id": "U3R2",
+    "tf": [
+     false,
+     true,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     0,
+     1,
+     1
+    ],
+    "fill": [
+     "other",
+     "interesting",
+     "station",
+     "excited",
+     "luck"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     2,
+     1,
+     1,
+     0,
+     3
+    ]
+   }
+  ]
+ },
+ {
+  "day": 9,
+  "readings": [
+   {
+    "id": "U3R3",
+    "tf": [
+     false,
+     true,
+     true,
+     true,
+     false
+    ],
+    "mc": [
+     0,
+     2,
+     1
+    ],
+    "fill": [
+     "tired",
+     "Excuse",
+     "understand",
+     "over",
+     "lot"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     2,
+     1,
+     3,
+     1,
+     3
+    ]
+   },
+   {
+    "id": "U3R4",
+    "tf": [
+     true,
+     false,
+     false,
+     true,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "magazine",
+     "winner",
+     "address",
+     "interesting",
+     "yet"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     3,
+     2,
+     3,
+     0,
+     1
+    ]
+   }
+  ]
+ },
+ {
+  "day": 10,
+  "readings": [
+   {
+    "id": "U3R5",
+    "tf": [
+     false,
+     true,
+     false,
+     true,
+     true
+    ],
+    "mc": [
+     0,
+     1,
+     1
+    ],
+    "fill": [
+     "nurse",
+     "tired",
+     "over",
+     "married",
+     "same"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     1,
+     0,
+     2,
+     2,
+     0
+    ]
+   },
+   {
+    "id": "U3R6",
+    "tf": [
+     true,
+     false,
+     true,
+     true,
+     false
+    ],
+    "mc": [
+     1,
+     2,
+     2
+    ],
+    "fill": [
+     "tour",
+     "Excuse",
+     "number",
+     "another",
+     "excited"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     3,
+     1,
+     0,
+     3,
+     2
+    ]
+   }
+  ]
+ },
+ {
+  "day": 11,
+  "readings": [
+   {
+    "id": "U3R7",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     2,
+     0,
+     1
+    ],
+    "fill": [
+     "address",
+     "builder",
+     "singer",
+     "yet",
+     "luck"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     2,
+     1,
+     1,
+     1,
+     3
+    ]
+   },
+   {
+    "id": "U4R1",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true,
+     false
+    ],
+    "mc": [
+     1,
+     0,
+     2,
+     1
+    ],
+    "fill": [
+     "office",
+     "part-time",
+     "both",
+     "together",
+     "dictionary",
+     "everybody"
+    ],
+    "wordTr": [
+     "village",
+     "friends",
+     "funny",
+     "small",
+     "evening"
+    ],
+    "vocabQuiz": [
+     2,
+     3,
+     3,
+     1,
+     0
+    ]
+   }
+  ]
+ },
+ {
+  "day": 12,
+  "readings": [
+   {
+    "id": "U4R2",
+    "tf": [
+     false,
+     true,
+     false,
+     true,
+     true
+    ],
+    "mc": [
+     2,
+     0,
+     1
+    ],
+    "fill": [
+     "near",
+     "fans",
+     "both",
+     "dictionary",
+     "funny"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     0,
+     3,
+     3,
+     2,
+     0
+    ]
+   },
+   {
+    "id": "U4R3",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     0,
+     1,
+     2
+    ],
+    "fill": [
+     "village",
+     "children",
+     "part-time",
+     "together",
+     "everybody"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     0,
+     3,
+     2,
+     0,
+     2
+    ]
+   }
+  ]
+ },
+ {
+  "day": 13,
+  "readings": [
+   {
+    "id": "U4R4",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "office",
+     "card",
+     "spell",
+     "course",
+     "likes"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     0,
+     0,
+     0,
+     3,
+     3
+    ]
+   },
+   {
+    "id": "U4R5",
+    "tf": [
+     false,
+     true,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "village",
+     "accountant",
+     "Their",
+     "university",
+     "together"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     1,
+     0,
+     3,
+     2,
+     2
+    ]
+   }
+  ]
+ },
+ {
+  "day": 14,
+  "readings": [
+   {
+    "id": "U4R6",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "best",
+     "fans",
+     "Give",
+     "everybody",
+     "goal"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     2,
+     0,
+     0,
+     2,
+     1
+    ]
+   },
+   {
+    "id": "U4R7",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     0,
+     1,
+     2
+    ],
+    "fill": [
+     "same",
+     "office",
+     "dancing",
+     "like",
+     "dictionary"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     0,
+     1,
+     2,
+     3,
+     2
+    ]
+   }
+  ]
+ },
+ {
+  "day": 15,
+  "readings": [
+   {
+    "id": "U5R1",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     2,
+     0,
+     1
+    ],
+    "fill": [
+     "speak",
+     "play",
+     "exciting",
+     "order",
+     "delicious",
+     "Sometimes"
+    ],
+    "wordTr": [
+     "twin",
+     "language",
+     "flat",
+     "waiter",
+     "prices"
+    ],
+    "vocabQuiz": [
+     0,
+     0,
+     0,
+     2,
+     3
+    ]
+   },
+   {
+    "id": "U5R2",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "terrible",
+     "drink",
+     "swimming",
+     "speak",
+     "order"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     2,
+     3,
+     1,
+     2,
+     2
+    ]
+   }
+  ]
+ },
+ {
+  "day": 16,
+  "readings": [
+   {
+    "id": "U5R3",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "languages",
+     "prices",
+     "delicious",
+     "flat",
+     "exciting"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     1,
+     1,
+     0,
+     3,
+     0
+    ]
+   },
+   {
+    "id": "U5R4",
+    "tf": [
+     true,
+     false,
+     false,
+     true,
+     true
+    ],
+    "mc": [
+     0,
+     1,
+     2
+    ],
+    "fill": [
+     "list",
+     "count",
+     "much",
+     "play",
+     "guys"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     3,
+     3,
+     0,
+     0,
+     3
+    ]
+   }
+  ]
+ },
+ {
+  "day": 17,
+  "readings": [
+   {
+    "id": "U5R5",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     2,
+     0,
+     1
+    ],
+    "fill": [
+     "exciting",
+     "actor",
+     "sometimes",
+     "waiter",
+     "delicious"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     1,
+     1,
+     2,
+     2,
+     0
+    ]
+   },
+   {
+    "id": "U5R6",
+    "tf": [
+     true,
+     false,
+     true,
+     true,
+     false
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "nationalities",
+     "order",
+     "prices",
+     "twins",
+     "count"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     2,
+     0,
+     1,
+     2,
+     0
+    ]
+   }
+  ]
+ },
+ {
+  "day": 18,
+  "readings": [
+   {
+    "id": "U5R7",
+    "tf": [
+     true,
+     false,
+     false,
+     true,
+     true
+    ],
+    "mc": [
+     0,
+     1,
+     2
+    ],
+    "fill": [
+     "twins",
+     "count",
+     "best",
+     "terrible",
+     "skiing"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     2,
+     2,
+     3,
+     0,
+     0
+    ]
+   },
+   {
+    "id": "U6R1",
+    "tf": [
+     true,
+     false,
+     true,
+     true,
+     false,
+     false
+    ],
+    "mc": [
+     0,
+     1,
+     1,
+     2
+    ],
+    "fill": [
+     "gets up",
+     "leaves",
+     "never",
+     "paints",
+     "relaxes",
+     "invites"
+    ],
+    "wordTr": [
+     "breakfast",
+     "artist",
+     "lifestyle",
+     "tomorrow",
+     "busy"
+    ],
+    "vocabQuiz": [
+     2,
+     0,
+     1,
+     1,
+     2
+    ]
+   }
+  ]
+ },
+ {
+  "day": 19,
+  "readings": [
+   {
+    "id": "U6R2",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     2,
+     0
+    ],
+    "fill": [
+     "early",
+     "between",
+     "relaxes",
+     "never",
+     "visits"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     3,
+     2,
+     1,
+     1,
+     2
+    ]
+   },
+   {
+    "id": "U6R3",
+    "tf": [
+     false,
+     true,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "always",
+     "leave",
+     "paints",
+     "busy",
+     "usual"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     0,
+     1,
+     1,
+     3,
+     0
+    ]
+   }
+  ]
+ },
+ {
+  "day": 20,
+  "readings": [
+   {
+    "id": "U6R4",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     1,
+     0
+    ],
+    "fill": [
+     "typical",
+     "studio",
+     "often",
+     "goes",
+     "beach"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     0,
+     0,
+     0,
+     0,
+     3
+    ]
+   },
+   {
+    "id": "U6R5",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     2,
+     0,
+     1
+    ],
+    "fill": [
+     "stay",
+     "usually",
+     "go out",
+     "visit",
+     "early"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     1,
+     0,
+     2,
+     1,
+     1
+    ]
+   }
+  ]
+ },
+ {
+  "day": 21,
+  "readings": [
+   {
+    "id": "U6R6",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     0,
+     1,
+     2
+    ],
+    "fill": [
+     "early",
+     "studio",
+     "never",
+     "relaxes",
+     "visit"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     0,
+     3,
+     3,
+     3,
+     3
+    ]
+   },
+   {
+    "id": "U6R7",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     2,
+     0,
+     1
+    ],
+    "fill": [
+     "busy",
+     "drives",
+     "between",
+     "leaves",
+     "invites"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     0,
+     3,
+     1,
+     3,
+     0
+    ]
+   }
+  ]
+ },
+ {
+  "day": 22,
+  "readings": [
+   {
+    "id": "U7R1",
+    "tf": [
+     false,
+     true,
+     true,
+     false,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     1,
+     2
+    ],
+    "fill": [
+     "adores",
+     "because",
+     "present",
+     "try on",
+     "expensive",
+     "neighbours"
+    ],
+    "wordTr": [
+     "cheap",
+     "comfortable",
+     "post office",
+     "chemist's",
+     "newspaper"
+    ],
+    "vocabQuiz": [
+     0,
+     3,
+     0,
+     0,
+     2
+    ]
+   },
+   {
+    "id": "U7R2",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "because",
+     "expensive",
+     "try",
+     "comfortable",
+     "favourite"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     0,
+     2,
+     2,
+     1,
+     3
+    ]
+   }
+  ]
+ },
+ {
+  "day": 23,
+  "readings": [
+   {
+    "id": "U7R3",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "international",
+     "understands",
+     "fog",
+     "free",
+     "teach"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     2,
+     2,
+     2,
+     0,
+     3
+    ]
+   },
+   {
+    "id": "U7R4",
+    "tf": [
+     true,
+     false,
+     false,
+     true,
+     true
+    ],
+    "mc": [
+     1,
+     2,
+     0
+    ],
+    "fill": [
+     "post",
+     "scales",
+     "stamps",
+     "sad",
+     "present"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     1,
+     3,
+     3,
+     1,
+     3
+    ]
+   }
+  ]
+ },
+ {
+  "day": 24,
+  "readings": [
+   {
+    "id": "U7R5",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "cheap",
+     "understands",
+     "neighbours",
+     "adore",
+     "wet"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     0,
+     3,
+     1,
+     0,
+     3
+    ]
+   },
+   {
+    "id": "U7R6",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "return",
+     "fast",
+     "present",
+     "take away",
+     "learns"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     0,
+     0,
+     0,
+     3,
+     3
+    ]
+   }
+  ]
+ },
+ {
+  "day": 25,
+  "readings": [
+   {
+    "id": "U7R7",
+    "tf": [
+     true,
+     false,
+     false,
+     true,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "Why",
+     "hate",
+     "homework",
+     "learn",
+     "adore"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     0,
+     0,
+     3,
+     2,
+     3
+    ]
+   },
+   {
+    "id": "U8R1",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     2,
+     0,
+     1
+    ],
+    "fill": [
+     "modern",
+     "furniture",
+     "under",
+     "tidy",
+     "fresh",
+     "straight on"
+    ],
+    "wordTr": [
+     "kitchen",
+     "fridge",
+     "wall",
+     "mountain",
+     "winter"
+    ],
+    "vocabQuiz": [
+     0,
+     3,
+     3,
+     2,
+     3
+    ]
+   }
+  ]
+ },
+ {
+  "day": 26,
+  "readings": [
+   {
+    "id": "U8R2",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     0,
+     2,
+     1
+    ],
+    "fill": [
+     "any",
+     "car park",
+     "fishing",
+     "spectacular",
+     "need"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     2,
+     2,
+     2,
+     1,
+     1
+    ]
+   },
+   {
+    "id": "U8R3",
+    "tf": [
+     true,
+     false,
+     true,
+     true,
+     false
+    ],
+    "mc": [
+     0,
+     1,
+     2
+    ],
+    "fill": [
+     "any",
+     "drawer",
+     "under",
+     "next to",
+     "tidy"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     1,
+     2,
+     3,
+     2,
+     1
+    ]
+   }
+  ]
+ },
+ {
+  "day": 27,
+  "readings": [
+   {
+    "id": "U8R4",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     1
+    ],
+    "fill": [
+     "straight",
+     "modern",
+     "any",
+     "left",
+     "directions"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     1,
+     0,
+     2,
+     1,
+     2
+    ]
+   },
+   {
+    "id": "U8R5",
+    "tf": [
+     true,
+     true,
+     false,
+     true,
+     false
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "posters",
+     "under",
+     "alarm clock",
+     "trainers",
+     "Tidy"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     0,
+     2,
+     2,
+     0,
+     0
+    ]
+   }
+  ]
+ },
+ {
+  "day": 28,
+  "readings": [
+   {
+    "id": "U8R6",
+    "tf": [
+     true,
+     true,
+     false,
+     true,
+     false
+    ],
+    "mc": [
+     2,
+     1,
+     0
+    ],
+    "fill": [
+     "sailing",
+     "sunbathe",
+     "cycling",
+     "modern",
+     "fresh"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     1,
+     3,
+     1,
+     3,
+     1
+    ]
+   },
+   {
+    "id": "U8R7",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     2,
+     1,
+     0
+    ],
+    "fill": [
+     "sunny",
+     "cooker",
+     "some",
+     "any",
+     "need"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     3,
+     1,
+     3,
+     0,
+     2
+    ]
+   }
+  ]
+ },
+ {
+  "day": 29,
+  "readings": [
+   {
+    "id": "U9R1",
+    "tf": [
+     true,
+     false,
+     false,
+     true,
+     true,
+     true
+    ],
+    "mc": [
+     0,
+     2,
+     1,
+     1
+    ],
+    "fill": [
+     "born",
+     "eldest",
+     "housework",
+     "famous",
+     "mess",
+     "paid"
+    ],
+    "wordTr": [
+     "yesterday",
+     "rich",
+     "south",
+     "scientist",
+     "uncle"
+    ],
+    "vocabQuiz": [
+     2,
+     2,
+     0,
+     1,
+     1
+    ]
+   },
+   {
+    "id": "U9R2",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     2,
+     0,
+     1
+    ],
+    "fill": [
+     "famous",
+     "born",
+     "politician",
+     "expert",
+     "stories"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     0,
+     3,
+     2,
+     1,
+     3
+    ]
+   }
+  ]
+ },
+ {
+  "day": 30,
+  "readings": [
+   {
+    "id": "U9R3",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     0,
+     1,
+     2
+    ],
+    "fill": [
+     "housework",
+     "birthday",
+     "sale",
+     "colourful",
+     "horrible"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     2,
+     1,
+     0,
+     2,
+     3
+    ]
+   },
+   {
+    "id": "U9R4",
+    "tf": [
+     true,
+     true,
+     false,
+     true,
+     false
+    ],
+    "mc": [
+     0,
+     2,
+     1
+    ],
+    "fill": [
+     "south",
+     "eldest",
+     "expert",
+     "paid",
+     "saw"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     3,
+     0,
+     0,
+     2,
+     1
+    ]
+   }
+  ]
+ },
+ {
+  "day": 31,
+  "readings": [
+   {
+    "id": "U9R5",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     1,
+     0
+    ],
+    "fill": [
+     "horrible",
+     "late",
+     "paid",
+     "went",
+     "made"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     1,
+     0,
+     1,
+     3,
+     3
+    ]
+   },
+   {
+    "id": "U9R6",
+    "tf": [
+     false,
+     true,
+     false,
+     true,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "rich",
+     "musician",
+     "saw",
+     "colourful",
+     "married"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     2,
+     1,
+     2,
+     1,
+     2
+    ]
+   }
+  ]
+ },
+ {
+  "day": 32,
+  "readings": [
+   {
+    "id": "U9R7",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     0,
+     1,
+     2
+    ],
+    "fill": [
+     "born",
+     "eldest",
+     "famous",
+     "stories",
+     "went"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     0,
+     0,
+     1,
+     0,
+     1
+    ]
+   },
+   {
+    "id": "U10R1",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true,
+     false
+    ],
+    "mc": [
+     1,
+     0,
+     1,
+     2
+    ],
+    "fill": [
+     "lucky",
+     "sightseeing",
+     "listened",
+     "market",
+     "meal",
+     "once"
+    ],
+    "wordTr": [
+     "lake",
+     "museum",
+     "milk",
+     "late",
+     "tourist"
+    ],
+    "vocabQuiz": [
+     0,
+     2,
+     0,
+     3,
+     1
+    ]
+   }
+  ]
+ },
+ {
+  "day": 33,
+  "readings": [
+   {
+    "id": "U10R2",
+    "tf": [
+     false,
+     true,
+     false,
+     true,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "enjoyed",
+     "listened",
+     "relaxing",
+     "lucky",
+     "castle"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     1,
+     2,
+     0,
+     3,
+     1
+    ]
+   },
+   {
+    "id": "U10R3",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     1,
+     2
+    ],
+    "fill": [
+     "special",
+     "danced",
+     "late",
+     "stayed",
+     "market"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     2,
+     3,
+     3,
+     1,
+     2
+    ]
+   }
+  ]
+ },
+ {
+  "day": 34,
+  "readings": [
+   {
+    "id": "U10R4",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "ago",
+     "square",
+     "villa",
+     "enjoyed",
+     "interested"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     1,
+     3,
+     0,
+     1,
+     0
+    ]
+   },
+   {
+    "id": "U10R5",
+    "tf": [
+     true,
+     true,
+     false,
+     true,
+     false
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "lucky",
+     "late",
+     "interested",
+     "started",
+     "enjoyed"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     0,
+     0,
+     3,
+     3,
+     3
+    ]
+   }
+  ]
+ },
+ {
+  "day": 35,
+  "readings": [
+   {
+    "id": "U10R6",
+    "tf": [
+     true,
+     false,
+     false,
+     true,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "arrived",
+     "skiing",
+     "showed",
+     "danced",
+     "special"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     3,
+     0,
+     2,
+     0,
+     3
+    ]
+   },
+   {
+    "id": "U10R7",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "museum",
+     "free",
+     "ago",
+     "listened",
+     "enjoy"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     1,
+     1,
+     3,
+     3,
+     1
+    ]
+   }
+  ]
+ },
+ {
+  "day": 36,
+  "readings": [
+   {
+    "id": "U11R1",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     2,
+     1
+    ],
+    "fill": [
+     "afraid",
+     "fluently",
+     "passport",
+     "tall",
+     "slowly",
+     "share"
+    ],
+    "wordTr": [
+     "farmer",
+     "interpreter",
+     "dangerous",
+     "pilot",
+     "news"
+    ],
+    "vocabQuiz": [
+     0,
+     0,
+     2,
+     0,
+     1
+    ]
+   },
+   {
+    "id": "U11R2",
+    "tf": [
+     false,
+     true,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     2,
+     0
+    ],
+    "fill": [
+     "matter",
+     "use",
+     "push",
+     "afraid",
+     "offer"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     1,
+     0,
+     3,
+     2,
+     0
+    ]
+   }
+  ]
+ },
+ {
+  "day": 37,
+  "readings": [
+   {
+    "id": "U11R3",
+    "tf": [
+     true,
+     true,
+     false,
+     false,
+     true
+    ],
+    "mc": [
+     0,
+     2,
+     1
+    ],
+    "fill": [
+     "afraid",
+     "safe",
+     "missed",
+     "messages",
+     "slowly"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     1,
+     0,
+     1,
+     0,
+     1
+    ]
+   },
+   {
+    "id": "U11R4",
+    "tf": [
+     true,
+     true,
+     false,
+     true,
+     false
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "worldwide",
+     "fluently",
+     "share",
+     "safe",
+     "messages"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     0,
+     1,
+     0,
+     1,
+     1
+    ]
+   }
+  ]
+ },
+ {
+  "day": 38,
+  "readings": [
+   {
+    "id": "U11R5",
+    "tf": [
+     true,
+     false,
+     false,
+     true,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     1
+    ],
+    "fill": [
+     "safe",
+     "buttons",
+     "fluently",
+     "afraid",
+     "anywhere"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     3,
+     0,
+     1,
+     1,
+     0
+    ]
+   },
+   {
+    "id": "U11R6",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "pushed",
+     "afraid",
+     "send",
+     "slowly",
+     "matter"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     2,
+     2,
+     1,
+     3,
+     2
+    ]
+   }
+  ]
+ },
+ {
+  "day": 39,
+  "readings": [
+   {
+    "id": "U11R7",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     0,
+     1,
+     0
+    ],
+    "fill": [
+     "tractor",
+     "musical",
+     "chess",
+     "interested",
+     "slowly"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     2,
+     3,
+     0,
+     2,
+     0
+    ]
+   },
+   {
+    "id": "U12R1",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     1,
+     2,
+     0
+    ],
+    "fill": [
+     "thirsty",
+     "menu",
+     "bottle",
+     "dishes",
+     "slice",
+     "bill"
+    ],
+    "wordTr": [
+     "soup",
+     "chicken",
+     "vegetable",
+     "sugar",
+     "bread"
+    ],
+    "vocabQuiz": [
+     2,
+     0,
+     1,
+     0,
+     1
+    ]
+   }
+  ]
+ },
+ {
+  "day": 40,
+  "readings": [
+   {
+    "id": "U12R2",
+    "tf": [
+     true,
+     true,
+     false,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "any",
+     "hungry",
+     "else",
+     "slice",
+     "polite"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     0,
+     1,
+     1,
+     0,
+     1
+    ]
+   },
+   {
+    "id": "U12R3",
+    "tf": [
+     false,
+     true,
+     false,
+     true,
+     false
+    ],
+    "mc": [
+     1,
+     2,
+     0
+    ],
+    "fill": [
+     "vegetables",
+     "little",
+     "forget",
+     "snack",
+     "mixed"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     0,
+     2,
+     2,
+     2,
+     2
+    ]
+   }
+  ]
+ },
+ {
+  "day": 41,
+  "readings": [
+   {
+    "id": "U12R4",
+    "tf": [
+     false,
+     true,
+     false,
+     true,
+     true
+    ],
+    "mc": [
+     1,
+     2,
+     0
+    ],
+    "fill": [
+     "Follow",
+     "menu",
+     "sparkling",
+     "dessert",
+     "service"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     0,
+     2,
+     1,
+     2,
+     2
+    ]
+   },
+   {
+    "id": "U12R5",
+    "tf": [
+     true,
+     false,
+     true,
+     true,
+     false
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "marathons",
+     "any",
+     "just",
+     "mayonnaise",
+     "swaps"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     3,
+     3,
+     1,
+     1,
+     1
+    ]
+   }
+  ]
+ },
+ {
+  "day": 42,
+  "readings": [
+   {
+    "id": "U12R6",
+    "tf": [
+     true,
+     true,
+     false,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "customers",
+     "waited",
+     "else",
+     "Immediately",
+     "polite"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     2,
+     2,
+     3,
+     1,
+     0
+    ]
+   },
+   {
+    "id": "U12R7",
+    "tf": [
+     true,
+     false,
+     false,
+     true,
+     true
+    ],
+    "mc": [
+     0,
+     1,
+     2
+    ],
+    "fill": [
+     "vegetables",
+     "immediately",
+     "fresh",
+     "dessert",
+     "slice"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     1,
+     2,
+     0,
+     0,
+     3
+    ]
+   }
+  ]
+ },
+ {
+  "day": 43,
+  "readings": [
+   {
+    "id": "U13R1",
+    "tf": [
+     true,
+     false,
+     true,
+     true,
+     false,
+     false
+    ],
+    "mc": [
+     1,
+     0,
+     2,
+     1
+    ],
+    "fill": [
+     "wearing",
+     "worried",
+     "turn off",
+     "headache",
+     "closing",
+     "bringing"
+    ],
+    "wordTr": [
+     "dress",
+     "tie",
+     "socks",
+     "window",
+     "angry"
+    ],
+    "vocabQuiz": [
+     3,
+     2,
+     0,
+     1,
+     1
+    ]
+   },
+   {
+    "id": "U13R2",
+    "tf": [
+     false,
+     true,
+     true,
+     false,
+     false
+    ],
+    "mc": [
+     0,
+     1,
+     2
+    ],
+    "fill": [
+     "happening",
+     "wearing",
+     "carrying",
+     "selling",
+     "bored"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     3,
+     3,
+     1,
+     3,
+     1
+    ]
+   }
+  ]
+ },
+ {
+  "day": 44,
+  "readings": [
+   {
+    "id": "U13R3",
+    "tf": [
+     true,
+     false,
+     false,
+     true,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "moment",
+     "wearing",
+     "headache",
+     "worried",
+     "Put"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     2,
+     2,
+     1,
+     2,
+     1
+    ]
+   },
+   {
+    "id": "U13R4",
+    "tf": [
+     false,
+     true,
+     false,
+     true,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "homeless",
+     "bringing",
+     "pleased",
+     "losing",
+     "remember"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     2,
+     0,
+     2,
+     2,
+     3
+    ]
+   }
+  ]
+ },
+ {
+  "day": 45,
+  "readings": [
+   {
+    "id": "U13R5",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "arrives",
+     "open",
+     "angry",
+     "pleased",
+     "wearing"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     0,
+     1,
+     3,
+     1,
+     1
+    ]
+   },
+   {
+    "id": "U13R6",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     false
+    ],
+    "mc": [
+     1,
+     0,
+     0
+    ],
+    "fill": [
+     "scarf",
+     "carrying",
+     "happening",
+     "spending",
+     "moment"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     1,
+     1,
+     0,
+     3,
+     1
+    ]
+   }
+  ]
+ },
+ {
+  "day": 46,
+  "readings": [
+   {
+    "id": "U13R7",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     2,
+     0
+    ],
+    "fill": [
+     "puts",
+     "takes",
+     "remembers",
+     "bored",
+     "secret"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     0,
+     3,
+     1,
+     1,
+     3
+    ]
+   },
+   {
+    "id": "U13R8",
+    "tf": [
+     true,
+     false,
+     false,
+     true,
+     false
+    ],
+    "mc": [
+     0,
+     1,
+     2
+    ],
+    "fill": [
+     "worried",
+     "headache",
+     "slowly",
+     "remembers",
+     "winner"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     3,
+     1,
+     2,
+     3,
+     2
+    ]
+   }
+  ]
+ },
+ {
+  "day": 47,
+  "readings": [
+   {
+    "id": "U14R1",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     2,
+     1
+    ],
+    "fill": [
+     "nervous",
+     "across",
+     "flight",
+     "cost",
+     "hope",
+     "abroad"
+    ],
+    "wordTr": [
+     "exam",
+     "bridge",
+     "future",
+     "tent",
+     "important"
+    ],
+    "vocabQuiz": [
+     3,
+     3,
+     0,
+     2,
+     0
+    ]
+   },
+   {
+    "id": "U14R2",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     0,
+     1,
+     2
+    ],
+    "fill": [
+     "grow",
+     "abroad",
+     "explains",
+     "hopes",
+     "future"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     0,
+     0,
+     3,
+     1,
+     3
+    ]
+   }
+  ]
+ },
+ {
+  "day": 48,
+  "readings": [
+   {
+    "id": "U14R3",
+    "tf": [
+     true,
+     true,
+     false,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     1,
+     0
+    ],
+    "fill": [
+     "across",
+     "flight",
+     "canals",
+     "overnight",
+     "souvenir"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     3,
+     2,
+     2,
+     2,
+     1
+    ]
+   },
+   {
+    "id": "U14R4",
+    "tf": [
+     true,
+     false,
+     false,
+     true,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "important",
+     "nervous",
+     "revision",
+     "carefully",
+     "future"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     1,
+     0,
+     3,
+     1,
+     1
+    ]
+   }
+  ]
+ },
+ {
+  "day": 49,
+  "readings": [
+   {
+    "id": "U14R5",
+    "tf": [
+     true,
+     true,
+     false,
+     false,
+     true
+    ],
+    "mc": [
+     2,
+     0,
+     1
+    ],
+    "fill": [
+     "explained",
+     "local",
+     "along",
+     "nervous",
+     "souvenir"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     1,
+     0,
+     3,
+     0,
+     1
+    ]
+   },
+   {
+    "id": "U14R6",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     0,
+     1,
+     2
+    ],
+    "fill": [
+     "move",
+     "nearby",
+     "transport",
+     "nervous",
+     "begin"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     2,
+     3,
+     2,
+     1,
+     1
+    ]
+   }
+  ]
+ },
+ {
+  "day": 50,
+  "readings": [
+   {
+    "id": "U14R7",
+    "tf": [
+     false,
+     true,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "plans",
+     "revision",
+     "across",
+     "afraid",
+     "pleasure"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     3,
+     3,
+     2,
+     1,
+     1
+    ]
+   },
+   {
+    "id": "U14R8",
+    "tf": [
+     true,
+     false,
+     true,
+     false,
+     true
+    ],
+    "mc": [
+     1,
+     0,
+     2
+    ],
+    "fill": [
+     "exam",
+     "ride",
+     "housewife",
+     "cost",
+     "abroad"
+    ],
+    "wordTr": [],
+    "vocabQuiz": [
+     2,
+     2,
+     3,
+     0,
+     0
+    ]
+   }
+  ]
+ },
+ {
+  "day": 51,
+  "review": {
+   "vocabQuiz": [
+    2,
+    1,
+    3,
+    1,
+    3,
+    0,
+    1,
+    1,
+    0,
+    3,
+    2,
+    1,
+    1,
+    2,
+    0
+   ],
+   "wordTr": [
+    "so good",
+    "student",
+    "table",
+    "what",
+    "waiter",
+    "awful",
+    "Japan",
+    "about"
+   ]
+  }
+ },
+ {
+  "day": 52,
+  "review": {
+   "vocabQuiz": [
+    3,
+    2,
+    2,
+    0,
+    2,
+    1,
+    2,
+    1,
+    0,
+    1,
+    0,
+    3,
+    0,
+    2,
+    1
+   ],
+   "wordTr": [
+    "everybody",
+    "over there",
+    "give",
+    "goal",
+    "interesting",
+    "game",
+    "ball",
+    "at home"
+   ]
+  }
+ },
+ {
+  "day": 53,
+  "review": {
+   "vocabQuiz": [
+    0,
+    1,
+    3,
+    0,
+    3,
+    1,
+    1,
+    3,
+    1,
+    3,
+    2,
+    0,
+    0,
+    0,
+    3
+   ],
+   "wordTr": [
+    "typical",
+    "film director",
+    "count",
+    "watch",
+    "invite",
+    "their",
+    "tomorrow",
+    "make"
+   ]
+  }
+ },
+ {
+  "day": 54,
+  "review": {
+   "vocabQuiz": [
+    0,
+    2,
+    1,
+    2,
+    0,
+    3,
+    3,
+    2,
+    3,
+    1,
+    3,
+    0,
+    0,
+    1,
+    0
+   ],
+   "wordTr": [
+    "next to",
+    "poster",
+    "buy",
+    "sleep",
+    "expensive",
+    "amazing",
+    "bus station",
+    "car keys"
+   ]
+  }
+ },
+ {
+  "day": 55,
+  "review": {
+   "vocabQuiz": [
+    1,
+    0,
+    0,
+    0,
+    3,
+    1,
+    2,
+    0,
+    2,
+    2,
+    0,
+    1,
+    1,
+    3,
+    2
+   ],
+   "wordTr": [
+    "clever",
+    "poor",
+    "roast beef",
+    "bus stop",
+    "ready",
+    "more than",
+    "cook",
+    "forest"
+   ]
+  }
+ },
+ {
+  "day": 56,
+  "review": {
+   "vocabQuiz": [
+    2,
+    0,
+    3,
+    3,
+    1,
+    3,
+    2,
+    2,
+    3,
+    2,
+    0,
+    1,
+    2,
+    3,
+    3
+   ],
+   "wordTr": [
+    "answer",
+    "try",
+    "soup",
+    "smile",
+    "think about",
+    "Follow me",
+    "fluently",
+    "repair"
+   ]
+  }
+ },
+ {
+  "day": 57,
+  "review": {
+   "vocabQuiz": [
+    2,
+    2,
+    1,
+    3,
+    2,
+    3,
+    3,
+    3,
+    0,
+    3,
+    2,
+    0,
+    3,
+    2,
+    3
+   ],
+   "wordTr": [
+    "begin",
+    "check in",
+    "course",
+    "important",
+    "abroad",
+    "Belgium",
+    "closed",
+    "save money"
+   ]
+  }
+ },
+ {
+  "day": 58,
+  "review": {
+   "vocabQuiz": [
+    3,
+    3,
+    1,
+    3,
+    2,
+    2,
+    0,
+    3,
+    2,
+    1,
+    3,
+    3,
+    3,
+    3,
+    2
+   ],
+   "wordTr": [
+    "manager",
+    "father",
+    "interview",
+    "what",
+    "evening",
+    "a little",
+    "wife",
+    "Mum"
+   ]
+  }
+ },
+ {
+  "day": 59,
+  "review": {
+   "vocabQuiz": [
+    2,
+    1,
+    3,
+    0,
+    3,
+    3,
+    2,
+    0,
+    0,
+    1,
+    3,
+    2,
+    0,
+    0,
+    2
+   ],
+   "wordTr": [
+    "right size",
+    "watch",
+    "drive",
+    "home town",
+    "wear",
+    "Dad",
+    "help",
+    "look for"
+   ]
+  }
+ },
+ {
+  "day": 60,
+  "review": {
+   "vocabQuiz": [
+    1,
+    3,
+    0,
+    3,
+    2,
+    3,
+    0,
+    3,
+    0,
+    2,
+    0,
+    2,
+    0,
+    1,
+    3
+   ],
+   "wordTr": [
+    "miss",
+    "poor",
+    "ground",
+    "special",
+    "housework",
+    "guide",
+    "before",
+    "vegetables"
+   ]
+  }
+ },
+ {
+  "day": 61,
+  "review": {
+   "vocabQuiz": [
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    2,
+    1,
+    0,
+    1,
+    2,
+    0,
+    1,
+    0,
+    0
+   ],
+   "wordTr": [
+    "flowers",
+    "happen",
+    "mistakes",
+    "team",
+    "tonight",
+    "purple",
+    "brought",
+    "forget"
+   ]
+  }
+ },
+ {
+  "day": 62,
+  "review": {
+   "vocabQuiz": [
+    0,
+    1,
+    2,
+    0,
+    1,
+    2,
+    2,
+    2,
+    1,
+    1,
+    1,
+    2,
+    0,
+    3,
+    3,
+    3,
+    2,
+    2,
+    1,
+    3
+   ],
+   "wordTr": [
+    "letter",
+    "Mr",
+    "armchair",
+    "together",
+    "at home",
+    "prices",
+    "mechanic",
+    "city",
+    "lucky",
+    "immediately"
+   ]
+  }
+ }
+]

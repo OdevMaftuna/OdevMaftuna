@@ -1,0 +1,249 @@
+[
+ {
+  "name": "Second conditional",
+  "name_uz": "Ikkinchi shart ergash gaplari",
+  "summary": "Hozirgi yoki kelajakdagi xayoliy, nohaqiqiy va amalga oshishi qiyin bo'lgan vaziyatlarni ifodalash uchun ishlatiladi.",
+  "usage": [
+   {
+    "text": "Hozirgi paytda haqiqatga to'g'ri kelmaydigan orzular yoki xayollarni aytishda.",
+    "example": {
+     "en": "If I had a million dollars, I would buy a big house.",
+     "uz": "Agar menda bir million dollar bo'lganida edi, katta uy sotib olgan bo'lar edim."
+    }
+   },
+   {
+    "text": "Boshqa biror insonning o'rnida bo'lganda nima qilishni tasavvur qilishda.",
+    "example": {
+     "en": "If I were you, I would study harder.",
+     "uz": "Agar men sening o'rningda bo'lganimda, qattiqroq o'qigan bo'lar edim."
+    }
+   },
+   {
+    "text": "Real bo'lmagan shart va uning natijasini ko'rsatishda.",
+    "example": {
+     "en": "If it stopped raining, we would go out.",
+     "uz": "Agar yomg'ir to'xtaganda edi, biz ko'chaga chiqqan bo'lar edik."
+    }
+   }
+  ],
+  "structure": [
+   {
+    "type": "+",
+    "formula": "If + Past Simple, Subject + would + V1",
+    "example": {
+     "en": "If I won the lottery, I would travel the world.",
+     "uz": "Agar lotereyada yutsam, dunyo bo'ylab sayohat qilgan bo'lar edim."
+    }
+   },
+   {
+    "type": "-",
+    "formula": "If + Past Simple (didn't), Subject + wouldn't + V1",
+    "example": {
+     "en": "If I didn't know you, I wouldn't trust you.",
+     "uz": "Agar seni tanimaganimda, senga ishonmagan bo'lar edim."
+    }
+   },
+   {
+    "type": "?",
+    "formula": "Would + Subject + V1 + if + Past Simple?",
+    "example": {
+     "en": "What would you do if you saw a bear?",
+     "uz": "Agar ayiqni ko'rganingda nima qilgan bo'lar eding?"
+    }
+   },
+   {
+    "type": "short",
+    "formula": "Yes, Subject + would / No, Subject + wouldn't",
+    "example": {
+     "en": "Yes, I would. / No, I wouldn't.",
+     "uz": "Ha, qilgan bo'lar edim. / Yo'q, qilmagan bo'lar edim."
+    }
+   }
+  ],
+  "signals": [
+   {
+    "en": "If I were you",
+    "uz": "Agar sening o'rningda bo'lganimda"
+   },
+   {
+    "en": "Imagine if",
+    "uz": "Tasavvur qil, agar"
+   },
+   {
+    "en": "What would you do if...",
+    "uz": "... bo'lganda nima qilgan bo'lar eding?"
+   },
+   {
+    "en": "Hypothetical situations",
+    "uz": "Faraziy vaziyatlar"
+   }
+  ],
+  "tip": "Eslatma: Ikkinchi conditionalda 'I', 'he', 'she', 'it' olmoshlaridan keyin 'was' o'rniga ko'pincha rasmiy tilda 'were' ishlatiladi (masalan: If I were...)."
+ },
+ {
+  "name": "Past perfect",
+  "name_uz": "O'tgan tugallangan zamon",
+  "summary": "O'tgan zamondagi biror harakatdan oldin sodir bo'lib bo'lgan ish-harakatni ko'rsatish uchun ishlatiladi.",
+  "usage": [
+   {
+    "text": "O'tgan zamondagi ikkita harakatdan qaysi biri oldinroq bo'lganini ko'rsatish uchun.",
+    "example": {
+     "en": "When I arrived, the train had left.",
+     "uz": "Men kelganimda, poyezd ketib bo'lgandi."
+    }
+   },
+   {
+    "text": "O'tgan zamondagi ma'lum bir vaqtgacha bajarilgan ishlar haqida gapirganda.",
+    "example": {
+     "en": "She had finished her homework by 8 PM.",
+     "uz": "U kechqurun soat 8 gacha uy vazifasini tugatib qo'ygan edi."
+    }
+   },
+   {
+    "text": "O'tgan zamondagi natijani tushuntirish uchun.",
+    "example": {
+     "en": "He was happy because he had passed the exam.",
+     "uz": "U xursand edi, chunki imtihondan o'tgan edi."
+    }
+   }
+  ],
+  "structure": [
+   {
+    "type": "+",
+    "formula": "Subject + had + V3 (Past Participle)",
+    "example": {
+     "en": "They had cleaned the house before guests came.",
+     "uz": "Mehmonlar kelishidan oldin ular uyni tozalab qo'yishgan edi."
+    }
+   },
+   {
+    "type": "-",
+    "formula": "Subject + hadn't + V3",
+    "example": {
+     "en": "I hadn't seen him for five years.",
+     "uz": "Men uni besh yildan beri ko'rmagan edim."
+    }
+   },
+   {
+    "type": "?",
+    "formula": "Had + Subject + V3?",
+    "example": {
+     "en": "Had you eaten lunch before you went out?",
+     "uz": "Ko'chaga chiqishdan oldin tushlik qilganmidingiz?"
+    }
+   },
+   {
+    "type": "short",
+    "formula": "Yes, Subject + had / No, Subject + hadn't",
+    "example": {
+     "en": "Yes, I had. / No, I hadn't.",
+     "uz": "Ha, qilgan edim. / Yo'q, qilmagan edim."
+    }
+   }
+  ],
+  "signals": [
+   {
+    "en": "already",
+    "uz": "allaqachon"
+   },
+   {
+    "en": "just",
+    "uz": "hozirgina"
+   },
+   {
+    "en": "never",
+    "uz": "hech qachon"
+   },
+   {
+    "en": "by the time",
+    "uz": "...gacha"
+   },
+   {
+    "en": "until",
+    "uz": "...gachon"
+   }
+  ],
+  "tip": "Eslatma: Past Simple o'tgan zamondagi oddiy ketma-ketlikni ko'rsatadi, Past Perfect эsa o'sha voqeadan 'oldinroq' sodir bo'lgan ishni ko'rsatadi."
+ },
+ {
+  "name": "after / before / because with past perfect",
+  "name_uz": "Past perfect bilan after, before, because bog'lovchilari",
+  "summary": "O'tgan zamonda sodir bo'lgan voqealarning ketma-ketligini aniq ko'rsatish uchun bog'lovchilar bilan Past Perfect zamonini ishlatamiz.",
+  "usage": [
+   {
+    "text": "Biror ish boshqasidan keyin sodir bo'lganini 'after' yordamida ko'rsatishda.",
+    "example": {
+     "en": "After she had eaten dinner, she washed the dishes.",
+     "uz": "U kechki ovqatni yeb bo'lgach, idishlarni yuvdi."
+    }
+   },
+   {
+    "text": "Biror ish boshqasidan oldin qilinganini 'before' yordamida ko'rsatishda.",
+    "example": {
+     "en": "They had locked the door before they went to sleep.",
+     "uz": "Ular uxlashga ketishdan oldin eshikni qulflab qo'yishgandi."
+    }
+   },
+   {
+    "text": "O'tgan zamondagi sababni ko'rsatish uchun 'because' dan foydalanganda.",
+    "example": {
+     "en": "Tom failed the test because he hadn't studied.",
+     "uz": "Tom testdan yiqildi, chunki u o'qimagan edi."
+    }
+   }
+  ],
+  "structure": [
+   {
+    "type": "+",
+    "formula": "After + Past Perfect, Past Simple / Past Simple + because + Past Perfect",
+    "example": {
+     "en": "After I had finished work, I went home.",
+     "uz": "Ishni tugatganimdan keyin uyga ketdim."
+    }
+   },
+   {
+    "type": "-",
+    "formula": "Before + Past Simple, Past Perfect (negative structure)",
+    "example": {
+     "en": "Before we left, the rain hadn't stopped.",
+     "uz": "Biz ketishimizdan oldin yomg'ir to'xtamagan edi."
+    }
+   },
+   {
+    "type": "?",
+    "formula": "Did you... after you had...?",
+    "example": {
+     "en": "Did you call him after you had arrived?",
+     "uz": "Yetib kelganingizdan keyin unga qo'ng'iroq qildingizmi?"
+    }
+   },
+   {
+    "type": "short",
+    "formula": "Yes, I did. / No, I didn't.",
+    "example": {
+     "en": "Yes, I did. / No, I didn't.",
+     "uz": "Ha, qildim. / Yo'q, qilmadim."
+    }
+   }
+  ],
+  "signals": [
+   {
+    "en": "after",
+    "uz": "...keyin"
+   },
+   {
+    "en": "before",
+    "uz": "...oldin"
+   },
+   {
+    "en": "because",
+    "uz": "chunki"
+   },
+   {
+    "en": "as soon as",
+    "uz": "bilanoq"
+   }
+  ],
+  "tip": "Eslatma: 'After' so'zidan keyin odatda Past Perfect keladi, 'Before' so'zidan keyin esa Past Simple keladi. Buni adashtirmang!"
+ }
+]

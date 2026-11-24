@@ -1,0 +1,35 @@
+{
+ "script": "Teacher: Good morning, everyone. I want to tell you about the school trip to the castle next week. The coach will be leaving the school at 9.10, so you all need to be there at 8.40 and no later. If anyone is late, we will not wait for you. We will be doing all sorts of activities during the day, but don't forget that you will be doing a project on the castle, so you need to bring a book – I mean a notebook with you. Don't worry about bringing a camera, as on the last trip, two people lost their cameras. You can always use your phones if you want to take pictures. We should arrive at the castle by 9.45. We won't be going on a guided tour, because I know how bored you will get. So, instead, we will go to the gardens where we will have a special painting class. The gardens are very beautiful. All your paintings will be exhibited in the school hall next week. After lunch, you can have a look around the castle for an hour, which will be followed by a special treat. No, that doesn't mean you will go and eat cake. We will be going on a boat down the river. I know that this is a trip that you will really enjoy. Now, those projects I mentioned earlier will be marked by Friday afternoon, so they all need to be handed in by Tuesday afternoon, not Wednesday morning. Us poor teachers have lots to do, so you must hand your projects in on time. If you want more information to help you write your projects, you can look on the castle website, which is www.arundelcastle.com. I'll spell that for you: that's A-R-U-N-D-E-L. Okay? You can go to your lessons now.",
+ "items": [
+  {
+   "n": 1,
+   "quote": "you all need to be there at 8.40 and no later",
+   "uz": "Avtobus 9:10 da jo'nashini, lekin hamma maktab darvozasida 8:40 da (8.40) bo'lishi kerakligini aytadi."
+  },
+  {
+   "n": 2,
+   "quote": "so you need to bring a book – I mean a notebook with you",
+   "uz": "O'qituvchi avval 'book' deydi, lekin darhol o'zini tuzatib 'notebook' (daftar) olib kelish kerakligini ta'kidlaydi."
+  },
+  {
+   "n": 3,
+   "quote": "we will go to the gardens where we will have a special painting class",
+   "uz": "Ertalabki mashg'ulot bog'da rasm chizish (painting) darsi bo'ladi."
+  },
+  {
+   "n": 4,
+   "quote": "We will be going on a boat down the river",
+   "uz": "Tushlikdan keyingi mashg'ulot daryoda qayiqda (boat) sayr qilishdir."
+  },
+  {
+   "n": 5,
+   "quote": "they all need to be handed in by Tuesday afternoon, not Wednesday morning",
+   "uz": "Loyihalar seshanba kuni tushdan keyin (Tuesday) topshirilishi shart. O'qituvchi chorshanba yoki juma kunlari bilan chalkashmaslikni uqtiradi."
+  },
+  {
+   "n": 6,
+   "quote": "A-R-U-N-D-E-L",
+   "uz": "Veb-sayt manzili uchun Arundel so'zi birma-bir harflab aytiladi: A-R-U-N-D-E-L."
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+﻿75`t26`t91`tport
+136`t33`t120`tExercise 46
+86`t20`t939`t107
+199`t30`t120`tYou will hear someone giving a talk. Label the places (1-5) on the map
+236`t32`t119`t(A-H). There are THREE extra options which you do not need to use
+429`t12`t526`tBus
+446`t14`t526`tStop
+543`t13`t543`tBus
+561`t16`t543`tStop
+736`t28`t119`tI. cargo building
+775`t22`t119`t4. lifts
+861`t26`t121`tExercise 47
+736`t26`t354`t2. car park
+774`t26`t354`t5. regional terminal
+925`t22`t121`tYou will hear someone
+961`t28`t119`tgiving a talk. Label the
+1000`t28`t119`tplaces (1-5) on the map
+1036`t26`t120`t(A-I). There are FOUR extra
+1074`t28`t120`toptions which you do not
+1116`t21`t121`tneed to use
+1312`t28`t123`t1. gift shop
+1349`t23`t123`t2. Beehives
+1387`t29`t123`t3. holiday cottages
+1425`t29`t123`t4. dairy
+1463`t22`t124`t5. museum
+1166`t14`t532`tOrchards
+376`t16`t644`tc
+660`t14`t698`tFROM THE
+740`t22`t625`t3. domestic Terminal
+895`t22`t655`tHolloway Estate
+1041`t19`t840`tCar park
+1169`t12`t857`tYou are here
+1222`t14`t788`tFountain
+1273`t16`t882`tCoach
+1295`t15`t891`tPark
+1497`t16`t749`tMain Gate
+1542`t27`t556`tDarayangizni aniqlash uchun: mytests.uz
+1653`t9`t1022`tScanned With

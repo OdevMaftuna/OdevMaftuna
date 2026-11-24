@@ -1,0 +1,48 @@
+﻿68`t16`t80`tPort 4
+123`t21`t107`tFor questions 1-4, choose the correct answer A, B, C, or D.
+69`t17`t740`t287
+152`t21`t107`t1. The narrator was looking forward to meetingwith his father because he
+180`t23`t108`tA) hoped that his parents would get back together.
+209`t21`t108`tB) expected to get a valuable present from him.
+237`t21`t108`tC) wanted to stay with him in New York.
+266`t21`t110`tO) missed the feeling of being with him.
+311`t20`t108`t2. The narrator's request to meet was accepted by his father
+339`t21`t108`tA) unwillingly.
+368`t19`t110`tC) in a business-like manner.
+339`t21`t426`tB) with great pleasure.
+368`t21`t426`tD) with much hope and expectation
+411`t21`t108`t3. The narrator wanted to be photographed with his father because
+440`t21`t110`tA) it was the happiest time of his life.
+468`t21`t110`tB) he was proud of his father's good looks.
+495`t19`t110`tC) he wanted to boast about his father to his friends.
+524`t21`t110`tD) he wished to remember their moments together.
+567`t18`t110`t4. The father did not invite his son to his club because
+596`t21`t110`tA) the son was pressed for time to catch a train.
+624`t21`t111`tB) it was necessaryto book in advance to enter the club.
+653`t21`t110`tC) the man feared that his son would not behave properly.
+681`t19`t111`tD) it was a closed club with no children allowed.
+725`t21`t111`tFor questions 5-9, decide if the following statements agree with the
+753`t21`t84`tinformation given in the text Mark your answers on the answer sheet.
+782`t18`t111`tS. Charlie's dad decided to take him to his club.
+812`t21`t111`tA) True
+810`t19`t291`td) False
+809`t21`t497`tC) No Information
+854`t21`t111`t6. Charlie did not want to have anything which reminds him of the time
+884`t21`t84`twhen he spent with his father.
+912`t21`t111`tA) True
+912`t21`t291`tB) False
+909`t20`t497`tC) No Information
+954`t18`t111`t7. The waiter was angry with the behavior of Charlie*s fathertowards him.
+986`t21`t113`tA) True
+984`t21`t293`tB) False
+983`t21`t497`tC) No Information
+1026`t18`t111`t8. Charlie's dad offered to go to another restaurant due to the absence
+1058`t18`t86`tof Charlie's favorite meal.
+1086`t21`t113`tA) True
+1085`t21`t293`tB) False
+1083`t19`t497`tC) No Information
+1128`t23`t113`tg. New York is famous for its quality-served restaurants.
+1160`t21`t113`tA) Thue
+1158`t21`t293`tB) False
+1157`t19`t498`tC) No Information
+1199`t20`t441`tDarcyongzni oniq'G5h uchun: mytestsuz

@@ -1,0 +1,35 @@
+{
+ "script": "Woman: Good afternoon, families! It's lovely to see you all at our wonderful resort. You've certainly got some great weather for your holiday! Now, in a moment, you'll be shown up to your rooms. Then, in about an hour's time, at about 1 o'clock, a light lunch will be served in the dining room. The dining room is at the front of the hotel, next to the fitness center. For your information, breakfast is served between 7 a.m. and 9 a.m. Lunch is from 12 p.m. to 3 p.m., and dinner is served in the evening between 8 p.m. and 11 p.m. Traditional music is played by local musicians twice a week during dinner. Now, a few words about activities. There are family trips most mornings which you can join if you like. These include visits to local places of interest, including the ruins and various monuments. I'll give you more details about those later. You can also visit an outdoor market where you'll be able to find souvenirs to take home. That's only on Thursdays, so don't miss it. In the afternoons, you can either walk to the beach, which is just 5 minutes away, or you can relax by the hotel swimming pool. That's it for now, I think. I hope you like your rooms. Please stay behind if you have any questions. Otherwise, I'll see you in the dining room in about an hour. Thank you very much!",
+ "items": [
+  {
+   "n": 1,
+   "quote": "The dining room is at the front of the hotel",
+   "uz": "Ovqatlanish xonasi (dining room) mehmonxonaning old qismida (\"front\") joylashgani ta'kidlanadi."
+  },
+  {
+   "n": 2,
+   "quote": "breakfast is served between 7 a.m. and 9 a.m.",
+   "uz": "Nonushta vaqti 7:00 dan 9:00 gacha deb ko'rsatilgan, shuning uchun bo'sh joyga 7 (yoki seven) yoziladi."
+  },
+  {
+   "n": 3,
+   "quote": "Traditional music is played by local musicians twice a week",
+   "uz": "Kechki ovqat vaqtida haftasiga ikki marta an'anaviy musiqa (\"music\") ijro etilishi aytiladi."
+  },
+  {
+   "n": 4,
+   "quote": "visits to local places of interest, including the ruins",
+   "uz": "Sayohatlar mahalliy (\"local\") diqqatga sazovor joylar hamda xarobalarga tashrifni o'z ichiga oladi."
+  },
+  {
+   "n": 5,
+   "quote": "That's only on Thursdays, so don't miss it.",
+   "uz": "Ochiq havodagi bozorga faqat payshanba (\"Thursday\") kunlari borish mumkinligi aytilgan."
+  },
+  {
+   "n": 6,
+   "quote": "walk to the beach, which is just 5 minutes away",
+   "uz": "Sohilga (beach) bor-yo'g'i 5 daqiqalik (\"5 minutes\") yo'l ekanligi ta'kidlanadi."
+  }
+ ]
+}

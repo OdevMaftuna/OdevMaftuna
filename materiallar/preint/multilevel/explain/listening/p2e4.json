@@ -1,0 +1,35 @@
+{
+ "script": "Man: You will hear a student called Matilde giving a presentation to her class about a science museum she visited. Matilde: Hi everyone! I'm going to tell you about my trip to the new science museum last week. I went with my family and we looked around the whole museum. There are loads of different rooms and each one contains displays about a particular topic. We spent ages looking around the room that was all about space, and even longer in the one with loads of stuff on energy, which I thought was the best bit. The museum's free, but there are also two special exhibitions that you have to pay for. You can't go into the one on health yet, because it doesn't open for another couple of weeks. I'd like to go back and see that. The other exhibition on computers was good though. As well as the displays, there are lots of things you can actually do there too. My brother made this fantastic car that went quite fast, using only power from the sun, while I created a rocket that used gas to fly. It went really high! As well as the interesting things to see and do, there's a nice shop. My mum and dad let me get something because it was my birthday. There were so many chemistry sets to choose from, it took me ages to decide which one I wanted. They have the usual toys and games and a few nice books there too. You can also take a tour of the museum with a guide. When we arrived, they said we'd have to wait for at least 60 minutes for the 80-minute tour because it was so popular, so we decided against it. If you want to go, the entrance is on Lockhart Road. I'll spell that for you. It's L-O-C-K-H-A-R-T Road. Thanks for listening! Man: Now listen again. [Matilde's talk is repeated]",
+ "items": [
+  {
+   "n": 1,
+   "quote": "even longer in the one with loads of stuff on energy, which I thought was the best bit",
+   "uz": "Matilde 'space' (kosmos) xonasida ko'p vaqt o'tkazgan bo'lsa-da, 'energy' (energiya) xonasini eng yaxshisi ('best bit') deb aytadi."
+  },
+  {
+   "n": 2,
+   "quote": "You can't go into the one on health yet, because it doesn't open for another couple of weeks",
+   "uz": "'Health' (salomatlik) ko'rgazmasi hali ochilmaganligi sababli, u hozirda yopiq ekanligi tushuniladi."
+  },
+  {
+   "n": 3,
+   "quote": "I created a rocket that used gas to fly",
+   "uz": "Matildening akasi mashina ('car') yasagan, Matildening o'zi esa raketa ('rocket') yasaganini aytadi."
+  },
+  {
+   "n": 4,
+   "quote": "There were so many chemistry sets to choose from",
+   "uz": "Do'konda juda ko'p 'chemistry sets' (kimyo to'plamlari) borligi aytiladi, bu 'good range' (yaxshi tanlov) iborasiga mos keladi."
+  },
+  {
+   "n": 5,
+   "quote": "the 80-minute tour",
+   "uz": "Ekskursiya 80 daqiqa davom etadi. 60 daqiqa esa navbatda kutish kerak bo'lgan vaqt, shuning uchun adashtirib yubormaslik kerak."
+  },
+  {
+   "n": 6,
+   "quote": "It's L-O-C-K-H-A-R-T Road",
+   "uz": "Ko'cha nomi harflab aytib beriladi, shunchaki harflarni ketma-ket yozish kifoya."
+  }
+ ]
+}
