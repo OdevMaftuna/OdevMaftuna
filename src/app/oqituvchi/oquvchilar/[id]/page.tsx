@@ -9,6 +9,7 @@ import { formatScore } from "@/lib/format";
 import { loadPracticeInsights, loadTestInsights } from "@/lib/student-insights";
 import { finalScore, loadStudentProgress } from "@/lib/teacher-data";
 import { PracticeInsights, TestInsights } from "./insights";
+import { StudentActions } from "../student-actions";
 
 export const metadata: Metadata = { title: "O‘quvchi rivoji" };
 
@@ -17,7 +18,7 @@ export default async function StudentProgressPage({
 }: {
   params: Promise<{ id: string }>;
 }) {
-  await requireTeacher();
+  const me = await requireTeacher();
   const { id } = await params;
   if (!z.uuid().safeParse(id).success) notFound();
 
@@ -62,9 +63,17 @@ export default async function StudentProgressPage({
             : "Bu o‘quvchi nofaol qilingan."
         }
         actions={
-          <Link href="/oqituvchi/oquvchilar" className={btn.secondary}>
-            O‘quvchilarga qaytish
-          </Link>
+          <>
+            <StudentActions
+              id={id}
+              name={student.full_name}
+              isActive={student.is_active}
+              canDeactivate={me.isAdmin}
+            />
+            <Link href="/oqituvchi/oquvchilar" className={btn.secondary}>
+              O‘quvchilarga qaytish
+            </Link>
+          </>
         }
       />
 
