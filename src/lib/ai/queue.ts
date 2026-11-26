@@ -47,6 +47,8 @@ type Job = {
 /** Bitta chaqiruvda navbatga ajratiladigan vaqt (funksiya limiti 60 soniya). */
 const DEFAULT_BUDGET_MS = 45_000;
 const MAX_ATTEMPTS = 5;
+/** Gemini band bo'lsa, navbat shuncha kutib turadi (claim_next_ai_job 3 daqiqalik qulfdan hisoblanadi). */
+const RETRY_PAUSE_MS = 60_000;
 const DEFAULT_RATE_LIMIT_WAIT_MS = 15_000;
 /** Bitta Gemini so'roviga ajratiladigan eng ko'p vaqt. Oshsa, model "band" hisoblanadi. */
 const PER_CALL_TIMEOUT_MS = 25_000;
@@ -89,11 +91,20 @@ async function markError(admin: Admin, job: Job, reason: string) {
     .eq("ai_status", "pending");
 }
 
-/** Ishni navbatga qaytaradi (keyingi chaqiruvda qayta olinadi). */
+/**
+ * Ishni navbatga qaytaradi. Gemini band bo'lgani (503/429/vaqt) xato emas: urinish hisobga
+ * olinmaydi va navbat ~1 daqiqa dam oladi. Aks holda sahifa har 3 soniyada so'raganda
+ * 5 ta urinish bir necha soniyada tugab, javob "error"da qotib qolardi.
+ */
 async function release(admin: Admin, job: Job, reason: string) {
+  const retryAt = new Date(Date.now() - (3 * 60_000 - RETRY_PAUSE_MS)).toISOString();
   await admin
     .from("submissions")
-    .update({ ai_locked_at: null, ai_error: reason.slice(0, 500) })
+    .update({
+      ai_locked_at: retryAt,
+      ai_attempts: Math.max(0, job.ai_attempts - 1),
+      ai_error: reason.slice(0, 500),
+    })
     .eq("id", job.id)
     .eq("submitted_at", job.submitted_at)
     .eq("ai_status", "pending");
