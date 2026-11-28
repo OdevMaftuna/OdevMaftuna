@@ -1,0 +1,35 @@
+{
+ "script": "Jonathan: Before tonight's news, let me tell you about some of the shows we have for you this week, so you can make a note of them in your diary. There are a few changes to our regular programs, so listen carefully to make sure you don't miss any of your favorites. Tonight at 8:30, John Seymour will present this week's wildlife documentary. John entertained us all previously with his trip to the Safari Park when he went along to meet the elephants. This time, John will be telling us about how we can recognize the wild flowers in our gardens. Then our first change of schedule. Apologies to listeners looking forward to Writer's World and our interview with Francis Selhurst on how to get ideas for your next novel. We've had to rearrange this interview for next week as Francis is attending a conference. Instead, we'll be talking with an expert about how you can use the internet to get your next book published. On Thursday at 8:00, we have Sports Night as usual with a look at next weekend's football. Most of the games from last Saturday were cancelled due to the terrible weather, so there are no reports on those matches. But our experts will be looking forward to seeing some action this Saturday and will be trying to predict results as usual. Join our team at 8:00. And finally, our reporter Sally Williams will be in town next Friday morning. She'll be interviewing people for our weekly program Money Matters, starting from 10:00, not the usual 9:00. If you'd like the chance to speak to her and share your views of your experiences and any problems you may have, meet Sally at the main door of the library, not the normal meeting place at the Town Hall, which is closed due to building work.",
+ "items": [
+  {
+   "n": 1,
+   "quote": "There are a few changes to our regular programs",
+   "uz": "\"Changes\" so'zi o'zgarishlar degan ma'noni anglatadi. Matnda odatiy dasturlar jadvalida o'zgarishlar borligi aytilgan."
+  },
+  {
+   "n": 2,
+   "quote": "recognize the wild flowers in our gardens",
+   "uz": "Matnda \"wild flowers\" (yovvoyi gullar) haqida gap ketmoqda. Mashq matnida \"wild\" so'zi borligi sababli, faqat \"flowers\" so'zi yoziladi."
+  },
+  {
+   "n": 3,
+   "quote": "get your next book published",
+   "uz": "\"Published\" so'zi nashr etilgan degan ma'noni anglatadi. Internet yordamida kitobni qanday nashr etish haqida suhbat bo'lishi aytilgan."
+  },
+  {
+   "n": 4,
+   "quote": "games from last Saturday were cancelled",
+   "uz": "\"Cancelled\" so'zi bekor qilingan degan ma'noni anglatadi. O'yinlar yomon ob-havo tufayli bekor qilingani aytilgan."
+  },
+  {
+   "n": 5,
+   "quote": "starting from 10:00, not the usual 9:00",
+   "uz": "Dastur yangi vaqtda, ya'ni soat 10:00 da boshlanadi. Odatdagi vaqt bo'lgan 9:00 bilan chalg'ib qolmaslik kerak."
+  },
+  {
+   "n": 6,
+   "quote": "meet Sally at the main door of the library",
+   "uz": "Uchrashuv kutubxona (library) oldida bo'ladi. Town Hall (shahar hokimiyati) binosi qurilish ishlari sababli yopiqligi aytilgan."
+  }
+ ]
+}

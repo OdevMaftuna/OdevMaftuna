@@ -1,0 +1,30 @@
+{
+ "script": "Exercise 12\n\nYou will hear five short extracts in which people are talking about what makes a good teacher. For questions 1-5, choose from the list (A-H) what each speaker says a good teacher should do. Use the letters only once. There are THREE EXTRA letters which you do not need to use.\n\nSpeaker 1:\nI fully accept that everyone's different, so of course different teachers will suit different types of children and teenagers. Throughout my education, though, the teachers I responded to best were the ones that try to push me along a bit by getting me to try a little bit harder, because the problem for me is that I'm naturally quite a lazy person, and I've always been more interested in life outside the classroom than inside it. So, I'm the kind of person that's perhaps a bit of a headache for teachers, the sort they're not really thinking about when they're studying for their teaching qualifications.\n\nSpeaker 2:\nMost of the time a teacher's just doing his or her job, I guess. I mean, they've done their qualification, they're in the classroom, they've got to write your report at the end of term saying how you've done, haven't they? Sometimes you might want to be able to ask your teacher something before or after class, get some advice or extra information, or tell them about some problem. It's the teachers who are there for you in those situations that are special, who take an individual approach. And I don't think it's too hard for them to do that, give you a couple of minutes.\n\nSpeaker 3:\nWell, I'm a firm believer in the importance of the subject. If a teacher can get the kids absorbed by the subject, be it maths or geography or cookery or whatever, then the job is basically done. The best teachers are the ones who make it look easy because they make it seem fun. Then the kids are fascinated, even amused by the subject, so they want to learn and each and every one of them makes progress. I think this often involves the teacher getting everyone to see the relevance of the subject in the wide world, beyond the confines of the classroom.\n\nSpeaker 4:\nFashions come and go in teaching, just as in everything else. We're at a stage at the moment where there's a lot of focus on the individual and getting every child to take responsibility for their own learning, that kind of thing. But you can't just tell kids to be better, to study harder. You also have to demonstrate what you mean by this. So the teacher needs to put in the hours, to mark the homework, to prepare lessons carefully. If kids know the teacher's doing it, then they'll want to do their part, too. I think that's the way to do it. Never mind what's in fashion.\n\nSpeaker 5:\nPerhaps the best thing is for teachers to reflect on how they themselves got to be teachers. How did they achieve success in their qualifications? How did they manage to do well at school? It's down to a question of each and every student making his or her own way, and they only know if they're doing well if they're told by their teacher that they're doing well or badly. You need to be told the facts about how well you're managing with your studies, in class and in your homework. The truth is that learning's not a game, not just fun, but hard effort.",
+ "items": [
+  {
+   "n": 1,
+   "quote": "push me along a bit by getting me to try a little bit harder",
+   "uz": "Ma'ruzachi Dangasa bo'lganligi sababli o'qituvchi uni harakat qilishga undab, ruhiy rag'batlantirib turishini xohlaganini aytadi (E: give a lot of encouragement)."
+  },
+  {
+   "n": 2,
+   "quote": "ask your teacher something before or after class",
+   "uz": "So'zlovchi yaxshi o'qituvchi darsdan oldin yoki keyin (outside class time) o'quvchiga vaqt ajratib, savollariga javob bera olishi kerakligini ta'kidlaydi (D: be available outside class time)."
+  },
+  {
+   "n": 3,
+   "quote": "make it look easy because they make it seem fun",
+   "uz": "Ma'ruzachi eng yaxshi o'qituvchilar darsni qiziqarli va quvnoq qiladigan, ya'ni ko'ngilochar yondashuvga ega bo'lganlar deb hisoblaydi (F: have an entertaining approach)."
+  },
+  {
+   "n": 4,
+   "quote": "the teacher needs to put in the hours, to mark the homework, to prepare lessons carefully",
+   "uz": "O'qituvchi o'quvchilardan ko'p mehnat qilishni talab qilishdan oldin o'zi darsga tayyorlanib, mehnatsevarlik namunasini ko'rsatishi zarurligini aytadi (A: set an example of hard work)."
+  },
+  {
+   "n": 5,
+   "quote": "they're told by their teacher that they're doing well or badly",
+   "uz": "Ma'ruzachi o'quvchi yaxshi yoki yomon o'qiyotganini bilishi uchun o'qituvchi unga shaxsiy ko'rsatkichlari haqida xabar berib turishi kerakligini aytadi (C: give information on individual progress)."
+  }
+ ]
+}

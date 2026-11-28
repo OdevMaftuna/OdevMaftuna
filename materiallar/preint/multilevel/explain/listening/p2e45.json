@@ -1,0 +1,35 @@
+{
+ "script": "Man: Why do perfectly sane normal people pay up to a thousand pounds a week to make themselves sick? Jane Seaworthy has been finding out. Woman: Well, actually, the people attending the Thorndale clinic, situated on the outskirts of Bristol, all have a problem, and it's a problem that has become increasingly common in the last two decades, that of addiction. There are over 50 addiction clinics operating in the United Kingdom, but what makes Thorndale so special is a new kind of treatment that they have been applying with remarkable success. The new system being used here is called aversion therapy, although the idea itself is not new. And of all the clinics treating addicts of various kinds worldwide, the Thorndale clinic has the highest success rate in treating abusers of alcohol and tobacco. Addicts attending a 10-day course of treatment live, eat and sleep in the same building, and unlike other systems, are encouraged to indulge in their addiction. Instead of treating subjects with drugs that reduce their dependence, this course sets out to induce in its patients a strong feeling of disgust directed towards the object of their addiction. For example, a one-hour treatment session for smokers involves smoking rapidly without stopping well beyond the point where they want no more. In fact, they are not allowed to stop smoking until they have been physically sick. As you can imagine, this is not a pleasant process. It has to be repeated three times a day for the entire 10-day period in order that the subjects develop a strong enough hatred for their earlier addiction. Unfortunately, many people find the course too painful to complete, and those who do give up early are not considered cured, as they will most likely return to their former habit. On the other hand, smokers who keep going to the end of the course are most unlikely to want a cigarette again. The treatment for alcoholism has to be somewhat different, mainly because alcohol abuse involves loss of memory. This problem is overcome in a simple way. A group of patients are encouraged to drink excessively in the setting of a bar. During this stage, they are carefully monitored by trained personnel. Their behavior is also recorded on video cassette, and the following day, they are shown their drunken performance from the night before. Nearly all subjects feel great embarrassment when faced with these forgotten scenes of uncontrolled drunkenness. Usually, a 10-day course of treatment is all that is required to shift a patient's emotional attitude to drinking.",
+ "items": [
+  {
+   "n": 1,
+   "quote": "treating abusers of alcohol and tobacco",
+   "uz": "Thorndale klinikasi alkogol va tamaki iste'mol qiluvchilarni davolashda eng yuqori muvaffaqiyatga ega ekanligi aytiladi."
+  },
+  {
+   "n": 2,
+   "quote": "treating abusers of alcohol and tobacco",
+   "uz": "Matnda 'alcohol and tobacco' birga keladi, bu ikki moddaga qaram bo'lganlar muvaffaqiyatli davolanadi."
+  },
+  {
+   "n": 3,
+   "quote": "until they have been physically sick",
+   "uz": "Chekuvchilar jismoniy jihatdan ko'ngli aynib, qayt qilmaguncha (physically sick) chekishni to'xtatishlariga ruxsat berilmaydi."
+  },
+  {
+   "n": 4,
+   "quote": "are most unlikely to want a cigarette again",
+   "uz": "Kursni oxirigacha tugatganlar qayta chekishni xohlashlari ehtimoldan yiroq (unlikely) deb ta'riflanadi."
+  },
+  {
+   "n": 5,
+   "quote": "monitored by trained personnel",
+   "uz": "Alkogoliklarni ichish jarayonida maxsus tayyorgarlikdan o'tgan (trained) xodimlar kuzatib turadi."
+  },
+  {
+   "n": 6,
+   "quote": "feel great embarrassment when faced with these forgotten scenes",
+   "uz": "Ertasi kuni o'zlarining mast holatdagi videolarini ko'rganda, bemorlar kuchli xijolatpazlik (embarrassment) his qilishadi."
+  }
+ ]
+}

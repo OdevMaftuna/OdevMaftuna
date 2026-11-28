@@ -1,0 +1,35 @@
+{
+ "script": "Man: Hi everyone. My name's Chris and I'm here to tell you about the vacation job I had last year in Australia. I'd always wanted to go there and I found a great job working for a travel company. I think the best place to look for work like that is on the Internet. I'm a history student at university, so I was interested in the historical sites, but the job was actually in the outback, in the desert. For most of the time, I lived in a caravan just outside the town. It was quite comfortable. At the weekend, I was often invited to a party by the local people, which was a great way to make friends. My main job was driving tourists into the desert to see the sunrise. I had to make sure they were safe. Many of them didn't realize how strong the sun is and I had to remind them to keep their shoulders covered up. We also looked at animal tracks, but what they really liked was learning about the plants that the local people use for food and medicine. If you're interested in a job like this, you should apply early. The local government wants to build a bigger airport to get more tourists, so there will be more jobs. You should send in your application by January at the latest.",
+ "items": [
+  {
+   "n": 1,
+   "quote": "I'm a history student at university",
+   "uz": "Chris universitetda tarix (history) yo'nalishida o'qishini aytadi. 'Art' yoki 'architecture' kabi boshqa fanlar bilan adashtirmaslik kerak."
+  },
+  {
+   "n": 2,
+   "quote": "I lived in a caravan just outside the town",
+   "uz": "U shahardan tashqarida karavanda (caravan) yashaganini ta'kidlaydi. 'Lived in a...' birikmasidan keyin aynan turar joy nomi kelishi kerak."
+  },
+  {
+   "n": 3,
+   "quote": "I was often invited to a party by the local people",
+   "uz": "Dam olish kunlari uni ko'pincha bazmga (party) taklif qilishgan. Bu mahalliy odamlar bilan do'stlashishning yaxshi usuli bo'lgan."
+  },
+  {
+   "n": 4,
+   "quote": "remind them to keep their shoulders covered up",
+   "uz": "Sayyohlar quyoshdan himoyalanish uchun yelkalarini (shoulders) yopib yurishlari kerakligini bilishmagan. 'Sun' so'zi sababni bildiradi, yopilishi kerak bo'lgan tana a'zosi esa yelkalar."
+  },
+  {
+   "n": 5,
+   "quote": "learning about the plants that the local people use",
+   "uz": "Sayyohlar bir necha maqsadda (oziq-ovqat va dori sifatida) ishlatiladigan o'simliklarni (plants) ko'rishgan. 'More than one use' iborasi o'simliklarning turli maqsadlarda qo'llanilishini bildiradi."
+  },
+  {
+   "n": 6,
+   "quote": "send in your application by January at the latest",
+   "uz": "Hujjatlarni topshirishning oxirgi muddati yanvar (January) oyi ekanligi aytiladi. 'At the latest' iborasi eng kech muddatni bildiradi."
+  }
+ ]
+}

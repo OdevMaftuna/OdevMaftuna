@@ -1,0 +1,30 @@
+{
+ "script": "Speaker 1: It starts as soon as I get home in the early evening. I have a quick snack and then log on to one of my favorite sites. Soon I've filled up my basket with all kinds of things, whether I actually need any of them is irrelevant, and then head for the checkout. It's all so quick and easy. Sometimes I'm watching TV and there's an ad for a tasty-looking ready meal and I'll log back on for a minute and order that too, though when it's actually delivered it usually turns out to be just junk food and it ends up in the bin. Speaker 2: I first realized something wasn't quite right when I kept falling asleep at all hours of the day. Getting up around seven isn't easy when you've been up till two the night before. But somehow I never manage to log off until then. There are just so many great sites, particularly news and sports, and also shopping, though I rarely end up buying anything. According to a quiz I did, I do seem to have an addiction, though compared to things like overeating, I don't think it's a particularly harmful one. I mean, I'm quite fit and unlike some of my colleagues, I always get to the office on time. Speaker 3: I always feel I have to be doing something. I just don't feel right if I'm not working on my fitness level, and the possible long-term effects of that are beginning to concern me. It also affects my life right now in various ways. For instance, I always go to bed late and get up early. I also need bigger meals than less active people, and although I always choose food that's good for me, it can be rather expensive and hard to find in the shops. At least though, the fact that I go everywhere around town on foot means that I'm never held up by traffic. Speaker 4: It was on all the time in my parents' home and it's like that here in my own flat. Usually the same channel too, because to tell the truth I'm totally hooked on the same kinds of series. It's odd in a way because most people of my generation spend all their time on the internet or, in the case of the fitter ones, doing sport every evening and weekend. I know my own lifestyle isn't particularly healthy, though at least nowadays I'm up reasonably early, unlike back in my student days when I often had trouble getting out of bed before noon. Speaker 5: It's always my intention to set off in plenty of time, but somehow there always seems to be something that holds me up. It may be a job that needs finishing off, an email that has to be answered, or even a TV program that hasn't quite ended. Then I end up literally running to wherever I'm going, always the last to turn up and also often the most stressed one too. I've tried getting up earlier in the morning so that I have more hours in the day to get everything done, but the lack of sleep just makes me feel tired later on and doesn't help at all.",
+ "items": [
+  {
+   "n": 1,
+   "quote": "Soon I've filled up my basket with all kinds of things... and then head for the checkout.",
+   "uz": "Spiker onlayn do'konlarda savatchasini to'ldirib, narsalar sotib olishi haqida gapirmoqda. Bu 'keraksiz narsalarni sotib olish' (C) javobiga mos keladi."
+  },
+  {
+   "n": 2,
+   "quote": "somehow I never manage to log off until then [2 AM].",
+   "uz": "Spiker tungi soat ikkigacha internetdan chiqib keta olmasligini aytadi. U 'shopping' so'zini ishlatsa ham, kamdan-kam narsa sotib olishini aytgani uchun C varianti xato bo'ladi."
+  },
+  {
+   "n": 3,
+   "quote": "I just don't feel right if I'm not working on my fitness level",
+   "uz": "Spiker doimo o'zining jismoniy holati (fitness) ustida ishlashi kerakligini aytadi. Bu 'haddan tashqari ko'p mashq qilish' (B) variantini bildiradi."
+  },
+  {
+   "n": 4,
+   "quote": "to tell the truth I'm totally hooked on the same kinds of series.",
+   "uz": "Spiker seriallarga bog'lanib qolgani va televizor doim yoqiq turishi haqida gapirmoqda. U talabalik davridagi uyqu muammolarini eslasa-da, hozirgi odati televizor ko'rish (D) hisoblanadi."
+  },
+  {
+   "n": 5,
+   "quote": "Then I end up literally running to wherever I'm going, always the last to turn up",
+   "uz": "Spiker doim oxirgi bo'lib yetib kelishi, ya'ni hamma joyga kechikishi (A) haqida gapirmoqda. U vaqtida chiqishga harakat qilsa ham, doim nimadir uni ushlab qoladi."
+  }
+ ]
+}

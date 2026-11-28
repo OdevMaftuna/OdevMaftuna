@@ -1,0 +1,35 @@
+{
+ "script": "Speaker 1: You will hear a manager called Sandra talking about a company training day.\nSandra: Can I just say something about the training day next week? You should all receive your programme by email shortly. We've had to make changes to rooms and even now, some of the training sessions may have to be held in a different building, but we'll let you know if this happens. Some of you have asked about changing to a different session than the one you signed up for. We've tried to do this when it's been possible, but as some training sessions are full, it will sometimes not be possible. We will let you know by email on the 13th of September the full list of names of people going to each session. The trainers will email you the materials they'll be using during the sessions for you to have a look at before the training day. There are some tasks for you to complete in preparation for your session. Please make sure you print out these materials and complete the exercises before you attend. At the end of the training day, you will all be given a questionnaire for your comments on each of the sessions you attended. Could you please make sure you complete this and give it to the training manager. We are using a new company for this event and are keen to see how well the day goes. Because staff in the company restaurant will also be attending training sessions, the restaurant will not be open. We are arranging cold food, teas and coffee for everyone. Could you email the restaurant manager before the end of this week and let him know if you have any special dietary requirements. Finally, can I remind you to check the noticeboard outside room 134 for any last-minute changes. Yes, we'll email you all important information, but several of you have complained that you haven't received our messages, so to be absolutely sure you're up to date, check the noticeboard.",
+ "items": [
+  {
+   "n": 1,
+   "quote": "some of the training sessions may have to be held in a different building",
+   "uz": "Ba'zi mashg'ulotlar boshqa binoda (building) o'tkazilishi mumkinligi aytilmoqda. 'Rooms' (xonalar) so'zi ham ishlatilgan, lekin gapning oxirida aynan 'different building' deb aniqlashtirilgan."
+  },
+  {
+   "n": 2,
+   "quote": "on the 13th of September",
+   "uz": "Mashg'ulotlar ro'yxati 13-sentabr (September) kuni elektron pochta orqali yuborilishi aytilgan. Bu yerda faqat oy nomini yozish talab qilinadi."
+  },
+  {
+   "n": 3,
+   "quote": "complete the exercises before you attend",
+   "uz": "Mashg'ulotga kelishdan oldin materiallardagi mashqlarni (exercises) bajarish so'ralmoqda. Matnda 'tasks' (vazifalar) so'zi ham ishlatilgan, lekin 'complete' fe'li bilan aynan 'exercises' so'zi kelgan."
+  },
+  {
+   "n": 4,
+   "quote": "give it to the training manager",
+   "uz": "So'rovnomani to'ldirib, o'quv ishlari bo'yicha menejerga (training manager) topshirish kerak. Keyinroq 'restaurant manager' ham tilga olinadi, lekin u boshqa maqsad uchun aytilgan."
+  },
+  {
+   "n": 5,
+   "quote": "the restaurant will not be open",
+   "uz": "Kompaniya restorani (restaurant) xodimlari ham treningda bo'lgani sababli, restoran yopiq bo'ladi. 'Food', 'tea' va 'coffee' so'zlari chalg'itishi mumkin, lekin aynan restoran yopilishi aytilgan."
+  },
+  {
+   "n": 6,
+   "quote": "check the noticeboard outside room 134",
+   "uz": "So'nggi o'zgarishlarni bilish uchun 134-xona tashqarisidagi e'lonlar taxtasini tekshirish so'ralmoqda. Raqamni aniq eshitish muhim."
+  }
+ ]
+}

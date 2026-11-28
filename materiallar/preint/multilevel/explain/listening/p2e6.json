@@ -1,0 +1,35 @@
+{
+ "script": "Man: Listen, everyone. I know some of you are interested in learning to play a musical instrument, so I have some information about Saturday morning music classes that are starting this week. There are many classes to choose from for a range of different instruments. You can learn anything from the drums to the guitar. The violin teacher the school usually uses can't make it on Saturdays, but why not have a go at the flute if you prefer classical music?\nWhen you arrive at the school, you'll need to collect your instruments. You probably know that these are normally kept in the large cupboard next to the technology room, but we'll make sure they're all ready for you in the drama room, so go straight there, please.\nYou'll need to tell your parents about the cost of course. They can pay in two different ways. If they decide to pay for each individual class, it'll be £7.75, or they can pay per term, in which case it works out a little cheaper at £72.\nThere'll be an end-of-term concert for all students, which will take place on the 24th of June, and not on the 7th of July, as it says on the school website. You'll be able to play solo, that's by yourself, or with others. Last year, there were several students who joined together in a band and they played together at the concert. This year, though, we'd like to include more people and have an orchestra that students can play in. Family and friends are welcome to come and listen.\nIf you or your parents want more information, you'll need to email Mr Driscoll, the music teacher, on driscoll@school.net. I'll spell that for you. It's D-R-I-S-C-O-L-L at school.net.",
+ "items": [
+  {
+   "n": 1,
+   "quote": "why not have a go at the flute",
+   "uz": "Darslar drums, guitar va flute uchun mavjud. Violin haqida ham aytiladi, lekin uning o'qituvchisi shanba kunlari kela olmaydi."
+  },
+  {
+   "n": 2,
+   "quote": "ready for you in the drama room",
+   "uz": "Asboblar odatda technology room yonidagi javonda saqlansa-da, shanba kuni dars uchun ularni drama roomdan olish kerak."
+  },
+  {
+   "n": 3,
+   "quote": "each individual class, it'll be £7.75",
+   "uz": "Har bir alohida dars narxi 7.75 funt. 72 funt narxi esa butun chorak (per term) uchun to'lov narxidir."
+  },
+  {
+   "n": 4,
+   "quote": "take place on the 24th of June",
+   "uz": "Konsert 24th June kuni bo'lib o'tadi. Maktab saytida 7th July deb ko'rsatilgan bo'lsa ham, to'g'ri sana 24th June."
+  },
+  {
+   "n": 5,
+   "quote": "have an orchestra that students can play in",
+   "uz": "O'quvchilar yolg'iz yoki orchestra bilan birga chalishlari mumkin. O'tgan yili band bo'lgan edi, lekin bu yil orchestra tuziladi."
+  },
+  {
+   "n": 6,
+   "quote": "D-R-I-S-C-O-L-L",
+   "uz": "Musiqa o'qituvchisining email manzilidagi familiyasi D-R-I-S-C-O-L-L deb harfma-harf aytib beriladi."
+  }
+ ]
+}

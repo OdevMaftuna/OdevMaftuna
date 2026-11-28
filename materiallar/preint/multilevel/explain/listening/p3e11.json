@@ -1,0 +1,30 @@
+{
+ "script": "Speaker 1: The station I listen to has the right balance of talk, sport, news and a great mixture of presenters, but there are far too many advertisements. In the mornings I usually listen to a short news programme and then a show about sports going on both locally and nationally, which is presented by a well-known ex-sport star. The thing I like about the station is that it has stuff for all age groups. There are a lot of good comedy shows and quizzes, but also stories about people and places in the area, and it makes itself accessible to even the youngest members of the community.\n\nSpeaker 2: It's a locally operated radio station, and it broadcasts some of the top nationally rated talk radio programmes. There are live shows 24 hours a day, and you can listen online if you prefer. I've enjoyed listening to it for many years now. I especially like one very amusing comedy programme, which is on every weekday night, and the science fantasy programme on Saturday evenings. I prefer this station to some of the other national ones, and I like the local news stories, although sometimes I'd rather it took more notice of news and other subjects from overseas, rather than just the local area or the country as a whole.\n\nSpeaker 3: I tend to listen to the radio a lot as I love the art show. That's the selling point for this station for me. The presenter is very serious about the arts and his in-depth approach helps me keep up to date with all the latest theatre, books and movies. Oh, and they don't broadcast advertisements, so you never get interruptions when you're enjoying a show. I've given up flipping through channels to avoid them now. Another thing is they don't have news every hour like so many stations. There are some really good quality radio dramas. It's an excellent way for young writers to get their work broadcast.\n\nSpeaker 4: Talk radio has grown in popularity in my area, and there's a huge demand for more and more talk show stars. My favourite station has a show called Viewpoint. It's presented by a very entertaining guy, and sure, there'll be those out there who may not agree with his opinions, but that doesn't matter, because he makes fun of everything. So even if you don't agree with him, you can sit back and enjoy the humor in his approach to local or national news events. I find I'm still one of the few younger listeners to this station, though. Most of my school friends don't really go for it.\n\nSpeaker 5: I even got a chance to go on this radio station myself. It was kind of embarrassing, but quite fun, because not everyone gets to go on a radio show and meet the presenters. All the shows are really interesting. They also play a lot of fun games and talk about popular issues. The station's known for sponsoring charity organisations in this region, so it's offering more than just entertainment. There's one programme where they're training young news readers, so they picked out about 30 kids from nearby towns and are training them to be news readers, and they get to do one short show each.",
+ "items": [
+  {
+   "n": 1,
+   "quote": "it makes itself accessible to even the youngest members of the community",
+   "uz": "So'zlovchi radiostansiya hatto jamiyatning eng yosh a'zolari (bolalar) uchun ham mos ko'rsatuvlarga ega ekanligini aytadi (B variant). Shuningdek, u reklamalar ko'pligini va komediyalar borligini eslatadi, lekin bolalar uchun mos dasturlar asosiy mos keluvchi javobdir."
+  },
+  {
+   "n": 2,
+   "quote": "I'd rather it took more notice of news and other subjects from overseas",
+   "uz": "So'zlovchi radio xorijiy/xalqaro yangiliklarga ko'proq e'tibor qaratishini xohlashini aytadi (H variant). 'Overseas' so'zi 'international issues' iborasiga mos keladi."
+  },
+  {
+   "n": 3,
+   "quote": "they don't broadcast advertisements, so you never get interruptions",
+   "uz": "So'zlovchi radioda reklamalar efirga uzatilmasligini va shuning uchun dasturlar bo'linmasligini ma'qullaydi (A variant). 'Advertisements' va 'commercials' so'zlari sinonimdir."
+  },
+  {
+   "n": 4,
+   "quote": "It's presented by a very entertaining guy... he makes fun of everything",
+   "uz": "So'zlovchi boshlovchini juda qiziqarli deb ta'riflaydi va u hamma narsadan hazil yasashini aytadi, bu C variantiga ('One of the presenters is very funny') mos keladi."
+  },
+  {
+   "n": 5,
+   "quote": "known for sponsoring charity organisations in this region, so it's offering more than just entertainment",
+   "uz": "So'zlovchi radiostansiyaning mahalliy hududdagi xayriya tashkilotlarini qo'llab-quvvatlashini va mahalliy yoshlarni o'qitishini ma'qullaydi (F variant)."
+  }
+ ]
+}

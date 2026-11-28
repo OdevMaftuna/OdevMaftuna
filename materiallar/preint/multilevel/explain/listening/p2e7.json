@@ -1,0 +1,35 @@
+{
+ "script": "Erica: This morning we're continuing to look at environmental problems to see what we can do to help. And we can make a difference if we try. We often forget that as people who go shopping, we have a lot of power. If one company does something we don't like, we can always shop somewhere else. Then there's the amount of plastic that comes with the goods we buy. Try buying things that aren't wrapped in it. And if you're offered a bag and you don't need one, just say 'no thanks'. And any plastic bags you have at home, don't throw them away. Put them away somewhere until your next shopping trip and use them then. On the subject of throwing stuff away, I try to keep things that other people might be able to use. There are always charity shops which are very happy to help you recycle your old clothes or things in the house. Knowing that someone else is getting pleasure from something you no longer need is a lovely feeling. Pollution is of course a big problem and we often feel that as individuals we have no power to make any difference. But that's not true. Find out what some of the local environmental problems are and see how you can help. Get together with friends and help to clear the rubbish from local rivers or collect litter from the streets around your home to keep the area looking tidy. Finally, let's turn to energy. Cars are here to stay for the moment and it would be difficult to ask people not to use them at all. But we should all try to avoid making unnecessary car journeys. Go by bike or public transport sometimes. Or if you work in the same area as your neighbour, try car-sharing. Take it in turns to drive to work.",
+ "items": [
+  {
+   "n": 1,
+   "quote": "as people who go shopping",
+   "uz": "\"Shopping\" so'zi bu yerda to'g'ri javob, chunki gapda xarid qilish jarayoni haqida gap ketmoqda. \"Shop\" (do'kon) so'zi bilan adashtirmaslik kerak."
+  },
+  {
+   "n": 2,
+   "quote": "any plastic bags you have at home",
+   "uz": "\"Bags\" (sumkalar/paketlar) javobi to'g'ri. Ma'ruzachi plastik paketlarni tashlab yubormaslikni va ularni qayta ishlatishni maslahat bermoqda."
+  },
+  {
+   "n": 3,
+   "quote": "charity shops",
+   "uz": "\"Charity\" (xayriya) do'konlari haqida gapirilmoqda. Bu yerda \"recycle\" (qayta ishlash) so'zi kalit so'z bo'lib, keraksiz narsalarni xayriya do'konlariga berish nazarda tutilgan."
+  },
+  {
+   "n": 4,
+   "quote": "local environmental problems",
+   "uz": "\"Environmental\" (ekologik) muammolar haqida gap ketmoqda. \"Local\" (mahalliy) so'zi bilan adashtirmaslik kerak, chunki gapda muammoning turi so'ralgan."
+  },
+  {
+   "n": 5,
+   "quote": "clear the rubbish from local rivers",
+   "uz": "\"Rivers\" (daryolar) to'g'ri javob. Gapda axlatni daryolardan tozalash va ko'chalardan chiqindilarni yig'ish haqida aytilgan."
+  },
+  {
+   "n": 6,
+   "quote": "work in the same area as your neighbour",
+   "uz": "\"Neighbour\" (qo'shni) javobi to'g'ri. Agar bir xil hududda ishlasangiz, qo'shni bilan mashinani birga haydash (car-sharing) tavsiya etilmoqda."
+  }
+ ]
+}
